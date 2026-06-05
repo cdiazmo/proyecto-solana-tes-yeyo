@@ -1,0 +1,33 @@
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+.yeyo-agents/data/*.sqlite
+.yeyo-agents/data/*.sqlite-*
+.yeyo-agents/config/local.env
+
+# Raw data directories
+01 GD AE/
+02 GD LOI/
+03 GD Fabricacion LOI TES 6/
+04 GD Fabricacon LOI TES 3/
+05 GD Fabricación Tecnica de Compra/
+06 Especificaciones Tecnicas/
+07 Presentado al Condado/
+09 Miscelanea/
+10 Informes semanales de construccion/
+11 Sal de Solana y Corrosion/
+12 As Built TES 6/
+13_Documentos de Inspección Final/
+Documentacion con sello PE 08/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated data
+.yeyo-memory/
+
+# Dependency folders
+node_modules/
+knowledge-base-rag/node_modules/

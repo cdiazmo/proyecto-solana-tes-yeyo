@@ -1,0 +1,16 @@
+[Unit]
+Description=Gestión Documental Custodian Worker
+After=network.target yeyo-agents.service
+
+[Service]
+Type=simple
+WorkingDirectory=/srv/yeyo
+EnvironmentFile=/etc/yeyo-agents.env
+ExecStart=/srv/yeyo/.venv/bin/python /srv/yeyo/.yeyo-agents/scripts/run_custodian.py
+Restart=always
+RestartSec=5
+User=yeyo
+Group=yeyo
+
+[Install]
+WantedBy=multi-user.target

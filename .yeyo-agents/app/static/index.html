@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>INGECEX Gestión Documental</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+  <header class="topbar">
+    <div>
+      <h1>INGECEX Gestión Documental</h1>
+      <p>Consulta remota sobre memoria documental local, con cola y agente custodio.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="metrics" id="metrics"></section>
+
+    <section class="panel">
+      <div class="panel-header">
+        <h2>Consulta al agente custodio</h2>
+        <button id="run-next" type="button">Ejecutar siguiente</button>
+      </div>
+      <form id="request-form" class="query-form">
+        <textarea id="prompt" rows="4"
+          placeholder="Ejemplo: busca documentación reutilizable para el pliego de condiciones de tuberías HTF"></textarea>
+        <div class="form-row">
+          <select id="kind">
+            <option value="query">Consulta con respuesta</option>
+            <option value="find_documents">Buscar documentos</option>
+          </select>
+          <button type="submit">Enviar petición</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="panel tabbed-panel">
+      <div class="tabs-header">
+        <button class="tab-button active" data-tab="tab-requests" type="button">Historial de Peticiones</button>
+        <button class="tab-button" data-tab="tab-files" type="button">Índice de Ficheros</button>
+      </div>
+
+      <!-- Tab Content: Peticiones -->
+      <div id="tab-requests" class="tab-content">
+        <div class="panel-header" style="margin-bottom: 12px;">
+          <h3>Consultas Recientes</h3>
+          <div class="panel-actions">
+            <button id="refresh" type="button" class="btn-sm">Actualizar</button>
+            <button id="clear-requests" type="button" class="btn-danger btn-sm">Limpiar historial</button>
+          </div>
+        </div>
+        <div id="requests" class="requests"></div>
+      </div>
+
+      <!-- Tab Content: Índice de Ficheros -->
+      <div id="tab-files" class="tab-content hidden">
+        <div class="panel-header" style="margin-bottom: 12px;">
+          <h3>Catálogo Documental</h3>
+          <div class="filter-row">
+            <input id="file-query" type="search" placeholder="Filtrar por nombre, código o ruta..." style="padding: 6px 12px; font-size: 13px;">
+            <button id="btn-file-prev" type="button" class="btn-sm">&lt; Ant</button>
+            <span id="file-page-info" style="font-size: 13px; font-weight: 500; white-space: nowrap;">Pág 1</span>
+            <button id="btn-file-next" type="button" class="btn-sm">Sig &gt;</button>
+          </div>
+        </div>
+        <div class="table-responsive">
+          <table class="files-table">
+            <thead>
+              <tr>
+                <th>Código / Título</th>
+                <th>Ruta</th>
+                <th>Ext</th>
+                <th>Tamaño</th>
+                <th>Estado</th>
+                <th>Acciones</th>
+              </tr>
+            </thead>
+            <tbody id="files-list">
+              <!-- Cargado dinámicamente -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Búsqueda rápida local</h2>
+      <form id="search-form" class="query-form">
+        <input id="search" type="search" placeholder="Buscar por texto, código, título o ruta">
+        <div class="form-row">
+          <select id="search-type">
+            <option value="chunks">Fragmentos</option>
+            <option value="documents">Documentos</option>
+          </select>
+          <button type="submit">Buscar</button>
+          <button id="clear-search" type="button" class="btn-secondary">Limpiar resultados</button>
+        </div>
+      </form>
+      <div id="search-results" class="results"></div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+
+</html>

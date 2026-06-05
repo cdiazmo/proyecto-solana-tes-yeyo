@@ -1,0 +1,16 @@
+[Unit]
+Description= Gestión Documental API
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/srv/yeyo
+EnvironmentFile=/etc/yeyo-agents.env
+ExecStart=/srv/yeyo/.venv/bin/uvicorn app.main:app --app-dir /srv/yeyo/.yeyo-agents --host 127.0.0.1 --port 8080
+Restart=always
+RestartSec=5
+User=yeyo
+Group=yeyo
+
+[Install]
+WantedBy=multi-user.target

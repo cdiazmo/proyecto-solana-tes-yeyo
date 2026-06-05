@@ -1,0 +1,33 @@
+{
+  "name": "knowledge-base-rag",
+  "version": "1.0.0",
+  "description": "RAG skill para OpenClaw/Moltbot: responde preguntas sobre documentos internos usando Gemini + Qdrant",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "server": "tsx src/server.ts",
+    "server:prod": "node dist/server.js",
+    "ingest": "tsx src/cli/ingest.ts",
+    "ask": "tsx src/cli/ask.ts",
+    "qdrant": "docker compose up -d"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.2.0",
+    "@google/genai": "^0.15.0",
+    "@qdrant/js-client-rest": "^1.9.0",
+    "dotenv": "^16.4.5",
+    "fastify": "^5.8.5",
+    "mammoth": "^1.7.0",
+    "pdf-parse-fork": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.15.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=22.19.0"
+  }
+}
