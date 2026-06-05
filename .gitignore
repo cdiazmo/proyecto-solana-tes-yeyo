@@ -26,7 +26,8 @@ Documentacion con sello PE 08/
 Thumbs.db
 
 # Generated data
-.yeyo-memory/
+.yeyo-memory/*
+!.yeyo-memory/tools/
 
 # Dependency folders
 node_modules/
