@@ -1,0 +1,107 @@
+{
+  "id": "fdfb8a2f89b37421",
+  "path": "01 GD AE/C&S/CAL/4521-CAL-AEE-75-52-0001-GAR_Rev00_exchangers_foundation.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 4889799,
+  "size_human": "4.7 MB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-CAL-AEE-75-52-0001-GAR Rev00 exchangers foundation",
+  "doc_code": "4521-CAL-AEE-75-52-0001",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 73,
+  "token_estimate": 18,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/fdfb8a2f89b37421.json",
+  "extracted_path": ".yeyo-memory/extracted/fdfb8a2f89b37421.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-CAL-AGE-75-52-0001_Rev0-GAR.doc",
+      "4521-CAL-AGE-75-52-0001_Rev0-GAR.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 5666733,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::14",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 14,
+        "doc_code": "4521-CAL -AEE-75-52-0001-GAR",
+        "title": "Heat exchanger Foundation IFC",
+        "revision": "1",
+        "status": "",
+        "date": "2017-01-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::14",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 14,
+        "doc_code": "4521-CAL -AEE-75-52-0001-GAR",
+        "title": "Heat exchanger Foundation IFC",
+        "revision": "1",
+        "status": "",
+        "date": "2017-01-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::8",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 8,
+        "doc_code": "4521-CAL -AEE-75-52-0001-GAR",
+        "title": "Exchangers_foundation",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::12",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 12,
+        "doc_code": "4521-CAL-AEE-75-52-0001-GAR-Rev00-exchangers-foundation",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::12",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 12,
+        "doc_code": "4521-CAL-AEE-75-52-0001-GAR-Rev00-exchangers-foundation",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::12",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 12,
+        "doc_code": "4521-CAL-AEE-75-52-0001-GAR-Rev00-exchangers-foundation",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:07.046312+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "a585b57d8524b1ba",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/4521-PLN-LOI-039-063-0003-GAR_R03.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 92193,
+  "size_human": "90 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-LOI-039-063-0003-GAR R03",
+  "doc_code": "4521-PLN-LOI-039-063-0003",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1286,
+  "token_estimate": 321,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/a585b57d8524b1ba.json",
+  "extracted_path": ".yeyo-memory/extracted/a585b57d8524b1ba.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "bound",
+      "CreationDate": "D:20200319072101-07'00'",
+      "Creator": "AutoCAD Plant 3D 2020 - English 2020 (23.1s (LMS Tech))",
+      "ModDate": "D:20200319072119-07'00'",
+      "Producer": "Acrobat Distiller 20.0 (Windows)",
+      "Title": "Ledger"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.053363+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::433",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 433,
+        "doc_code": "4521-PLN-LOI-039-063-0003-GAR-R03.pdf",
+        "title": "",
+        "revision": "3",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:00.053369+00:00"
+}

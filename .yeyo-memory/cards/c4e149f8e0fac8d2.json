@@ -1,0 +1,35 @@
+{
+  "id": "c4e149f8e0fac8d2",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Z2015051 Approval Documents.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 3528373,
+  "size_human": "3.4 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "Z2015051 Approval Documents",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/c4e149f8e0fac8d2.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 39,
+    "pdf_metadata": {
+      "CreationDate": "D:20150708100418-06'00'",
+      "Creator": "RICOH MP C6502",
+      "ModDate": "D:20180313170801-07'00'",
+      "Producer": "RICOH MP C6502"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.979001+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.000759+00:00"
+}

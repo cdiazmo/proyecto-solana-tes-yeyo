@@ -1,0 +1,31 @@
+{
+  "id": "8be9698ecb4e14e1",
+  "path": "03 GD Fabricacion LOI TES 6/Documentacion de procesos/4521-CAL-LOI-039-062-0002-GAR Rev02 Process Flow Conditions  Heat & Mass Balance.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 263602,
+  "size_human": "257 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-CAL-LOI-039-062-0002-GAR Rev02 Process Flow Conditions Heat & Mass Balance",
+  "doc_code": "4521-CAL-LOI-039-062-0002",
+  "revision": "Rev02",
+  "status": "ok",
+  "text_chars": 14257,
+  "token_estimate": 3564,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/8be9698ecb4e14e1.json",
+  "extracted_path": ".yeyo-memory/extracted/8be9698ecb4e14e1.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "Author": "DavidVeiga",
+      "CreationDate": "D:20180321113106+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20180321113837+01'00'",
+      "Producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "Title": "Microsoft Word - 4521-CAL-LOI-039-062-0002-GAR Rev02 Process Flow Conditions Heat & Mass Balance.docx"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:13:58.136532+00:00"
+}

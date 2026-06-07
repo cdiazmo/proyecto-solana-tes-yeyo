@@ -1,0 +1,93 @@
+{
+  "id": "3582032bebdf6bd0",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-00-64-0001A_R4 Engineering Specification - Pressure regulator.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 2144390,
+  "size_human": "2.0 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-00-64-0001A R4 Engineering Specification - Pressure regulator",
+  "doc_code": "4521-ESP-AGE-00-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 36701,
+  "token_estimate": 9175,
+  "chunks": 24,
+  "card_path": ".yeyo-memory/cards/3582032bebdf6bd0.json",
+  "extracted_path": ".yeyo-memory/extracted/3582032bebdf6bd0.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 26
+      },
+      {
+        "name": "Cover Sheet (2)",
+        "rows_seen": 1014,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "Cover Sheet (3)",
+        "rows_seen": 1016,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "Index",
+        "rows_seen": 51,
+        "non_empty_rows": 22
+      },
+      {
+        "name": "page 5",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 6",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 7",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 8",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 9",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 10",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 11",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 12",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 13",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 14",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:01.698126+00:00"
+}

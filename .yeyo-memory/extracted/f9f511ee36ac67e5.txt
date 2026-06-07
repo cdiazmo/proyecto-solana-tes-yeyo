@@ -1,0 +1,69 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_PLN_AEE_68_71_P271-GAR-901 | 1 | 2016-12-02 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | Thermal energy storage Un5 HTF to salt
+By review TCS data box | \\srv-cpafs2\Grupos-J36\400_ING\AE4521_Solana-HEX\08 Engineering\84 Work doc\M&P\PLN\P&ID\Draft rev01 - on progress\[4521_PLN_AEE_68_71_P271-GAR_901_Rev01 Thermal energy storage Un5 HTF to salt.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521_PLN_AEE_68_71_P271-GAR_901_Rev01 Thermal energy storage Un5 HTF to salt
+4521_PLN_AEE_68_71_P271-GAR | 0 | IFD | 4521-TMT-AEE-AEPC-0019 | 2016-12-02 00:00:00
+Input data | Used
+-
+-
+-
+Assumptions:
+-
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+Previous Rev0 is voided, since the new drawing consider a complety new concept of replacement considering the potential insallation of a jumper in the MS main stream of the HTF-MS heat exchanger. such concept change have beed requested by the client.
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521_PLN_AEE_68_71_P271-GAR | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_PLN_AEE_68_71_P271-GAR-901 | 1 | 2016-12-02 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | Thermal energy storage Un5 HTF to salt
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

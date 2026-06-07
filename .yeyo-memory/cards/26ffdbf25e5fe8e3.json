@@ -1,0 +1,76 @@
+{
+  "id": "26ffdbf25e5fe8e3",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-67-70-0022_R1 Pressure gauge(VOID).xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 256831,
+  "size_human": "251 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-67-70-0022 R1 Pressure gauge(VOID)",
+  "doc_code": "4521-ESP-AGE-67-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13473,
+  "token_estimate": 3368,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/26ffdbf25e5fe8e3.json",
+  "extracted_path": ".yeyo-memory/extracted/26ffdbf25e5fe8e3.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 66,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 68,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 81,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Instrument Specification - PG",
+        "rows_seen": 71,
+        "non_empty_rows": 47
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::175",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 175,
+        "doc_code": "4521-ESP-AGE-67-70-0021",
+        "title": "Distribuidores de aire especificaciones técnicas",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::175",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 175,
+        "doc_code": "4521-ESP-AGE-67-70-0021",
+        "title": "Distribuidores de aire especificaciones técnicas",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:25.812032+00:00"
+}

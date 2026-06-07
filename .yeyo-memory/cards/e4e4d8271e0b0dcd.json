@@ -1,0 +1,39 @@
+{
+  "id": "e4e4d8271e0b0dcd",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0001_R2.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 175917,
+  "size_human": "172 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-57-70-0001 R2",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 55696,
+  "token_estimate": 13924,
+  "chunks": 36,
+  "card_path": ".yeyo-memory/cards/e4e4d8271e0b0dcd.json",
+  "extracted_path": ".yeyo-memory/extracted/e4e4d8271e0b0dcd.txt",
+  "metadata": {
+    "pages": 37,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.02",
+      "CreationDate": "D:20110825164616-05'00'",
+      "ModDate": "D:20110825164616-05'00'",
+      "Title": "4521-ESP-AGE-57-70-0001 Inclinometer Specification",
+      "Creator": "PDFCreator Version 1.2.2",
+      "Author": "agjhr",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.927949+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.927952+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "96d421a060ad8a0c",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-IV A- Max Charging - min level @ 1020rpm.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 29074,
+  "size_human": "28 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "AnnexI-IV A- Max Charging - min level @ 1020rpm",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2026,
+  "token_estimate": 506,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/96d421a060ad8a0c.json",
+  "extracted_path": ".yeyo-memory/extracted/96d421a060ad8a0c.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "",
+      "Creator": "",
+      "Producer": "Qt 4.7.0 (C) 2010 Nokia Corporation and/or its subsidiary(-ies)",
+      "CreationDate": "D:20160805081045"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.296627+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:59.296633+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "d1a46664a0032faf",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0002-GAR_REV 1_Heat Treatment Procedure.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 417131,
+  "size_human": "407 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0002-GAR REV 1 Heat Treatment Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0002",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12114,
+  "token_estimate": 3028,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/d1a46664a0032faf.json",
+  "extracted_path": ".yeyo-memory/extracted/d1a46664a0032faf.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "CreationDate": "D:20170316132754+01'00'",
+      "ModDate": "D:20170316132815+01'00'",
+      "Author": "ivansainz",
+      "Creator": "Bluebeam Revu x64",
+      "Producer": "Bluebeam PDF Library 12.6.0"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::309",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 309,
+        "doc_code": "4521-INS-LOI-039-062-0002",
+        "title": "HEAT TREATMENT PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::309",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 309,
+        "doc_code": "4521-INS-LOI-039-062-0002",
+        "title": "HEAT TREATMENT PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:27.088311+00:00"
+}

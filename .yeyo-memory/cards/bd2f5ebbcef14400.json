@@ -1,0 +1,41 @@
+{
+  "id": "bd2f5ebbcef14400",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Lewis/Revised 2.5 VMS Curvesr.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 161377,
+  "size_human": "158 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "Revised 2.5 VMS Curvesr",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2480,
+  "token_estimate": 620,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/bd2f5ebbcef14400.json",
+  "extracted_path": ".yeyo-memory/extracted/bd2f5ebbcef14400.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20161006105320-06'00'",
+      "Creator": "Xerox WorkCentre 7845",
+      "ModDate": "D:20161006105854-05'00'",
+      "Producer": "Xerox WorkCentre 7845"
+    },
+    "encrypted": false,
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng",
+      "pages": 2,
+      "pages_with_text": 2,
+      "characters": 2480,
+      "generated_at": "2026-06-05T11:32:14.009549+00:00"
+    }
+  },
+  "processed_at": "2026-06-05T11:32:14.009901+00:00"
+}

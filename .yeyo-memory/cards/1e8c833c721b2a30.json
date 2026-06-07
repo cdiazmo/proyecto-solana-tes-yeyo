@@ -1,0 +1,30 @@
+{
+  "id": "1e8c833c721b2a30",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes para bandeja de cables TMT-18230-03/185107-SK-C100 sw2.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 252871,
+  "size_human": "247 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "185107-SK-C100 sw2",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 155,
+  "token_estimate": 38,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/1e8c833c721b2a30.json",
+  "extracted_path": ".yeyo-memory/extracted/1e8c833c721b2a30.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD Plant 3D 2019 - English 2019 (23.0s (LMS Tech))",
+      "Title": "Layout1",
+      "Producer": "pdfplot15.hdi 15.00.046.000",
+      "CreationDate": "D:20190131161028",
+      "ModDate": "D:20190131163230-06'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:22:31.436282+00:00"
+}

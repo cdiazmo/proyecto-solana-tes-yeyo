@@ -1,0 +1,58 @@
+{
+  "id": "e29c1f4e62fff09d",
+  "path": "03 GD Fabricacion LOI TES 6/Listas/4521-LIS-LOI-039-062-0001 REV.00 Document List.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 111423,
+  "size_human": "109 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-LIS-LOI-039-062-0001 REV.00 Document List",
+  "doc_code": "4521-LIS-LOI-039-062-0001",
+  "revision": "REV.00",
+  "status": "ok",
+  "text_chars": 3227,
+  "token_estimate": 806,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/e29c1f4e62fff09d.json",
+  "extracted_path": ".yeyo-memory/extracted/e29c1f4e62fff09d.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Alvaro Bilbao",
+      "CreationDate": "D:20180202132441+01'00'",
+      "ModDate": "D:20180202132441+01'00'",
+      "Producer": "Microsoft® Office Excel® 2007",
+      "Creator": "Microsoft® Office Excel® 2007"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::286",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 286,
+        "doc_code": "4521-LIS-LOI-039-062-0001",
+        "title": "DOCUMENT LIST",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-09-28 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::286",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 286,
+        "doc_code": "4521-LIS-LOI-039-062-0001",
+        "title": "DOCUMENT LIST",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-09-28 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:04.457698+00:00"
+}

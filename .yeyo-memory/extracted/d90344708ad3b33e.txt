@@ -1,0 +1,6725 @@
+[page 1]
+Sheet 1 of 39 
+ABENER TEYMA RFQ No.: 
+Job: 120006 Spec No.: 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 1 Dated: 
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be 
+included on all pages. 
+2. Revisions are identified in the body of the Specification. 
+1
+0 CLR PQJ 
+No. Chk'd App'd App'd Description 
+PQJ Issue for Purchase 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on 
+request. 
+Mar/15/2011 
+Date By 
+Issue for Bid 
+Dec/07/2011 PGV CLR 
+No. Date By Chk’d App’d 
+AG ENGINEERING 
+Dec/07/2011 
+Instructions :
+Rev. Description of Revision 
+4521-ESP-AGE-57-70-0002 
+Instrument Specification 
+Temperature element - RTD with thermowell 
+Information and know-how hereon are confidential and proprietary property of Abener and may not be used, reproduced, or revealed to others except in 
+accordance with the terms of a contract with or other written permission of Abener. 
+PGV 
+EC-98 
+ with Page Numbers 
+0 Mar/15/2011 PGV CLR PQJ Issue for Bid 
+
+[page 2]
+Sheet 2 of 39 
+ABENER TEYMA RFQ No.: 
+Job: 120006 Spec No.: 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 1 Dated: 
+1 CLR PQJ 
+0 CLR PQJ 
+No. Chk'd App'd App'd Description 
+PGV Issue for Bid 
+AG ENGINEERING 
+4521-ESP-AGE-57-70-0002 
+Instrument Specification 
+Temperature element - RTD with thermowell 
+Dec/07/2011 
+Date By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on 
+request. 
+EC-98 
+Information and know-how hereon are confidential and proprietary property of Abener and may not be used, reproduced, or revealed to others except in 
+accordance with the terms of a contract with or other written permission of Abener. 
+1. General 
+1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 
+1.2 Definitions 
+1.2.1 "Supplier" shall mean the instrument supply company chosen for the project. 
+1.2.2 "Customer" shall mean Abener Teyma. 
+1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable). 
+1.2.4 "Owner" shall mean Abengoa Solar Inc. 
+1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these specifications. 
+Any specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are considered 
+"Contract Documents". 
+1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work 
+described unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., 
+are addressed solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically 
+identified. 
+1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier. 
+2. Scope 
+2.1 Scope of this contract is supply of instruments as outlined in the following engineering specifications required for the project including all cables, 
+gasket, manifolds … etc as identified in the main specification as options or accessories. Customer plans to establish unit pricing for material to be 
+used throughout the duration of the project. Quantity of instruments needed for the contract should be identified on the main lead engineering 
+specification. Shipping schedule to be confirm with purchasing during the final commercial agreement 
+2.2 Packaging - To be defined later. 
+2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later. 
+2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify 
+Supplier of material required on an as needed basis. Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in 
+order to reduce transportation costs. 
+2.5 The following items are excluded from this subcontract: 
+" 
+" 
+" 
+2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available for 
+update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and document 
+all material within the scope of this contract. 
+Dec/07/2011 PGV Issue for Purchase 
+Mar/15/2011 
+
+[page 3]
+Sheet 3 of 39 
+ABENER TEYMA RFQ No.: 
+Job: 120006 Spec No.: 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 1 Dated: 
+1 CLR PQJ 
+0 CLR PQJ 
+No. Chk'd App'd App'd Description 
+PGV Issue for Bid 
+AG ENGINEERING 
+4521-ESP-AGE-57-70-0002 
+Instrument Specification 
+Temperature element - RTD with thermowell 
+Dec/07/2011 
+Date By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on 
+request. 
+EC-98 
+Information and know-how hereon are confidential and proprietary property of Abener and may not be used, reproduced, or revealed to others except in 
+accordance with the terms of a contract with or other written permission of Abener. 
+3. Quality 
+3.1 All material shall be supplied to meet all dimensional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc 
+standards listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense. 
+4. Reference Documents 
+See "Transmittal" 
+Specific Instructions to Vendors 
+4.1. To furnish a quote for a design, manufacture, assemble, test and deliver to destination the equipment and materials called out for in accordance 
+with the following. 
+4.2. Note to Vendor: Quotes are due by noon CST on the inquiry due date. 
+4.3. Prices quoted on this proposal shall be firm and not subject to escalation on either labor or material. Bidders are to provide best price and 
+delivery in the quote submitted by their company against this inquiry. Based on the commercial and technical information received during the 
+competitive bid process a final vendor/contractor selection shall be made. All pricing shall be considered final. 
+4.4. The due date shown on this request for quotation is important. Your failure to respond in time could result in your being eliminated from 
+consideration. If you are unable to meet the due date requirement or if you are unable to submit a quotation, notify the buyer. 
+4.5. Your quotation may be used to purchase on an "Any or All" basis. If pricing is different for either situation, provide pricing on both. 
+4.6. Technical/commercial qualifications must be clearly stated. Bidders are encouraged to propose alternate offerings which clearly demonstrate a 
+cost or performance advantage. Sales and Use tax to be shown separately. 
+4.7. Vendor shall complete and return the vendor proposal price data sheet and the vendor data requirements specification with their proposal. 
+Failure to return these completed documents may have an impact on proposal consideration. 
+4.8. Furnish electronic quotation. Any exceptions to the specifications must be clearly indicated in your quotation. Quoted price must be firm 
+through the quoted delivery. All price quotations are required to be valid for acceptance for 90 days after RFQ date. 
+4.9. Seller's terms and conditions will not be considered as a "Blanket" counter proposal. To be considered, specific and individual objections and/or 
+exceptions to the inquiry documents must be clearly stated in seller's quotation. Absence of such specific and individual objections and/or exceptions 
+shall constitute acceptance of, and intention of compliance with, all inquiry documents. 
+4.10. Technical questions regarding this request for quotation should be directed to Tim Tran at 314-275-1151 - cell 314-277-5435 or e-mail 
+timothy.tran@abener.abengoa.com. NOTE - The buyer should be included in all correspondence between the vendor and the engineer. 
+4.11. Successful bidder will be required to comply with attached vendor data distribution and vendor drawing title block information. 
+4.12. Successful vendor will be required to furnish drawings, instruction manuals, and other information as indicated on the attached "Vendor Data 
+Requirements" form. 
+4.13. The bidder should furnish drawings, descriptive bulletins, or sketches showing the item(s) quoted with bidders proposal. 
+Dec/07/2011 PGV Issue for Purchase 
+Mar/15/2011 
+
+[page 4]
+Sheet 3 of 39 
+ABENER TEYMA RFQ No.: 
+Job: 120006 Spec No.: 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 1 Dated: 
+1 CLR PQJ 
+0 CLR PQJ 
+No. Chk'd App'd App'd Description 
+PGV Issue for Bid 
+AG ENGINEERING 
+4521-ESP-AGE-57-70-0002 
+Instrument Specification 
+Temperature element - RTD with thermowell 
+Dec/07/2011 
+Date By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on 
+request. 
+EC-98 
+Information and know-how hereon are confidential and proprietary property of Abener and may not be used, reproduced, or revealed to others except in 
+accordance with the terms of a contract with or other written permission of Abener. 
+Notice: 
+o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data 
+requirements reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing 
+number of weeks after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid. 
+o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received. 
+o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later. 
+o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized. 
+o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is 
+required. Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need 
+this information with the quotation, in order for our client to have spares available during start-up and to take advantage of any economies available. 
+o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by Abener 
+Teyma personnel prior to shipment to assure compliance with specifications. 
+o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick 
+Carlton, e-mail rick.carlton@abener.abengoa.com at (314) 275-1323 for details. 
+o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in 
+physical dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or 
+maintenance cost and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate 
+and price and delivery for that alternate. The purchase will, in general, be made on a basis of adherence to the original design premise, economic 
+value, and best delivery. 
+o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as 
+meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed 
+corrections, changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must 
+request clarification. Give priority to pricing standard equipment and components. 
+o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply: 
+o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided 
+against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage. 
+o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation. 
+Dec/07/2011 PGV Issue for Purchase 
+Mar/15/2011 
+
+[page 5]
+Sheet 3 of 39 
+Revision 
+11 11
+11 11
+11 11
+11 11
+11 11
+11 11
+11 11
+11 11
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 5 of 39 
+Rev.: 1 
+Sheet Title 
+3 General notes and instructions 
+4 General notes and instructions 
+1 Cover 
+39 Solar Collectors RTD Data 
+2 General notes and instructions 
+6 Solar Collectors RTD Specification 
+7-38 Solar Collectors RTD List 
+Issue for Purchase - Change as shown in BOLD BOLD BOLD BOLD 
+Issue for Bid 
+Solana power plant Description 
+5 Index 
+4521-ESP-AGE-57-70-0002 
+ABENGOA SOLAR ABENER TEYMA 
+AG ENGINEERING 
+
+[page 6]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+ Notes Notes Notes Notes : : : : Vendor to provide complete Bill of Materials Vendor to provide complete Bill of Materials Vendor to provide complete Bill of Materials Vendor to provide complete Bill of Materials (( ((BOM BOM BOM BOM ) ) ) ) and recommended spare part model and recommended spare part model and recommended spare part model and recommended spare part model ## ##.. ..
+ Including connector to field control pane l. Including connector to field control pane l. Including connector to field control pane l. Including connector to field control pane l. 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 6 of 39 
+Document Nº: Rev.: 1 
+Model: Thermowell W011-00000182 W011-00000182 W011-00000182 W011-00000182 
+Model: RTD Assembly R060-00000064 R060-00000064 R060-00000064 R060-00000064 
+MANUFACTURER DATA 
+RTD Cable L044-25 (4-wire with shield, PFA insulation, # 22 A WG) L044-25 (4-wire with shield, PFA insulation, # 22 A WG) L044-25 (4-wire with shield, PFA insulation, # 22 A WG) L044-25 (4-wire with shield, PFA insulation, # 22 A WG) 
+Design Temperature 
+Operating Pressure 
+750 Deg. F 750 Deg. F 750 Deg. F 750 Deg. F 
+Manufacturer Thermometrics Thermometrics Thermometrics Thermometrics 
+See List 
+Design Pressure 
+4521-PLN-ANC-57-71-P101 
+Process Connection See Sketch Below See Sketch Below See Sketch Below See Sketch Below 
+RTD Specification - Solar collectors 
+GENERAL 
+Tag Number See list 
+Service Heat transfer fluid 
+P&ID 
+(2) 
+Line -
+Phase HTF Liquid 
+600 psig 600 psig 600 psig 600 psig 
+Operating Temperature 
+TEMPERATURE SENSOR 
+Type Accuracy RTD - 100 Ω platinum 44 44 wires A
+Extension NA NA NA NA 
+Single or dual Single - 4 4 4 4 wires 
+PROCESS CONDITIONS 
+Fluid 
+Overall Length 
+Enclosure Protection NEMA 4X 
+Coating AISI 316 
+Immersion length See Sketch Below See Sketch Below See Sketch Below See Sketch Below 
+Construction Type See Sketch Below See Sketch Below See Sketch Below See Sketch Below 
+Internal Connection See Sketch Below See Sketch Below See Sketch Below See Sketch Below 
+Treatments Finish None None None None None None None None 
+Type Socket well - Taper shank 
+Material Stainless steel. ASTM A 276 TP 316 
+Coating None None None None 
+Description 
+See Sketch Below See Sketch Below See Sketch Below See Sketch Below 
+ACCESSORIES Indicator Indicator Scale No NA 
+Identification tag plate 316 SS - 2" * 4" 316 SS - 2" * 4" 316 SS - 2" * 4" 316 SS - 2" * 4" 
+THERMOWELL 
+Revision 4521-ESP-AGE-57-70-0002 
+ABENGOA SOLAR ABENER TEYMA 
+AG ENGINEERING Issue for Purchase - Change as shown in BOLD BOLD BOLD BOLD 
+Issue for Bid 
+Solana power plant 
+L3 = ¼” 
+D2 = 3/8” 
+D1 = ¾” 
+D0 = ¼” NPT 
+L0 = ¼” NPT 
+L2 = 4” 
+L5 = 2” 
+L1 = per 
+vendor 
+L4 = ¼” 
+2 ½” Schedule 40 
+Welding 
+
+[page 7]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 7 of 39 
+Document Nº: Rev.: 1 
+Solana power plant Description 
+Revision 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+4521-ESP-AGE-57-70-0002 
+Issue for Bid 
+TE-102-A 
+TE-052-A 
+TE-051-A 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+TE-097-A 
+TE-098-A 
+TE-100-A 
+TE-101-A 
+TE-046-A 
+TE-047-A 
+TE-048-A 
+672.5 
+672.5 
+TE-049-A 
+TE-050-A 
+672.5 
+TE-080-A 
+TE-088-A 
+627.5 
+TE-043-A 
+TE-045-A 
+TE-035-A 
+627.5 
+672.5 
+627.5 
+TE-099-A 
+TE-044-A 
+TE-040-A 
+TE-031-A 
+TE-032-A 
+TE-033-A 
+627.5 
+672.5 
+TE-036-A 
+672.5 
+627.5 
+672.5 
+TE-034-A 
+TE-077-A 627.5 
+TE-078-A 
+TE-079-A 
+672.5 
+627.5 
+TE-086-A 
+TE-087-A 
+TE-019-A 
+TE-020-A 
+TE-025-A 
+TE-026-A 
+TE-027-A 
+TE-022-A 
+TE-024-A 
+TE-028-A 
+TE-029-A 
+TE-030-A 
+672.5 
+627.5 
+672.5 
+672.5 
+TE-013-A 627.5 
+TE-017-A 
+TE-018-A 
+TE-021-A 
+TE-023-A 
+672.5 
+627.5 
+627.5 
+TE-072-A 
+TE-069-A 
+TE-070-A 
+672.5 
+627.5 
+672.5 TE-064-A 
+672.5 
+TE-015-A 
+TE-068-A 
+672.5 
+627.5 
+672.5 
+627.5 
+TE-010-A 
+TE-011-A 
+TE-062-A 
+TE-063-A 
+TE-012-A 
+TE-014-A 
+TE-073-A 
+TE-016-A 
+TE-057-A 
+TE-058-A 
+TE-059-A 
+TE-060-A 
+TE-066-A 
+TE-071-A 
+TE-076-A 
+672.5 
+627.5 
+TE-075-A 
+TE-065-A 
+672.5 
+TE-074-A 
+TE-067-A 
+672.5 
+627.5 
+Solar collectors RTD list 
+627.5 
+672.5 
+627.5 
+672.5 
+TE-054-A TE-002-A 
+TE-003-A 
+TE-004-A 
+TE-005-A 
+TE-053-A 
+Tag number 
+TE-006-A 
+TE-007-A 
+TE-008-A 
+TE-009-A 627.5 TE-061-A 
+TE-055-A 
+TE-056-A 
+TE-089-A 
+TE-090-A 
+TE-041-A 
+TE-037-A 
+TE-038-A 
+Operating temperature 
+ºF 
+Operating temperature 
+ºF 
+627.5 TE-001-A 
+Tag number 
+627.5 
+672.5 TE-104-A 
+TE-039-A 
+TE-042-A 
+672.5 TE-092-A 
+TE-091-A 
+627.5 
+TE-103-A 
+Zone 1011 West 
+TE-093-A 
+TE-094-A 
+TE-095-A 
+TE-096-A 
+TE-081-A 
+TE-082-A 
+TE-083-A 
+TE-085-A 
+TE-084-A 
+
+[page 8]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 8 of 39 
+Document Nº: Rev.: 1 Revision 
+TE-091-B 
+717.5 TE-092-B 
+TE-032-B 
+TE-089-B 
+ABENGOA SOLAR 
+TE-086-B 
+582.5 
+717.5 TE-090-B 
+582.5 
+TE-084-B 
+TE-039-B 
+TE-030-B 
+TE-031-B 
+TE-087-B 
+582.5 
+TE-024-B 717.5 
+582.5 
+TE-026-B 
+TE-076-B 
+582.5 
+TE-077-B 
+TE-078-B 
+TE-021-B 
+TE-022-B 
+TE-023-B 
+582.5 TE-073-B 
+TE-075-B 
+TE-074-B 
+TE-004-B 
+TE-005-B 582.5 
+TE-011-B 
+TE-058-B 
+TE-009-B 
+TE-063-B 
+TE-056-B 
+TE-057-B 
+717.5 
+TE-019-B 
+TE-037-B 
+TE-081-B 
+717.5 
+717.5 
+TE-010-B 
+TE-067-B 
+582.5 
+TE-068-B 
+TE-025-B 
+TE-066-B 
+TE-072-B 
+TE-083-B 
+582.5 
+TE-071-B 
+TE-079-B 
+717.5 
+582.5 
+TE-070-B 
+TE-015-B 
+TE-016-B 
+TE-017-B 582.5 
+TE-018-B 
+717.5 
+TE-020-B 
+TE-094-B 
+582.5 
+TE-069-B 
+TE-033-B 
+TE-034-B 
+TE-035-B 
+582.5 TE-085-B 
+TE-059-B 
+582.5 TE-061-B 
+717.5 
+TE-065-B 
+TE-062-B 
+582.5 
+582.5 
+TE-049-B 
+TE-043-B 
+TE-048-B 
+717.5 
+TE-099-B 
+717.5 
+TE-042-B 
+TE-095-B 
+TE-097-B 
+582.5 
+582.5 TE-103-B 
+TE-036-B TE-088-B 
+TE-012-B 
+TE-013-B 
+TE-014-B 
+717.5 TE-064-B 
+TE-093-B 
+717.5 
+TE-027-B 
+TE-028-B 
+TE-029-B 
+TE-080-B 
+717.5 TE-082-B 
+582.5 
+Tag number 
+582.5 TE-053-B 
+TE-060-B 
+TE-001-B 
+TE-002-B 
+TE-003-B 
+717.5 TE-054-B 
+582.5 TE-055-B 
+717.5 
+TE-044-B 
+TE-006-B 
+TE-007-B 
+717.5 TE-008-B 
+4521-ESP-AGE-57-70-0002 
+Operating temperature 
+ºF 
+ Solar Collectors RTD List 
+Zone 1011 West 
+Solana power plant 
+TE-096-B 
+717.5 
+582.5 
+582.5 
+717.5 
+582.5 
+717.5 
+717.5 
+582.5 
+TE-102-B 
+TE-046-B 717.5 
+717.5 
+717.5 
+717.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+TE-040-B 
+TE-041-B 
+TE-052-B 
+ABENER-TEYMA 
+AG ENGINEERING 
+TE-047-B 
+TE-045-B 
+TE-098-B 
+582.5 TE-101-B 
+TE-050-B 
+TE-051-B 
+Tag number Operating temperature 
+ºF 
+TE-038-B 
+TE-100-B 
+Description 
+717.5 TE-104-B 
+
+[page 9]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 9 of 39 
+Document Nº: Rev.: 1 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+4521-ESP-AGE-57-70-0002 
+Solana power plant Description 
+Revision 
+TE-033-C 
+TE-070-C 
+582.5 TE-071-C 
+717.5 TE-072-C 
+582.5 TE-073-C 
+717.5 TE-074-C 
+TE-040-C 
+TE-097-C 
+717.5 TE-098-C 
+TE-041-C 
+TE-069-C 
+TE-011-C 
+TE-104-C 
+582.5 
+TE-066-C 
+TE-051-C 
+717.5 TE-052-C 
+582.5 
+TE-103-C 
+TE-060-C 
+TE-061-C 
+TE-062-C 
+582.5 TE-065-C 
+717.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-039-C 
+TE-046-C 
+TE-044-C 
+TE-101-C TE-049-C 
+TE-038-C 
+TE-102-C 
+TE-094-C 
+TE-091-C 
+582.5 
+TE-045-C 
+TE-047-C 
+TE-083-C 
+TE-050-C 
+TE-043-C 
+TE-093-C 
+TE-042-C 
+TE-008-C 
+Tag number 
+TE-099-C 
+TE-048-C 
+717.5 
+582.5 
+TE-028-C 
+717.5 
+Tag number 
+582.5 TE-053-C 
+Operating temperature 
+ºF 
+Operating temperature 
+ºF 
+TE-058-C 
+TE-018-C 
+TE-057-C 
+717.5 
+TE-059-C 
+717.5 
+717.5 TE-084-C 
+TE-055-C 
+ Solar Collectors RTD List 
+TE-003-C 
+TE-026-C 
+582.5 
+717.5 
+TE-002-C 
+TE-001-C 
+TE-006-C 
+717.5 
+717.5 
+582.5 TE-085-C 
+582.5 
+TE-034-C 
+TE-089-C 
+582.5 
+TE-079-C 
+TE-012-C 
+TE-013-C 
+TE-019-C 
+TE-037-C 
+TE-016-C 
+TE-017-C 582.5 
+TE-004-C 
+TE-005-C 
+TE-080-C 
+582.5 
+TE-036-C 
+TE-022-C 
+TE-021-C 
+TE-027-C 
+TE-031-C 
+TE-077-C 
+TE-078-C 
+717.5 
+TE-010-C 
+717.5 
+582.5 
+TE-067-C 
+717.5 
+717.5 
+582.5 
+TE-068-C 
+TE-075-C 
+TE-076-C 
+TE-030-C 
+717.5 TE-092-C 
+582.5 
+TE-082-C 
+TE-035-C 
+582.5 
+582.5 
+717.5 
+TE-054-C 
+717.5 TE-056-C 
+582.5 TE-063-C 
+582.5 
+TE-007-C 
+TE-023-C 
+TE-020-C 
+TE-029-C 
+Issue for Bid 
+582.5 
+582.5 
+TE-032-C 
+TE-009-C 
+TE-025-C 
+TE-064-C 
+582.5 
+717.5 
+TE-095-C 
+TE-024-C 
+TE-014-C 
+TE-015-C 
+717.5 
+717.5 
+TE-100-C 
+Zone 1011 West 
+717.5 TE-090-C 
+717.5 
+582.5 TE-081-C 
+TE-086-C 
+582.5 
+717.5 TE-088-C 
+TE-096-C 
+TE-087-C 
+
+[page 10]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 10 of 39 
+Document Nº: Rev.: 1 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+4521-ESP-AGE-57-70-0002 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Description Solana power plant 
+Revision 
+TE-091-D 
+TE-099-D 
+TE-089-D 
+TE-080-D 
+627.5 TE-081-D 
+TE-090-D 
+TE-082-D 
+672.5 TE-084-D 
+TE-083-D 
+672.5 
+TE-021-D 
+TE-022-D 
+TE-023-D 
+TE-026-D 
+TE-037-D 
+TE-038-D 
+TE-047-D 
+TE-048-D 
+TE-030-D 
+627.5 TE-063-D 
+672.5 TE-064-D 
+672.5 TE-072-D 
+TE-073-D 
+672.5 
+TE-062-D 
+TE-068-D 
+627.5 TE-069-D 
+TE-066-D 
+627.5 TE-077-D 
+TE-085-D 
+TE-088-D 
+TE-087-D 
+672.5 
+627.5 
+672.5 
+TE-019-D 
+TE-065-D 
+672.5 
+TE-016-D 
+TE-017-D 
+TE-001-D 
+TE-002-D 
+TE-056-D 
+TE-057-D 
+627.5 
+672.5 
+627.5 
+627.5 
+Tag number 
+ Solar Collectors RTD List 
+Operating temperature 
+ºF 
+TE-054-D 
+Operating temperature 
+ºF 
+TE-013-D 
+TE-005-D 
+TE-004-D 
+TE-003-D 
+TE-008-D 
+TE-009-D TE-061-D 
+TE-058-D 
+627.5 TE-059-D 
+672.5 TE-060-D 
+TE-007-D 
+TE-006-D 
+TE-055-D 
+TE-053-D 
+Tag number 
+627.5 
+627.5 
+627.5 
+672.5 
+672.5 
+627.5 TE-067-D 
+672.5 
+672.5 
+TE-086-D 
+TE-012-D 
+TE-010-D 
+672.5 TE-074-D 
+TE-071-D 
+TE-024-D 
+TE-075-D 
+627.5 
+TE-011-D 
+TE-036-D 
+672.5 TE-034-D 
+TE-031-D 
+TE-032-D 
+627.5 
+672.5 
+TE-033-D 
+627.5 
+TE-014-D 
+TE-018-D 
+672.5 
+TE-028-D 
+TE-015-D 
+TE-078-D 
+TE-070-D 
+627.5 
+TE-025-D 
+TE-076-D 
+TE-029-D 
+TE-020-D 
+TE-027-D 627.5 TE-079-D 
+TE-052-D 
+TE-049-D 
+TE-050-D 
+TE-051-D 
+TE-035-D 
+627.5 
+627.5 
+TE-039-D 627.5 
+627.5 
+672.5 
+672.5 
+TE-040-D 
+TE-041-D 
+TE-042-D 
+TE-102-D 
+672.5 
+TE-043-D 
+TE-044-D 
+TE-045-D 
+TE-046-D 
+TE-101-D 
+627.5 TE-097-D 
+672.5 
+TE-100-D 
+TE-095-D 
+672.5 TE-104-D 
+672.5 TE-098-D 
+TE-094-D 
+672.5 TE-092-D 
+627.5 TE-093-D 
+672.5 TE-096-D 
+627.5 
+Zone 1011 West 
+627.5 TE-103-D 
+
+[page 11]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 11 of 39 
+Document Nº: Rev.: 1 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Description 
+Revision 
+TE-050-E 
+TE-040-E 
+672.5 
+672.5 
+TE-044-E 
+TE-045-E 
+TE-043-E 
+672.5 
+TE-052-E 
+TE-091-E 
+TE-092-E 
+TE-101-E 627.5 
+ABENGOA SOLAR 
+672.5 
+TE-098-E 
+672.5 
+672.5 
+TE-090-E 
+TE-100-E 
+TE-095-E 
+TE-096-E 
+TE-087-E 
+672.5 
+TE-088-E 
+627.5 
+627.5 
+627.5 
+TE-086-E 
+627.5 
+TE-099-E 
+TE-094-E 
+627.5 
+TE-097-E 
+TE-104-E 
+Zone 1021 West 
+627.5 
+TE-037-E 
+TE-029-E 
+TE-035-E 
+TE-036-E 
+TE-030-E 
+672.5 
+627.5 
+672.5 
+672.5 
+TE-068-E 
+672.5 
+TE-067-E 
+TE-034-E 
+TE-038-E 
+672.5 
+TE-084-E 
+TE-082-E 
+627.5 
+TE-103-E 
+TE-041-E 
+TE-011-E 
+672.5 
+TE-025-E 
+TE-026-E 
+672.5 
+TE-066-E 
+TE-046-E 
+TE-093-E 
+TE-078-E 
+TE-051-E 627.5 
+TE-039-E 
+TE-102-E 
+TE-085-E 
+TE-027-E 627.5 
+627.5 
+TE-081-E 
+672.5 
+TE-012-E 
+627.5 TE-057-E 
+TE-023-E 
+TE-070-E 
+672.5 
+TE-073-E 
+TE-071-E 
+672.5 
+672.5 
+672.5 
+TE-009-E 627.5 
+672.5 
+TE-074-E 
+627.5 TE-075-E 
+TE-008-E 
+TE-058-E 
+TE-031-E 
+TE-021-E 
+TE-069-E 
+672.5 
+627.5 
+TE-007-E 
+TE-022-E 
+627.5 
+TE-047-E 
+TE-048-E 
+TE-017-E 
+627.5 
+TE-016-E 
+TE-019-E 
+TE-020-E 
+627.5 
+627.5 
+TE-042-E 
+672.5 
+627.5 TE-083-E 
+TE-005-E 
+TE-006-E 
+TE-015-E 627.5 
+TE-004-E 
+ Solar Collectors RTD List 
+TE-056-E 
+TE-054-E TE-002-E 
+TE-003-E 
+Tag number 
+TE-053-E 627.5 
+627.5 TE-055-E 
+672.5 
+TE-060-E 
+Operating temperature 
+ºF Tag number Operating temperature 
+ºF 
+TE-001-E 
+TE-061-E 
+TE-062-E 
+TE-024-E 
+TE-018-E 
+627.5 
+627.5 
+672.5 TE-076-E 
+TE-072-E 
+TE-065-E 
+672.5 
+TE-013-E 
+TE-080-E 
+TE-077-E 
+TE-049-E 
+TE-079-E 
+TE-028-E 
+TE-089-E 
+TE-014-E 
+TE-059-E 
+TE-063-E 
+672.5 TE-064-E 
+TE-010-E 
+TE-032-E 
+TE-033-E 
+
+[page 12]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 12 of 39 
+Document Nº: Rev.: 1 Revision 
+Solana power plant 
+582.5 
+717.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-102-F 
+TE-093-F 
+TE-042-F 
+TE-041-F 
+TE-099-F 
+TE-049-F 
+Description 
+4521-ESP-AGE-57-70-0002 
+Issue for Bid 
+717.5 
+TE-051-F TE-103-F 
+TE-050-F 
+ABENGOA SOLAR 
+TE-101-F 
+ABENER-TEYMA 
+AG ENGINEERING 
+TE-040-F 
+TE-046-F 
+TE-047-F 
+717.5 
+582.5 
+582.5 
+TE-002-F 
+Tag number 
+582.5 
+TE-065-F 
+TE-087-F 
+717.5 
+TE-035-F 
+TE-037-F 
+TE-038-F 
+717.5 
+TE-022-F 
+TE-092-F 
+TE-034-F 717.5 
+582.5 
+Operating temperature 
+ºF 
+582.5 
+TE-013-F 
+582.5 
+TE-007-F 
+TE-061-F 
+TE-071-F 
+TE-060-F 
+717.5 
+TE-063-F 
+582.5 
+TE-059-F 
+TE-064-F 
+582.5 
+717.5 
+717.5 
+717.5 
+TE-001-F 
+Tag number 
+TE-058-F 
+TE-056-F 
+TE-104-F 
+Zone 1021 West 
+TE-036-F 
+TE-039-F 
+TE-081-F 
+717.5 
+TE-100-F 
+717.5 TE-094-F 
+717.5 
+582.5 
+TE-031-F 
+TE-028-F 
+TE-029-F 
+TE-030-F 
+TE-021-F 
+582.5 
+TE-023-F 
+582.5 
+717.5 
+TE-057-F 
+TE-053-F 
+TE-055-F 
+ Solar Collectors RTD List 
+TE-006-F 
+582.5 
+TE-005-F 
+TE-026-F 
+TE-024-F 
+582.5 
+TE-074-F 
+582.5 TE-075-F 
+TE-012-F 
+TE-070-F TE-018-F 
+Operating temperature 
+ºF 
+TE-019-F 
+TE-069-F 
+TE-016-F 
+TE-003-F 
+TE-009-F 
+TE-008-F 
+582.5 
+TE-014-F 
+717.5 
+582.5 
+582.5 
+TE-068-F 
+TE-067-F 
+TE-017-F 
+TE-066-F 
+TE-027-F 582.5 TE-079-F 
+TE-025-F 
+TE-073-F 
+717.5 
+TE-015-F 
+582.5 
+717.5 
+TE-062-F 
+TE-004-F 
+TE-054-F 
+717.5 
+TE-076-F 
+717.5 
+TE-033-F 582.5 TE-085-F 
+TE-010-F 
+TE-011-F 
+TE-077-F 
+717.5 
+TE-032-F 
+TE-072-F 
+582.5 TE-095-F TE-043-F 
+TE-097-F 
+TE-020-F 
+717.5 TE-088-F 
+582.5 
+717.5 
+TE-044-F 
+TE-045-F 
+717.5 TE-096-F 
+582.5 
+TE-098-F 
+582.5 
+582.5 TE-089-F 
+717.5 TE-090-F 
+TE-091-F 
+TE-048-F 
+TE-052-F 
+TE-083-F 
+717.5 
+TE-080-F 
+TE-084-F 
+TE-082-F 717.5 
+TE-086-F 
+TE-078-F 
+
+[page 13]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 13 of 39 
+Document Nº: Rev.: 1 
+TE-034-G 
+TE-035-G 
+TE-036-G 
+717.5 
+TE-039-G 582.5 
+TE-038-G 
+582.5 
+TE-037-G 
+717.5 
+717.5 
+TE-091-G 
+TE-040-G 
+717.5 
+TE-042-G 
+717.5 
+582.5 
+582.5 
+TE-044-G 
+TE-045-G 582.5 
+582.5 
+TE-046-G 
+TE-047-G 
+TE-048-G 
+717.5 
+582.5 TE-049-G 
+582.5 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+TE-052-G 
+Description 
+Revision 
+TE-092-G 
+TE-043-G 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+717.5 
+ABENGOA SOLAR 
+TE-051-G 582.5 
+Zone 1021 West 
+4521-ESP-AGE-57-70-0002 
+TE-050-G 
+582.5 TE-033-G 
+TE-087-G 
+717.5 
+717.5 
+582.5 TE-081-G 
+TE-079-G 
+717.5 
+TE-025-G 
+TE-030-G 
+TE-027-G 
+TE-080-G 
+TE-002-G 
+717.5 
+TE-011-G 
+TE-068-G 
+582.5 
+TE-010-G 
+TE-069-G TE-017-G 
+TE-073-G 
+TE-022-G 
+TE-003-G 
+TE-062-G 
+TE-019-G 
+TE-020-G 
+TE-005-G 
+TE-012-G 
+582.5 TE-063-G 
+TE-064-G 
+717.5 
+Tag number 
+717.5 
+717.5 
+TE-026-G 
+TE-024-G 
+582.5 
+TE-016-G 
+TE-018-G 
+717.5 
+TE-021-G 582.5 
+TE-032-G 
+717.5 TE-028-G 
+TE-029-G 
+TE-031-G 
+TE-013-G 
+TE-014-G 
+582.5 
+717.5 
+717.5 
+TE-015-G 
+TE-023-G 
+TE-084-G 
+582.5 TE-083-G 
+TE-077-G 
+717.5 TE-078-G 
+582.5 
+TE-076-G 
+582.5 
+TE-008-G 
+TE-058-G 
+TE-061-G 
+TE-006-G 
+717.5 TE-056-G 
+TE-009-G 582.5 
+TE-007-G 
+TE-060-G 
+582.5 
+Operating temperature 
+ºF 
+TE-004-G 
+717.5 
+TE-053-G TE-001-G 
+Operating temperature 
+ºF 
+TE-059-G 
+TE-054-G 
+582.5 TE-055-G 
+717.5 
+ Solar Collectors RTD List 
+582.5 
+TE-067-G 
+582.5 
+717.5 
+TE-071-G 
+717.5 TE-072-G 
+TE-066-G 
+TE-057-G 
+TE-070-G 
+582.5 
+582.5 
+TE-065-G 
+Tag number 
+TE-089-G 
+717.5 
+TE-090-G 
+TE-074-G 
+TE-086-G 
+TE-075-G 
+TE-085-G 
+TE-082-G 
+TE-088-G 
+TE-041-G 
+Issue for Bid 
+717.5 
+
+[page 14]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 14 of 39 
+Document Nº: Rev.: 1 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+TE-049-H 
+672.5 
+627.5 
+Issue for Bid 
+TE-052-H 
+672.5 
+TE-047-H 
+TE-048-H 
+672.5 
+672.5 
+627.5 
+TE-046-H 
+TE-038-H 
+TE-039-H 627.5 
+672.5 
+TE-044-H 
+TE-092-H 
+627.5 
+TE-045-H 627.5 
+672.5 
+672.5 
+627.5 
+TE-042-H 
+TE-029-H 
+TE-030-H 
+TE-080-H 
+627.5 
+TE-043-H 
+TE-040-H 
+TE-091-H 
+TE-041-H 
+TE-035-H 
+TE-036-H 
+672.5 TE-086-H 
+627.5 TE-087-H 
+TE-018-H 
+672.5 
+TE-019-H 
+TE-031-H 
+TE-032-H 
+TE-033-H 
+TE-020-H 
+TE-021-H 627.5 
+672.5 
+627.5 
+627.5 TE-083-H 
+TE-073-H 
+TE-072-H 
+672.5 
+TE-082-H 
+627.5 TE-079-H 
+TE-081-H 
+TE-076-H 
+627.5 
+627.5 TE-069-H 
+TE-070-H 
+TE-075-H 
+627.5 TE-071-H 
+TE-074-H 
+672.5 
+TE-028-H 
+TE-022-H 
+TE-023-H 
+TE-024-H 
+672.5 
+TE-026-H 
+TE-027-H 
+672.5 
+627.5 
+TE-025-H 
+TE-012-H 
+672.5 TE-062-H 
+TE-017-H 
+TE-013-H 
+TE-014-H 
+TE-015-H 627.5 
+TE-068-H 
+TE-061-H 
+672.5 TE-058-H 
+TE-053-H 
+672.5 
+TE-066-H 
+TE-007-H 627.5 TE-059-H 
+TE-055-H 
+627.5 
+TE-067-H 
+TE-003-H 
+TE-006-H 
+TE-010-H 
+TE-011-H 
+Operating temperature 
+ºF Tag number 
+TE-009-H 
+Operating temperature 
+ºF 
+TE-001-H 
+TE-002-H 
+TE-056-H 
+ Solar Collectors RTD List 
+TE-005-H 
+TE-054-H 
+TE-085-H 
+627.5 
+627.5 
+627.5 
+672.5 
+672.5 
+TE-057-H 
+TE-051-H 
+TE-088-H 
+627.5 
+TE-008-H 
+TE-016-H 
+627.5 
+Tag number 
+TE-004-H 672.5 
+Zone 1021 West 
+Description 
+Revision 
+TE-084-H 
+TE-089-H 
+672.5 TE-090-H 
+672.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-037-H 
+627.5 
+TE-050-H 
+TE-077-H 
+TE-078-H 
+672.5 
+TE-034-H 
+672.5 TE-060-H 
+627.5 
+TE-065-H 
+672.5 
+TE-063-H 
+672.5 TE-064-H 
+
+[page 15]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 15 of 39 
+Document Nº: Rev.: 1 
+627.5 
+TE-046-I 
+TE-047-I 
+TE-048-I 
+TE-089-I 
+672.5 TE-090-I 
+627.5 TE-091-I 
+TE-041-I 
+TE-039-I 
+TE-037-I 
+TE-038-I 
+Issue for Bid 
+TE-088-I 
+TE-040-I 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+672.5 TE-092-I 
+627.5 
+TE-044-I 
+TE-045-I 627.5 
+627.5 
+TE-043-I 
+TE-049-I 
+TE-050-I 
+TE-051-I 627.5 
+672.5 
+672.5 
+ABENGOA SOLAR 
+TE-052-I 
+672.5 
+TE-080-I 
+627.5 TE-081-I 
+TE-032-I 
+TE-033-I 627.5 TE-085-I 
+672.5 TE-084-I 
+TE-042-I 672.5 
+TE-035-I 
+TE-036-I 672.5 
+627.5 
+TE-063-I 
+TE-025-I 
+TE-026-I 
+TE-086-I 
+TE-028-I 
+TE-029-I 
+TE-030-I 
+672.5 
+TE-034-I 672.5 
+TE-071-I 
+672.5 TE-068-I 
+627.5 TE-069-I 
+672.5 TE-082-I 
+TE-087-I 
+627.5 
+TE-075-I 
+TE-074-I 
+TE-016-I 
+TE-017-I 
+TE-018-I 
+672.5 
+TE-021-I 627.5 TE-073-I 
+627.5 
+TE-031-I 
+TE-072-I 
+TE-027-I 627.5 TE-079-I 
+TE-076-I 
+672.5 TE-078-I 
+672.5 
+627.5 
+627.5 TE-011-I 
+TE-012-I 
+672.5 
+TE-015-I 
+TE-019-I 
+TE-020-I 
+TE-013-I 
+TE-014-I 
+627.5 
+TE-057-I 
+TE-058-I 
+TE-059-I 
+TE-010-I 672.5 
+TE-007-I 627.5 
+TE-062-I 
+TE-008-I 
+TE-009-I 
+4521-ESP-AGE-57-70-0002 
+TE-064-I 
+627.5 TE-077-I 
+TE-022-I 
+TE-023-I 
+TE-024-I 
+Revision 
+627.5 
+627.5 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant Description 
+TE-061-I 
+672.5 
+672.5 TE-070-I 
+TE-067-I 
+Operating temperature 
+ºF 
+Operating temperature 
+ºF Tag number 
+627.5 TE-055-I 
+672.5 
+TE-001-I 
+672.5 TE-054-I 
+627.5 
+TE-056-I TE-004-I 
+672.5 
+Tag number 
+TE-005-I 
+TE-006-I 
+627.5 
+TE-002-I 
+TE-003-I 
+TE-066-I 
+627.5 TE-065-I 
+ Solar Collectors RTD List 
+TE-053-I 
+672.5 
+TE-060-I 672.5 
+627.5 TE-083-I 
+672.5 
+672.5 
+Zone 1031 West 
+
+[page 16]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 16 of 39 
+Document Nº: Rev.: 1 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+Description 
+Revision 
+Issue for Bid 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+582.5 
+717.5 
+717.5 
+582.5 
+TE-044-J 
+TE-045-J 582.5 
+TE-048-J 
+717.5 TE-046-J 
+TE-047-J 
+ABENGOA SOLAR 
+717.5 
+TE-050-J 
+TE-051-J 582.5 
+TE-052-J 
+Zone 1031 West 
+TE-049-J 
+TE-043-J 582.5 
+TE-037-J 
+TE-034-J 
+TE-035-J 
+717.5 
+TE-040-J 
+TE-041-J 
+TE-042-J 
+TE-080-J 
+582.5 TE-081-J 
+TE-078-J 
+717.5 TE-082-J 
+TE-079-J 582.5 
+582.5 
+717.5 
+TE-028-J 
+TE-025-J 
+TE-026-J 
+TE-027-J 
+717.5 
+TE-031-J 
+TE-032-J 
+TE-033-J 582.5 
+TE-029-J 
+TE-030-J 
+TE-024-J 
+717.5 TE-066-J 
+TE-085-J 
+582.5 TE-083-J 
+717.5 TE-084-J 
+TE-091-J 
+TE-021-J 
+TE-062-J 
+582.5 TE-063-J 
+TE-022-J 
+TE-019-J 
+717.5 TE-074-J 
+717.5 
+717.5 
+TE-077-J 
+TE-013-J 
+TE-014-J 
+TE-015-J 582.5 TE-067-J 
+717.5 TE-068-J 
+582.5 TE-069-J 
+TE-016-J 
+TE-070-J 
+TE-017-J 
+TE-072-J 
+717.5 TE-076-J 
+TE-073-J 
+582.5 TE-071-J 
+717.5 
+582.5 
+582.5 TE-075-J 
+Operating temperature 
+ºF 
+TE-001-J 
+TE-002-J 
+TE-003-J 
+717.5 TE-054-J 
+582.5 TE-055-J 
+Tag number 
+582.5 
+TE-038-J 
+TE-039-J 582.5 
+TE-020-J 
+TE-010-J 
+TE-011-J 
+TE-012-J 
+582.5 
+TE-036-J 
+TE-023-J 
+TE-065-J 
+TE-005-J 
+TE-053-J 
+TE-064-J 
+Operating temperature 
+ºF 
+717.5 
+TE-006-J 
+717.5 
+717.5 
+TE-018-J 
+TE-008-J 
+TE-058-J 
+TE-007-J 
+TE-057-J 
+TE-056-J 
+582.5 
+TE-004-J 
+TE-009-J 582.5 TE-061-J 
+TE-059-J 
+717.5 TE-060-J 
+582.5 
+ Solar Collectors RTD List 
+Tag number 
+717.5 TE-090-J 
+717.5 
+717.5 TE-092-J 
+582.5 
+TE-089-J 
+717.5 TE-086-J 
+582.5 TE-087-J 
+717.5 
+582.5 
+TE-088-J 
+
+[page 17]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 17 of 39 
+Document Nº: Rev.: 1 4521-ESP-AGE-57-70-0002 Revision 
+TE-046-K 
+TE-047-K 
+TE-048-K 
+717.5 
+717.5 TE-102-K 
+TE-049-K 
+TE-098-K 
+582.5 TE-099-K 
+TE-050-K 
+TE-051-K 582.5 TE-103-K 
+TE-052-K 717.5 TE-104-K 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+Issue for Bid 
+Description 
+717.5 
+TE-043-K 
+TE-044-K 
+Zone 1031 West 
+717.5 TE-100-K 
+582.5 TE-101-K 
+TE-084-K 
+TE-045-K 582.5 
+TE-096-K 
+582.5 TE-089-K 
+TE-041-K 
+TE-042-K 
+TE-097-K 
+717.5 TE-094-K 
+582.5 TE-095-K 
+582.5 
+582.5 
+717.5 
+582.5 
+717.5 
+TE-093-K 
+TE-091-K 
+TE-028-K 
+TE-029-K 
+TE-036-K 
+717.5 
+717.5 
+TE-033-K 582.5 
+717.5 
+TE-030-K 
+TE-040-K 
+TE-086-K TE-034-K 
+TE-035-K 
+TE-032-K 
+582.5 TE-081-K 
+TE-038-K 
+TE-031-K 
+TE-088-K 
+TE-066-K 
+TE-016-K 
+TE-017-K 
+TE-018-K 
+717.5 
+TE-019-K 
+TE-068-K 
+TE-071-K 
+TE-067-K 
+717.5 
+TE-090-K 
+717.5 TE-080-K 
+TE-082-K 
+717.5 TE-072-K 
+TE-087-K 
+TE-085-K 
+TE-074-K 
+582.5 TE-075-K 
+TE-021-K 582.5 TE-073-K 
+TE-022-K 
+TE-023-K 
+TE-025-K 
+TE-010-K 
+TE-011-K 
+TE-012-K 
+717.5 
+717.5 
+582.5 
+TE-024-K 
+717.5 
+TE-020-K 
+717.5 
+TE-026-K 
+TE-027-K 582.5 TE-079-K 
+582.5 
+TE-037-K 
+TE-092-K 
+TE-039-K 
+TE-058-K 
+582.5 TE-059-K 
+TE-005-K 
+TE-007-K 
+TE-006-K 
+TE-078-K 717.5 
+TE-001-K 
+TE-002-K 
+TE-003-K 
+717.5 
+TE-070-K 
+TE-054-K 
+582.5 
+TE-057-K 
+TE-013-K 
+TE-014-K 
+582.5 
+717.5 
+582.5 
+582.5 
+TE-076-K 
+TE-077-K 
+TE-056-K 
+582.5 
+582.5 
+717.5 
+582.5 
+TE-062-K 
+TE-065-K 
+717.5 
+TE-008-K 
+TE-009-K 
+Operating temperature 
+ºF 
+ Solar Collectors RTD List 
+582.5 
+Tag number 
+TE-055-K 
+717.5 TE-004-K 
+TE-069-K 
+TE-061-K 
+TE-083-K 
+TE-064-K 
+TE-015-K 
+Operating temperature 
+ºF Tag number 
+582.5 TE-053-K 
+TE-060-K 
+717.5 
+TE-063-K 
+
+[page 18]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 18 of 39 
+Document Nº: Rev.: 1 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+TE-051-L 627.5 TE-103-L 
+Revision 
+TE-052-L 672.5 TE-104-L 
+Issue for Bid 
+Description 
+TE-091-L 
+TE-040-L 
+TE-049-L 
+TE-050-L 
+TE-039-L 627.5 
+672.5 TE-098-L 
+627.5 
+TE-031-L 
+TE-032-L 
+TE-092-L 
+TE-041-L 
+TE-018-L 
+TE-029-L 
+TE-030-L 
+672.5 
+TE-037-L 
+TE-038-L 
+627.5 
+TE-044-L 
+TE-016-L 
+TE-017-L 
+TE-028-L 
+TE-043-L 
+TE-013-L 
+TE-014-L 
+TE-015-L 
+TE-010-L 
+TE-011-L 
+TE-012-L 
+627.5 
+TE-042-L 
+672.5 
+TE-062-L 
+TE-094-L 
+627.5 TE-095-L 
+672.5 TE-096-L 
+672.5 
+TE-034-L 
+TE-035-L 
+TE-036-L 
+627.5 TE-079-L 
+672.5 
+TE-082-L 
+627.5 
+627.5 
+672.5 
+TE-078-L 
+TE-080-L 
+TE-086-L 
+TE-087-L 
+TE-081-L 
+TE-084-L 672.5 
+672.5 
+TE-085-L TE-033-L 627.5 
+TE-023-L 
+TE-024-L 
+672.5 TE-074-L 
+627.5 
+TE-076-L 
+TE-022-L 
+672.5 
+TE-045-L 
+TE-046-L 
+TE-047-L 
+TE-048-L 
+TE-099-L 
+TE-008-L 
+TE-061-L 
+TE-060-L 
+TE-009-L 
+TE-019-L 
+TE-083-L 
+672.5 
+627.5 
+TE-070-L 
+TE-026-L 
+672.5 
+TE-067-L 
+672.5 TE-066-L 
+TE-004-L 
+TE-005-L 
+TE-007-L 627.5 
+672.5 TE-058-L 
+TE-056-L 
+627.5 
+TE-059-L 
+TE-001-L 
+TE-002-L 
+TE-003-L 
+672.5 TE-054-L 
+627.5 TE-055-L 
+TE-006-L 
+TE-025-L 
+TE-068-L 
+627.5 TE-069-L 
+TE-073-L 
+TE-072-L TE-020-L 
+TE-021-L 
+TE-065-L 
+TE-027-L 
+672.5 TE-102-L 
+TE-063-L 
+672.5 
+TE-075-L 
+672.5 
+TE-057-L 
+Tag number 
+Zone 1031 West 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Operating temperature 
+ºF 
+ Solar Collectors RTD List 
+TE-053-L 
+TE-089-L 
+627.5 
+672.5 
+672.5 
+672.5 
+627.5 
+627.5 
+672.5 
+627.5 
+Operating temperature 
+ºF Tag number 
+TE-077-L 
+TE-064-L 
+627.5 
+627.5 
+TE-071-L 
+627.5 TE-101-L 
+672.5 TE-088-L 
+627.5 
+TE-090-L 
+TE-093-L 627.5 
+627.5 TE-097-L 
+672.5 TE-100-L 
+
+[page 19]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 19 of 39 
+Document Nº: Rev.: 1 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant Description 
+TE-103-M 
+TE-052-M 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Revision 4521-ESP-AGE-57-70-0002 
+672.5 TE-104-M 
+TE-098-M 
+627.5 TE-099-M 
+Zone 1041 West 
+TE-102-M 
+TE-046-M 
+627.5 
+TE-050-M 
+TE-051-M 627.5 
+TE-043-M 
+TE-044-M 
+TE-045-M 627.5 
+627.5 
+TE-047-M 
+TE-048-M 
+672.5 
+TE-049-M 
+TE-042-M 
+TE-031-M 
+TE-032-M 
+TE-033-M 
+TE-035-M 
+TE-036-M 
+TE-041-M 
+TE-038-M 
+TE-039-M 
+TE-037-M 
+TE-040-M 
+627.5 
+TE-034-M 
+TE-078-M 
+TE-075-M 
+TE-089-M 
+627.5 TE-091-M 
+TE-092-M 
+TE-085-M 
+TE-021-M 
+672.5 TE-074-M 
+TE-080-M 
+627.5 
+672.5 
+TE-097-M 
+TE-081-M 
+TE-030-M 
+672.5 
+672.5 TE-082-M 
+TE-028-M 
+TE-022-M 
+TE-027-M 627.5 TE-079-M 
+TE-029-M 
+TE-016-M 
+TE-019-M 
+TE-020-M 
+TE-073-M 
+TE-069-M 
+TE-071-M 
+672.5 
+672.5 
+TE-017-M 
+TE-018-M 
+627.5 
+627.5 
+TE-065-M 
+672.5 TE-066-M 
+627.5 
+627.5 
+627.5 
+TE-025-M 
+TE-076-M 
+627.5 TE-077-M 
+TE-024-M 
+672.5 
+Tag number 
+TE-012-M 
+672.5 
+TE-013-M 
+TE-014-M 
+TE-058-M 
+TE-005-M 
+TE-006-M 
+TE-001-M 
+TE-061-M 
+TE-015-M 
+672.5 
+TE-004-M 
+TE-007-M 
+TE-010-M 
+TE-011-M 
+672.5 
+TE-008-M 
+627.5 
+672.5 
+TE-055-M 
+627.5 
+TE-070-M 
+TE-060-M 
+672.5 TE-064-M 
+TE-068-M 
+TE-063-M 
+TE-067-M 
+627.5 
+Operating temperature 
+ºF Tag number 
+ Solar Collectors RTD List 
+TE-026-M 
+TE-023-M 
+672.5 
+TE-093-M 
+TE-072-M 
+TE-002-M 
+TE-003-M 
+672.5 TE-054-M 
+627.5 
+672.5 
+627.5 TE-057-M 
+TE-053-M 
+TE-009-M 
+627.5 
+TE-056-M 
+TE-059-M 
+TE-062-M 
+672.5 
+627.5 
+TE-101-M 
+672.5 
+TE-087-M 
+672.5 TE-096-M 
+672.5 
+Operating temperature 
+ºF 
+627.5 
+672.5 
+672.5 
+TE-086-M 
+TE-094-M 
+TE-100-M 
+TE-095-M 
+672.5 TE-090-M 
+TE-088-M 
+627.5 TE-083-M 
+627.5 
+672.5 
+TE-084-M 
+627.5 
+
+[page 20]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 20 of 39 
+Document Nº: Rev.: 1 
+TE-052-N 717.5 
+717.5 
+717.5 
+TE-049-N 
+TE-050-N 
+TE-039-N 
+Zone 1041 West 
+TE-040-N 
+TE-041-N 
+TE-038-N 
+582.5 TE-097-N 
+TE-037-N 582.5 
+582.5 TE-091-N 
+717.5 
+TE-033-N 
+TE-036-N 
+TE-085-N 
+717.5 TE-086-N 
+582.5 
+TE-034-N 
+TE-035-N TE-087-N 
+TE-080-N 
+582.5 TE-081-N 
+TE-031-N 
+TE-028-N 
+TE-029-N 
+TE-046-N 
+TE-047-N 
+TE-048-N 
+582.5 TE-099-N 
+TE-100-N 
+TE-051-N 
+717.5 
+TE-019-N 
+TE-020-N 
+TE-043-N 
+717.5 
+582.5 
+TE-030-N 
+TE-032-N 717.5 
+582.5 
+TE-063-N 
+717.5 
+TE-065-N 
+717.5 TE-068-N 
+TE-084-N 
+582.5 
+717.5 TE-072-N 
+TE-066-N 
+TE-044-N 
+TE-045-N 
+TE-103-N 
+TE-104-N 
+582.5 
+TE-076-N TE-024-N 
+TE-092-N 
+582.5 
+TE-022-N 
+TE-090-N 
+717.5 
+TE-014-N 
+TE-015-N 582.5 
+TE-017-N 
+TE-018-N 
+TE-016-N 
+TE-042-N 717.5 
+717.5 
+TE-073-N 
+TE-074-N 
+TE-023-N 
+TE-013-N 
+582.5 TE-053-N 
+TE-004-N 
+TE-061-N 
+717.5 
+582.5 
+TE-002-N 
+TE-003-N 
+717.5 TE-054-N 
+582.5 TE-055-N 
+TE-021-N 
+TE-062-N 
+TE-067-N 
+TE-011-N 
+TE-012-N 
+TE-069-N 
+TE-027-N 582.5 
+582.5 
+TE-025-N 
+TE-008-N 
+Operating temperature 
+ºF Tag number 
+Solar collectors RTD list 
+Operating temperature 
+ºF 
+TE-082-N 
+582.5 TE-059-N 
+TE-088-N 
+TE-009-N 
+TE-005-N 
+717.5 TE-058-N 
+Tag number 
+717.5 
+TE-010-N 
+TE-001-N 
+TE-006-N 
+TE-064-N 
+582.5 
+717.5 
+TE-026-N 
+TE-007-N 
+582.5 
+TE-060-N 
+TE-083-N 
+717.5 
+582.5 
+TE-070-N 
+582.5 TE-071-N 
+717.5 TE-078-N 
+582.5 
+TE-079-N 
+717.5 
+TE-075-N 
+TE-056-N 
+582.5 TE-057-N 
+TE-077-N 
+717.5 
+TE-102-N 
+ABENER-TEYMA 
+AG ENGINEERING 
+TE-089-N 
+TE-098-N 
+717.5 
+ABENGOA SOLAR 
+717.5 TE-096-N 
+717.5 
+TE-093-N 
+TE-094-N 
+582.5 TE-101-N 
+582.5 
+Description Solana power plant 
+4521-ESP-AGE-57-70-0002 
+Issue for Bid 
+Revision 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-095-N 
+
+[page 21]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 21 of 39 
+Document Nº: Rev.: 1 
+TE-036-O 
+582.5 TE-067-O 
+717.5 TE-066-O 
+TE-010-O 
+TE-011-O 
+TE-012-O 
+TE-031-O 
+TE-032-O 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Description 
+Revision 
+717.5 
+TE-103-O 
+TE-052-O 717.5 TE-104-O 
+TE-049-O 
+TE-098-O 
+582.5 TE-099-O 
+TE-048-O 
+TE-045-O 
+TE-046-O 
+TE-047-O 
+TE-050-O 
+TE-051-O 
+TE-040-O 
+TE-041-O 
+TE-042-O 
+717.5 
+TE-091-O 
+717.5 TE-090-O 
+TE-034-O TE-086-O 
+582.5 TE-035-O 
+582.5 TE-089-O 
+TE-043-O 
+TE-028-O 
+TE-029-O 
+TE-030-O 
+TE-033-O 
+TE-044-O 
+TE-087-O 
+TE-037-O 
+TE-038-O 
+TE-039-O 582.5 
+582.5 TE-097-O 
+717.5 
+TE-101-O 
+717.5 
+TE-077-O 
+717.5 
+717.5 
+TE-074-O 
+TE-026-O 
+TE-027-O 
+717.5 TE-092-O 
+582.5 TE-093-O 
+TE-013-O 
+TE-076-O 
+TE-015-O 
+582.5 TE-061-O 
+TE-021-O 582.5 
+TE-022-O 
+TE-016-O 717.5 TE-068-O 
+582.5 TE-069-O 
+TE-083-O 
+TE-080-O 
+TE-017-O 
+TE-018-O 
+582.5 TE-075-O 
+TE-025-O 
+TE-023-O 
+TE-019-O 
+582.5 
+717.5 
+717.5 
+582.5 
+TE-082-O 
+582.5 
+TE-024-O 
+TE-100-O 
+TE-078-O 
+TE-065-O 
+582.5 
+TE-070-O 
+TE-020-O 
+582.5 
+TE-006-O 
+717.5 TE-056-O 
+TE-005-O 
+717.5 
+TE-014-O 
+582.5 
+TE-064-O 
+TE-008-O 
+TE-009-O 
+TE-003-O 
+TE-007-O 
+TE-002-O 717.5 
+582.5 TE-059-O 
+TE-058-O 
+TE-001-O 
+TE-088-O 
+582.5 
+717.5 
+717.5 
+TE-073-O 
+582.5 
+TE-072-O 
+TE-057-O 
+TE-060-O 
+TE-062-O 
+TE-063-O 
+TE-004-O 
+Tag number 
+TE-054-O 
+582.5 TE-055-O 
+582.5 
+717.5 
+717.5 
+TE-071-O 
+717.5 
+717.5 
+TE-081-O 
+717.5 TE-096-O 
+582.5 
+TE-095-O 
+717.5 
+717.5 TE-084-O 
+582.5 
+Zone 1041 West 
+TE-102-O 
+717.5 TE-094-O 
+TE-085-O 
+582.5 TE-053-O 
+ Solar Collectors RTD List 
+Tag number Operating temperature 
+ºF 
+Operating temperature 
+ºF 
+TE-079-O 
+582.5 
+
+[page 22]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 22 of 39 
+Document Nº: Rev.: 1 4521-ESP-AGE-57-70-0002 
+Description 
+Revision 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+627.5 TE-099-P 
+TE-103-P 
+TE-104-P 
+TE-092-P 
+TE-093-P 627.5 
+TE-045-P 
+TE-050-P 
+TE-047-P 
+TE-048-P 
+TE-049-P 
+TE-043-P 
+TE-098-P 
+TE-038-P 
+TE-039-P 
+672.5 
+627.5 
+TE-040-P 
+TE-041-P 
+TE-042-P 
+672.5 
+672.5 
+TE-046-P 
+TE-032-P 
+TE-033-P 627.5 
+TE-034-P 
+672.5 
+TE-037-P 
+Issue for Bid 
+TE-024-P 
+TE-097-P 
+627.5 TE-091-P 
+TE-029-P 
+TE-030-P 
+TE-027-P 
+TE-081-P 
+672.5 TE-028-P 
+TE-090-P 
+TE-031-P 
+TE-019-P 
+TE-020-P 
+TE-021-P 627.5 
+TE-025-P 
+TE-079-P 
+TE-069-P 
+TE-080-P 
+627.5 
+672.5 
+TE-044-P 
+627.5 TE-055-P 
+TE-061-P 
+627.5 TE-057-P 
+TE-058-P 
+627.5 TE-059-P 
+672.5 TE-060-P 
+TE-026-P 
+672.5 
+TE-068-P 
+TE-015-P 
+TE-073-P 
+TE-062-P 
+TE-023-P 
+TE-067-P 
+672.5 TE-066-P 
+TE-012-P 
+672.5 
+TE-018-P 
+672.5 
+627.5 
+TE-009-P 627.5 
+672.5 
+TE-016-P 
+TE-017-P 
+672.5 TE-056-P 
+TE-013-P 
+TE-014-P 
+627.5 
+TE-008-P 
+TE-010-P 
+TE-004-P 
+672.5 
+TE-011-P 
+TE-076-P 
+627.5 TE-077-P 
+TE-035-P 627.5 
+TE-036-P 
+Zone 1041 West 
+TE-005-P 
+TE-006-P 
+TE-002-P 
+627.5 
+672.5 
+627.5 
+672.5 
+Operating temperature 
+ºF 
+627.5 
+TE-054-P 
+TE-007-P 
+TE-074-P 
+TE-003-P 
+672.5 
+TE-065-P 
+TE-063-P 
+627.5 
+TE-052-P 
+TE-022-P 
+TE-001-P 
+Operating temperature 
+ºF Tag number 
+ Solar Collectors RTD List 
+Tag number 
+TE-053-P 
+TE-064-P 
+627.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-095-P 
+TE-085-P 
+TE-086-P 
+TE-087-P 
+TE-082-P 
+TE-101-P 
+672.5 
+ABENGOA SOLAR 
+TE-051-P 
+627.5 
+627.5 TE-083-P 
+TE-100-P 
+TE-096-P 
+672.5 
+TE-072-P 
+TE-084-P 
+TE-089-P 
+672.5 
+TE-071-P 
+TE-075-P 627.5 
+672.5 
+672.5 
+672.5 TE-078-P 
+672.5 
+TE-088-P 
+TE-070-P 
+627.5 
+627.5 
+627.5 
+TE-102-P 
+672.5 TE-094-P 
+672.5 
+
+[page 23]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 23 of 39 
+Document Nº: Rev.: 1 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+4521-ESP-AGE-57-70-0002 
+Description 
+Revision 
+TE-153-A 
+TE-154-A 
+TE-155-A 
+TE-151-A 
+TE-147-A 
+TE-148-A 
+TE-149-A 
+TE-152-A 
+672.5 
+627.5 
+TE-156-A 672.5 
+TE-202-A 
+627.5 TE-203-A 
+TE-150-A 
+TE-139-A 
+TE-140-A 
+672.5 
+TE-143-A 
+TE-137-A 627.5 
+TE-138-A 
+672.5 
+TE-194-A 
+TE-195-A 
+672.5 
+672.5 
+672.5 
+TE-186-A 
+TE-191-A 
+TE-187-A 
+TE-132-A 
+TE-133-A 
+TE-134-A 
+672.5 
+TE-141-A 
+TE-142-A 
+TE-135-A 
+TE-136-A 
+TE-207-A 
+TE-208-A 
+TE-120-A 
+TE-121-A 
+TE-125-A 
+TE-129-A 
+672.5 TE-180-A 
+TE-127-A 
+TE-128-A 
+627.5 TE-181-A 
+672.5 TE-166-A 
+TE-117-A TE-169-A 
+TE-167-A 
+TE-178-A 
+TE-122-A 
+672.5 TE-172-A 
+627.5 
+TE-118-A 
+TE-119-A 627.5 TE-171-A 
+672.5 
+TE-108-A 
+TE-109-A 
+TE-110-A 
+627.5 
+TE-159-A 
+672.5 TE-200-A 
+627.5 
+TE-189-A 
+TE-170-A 
+627.5 TE-179-A 
+TE-196-A 
+TE-190-A 
+627.5 
+627.5 TE-185-A 
+TE-144-A 
+TE-145-A 
+TE-146-A 
+TE-131-A 627.5 TE-183-A 
+TE-204-A 
+TE-201-A 
+TE-130-A 
+627.5 
+627.5 TE-197-A 
+TE-165-A 
+TE-184-A 
+TE-173-A 
+TE-205-A 
+TE-160-A 
+TE-164-A 
+672.5 
+TE-161-A 
+TE-158-A 
+TE-163-A 
+672.5 
+ Solar Collectors RTD List 
+Tag number Operating temperature 
+ºF 
+TE-168-A 
+672.5 TE-162-A 
+627.5 TE-111-A 
+672.5 
+627.5 
+627.5 
+TE-114-A 
+TE-115-A 
+TE-107-A 
+627.5 
+TE-116-A 
+TE-112-A 
+TE-113-A 627.5 
+TE-105-A 
+TE-126-A 
+TE-123-A 
+TE-124-A 
+TE-177-A 
+627.5 
+672.5 
+TE-106-A 
+672.5 
+Operating temperature 
+ºF 
+627.5 
+672.5 
+Tag number 
+TE-157-A 
+TE-199-A 
+627.5 
+627.5 
+TE-192-A 
+TE-188-A 
+627.5 
+627.5 
+672.5 
+TE-198-A 
+672.5 
+Zone 1012 East 
+TE-206-A 
+672.5 
+672.5 
+672.5 
+627.5 
+TE-176-A 672.5 
+TE-182-A 
+TE-174-A 
+TE-175-A 
+TE-193-A 
+
+[page 24]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 24 of 39 
+Document Nº: Rev.: 1 4521-ESP-AGE-57-70-0002 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Description 
+TE-135-B 
+TE-136-B 
+TE-137-B 582.5 
+TE-139-B 
+TE-140-B 
+717.5 
+582.5 
+717.5 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+TE-156-B 717.5 TE-208-B 
+TE-153-B 
+TE-194-B 
+TE-196-B 
+TE-202-B 
+582.5 TE-203-B 
+TE-205-B 
+TE-201-B 
+TE-141-B 
+TE-142-B 
+TE-143-B 
+TE-150-B 
+TE-151-B 
+TE-149-B 
+TE-195-B 
+TE-152-B 
+TE-185-B 
+717.5 
+TE-207-B 
+TE-154-B 
+TE-155-B 
+TE-189-B 
+TE-138-B TE-190-B 
+TE-191-B 
+582.5 
+TE-146-B 
+717.5 TE-144-B 
+TE-132-B 
+TE-133-B 
+TE-134-B 
+717.5 TE-184-B 
+582.5 
+TE-124-B 
+TE-125-B 582.5 
+TE-148-B 
+717.5 
+TE-197-B TE-145-B 582.5 
+TE-147-B 
+717.5 
+TE-173-B 
+TE-183-B 
+717.5 TE-180-B 
+TE-177-B 
+TE-118-B 
+TE-130-B 
+582.5 
+TE-159-B 
+TE-163-B 
+TE-161-B 
+717.5 TE-162-B 
+TE-181-B 
+717.5 TE-170-B 
+TE-160-B 
+TE-178-B 
+TE-172-B 
+582.5 
+TE-123-B 
+TE-129-B 
+TE-179-B 
+TE-166-B 
+TE-119-B 582.5 
+TE-117-B 
+TE-127-B 
+717.5 
+TE-171-B 
+TE-126-B 
+TE-121-B 
+TE-110-B 
+TE-120-B 
+TE-122-B 
+TE-114-B 
+TE-115-B 
+TE-116-B 
+TE-109-B 
+582.5 
+TE-105-B 
+717.5 
+Operating temperature 
+ºF 
+582.5 
+582.5 
+TE-112-B 
+Tag number 
+582.5 
+TE-111-B 
+TE-108-B 
+TE-106-B 
+TE-107-B 
+717.5 
+582.5 
+717.5 
+TE-131-B 
+Tag number 
+TE-113-B 
+TE-128-B 
+ Solar Collectors RTD List 
+717.5 
+582.5 
+TE-165-B 
+TE-158-B 
+Operating temperature 
+ºF 
+582.5 
+717.5 
+717.5 
+582.5 
+582.5 
+Revision 
+TE-198-B 
+582.5 
+582.5 
+717.5 
+717.5 
+TE-157-B 
+582.5 
+TE-169-B 
+Zone 1012 East 
+TE-206-B 
+717.5 
+TE-164-B 
+TE-174-B 
+582.5 
+TE-168-B 
+TE-199-B 
+TE-182-B 
+717.5 
+717.5 
+717.5 
+TE-167-B 
+TE-176-B 
+TE-175-B 
+717.5 
+582.5 
+TE-204-B 
+582.5 TE-193-B 
+TE-186-B 
+582.5 TE-187-B 
+TE-188-B 
+TE-200-B 
+TE-192-B 717.5 
+
+[page 25]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 25 of 39 
+Document Nº: Rev.: 1 
+TE-178-C 
+582.5 TE-179-C 
+TE-180-C 
+TE-156-C 
+TE-153-C 
+TE-154-C 
+TE-155-C 582.5 
+TE-190-C 
+TE-146-C 
+TE-195-C 
+TE-204-C 
+ABENER-TEYMA 
+AG ENGINEERING 
+4521-ESP-AGE-57-70-0002 
+Solana power plant 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Description 
+Revision 
+TE-207-C 
+TE-208-C 
+ABENGOA SOLAR 
+717.5 TE-202-C 
+582.5 TE-203-C 
+717.5 
+TE-189-C 
+TE-138-C 
+582.5 TE-191-C 
+TE-141-C 
+TE-142-C 
+TE-139-C 
+717.5 
+TE-192-C 
+TE-200-C 
+717.5 
+TE-199-C 
+TE-193-C 
+TE-196-C 
+582.5 TE-197-C 
+717.5 
+TE-194-C 
+TE-198-C 
+TE-133-C 
+TE-134-C 
+TE-147-C 
+TE-135-C 
+TE-136-C 
+TE-137-C 
+TE-152-C 
+TE-183-C 
+717.5 TE-184-C 
+582.5 TE-185-C 
+TE-186-C 
+TE-128-C 
+TE-143-C 
+717.5 
+TE-120-C 
+TE-121-C 
+TE-122-C 
+717.5 
+717.5 
+TE-140-C 
+TE-132-C 
+TE-119-C 
+TE-116-C 717.5 TE-168-C 
+TE-171-C 
+717.5 TE-170-C 
+TE-124-C 
+TE-125-C 
+TE-117-C 
+TE-144-C 
+TE-145-C 
+TE-148-C 
+TE-123-C 
+TE-118-C 
+TE-108-C 
+TE-115-C 
+TE-131-C 
+TE-129-C 
+TE-130-C 
+TE-181-C 
+TE-106-C 
+TE-107-C 
+TE-160-C 
+582.5 TE-161-C 
+TE-114-C 
+TE-162-C 
+582.5 TE-163-C 
+TE-175-C 
+TE-172-C 
+TE-166-C 
+582.5 
+TE-173-C 
+717.5 
+582.5 
+582.5 
+TE-177-C 
+582.5 
+TE-187-C 
+582.5 
+582.5 
+TE-150-C 
+TE-201-C 
+717.5 
+TE-151-C 
+TE-149-C 582.5 
+Tag number 
+TE-157-C 
+717.5 
+582.5 
+582.5 TE-113-C 
+TE-126-C 
+TE-111-C 
+TE-112-C 
+TE-127-C 
+TE-109-C 
+TE-110-C 
+582.5 
+ Solar Collectors RTD List 
+TE-165-C 
+TE-159-C 
+TE-105-C 
+Operating temperature 
+ºF 
+TE-174-C 
+582.5 
+Tag number 
+717.5 
+582.5 
+582.5 
+717.5 
+TE-167-C 
+717.5 
+582.5 
+TE-158-C 
+TE-176-C 
+TE-206-C 
+TE-164-C 
+582.5 
+582.5 
+717.5 
+717.5 
+717.5 
+717.5 
+Operating temperature 
+ºF 
+Zone 1012 East 
+582.5 
+582.5 
+717.5 
+TE-169-C 
+717.5 
+717.5 
+717.5 
+TE-205-C 
+TE-188-C 
+717.5 TE-182-C 
+
+[page 26]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 26 of 39 
+Document Nº: Rev.: 1 
+TE-147-D 
+672.5 
+TE-155-D 627.5 
+TE-124-D 
+TE-106-D 
+627.5 TE-159-D 
+TE-119-D TE-171-D 
+TE-121-D 
+TE-122-D 
+627.5 
+672.5 TE-158-D 
+TE-157-D 
+Operating temperature 
+ºF 
+TE-130-D 
+627.5 TE-181-D 
+TE-169-D 
+672.5 TE-170-D 
+TE-117-D 
+TE-118-D 
+627.5 TE-165-D 
+672.5 TE-160-D 
+627.5 TE-161-D 
+672.5 TE-162-D 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Description 
+TE-108-D 
+Tag number 
+TE-107-D 
+TE-109-D 
+TE-110-D 
+TE-189-D 
+672.5 TE-184-D 
+TE-173-D 
+TE-113-D 
+TE-166-D 
+TE-167-D TE-115-D 
+TE-114-D 
+TE-105-D 
+TE-163-D TE-111-D 
+TE-112-D 
+TE-207-D 
+672.5 TE-206-D 
+627.5 TE-205-D 
+TE-132-D 
+TE-131-D 
+TE-126-D 
+672.5 TE-182-D 
+627.5 
+TE-128-D 
+672.5 
+TE-129-D 
+TE-185-D 
+672.5 TE-186-D 
+TE-172-D 
+627.5 
+672.5 TE-174-D 
+627.5 TE-177-D TE-125-D 
+TE-143-D 
+TE-187-D 
+TE-183-D 
+TE-127-D 
+ Solar Collectors RTD List 
+627.5 
+TE-196-D 
+TE-141-D 
+TE-142-D 
+TE-136-D 
+TE-137-D 
+TE-138-D 
+627.5 
+TE-192-D 
+TE-188-D 
+TE-197-D 
+627.5 
+TE-179-D 
+672.5 
+TE-123-D 
+TE-120-D 
+TE-116-D 
+672.5 
+672.5 
+TE-134-D 
+TE-140-D 
+TE-195-D 
+TE-201-D 
+TE-193-D 
+TE-208-D 
+TE-198-D 
+672.5 TE-194-D 
+TE-146-D 
+672.5 
+TE-151-D 
+TE-153-D 
+TE-148-D 
+4521-ESP-AGE-57-70-0002 
+672.5 
+627.5 
+TE-156-D 672.5 
+627.5 
+TE-200-D 
+TE-204-D 
+TE-202-D 
+TE-154-D 
+TE-199-D 
+TE-135-D 
+TE-145-D 
+TE-139-D 
+TE-152-D 
+672.5 
+627.5 
+TE-144-D 
+627.5 
+TE-133-D 
+TE-149-D 627.5 
+672.5 
+TE-150-D 
+Operating temperature 
+ºF 
+TE-176-D 
+672.5 
+627.5 
+Zone 1012 East 
+TE-203-D 
+627.5 
+TE-180-D 
+TE-178-D 
+TE-164-D 
+627.5 
+Revision 
+672.5 
+672.5 
+627.5 
+Tag number 
+TE-168-D 
+627.5 
+672.5 
+627.5 
+627.5 TE-175-D 
+672.5 
+TE-191-D 
+672.5 
+TE-190-D 
+627.5 
+
+[page 27]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 27 of 39 
+Document Nº: Rev.: 1 
+TE-112-E 
+Tag number 
+TE-114-E 
+TE-165-E TE-113-E 627.5 
+TE-105-E 
+TE-107-E 
+TE-117-E 
+672.5 
+627.5 
+TE-115-E 
+TE-185-E 
+TE-131-E 627.5 
+TE-171-E 
+672.5 TE-170-E 
+TE-133-E 
+TE-177-E 
+TE-123-E 
+TE-118-E 
+TE-119-E 627.5 
+Operating temperature 
+ºF 
+TE-108-E 
+627.5 
+TE-106-E 
+Tag number 
+627.5 
+TE-109-E 
+TE-158-E 
+672.5 
+672.5 TE-126-E 
+TE-120-E 
+TE-121-E 
+TE-122-E 
+TE-111-E 
+672.5 
+TE-135-E 
+TE-136-E 
+TE-137-E 
+TE-178-E 
+TE-173-E 
+TE-125-E 
+TE-124-E 
+TE-134-E 
+TE-132-E 
+TE-129-E 
+672.5 
+TE-183-E 
+TE-182-E 
+TE-189-E 
+672.5 
+627.5 
+627.5 
+TE-145-E 
+TE-146-E 672.5 
+TE-140-E 
+672.5 
+627.5 
+TE-138-E 
+627.5 
+627.5 
+TE-139-E 
+TE-149-E 
+TE-198-E 
+TE-190-E 
+672.5 
+TE-127-E 
+TE-144-E 
+TE-141-E 
+TE-142-E 
+TE-128-E 
+TE-143-E 
+TE-152-E 
+672.5 TE-156-E 
+TE-147-E 
+672.5 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+TE-148-E 
+TE-191-E 
+627.5 TE-193-E 
+TE-203-E 
+672.5 TE-192-E 
+672.5 TE-194-E 
+TE-197-E 
+TE-195-E 
+ABENGOA SOLAR 
+TE-207-E 
+627.5 TE-201-E 
+TE-202-E 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-181-E 
+TE-179-E 
+TE-166-E 
+672.5 
+TE-176-E 
+TE-172-E 
+627.5 
+627.5 
+TE-162-E 
+Operating temperature 
+ºF 
+TE-168-E 
+TE-169-E 
+TE-159-E 
+627.5 
+672.5 
+627.5 
+TE-186-E 
+TE-208-E 
+627.5 
+627.5 
+627.5 
+TE-167-E 
+TE-187-E 
+627.5 
+TE-116-E 
+TE-150-E 
+TE-161-E 
+672.5 TE-206-E 
+TE-196-E 
+4521-ESP-AGE-57-70-0002 
+627.5 
+672.5 
+TE-175-E 
+672.5 
+TE-184-E 
+TE-180-E 
+TE-157-E 
+TE-164-E 
+TE-163-E 
+627.5 
+672.5 
+TE-153-E 
+TE-174-E 
+672.5 
+627.5 
+672.5 TE-160-E 
+ Solar Collectors RTD List 
+627.5 
+TE-130-E 
+672.5 
+TE-200-E 
+TE-151-E 
+TE-154-E 
+TE-155-E 
+Issue for Bid 
+Revision 
+Zone 1022 East 
+672.5 
+TE-188-E 
+TE-110-E 
+Description 
+672.5 
+627.5 
+672.5 TE-204-E 
+TE-199-E 
+TE-205-E 
+
+[page 28]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 28 of 39 
+Document Nº: Rev.: 1 
+TE-120-F 
+TE-119-F 
+TE-163-F 
+TE-118-F TE-170-F 
+TE-165-F 
+TE-166-F 
+TE-113-F 
+TE-117-F 
+717.5 
+717.5 
+TE-123-F 
+TE-180-F 
+582.5 TE-181-F 
+TE-182-F 
+TE-178-F 
+TE-177-F 
+TE-175-F 
+TE-176-F 
+TE-132-F 
+TE-133-F 
+TE-134-F 
+717.5 
+582.5 TE-183-F 
+TE-185-F 
+TE-184-F 
+TE-108-F 
+TE-116-F 
+717.5 
+TE-186-F 
+TE-111-F 
+717.5 
+TE-107-F 
+TE-105-F 
+TE-106-F 
+Tag number Operating temperature 
+ºF 
+TE-161-F 
+582.5 
+TE-160-F 
+582.5 
+TE-158-F 
+582.5 
+582.5 
+717.5 
+TE-159-F 
+717.5 
+TE-162-F 
+582.5 
+TE-167-F 
+582.5 
+TE-171-F 
+TE-125-F 
+TE-127-F 
+TE-122-F 
+TE-121-F 
+TE-110-F 
+717.5 
+717.5 
+TE-124-F 
+TE-131-F 
+717.5 
+TE-129-F 
+TE-112-F 
+TE-141-F 
+TE-142-F 
+TE-143-F 
+TE-139-F 
+TE-135-F 
+TE-197-F TE-145-F 
+TE-190-F 
+582.5 
+TE-138-F 
+TE-144-F 
+582.5 
+TE-140-F 
+TE-128-F 
+582.5 
+717.5 
+TE-130-F 
+TE-126-F 
+TE-109-F 
+582.5 
+582.5 
+TE-202-F 
+582.5 TE-189-F 
+TE-187-F 
+TE-137-F 
+TE-150-F 717.5 
+582.5 
+717.5 
+717.5 
+582.5 
+TE-136-F 
+TE-115-F 
+717.5 
+TE-114-F 
+TE-146-F 
+TE-203-F 
+582.5 
+TE-196-F 
+582.5 
+TE-148-F 
+717.5 
+717.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-156-F 
+582.5 
+TE-155-F 
+TE-153-F 
+582.5 
+TE-207-F 
+717.5 TE-204-F 
+TE-205-F 
+582.5 
+ABENGOA SOLAR 
+Issue for Bid 
+Revision 
+Description Solana power plant 
+TE-147-F 
+TE-164-F 
+ Solar Collectors RTD List 
+582.5 
+582.5 
+Operating temperature 
+ºF 
+TE-194-F 
+TE-157-F 
+TE-198-F 
+TE-191-F 
+717.5 
+Tag number 
+717.5 TE-174-F 
+717.5 
+TE-151-F 
+TE-208-F 
+TE-200-F 
+ABENER-TEYMA 
+AG ENGINEERING 
+TE-152-F 
+TE-149-F 582.5 TE-201-F 
+TE-154-F 
+717.5 
+4521-ESP-AGE-57-70-0002 
+TE-168-F 
+582.5 TE-169-F 
+717.5 
+TE-173-F 
+TE-172-F 
+Zone 1022 East 
+TE-179-F 
+582.5 
+717.5 TE-206-F 
+TE-199-F 
+TE-192-F 
+TE-188-F 
+717.5 
+717.5 
+TE-195-F 
+TE-193-F 
+
+[page 29]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 29 of 39 
+Document Nº: Rev.: 1 
+582.5 TE-171-G 
+TE-117-G 
+717.5 TE-170-G 
+582.5 TE-169-G 
+Tag number Tag number 
+ Solar Collectors RTD List 
+Operating temperature 
+ºF 
+TE-118-G 
+TE-126-G 
+717.5 
+TE-182-G 
+TE-127-G 
+TE-128-G 
+TE-119-G 
+TE-174-G 
+TE-123-G 
+TE-124-G 
+TE-120-G 
+TE-121-G 
+582.5 TE-175-G 
+TE-125-G 
+TE-131-G 
+TE-130-G 
+TE-132-G 
+TE-122-G 
+717.5 
+582.5 
+582.5 
+TE-140-G 
+TE-137-G 
+TE-138-G 
+582.5 
+582.5 
+TE-135-G 
+TE-133-G 
+TE-134-G 
+717.5 
+TE-129-G 
+TE-172-G 
+TE-173-G 
+TE-183-G 
+582.5 
+582.5 TE-139-G 
+582.5 TE-189-G 
+TE-184-G 
+TE-185-G 
+TE-136-G 
+TE-181-G 
+717.5 
+TE-146-G 
+717.5 
+717.5 
+TE-196-G 
+582.5 TE-197-G 
+TE-141-G 
+TE-142-G 
+TE-143-G 582.5 TE-195-G 
+717.5 TE-194-G 
+TE-145-G 
+TE-144-G 
+717.5 TE-190-G 
+TE-151-G 
+TE-152-G 
+717.5 TE-202-G 
+582.5 
+TE-204-G 717.5 
+TE-203-G 
+TE-150-G 
+TE-149-G 582.5 TE-201-G 
+TE-147-G 
+TE-148-G 
+TE-191-G 
+TE-158-G 
+717.5 TE-208-G 
+582.5 
+TE-156-G 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-207-G 582.5 
+TE-166-G 
+TE-155-G 
+TE-160-G 
+ABENER-TEYMA 
+AG ENGINEERING 
+582.5 
+TE-162-G 
+TE-163-G 
+TE-164-G 
+717.5 
+Solana power plant 
+TE-165-G 
+TE-168-G 
+4521-ESP-AGE-57-70-0002 
+Issue for Bid 
+Description 
+582.5 
+TE-167-G 
+717.5 
+ABENGOA SOLAR 
+582.5 
+TE-157-G 
+TE-153-G 
+TE-154-G 
+582.5 
+TE-192-G 717.5 
+582.5 
+582.5 TE-205-G 
+Revision 
+TE-159-G 
+717.5 
+582.5 
+717.5 
+717.5 
+TE-180-G 
+717.5 
+TE-178-G 
+Zone 1022 East 
+TE-161-G 
+TE-188-G 
+TE-206-G 
+582.5 
+717.5 
+Operating temperature 
+ºF 
+717.5 
+TE-179-G 
+TE-176-G 
+TE-199-G 
+TE-200-G 
+582.5 
+TE-198-G 
+717.5 
+717.5 
+717.5 
+717.5 
+TE-193-G 
+TE-186-G 
+582.5 TE-187-G 
+TE-177-G 
+717.5 
+
+[page 30]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 30 of 39 
+Document Nº: Rev.: 1 4521-ESP-AGE-57-70-0002 
+Description 
+Revision 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+627.5 
+TE-117-H 
+TE-118-H 
+TE-119-H 
+TE-123-H 627.5 
+TE-120-H 
+TE-121-H 
+TE-122-H 
+627.5 
+627.5 
+TE-127-H 
+TE-128-H 
+672.5 
+Tag number 
+TE-170-H 672.5 
+TE-172-H 
+627.5 
+TE-129-H 
+Operating temperature 
+ºF 
+TE-171-H 
+ Solar Collectors RTD List 
+TE-126-H 
+TE-132-H 
+TE-187-H 
+TE-124-H 
+TE-173-H 
+672.5 
+672.5 
+TE-133-H 
+672.5 
+TE-125-H 
+TE-195-H 
+672.5 TE-194-H 
+627.5 
+TE-183-H 
+TE-189-H 
+TE-135-H 
+TE-185-H 
+TE-193-H 
+TE-192-H 
+627.5 
+TE-198-H 
+TE-199-H 
+TE-201-H 
+TE-177-H 
+TE-151-H 
+TE-152-H 
+672.5 
+627.5 
+TE-150-H 
+TE-142-H 
+TE-145-H 
+672.5 
+627.5 
+672.5 
+TE-137-H 
+TE-130-H 
+627.5 
+TE-134-H 
+TE-136-H 
+TE-131-H 627.5 
+672.5 TE-146-H 
+TE-148-H 
+TE-149-H 
+TE-147-H 
+TE-143-H 
+TE-156-H 
+TE-157-H 
+TE-158-H 
+672.5 TE-208-H 
+627.5 
+TE-155-H 627.5 
+TE-144-H 
+627.5 
+627.5 
+TE-138-H 
+TE-139-H 
+TE-154-H 
+TE-196-H 
+627.5 TE-197-H 
+TE-140-H 
+672.5 
+TE-165-H 
+TE-166-H 
+TE-207-H 
+672.5 
+TE-159-H 627.5 
+TE-160-H 
+627.5 
+672.5 
+TE-202-H 
+TE-203-H 
+TE-141-H 
+TE-161-H 627.5 
+TE-184-H 
+627.5 
+672.5 
+TE-204-H 
+627.5 
+TE-168-H 672.5 
+TE-163-H 
+TE-205-H 
+TE-182-H 
+627.5 
+TE-191-H 
+TE-167-H 627.5 
+672.5 
+TE-162-H 
+TE-164-H 
+672.5 
+Tag number 
+TE-188-H 
+627.5 TE-169-H 
+627.5 
+Operating temperature 
+ºF 
+TE-153-H 
+672.5 TE-176-H 
+672.5 TE-180-H 
+TE-174-H 
+672.5 
+TE-190-H 
+672.5 
+TE-181-H 
+TE-175-H 
+TE-186-H 
+672.5 TE-200-H 
+TE-178-H 
+627.5 
+672.5 
+Zone 1022 East 
+TE-179-H 
+672.5 TE-206-H 
+672.5 
+
+[page 31]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 31 of 39 
+Document Nº: 
+4521-ESP-AGE-57-70-0002 Rev.: 1 Revision 
+627.5 TE-173-I 
+TE-125-I 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant Description 
+627.5 
+Operating temperature 
+ºF 
+TE-117-I 
+TE-124-I 
+TE-121-I 
+TE-123-I 
+TE-122-I TE-174-I 
+627.5 TE-175-I 
+672.5 
+672.5 
+672.5 TE-172-I 
+627.5 TE-181-I 
+TE-118-I 
+TE-119-I 
+TE-170-I 
+TE-126-I 
+TE-127-I 
+TE-128-I 
+672.5 
+627.5 
+672.5 TE-180-I 
+TE-178-I 
+TE-120-I 
+627.5 
+Tag number 
+TE-171-I 
+TE-130-I 
+TE-129-I 
+ Solar Collectors RTD List 
+TE-184-I 
+TE-134-I 
+672.5 
+TE-179-I 
+627.5 TE-185-I TE-133-I 
+TE-131-I 
+TE-182-I 
+672.5 
+627.5 
+627.5 TE-191-I 
+TE-176-I 
+TE-141-I TE-193-I 
+627.5 
+TE-136-I 
+TE-137-I 
+TE-186-I 
+TE-192-I 
+672.5 TE-194-I 
+TE-189-I 
+TE-132-I 
+TE-139-I 
+TE-140-I 
+627.5 
+672.5 
+627.5 
+TE-135-I 
+672.5 TE-196-I 
+TE-195-I 
+TE-138-I 
+TE-142-I 
+TE-143-I 627.5 
+672.5 
+672.5 TE-190-I 
+TE-202-I 
+627.5 TE-203-I 
+TE-183-I 
+TE-146-I 672.5 TE-198-I 
+627.5 TE-199-I 
+672.5 TE-200-I 
+TE-201-I 
+TE-150-I 
+627.5 
+TE-147-I 
+TE-151-I 
+TE-144-I 
+TE-145-I 
+TE-207-I 
+TE-153-I 627.5 
+TE-149-I 627.5 
+TE-154-I 
+TE-148-I 
+TE-152-I 
+672.5 
+672.5 
+TE-159-I 
+TE-160-I 
+672.5 
+627.5 
+672.5 
+672.5 
+TE-197-I 
+TE-204-I 
+TE-188-I 
+627.5 
+TE-208-I 
+TE-205-I 
+TE-206-I 
+TE-158-I 
+TE-156-I 
+TE-157-I 
+TE-155-I 627.5 
+672.5 
+TE-167-I 627.5 
+TE-166-I 
+ABENGOA SOLAR 
+TE-168-I 
+627.5 
+672.5 
+TE-162-I 
+TE-163-I 
+672.5 
+TE-161-I 
+627.5 
+672.5 
+Operating temperature 
+ºF Tag number 
+627.5 
+TE-177-I 
+672.5 
+627.5 
+TE-165-I 
+TE-164-I 
+672.5 
+TE-169-I 
+TE-187-I 
+672.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+Zone 1032 East 
+
+[page 32]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 32 of 39 
+Document Nº: Rev.: 1 
+Zone 1032 East 
+TE-159-J 
+TE-160-J 
+TE-161-J 582.5 
+TE-162-J 
+582.5 
+TE-163-J 
+TE-164-J 
+717.5 
+582.5 
+717.5 
+582.5 
+TE-151-J 
+TE-152-J 
+717.5 TE-208-J 
+582.5 
+582.5 
+TE-165-J 
+TE-167-J 582.5 
+TE-149-J 582.5 
+TE-150-J 
+717.5 
+TE-156-J 
+582.5 
+717.5 TE-166-J 
+TE-147-J 
+TE-148-J 
+TE-204-J 
+TE-158-J 
+TE-168-J 717.5 
+717.5 
+TE-205-J 
+717.5 TE-206-J 
+TE-157-J 
+TE-154-J 
+TE-155-J 
+TE-153-J 
+TE-207-J 
+582.5 TE-199-J 
+717.5 TE-200-J 
+TE-203-J 
+717.5 
+717.5 TE-202-J 
+582.5 
+TE-201-J 
+TE-198-J 
+TE-143-J 582.5 TE-195-J 
+TE-144-J 717.5 TE-196-J 
+582.5 TE-197-J TE-145-J 
+TE-146-J 
+582.5 TE-191-J 
+582.5 TE-187-J 
+717.5 TE-188-J 
+717.5 
+TE-142-J 
+TE-137-J 
+TE-133-J 
+TE-134-J 
+717.5 TE-184-J 
+582.5 TE-185-J 
+717.5 TE-186-J 
+TE-132-J 
+582.5 TE-189-J 
+TE-138-J 
+TE-135-J 
+TE-136-J 
+717.5 TE-194-J 
+717.5 
+582.5 TE-193-J 
+TE-139-J 
+TE-140-J 
+717.5 TE-190-J 
+TE-192-J 
+TE-141-J 
+TE-129-J 
+TE-130-J 
+TE-131-J 582.5 TE-183-J 
+TE-182-J 
+582.5 TE-181-J 
+717.5 
+TE-175-J 
+582.5 TE-171-J 
+TE-172-J 
+TE-173-J 
+717.5 TE-176-J 
+TE-174-J 
+TE-120-J 
+Tag number 
+582.5 TE-169-J 
+Operating temperature 
+ºF 
+TE-117-J 
+TE-128-J 
+717.5 TE-178-J 
+582.5 TE-179-J 
+717.5 TE-180-J 
+TE-126-J 
+TE-170-J 
+TE-127-J 
+TE-118-J 
+TE-119-J 
+717.5 
+582.5 
+TE-121-J 
+TE-122-J 
+Operating temperature 
+ºF 
+ABENGOA SOLAR 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+Issue for Bid 
+Description 
+4521-ESP-AGE-57-70-0002 Revision 
+TE-123-J 
+TE-125-J 582.5 TE-177-J 
+ Solar Collectors RTD List 
+Tag number 
+717.5 
+582.5 
+717.5 
+TE-124-J 
+
+[page 33]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 33 of 39 
+Document Nº: Rev.: 1 
+Description 
+ABENER-TEYMA 
+AG ENGINEERING 
+TE-203-K 
+717.5 TE-204-K 
+TE-156-K 717.5 TE-208-K 
+582.5 
+TE-207-K 
+TE-151-K 
+TE-205-K TE-153-K 
+TE-154-K 
+TE-155-K 582.5 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+582.5 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+TE-149-K 
+TE-140-K 
+TE-146-K 717.5 
+TE-145-K 
+717.5 
+TE-141-K 
+582.5 
+717.5 
+TE-144-K 
+TE-201-K 
+TE-150-K 
+582.5 TE-199-K 
+717.5 TE-200-K 
+TE-202-K 
+TE-147-K 
+TE-148-K 
+TE-191-K 
+TE-195-K 
+TE-197-K 
+TE-198-K 
+717.5 TE-190-K 
+TE-189-K 
+TE-138-K 
+TE-137-K 582.5 
+582.5 TE-187-K 
+717.5 TE-188-K 
+TE-183-K 
+TE-132-K 
+TE-135-K 
+TE-136-K 
+TE-133-K 
+TE-134-K 
+582.5 TE-193-K 
+TE-194-K 
+TE-196-K 
+TE-142-K 
+TE-143-K 582.5 
+TE-139-K 582.5 
+582.5 
+717.5 TE-206-K 
+Zone 1032 East 
+TE-152-K 
+717.5 
+ABENGOA SOLAR 
+717.5 TE-184-K 
+582.5 TE-185-K 
+717.5 TE-186-K 
+717.5 TE-178-K 
+582.5 TE-179-K 
+717.5 TE-182-K 
+582.5 TE-181-K 
+TE-127-K 
+TE-128-K 717.5 TE-180-K 
+717.5 TE-192-K 
+TE-129-K 
+TE-130-K 
+TE-131-K 582.5 
+TE-115-K 
+TE-116-K 
+717.5 TE-166-K 
+582.5 TE-167-K 
+717.5 TE-168-K 
+TE-114-K 
+TE-171-K 
+TE-120-K 
+582.5 TE-169-K 
+717.5 TE-170-K 
+TE-117-K 
+TE-118-K 
+TE-119-K 582.5 
+717.5 TE-172-K 
+582.5 TE-173-K 
+717.5 TE-174-K 
+TE-123-K 
+TE-124-K 
+TE-125-K 582.5 
+TE-121-K 
+TE-122-K 
+582.5 TE-161-K 
+717.5 TE-162-K 
+TE-177-K 
+TE-126-K 
+582.5 TE-175-K 
+717.5 TE-176-K 
+582.5 TE-163-K 
+717.5 TE-164-K 
+TE-111-K 
+TE-112-K 
+TE-113-K 582.5 
+582.5 TE-157-K 
+ Solar Collectors RTD List 
+Tag number Operating temperature 
+ºF 
+TE-165-K 
+TE-109-K 
+TE-110-K 
+717.5 TE-160-K 
+TE-106-K 
+TE-107-K 
+717.5 TE-158-K 
+582.5 TE-159-K 
+TE-105-K 
+Tag number 
+TE-108-K 
+Operating temperature 
+ºF 
+Revision 
+
+[page 34]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 34 of 39 
+Document Nº: Rev.: 1 
+TE-205-L 
+Zone 1032 East 
+TE-156-L 
+Issue for Bid 
+TE-153-L 
+TE-154-L 
+TE-155-L 627.5 
+627.5 
+627.5 
+TE-152-L 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-195-L 
+TE-144-L 
+627.5 TE-193-L 
+672.5 TE-194-L 
+TE-141-L 
+TE-142-L 
+TE-143-L 627.5 
+TE-146-L 
+672.5 TE-196-L 
+627.5 TE-197-L 
+TE-207-L 
+672.5 TE-202-L 
+TE-145-L 
+TE-199-L 
+TE-151-L 
+672.5 TE-198-L 
+TE-147-L 
+TE-148-L 
+TE-149-L 627.5 TE-201-L 
+TE-150-L 
+672.5 
+672.5 TE-208-L 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+Description 
+Revision 
+ABENER-TEYMA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+627.5 
+TE-200-L 
+627.5 TE-203-L 
+672.5 TE-204-L 
+TE-186-L 
+TE-183-L 
+TE-132-L 
+627.5 TE-181-L 
+672.5 TE-182-L 
+TE-129-L 
+TE-130-L 
+TE-131-L 
+627.5 TE-179-L 
+627.5 
+TE-133-L 
+TE-134-L 
+672.5 TE-184-L 
+627.5 TE-185-L 
+672.5 
+TE-137-L 627.5 TE-189-L 
+627.5 TE-173-L 
+672.5 TE-174-L 
+TE-127-L 
+672.5 TE-178-L 
+627.5 TE-187-L 
+672.5 TE-188-L 
+TE-135-L 
+TE-136-L 
+TE-139-L 
+TE-140-L 
+672.5 TE-190-L 
+627.5 TE-191-L 
+672.5 TE-192-L 
+TE-138-L 
+TE-175-L 
+TE-115-L 
+672.5 
+TE-119-L 
+TE-122-L 
+672.5 TE-172-L 
+TE-121-L 
+TE-123-L 
+627.5 TE-171-L 
+672.5 TE-168-L 
+TE-117-L 
+TE-116-L 
+TE-169-L 
+672.5 TE-170-L TE-118-L 
+TE-177-L 
+TE-128-L 
+TE-111-L 
+TE-112-L 
+TE-113-L 627.5 
+627.5 
+627.5 
+627.5 
+TE-120-L 
+672.5 TE-180-L 
+TE-126-L 
+672.5 TE-176-L TE-124-L 
+TE-125-L 
+TE-160-L 
+ Solar Collectors RTD List 
+Operating temperature 
+ºF 
+TE-157-L 
+627.5 
+TE-108-L 
+TE-109-L 
+Tag number 
+TE-107-L 
+672.5 
+672.5 
+TE-161-L 
+TE-166-L 
+627.5 TE-167-L 
+TE-165-L 
+Tag number 
+627.5 
+672.5 TE-206-L 
+Operating temperature 
+ºF 
+TE-106-L 
+TE-114-L 
+TE-158-L 
+TE-159-L 627.5 
+TE-105-L 
+672.5 
+TE-163-L 
+672.5 
+TE-162-L TE-110-L 
+TE-164-L 
+
+[page 35]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 35 of 39 
+Document Nº: Rev.: 1 
+Issue for Bid 
+Description 
+Revision 
+TE-156-M 672.5 
+TE-151-M 
+ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+4521-ESP-AGE-57-70-0002 
+ABENGOA SOLAR 
+TE-208-M 
+TE-147-M 
+TE-148-M 
+TE-149-M 627.5 
+TE-205-M 
+TE-201-M 
+TE-150-M 
+TE-153-M 627.5 
+TE-152-M 
+672.5 TE-202-M 
+627.5 TE-203-M 
+672.5 
+TE-206-M 
+627.5 TE-199-M 
+672.5 TE-200-M 
+672.5 
+TE-155-M 627.5 TE-207-M 
+TE-204-M 
+TE-154-M 
+627.5 TE-197-M TE-145-M 
+TE-146-M 672.5 TE-198-M 
+TE-137-M 627.5 
+TE-133-M 
+TE-134-M 
+672.5 TE-184-M 
+627.5 TE-185-M 
+672.5 
+TE-196-M 
+TE-189-M 
+TE-138-M 
+627.5 TE-187-M 
+672.5 TE-188-M 
+TE-135-M 
+TE-136-M 
+TE-139-M 
+TE-140-M 
+672.5 TE-190-M 
+627.5 TE-191-M 
+672.5 TE-192-M 
+TE-144-M 
+627.5 TE-193-M 
+672.5 TE-194-M 
+TE-141-M 
+TE-142-M 
+TE-143-M 627.5 
+672.5 
+TE-179-M 
+672.5 TE-180-M 
+TE-183-M 
+TE-195-M 
+TE-186-M 
+TE-132-M 
+627.5 TE-181-M 
+672.5 TE-182-M 
+TE-129-M 
+TE-130-M 
+TE-131-M 627.5 
+TE-178-M 
+TE-172-M 
+627.5 TE-173-M 
+672.5 TE-174-M 
+TE-177-M 
+TE-175-M 
+672.5 TE-176-M TE-124-M 
+TE-125-M 627.5 
+TE-171-M 
+TE-120-M 
+TE-119-M 627.5 
+627.5 TE-169-M 
+672.5 TE-170-M 
+TE-117-M 
+TE-118-M 
+TE-116-M 
+672.5 
+TE-162-M 
+TE-108-M 
+TE-109-M 
+TE-110-M 
+672.5 
+TE-165-M 
+627.5 TE-163-M 
+TE-127-M 
+TE-128-M 
+672.5 
+TE-121-M 
+TE-122-M 
+672.5 
+TE-126-M 
+627.5 
+627.5 
+TE-123-M 
+TE-158-M 
+627.5 TE-159-M 
+TE-105-M 627.5 TE-157-M 
+672.5 
+TE-111-M 
+TE-112-M 672.5 
+ Solar Collectors RTD List 
+TE-115-M 
+TE-160-M 
+627.5 TE-161-M 
+672.5 
+TE-107-M 
+TE-113-M 627.5 
+TE-164-M 
+TE-166-M 
+627.5 TE-167-M 
+672.5 TE-168-M 
+TE-114-M 
+Tag number Tag number Operating temperature 
+ºF 
+TE-106-M 
+Operating temperature 
+ºF 
+Zone 1042 East 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+
+[page 36]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 36 of 39 
+Document Nº: Rev.: 1 
+TE-205-N 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+TE-151-N TE-203-N 
+717.5 TE-204-N 
+582.5 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant 
+Issue for Bid 
+TE-207-N 
+TE-156-N 717.5 TE-208-N 
+TE-155-N 582.5 
+4521-ESP-AGE-57-70-0002 
+Description 
+Revision 
+TE-195-N 
+717.5 TE-196-N 
+TE-145-N 
+582.5 
+TE-141-N 
+582.5 TE-197-N 
+TE-201-N 
+TE-150-N 
+582.5 
+TE-188-N 
+582.5 
+TE-199-N 
+717.5 TE-200-N 
+TE-147-N 
+TE-191-N 
+TE-179-N 
+717.5 
+582.5 
+717.5 TE-198-N 
+TE-144-N 
+TE-190-N 
+582.5 
+TE-194-N 
+TE-193-N 
+717.5 TE-186-N 
+TE-154-N 
+TE-152-N 
+717.5 TE-202-N 
+582.5 
+TE-134-N 
+TE-142-N 
+TE-143-N 
+TE-192-N 
+TE-135-N 
+TE-136-N 
+717.5 
+582.5 
+TE-140-N 
+TE-138-N 
+582.5 
+TE-139-N 
+TE-189-N 
+TE-148-N 
+TE-149-N 
+717.5 
+717.5 
+TE-146-N 
+TE-153-N 
+TE-126-N 
+582.5 
+TE-131-N 582.5 TE-183-N 
+TE-132-N 
+582.5 TE-181-N 
+TE-127-N 
+TE-129-N 
+TE-175-N 
+717.5 
+TE-166-N 
+582.5 
+TE-128-N 
+TE-176-N 
+TE-170-N 
+TE-125-N 582.5 TE-177-N 
+TE-180-N 
+TE-137-N 
+717.5 TE-184-N 
+582.5 TE-185-N 
+717.5 TE-182-N 
+TE-187-N 
+717.5 
+TE-133-N 
+TE-117-N 
+TE-118-N 
+TE-119-N 582.5 
+TE-130-N 
+582.5 TE-123-N 
+TE-124-N 
+TE-120-N 
+717.5 
+717.5 
+TE-116-N 
+582.5 
+717.5 
+TE-174-N 
+TE-163-N 
+717.5 TE-164-N 
+TE-121-N 
+TE-160-N 
+582.5 
+TE-122-N 
+717.5 TE-172-N 
+582.5 TE-173-N 
+717.5 
+582.5 TE-169-N 
+TE-161-N 
+717.5 TE-162-N 
+TE-111-N 
+TE-112-N 
+TE-113-N 582.5 TE-165-N 
+TE-109-N 
+TE-110-N 
+Operating temperature 
+ºF 
+TE-107-N 
+717.5 TE-178-N 
+TE-115-N 
+TE-171-N 
+TE-167-N 
+717.5 TE-168-N 
+TE-114-N 
+Operating temperature 
+ºF Tag number 
+582.5 TE-157-N 
+TE-106-N 
+Tag number 
+717.5 TE-158-N 
+582.5 TE-159-N 
+TE-108-N 
+ Solar Collectors RTD List 
+TE-105-N 
+717.5 TE-206-N 
+Zone 1042 East 
+
+[page 37]
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+582.5 
+717.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 37 of 39 
+Document Nº: Rev.: 1 
+ABENGOA SOLAR 
+Solana power plant Description 
+582.5 TE-191-O 
+582.5 TE-185-O 
+TE-160-O 
+TE-164-O 
+582.5 
+TE-170-O 
+TE-161-O 
+TE-184-O 
+582.5 
+717.5 TE-182-O 
+582.5 TE-175-O 
+TE-186-O 
+TE-167-O 
+TE-189-O 
+717.5 
+TE-158-O 
+717.5 TE-178-O 
+582.5 TE-177-O 
+717.5 
+TE-183-O 
+582.5 
+TE-193-O 
+717.5 TE-194-O 
+582.5 
+TE-162-O 
+582.5 
+582.5 
+717.5 
+582.5 
+TE-203-O 
+582.5 
+TE-169-O 
+582.5 TE-165-O 
+717.5 
+717.5 
+TE-159-O 
+717.5 TE-198-O 
+TE-201-O 
+717.5 
+TE-166-O 
+TE-163-O 
+717.5 TE-168-O 
+TE-197-O 
+Revision 
+717.5 TE-202-O 
+582.5 TE-199-O 
+717.5 TE-200-O 
+582.5 
+TE-171-O 
+717.5 TE-172-O 
+TE-173-O 
+582.5 TE-179-O 
+TE-174-O 
+582.5 
+717.5 TE-176-O 
+TE-206-O 
+TE-188-O 
+582.5 TE-181-O 
+717.5 
+TE-187-O 
+717.5 
+TE-180-O 
+717.5 
+582.5 
+717.5 
+717.5 TE-192-O 
+582.5 
+582.5 
+TE-195-O 
+4521-ESP-AGE-57-70-0002 
+717.5 
+717.5 
+TE-113-O 
+TE-114-O 
+TE-115-O 
+TE-116-O 
+TE-117-O 
+TE-118-O 
+TE-119-O 
+717.5 
+TE-126-O 
+TE-127-O 
+TE-128-O 
+TE-112-O 
+582.5 TE-207-O 
+717.5 TE-208-O 
+ Solar Collectors RTD List 
+Tag number Operating temperature 
+ºF 
+TE-120-O 
+TE-121-O 
+TE-122-O 
+TE-129-O 
+TE-125-O 
+TE-145-O 
+TE-146-O 
+TE-147-O 
+TE-143-O 
+TE-144-O 
+582.5 
+TE-139-O 
+TE-148-O 
+717.5 TE-190-O 
+TE-196-O 
+582.5 
+TE-157-O 
+TE-106-O 
+TE-135-O 
+TE-136-O 
+TE-107-O 
+TE-108-O 
+TE-109-O 
+582.5 TE-105-O 
+TE-110-O 
+TE-123-O 
+TE-124-O 
+TE-137-O 
+TE-138-O 
+TE-155-O 
+Issue for Bid 
+ABENER-TEYMA 
+AG ENGINEERING 
+TE-150-O 
+TE-151-O 
+TE-152-O 717.5 
+TE-153-O 
+TE-154-O 
+TE-205-O 
+Zone 1042 East 
+TE-204-O 
+TE-141-O 
+TE-142-O 
+TE-156-O 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Tag number 
+582.5 
+TE-130-O 
+TE-131-O 
+TE-132-O 
+TE-149-O 
+Operating temperature 
+ºF 
+TE-140-O 
+TE-133-O 
+TE-134-O 
+TE-111-O 
+
+[page 38]
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+627.5 
+672.5 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 38 of 39 
+Document Nº: Rev.: 1 
+TE-153-P 
+4521-ESP-AGE-57-70-0002 Revision 
+ABENGOA SOLAR ABENER-TEYMA 
+AG ENGINEERING 
+Solana power plant Description 
+Zone 1042 East 
+627.5 TE-205-P 
+TE-156-P 672.5 TE-208-P 
+TE-155-P 627.5 TE-207-P 
+TE-198-P 
+Issue for Purchase - Solar feld zone number changedhanged hanged hanged 
+Issue for Bid 
+TE-204-P 
+627.5 TE-177-P 
+TE-136-P 672.5 
+672.5 TE-200-P 
+TE-180-P 
+TE-195-P 
+672.5 TE-206-P TE-154-P 
+TE-169-P 
+672.5 TE-168-P 
+TE-149-P 627.5 TE-201-P 
+TE-148-P 
+TE-188-P 
+627.5 
+TE-128-P 672.5 
+672.5 TE-186-P 
+TE-140-P 672.5 TE-192-P 
+TE-141-P 
+TE-144-P 
+TE-151-P 627.5 TE-203-P 
+TE-150-P 672.5 TE-202-P 
+672.5 TE-196-P 
+627.5 TE-193-P 
+627.5 TE-191-P 
+672.5 TE-194-P 
+627.5 TE-189-P 
+672.5 TE-174-P 
+672.5 
+TE-152-P 672.5 
+TE-147-P 627.5 TE-199-P 
+TE-143-P 
+TE-146-P 672.5 
+TE-130-P 
+TE-178-P TE-126-P 
+TE-187-P 
+627.5 
+TE-138-P 672.5 
+TE-133-P 627.5 
+TE-137-P 
+TE-190-P 
+TE-135-P 627.5 
+TE-120-P 
+TE-134-P 
+TE-184-P 
+TE-183-P 
+TE-197-P TE-145-P 627.5 
+TE-139-P 
+TE-142-P 
+TE-122-P 
+TE-125-P 
+672.5 TE-166-P 
+TE-121-P 
+TE-117-P 
+TE-124-P 
+627.5 TE-167-P 
+627.5 
+672.5 
+TE-176-P 
+672.5 TE-182-P 
+TE-181-P 
+627.5 TE-179-P 
+TE-185-P 
+TE-119-P 627.5 TE-171-P 
+TE-129-P 
+672.5 
+627.5 
+672.5 
+627.5 TE-175-P 
+TE-114-P 
+TE-110-P 
+TE-111-P 
+627.5 TE-173-P 
+TE-123-P 
+TE-172-P 
+672.5 
+ Solar Collectors RTD List 
+Tag number 
+TE-118-P 
+TE-116-P 
+672.5 TE-170-P 
+627.5 
+TE-106-P TE-158-P 
+TE-132-P 
+TE-131-P 
+TE-127-P 
+TE-115-P 
+627.5 
+672.5 TE-162-P 
+TE-163-P 
+TE-109-P 627.5 
+TE-108-P 672.5 
+Operating temperature 
+ºF 
+TE-105-P 627.5 TE-157-P 
+Operating temperature 
+ºF Tag number 
+TE-113-P 627.5 TE-165-P 
+TE-107-P TE-159-P 
+TE-161-P 
+672.5 TE-164-P TE-112-P 
+TE-160-P 
+
+[page 39]
+Process Connection (A) 
+3/4" 
+0
+4
+3
+2
+1
+Position 
+1 PGV Dec/07/2011 
+0 PGV Mar/15/2011 
+Rev By Date Sheet: 39 of 39 
+Document Nº: Rev.: 1 
+ Sliding connector 
+ Flexible duct 
+ø 1/8 ´´ 
+ø 3/8 ´´ 
+AISI-316L 
+AISI-316L 
+Solar Collectors RTD Data 
+ABENER TEYMA 
+AG ENGINEERING Issue for Purchase - See final RTD sketch on sheet 6 
+Issue for Bid 
+Solana power plant 
+AISI-316L 
+Quantity Pipe diameter Insertion lenght (U) Overall lenght (L)
+3232 2 1/2´´ 2 1/4" ´´ 6 1/4´´ 
+RTD RTD type A Temperature sensor 
+Description Quality Dimensions 
+1/8 NPT-M 
+Revision 4521-ESP-AGE-57-70-0002 
+ABENGOA SOLAR 
+Description 
+ Mantle

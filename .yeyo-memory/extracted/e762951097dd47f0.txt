@@ -1,0 +1,134 @@
+[page 1]
+252-MS-03A-CS31-24"-2
+Flow: 1739 gpm
+Vel: 1.388 ft/s
+252-MS-04A-CS31-24"-2
+Flow: 1794 gpm
+Vel: 1.432 ft/s
+253-MS-01A-CS31-20"-1
+Flow: 1794 gpm
+Vel: 2.071 ft/s
+Branch 1
+Flow: 1794 gpm
+Vel: 1.432 ft/s
+Tramo 427
+Flow: 160.2 gpm
+Vel: 15.32 ft/s
+253-MS-01A-CS31-20"-2
+Flow: 1794 gpm
+Vel: 2.071 ft/s
+Pump Discharge 18''
+Flow: 1739 gpm
+Vel: 2.732 ft/s
+251-MS-01A-CS31-20"-1
+Flow: 1739 gpm
+Vel: 2.008 ft/s
+251-MS-01A-CS31-20"-2
+Flow: 1739 gpm
+Vel: 2.008 ft/s
+251-MS-01A-CS31-20"-3
+Flow: 1739 gpm
+Vel: 2.008 ft/s 253-MS-01F-CS31-20"13
+Flow: 1794 gpm
+Vel: 2.071 ft/s
+Ring Inlet Line 24''
+Flow: 1794 gpm
+Vel: 1.432 ft/s
+252-MS-03A-CS31-24"-3
+Flow: 1739 gpm
+Vel: 1.388 ft/s
+252-MS-04A-CS31-24"-4
+Flow: 1794 gpm
+Vel: 1.432 ft/s
+Cold salt tank
+Set P: 14.5 psi a
+Level: 32.81 ft
+El: 46.36 ft
+P: 38.5 psi a FIT 125105
+dP: 0 psi
+1-MX-251
+dP: 7 psi
+Pin: 70.6 psi a
+Pout: 39.21 psi a
+El: 12.47 ft
+P: 57.98 psi a
+FIT.2
+dP: 0 psi
+FV 1-252-21
+Flow: 1794 gpm
+dP: 49.27 psi
+Position: 44.79 %
+El: 46.59 ft
+P: 37.74 psi a
+El: 6.562 ft
+P: 70.6 psi aEl: 6.562 ft
+P: 70.72 psi a
+El: 48.95 ft
+P: 28.73 psi a
+1-MP-251
+TH: 41.69 ft
+NPSHa: 50.35 ft
+Psuct: 41.59 psi a
+Pdisch: 76.02 psi a
+Speed: 540 rpm
+Eff: 52.77 %
+El: 40.88 ft
+P: 35.37 psi a El: 1.64 ft
+P: 17.24 psi a El: 1.64 ft
+P: 17.24 psi a
+Hot Salt Tank 1-MT-252
+Set P: 14.5 psi a
+Level: 3.412 ft
+El: 36.52 ft
+P: 46.64 psi a
+FV 1-251-05
+Flow: 1739 gpm
+dP: 0.4709 psi
+Position: 100 % El: 48.95 ft
+P: -20.59 psi a
+El: 32.81 ft
+P: -7.702 psi a
+El: 46.59 ft
+P: 37.74 psi a
+El: 12.47 ft
+P: 58.09 psi a
+Charge 25% Load @ 540 rpm.pipe
+bar g
+Lineup:
+Power:
+25% charging-nivel min
+psi a
+Program Version:
+Maximum Iterations:
+File Name:
+Velocity:
+Drawn by:
+Density:
+Flow rate:
+cP
+Company:
+Calculation Method:
+Elevation:
+lb/ft³
+0.01
+12.1.21778
+Project Information
+Viscosity:
+2100
+14.5
+m/s
+viernes, agosto 05, 2016 09:51 AM
+PIPE-FLO Professional 12
+Print Date:
+Temperature:
+Size:
+Project:
+Laminar Cutoff Re:
+Atmospheric Pressure:
+Pressure:
+ºF
+Units Used
+100
+Darcy-Weisbach
+Iteration Tolerance:
+Length:

@@ -1,0 +1,119 @@
+{
+  "id": "2df071cb5b6d73a0",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/LIS/4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 33387,
+  "size_human": "33 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+  "doc_code": "4521-LIS-AEE-39-70-0015",
+  "revision": "Rev.0",
+  "status": "ok",
+  "text_chars": 28097,
+  "token_estimate": 7024,
+  "chunks": 18,
+  "card_path": ".yeyo-memory/cards/2df071cb5b6d73a0.json",
+  "extracted_path": ".yeyo-memory/extracted/2df071cb5b6d73a0.txt",
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20161215084521+01'00'",
+      "ModDate": "D:20161215084521+01'00'",
+      "Author": "AGMMA",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.999091+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::72",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 72,
+        "doc_code": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "title": "",
+        "revision": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::72",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 72,
+        "doc_code": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "title": "",
+        "revision": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::82",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 82,
+        "doc_code": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::132",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 132,
+        "doc_code": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::125",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 125,
+        "doc_code": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::74",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 74,
+        "doc_code": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "title": "",
+        "revision": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:53.999093+00:00"
+}

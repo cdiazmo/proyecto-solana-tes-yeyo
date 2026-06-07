@@ -1,0 +1,40 @@
+{
+  "id": "ec873a72aad1bfb0",
+  "path": "12 As Built TES 6/03_C&S/02_CAL/4521-CAL-AEE-75-52-0001-GAR_Rev01_exchangers_foundation/4521-CAL-AGE-75-52-0001_Rev1.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 4002925,
+  "size_human": "3.8 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-CAL-AGE-75-52-0001 Rev1",
+  "doc_code": "4521-CAL-AGE-75-52-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 89606,
+  "token_estimate": 22401,
+  "chunks": 57,
+  "card_path": ".yeyo-memory/cards/ec873a72aad1bfb0.json",
+  "extracted_path": ".yeyo-memory/extracted/ec873a72aad1bfb0.txt",
+  "metadata": {
+    "pages": 45,
+    "pdf_metadata": {
+      "Title": "4521-CAL-AGE-75-52-0001_Rev1",
+      "Author": "Pedro Pajares de Tena",
+      "Subject": "",
+      "Producer": "Mac OS X 10.13.3 Quartz PDFContext",
+      "Creator": "Word",
+      "CreationDate": "D:20180406173558Z00'00'",
+      "ModDate": "D:20180406173558Z00'00'",
+      "Keywords": "",
+      "AAPL:Keywords": "[]"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:04.356659+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:04.356664+00:00"
+}

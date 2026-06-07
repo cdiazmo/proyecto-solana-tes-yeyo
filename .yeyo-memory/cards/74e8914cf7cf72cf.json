@@ -1,0 +1,37 @@
+{
+  "id": "74e8914cf7cf72cf",
+  "path": "04 GD Fabricacon LOI TES 3/Documentos procesos/TD-DTS-SLN-001-00 Equipment Data Sheet .pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 196205,
+  "size_human": "192 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "TD-DTS-SLN-001-00 Equipment Data Sheet",
+  "doc_code": "TD-DTS-SLN-001-00",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3882,
+  "token_estimate": 970,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/74e8914cf7cf72cf.json",
+  "extracted_path": ".yeyo-memory/extracted/74e8914cf7cf72cf.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "CreationDate": "D:20200515133531+02'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Word para Office 365",
+      "Producer": "Microsoft® Word para Office 365",
+      "ModDate": "D:20200515144910+02'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:57.799545+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:57.799546+00:00"
+}

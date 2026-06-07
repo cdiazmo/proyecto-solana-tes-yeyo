@@ -1,0 +1,39 @@
+{
+  "id": "77f1fe56a06b4082",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0012_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 51962,
+  "size_human": "51 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0012 R1",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 23299,
+  "token_estimate": 5824,
+  "chunks": 15,
+  "card_path": ".yeyo-memory/cards/77f1fe56a06b4082.json",
+  "extracted_path": ".yeyo-memory/extracted/77f1fe56a06b4082.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120312180231-05'00'",
+      "ModDate": "D:20120312180231-05'00'",
+      "Title": "4521-ESP-AGE-39-70-0012 Purgemeter specification",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:57.892365+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:57.892366+00:00"
+}

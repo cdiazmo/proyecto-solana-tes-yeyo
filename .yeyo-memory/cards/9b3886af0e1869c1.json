@@ -1,0 +1,28 @@
+{
+  "id": "9b3886af0e1869c1",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Flowserve/Curve_HD_GAD_08ELM-2 stage_Rev0.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 1442127,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "Curve HD GAD 08ELM-2 stage Rev0",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3115,
+  "token_estimate": 778,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/9b3886af0e1869c1.json",
+  "extracted_path": ".yeyo-memory/extracted/9b3886af0e1869c1.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "CreationDate": "D:20160914103316-07'00'",
+      "ModDate": "D:20160914143802-04'00'",
+      "Producer": "iText® 5.5.0 ©2000-2013 iText Group NV (AGPL-version)"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:11:56.913928+00:00"
+}

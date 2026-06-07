@@ -1,0 +1,31 @@
+{
+  "id": "18a8a6024182f0a5",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/181205/W103387-0-60000-0-Quality Documentation_en-00.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 4691291,
+  "size_human": "4.5 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "W103387-0-60000-0-Quality Documentation en-00",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 30145,
+  "token_estimate": 7536,
+  "chunks": 19,
+  "card_path": ".yeyo-memory/cards/18a8a6024182f0a5.json",
+  "extracted_path": ".yeyo-memory/extracted/18a8a6024182f0a5.txt",
+  "metadata": {
+    "pages": 29,
+    "pdf_metadata": {
+      "Author": "kasth",
+      "CreationDate": "D:20180504154529+02'00'",
+      "Creator": "Adobe Acrobat Pro 10.1.16",
+      "ModDate": "D:20181127171704+01'00'",
+      "Producer": "Adobe Acrobat Pro 10.1.16",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:35.302693+00:00"
+}

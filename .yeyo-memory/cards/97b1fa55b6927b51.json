@@ -1,0 +1,28 @@
+{
+  "id": "97b1fa55b6927b51",
+  "path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+  "top_dir": "12 As Built TES 6",
+  "ext": "xlsx",
+  "size_bytes": 114979,
+  "size_human": "112 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "SOLANA TES 6 AS built list R04 20200429",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 26966,
+  "token_estimate": 6741,
+  "chunks": 17,
+  "card_path": ".yeyo-memory/cards/97b1fa55b6927b51.json",
+  "extracted_path": ".yeyo-memory/extracted/97b1fa55b6927b51.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "SMWP -Document List",
+        "rows_seen": 434,
+        "non_empty_rows": 421
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:20:49.955238+00:00"
+}

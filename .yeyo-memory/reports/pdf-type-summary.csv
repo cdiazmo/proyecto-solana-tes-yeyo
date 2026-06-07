@@ -1,0 +1,14 @@
+type,pdfs,legibles,legibilidad,requiere_ocr,errores,con_codigo,text_chars,chunks,token_estimate
+Calculo,76,76,100.0%,0,0,35,6938491,4430,1734596
+Especificacion tecnica,173,170,98.3%,3,0,169,4433093,2865,1108210
+Plano / dibujo,901,342,38.0%,0,0,627,1922477,1342,480501
+Procedimiento / manual,50,48,96.0%,1,0,32,1616453,1039,404095
+Isometrico,31,15,48.4%,0,0,2,701440,450,175355
+Otros / sin clasificar,59,32,54.2%,23,0,3,527129,347,131772
+Listado / registro,39,38,97.4%,1,0,29,474713,315,118663
+Memoria / nota tecnica,20,20,100.0%,0,0,19,400096,262,100016
+Informe,22,21,95.5%,1,0,9,296419,196,74099
+Hoja de datos,4,4,100.0%,0,0,4,250424,160,62605
+Transmision / carta,20,19,95.0%,0,0,0,83815,60,20948
+Permiso / paquete oficial,11,5,45.5%,0,0,0,71174,47,17791
+Inspeccion,3,3,100.0%,0,0,1,18398,12,4598

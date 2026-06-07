@@ -1,0 +1,127 @@
+[sheet Cover ]
+ABEINSA EPC
+Datasheet
+Title:
+Drain back tank datasheet
+Document No.: | 4521-HDD-AEE-075-064-0010-GAR
+Revision: | 02
+Date: | 2016-11-18 00:00:00
+Prepared by:
+Ricardo R. Delgado A. | Electronic Signature
+Reviewed by:
+Ricardo R. Delgado A. | Electronic Signature
+Approved by:
+José María Rodríguez | Electronic Signature
+This document is property of Abeinsa EPC. Its total or partial reproduction is strictly forbidden by any means, as well as its distribution to third parties without the express written consent of Abeinsa EPC.
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential information, legal requirements or local regulations and/or contractual requirements of the client), there was a need to modify the requirements included in this procedure, these changes must be properly documented in the quality, environment and health and safety plan of the project, prior approval from the company headquarters management system department.
+The original copy of this document is electronically signed and filed in the document management system of Abeinsa EPC.
+
+[sheet Revision]
+ABEINSA EPC | Document: 4521-HDD-AEE-075-064-0010-GAR
+Revision: | 02 | Date: | 2016-11-18 00:00:00
+Page: 2 of 4
+Revision Control Sheet
+Revision | Date | Reason for the revision | Prepared by | Reviewed by | Approved by
+00 | 2016-08-22 00:00:00 | Issue for purchase | RDA | RDA | ABB
+01 | 2016-09-13 00:00:00 | Nozzle location update | RDA | RDA | PDB
+2 | 2016-11-18 00:00:00 | Nozzle location and Schedule update | RDA | RDA | JMR
+
+[sheet Annexe]
+ABEINSA EPC KAXU | AG INGENIERIA
+Kaxu Solar One
+0328-HDD-AGI-58-62-0006 | HTF Main Pump data sheet (Annexe) | REV. | By | Ched | Appr. | Date
+0 | JSS | TMF | HVM | 2011-05-21 00:00:00
+
+[sheet Drain-back tank]
+ABEINSA EPC | Document: 4521-HDD-AEE-075-064-0010-GAR
+Revision: | 02 | Date: | 18/011/2016
+Page 3 of 4
+Supplier information
+1 | General
+KKS | NNNN-MT-259 (18)
+Units | 1
+Design standard | Horizontal
+Fluid | Molten Salts (60%NaNO3, 40%KNO3) / Nitrogen
+Heads | Type Korbbogen
+Body | Cilindrical with slope of 1%
+Nominal capacity | 5.7 m3
+Thickness | (2)
+Design life | 30 years
+Blanketing (No/Yes-Gas) | Yes - Nitrogen (11)
+2 | Operating conditions
+Operating Pressure | 0.045 barg
+Temperature Cycles | Ambient/536ºF up to 718ºF (7)(15)(16)
+Density 543.15ºF / 718ºF | 119.74 / 115.3 lb/ft3
+Operating pump rate in/out | 137.4 gpm
+3 | Design information
+Code | Asme VIII DIV.1 / DIV.2 (2)
+Design temperature | 750 ºF
+Design pressure - internal | FV / 50.76 Psi g
+Corrosion allowances | 0.157"
+Heating coil/units | No (3)
+Insulation thickness | 8"
+Diameter | 59" approx. (8)
+Length | 108.26" approx. (8)
+4 | Connection list (6) | Mechanized according ASME 16/25
+Connection | Type of connection | Spec. | Projection | Reinforcement
+Description (8) | Name | Ner | DN | End | ANSI | Schedule | mm
+Drain / Vent from HEX train 1 | A1 | 1 | 4" | BW | B16.25 | 120 | 300 | By Supplier
+Nitrogen inlet | A3 | 1 | 2" | BW | B16.25 | 160 | 300 | By Supplier
+Pressure relief vaccum breaker connection | W | 1 | 2" | BW | B16.25 | XXS | 300 | By Supplier
+Vent to drain pit | B1 | 1 | 3" | BW | B16.25 | 160 | 300 | By Supplier
+Drain to drain pit | B2 | 1 | 4" | BW | B16.25 | 160 | 300 | By Supplier
+Radar connection | L | 1 | 3" | 300# WN/RTJ | B16.5 | 160 | 300 | By Supplier
+Pressure transmitter connection | P | 1 | 4" | 300#RTJ | B16.5 | XXS | 300 | By Supplier
+Pump hole/ Manhole (12) (13) | A4 | 1 | 20" | WN/FF | B16.5 | STD / 150# | 350 | By Supplier (13)
+Manhole (12) | A5 | 1 | 24" | WN/RF | B16.5 | 40 | 350 | By Supplier
+Temperature transmitter connection | T | 1 | 1 1/2" | 300#RTJ | B16.5 | XXS | 250 | By Supplier
+Drain / Vent from HEX train 2 | A2 | 1 | 4" | BW | B16.25 | 120 | 300 | By Supplier
+Recirculation line | C1 | 1 | 3" | BW | B16.25 | 40 | 350 | By Supplier
+Level switch up | C2 | 1 | 2" | 300# WN/RTJ | B16.5 | XXS | 300 | By Supplier
+Level switch lower | C3 | 1 | 2" | 300# WN/RTJ | B16.5 | XXS | 300 | By Supplier
+Spare | C4 | 1 | 4" | BW | B16.25 | 120 | 300 | By Supplier
+Nozzles maximum allowed loads | (17) Additionally pump hole has to support weight of 1000Kg (Pump weight) and the pump's axial thrust.
+5 | Surface treatment/Painting
+Internal | (4)
+External | (4)
+Cleaning | (4)
+Internal painting | (4)
+External painting | (4)
+6 | Construction information
+Anchor bolts | By supplier
+Shell plates | SA 516 Gr. 70 (1)
+Flanges / Nozzles | A 105 / A 106 Gr.B (1)
+Bolts / Nuts / Internals | By supplier
+7 | Scope of supply
+Lifting Lugs | Yes
+Earthing Lugs | Yes
+Delivery CIF | As optional
+Delivery time (EXW & CIF) | (1)
+Nameplate | According to ASME VIII (and the local Pressure Equipment Regulation)
+Thermal limits: heating up and heating down ramps, maximum temperature gradient between empty equipment and entering fluid (nitrogen or salts) | (15) (16)
+8 | Notes
+(1) To be confirmed by supplier
+(2) To be defined by supplier.
+(3) The tank and all its connections will be heat traced and isolated, according to buyer specifications.
+(4) Manufacturer's paint criteria shall be submitted with the bid for the buyer approval before any possible awarding.
+(5) The tank shall have a sliding support to take up expansion due to temperature
+(6) According to buyer's General Piping Technical Specification
+(7) Trace content of salts can remain in the tank after draining after cooling
+(8) For a more detailed drawing of this tank see Page 4.
+(9) Supplier will include the design and supply of anchor bolts, anchor plate and template for the bases (fix and sliding supports) and Cogetherm insulation.
+(10) Supplier will include the design and supply for insulation clips.
+(11) The tank will be N2 blanketed during stand-by periods.Also pressurized N2 will be used to empty the tank during drainage operation.
+(12) Manhole to be located on top. If there is not enough space, manhole will not be installed and access to the tank will be through the pump hole
+(13) To be confirmed by pump supplier
+(14) The weld for transportation caps has to be lower that the use for the hydraulic test and has to protect the nozzle mechanized according ASME 16/25
+(15) The tank can suffer temperature step changes close to 212ºF up to a maximum of 718ºF.
+(17) Tank will include a pit to give submergence to the pump
+(16) Tank will suffer 12 thermal cycles per year, from 29ºF to 536ºF and from 536ºF to 750ºF
+(17) Refer to the specification 4521-SPE-SGT-000-223-0006 Maximum allowed loads in nozzles.
+(18) TAG number TBC by UTE during manufacturing process.
+
+[sheet Scheme]
+ABEINSA EPC | Document: 4521-HDD-AEE-075-064-0010-GAR
+Revision: | 02 | Date: | 2016-11-18 00:00:00
+Page 4 of 4
+9 | Scheme

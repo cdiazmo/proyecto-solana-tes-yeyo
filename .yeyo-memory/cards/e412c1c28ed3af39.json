@@ -1,0 +1,48 @@
+{
+  "id": "e412c1c28ed3af39",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0013 _R0 Level Gauge Specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 226075,
+  "size_human": "221 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-70-0013 R0 Level Gauge Specification",
+  "doc_code": "4521-ESP-AGE-58-70-0013",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13153,
+  "token_estimate": 3288,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/e412c1c28ed3af39.json",
+  "extracted_path": ".yeyo-memory/extracted/e412c1c28ed3af39.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 70,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 80,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "HTF RTD+Transm. Spec.",
+        "rows_seen": 80,
+        "non_empty_rows": 33
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:24.810594+00:00"
+}

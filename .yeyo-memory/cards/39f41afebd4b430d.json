@@ -1,0 +1,33 @@
+{
+  "id": "39f41afebd4b430d",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS36.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 42454,
+  "size_human": "41 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-SS36",
+  "doc_code": "4521-ESP-ANC-68-61-SS36",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4012,
+  "token_estimate": 1003,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/39f41afebd4b430d.json",
+  "extracted_path": ".yeyo-memory/extracted/39f41afebd4b430d.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110721103849-05'00'",
+      "ModDate": "D:20110721103849-05'00'",
+      "Title": "4521-ESP-ANC-68-61-SS36 - Chemical Feed Hastelloy C",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "mdreim",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.959272+00:00"
+}

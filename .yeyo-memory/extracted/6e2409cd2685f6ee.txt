@@ -1,0 +1,5018 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: 
+Project:
+Title: 
+Jose María Rodríguez León
+Mar/28/2017
+Document :
+Review:
+Date:
+4521-HDD-AEE-39-70-0016-GAR
+Prepared by:
+© This procedure belongs to Abengoa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express 
+written consent of Abengoa
+Approved by:
+Reviewed by:
+Manuel Muñoz Arranz
+Jose María Rodríguez León
+Data sheet
+ABEINSA EPC USA
+Solana
+Pneumatic automatic valves
+01
+
+[page 2]
+Document no.:
+1 Mar/28/2017
+0 Jan/25/2017
+Rev. Date
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Pneumatic automatic valves
+For the Pneumatic control valves defined in this data sheet, the following deviations shall be considered with regard to the technical 
+conditions specified in the technical specifications above:
+Together with the data sheets, the following documents shall be considered for the design, manufacture, supply, tests, guarantees 
+and spare parts of the pneumatic control valves included in this Data Sheet:
+Annex IX
+Annex X
+Annex VII
+Annex VIII
+Annex V
+Annex VI
+Annex III
+Annex IV
+Annex I
+Annex II
+Client:
+ABEINSA EPC USA
+4521-HDD-AEE-39-70-0016-GAR
+Description
+Project: Solana
+ABEINSA 
+ENGINEERING
+Description:
+Data sheet Annexes
+Note 1
+Documents Attached to Data Sheets 
+Issue for bid
+Issue for bid
+In the event of discrepancies between the different specifications included as annexes, the most rigorous one 
+shall be applicable. In the event of discrepancies with the Data Sheet, the specification of the Data Sheet shall 
+be applicable. Otherwise Abengoa shall be informed.
+Exceptions to the specifications. 
+
+[page 3]
+Document no.:
+1 Mar/28/2017
+0 Jan/25/2017
+Rev. Date
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+General Requirements and Information
+ABEINSA 
+ENGINEERING
+Description:
+Data sheet
+Pneumatic automatic valves
+Minimum Spare Parts
+General Notes
+Note 1: The cells corresponding to technical specifications implying deviations with regard to the general 
+characteristics of the rest of pneumatic valves shall be marked in yellow colour.
+Note 2:
+The pneumatic valves which have been included in the scope respect to the last review will be 
+marked in green colour.
+Note 4: The cells whose specified technical features involve a change in the technical conditions regarding 
+the previous revision will be marked in blue colour.
+Solana
+4521-HDD-AEE-39-70-0016-GARClient:
+ABEINSA EPC USA Project:
+Notes
+The pneumatic valves which have been eliminated respect to the last review will be marked in red 
+colour.
+Note 3:
+Issue for bid
+Issue for bid
+DescriptionNotes:
+
+[page 4]
+Document no.:
+1 Mar/28/2017
+0 Jan/25/2017
+Rev. Date
+1 Abengoa or any representative shall carry out the factory tests marked below:
+2
+3 X
+4 X
+5
+6 X
+7 X
+8
+9
+10
+11 X
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 Yes
+22 Yes
+23 Yes
+24 Yes
+25 Yes
+26 Yes
+27
+28 No
+29 No
+30 Yes
+31 No
+32 Yes
+33 No
+34 Yes
+35
+36
+37 Yes
+38 Yes
+39 Yes
+40
+41
+42 Yes
+43 Yes
+44 Yes
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+The delivery of documents shall comply with the formats established by Abengoa
+Notes
+Together with the supply delivery
+Final quality dossier:
+2 weeks after delivery
+Deliver
+4 hard copies
++
+1 electronic copy
+ - Design Dossier
+ - Manufacturing Dossier
+ - Manuals
+Manuals
+Installation
+Operation
+Maintenance
+Delivery 
+of Documents 
+Before manufacturing
+Design Dossier
+2 weeks after being ordered Deliver
+1 electronic copy
+Yes
+Certificate of functional test and corresponding test procedure.
+General certificate of compliance with Abengoa Requirements
+Certificate of seat leakage testing and corresponding test procedure
+Manufacturing Dossier
+Welder's Qualification Certificate 
+WPS/PQR Certificates
+Materials certificates (EN 10204 3.1B)
+Welding consumable certificates 
+Hydrostatic test certificate and the corresponding test procedure
+Certificate of Non-destructive testing of welds (NDT, x-rays, PL...)
+Visual and dimensional control certificate
+CE Compliance Certificate 
+Compliance with Pressure Equipment Directives 97/23/EC, EMC 89/336/EEC, ATEX 94/9/EC
+ Vendor Documents and Drawings Required (VDDR) 
+Design Dossier
+Data sheets
+Calculation Sheet
+Control Valve Characteristic Curve 
+Dimensional Drawing / Process Connection Diagrams
+Electrical wiring diagrams
+Pneumatic wiring diagrams
+Notes
+Inspection of Functional Test
+Final inspection before on-site delivery
+The vendor shall notify at least 2 weeks in advance the dates scheduled for inspections. If attendance is not confirmed by
+Abengoa, the vendor may follow with the manufacture and delivery sequence.
+Analysis and Inspections Plan (AIP)
+Manufacture deadline and quality follow-up inspection
+Inspection of Hydrostatic Pressure Test.
+Inspection of non-destructive testing of welds
+Inspection of test of tightness and leakage
+Description:
+AIP & VDDRData sheet Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 5]
+Document no.:
+1 Mar/28/2017
+0 Jan/25/2017
+Rev. Date
+1 6
+2 7
+3 8
+4 9
+5 10
+6 11
+7 12
+8 13
+9 14
+10 15
+11 16
+12 17
+13 18
+14 19
+15 20
+16 21
+17 22
+18 23
+19 24
+20 25
+21 26
+22 27
+23 28
+24 29
+25 30
+26 31
+27 32
+28 33
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+ABEINSA 
+ENGINEERING
+Description:
+Data sheet
+Pneumatic automatic valves
+ABEINSA EPC USA
+Sheet Nº 
+Client:
+Project: Solana
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Spare
+1
+1
+1
+1
+1
+1
+1
+1
+Globe
+Globe
+Globe
+Globe
+Globe
+Globe
+Globe
+Globe
+Globe
+Gate
+Globe
+XV-625516
+XV-625517
+Spare
+Gate
+Globe
+Globe
+Gate
+XV-625519
+Globe
+Globe
+Tag
+XV-525521
+XV-525522
+XV-525523
+XV-625515
+XV-325713
+XV-525520
+XV-625518
+XV-325714
+Valve Type
+XV-525517
+XV-525519
+Globe
+Gate
+Globe
+Gate
+Globe
+Globe
+XV-525515
+XV-525516
+1
+Gate
+Globe
+XV-525518
+Index
+1
+1
+1
+1
+Review
+Globe
+Globe
+4521-HDD-AEE-39-70-0016-GAR
+Description
+Issue for bid
+Issue for bid
+1
+1
+XV-325715
+XV-525524
+XV-625520
+XV-625521
+LV-525701
+LV-625701
+XV-625522
+XV-625523
+Spare
+XV-525525
+XV-625524
+XV-625525
+
+[page 6]
+Document no.:
+Sheet
+1 Mar/28/2017 6
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 80
+7 80
+8
+9
+10
+11
+12 usgpm 37 0
+13 psig 160 160
+14 psi min -
+15 ºF 392 752
+16 psia 3,47 156
+17 psia - -
+18 lb/ft3 57 43,4
+19 cP 0,395 0,147
+20 - N/A -
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Notes 
+Note 1: Vendor to confirm
+3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Hand Wheel Yes
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position Yes Yes
+Solenoid Valve Type
+- -
+Position Transmitter - -
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal
+Air Fail Position/ Signal Fail Position Close Close
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Below 30 sResponse Time
+Flexible graphite
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Control Action On-Off
+Spring Action Close
+Leakage Level Class V
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket
+Cv of the valve / Rangeability Note 1 0 - 100%
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Lubrication/ Lubricant - -
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Connections Rating/ Material - -
+Packing Type/ Material Standard Flexible graphite
+Inlet/ Outlet End Connection 1" SW 1" SW
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Bonnet Type/ Special Features Welded No Apply
+Bonnet and Body 
+Type Gate Straight Way
+Body Size/ Rating 1" (Note 1) 800#
+Design Pressure / Design Temperature 50 psig
+Critical Pressure
+Density
+Viscosity
+Cv Calculated
+Travel (% Lift)
+Sound level
+Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Vapour Pressure
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow Close Valve
+Non normal flow ( once a year)
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 1" 300
+Material ASTM A-53
+Insulation / Thickness
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State HTF Thermal Oil (Liquid)
+Service HTF drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-525515 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+Outlet Diameter/Rating/Schedule
+1" 300
+Shut-off Pressure 50 psig
+750 ºF
+Yes 3"
+Process Data 
+
+[page 7]
+Document no.:
+Sheet
+1 Mar/28/2017 7
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 XXS
+7 XXS
+8
+9
+10
+11
+12 scfm 4,61 0
+13 psig 0,5419 0,54
+14 psi min N/A
+15 ºF 635 716
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03542 0,03298
+19 cP 0,02985 0,03134
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 2" BW 2" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 2" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3 1/2"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 2" 300
+Outlet Diameter/Rating/Schedule 2" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen / Gas
+Service Nitrogen supply to molten salt side between B and C TES HEX
+Service Frequency
+Description:
+XV-525516 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 8]
+Document no.:
+Sheet
+1 Mar/28/2017 8
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 6,132 0
+13 psig 0,54 0,54
+14 psi min 0,54
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03826 0,03922
+19 cP 0,02832 0,02832
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Molten salt drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-525517 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 9]
+Document no.:
+Sheet
+1 Mar/28/2017 9
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 80
+7 80
+8
+9
+10
+11
+12 usgpm 37 0
+13 psig 160 160
+14 psi min -
+15 ºF 392 752
+16 psia 3,47 156
+17 psia - -
+18 lb/ft3 57 43,4
+19 cP 0,395 0,147
+20 - N/A -
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Flexible graphite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Welded No Apply
+Inlet/ Outlet End Connection 1" SW 1" SW
+800#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Gate Straight Way
+Body Size/ Rating 1" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3"
+Non normal flow ( once a year)
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 1" 300
+Outlet Diameter/Rating/Schedule 1" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State HTF Thermal Oil (Liquid)
+Service HTF drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-525518 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 10]
+Document no.:
+Sheet
+1 Mar/28/2017 10
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 XXS
+7 XXS
+8
+9
+10
+11
+12 scfm 4,61 0
+13 psig 0,5419 0,54
+14 psi min N/A
+15 ºF 635 716
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03542 0,03298
+19 cP 0,02985 0,03134
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 2" BW 2" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 2" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3 1/2"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 2" 300
+Outlet Diameter/Rating/Schedule 2" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen / Gas
+Service Nitrogen supply to molten salt side between B and C TES HEX
+Service Frequency
+Description:
+XV-525519 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 11]
+Document no.:
+Sheet
+1 Mar/28/2017 11
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 6,132 0
+13 psig 0,54 0,54
+14 psi min 0,54
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03826 0,03922
+19 cP 0,02832 0,02832
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Molten salt drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-525520 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 12]
+Document no.:
+Sheet
+1 Mar/28/2017 12
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 XXS
+7 XXS
+8
+9
+10
+11
+12 scfm 4,61 0
+13 psig 0,5419 0,54
+14 psi min N/A
+15 ºF 635 730,4
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03542 0,03298
+19 cP 0,02985 0,03134
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 2" BW 2" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 2" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3 1/2"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 2" 300
+Outlet Diameter/Rating/Schedule 2" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen / Gas
+Service Nitrogen supply to molten salt side between B and C TES HEX
+Service Frequency
+Description:
+XV-525521 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 13]
+Document no.:
+Sheet
+1 Mar/28/2017 13
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 80
+7 80
+8
+9
+10
+11
+12 usgpm 37 0
+13 psig 160 160
+14 psi min -
+15 ºF 392 752
+16 psia 3,47 156
+17 psia - -
+18 lb/ft3 57 43,4
+19 cP 0,395 0,147
+20 - N/A -
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Flexible graphite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Welded No Apply
+Inlet/ Outlet End Connection 1" SW 1" SW
+800#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Gate Straight Way
+Body Size/ Rating 1" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3"
+Non normal flow ( once a year)
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 1" 300
+Outlet Diameter/Rating/Schedule 1" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State HTF Thermal Oil (Liquid)
+Service HTF drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-525522 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 14]
+Document no.:
+Sheet
+1 Mar/28/2017 14
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 6,132 0
+13 psig 0,54 0,54
+14 psi min 0,54
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03826 0,03922
+19 cP 0,02832 0,02832
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Molten salt drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-525523 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 15]
+Document no.:
+Sheet
+1 Mar/28/2017 15
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 80
+7 80
+8
+9
+10
+11
+12 usgpm 37 0
+13 psig 160 160
+14 psi min -
+15 ºF 392 752
+16 psia 3,47 156
+17 psia - -
+18 lb/ft3 57 43,4
+19 cP 0,395 0,147
+20 - N/A -
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Flexible graphite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Welded No Apply
+Inlet/ Outlet End Connection 1" SW 1" SW
+800#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Gate Straight Way
+Body Size/ Rating 1" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3"
+Non normal flow ( once a year)
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 1" 300
+Outlet Diameter/Rating/Schedule 1" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State HTF Thermal Oil (Liquid)
+Service HTF drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-625515 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 16]
+Document no.:
+Sheet
+1 Mar/28/2017 16
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 XXS
+7 XXS
+8
+9
+10
+11
+12 scfm 4,61 0
+13 psig 0,5419 0,54
+14 psi min N/A
+15 ºF 635 716
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03542 0,03298
+19 cP 0,02985 0,03134
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 2" BW 2" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 2" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3 1/2"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 2" 300
+Outlet Diameter/Rating/Schedule 2" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen / Gas
+Service Nitrogen supply to molten salt side between B and C TES HEX
+Service Frequency
+Description:
+XV-625516 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 17]
+Document no.:
+Sheet
+1 Mar/28/2017 17
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 6,132 0
+13 psig 0,54 0,54
+14 psi min 0,54
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03826 0,03922
+19 cP 0,02832 0,02832
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Molten salt drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-625517 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 18]
+Document no.:
+Sheet
+1 Mar/28/2017 18
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 80
+7 80
+8
+9
+10
+11
+12 usgpm 37 0
+13 psig 160 160
+14 psi min -
+15 ºF 392 752
+16 psia 3,47 156
+17 psia - -
+18 lb/ft3 57 43,4
+19 cP 0,395 0,147
+20 - N/A -
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Flexible graphite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Welded No Apply
+Inlet/ Outlet End Connection 1" SW 1" SW
+800#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Gate Straight Way
+Body Size/ Rating 1" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3"
+Non normal flow ( once a year)
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 1" 300
+Outlet Diameter/Rating/Schedule 1" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State HTF Thermal Oil (Liquid)
+Service HTF drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-625518 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 19]
+Document no.:
+Sheet
+1 Mar/28/2017 19
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 XXS
+7 XXS
+8
+9
+10
+11
+12 scfm 4,61 0
+13 psig 0,5419 0,54
+14 psi min N/A
+15 ºF 635 716
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03542 0,03298
+19 cP 0,02985 0,03134
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 2" BW 2" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 2" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3 1/2"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 2" 300
+Outlet Diameter/Rating/Schedule 2" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen / Gas
+Service Nitrogen supply to molten salt side between B and C TES HEX
+Service Frequency
+Description:
+XV-625519 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 20]
+Document no.:
+Sheet
+1 Mar/28/2017 20
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 6,132 0
+13 psig 0,54 0,54
+14 psi min 0,54
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03826 0,03922
+19 cP 0,02832 0,02832
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Molten salt drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-625520 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 21]
+Document no.:
+Sheet
+1 Mar/28/2017 21
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 XXS
+7 XXS
+8
+9
+10
+11
+12 scfm 4,61 0
+13 psig 0,5419 0,54
+14 psi min N/A
+15 ºF 635 730,4
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03542 0,03298
+19 cP 0,02985 0,03134
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 2" BW 2" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 2" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3 1/2"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 2" 300
+Outlet Diameter/Rating/Schedule 2" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen / Gas
+Service Nitrogen supply to molten salt side between B and C TES HEX
+Service Frequency
+Description:
+XV-625521 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 22]
+Document no.:
+Sheet
+1 Mar/28/2017 22
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 80
+7 80
+8
+9
+10
+11
+12 usgpm 37 0
+13 psig 160 160
+14 psi min -
+15 ºF 392 752
+16 psia 3,47 156
+17 psia - -
+18 lb/ft3 57 43,4
+19 cP 0,395 0,147
+20 - N/A -
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Flexible graphite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Flexible graphite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Welded No Apply
+Inlet/ Outlet End Connection 1" SW 1" SW
+800#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Gate Straight Way
+Body Size/ Rating 1" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 3"
+Non normal flow ( once a year)
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 1" 300
+Outlet Diameter/Rating/Schedule 1" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State HTF Thermal Oil (Liquid)
+Service HTF drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-625522 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 23]
+Document no.:
+Sheet
+1 Mar/28/2017 23
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 6,132 0
+13 psig 0,54 0,54
+14 psi min 0,54
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03826 0,03922
+19 cP 0,02832 0,02832
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Molten salt drainage between B and C TES HEX
+Service Frequency
+Description:
+XV-625523 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 24]
+Document no.:
+Sheet
+1 Mar/28/2017 25
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 13,82 0
+13 psig 0,5419 0,54
+14 psi min N/A
+15 ºF 635 716
+16 psia - -
+17 psia 492,5 492,5
+18 lb/ft3 0,03542 0,03298
+19 cP 0,02985 0,03134
+20 - N/A N/A
+21 % 100 0
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 320 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 320 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P279-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Balancing line between the drain back tank and the MS tanks
+Service Frequency
+Description:
+XV-325713 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 25]
+Document no.:
+Sheet
+1 Mar/28/2017 26
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 120
+7 120
+8
+9
+10
+11
+12 usgpm 213,9 216,7 213,9 216,7 216,7
+13 psig 51,68 38,26 39,00 23,85 57,22
+14 psi 36,81 23,38 24,12 8,976 0
+15 ºF 554 730 554 730 554
+16 psia - - - - -
+17 psia - - - - -
+18 lb/ft3 119 115 119 115 119
+19 cP 3,468 1,892 3,468 1,892 3,468
+20 - 48,66 60,89 60,11 98,27 -
+21 % 15% 15%-90% 15%-90% 90% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: The Molten Salts operation temperature ranges between 554ºF (cold salts) and 730 ºF (hot salts).
+Note 3: Cases 2 and 3 correspond to the normal operation mode flow, with the molten salts at different temperatures. 
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+No No
+Solenoid Valve Type -
+Connection/ Power Supply - -
+Position Transmitter Yes 4 - 20 mA (2 wires) 
+Options 
+Limit Switches Type/ Contact Capacity - -
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection Electro pneumatic and Smart 1/2" NPT
+Supply/ Input Signal Loop Powered 24 VDC 4 - 20 mA (2 wires) 
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 320 psig
+Control Action Regulation
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Isoporcentage
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 4" BW 4" BW
+300#
+Design Pressure / Design Temperature 320 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 4" (Note 1)
+Case 4 (2) Close Valve (2)
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Case 1 (2) Case 2 (2) (3) Case 3 (2) (3)
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 4" 300
+Outlet Diameter/Rating/Schedule 4" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P279-GAR 2
+Fluid/ State Molten salt / Liquid
+Service Drain back tank level control
+Service Frequency
+Description:
+LV-525701 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 26]
+Document no.:
+Sheet
+1 Mar/28/2017 27
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 120
+7 120
+8
+9
+10
+11
+12 usgpm 213,9 217,7 213,9 217,7 217,7
+13 psig 51,68 38,26 39,00 23,85 57,22
+14 psi 36,81 23,38 24,12 8,976 0
+15 ºF 554 730 554 730 554
+16 psia - - - - -
+17 psia - - - - -
+18 lb/ft3 119 115 119 115 119
+19 cP 3,468 1,892 3,468 1,892 3,468
+20 - 48,66 61,17 60,11 98,73 -
+21 % 15% 15%-90% 15%-90% 90% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: The Molten Salts operation temperature ranges between 554ºF (cold salts) and 730 ºF (hot salts).
+Note 3: Cases 2 and 3 correspond to the normal operation mode flow, with the molten salts at different temperatures. 
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+No No
+Solenoid Valve Type -
+Connection/ Power Supply - -
+Position Transmitter Yes 4 - 20 mA (2 wires) 
+Options 
+Limit Switches Type/ Contact Capacity - -
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection Electro pneumatic and Smart 1/2" NPT
+Supply/ Input Signal Loop Powered 24 VDC 4 - 20 mA (2 wires) 
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 320 psig
+Control Action Regulation
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Isoporcentage
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 4" BW 4" BW
+300#
+Design Pressure / Design Temperature 320 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 4" (Note 1)
+Case 4 (2) Close Valve (2)
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Case 1 (2) Case 2 (2) (3) Case 3 (2) (3)
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 4" 300
+Outlet Diameter/Rating/Schedule 4" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P279-GAR 2
+Fluid/ State Molten salt / Liquid
+Service Drain back tank level control
+Service Frequency
+Description:
+LV-625701 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 27]
+Document no.:
+Sheet
+1 Mar/28/2017 28
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 120
+7 120
+8
+9
+10
+11
+12 usgpm 213,9 216,7 0
+13 psig -4,052 -4,007 0,5419
+14 psi min min -
+15 ºF 554 730 554
+16 psia - - -
+17 psia - - -
+18 lb/ft3 119 115 0,03922
+19 cP 3,468 1,892 0,02832
+20 - Note 1 Note 1 Note 1
+21 % 100% 100% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Molten Salts temperature may vary, between a range from 554 ºF and 730ºF.
+Note 3: After operation the whole line is drained of molten salts and then the circuit is filled with nitrogen.
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 200 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Packing for Vacuum Service Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 4" BW 4" BW
+300#
+Design Pressure / Design Temperature FV - 200 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 4" (Note 1)
+Close Valve (3) Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Case 1 (2) Case 2 (2)
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 4" 300
+Outlet Diameter/Rating/Schedule 4" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P279-GAR 2
+Fluid/ State Molten salt / Liquid
+Service Molten salts from drain back tank to HMS tank
+Service Frequency
+Description:
+XV-325714 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 28]
+Document no.:
+Sheet
+1 Mar/28/2017 29
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 120
+7 120
+8
+9
+10
+11
+12 usgpm 213,9 216,7 0
+13 psig -4,052 -4,007 0,5419
+14 psi min min -
+15 ºF 554 730 554
+16 psia - - -
+17 psia - - -
+18 lb/ft3 119 115 0,03922
+19 cP 3,468 1,892 0,02832
+20 - Note 1 Note 1 Note 1
+21 % 100% 100% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 200 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Packing for Vacuum Service Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 4" BW 4" BW
+300#
+Design Pressure / Design Temperature FV - 200 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 4" (Note 1)
+Close Valve (3) Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Case 1 (2) Case 2 (2)
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-53
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 4" 300
+Outlet Diameter/Rating/Schedule 4" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P279-GAR 2
+Fluid/ State Molten salt / Liquid
+Service Molten salts from drain back tank to HMS tank
+Service Frequency
+Description:
+XV-325715 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 29]
+Document no.:
+Sheet
+1 Mar/28/2017 30
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 16,06 0
+13 psig 0,4335 84,53
+14 psi min -
+15 ºF 730 730
+16 psia - -
+17 psia 492,5 -
+18 lb/ft3 0,03235 115
+19 cP 0,03159 1,892
+20 - N/A N/A
+21 % 100% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Note 4: Conditions upstream. During normal operation this valve is always closed. Process data for molten salts
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve (4) Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Vent TES HEX inlet
+Service Frequency
+Description:
+XV-525524 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 30]
+Document no.:
+Sheet
+1 Mar/28/2017 31
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 16,06 0
+13 psig 0,4335 84,53
+14 psi min -
+15 ºF 730 730
+16 psia - -
+17 psia 492,5 -
+18 lb/ft3 0,03235 115
+19 cP 0,03159 1,892
+20 - N/A N/A
+21 % 100% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+Eq. 
+Manufacturer
+Model/ Serial Number
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Note 4: Conditions upstream. During normal operation this valve is always closed. Process data for molten salts
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position 
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1)
+Close Valve (4) Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Vent TES HEX inlet
+Service Frequency
+Description:
+XV-525525 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 31]
+Document no.:
+Sheet
+1 Mar/28/2017 32
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 18,28 0
+13 psig 0,4335 0,5077
+14 psi min 89,95
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 -
+18 lb/ft3 0,03798 119
+19 cP 0,02832 3,468
+20 - N/A N/A
+21 % 100% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+Description:
+XV-625524 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Vent TES HEX inlet
+Service Frequency Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Close Valve (4) Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1) 300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Note 4: Conditions upstream. During normal operation this valve is always closed. Process data for molten salts
+Eq. 
+Manufacturer
+Model/ Serial Number
+
+[page 32]
+Document no.:
+Sheet
+1 Mar/28/2017 33
+0 Jan/25/2017 of
+Rev. Date 33
+1
+2
+3
+4
+5
+6 160
+7 160
+8
+9
+10
+11
+12 scfm 16,06 0
+13 psig 0,4335 0,5077
+14 psi min -
+15 ºF 554 554
+16 psia - -
+17 psia 492,5 -
+18 lb/ft3 0,03235 119
+19 cP 0,03159 3,468
+20 - N/A N/A
+21 % 100% 0%
+22 dB < 85 @ 3 ft < 85 @ 3 ft
+23
+24
+25
+26
+27
+28
+29 -
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0016-GAR
+ABEINSA EPC USA Project: Solana
+Description:
+XV-625525 Issue for bid
+Pneumatic automatic valves
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Fluid/ State Nitrogen (gas) (3)
+Service Vent TES HEX inlet
+Service Frequency Once per month
+Electrical Classification Class 1, Division 2, Group D
+Pipe
+Inlet Diameter/Rating/Schedule 3" 300
+Outlet Diameter/Rating/Schedule 3" 300
+Material ASTM A-234 Grade WPB
+Insulation / Thickness Yes 4"
+Process Data 
+Units Min. Operation 
+Flow
+ Nor. Operation 
+Flow
+Max. Operation 
+Flow
+Vapour Pressure
+Critical Pressure
+Density
+Viscosity
+Close Valve (4) Others
+Flow Rate
+Inlet Pressure
+Pressure Drop (∆P)
+Temperature
+Cv Calculated
+Travel (% Lift)
+Sound level
+Bonnet and Body 
+Type Globe Straight Way
+Body Size/ Rating 3" (Note 1) 300#
+Design Pressure / Design Temperature 50 psig 750 ºF
+Body/ Bonnet Material A216 Gr. WCB Carbon steel
+Bonnet Type/ Special Features Flanged Extension Bonnet
+Inlet/ Outlet End Connection 3" BW 3" BW
+Code/ Flanges Type/ Finish (face) No apply No Apply
+Connections Rating/ Material - -
+Packing Type/ Material Standard Thermiculite
+Lubrication/ Lubricant - -
+Trim 
+Trim Type Standard
+Plug Type/ Guiding Type Unbalanced Cage Guided
+Cv of the valve / Rangeability Note 1 0 - 100%
+Inherent Valve Characteristic Quick Opening 
+Design according to flow action Flow to Close
+Leakage Level Class V
+Materials
+Plug/ Seat 13 Cr + Stellite 13 Cr + Stellite
+Cage/ Stem 13 Cr 13 Cr
+Gasket Thermiculite
+Pneumatic Actuator 
+Actuator Type Diaphragm Simple Acting
+Shut-off Pressure 50 psig
+Control Action On-Off
+Spring Action Close
+Air Fail Position/ Signal Fail Position Close Close
+Response Time Below 30 s
+Actuator Orientation Vertical.Up
+Instrument Air Supply Pressure 3 - 15 psig
+Air Set (Pneumatic Accessories) Air Filter Regulator and Gauges / 1/4" NPTF
+Pneumatic Tubing Size/ Material 1/4" PVC Coated Copper
+Positioner
+Type/ Electrical Connection N/A N/A
+Supply/ Input Signal - -
+Position Transmitter - -
+Options 
+Limit Switches Type/ Contact Capacity SPDT 0.5 A (125 Vcc)
+Open Position/ Close Position Yes Yes
+Solenoid Valve Type 3 Ways
+Connection/ Power Supply 1/2" NPT 24 Vdc (Low Consumption)
+Hand Wheel Yes
+Documents and Inspections According to AIP-VDDR
+Identification Stainless steel fixed to the valve
+Notes 
+Note 1: Vendor to confirm
+Note 2: Process data fluid according to nitrogen flow
+Note 3: The valve must be compatible with molten salts, as through this valve there might be a non normal flow of molten salts during operation.
+Note 4: Conditions upstream. During normal operation this valve is always closed. Process data for molten salts
+Eq. 
+Manufacturer
+Model/ Serial Number

@@ -1,0 +1,28 @@
+{
+  "id": "d41a3b6bfee5d5f2",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Transmision 24-04-2019/Siemens Motor 10709A.PDF",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 296656,
+  "size_human": "290 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "Siemens Motor 10709A",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4200,
+  "token_estimate": 1050,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/d41a3b6bfee5d5f2.json",
+  "extracted_path": ".yeyo-memory/extracted/d41a3b6bfee5d5f2.txt",
+  "metadata": {
+    "pages": 8,
+    "pdf_metadata": {
+      "CreationDate": "D:20180815092108-04'00'",
+      "ModDate": "D:20180815114524-04'00'",
+      "Producer": "PDF-XChange Printer V6 (6.0 build 322.7) [Windows 7 Enterprise x64 (Build 7601: Service Pack 1)]"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:43.613258+00:00"
+}

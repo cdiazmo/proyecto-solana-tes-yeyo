@@ -1,0 +1,644 @@
+[page 1]
+Arizona Solar One Abeinsa Engineering
+Descriptive Memory
+Title:
+TES S&T HEX Functional Description of Standby and Drainage Procedures
+Client: Arizona Solar One
+Project: HEX replacement TES Solana
+Document No.: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01
+Purpose: IFD
+Date: July/28/2017
+Prepared by:
+Manuel Muñoz Arranz - I&C Engineer
+Ricardo Rodolfo Delgado Amaya – Process Engineer Electronic Signature
+Reviewed by:
+José Maria Rodriguez León - Project Manager Electronic Signature
+Approved by:
+José Maria Rodriguez León - Project Manager Electronic Signature
+This document is property of Arizona Solar One. Its total or partial reproduction is strictly forbidden by any means, as well as
+its distribution to third parties without the express written consent of Arizona Solar One.
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential information, legal requirements or
+local regulations and/or contractual requirements of the client), there was a need to modify the requirements included in
+this procedure, these changes must be properly documented in the quality, environment and health and safety plan of the
+project, prior approval from the company headquarters management system department.
+The original one of this document is approved and filed in document management system application
+
+[page 2]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 2 of 19
+Revision Control Sheet
+Revision Date Reason for the
+revision
+Prepared
+by
+Reviewed
+by
+Approved
+by
+00 Apr/11/2017 Issue for design MMA JMRL JMRL
+01 July/28/2017 Scope update MMA / RDA JMRL JMRL
+Preliminary or pending Information
+Edition Sections Concepts Status
+
+[page 3]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 3 of 19
+Table of Contents
+Object .....................................................................................................................41.
+General...................................................................................................................42.
+General description of TES HEX............................................................................53.
+3.1. HEX Trains...........................................................................................................5
+3.1.1. Heat exchangers...........................................................................................................................5
+3.1.2. Main lines.....................................................................................................................................5
+3.2. Instrumentation...................................................................................................6
+General description of molten salt drainage system ..........................................74.
+4.1. MS drain back tank XX-MT-257...........................................................................7
+4.2. MS Drain back Pump XX-MP-258 ........................................................................7
+Logic control description of TES HEX drainage and vent system.......................95.
+5.1. General Logic ......................................................................................................9
+5.1.1. Drain back pump..........................................................................................................................9
+5.2. On/Off Control valves........................................................................................10
+5.2.1. Venting of blanket gas in the Drain back tank. On/off valve .......................................................10
+5.2.2. Molten salt TES HEX Nitrogen to HEX drainage on/off valves......................................................11
+5.2.3. Molten salt TES HEX venting for MS filling..................................................................................11
+5.2.4. Molten salt drain back pump discharge valve..............................................................................12
+5.2.5. HTF TES HEX vent on/off valves ..................................................................................................13
+5.3. Control loop......................................................................................................13
+5.3.1. LIC-X-257-01: Control of level at MS drain back tank.................................................................13
+Transition to Standby Sequence.........................................................................156.
+6.1. To standby from Charge mode with HEX enclosement.......................................15
+6.1.1. Step 1 ........................................................................................................................................15
+6.1.2. Step 2 ........................................................................................................................................16
+6.1.3. Step 3 ........................................................................................................................................16
+6.1.4. Step 4 ........................................................................................................................................16
+6.1.5. Step 5 ........................................................................................................................................16
+6.2. To Standby from Discharge with HEX enclosement ............................................17
+6.2.1. Step 1 ........................................................................................................................................17
+6.2.2. Step 2 ........................................................................................................................................17
+6.2.3. Step 3 ........................................................................................................................................17
+6.2.4. Step 4 ........................................................................................................................................17
+6.2.5. Step 5 ........................................................................................................................................18
+HEX Drainage operation .....................................................................................187.
+7.1.1. Step 1 ........................................................................................................................................18
+7.1.2. Step 2 ........................................................................................................................................18
+7.1.3. Step 3 ........................................................................................................................................18
+7.1.4. Step 4 ........................................................................................................................................19
+7.1.5. Step 5 ........................................................................................................................................19
+
+[page 4]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 4 of 19
+7.1.6. Step 6 ........................................................................................................................................19
+7.1.7. Step 9 ........................................................................................................................................19
+7.1.8. Step 10 ......................................................................................................................................19
+Object1.
+The purpose of this document is to provide the full functional description of the
+Stand-by and Drainage procedure of the Shell and Tube HEX in the TES System,
+The CCR (Central Control Room) is divided into three major operating stations
+which cover individual system necessary in operating the Solana Generating
+Facility. The (3) station will be identified as SF-HTF operating station, SG-STG
+operating Station and TES operating station. The procedure is based on the
+concept of semi-automatic/manual operation.
+General2.
+All manual valves of each respective system must be properly aligned as per
+respective P&ID diagrams. Components of each individual units e.g. valves, pumps,
+heaters, heat exchanges, etc. have been verified to be electrically powered,
+mechanically aligned and periodically maintained. All existing instruments flow,
+temperature, pressure, etc. have been verified to be in working condition and have
+undergo periodic maintenance in accordance with installation, operation and
+maintenance (IOM) manual from manufacturers.
+
+[page 5]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 5 of 19
+General description of TES HEX3.
+TES HEX system allows transference of energy between HTF and molten salt
+through it. When molten salts are heat up, it permits to store the thermal energy
+at the hot molten salts, meanwhile HTF is heat up with the thermal energy from
+hot molten salts, the fluid is used to generate steam which produces electrical
+power at steam turbine generator or to avoid HTF low temperatures.
+There are six (6) TES trains, each of them are composed by six (6) shell and tubes
+heat exchangers (Molten salts through shell and thermal oil through tubes) in a
+series arrangement. Lines which feed the heat exchangers of molten salts and HTF
+have their own drainage and vent lines with manual and automatic valves to allow
+drainage thanks to nitrogen supply (see point 4 of this document) and on-off valve
+at high points of the system to evacuate nitrogen before the start of the normal
+operation.
+3.1. HEX Trains
+3.1.1. Heat exchangers
+Next are the heat exchanger generic tag numbers. The first letter “X” of each the
+tag, will be replaced for numbers from #1 up to #6 depending on which TEST
+System are we referring to.
+ X-MX-251-A
+ X-MX-251-B
+ X-MX-251-C
+ X-MX-251-D
+ X-MX-251-E
+ X-MX-251-F
+3.1.2. Main lines
+ Connection between heat exchangers
+TES's Line tag names are generically represented, including a couple of
+“NN” identification letters; such “NN” letters, would be replaced for letters
+from A up to F, depending on which platform are we referring to ("A"
+letter for platform #1, up to "F" letter for platform #6)-
+o 255-HTF-01NN-CS30-24”
+o 255-HTF-02NN-CS30-24”
+o 255-HTF-03NN-CS30-24”
+o 255-HTF-04NN-CS30-24”
+
+[page 6]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 6 of 19
+o 255-HTF-05NN-CS30-24”
+o 255-MS-01NN-CS31-24”
+o 255-MS-02NN-CS31-24”
+o 255-MS-03NN-CS31-24”
+o 255-MS-04NN-CS31-24”
+o 255-MS-05NN-CS31-24”
+ Drainage and vent lines
+o 255-HTF-21NN-CS30-1”
+o 255-N-10NN-CS31-2”
+o 255-MS-13NN-CS31-3”
+o 255-HTF-22NN-CS30-1”
+o 255-N-11NN-CS31-2”
+o 255-MS-12NN-CS31-3”
+o 255-HTF-23NN-CS30-1”
+o 255-N-12NN-CS31-2”
+o 255-MS-11NN-CS31-3”
+o 255-MS-09NN-CS31-4”
+o 255-MS-07NN-CS31-4”
+o 255-MS-06NN-CS31-4”
+o 252-N-06NN-CS31-2”
+o 255-HTF-20NN-CS30-1”
+3.2. Instrumentation
+ Pressure transmitters: PIT-X-255-01, PIT-X-255-02, PIT-X-255-03, PIT-X-255-
+04, PIT-X-255-05, PIT-X-255-06, PIT-X-255-07, PIT-X-255-08, PIT-X-255-09,
+PIT-X-255-10
+ Temperature transmitters: TIT-X-255-01, TIT-X-255-02, TIT-X-255-03, TIT-X-
+255-04, TIT-X-255-05, TIT-X-255-06, TIT-X-255-07, TIT-X-255-08, TIT-X-
+255-09, TIT-X-255-10
+
+[page 7]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 7 of 19
+General description of molten salt drainage system4.
+The function of the molten salt drainage system is the evacuation of the molten
+salt in the S&T HEX and also inside the piping of MS (starting from the HEX up to
+the highest point in the platform) and the pumping such drainage, back to the MS
+Hot Tank.
+Molten salt drains reach the drain back tank by gravity; however, additional N2 is
+supplied at the top of the Exchanger in order to enhance the drainage operation.
+Main components of this system and their basic functioning are described below.
+4.1. MS drain back tank XX-MT-257
+The Drain tank *XX-MT-257 collects the MS drainages from HEXs and pipes of
+both trains (two per platform), but both trains cannot be drained at the same time,
+to avoid molten salt mixing of one TES system to another.
+Once a drainage operation is started by opening the drainage valves located at the
+lower points of the MS pipes, and the venting valves XV-025516/19/21 are open,
+the valve LV-025701 will start to control de MS flowrate pursuing a level set point.
+Nitrogen is also supplied to the tank, first of all, to keep a positive pressure in the
+HEX meanwhile the MS are draining from them, and secondly to guarantee a
+blanketing atmosphere in the tank. The venting of blanketing gases is connected
+to the Nitrogen balancing line of the Hot and Cold Tank. The valve XV-05713
+controls the venting of the drain tank by a pressure set point, with certain
+hysteresis for open and close actions.
+Crossing between hot tanks of different TES is not allowed neither it is
+recommended.
+Additionally, Nitrogen is required for the MS drain pump’s seal flushing.
+Please refer to the P&IDs 4521-PLN-AEE-68-71-P278-GAR/ P279-GAR for details
+on pipe lines connections and instrumentation locations.
+4.2. MS Drain back Pump XX-MP-258
+The drain pump *XX-MP-258 sends MS back to the hot tank, at a fixed flowrate,
+and although discharge pipe is split into two lines once it reaches the platform,
+just a single discharge line will work in each draining operation.
+
+[page 8]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 8 of 19
+(*)Note: “XX” in the tank and pump TAGs, will be replaced for number “1” (in
+the case of TES 1&2), or “2” (in the case of TES 3&4) or, “3” (in the case of TES
+5&6).
+
+[page 9]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 9 of 19
+Logic control description of TES HEX drainage and vent system5.
+5.1. General Logic
+The aim of this point is to compile and describe the control logic, interlocks and
+formulas used to control the system.
+The signals used in the development of the control logic for the TES HEX drainage
+and vent system are contained in the Signal list document, which included all
+alarms settings.
+Every Signal, (Autostarts / Autostops / Alarms / Interlocks) must be maintained
+during a specific time in the trip value before activation. This is used to avoid
+transitory peaks. These times will be established or confirmed during
+commissioning.
+5.1.1. Drain back pump
+Drain back pump will be manually operated.
+Functional
+Group
+Drain back pump in TES
+Salt drain tank.
+Service: The drain tank XX-MT-257
+collects the MS drained in HEX and pipes
+of both trains. This amount of MS is
+forwarded to HMS tank using the vertical
+drain pump XX-MP-258.
+Pump #1 XX-MP-258
+Type Manually operated
+Release
+Start 1 LI-X-257-01 ≥ 15% (TBD in) 
+Start 2
+LI-X-251-01 ≥ 95% (TBD in) (not high level
+in CMS tank) (note 1)
++ MS main pumps stop
++ HV-025164 HTF by pass open (>90%)
++ HV-025154 Close
+Interlocks
+(pump trips)
+E1
+LI-X-252-01 ≥ 97% ( TBD in) (High high
+level in HMS tank)
+E2 LI-X-257-01 ≤ 7.5% (TBD in)
+
+[page 10]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 10 of 19
+E3
+PI-X-257-02 ≥ TBD psig (High high 
+pressure in pump discharge)
+E4
+PI-X-257-02 < TBD psig (Low low pressure
+in pump discharge) during 15 sec.
+Every Interlock have an associated alarm.
+Pumps interlocks TBD by Supplier
+Alarms
+A1
+LI-X-257-01 ≤ 10% (TBD in) (Low level in
+drain back tank)
+A2
+PI-X-257-02 ≥ TBD psig (High pressure in
+pump discharge)
+A3 No flushing signal from FSL-025701
+Notes Note 1
+5.2. On/Off Control valves
+5.2.1. Venting of blanket gas in the Drain back tank. On/off valve
+Tag: XV-X-257-13
+Service: Venting of blanket gas.
+Open release:
+N/A.
+Opening order: PI-X-257-01 > TBD psi + Pset Tk (to be confirmed/updated during
+commissioning).
+
+[page 11]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 11 of 19
+Close release: N/A.
+Closing order:
+By operator.
+PI-X-257-01 < TBD psi – Pset Tk (To be confirmed/updated during
+commissioning).
+Notes: N/A.
+Signals from/to
+DCS
+XV-X-257-13 - Open Command.
+ZSO-X-257-13 - Open Switch.
+ZSC-X-257-13 - Close Switch.
+5.2.2. Molten salt TES HEX Nitrogen to HEX drainage on/off valves
+Tag: XV-X-255-16 / XV-X-255-19 / XV-X-255-21
+Service: Nitrogen vent at TES HEX lines, at molten salt side
+Open release:
+N/A.
++ XV-025517/20/23 close
++ Open limit switches of manual valves ZSO-025526/27/28
+active.
++ MS main pumps stop
++ HV-025164 HTF by pass open (>90%)
++ HV-025154 Close
++ LIC-0-257-01 in Auto mode
+Opening order: Manual order by operator according to T ES HEX MS Drainage
+start-up step
+Close release: N/A.
+Closing order: By operator, once the drainage operation is finished.
+Notes: N/A.
+Signals from/to
+DCS
+XV-X-255-16 / XV-X-255-19 / XV-X-255-21 - Open Command.
+ZSO-X-255-16 / ZSO-X-255-19 / ZSO-X-255-21 - Open Switch.
+ZSC-X-255-16 / ZSC-X-255-19 / ZSC-X-255-21 - Close Switch.
+5.2.3. Molten salt TES HEX venting for MS filling
+Tag: XV-X-255-17 / XV-X-255-20 / XV-X-255-23
+Service: HEX MS filling
+Open release: + XV-025516/19/21 close
++ Close limit switches of manual valves ZSC- 025526/27/28
+
+[page 12]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 12 of 19
+active.
++ HTFXXX main pump stop
++ HTF HV-025164 (by pass) open
++ HV-025154 open (since HEX would be already filled with
+Thermal oil)
++ LV-025701 MS drain discharge valve 100% open
+Opening order: Manual order by operator according to TES HEX MS Drainage
+start-up step
+Close release: LV-025701 open
+Closing order: By operator, once the filling operation is finished.
+Notes:
+Refer to 4521-MOM-LOI-039-062-0004-GAR REv.03 Installation,
+Start-Up, Operation and Maintenance Instructions. Note
+recommendation of MS main pumps flow < 5% of nominal flow
+for filling purposes.
+Signals from/to
+DCS
+XV-X-255-17 / XV-X-255-20/ XV-X-255-23 - Open Command.
+ZSO-X-255-17 / ZSO-X-255-20 / ZSO-X-255-23 - Open Switch.
+ZSC-X-255-17 / ZSC-X-255-20 / ZSC-X-255-23 - Close Switch.
+5.2.4. Molten salt drain back pump discharge valve
+Tag: HV-X-257-14/15
+Service: HEX MS drain back pump discharge
+Open release:
+Selector of correspondent train is activated. i. e. if selector of TES train
+#6 is active for its drainage, then valve HV-6-257-15 is able to be
+opened
+Opening order: Manual order by operator according to TES HEX MS Drainage
+start-up step
+Close release: N.A
+Closing order: By operator, once draining operation is finished.
+Notes: n/a
+Signals from/to
+DCS
+HV-X-257-14 / HV-X-257-15 - Open Command.
+ZSO-X-257-14 / ZSO-X-257-15 - Open Switch.
+ZSC-X-257-14 / ZSC-X-257-15 - Close Switch.
+
+[page 13]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 13 of 19
+5.2.5. HTF TES HEX vent on/off valves
+Tag: XV-X-255-15 / XV-X-255-18 / XV-X-255-22
+Service: HTF filling of the TES HEX train.
+Open release: + HV-025154 open
+Opening order: Manual order by operator according to TES HEX filling start -up
+step
+Close release: N.A
+Closing order: By operator.
+Notes: N/A.
+Signals from/to
+DCS
+XV-X-255-15 / XV-X-255-18 / XV-X-255-22 - Open Command.
+ZSO-X-255-15 / ZSO-X-255-18 / ZSO-X-255-22 - Open Switch.
+ZSC-X-255-15 / ZSC-X-255-18 / ZSC-X-255-22 - Close Switch.
+5.3. Control loop
+5.3.1. LIC-X-257-01: Control of level at MS drain back tank.
+Tag: LIC-X-257-01
+Service:
+The aim in this control loop is maintain the level at molten salt drain
+back tank.
+If it detects a decrease in the level of the molten salt drain back tank,
+the control valve LV-X-257-01 will open in order to the system will able
+to deal this change, and vice versa in case of increase of level.
+Type: PID controller
+Process variable
+(PV):
+LI-X-257-01: Level signal at MS Drain back tank.
+Set point:
+Set Point is defined as normal level required to maintain a constant
+molten supply for the drain pump.
+Manipulated
+Flow of molten salt drainage from TES HEX to to MS drain tank
+
+[page 14]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 14 of 19
+variable (MV):
+Final control
+element:
+LV-X-257-01
+Min Output Max Output
+0% 100%
+Action: Direct: +PV +MV
+Forced to open: N/A
+Forced to close:
+Just one train of the couple per platform might be drained by a time, therefore
+LV-X-257-01 of any of such trains will be forced to closed, in order to avoid any
+mixture of MS from different TES.
+I.e. If selector of train 5 is activated, HV-X-257-15 must be closed If selector of
+train 6 is activated, HV-X-257-14 must be closed
+Both control valves: High high level at MS drain back tank LAHH-X-257-01 = 1
+Control
+Description
+Control the level of the MS drain back tank at set point value
+Interlocks N/A
+Notes N/A
+
+[page 15]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 15 of 19
+Transition to Standby Sequence6.
+6.1. To standby from Charge mode with HEX enclosement
+Initial condition:
+ SF in tracking
+ PB online or offline
+ TES charging
+When PB is online TES is normally taken offline and brought to standby mode
+when STG load start increasing and there not enough DNI to increase the HTF flow
+to the system.
+6.1.1. Step 1
+Reduce HTF flow to individual TES unit.
+ STG online
+ Flow remove from TES may affect SG state by sudden increase in
+drum pressure which may affect steam superheat condition.
+Operator must monitor Drum pressure and SH.
+Unit-1 drum pressure – PIT-131005A/B
+Unit-2 drum pressure – PIT-231005A/B
+ STG Offline
+ Flow reduction may increase HTF system pressure. Monitor pressure
+in the central plant if it is within 230psig, check pressure before hot
+flash bypass, if it opens at high HTF return temperature it could
+upset expansion vessel levels. System pressures maybe reduce by
+slightly reducing Main THF pumps speed.
+Steam Drum pressure
+
+[page 16]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 16 of 19
+Unit 1 HTF pressure inlet of SG1 – PIT-131525A/B
+Unit 2 HTF pressure inlet of SG2 – PIT-231525A/B
+TES Unit 1, 2, 3 – flow reduction will affect SG unit 1
+TES Unit 4, 5, 6 – flow reduction will affect SG unit 2
+6.1.2. Step 2
+Maintain HEX profile condition.
+ Salt flow must be adjusted as HTF flow to TES is going down.
+ HAT and CAT values must be maintained as close as possible (ideally at 7F).
+6.1.3. Step 3
+Keep reducing Main salt Pump speed until it is within minimum speed (650rpm –
+TBC during commissioning) to accompany HTF flow reduction.
+6.1.4. Step 4
+As the flow to the first TES unit to be put offline is reduced to a minimum, verify
+that is no abrupt increase in SG units HTF flow. If drum pressure is above 1400psig
+HTF flow on the other working TES units maybe adjusted to absorb the excess HTF
+introduced to the SG units.
+6.1.5. Step 5
+TES unit Shutdown Sequence
+(a) Open cold salt tank vent valve HV-X-251-11to100%.
+(b) Reduced opening of cold tank main salt pump discharge valve FV-X-251-05
+to 50%.
+(c) Reduced opening of hot salt tank return valve FV-X-252-21 to 35%
+(d) Close FV-X-252-21 to 0%.
+(e) Close FV-X-251-36 to 0%
+(f) Close FV-251-05 to 0%.
+(g) When FV-X-251-05 starts moving from its initial position bring to Stop Cold
+Tank Main salt pump.
+
+[page 17]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 17 of 19
+Execution of the shut-down sequence must simultaneous, fast and flawless to
+avoid any upset on the main HEX profile temperature.
+6.2. To Standby from Discharge with HEX enclosement
+Initial condition:
+ PB online or offline (seals and vacuum operation)
+ TES discharging
+TES units that are in discharge operation maybe supporting power generation or in
+hot freeze protection
+6.2.1. Step 1
+With STG online, reduce flow to individual TES units in reference to tank level,
+shut-down first TES unit to hit low tank level.
+With each TES unit brought to stand-by, main HTF pump speed will reduced, other
+TES units still online must make HTF flow adjustment to keep system pressure
+stable.
+TES Unit 1, 2, 3 – flow reduction will affect SG unit 1
+TES Unit 4, 5, 6 – flow reduction will affect SG unit 2
+6.2.2. Step 2
+Maintain HEX profile condition.
+ Salt flow must be adjusted as HTF flow to TES is going down.
+ HAT and CAT values must be maintain as close as possible (ideally at 7F).
+6.2.3. Step 3
+Keep reducing Main salt Pump speed until it is within minimum speed (650rpm)
+to accompany HTF flow reduction.
+6.2.4. Step 4
+TES unit Shutdown Sequence
+(a) Open Hot salt tank vent valve HV-X-252-11to100%.
+(b) Reduced opening of Hot tank main salt pump discharge valve FV-X-252-05
+to 50%.
+(c) Reduced opening of Cold salt tank return valve FV-X-251-21 to 35%
+
+[page 18]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 18 of 19
+(d) Close FV-X-251-21 to 0%.
+(e) Close FV-X-252-35 to 0%
+(f) Close FV-252-05 to 0%.
+(g) When FV-X-252-05 starts moving from its initial position bring to Stop Hot
+Tank Main salt pump.
+Execution of the shut-down sequence must simultaneous, fast and flawless to
+avoid any upset on the main HEX profile temperature.
+6.2.5. Step 5
+Allow a minimum of 10 seconds gap in between shutting down of TES units to
+stabilized system pressure.
+HEX Drainage operation7.
+When TES is on standby mode it might be necessary to extend the shutdown for a
+longer period of time, i.e for maintenance purposes. In these cases it is
+recommended a completely HEX drainage.
+7.1.1. Step 1
+Open manual valve V-GL-01 located near the MS drain back tank pit, on the line
+255-N-09NNNN-CS31-2”. This line supplies N2 to the MS drain back tank.
+7.1.2. Step 2
+Operator will select which HEX unit will be drained, in order to allow set in out
+mode the control loop (LIC-X-257-01) of the MS drain back tank al also MS drain
+pump discharge valve.
+7.1.3. Step 3
+Open MS manual drainage vales V-GL-01 located on the lines 255-MS-09NN-
+CS31-4” / 255-MS-07NN-CS31-4” / 255-MS-08NN-CS31-4”. Request Open
+position confirmation from DCS.
+
+[page 19]
+Arizona Solar
+One
+Document: 4521-MEM-AEE-70-10-0001-GAR
+Revision: 01 Date: July/28/2017 Abeinsa
+Engineering
+Purpose: IFD Page: 19 of 19
+7.1.4. Step 4
+Open vent valves XV-X-255-16/19/21
+7.1.5. Step 5
+Open HV-0-257-15 in concordance with the selector
+7.1.6. Step 6
+Slightly open the MS drain pump manual valve V-GL-01 located on the line 257-
+MS-10NNNN-CS31-4”
+7.1.7. Step 9
+Start drain back tank pump XX-MP-258, to allow molten salt flow to hot salt tank
+7.1.8. Step 10
+Stop drain back tank pump if level of the tank reached is low low, then close
+valves HV-X-257-14 or HV-X-257-15.

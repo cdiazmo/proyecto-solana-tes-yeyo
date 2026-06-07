@@ -1,0 +1,114 @@
+[page 1]
+AG ENGINEERING
+Document no.
+No. Req'd:
+ Instructions:
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be 
+included on all pages.
+2. Revisions are identified in the body of the Specification. 
+FCM MAG JML
+0 MAG JMR
+No. Chk'd App'd App'd Description
+Specification Form - Solana (Rev. 3/2011)
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener 
+Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+03/02/2017 FCM For Design
+Date By
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other 
+billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler 
+Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request.
+App’d
+0 03/02/2017 For Design
+ABENER TEYMA
+SOLANA
+TES Area Electric cable list Unit 5-6
+4521-LIS-AEE-39-40-0011-GAR
+Job no. 12600
+Project: Solana Generationg Station
+Date: 03/02/2017 Page 1 of 3
+Rev. Description of Revision
+No. with Page NumbersDate By Chk’d
+
+[page 2]
+AG ENGINEERING
+Document no.
+No. Req'd:
+ Table of content:
+Sheet 1 Cover Sheet
+Sheet 2 Table of content & Notes
+Sheet 3 Low Voltage Cable Schedule
+ Notes:
+0 MAG JMR
+No. Chk'd App'd App'd Description
+Specification Form - Solana (Rev. 3/2011)
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener 
+Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+03/02/2017 FCM For Design
+Date By
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other 
+billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler 
+Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request.
+ABENER TEYMA
+SOLANA
+TES Area Electric cable list Unit 5-6
+4521-LIS-AEE-39-40-0011-GAR
+Job no. 12600
+Project: Solana Generationg Station
+Date: 03/02/2017 Page 2 of 3
+
+[page 3]
+4521-LIS-AEE-39-40-0011-GAR Page 3 of 3
+Approved JMR
+Checked MAG
+Designed FCM
+Revision/Date 0 - 02/03/2017
+CP-/3-MP-258_PUMP 600 V 3P+PE 3 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board ATS feed PP-26334M37 TES 5,6 Drain Pump Unit 5+6 /3-MP-258_PUMP TBD
+CP-TES-AB1-L2 600 V 3P+N+PE 2 AWG 3 XHHW-2 Copper 1418 ERC#32 Panel board ATS feed PP-26334M37 TES 5,6 Drain TES pipes & Drain tank Unit 5+6 TES-AB1-L2 TBD
+CP-TES-AB1-L2-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2507 TES 5,6 Control voltage for TES-AB1-L2 TES-AB1-L2-CTRL TBD
+CP-TES-A1-L2 600 V 3P+N+PE 3 AWG 2 XHHW-2 Copper 1418 ERC#32 Power panel essential PP-16334M TES 5,6 Drain TES pipes Unit 5 TES-A1-L2 TBD
+CP-TES-A1-L2-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2607 TES 5,6 Control voltage for TES-A1-L2 TES-A1-L2-CTRL TBD
+CP-TES-A6-L3 600 V 3P+N+PE 4/0 AWG 4 XHHW-2 Copper 1418 ERC#32 TES Unit 5 & HTF MISC MCC-633 TES 5,6 Interchange and HTF/TES pipes Unit 5
+ TES-A6-L3 TBD
+CP-TES-A6-L3-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2507 TES 5,6 Control voltage for TES-A6-L3 TES-A6-L3-CTRL TBD
+CP-TES-B1-L2 600 V 3P+N+PE 3 AWG 2 XHHW-2 Copper 1418 ERC#32 Power panel essential loads (-P590) PP-6334M TES 5,6 Drain TES pipes Unit 6 TES-B1-L2 TBD
+CP-TES-B1-L2-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2507 TES 5,6 Control voltage for TES-B1-L2 TES-B1-L2-CTRL TBD
+CP-TES-B6-L3 600 V 3P+N+PE 4/0 AWG 4 XHHW-2 Copper 1418 ERC#32 TES Unit 6 & HTF MISC MCC-1633 TES 5,6 Interchange and HTF/TES pipes Unit 6 TES-B6-L3 TBD
+CP-TES-B6-L3-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2607 TES 5,6 Control voltage for TES-B6-L3 TES-B6-L3-CTRL TBD
+CP-TES-A5-L3 600 V 3P+N+PE 4/0 AWG 4 XHHW-2 Copper 1418 ERC#32 Electrical room 32 (-P593)-Non essential loads PP-634 TES 5,6 Heat trace panel TES pipes Unit 5 TES-A5-L3 TBD
+CP-TES-A5-L3-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2607 TES 5,6 Control voltage for TES-A5-L3 TES-A5-L3-CTRL TBD
+CP-HTF-A1-L3 600 V 3P+N+PE 4/0 AWG 3 XHHW-2 Copper 1418 ERC#32 Electrical room 32 (-P593)-Non essential loads PP-634 TES 5,6 Heat trace panel HTF pipes Unit 5 HTF-A1-L3 TBD
+CP-HTF-A1-L3-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2507 TES 5,6 Control voltage for HTF-A1-L3 HTF-A1-L3-CTRL TBD
+CP-TES-B5-L3 600 V 3P+N+PE 4/0 AWG 4 XHHW-2 Copper 1418 ERC#32 Electrical room 32 (-P594)-Non essential loads PP-1634 TES 5,6 Heat trace panel TES pipes Unit 6 TES-B5-L3 TBD
+CP-TES-B5-L3-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2607 TES 5,6 Control voltage for TES-B5-L3 TES-B5-L3-CTRL TBD
+CP-HTF-B1-L3 600 V 3P+N+PE 4/0 AWG 3 XHHW-2 Copper 1418 ERC#32 Electrical room 32 (-P594)-Non essential loads PP-1634 TES 5,6 Heat trace panel HTF pipes Unit 6 HTF-B1-L3 TBD
+CP-HTF-B1-L3-CTRL 600 V P+N+PE 4 AWG 1 XHHW-2 Copper 1418 ERC#32 Panel board for electrical panel control voltage PP-26334M2607 TES 5,6 Control voltage for HTF-B1-L3 HTF-B1-L3-CTRL TBD
+CP-OL-5A 600 V P+N+PE 1/0 AWG 2 XHHW-2 Copper 1418 ERC#32 Electrical power panel (non essential) RP-63419 TES 5,6 Outdoor lighting Unit 5 a OL-5A TBD
+CP-OL-5B 600 V P+N+PE 1/0 AWG 2 XHHW-2 Copper 1418 ERC#32 Electrical power panel (non essential) RP-63419 TES 5,6 Outdoor lighting Unit 5 b OL-5B TBD
+CP-OL-6A 600 V P+N+PE 1/0 AWG 2 XHHW-2 Copper 1418 ERC#32 Panel board for lighting (Non-Essential loads) RP-161419 TES 5,6 Outdoor lighting Unit 6 a OL-6A TBD
+CP-OL-6B 600 V P+N+PE 1/0 AWG 2 XHHW-2 Copper 1418 ERC#32 Panel board for lighting (Non-Essential loads) RP-161419 TES 5,6 Outdoor lighting Unit 6 b OL-6B TBD
+Cable tag Voltage
+Level Number of cores NEC cable Type Conductor material
+Theoretical
+Length 
+(ft)
+Number of 
+parallel circuitsPhase size
+From To
+Routing NotesOrigin 
+Location
+Origin 
+Equipment
+Origin 
+Equip.Tag
+Final 
+Location Final Equipment Final 
+Equip. Tag
+ ABENER TEYMA
+ SOLANA
+ AG ENGINEERING
+Document:
+Project:
+Job:
+TES Area Electric cable list Unit 5-6
+Solana Generating Station
+120006

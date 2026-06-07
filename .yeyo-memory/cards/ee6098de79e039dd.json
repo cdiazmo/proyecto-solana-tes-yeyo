@@ -1,0 +1,37 @@
+{
+  "id": "ee6098de79e039dd",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/4521-PLN-DOT-75-63-0241_Rev01.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 238235,
+  "size_human": "233 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-DOT-75-63-0241 Rev01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2352,
+  "token_estimate": 588,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/ee6098de79e039dd.json",
+  "extracted_path": ".yeyo-memory/extracted/ee6098de79e039dd.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20181204090612Z",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20181204164243-06'00'",
+      "Producer": "pdfplot11.hdi 11.0.204.0",
+      "Title": "2"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Soporte de tuberia MS",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:04.452314+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:04.452315+00:00"
+}

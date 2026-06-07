@@ -1,0 +1,37 @@
+{
+  "id": "bbf8abe33254e0fe",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-N-09EF-CS72-1.5_Sht2_R4.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 144830,
+  "size_human": "141 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "255-N-09EF-CS72-1.5 Sht2 R4",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1887,
+  "token_estimate": 471,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/bbf8abe33254e0fe.json",
+  "extracted_path": ".yeyo-memory/extracted/bbf8abe33254e0fe.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "bound",
+      "CreationDate": "D:20200414060434-07'00'",
+      "Creator": "Adobe Acrobat Pro DC 19.21.20061",
+      "ModDate": "D:20200414060434-07'00'",
+      "Producer": "Acrobat Distiller 20.0 (Windows)",
+      "Title": "Model"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.500847+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:01.500850+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "a4715927c4adf0a6",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0004-GAR Rev01 Layout.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 7105292,
+  "size_human": "6.8 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0004-GAR Rev01 Layout",
+  "doc_code": "4521-PLN-LOI-039-062-0004",
+  "revision": "Rev01",
+  "status": "ok",
+  "text_chars": 102,
+  "token_estimate": 25,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/a4715927c4adf0a6.json",
+  "extracted_path": ".yeyo-memory/extracted/a4715927c4adf0a6.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20161216124950+01'00'",
+      "Author": "inakiugarte",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "ModDate": "D:20161216124950+01'00'",
+      "Title": "X:\\03_Obras\\195001 SOLANA Aceite Sales X UDS\\03_INGENIERIA\\02_INGENIERIA_PROCESO\\00 PLANOS\\05 Modelo 3d\\4521-PLN-LOI-039-062-00"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.956881+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:59.956883+00:00"
+}

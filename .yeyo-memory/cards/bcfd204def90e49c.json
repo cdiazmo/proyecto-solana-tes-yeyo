@@ -1,0 +1,39 @@
+{
+  "id": "bcfd204def90e49c",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Válvulas de colisión RFI035/Colliding Valves Removal Isometrics - HEX Transmittal 11-26-2018.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 25930,
+  "size_human": "25 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "Colliding Valves Removal Isometrics - HEX Transmittal 11-26-2018",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1366,
+  "token_estimate": 341,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/bcfd204def90e49c.json",
+  "extracted_path": ".yeyo-memory/extracted/bcfd204def90e49c.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "PDFCreator 2.5.1.5",
+      "CreationDate": "D:20181126133454-07'00'",
+      "ModDate": "D:20181126133454-07'00'",
+      "Title": "TMT0014_Isometrics",
+      "Author": "aybj",
+      "Subject": "Colliding Valves Removal Isometrics - HEX Transmittal 11-26-2018",
+      "Keywords": "",
+      "Creator": "PDFCreator 2.5.1.5"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.546044+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:01.546046+00:00"
+}

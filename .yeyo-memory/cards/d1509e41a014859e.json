@@ -1,0 +1,53 @@
+{
+  "id": "d1509e41a014859e",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-00-64-0100_R0 Engineering Specification - Pressure regulator.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 855392,
+  "size_human": "835 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-00-64-0100 R0 Engineering Specification - Pressure regulator",
+  "doc_code": "4521-ESP-AGE-00-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 15285,
+  "token_estimate": 3821,
+  "chunks": 10,
+  "card_path": ".yeyo-memory/cards/d1509e41a014859e.json",
+  "extracted_path": ".yeyo-memory/extracted/d1509e41a014859e.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 17
+      },
+      {
+        "name": "Cover Sheet (2)",
+        "rows_seen": 1014,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Cover Sheet (3)",
+        "rows_seen": 1014,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Index",
+        "rows_seen": 51,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "p 5",
+        "rows_seen": 1004,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "p 6",
+        "rows_seen": 1004,
+        "non_empty_rows": 57
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:04.091571+00:00"
+}

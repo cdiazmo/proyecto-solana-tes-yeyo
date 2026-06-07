@@ -1,0 +1,37 @@
+{
+  "id": "362a5d353ba50adf",
+  "path": "11 Sal de Solana y Corrosion/3 SANDIA - CORROSIÓN DEL ACERO AL CARBONO/SAND2010-7594 A516 carbon steel corrosion.pdf",
+  "top_dir": "11 Sal de Solana y Corrosion",
+  "ext": "pdf",
+  "size_bytes": 3317838,
+  "size_human": "3.2 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "SAND2010-7594 A516 carbon steel corrosion",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 39247,
+  "token_estimate": 9811,
+  "chunks": 25,
+  "card_path": ".yeyo-memory/cards/362a5d353ba50adf.json",
+  "extracted_path": ".yeyo-memory/extracted/362a5d353ba50adf.txt",
+  "metadata": {
+    "pages": 27,
+    "pdf_metadata": {
+      "Author": "rwbrads",
+      "Creator": "Microsoft Word",
+      "CreationDate": "D:20101113104816-08'00'",
+      "ModDate": "D:20101113104816-08'00'",
+      "Producer": "Mac OS X 10.4.11 Quartz PDFContext",
+      "Title": "Microsoft Word - SAND2010-7594 final_2.docx"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.275583+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:54.275585+00:00"
+}

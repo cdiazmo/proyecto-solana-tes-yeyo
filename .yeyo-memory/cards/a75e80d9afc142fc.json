@@ -1,0 +1,30 @@
+{
+  "id": "a75e80d9afc142fc",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/9.1. HT REPORTS 1950201.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 4079402,
+  "size_human": "3.9 MB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "9.1. HT REPORTS 1950201",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/a75e80d9afc142fc.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 67,
+    "pdf_metadata": {
+      "Title": "SKM_36820122316410",
+      "Creator": "KM_368",
+      "Producer": "KONICA MINOLTA bizhub 368",
+      "CreationDate": "D:20201223164107+01'00'",
+      "ModDate": "D:20201223164107+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:26.573982+00:00"
+}

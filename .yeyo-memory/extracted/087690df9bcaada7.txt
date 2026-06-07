@@ -1,0 +1,508 @@
+Instructions:
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be included on all pages.
+2. Revisions are identified in the body of the document. 
+Contents
+Page No.
+1 Overview 4
+2 Description 4
+3 References 5
+4 Codes and normative 5
+5 Design basis 6
+5.1 Materials 6
+5.2 Ground features: 7
+5.3 Safety factors and load combination coefficients: 11
+5.4 Loads. 11
+5.5 Design process: 11
+6 Results 13
+7 Annex 1: Load Combinations 13
+7.1 Partial safety factors (g) and combination factors (y) 14
+7.2 Combinations 19
+8 Annex 2. Footing report 26
+8.1 Model of calculation 26
+8.2 Checking of reinforcement: 27
+9 Annex 3. Walls report 35
+9.1 Model of calculation 35
+9.2 Design of reinforcement 36
+10 Annex 4. Equipment load 44
+Overview
+In the present document, the TES exchanger foundations of Solana Generating Station are designed.
+Description
+Foundation’s shape and dimensions is shown in the next figure: 
+The TES exchangers foundation are composed by two reinforced concrete footings, whose area is 49’2”x 11’6” and thickness of 3 feet, with three reinforced concrete walls per footing whose dimensions are 14’7” of height and 3’0” feet of thickness. These footings are projected to support the TES Exchangers Equipment. These footings are buried down 5 feet of engineered fill according to design instructions.
+References
+The ground data are obtained from “Report on Geotechnical Investigation. Abengoa Solar (Solana Power Plant)”, from Speedie and Associates document, Project No. 0911985A, dated 12/21/09 A especially the annex “Final Report” dated 06/21/2010 from Hushmand Associates, Incorporated to Speedie and Associates.
+The loads are obtained from the next documents:
+4521-PLN-FWE-21-52-0001
+4521-PLN-FWE-21-52-0002
+4521-PLN-FWE-21-52-0101
+4521-PLN-FWE-21-52-0001
+Codes and normative 
+IBC 2012 International Building Code
+ASCE 7-05 Minimum Design Loads for Buildings and Other Structures.
+ACI-318 Building Code Requirements for Structural Concrete.
+API 650 Welded Steel Tanks for Oil Storage.
+Design basis
+For design purpose a static finite elements analysis have been performed using a beam elements frame in place of the foundation in order to apply the wind and earthquake loads.
+Materials
+In accordance with the Geotechnical Report, the soil has a sulfate concentration within the range of 44 to 170 p.p.m., therefore the exposure must be classified as S1. Though the soil water contains chlorides in concentrations of 120 to 430 ppm, the water level is more than ten metres below grade which makes this chloride contents irrelevant. Hence the following materials are chosen:
+Concrete
+4000 psi
+water-cement relation, W/CM ≤ 0.5
+Type II cement
+Steel: 
+Grade 60
+Ground features:
+For the ground bearing capacity, according to the Geothecnical Report, it can be considered a value of 3.000 psf. In according to Test boring (number PB-09 and PB-11), nearer to the area where it project this foundations, the average number of blows are about 25 to 30 blow/feet, so the ground bearing capacity is about 2.850 – 3.400 psf.
+Where, 
+N= Number of blows per feet: 25-30 b/ft
+B= width of footing =11’6”
+D= depth of foundation=5’0”
+Image 1: Locate of the tests boring PB-09 and PB-11 where it projects the foundation
+Image 2: Test boring PB-09 to depth where it projects the foundation
+Image 3: Test boring PB-11 to depth where it projects the foundation
+Safety factors and load combination coefficients:
+Fracture U.L.S. concrete: ACI-318
+Fracture U.L.S. foundation concrete: ACI-318
+Fracture U.L.S. rolled steel: ANSI/AISC 360-05 (LRFD)
+Loads.
+Specific weight of concrete elements: 156 lb per c.f.
+Loads transmitted by TES Exchangers equipment (to see annex 4).
+Design process:
+Rebar quantity has been obtained according to ACI 318 specifications using the rectangular diagram method. Adherence, cracking and shear strength have been checked.
+The footing has been reinforced with a minimum of 1.8 ‰ per each side as the ACI-318 indicates in 7.12.2.1 for mat foundations and this same reinforcement has been used as base reinforcement. In the case of walls have been designed with a minimum reinforcement in according to the next table 11.6.1 from ACI-318: 
+Results
+To analyse the foundation CYPECAD and SAP2000 software has been used, where the results of the analyzing process are shown in computer data annexes 2 and 3.
+Annex 1: Load Combinations
+The load combinations will be defined according to the following criteria for the different project situations:
+- Situations persistent or transient
+- Situations seismic loading
+- Where:
+Partial safety factors (g) and combination factors (y)
+For each project situation and limit state, the loading coefficients will be determined by:
+Fracture U.L.S. Concrete: ACI 318M-08
+Fracture U.L.S. Foundation concrete: ACI 318M-08
+Fracture U.L.S. Rolled steel: ANSI/AISC 360-05 (LRFD)
+Ground bearing pressures
+Displacements
+Combinations
+ Loadcase names:
+ Fracture U.L.S. Concrete
+ Fracture U.L.S. Foundation concrete
+ Fracture U.L.S. Rolled steel
+ Ground bearing pressures
+ Displacements
+Annex 2. Footing report
+Model of calculation
+In order to design and check of footing it has used of CYPECAD software:
+Checking of reinforcement:
+Annex 3. Walls report
+Model of calculation
+In order to design and check of different walls it has used of SAP2000 software:
+Design of reinforcement
+Vertical reinforcement:
+Base reinforcement in according to minimum ratio, Asmin=0,0015 x b x h= 2,1 inch2. It has design with #6 / 7”. As=2,49 inch2.
+Forces used for checking this reinforcement:
+Moment force M22 (Ultimate limit state, Max and Min): 37 kip*ft
+ Shear force V12 (Ultimate limit state, Max and Min): 3 kip
+Axial force F22 (Ultimate limit state, Max and Min): 67 kip
+Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar.
+Horizontal reinforcement:
+Base reinforcement in according to minimum ratio, Asmin=0,0025 x b x h= 3,48 inch2. It has design with #8 / 8”. As=3,86 inch2.
+Forces used for checking this reinforcement:
+Moment force M11 (Ultimate limit state, Max and Min): 66 kip*ft
+Shear force V12 (Ultimate limit state, Max and Min): 7 kip*ft
+Axial force F11 (Ultimate limit state, Max and Min): 14 kip
+Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar.
+Annex 4. Equipment load
+ | | | | | | | | | | Description of
+Rev. No. | | Date | | By | | Chk’d | | App’d | | Revision Including Page Numbers
+0 | | 10/01/2017 | | LMOB | | JAG | | JMGL | | For Construction
+1 | | 04/05/2018 | | PAPT | | PAPT | | IGA | | Update IBC code reference to IBC 2012
+Gk | Permanent load
+Pk | Prestressing action
+Qk | Variable load
+AE | Seismic load
+gG | Permanent load partial safety factor
+gP | Partial safety coefficient for prestressing action
+gQ,1 | Main variable load partial safety factor
+gQ,i | Accompanying variable load partial safety factor
+gAE | Seismic load partial safety factor
+(9-1) | (9-1) | (9-1)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.400 | 1.400
+Live load (Q) | | 
+Wind (Q) | | 
+(9-2 Lr) | (9-2 Lr) | (9-2 Lr)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | 0.000 | 1.600
+Wind (Q) | | 
+(9-2 S) | (9-2 S) | (9-2 S)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | 0.000 | 1.600
+Wind (Q) | | 
+(9-3 Lr, L) | (9-3 Lr, L) | (9-3 Lr, L)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | 0.000 | 0.500
+Wind (Q) | | 
+(9-3 S, L) | (9-3 S, L) | (9-3 S, L)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | 0.000 | 0.500
+Wind (Q) | | 
+(9-3 Lr, W) | (9-3 Lr, W) | (9-3 Lr, W)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | | 
+Wind (Q) | 0.000 | 0.800
+(9-3 S, W) | (9-3 S, W) | (9-3 S, W)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | | 
+Wind (Q) | 0.000 | 0.800
+(9-4 Lr) | (9-4 Lr) | (9-4 Lr)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | 0.000 | 0.500
+Wind (Q) | 1.600 | 1.600
+(9-4 S) | (9-4 S) | (9-4 S)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | 0.000 | 0.500
+Wind (Q) | 1.600 | 1.600
+(9-5) | (9-5) | (9-5)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.200 | 1.200
+Live load (Q) | 0.000 | 0.500
+Wind (Q) | | 
+Earthquake (E) | -1.000 | 1.000
+(9-6) | (9-6) | (9-6)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 0.900 | 0.900
+Live load (Q) | | 
+Wind (Q) | 0.000 | 1.600
+(9-7) | (9-7) | (9-7)
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 0.900 | 0.900
+Live load (Q) | | 
+Wind (Q) | | 
+Earthquake (E) | -1.000 | 1.000
+Variable loads without seismic loading | Variable loads without seismic loading | Variable loads without seismic loading
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.000 | 1.000
+Live load (Q) | 0.000 | 1.000
+Wind (Q) | 0.000 | 1.000
+Seismic loading | Seismic loading | Seismic loading
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.000 | 1.000
+Live load (Q) | 0.000 | 1.000
+Wind (Q) | | 
+Earthquake (E) | -1.000 | 1.000
+Variable loads without seismic loading | Variable loads without seismic loading | Variable loads without seismic loading
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.000 | 1.000
+Live load (Q) | 0.000 | 1.000
+Wind (Q) | 0.000 | 1.000
+Seismic loading | Seismic loading | Seismic loading
+ | Partial safety factors (g) | Partial safety factors (g)
+ | Favourable | Unfavourable
+Dead load (G) | 1.000 | 1.000
+Live load (Q) | 0.000 | 1.000
+Wind (Q) | | 
+Earthquake (E) | -1.000 | 1.000
+SW | Self weight
+DL | Dead load
+Qa | Live load
+LL water | LL water
+LL ope | LL ope
+Hydro | Hydro
+W+X | W+X
+W-X | W-X
+W+Y | W+Y
+W-Y | W-Y
+Ux | Ux
+Uy | Uy
+Comb. | SW | DL | Qa | LL water | LL ope | Hydro | W+X | W-X | W+Y | W-Y | Ux | Uy
+1 | 1.400 | 1.400 | | | | | | | | | | 
+2 | 1.200 | 1.200 | | | | | | | | | | 
+3 | 1.200 | 1.200 | 1.600 | | | | | | | | | 
+4 | 1.200 | 1.200 | | 1.600 | | | | | | | | 
+5 | 1.200 | 1.200 | 1.600 | 1.600 | | | | | | | | 
+6 | 1.200 | 1.200 | | | 1.600 | | | | | | | 
+7 | 1.200 | 1.200 | 1.600 | | 1.600 | | | | | | | 
+8 | 1.200 | 1.200 | | | | 1.600 | | | | | | 
+9 | 1.200 | 1.200 | 1.600 | | | 1.600 | | | | | | 
+10 | 1.200 | 1.200 | 0.500 | 0.500 | | | | | | | | 
+11 | 1.200 | 1.200 | 0.500 | | 0.500 | | | | | | | 
+12 | 1.200 | 1.200 | 0.500 | | | 0.500 | | | | | | 
+13 | 1.200 | 1.200 | | | | | 1.600 | | | | | 
+14 | 1.200 | 1.200 | 0.500 | | | | 1.600 | | | | | 
+15 | 1.200 | 1.200 | | 0.500 | | | 1.600 | | | | | 
+16 | 1.200 | 1.200 | 0.500 | 0.500 | | | 1.600 | | | | | 
+17 | 1.200 | 1.200 | | | 0.500 | | 1.600 | | | | | 
+18 | 1.200 | 1.200 | 0.500 | | 0.500 | | 1.600 | | | | | 
+19 | 1.200 | 1.200 | | | | 0.500 | 1.600 | | | | | 
+20 | 1.200 | 1.200 | 0.500 | | | 0.500 | 1.600 | | | | | 
+21 | 1.200 | 1.200 | | | | | | 1.600 | | | | 
+22 | 1.200 | 1.200 | 0.500 | | | | | 1.600 | | | | 
+23 | 1.200 | 1.200 | | 0.500 | | | | 1.600 | | | | 
+24 | 1.200 | 1.200 | 0.500 | 0.500 | | | | 1.600 | | | | 
+25 | 1.200 | 1.200 | | | 0.500 | | | 1.600 | | | | 
+26 | 1.200 | 1.200 | 0.500 | | 0.500 | | | 1.600 | | | | 
+27 | 1.200 | 1.200 | | | | 0.500 | | 1.600 | | | | 
+28 | 1.200 | 1.200 | 0.500 | | | 0.500 | | 1.600 | | | | 
+29 | 1.200 | 1.200 | | | | | | | 1.600 | | | 
+30 | 1.200 | 1.200 | 0.500 | | | | | | 1.600 | | | 
+31 | 1.200 | 1.200 | | 0.500 | | | | | 1.600 | | | 
+32 | 1.200 | 1.200 | 0.500 | 0.500 | | | | | 1.600 | | | 
+33 | 1.200 | 1.200 | | | 0.500 | | | | 1.600 | | | 
+34 | 1.200 | 1.200 | 0.500 | | 0.500 | | | | 1.600 | | | 
+35 | 1.200 | 1.200 | | | | 0.500 | | | 1.600 | | | 
+36 | 1.200 | 1.200 | 0.500 | | | 0.500 | | | 1.600 | | | 
+37 | 1.200 | 1.200 | | | | | | | | 1.600 | | 
+38 | 1.200 | 1.200 | 0.500 | | | | | | | 1.600 | | 
+39 | 1.200 | 1.200 | | 0.500 | | | | | | 1.600 | | 
+40 | 1.200 | 1.200 | 0.500 | 0.500 | | | | | | 1.600 | | 
+41 | 1.200 | 1.200 | | | 0.500 | | | | | 1.600 | | 
+42 | 1.200 | 1.200 | 0.500 | | 0.500 | | | | | 1.600 | | 
+43 | 1.200 | 1.200 | | | | 0.500 | | | | 1.600 | | 
+44 | 1.200 | 1.200 | 0.500 | | | 0.500 | | | | 1.600 | | 
+45 | 1.200 | 1.200 | | | | | | | | | -1.000 | 
+46 | 1.200 | 1.200 | 0.500 | | | | | | | | -1.000 | 
+47 | 1.200 | 1.200 | | 0.500 | | | | | | | -1.000 | 
+48 | 1.200 | 1.200 | 0.500 | 0.500 | | | | | | | -1.000 | 
+49 | 1.200 | 1.200 | | | 0.500 | | | | | | -1.000 | 
+50 | 1.200 | 1.200 | 0.500 | | 0.500 | | | | | | -1.000 | 
+51 | 1.200 | 1.200 | | | | 0.500 | | | | | -1.000 | 
+52 | 1.200 | 1.200 | 0.500 | | | 0.500 | | | | | -1.000 | 
+53 | 1.200 | 1.200 | | | | | | | | | 1.000 | 
+54 | 1.200 | 1.200 | 0.500 | | | | | | | | 1.000 | 
+55 | 1.200 | 1.200 | | 0.500 | | | | | | | 1.000 | 
+56 | 1.200 | 1.200 | 0.500 | 0.500 | | | | | | | 1.000 | 
+57 | 1.200 | 1.200 | | | 0.500 | | | | | | 1.000 | 
+58 | 1.200 | 1.200 | 0.500 | | 0.500 | | | | | | 1.000 | 
+59 | 1.200 | 1.200 | | | | 0.500 | | | | | 1.000 | 
+60 | 1.200 | 1.200 | 0.500 | | | 0.500 | | | | | 1.000 | 
+61 | 1.200 | 1.200 | | | | | | | | | | -1.000
+62 | 1.200 | 1.200 | 0.500 | | | | | | | | | -1.000
+63 | 1.200 | 1.200 | | 0.500 | | | | | | | | -1.000
+64 | 1.200 | 1.200 | 0.500 | 0.500 | | | | | | | | -1.000
+65 | 1.200 | 1.200 | | | 0.500 | | | | | | | -1.000
+66 | 1.200 | 1.200 | 0.500 | | 0.500 | | | | | | | -1.000
+67 | 1.200 | 1.200 | | | | 0.500 | | | | | | -1.000
+68 | 1.200 | 1.200 | 0.500 | | | 0.500 | | | | | | -1.000
+69 | 1.200 | 1.200 | | | | | | | | | | 1.000
+70 | 1.200 | 1.200 | 0.500 | | | | | | | | | 1.000
+71 | 1.200 | 1.200 | | 0.500 | | | | | | | | 1.000
+72 | 1.200 | 1.200 | 0.500 | 0.500 | | | | | | | | 1.000
+73 | 1.200 | 1.200 | | | 0.500 | | | | | | | 1.000
+74 | 1.200 | 1.200 | 0.500 | | 0.500 | | | | | | | 1.000
+75 | 1.200 | 1.200 | | | | 0.500 | | | | | | 1.000
+76 | 1.200 | 1.200 | 0.500 | | | 0.500 | | | | | | 1.000
+77 | 0.900 | 0.900 | | | | | | | | | | 
+78 | 0.900 | 0.900 | | | | | 1.600 | | | | | 
+79 | 0.900 | 0.900 | | | | | | 1.600 | | | | 
+80 | 0.900 | 0.900 | | | | | | | 1.600 | | | 
+81 | 0.900 | 0.900 | | | | | | | | 1.600 | | 
+82 | 0.900 | 0.900 | | | | | | | | | -1.000 | 
+83 | 0.900 | 0.900 | | | | | | | | | 1.000 | 
+84 | 0.900 | 0.900 | | | | | | | | | | -1.000
+85 | 0.900 | 0.900 | | | | | | | | | | 1.000
+Comb. | SW | DL | Qa | LL water | LL ope | Hydro | W+X | W-X | W+Y | W-Y | Ux | Uy
+1 | 1.000 | 1.000 | | | | | | | | | | 
+2 | 1.000 | 1.000 | 1.000 | | | | | | | | | 
+3 | 1.000 | 1.000 | | 1.000 | | | | | | | | 
+4 | 1.000 | 1.000 | 1.000 | 1.000 | | | | | | | | 
+5 | 1.000 | 1.000 | | | 1.000 | | | | | | | 
+6 | 1.000 | 1.000 | 1.000 | | 1.000 | | | | | | | 
+7 | 1.000 | 1.000 | | | | 1.000 | | | | | | 
+8 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | | | | 
+9 | 1.000 | 1.000 | | | | | 1.000 | | | | | 
+10 | 1.000 | 1.000 | 1.000 | | | | 1.000 | | | | | 
+11 | 1.000 | 1.000 | | 1.000 | | | 1.000 | | | | | 
+12 | 1.000 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | | | 
+13 | 1.000 | 1.000 | | | 1.000 | | 1.000 | | | | | 
+14 | 1.000 | 1.000 | 1.000 | | 1.000 | | 1.000 | | | | | 
+15 | 1.000 | 1.000 | | | | 1.000 | 1.000 | | | | | 
+16 | 1.000 | 1.000 | 1.000 | | | 1.000 | 1.000 | | | | | 
+17 | 1.000 | 1.000 | | | | | | 1.000 | | | | 
+18 | 1.000 | 1.000 | 1.000 | | | | | 1.000 | | | | 
+19 | 1.000 | 1.000 | | 1.000 | | | | 1.000 | | | | 
+20 | 1.000 | 1.000 | 1.000 | 1.000 | | | | 1.000 | | | | 
+21 | 1.000 | 1.000 | | | 1.000 | | | 1.000 | | | | 
+22 | 1.000 | 1.000 | 1.000 | | 1.000 | | | 1.000 | | | | 
+23 | 1.000 | 1.000 | | | | 1.000 | | 1.000 | | | | 
+24 | 1.000 | 1.000 | 1.000 | | | 1.000 | | 1.000 | | | | 
+25 | 1.000 | 1.000 | | | | | | | 1.000 | | | 
+26 | 1.000 | 1.000 | 1.000 | | | | | | 1.000 | | | 
+27 | 1.000 | 1.000 | | 1.000 | | | | | 1.000 | | | 
+28 | 1.000 | 1.000 | 1.000 | 1.000 | | | | | 1.000 | | | 
+29 | 1.000 | 1.000 | | | 1.000 | | | | 1.000 | | | 
+30 | 1.000 | 1.000 | 1.000 | | 1.000 | | | | 1.000 | | | 
+31 | 1.000 | 1.000 | | | | 1.000 | | | 1.000 | | | 
+32 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | 1.000 | | | 
+33 | 1.000 | 1.000 | | | | | | | | 1.000 | | 
+34 | 1.000 | 1.000 | 1.000 | | | | | | | 1.000 | | 
+35 | 1.000 | 1.000 | | 1.000 | | | | | | 1.000 | | 
+36 | 1.000 | 1.000 | 1.000 | 1.000 | | | | | | 1.000 | | 
+37 | 1.000 | 1.000 | | | 1.000 | | | | | 1.000 | | 
+38 | 1.000 | 1.000 | 1.000 | | 1.000 | | | | | 1.000 | | 
+39 | 1.000 | 1.000 | | | | 1.000 | | | | 1.000 | | 
+40 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | | 1.000 | | 
+41 | 1.000 | 1.000 | | | | | | | | | -1.000 | 
+42 | 1.000 | 1.000 | 1.000 | | | | | | | | -1.000 | 
+43 | 1.000 | 1.000 | | 1.000 | | | | | | | -1.000 | 
+44 | 1.000 | 1.000 | 1.000 | 1.000 | | | | | | | -1.000 | 
+45 | 1.000 | 1.000 | | | 1.000 | | | | | | -1.000 | 
+46 | 1.000 | 1.000 | 1.000 | | 1.000 | | | | | | -1.000 | 
+47 | 1.000 | 1.000 | | | | 1.000 | | | | | -1.000 | 
+48 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | | | -1.000 | 
+49 | 1.000 | 1.000 | | | | | | | | | 1.000 | 
+50 | 1.000 | 1.000 | 1.000 | | | | | | | | 1.000 | 
+51 | 1.000 | 1.000 | | 1.000 | | | | | | | 1.000 | 
+52 | 1.000 | 1.000 | 1.000 | 1.000 | | | | | | | 1.000 | 
+53 | 1.000 | 1.000 | | | 1.000 | | | | | | 1.000 | 
+54 | 1.000 | 1.000 | 1.000 | | 1.000 | | | | | | 1.000 | 
+55 | 1.000 | 1.000 | | | | 1.000 | | | | | 1.000 | 
+56 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | | | 1.000 | 
+57 | 1.000 | 1.000 | | | | | | | | | | -1.000
+58 | 1.000 | 1.000 | 1.000 | | | | | | | | | -1.000
+59 | 1.000 | 1.000 | | 1.000 | | | | | | | | -1.000
+60 | 1.000 | 1.000 | 1.000 | 1.000 | | | | | | | | -1.000
+61 | 1.000 | 1.000 | | | 1.000 | | | | | | | -1.000
+62 | 1.000 | 1.000 | 1.000 | | 1.000 | | | | | | | -1.000
+63 | 1.000 | 1.000 | | | | 1.000 | | | | | | -1.000
+64 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | | | | -1.000
+65 | 1.000 | 1.000 | | | | | | | | | | 1.000
+66 | 1.000 | 1.000 | 1.000 | | | | | | | | | 1.000
+67 | 1.000 | 1.000 | | 1.000 | | | | | | | | 1.000
+68 | 1.000 | 1.000 | 1.000 | 1.000 | | | | | | | | 1.000
+69 | 1.000 | 1.000 | | | 1.000 | | | | | | | 1.000
+70 | 1.000 | 1.000 | 1.000 | | 1.000 | | | | | | | 1.000
+71 | 1.000 | 1.000 | | | | 1.000 | | | | | | 1.000
+72 | 1.000 | 1.000 | 1.000 | | | 1.000 | | | | | | 1.000
+Reference: (M7-M8-M9) | Reference: (M7-M8-M9) | Reference: (M7-M8-M9)
+Details: 590" x 138" x 36" | Details: 590" x 138" x 36" | Details: 590" x 138" x 36"
+Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 | Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 | Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4
+Code checks | Values | Status
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+All the checks have been verified | All the checks have been verified | All the checks have been verified
+Reference: (M10-M11-M12) | Reference: (M10-M11-M12) | Reference: (M10-M11-M12)
+Details: 590" x 138" x 36" | Details: 590" x 138" x 36" | Details: 590" x 138" x 36"
+Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 | Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 | Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4
+Code checks | Values | Status
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+ | | Verified
+All the checks have been verified | All the checks have been verified | All the checks have been verified

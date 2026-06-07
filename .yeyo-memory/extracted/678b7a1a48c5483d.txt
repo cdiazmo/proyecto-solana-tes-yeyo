@@ -1,0 +1,2274 @@
+[page 1]
+Sheet 1 of 16 
+RFQ No.: 
+Engineering Specification Job: 120006 Spec No.: 4521-ESP-AGE-39-64-0002 
+Thermal Energy Storage (TES) Services Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 1 Dated: 
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be 
+included on all pages. 
+2. Revisions are identified in the body of the Specification. 
+1 May/29/2012 VRG PGV PQJ VOID 
+0 Apr/01/2011 AMM CLR PQJ For Bid 
+No. Date By Chk’d App’d with Page Numbers 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+Gate Control Valve 
+May/29/2012 
+Instructions :
+Rev. Description of Revision 
+1 PGV PQJ 
+0 CLR PQJ 
+No. Chk'd App'd App'd Description Date By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin 
+on request. 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the ter ms 
+of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or 
+part including shop drawings shall bear this stamp.
+May/29/2012 VRG VOID 
+Apr/01/2011 AMM For Bid 
+Specification Form - Solana (Rev. 3/2011) EC-98 
+part including shop drawings shall bear this stamp.
+
+[page 2]
+Sheet 2 of 16 
+RFQ No.: 
+Job: 120006 Spec No.: 4521-ESP-AGE-39-64-0002 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 1 Dated: 
+1. General 
+1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 
+1.2 Definitions 
+1.2.1 "Supplier" shall mean the instrument supply company chosen for the project. 
+1.2.2 "Customer" shall mean Abener Teyma. 
+1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable). 
+1.2.4 "Owner" shall mean Abengoa Solar Inc. 
+1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these 
+specifications. Any specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are 
+considered "Contract Documents". 
+1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work 
+described unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., 
+are addressed solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically 
+identified. 
+1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier. 
+2. Scope 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+Engineering Specification 
+Thermal Energy Storage (TES) Services 
+Gate Control Valve 
+May/29/2012 
+1 May/29/2012 PGV PQJ 
+0 Apr/01/2011 CLR PQJ 
+No. Date Chk'd App'd App'd Description 
+AMM For Bid 
+By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin 
+on request. 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the ter ms 
+of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or 
+part including shop drawings shall bear this stamp.
+2.1 Scope of this contract is supply of instruments as outlined in the following engineering specifications required for the project including all cables, 
+gasket, manifolds … etc as identified in the main specification as options or accessories. Shipping schedule to be confirm with purchasing during the 
+final commercial agreement 
+2.2 Packaging - To be defined later. 
+2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later. 
+2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify 
+Supplier of material required on an as needed basis. Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in 
+order to reduce transportation costs. 
+2.5 The following items are excluded from this subcontract: 
+" 
+" 
+" 
+2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available for 
+update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and 
+document all material within the scope of this contract. 
+VRG VOID 
+Specification Form - Solana (Rev. 3/2011) EC-98 
+part including shop drawings shall bear this stamp.
+
+[page 3]
+Sheet 3 of 16 
+RFQ No.: 
+Job: 120006 Spec No.: 4521-ESP-AGE-39-64-0002 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 1 Dated: 
+3. Quality 
+3.1 All material shall be supplied to meet all dimensional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc 
+standards listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense. 
+Notice: 
+o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data 
+requirements reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing 
+number of weeks after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid. 
+o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received. 
+o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later. 
+o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized, the best estimated shipping date and 
+quantity: All valves to be shipped to site no later than April-1-2012. Partial shipment to be discusse d with purchasing during commercial All valves to be shipped to site no later than Apri l-1-2012. Partial shipment to be discussed with pur chasing during commercial All valves to be shipped to site no later than Apri l-1-2012. Partial shipment to be discussed with pur chasing during commercial All valves to be shipped to site no later than Apri l-1-2012. Partial shipment to be discussed with pur chasing during commercial 
+discussions discussions discussions discussions 
+o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is 
+required. Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need 
+this information with the quotation, in order for our client to have spares available during start-up and to take advantage of any economies available. 
+o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by 
+Abener Teyma personnel prior to shipment to assure compliance with specifications. 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+Engineering Specification 
+Thermal Energy Storage (TES) Services 
+Gate Control Valve 
+May/29/2012 
+1 May/29/2012 PGV PQJ 
+0 Apr/01/2011 CLR PQJ 
+No. Date Chk'd App'd App'd Description 
+AMM For Bid 
+By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on 
+request. 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the ter ms 
+of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or 
+part including shop drawings shall bear this stamp.
+Abener Teyma personnel prior to shipment to assure compliance with specifications. 
+o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick 
+Carlton, e-mail rick.carlton@abener.abengoa.com at (314) 275-1323 for details. 
+o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in 
+physical dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or 
+maintenance cost and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate 
+and price and delivery for that alternate. The purchase will, in general, be made on a basis of adherence to the original design premise, economic 
+value, and best delivery. 
+o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as 
+meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed 
+corrections, changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must 
+request clarification. Give priority to pricing standard equipment and components. 
+o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply: 
+o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided 
+against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage. 
+o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation. 
+VRG VOID Specification Form - Solana (Rev. 3/2011) EC-98 
+part including shop drawings shall bear this stamp.
+
+[page 4]
+Sheet Revision 
+1 1
+2 1
+3 1
+4 1
+5 1
+6 1
+7 1
+8 1
+9 1
+10 1
+11 1
+12 1
+13 1
+14 1
+15 1
+16 1
+Gate control valve PV-525001B 
+Gate control valve PV-625001B 
+Gate control valve PV-225001A 
+Gate control valve PV-325001A 
+Gate control valve PV-425001A 
+Gate control valve PV-225001B 
+Gate control valve PV-325001B 
+Gate control valve PV-425001B 
+Gate control valve PV-525001A 
+Gate control valve PV-625001A 
+Gate control valve PV-125001B 
+Title 
+Cover 
+General notes and instructions 
+General notes and instructions 
+Index 
+Gate control valve PV-125001A 
+1 VRG May/29/2012 
+0 AMM Apr/01/2011 
+Rev By Date Sheet: 4 of 16 
+Document Nº: Rev.: 1 
+Description 
+ABENGOA SOLAR 
+VOID 
+Solana power plant 
+Revision 4521-ESP-AGE-39-64-0002 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+For Bid 
+
+[page 5]
+Tag: Service 
+P&ID Nº: Line Nº 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FC 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+Action (power failure) 
+Fluid 
+Rev.: 
+PV-125001A 
+Note 8 
+Yes 
+Body and bonnet 
+Note 8 
+Note 8 
+Note 8 
+5-10 bar g 
+Note 8 
+Note 8 
+No 
+4521-PLN-AGE-39-71-P251 
+Density 
+Temperature 
+Outlet pressure 
+Inlet pressure 
+Hazardous area classification Note 8 
+Note 8 
+Note 8 
+psia 
+Operation Normal Design Conditions Operation min. 
+Sound Pressure Level (from 1 meter) 
+Actuator 
+Note 8 
+Viscosity 
+Note 8 
+Nitrogen 
+Line 
+Note 8 Note 8 
+Pipe standard 
+Note 8 
+Note 8 
+Flow Note 8 Note 8 
+1
+Flow Coefficient Cv %
+Unit 
+Vapour pressure 
+lbm/h 
+psia 
+lb/ft³ 
+Process Conditions 
+ºF 
+Note 8 
+Note 8 Note 8 
+Note 8 Note 8 Note 8 
+Note 8 
+Note 2 Note 2 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 1 
+Travel % 100% 
+Note 2 
+207-N-01A-CS72-X" 
+ft²/h 
+<85 
+Note 8 
+<85 
+Note 8 Note 8 
+Note 8 
+Note 8 
+psia 
+Note 8 
+94% (Note 7) 
+Note 8 
+Note 8 
+Note 8 
+Note 2 
+Note 2 
+Note 2 
+dB <85 
+Note 8 
+Note 2 
+Note 2 
+Flanged 
+RF 
+Flanged 
+24 Lubrication / Type Note 2 54 Tubing material 
+25 Packing adjustment Note 8 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 Note 8 65 Hazardous area class. 
+36 Note 8 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Rev 
+Yes 
+Material certificates 
+Input signal 
+Yes 
+Seat material 
+Yes 
+NA 
+Yes 
+Test 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+0 - 90 Deg. 
+Yes 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+Shutoff Class 
+Disc material 
+Trim 
+Air set 
+Note 2 
+Others 
+Switch 
+Yes 
+Positioner 
+Note 8 
+NA Note 2 
+NA NA 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+8. To be defined 
+VOID VRG May/29/2012 
+Description 
+Solana power plant AMM Apr/01/2011 
+ABENGOA SOLAR 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+For Bid 
+By Date Sheet: 5 of 16 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+Ring material 
+Stem material 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+
+[page 6]
+Tag: Service 
+P&ID Nº: Line Nº 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FC 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+Note 8 
+Note 8 Note 8 
+94% (Note 7) 
+ft²/h 
+<85 
+Note 8 
+Note 8 
+Note 8 
+Note 8 
+<85 <85 
+Note 8 Note 8 
+Note 8 
+Note 2 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 2 
+Travel % 100% 
+Note 2 
+Note 2 
+Note 2 
+207-N-01B-CS72-X" 
+Note 8 
+No 
+Note 2 Note 2 
+5-10 bar g 
+Yes 
+Design Conditions Operation min. 
+psia Note 8 
+psia 
+Note 8 Note 8 
+Note 8 
+Note 8 
+1
+Flow Coefficient Cv %
+Unit 
+Vapour pressure 
+lbm/h 
+psia 
+ºF 
+Hazardous area classification 
+4521-PLN-AGE-39-71-P251 Nitrogen 
+Line 
+Note 8 
+Pipe standard 
+Note 8 
+Note 8 
+Note 8 
+Note 8 Note 8 
+Note 8 
+Process Conditions 
+Viscosity 
+Density 
+Temperature 
+Outlet pressure 
+Inlet pressure 
+Note 8 
+Note 8 
+Note 8 
+Note 8 
+Note 2 
+Note 2 
+Operation Normal 
+Sound Pressure Level (from 1 meter) 
+Note 8 
+Action (power failure) 
+Actuator 
+Note 8 
+Flow 
+lb/ft³ 
+Note 8 
+dB 
+Note 8 
+Note 8 
+RF 
+Flanged Flanged 
+Body and bonnet 
+Fluid 
+Rev.: 
+PV-225001A 
+Note 8 
+Note 8 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Note 8 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 Note 8 65 Hazardous area class. 
+36 Note 8 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Rev 
+Ring material 
+Stem material 
+Yes 
+Material certificates 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+AMM Apr/01/2011 For Bid 
+Sheet: 6 of 16 By Date Description 
+Solana power plant 
+ABENGOA SOLAR 
+VRG Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+8. To be defined 
+VOID May/29/2012 
+NA NA 
+NA Note 2 
+Note 8 
+Trim 
+Air set 
+Note 2 
+Others 
+Switch 
+Yes 
+Positioner 
+Input signal 
+Yes 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+0 - 90 Deg. 
+Yes 
+Shutoff Class 
+Disc material 
+Seat material 
+Yes 
+NA 
+Yes 
+Test 
+Rev 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+Sheet: 6 of 16 By Date Description 
+
+[page 7]
+Tag: Service 
+P&ID Nº: Line Nº 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FC 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+PV-325001A 
+Action (power failure) 
+Fluid 
+Rev.: 
+Body and bonnet 
+Flanged 
+Note 2 
+Note 8 
+Actuator 
+Note 8 
+Line 
+5-10 bar g 
+Note 8 
+Note 8 
+Note 8 
+Note 8 Note 8 
+Note 8 
+Note 2 
+Flanged 
+Note 8 
+Note 8 ºF 
+Note 8 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+Note 8 
+Note 8 
+Sound Pressure Level (from 1 meter) dB <85 <85 
+Yes 
+RF 
+Operation min. 
+4521-PLN-AGE-39-71-P251 
+Density 
+Temperature 
+Outlet pressure 
+Inlet pressure 
+Flow 
+lb/ft³ 
+Hazardous area classification 
+psia 
+Note 8 
+Note 8 Note 8 
+Note 8 
+Note 8 
+Nitrogen 
+Note 8 Note 8 
+Operation Normal Design Conditions 
+Note 8 Note 8 
+Pipe standard 
+Note 8 
+Note 8 
+1
+Flow Coefficient Cv %
+Unit 
+Vapour pressure 
+lbm/h 
+psia 
+Process Conditions 
+Viscosity ft²/h 
+psia 
+Note 8 Note 8 
+Note 8 Note 8 
+No 
+Note 2 Note 2 
+<85 
+Note 8 
+Note 8 
+Note 8 
+Note 2 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 3 
+Travel % 100% 
+Note 2 
+Note 2 
+Note 2 
+207-N-01C-CS72-X" 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Note 8 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 Note 8 65 Hazardous area class. 
+36 Note 8 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Rev 
+Shutoff Class 
+Disc material 
+Seat material 
+Ring material 
+Yes 
+NA 
+Yes 
+Test 
+Input signal 
+Material certificates 
+Stem material 
+Yes 
+0 - 90 Deg. 
+Yes 
+Trim 
+Air set 
+Note 2 
+Others 
+Switch 
+Yes 
+Positioner 
+Note 8 NA 
+NA Note 2 
+Yes 
+NA 
+VOID 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+7 of 16 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING VRG May/29/2012 
+Description 
+Solana power plant 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+8. To be defined 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+For Bid 
+By Date Sheet: 
+AMM Apr/01/2011 
+ABENGOA SOLAR 
+Notes 
+Rev 7 of 16 Description 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+By Date Sheet: 
+
+[page 8]
+Tag: Service 
+P&ID Nº: Line Nº 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FC 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Note 2 
+Notes 
+Note 2 
+dB 
+Action (power failure) 
+<85 
+Note 2 
+94% (Note 7) 
+<85 
+Note 2 
+Fluid 
+Rev.: 
+Note 8 
+Note 8 
+ft²/h Note 8 
+Note 8 
+Note 2 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 4 
+Travel % 100% 
+207-N-01D-CS72-X" 
+psia Note 8 
+psia 
+Note 8 
+1
+Flow Coefficient Cv 
+Vapour pressure 
+Note 8 
+%
+Unit 
+Note 8 Note 8 
+Note 8 
+Note 8 
+Design Conditions 
+Note 8 
+Viscosity 
+Nitrogen 
+Line 
+Note 8 
+Pipe standard 
+Note 8 
+Operation Normal 
+Note 8 
+psia 
+<85 
+Note 2 
+Note 8 
+Note 8 
+Hazardous area classification Note 8 
+Note 8 Note 8 
+Note 8 
+Note 8 
+4521-PLN-AGE-39-71-P251 
+Density 
+Temperature 
+Outlet pressure 
+Inlet pressure 
+Flow 
+lb/ft³ 
+Note 8 
+Operation min. 
+ºF 
+Process Conditions 
+Actuator 
+Note 8 
+Note 8 
+Note 8 
+Note 8 
+Note 8 lbm/h 
+Sound Pressure Level (from 1 meter) 
+No 
+Body and bonnet 
+Note 8 
+Note 8 Note 8 
+5-10 bar g 
+Yes 
+Note 2 
+RF 
+Flanged 
+Note 8 
+PV-425001A 
+Note 8 
+Note 2 
+Flanged 
+Note 8 
+24 Lubrication / Type Note 2 54 Tubing material 
+25 Packing adjustment Note 8 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 Note 8 65 Hazardous area class. 
+36 Note 8 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Rev 
+NA NA 
+Stem material 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+Sheet: 8 of 16 By Date 
+VRG May/29/2012 
+Description 
+Solana power plant AMM Apr/01/2011 For Bid 
+3. Desired valve position to be at 15% for repeatable performance. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+8. To be defined 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+VOID 
+Note 8 
+Note 2 
+Others 
+Switch 
+Yes 
+Positioner 
+Input signal 
+Material certificates 
+Shutoff Class 
+Disc material 
+Trim 
+Air set 
+Seat material 
+Ring material 
+Yes 
+0 - 90 Deg. 
+Yes 
+NA 
+Yes 
+NA Note 2 
+Yes 
+Test Yes 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+
+[page 9]
+Tag: Service 
+P&ID Nº: Line Nº 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FC 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+Action (power failure) 
+Sound Pressure Level (from 1 meter) <85 
+Line Body and bonnet 
+Note 8 
+RF 
+Flanged 
+Note 8 
+Note 8 
+Note 2 
+Note 8 
+Note 8 
+Yes 
+Note 8 
+Note 8 
+Note 2 
+Note 2 
+Flanged 
+Actuator 
+Note 8 
+No 
+Note 8 Note 8 
+Flow Coefficient Cv % Note 2 
+Density lb/ft³ 
+Note 8 
+Note 8 Note 8 Note 8 
+psia 
+Hazardous area classification Note 8 
+Note 8 
+ºF 
+Operation min. 
+Note 8 
+psia 
+<85 
+Vapour pressure 
+lbm/h 
+psia 
+Inlet pressure 
+Nitrogen 
+Temperature 
+Outlet pressure Note 8 
+Design Conditions 
+Note 8 
+Pipe standard 
+Note 8 
+Note 8 
+Viscosity ft²/h 
+dB <85 
+Note 8 
+Note 8 
+1 4521-PLN-AGE-39-71-P251 
+Flow 
+Fluid 
+Rev.: 
+PV-525001A 
+Unit Operation Normal Process Conditions 
+Note 8 
+Note 2 
+5-10 bar g Note 8 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 5 
+Travel % 100% 
+Note 2 
+Note 2 
+Note 2 
+207-N-01E-CS72-X" 
+Note 8 
+Note 8 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+Note 8 
+Note 8 Note 8 
+Note 8 
+24 Lubrication / Type Note 2 54 Tubing material 
+25 Packing adjustment Note 8 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 Note 8 65 Hazardous area class. 
+36 Note 8 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Rev 
+Material certificates 
+Input signal 
+Shutoff Class 
+Disc material 
+Seat material 
+Ring material 
+Yes 
+Yes 
+NA 
+Switch 
+Yes Yes 
+Air set 
+Note 2 
+Others 
+Positioner 
+0 - 90 Deg. 
+Stem material 
+Yes 
+Yes 
+Note 2 
+Note 8 NA 
+Trim 
+Test 
+NA 
+NA 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+8. To be defined 
+ABENGOA SOLAR 
+VRG May/29/2012 
+Description 
+Solana power plant AMM Apr/01/2011 
+VOID 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+For Bid 
+By Date Sheet: 9 of 16 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+
+[page 10]
+Tag: Service 
+P&ID Nº: Line Nº 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FC 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+ft²/h Note 8 
+Note 2 
+Actuator 
+Note 8 Note 8 
+94% (Note 7) 
+Note 2 
+Note 8 
+dB <85 
+Note 8 
+Note 8 
+lb/ft³ 
+207-N-01F-CS72-X" 
+<85 
+Note 8 
+Note 8 Note 8 
+Note 8 
+Note 8 
+<85 
+Note 8 
+Design Conditions 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 6 
+Travel % 100% 
+Note 2 
+Note 2 
+psia Note 8 
+Note 8 
+No 
+Note 2 Note 2 
+5-10 bar g 
+Yes 
+Operation min. 
+Note 8 
+Note 8 
+Note 8 Note 8 
+Viscosity 
+Note 8 Note 8 
+Outlet pressure 
+Inlet pressure 
+1 4521-PLN-AGE-39-71-P251 
+Flow 
+Fluid 
+Rev.: 
+PV-625001A 
+Operation Normal 
+Note 8 
+Unit 
+lbm/h 
+Nitrogen 
+Line 
+Note 8 
+Pipe standard 
+Note 8 
+Note 8 
+Note 8 psia 
+Hazardous area classification Note 8 
+ºF 
+Density 
+Temperature 
+Process Conditions 
+Flow Coefficient Cv %
+Vapour pressure 
+Sound Pressure Level (from 1 meter) 
+psia 
+Note 8 
+Note 8 
+Body and bonnet 
+Note 2 
+Note 8 
+Note 8 
+Note 8 Note 8 
+Note 8 
+RF 
+Flanged 
+Note 2 
+Flanged Action (power failure) 
+Note 8 
+24 Lubrication / Type Note 2 54 Tubing material 
+25 Packing adjustment Note 8 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 Note 8 65 Hazardous area class. 
+36 Note 8 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Rev 
+Material certificates 
+ABENGOA SOLAR 
+Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+Sheet: 10 of 16 By Date 
+VRG May/29/2012 
+Description 
+Solana power plant AMM Apr/01/2011 For Bid 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+8. To be defined 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+VOID 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+NA NA 
+Yes 
+Note 8 
+Positioner 
+Shutoff Class 
+Disc material 
+Seat material 
+Ring material 
+NA Note 2 
+Input signal 
+Test 
+Yes 
+NA 
+Yes 
+Yes 
+Air set 
+Note 2 
+Others 
+Switch 
+Yes 
+Trim 
+Stem material 
+Yes 
+0 - 90 Deg. 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+
+[page 11]
+Tag: Service 
+P&ID Nº: Nitrogen 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FO 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+No Yes 
+Class 150 4" (Note 2) 
+<85 <85 
+Note 8 
+Note 8 Note 8 
+Note 8 
+Notes 
+Note 2 Note 2 
+Note 8 
+<85 
+Design Conditions 
+Fluid 
+Note 8 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+Note 2 
+Rev.: 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 1 
+Travel % 100% 
+Line Nº 
+Note 2 
+Note 8 
+ºF Note 8 
+Density 
+Temperature 
+Note 8 
+Note 8 
+lb/ft³ 
+Viscosity ft²/h 
+Note 8 Outlet pressure 
+Inlet pressure 
+psia Note 8 
+psia Note 8 
+Process Conditions 
+Flow 
+Note 8 
+Note 8 Note 8 
+Note 8 
+Operation min. 
+Note 8 
+Std (0.237") / 150 
+Pipe standard 
+4" 
+ASTM A-53 
+Std (0.237") / 150 
+1
+PV-125001B 
+Flow Coefficient Cv %
+Unit 
+4521-PLN-AGE-39-71-P251 
+Note 2 Note 2 
+Hazardous area classification Class 1 Division 2, Group D 
+251-N-10A-CS72-4" 
+Operation 
+Normal 
+Vapour pressure 
+lbm/h 
+psia 
+Sound Pressure Level (from 1 meter) 
+4" 
+dB 
+Line 
+4" 
+5-10 bar g 
+Note 8 
+Action (power failure) 
+ASTM A-216 WCB 
+Same as body material 
+RF 
+Flanged 
+Note 8 
+Actuator 
+Body and bonnet 
+Note 2 
+Note 2 
+Flanged 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Live Loaded Poacking 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 13 CR 65 Hazardous area class. 
+36 13 CR 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Shutoff Class 
+Disc material 
+Seat material 
+NA 
+0 - 90 Deg. 
+NA 
+Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+Yes 
+Material certificates 
+2. Vendor to provide information. 
+8. To be defined 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+For Bid Solana power plant AMM Apr/01/2011 
+VOID VRG 
+3. Desired valve position to be at 15% for repeatable performance. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+4. Bidirectional leak test (if applicable) 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+May/29/2012 
+Test 
+Yes Yes 
+Yes 
+Note 2 
+Positioner NA 
+Flexible Graphite 
+Input signal 
+Trim 
+Air set Stem material 
+Ring material 
+Note 2 
+Others 
+Switch 
+Yes 
+NA 
+Yes 
+Rev 
+Rev.: 1 
+Sheet: 11 of 16 By Date Description 
+Apr/01/2011 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 
+
+[page 12]
+Tag: Service 
+P&ID Nº: Nitrogen 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FO 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+RF 
+Flanged 
+Same as body material 
+Notes 
+Action (power failure) 
+5-10 bar g 
+Note 2 Note 2 
+<85 
+Note 8 
+Yes 
+Actuator 
+Class 150 
+4" 
+4" (Note 2) 
+ASTM A-216 WCB 
+Note 2 
+Note 2 
+4" 
+ASTM A-53 
+Flow Coefficient Cv 
+Body and bonnet 
+%
+Note 2 
+Flanged 
+Hazardous area classification Class 1 Division 2, Group D 
+Operation 
+Normal Operation min. 
+Note 8 
+Std (0.237") / 150 
+Line 
+4" Std (0.237") / 150 
+Pipe standard 
+Unit 
+Vapour pressure 
+lbm/h 
+psia 
+Process Conditions 
+Sound Pressure Level (from 1 meter) 
+Viscosity 
+1
+PV-225001B 
+4521-PLN-AGE-39-71-P251 251-N-10B-CS72-4" 
+ft²/h Note 8 
+lb/ft³ 
+Design Conditions 
+Note 8 Note 8 
+Note 8 
+Note 8 
+Note 8 
+Outlet pressure 
+Inlet pressure 
+psia Note 8 
+psia 
+Flow 
+Note 8 Note 8 
+ºF Note 8 
+Density 
+Temperature 
+No 
+Note 8 
+Note 8 Note 8 
+Note 2 
+Note 8 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 2 
+Travel % 100% 
+Note 2 
+Rev.: 
+Note 2 
+<85 
+Note 8 Note 8 
+Note 8 
+Fluid Line Nº 
+dB <85 
+Note 8 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Live Loaded Poacking 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 13 CR 65 Hazardous area class. 
+36 13 CR 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Stem material 
+Yes 
+Material certificates 
+Disc material 
+Shutoff Class 
+Input signal 
+NA NA 
+Trim 
+Air set 
+Note 2 
+Others 
+NA 
+Seat material 
+Ring material 
+0 - 90 Deg. 
+Yes 
+Flexible Graphite 
+NA 
+Yes Yes 
+Test Positioner Switch 
+Note 2 
+Yes 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+Yes 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+8. To be defined 
+VRG May/29/2012 
+Solana power plant AMM 
+VOID 
+Apr/01/2011 For Bid 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+Notes 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+Rev Description 
+Apr/01/2011 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+By Date Sheet: 12 of 16 
+
+[page 13]
+Tag: Service 
+P&ID Nº: Nitrogen 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FO 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+Std (0.237") / 150 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+<85 
+Vapour pressure 
+Std (0.237") / 150 
+Line 
+Fluid Line Nº 
+dB <85 
+Note 8 
+No 
+Note 2 
+Design Conditions 
+Note 8 
+Note 8 Note 8 
+<85 
+Note 8 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 3 
+Travel % 100% 
+Note 2 
+lb/ft³ 
+Note 8 Note 8 
+Rev.: 
+Note 8 
+Note 2 
+Note 2 
+Note 2 
+Note 8 
+Density 
+Temperature 
+Flow Coefficient Cv %
+Sound Pressure Level (from 1 meter) 
+Note 8 
+Note 2 
+Note 8 
+Note 8 Note 8 
+Note 2 
+Note 8 Note 8 
+Note 8 Note 8 
+Note 8 
+Note 2 
+Note 8 
+1
+PV-325001B 
+4521-PLN-AGE-39-71-P251 251-N-10C-CS72-4" 
+Hazardous area classification Class 1 Division 2, Group D 
+Operation 
+Normal Operation min. Unit 
+lbm/h 
+Process Conditions 
+ºF 
+Flow 
+ft²/h 
+Outlet pressure 
+Inlet pressure 
+psia 
+psia 
+Viscosity 
+psia 
+4" 
+4" (Note 2) 
+ASTM A-53 
+Actuator 
+4" 
+Pipe standard 
+4" 
+Class 150 
+Flanged 
+Action (power failure) 
+Body and bonnet 
+ASTM A-216 WCB 
+RF 
+5-10 bar g 
+Note 8 
+Yes 
+Flanged 
+Same as body material 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Live Loaded Poacking 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 13 CR 65 Hazardous area class. 
+36 13 CR 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Material certificates Yes 
+Ring material 
+Stem material 
+Yes 
+Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+2. Vendor to provide information. 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+8. To be defined 
+For Bid Solana power plant AMM Apr/01/2011 
+VOID VRG 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+May/29/2012 
+Yes 
+NA 
+Test Switch 
+Yes 
+NA 
+4. Bidirectional leak test (if applicable) 
+0 - 90 Deg. 
+Flexible Graphite 
+Disc material 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+Yes 
+Note 2 Seat material 
+Shutoff Class 
+NA 
+Input signal 
+NA Note 2 
+Positioner 
+Trim 
+Air set 
+Others 
+Yes 
+Rev Sheet: 13 of 16 By Date Description 
+Apr/01/2011 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+
+[page 14]
+Tag: Service 
+P&ID Nº: Nitrogen 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FO 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+Body and bonnet 
+RF 
+Flanged 
+Same as body material 
+Flanged 
+Note 8 
+Yes 
+Actuator 
+Class 150 
+4" 
+4" (Note 2) 
+ASTM A-53 
+Hazardous area classification Class 1 Division 2, Group D 
+Operation 
+Normal Operation min. 
+Note 8 
+Line 
+4" Std (0.237") / 150 
+Pipe standard 
+4" 
+Flow Coefficient Cv %
+<85 
+Note 2 
+Unit 
+Vapour pressure 
+lbm/h 
+psia 
+Process Conditions 
+Sound Pressure Level (from 1 meter) 
+ft²/h Viscosity 
+ºF 
+dB 
+1
+PV-425001B 
+4521-PLN-AGE-39-71-P251 
+Outlet pressure 
+Inlet pressure 
+Note 8 
+251-N-10D-CS72-4" 
+lb/ft³ 
+Design Conditions 
+Note 8 Note 8 
+Note 8 Note 8 
+Note 8 
+Note 8 
+psia 
+psia 
+Flow 
+Note 8 Note 8 
+No 
+Note 8 Note 8 
+Note 8 
+Density 
+Temperature 
+<85 
+Note 2 Std (0.237") / 150 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+5-10 bar g 
+Note 2 ASTM A-216 WCB 
+Action (power failure) 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 4 
+Travel % 100% 
+Note 2 
+Fluid Line Nº 
+Note 8 
+Note 2 
+Rev.: 
+Note 2 
+<85 
+Note 8 Note 8 
+Note 8 
+Note 8 
+Note 2 
+Note 2 
+Note 8 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Live Loaded Poacking 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 13 CR 65 Hazardous area class. 
+36 13 CR 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Shutoff Class 
+Disc material 
+Seat material 
+Ring material 
+NA NA 
+Others 
+NA 
+Switch 
+Yes 
+Test Positioner 
+Flexible Graphite 
+0 - 90 Deg. 
+Trim 
+Stem material 
+Yes 
+NA 
+Yes 
+Input signal 
+ABENGOA SOLAR 
+Yes 
+Material certificates 
+8. To be defined 
+Note 2 
+Yes 
+Yes 
+Air set 
+Note 2 
+VRG May/29/2012 
+Solana power plant AMM 
+VOID 
+Apr/01/2011 For Bid 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+Notes 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+Rev Description 
+Apr/01/2011 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+By Date Sheet: 14 of 16 
+
+[page 15]
+Tag: Service 
+P&ID Nº: Nitrogen 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FO 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+Std (0.237") / 150 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+<85 
+Vapour pressure 
+Std (0.237") / 150 
+Line 
+Fluid Line Nº 
+dB <85 
+Note 8 
+No 
+Note 2 
+Design Conditions 
+Note 8 
+Note 8 Note 8 
+<85 
+Note 8 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 5 
+Travel % 100% 
+Note 2 
+lb/ft³ 
+Note 8 Note 8 
+Rev.: 
+Note 8 
+Note 2 
+Note 2 
+Note 2 
+Note 8 
+Density 
+Temperature 
+Flow Coefficient Cv %
+Sound Pressure Level (from 1 meter) 
+Note 8 
+Note 2 
+Note 8 
+Note 8 Note 8 
+Note 2 
+Note 8 Note 8 
+Note 8 Note 8 
+Note 8 
+Note 2 
+Note 8 
+1
+PV-525001B 
+4521-PLN-AGE-39-71-P251 251-N-10E-CS72-4" 
+Hazardous area classification Class 1 Division 2, Group D 
+Operation 
+Normal Operation min. Unit 
+lbm/h 
+Process Conditions 
+ºF 
+Flow 
+ft²/h 
+Outlet pressure 
+Inlet pressure 
+psia 
+psia 
+Viscosity 
+psia 
+4" 
+4" (Note 2) 
+ASTM A-53 
+Actuator 
+4" 
+Pipe standard 
+4" 
+Class 150 
+Flanged 
+Action (power failure) 
+Body and bonnet 
+ASTM A-216 WCB 
+RF 
+5-10 bar g 
+Note 8 
+Yes 
+Flanged 
+Same as body material 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Live Loaded Poacking 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 13 CR 65 Hazardous area class. 
+36 13 CR 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Material certificates Yes 
+Ring material 
+Stem material 
+Yes 
+Notes 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+2. Vendor to provide information. 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+8. To be defined 
+For Bid Solana power plant AMM Apr/01/2011 
+VOID VRG 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+May/29/2012 
+Yes 
+NA 
+Test Switch 
+Yes 
+NA 
+4. Bidirectional leak test (if applicable) 
+0 - 90 Deg. 
+Flexible Graphite 
+Disc material 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+Yes 
+Note 2 Seat material 
+Shutoff Class 
+NA 
+Input signal 
+NA Note 2 
+Positioner 
+Trim 
+Air set 
+Others 
+Yes 
+Rev Sheet: 15 of 16 By Date Description 
+Apr/01/2011 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+
+[page 16]
+Tag: Service 
+P&ID Nº: Nitrogen 
+Quantity 1 0
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet Sch. / Class 42 Type Diaphragm 
+13 Size outlet Sch. / Class 43 Manufactur. Model 
+14 Insulation 44 Size Note 2 
+15 Type Gate 45 Modulating On-Off: 
+16 Body size Rating: 46 Power supply 
+17 Design pressure Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material Bonnet material 49 Actuator orientation Increase to open 
+20 End conn. In End conn. Out 50 Last 
+21 Flange face finish 51 Action (control signal failure) FO 
+22 End material 52 Stroke time (max) 10 seconds 
+23 Bonnet type Standard 53 Identification plate AISI 316 SS (2"*4") 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+Notes 
+Body and bonnet 
+RF 
+Flanged 
+Same as body material 
+Flanged 
+Note 8 
+Yes 
+Actuator 
+Class 150 
+4" 
+4" (Note 2) 
+ASTM A-53 
+Hazardous area classification Class 1 Division 2, Group D 
+Operation 
+Normal Operation min. 
+Note 8 
+Line 
+4" Std (0.237") / 150 
+Pipe standard 
+4" 
+Flow Coefficient Cv %
+<85 
+Note 2 
+Unit 
+Vapour pressure 
+lbm/h 
+psia 
+Process Conditions 
+Sound Pressure Level (from 1 meter) 
+ft²/h Viscosity 
+ºF 
+dB 
+1
+PV-625001B 
+4521-PLN-AGE-39-71-P251 
+Outlet pressure 
+Inlet pressure 
+Note 8 
+251-N-10F-CS72-4" 
+lb/ft³ 
+Design Conditions 
+Note 8 Note 8 
+Note 8 Note 8 
+Note 8 
+Note 8 
+psia 
+psia 
+Flow 
+Note 8 Note 8 
+No 
+Note 8 Note 8 
+Note 8 
+Density 
+Temperature 
+<85 
+Note 2 Std (0.237") / 150 
+Note 8 Note 8 
+94% (Note 7) 
+Note 8 
+5-10 bar g 
+Note 2 ASTM A-216 WCB 
+Action (power failure) 
+Engineering Specification - TES Services - Gate Control Valve 
+TES cold salt tank 6 
+Travel % 100% 
+Note 2 
+Fluid Line Nº 
+Note 8 
+Note 2 
+Rev.: 
+Note 2 
+<85 
+Note 8 Note 8 
+Note 8 
+Note 8 
+Note 2 
+Note 2 
+Note 8 
+24 Lubrication / Type Note 2 54 Tubing material NA 
+25 Packing adjustment Live Loaded Poacking 55 Travel indicator (local) Yes 
+26 Packing material 56 Sol. Type Manufactur. 
+27 57 HART 
+28 Type Note 2 58 Type NA Smart NA 
+29 Anti-noise system Note 2 59 Gauges NA 
+30 Anti-cavitation system 60 I/O analog signals 
+31 Characteristic Equal % 61 
+32 Travel 62 
+33 Valve Cv Note 2 63 Type NA 
+34 Zero leak 64 Number NA 
+35 13 CR 65 Hazardous area class. 
+36 13 CR 66 Model 
+37 Note 2 67 Set pressure Note 2 
+38 Note 2 (17-4 ph is not recommended due to high temperature) 68 Filter Gauges 
+39 Handwheel 69 Range 5-10 bar g 
+40 70 Hydro pressure 
+41 71 Leakage test 
+1
+0
+Shutoff Class 
+Disc material 
+Seat material 
+Ring material 
+NA NA 
+Others 
+NA 
+Switch 
+Yes 
+Test Positioner 
+Flexible Graphite 
+0 - 90 Deg. 
+Trim 
+Stem material 
+Yes 
+NA 
+Yes 
+Input signal 
+ABENGOA SOLAR 
+Yes 
+Material certificates 
+8. To be defined 
+Note 2 
+Yes 
+Yes 
+Air set 
+Note 2 
+VRG May/29/2012 
+Solana power plant AMM 
+VOID 
+Apr/01/2011 For Bid 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+6. Actuator sizing for 120% of DP max. Indicate expected power consumption. 
+1. Vendor to provide the lowest possible DP across valve - Valve sizing calculations, graphs or any support documents. 
+3. Desired valve position to be at 15% for repeatable performance. 
+5. Calibration Certificate is required and functional testing and NFPA hazardous area certifiyng where applicable. 
+Notes 
+2. Vendor to provide information. 
+4. Bidirectional leak test (if applicable) 
+7. Valve to be designed to handle 110% max flow at 85 degrees valve position. 
+Rev Description 
+Apr/01/2011 
+Revision Document Nº: 4521-ESP-AGE-39-64-0002 Rev.: 1 
+By Date Sheet: 16 of 16

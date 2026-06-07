@@ -1,0 +1,62 @@
+{
+  "id": "ce53b5d1d4143336",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-HTF-20F-CS30-1 R4_Sht1.dwg",
+  "top_dir": "12 As Built TES 6",
+  "ext": "dwg",
+  "size_bytes": 581960,
+  "size_human": "568 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "255-HTF-20F-CS30-1 R4 Sht1",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/ce53b5d1d4143336.json",
+  "extracted_path": null,
+  "metadata": {
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::301",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 301,
+        "doc_code": "255-HTF-20F-CS30-1\" - HEX Replacement",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::392",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 392,
+        "doc_code": "255-HTF-20F-CS30-1\" - HEX Replacement",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::381",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 381,
+        "doc_code": "255-HTF-20F-CS30-1\" - HEX Replacement",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:20:13.110398+00:00"
+}

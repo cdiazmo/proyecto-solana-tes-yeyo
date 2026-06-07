@@ -1,0 +1,130 @@
+{
+  "id": "a59391a7b871c26d",
+  "path": "02 GD LOI/Hoja tecnica/4521-HDD-LOI-039-062-0001-GAR Rev.00 Equipmnet Data Sheet.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 253918,
+  "size_human": "248 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-HDD-LOI-039-062-0001-GAR Rev.00 Equipmnet Data Sheet",
+  "doc_code": "4521-HDD-LOI-039-062-0001",
+  "revision": "Rev.00",
+  "status": "ok",
+  "text_chars": 3944,
+  "token_estimate": 986,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/a59391a7b871c26d.json",
+  "extracted_path": ".yeyo-memory/extracted/a59391a7b871c26d.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20160927135313+02'00'",
+      "Creator": "Microsoft® Word 2010",
+      "ModDate": "D:20160927161633+02'00'",
+      "Producer": "Microsoft® Word 2010",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.053841+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx::Mechanical Equipments List::13",
+        "index_path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Mechanical Equipments List",
+        "row": 13,
+        "doc_code": "4521-HDD-LOI-039-062-0001-GAR",
+        "title": "Shell&Tube Heat Exchanger (MS-HTF)",
+        "revision": "",
+        "status": "",
+        "date": "On hold",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx::Mechanical Equipments List::14",
+        "index_path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Mechanical Equipments List",
+        "row": 14,
+        "doc_code": "4521-HDD-LOI-039-062-0001-GAR",
+        "title": "Shell&Tube Heat Exchanger (MS-HTF)",
+        "revision": "",
+        "status": "",
+        "date": "On hold",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx::Mechanical Equipments List::15",
+        "index_path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Mechanical Equipments List",
+        "row": 15,
+        "doc_code": "4521-HDD-LOI-039-062-0001-GAR",
+        "title": "Shell&Tube Heat Exchanger (MS-HTF)",
+        "revision": "",
+        "status": "",
+        "date": "On hold",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx::Mechanical Equipments List::16",
+        "index_path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Mechanical Equipments List",
+        "row": 16,
+        "doc_code": "4521-HDD-LOI-039-062-0001-GAR",
+        "title": "Shell&Tube Heat Exchanger (MS-HTF)",
+        "revision": "",
+        "status": "",
+        "date": "On hold",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx::Mechanical Equipments List::17",
+        "index_path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Mechanical Equipments List",
+        "row": 17,
+        "doc_code": "4521-HDD-LOI-039-062-0001-GAR",
+        "title": "Shell&Tube Heat Exchanger (MS-HTF)",
+        "revision": "",
+        "status": "",
+        "date": "On hold",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx::Mechanical Equipments List::18",
+        "index_path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Mechanical Equipments List",
+        "row": 18,
+        "doc_code": "4521-HDD-LOI-039-062-0001-GAR",
+        "title": "Shell&Tube Heat Exchanger (MS-HTF)",
+        "revision": "",
+        "status": "",
+        "date": "On hold",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0002-GAR_901_Rev00_Equipment list.xlsx::Document::12",
+        "index_path": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0002-GAR_901_Rev00_Equipment list.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Document",
+        "row": 12,
+        "doc_code": "4521-HDD-LOI-039-062-0001",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:00.053843+00:00"
+}

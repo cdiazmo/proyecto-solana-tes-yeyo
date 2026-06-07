@@ -1,0 +1,33 @@
+{
+  "id": "ee643b8085f50ad5",
+  "path": "12 As Built TES 6/04_Piping/03_Stress Calculation report/4521-INF-AEE-21-63-0004 (A05)_Rev00_Restraint and Stress Report.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 469606,
+  "size_human": "459 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-INF-AEE-21-63-0004 (A05) Rev00 Restraint and Stress Report",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 228865,
+  "token_estimate": 57216,
+  "chunks": 145,
+  "card_path": ".yeyo-memory/cards/ee643b8085f50ad5.json",
+  "extracted_path": ".yeyo-memory/extracted/ee643b8085f50ad5.txt",
+  "metadata": {
+    "pages": 66,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20170131105713+01'00'",
+      "ModDate": "D:20170131105713+01'00'",
+      "Author": "agjbi",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "4521-INF-AEE-21-63-0004 (A05)_Rev00_Restraint and Stress Report"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:47.365419+00:00"
+}

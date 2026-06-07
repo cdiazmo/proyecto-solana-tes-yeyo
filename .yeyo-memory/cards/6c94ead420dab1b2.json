@@ -1,0 +1,22 @@
+{
+  "id": "6c94ead420dab1b2",
+  "path": "01 GD AE/Compras/03 Deposito drenaje/02 Propuestas/Medio Oeste TK/Midwest Tank co ab161104.doc",
+  "top_dir": "01 GD AE",
+  "ext": "doc",
+  "size_bytes": 51712,
+  "size_human": "51 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "Midwest Tank co ab161104",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1346,
+  "token_estimate": 336,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/6c94ead420dab1b2.json",
+  "extracted_path": ".yeyo-memory/extracted/6c94ead420dab1b2.txt",
+  "metadata": {
+    "returncode": 0
+  },
+  "processed_at": "2026-06-05T09:11:58.012332+00:00"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "8dfc9e3da72b5803",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-68-51-0001-GAR-901_Rev02_Layout_new_exchangers.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 45113,
+  "size_human": "44 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AEE-68-51-0001-GAR-901 Rev02 Layout new exchangers",
+  "doc_code": "4521-PLN-AEE-68-51-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3708,
+  "token_estimate": 927,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/8dfc9e3da72b5803.json",
+  "extracted_path": ".yeyo-memory/extracted/8dfc9e3da72b5803.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 137,
+        "non_empty_rows": 130
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::17",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 17,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR",
+        "title": "Layout. IFC",
+        "revision": "4",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::16",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 16,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR-Rev04-Layout-new-exchangers",
+        "title": "",
+        "revision": "4521-PLN-AEE-68-51-0001-GAR_Rev04_Layout_new_exchangers",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::17",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 17,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR",
+        "title": "Layout. IFC",
+        "revision": "4",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::11",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 11,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR",
+        "title": "Layout_new_exchangers",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::16",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 16,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR-Rev04-Layout-new-exchangers",
+        "title": "",
+        "revision": "4521-PLN-AEE-68-51-0001-GAR_Rev04_Layout_new_exchangers",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::19",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 19,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR-Rev04-Layout-new-exchangers",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::20",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 20,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR-Rev04-Layout-new-exchangers",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::20",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 20,
+        "doc_code": "4521-PLN-AEE-68-51-0001-GAR-Rev04-Layout-new-exchangers",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::132",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 132,
+        "doc_code": "There can be a mismatch in the revision of document \"4521-PLN-AEE-68-51-0001-GAR-Rev04-Layout-new-exchangers\". I sent you by email our Rev4, it's the final version.",
+        "title": "",
+        "revision": "There can be a mismatch in the revision of document \"4521-PLN-AEE-68-51-0001-GAR_Rev04_Layout_new_exchangers\". I sent you by email our Rev4, it's the final version.",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:07.665914+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "d17ce96ff96bac12",
+  "path": "06 Especificaciones Tecnicas/Tuberia/07.3-Technical Specifications.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 9687385,
+  "size_human": "9.2 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "07.3-Technical Specifications",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d17ce96ff96bac12.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 118,
+    "pdf_metadata": {
+      "Creator": "Canon iR7105",
+      "CreationDate": "D:20130802143441-05'00'",
+      "Author": "",
+      "Producer": "Canon iR7105",
+      "Title": "",
+      "Subject": "Image"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:55.567788+00:00"
+}

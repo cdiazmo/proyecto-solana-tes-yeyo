@@ -1,0 +1,31 @@
+{
+  "id": "e87be7390dd228e3",
+  "path": "02 GD LOI/Memoria/4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 95376,
+  "size_human": "93 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+  "doc_code": "4521-MEM-EPC-075-000-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 8615,
+  "token_estimate": 2153,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/e87be7390dd228e3.json",
+  "extracted_path": ".yeyo-memory/extracted/e87be7390dd228e3.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "Author": "cgrrda",
+      "CreationDate": "D:20160509171722+02'00'",
+      "Creator": "Microsoft Word - 4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex",
+      "ModDate": "D:20160509171722+02'00'",
+      "Producer": "Acrobat Distiller 10.1.0 (Windows)",
+      "Title": "Microsoft Word - 4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:13:30.959014+00:00"
+}

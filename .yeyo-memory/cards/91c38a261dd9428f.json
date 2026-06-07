@@ -1,0 +1,68 @@
+{
+  "id": "91c38a261dd9428f",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-ANC-27-21-O495 - R11_MCC-1633_SLD_TES HEX Change.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 477143,
+  "size_human": "466 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-ANC-27-21-O495 - R11 MCC-1633 SLD TES HEX Change",
+  "doc_code": "4521-PLN-ANC-27-21-O495",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 67,
+  "token_estimate": 16,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/91c38a261dd9428f.json",
+  "extracted_path": ".yeyo-memory/extracted/91c38a261dd9428f.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-PLN-ANC-27-21-O495 - R11.dwg",
+      "4521-PLN-ANC-27-21-O495 - R11.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 569973,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::50",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 50,
+        "doc_code": "4521-PLN-ANC-27-21-O495-R12-MCC-1633",
+        "title": "",
+        "revision": "4521-PLN-ANC-27-21-O495_R12_MCC-1633",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::50",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 50,
+        "doc_code": "4521-PLN-ANC-27-21-O495-R12-MCC-1633",
+        "title": "",
+        "revision": "4521-PLN-ANC-27-21-O495_R12_MCC-1633",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::50",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 50,
+        "doc_code": "4521-PLN-ANC-27-21-O495-R12-MCC-1633",
+        "title": "",
+        "revision": "4521-PLN-ANC-27-21-O495_R12_MCC-1633",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:59.112168+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "e98d446ed0269d94",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/TMT0030 Istometrics with Instrument Location Transmittal 1-11-2019.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 28919,
+  "size_human": "28 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "TMT0030 Istometrics with Instrument Location Transmittal 1-11-2019",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1230,
+  "token_estimate": 307,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/e98d446ed0269d94.json",
+  "extracted_path": ".yeyo-memory/extracted/e98d446ed0269d94.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "PDFCreator 2.5.1.5",
+      "CreationDate": "D:20190111112454-07'00'",
+      "ModDate": "D:20190111112454-07'00'",
+      "Title": "TMT0030_Isometric Instrument locations",
+      "Author": "aybj",
+      "Subject": "TMT0030 Istometrics with Instrument Location Transmittal 1-11-2019",
+      "Keywords": "",
+      "Creator": "PDFCreator 2.5.1.5"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:04.143305+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:04.143308+00:00"
+}

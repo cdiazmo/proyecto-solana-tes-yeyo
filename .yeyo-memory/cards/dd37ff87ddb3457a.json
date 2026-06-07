@@ -1,0 +1,153 @@
+{
+  "id": "dd37ff87ddb3457a",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Eléctrico/PLN/4521-PLN-AEE-27-31-0002-GAR_R01 New trays layout.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 3775381,
+  "size_human": "3.6 MB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-AEE-27-31-0002-GAR R01 New trays layout",
+  "doc_code": "4521-PLN-AEE-27-31-0002",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 705,
+  "token_estimate": 176,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/dd37ff87ddb3457a.json",
+  "extracted_path": ".yeyo-memory/extracted/dd37ff87ddb3457a.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Mac OS X 10.13.6 Quartz PDFContext",
+      "CreationDate": "D:20180913215419Z00'00'",
+      "ModDate": "D:20180913215419Z00'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.375181+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::43",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 43,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR",
+        "title": "Cable tray routing",
+        "revision": "",
+        "status": "",
+        "date": "2017-02-21 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::37",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 37,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR-R00 New trays layout",
+        "title": "",
+        "revision": "4521-PLN-AEE-27-31-0002-GAR_R00 New trays layout",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::43",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 43,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR",
+        "title": "Cable tray routing",
+        "revision": "",
+        "status": "",
+        "date": "2017-02-21 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::37",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 37,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR",
+        "title": "New trays layout",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "ELE"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::37",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 37,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR-R00 New trays layout",
+        "title": "",
+        "revision": "4521-PLN-AEE-27-31-0002-GAR_R00 New trays layout",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::58",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 58,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR-R01 New trays layout",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::79",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 79,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR-R01 New trays layout",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::72",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 72,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR-R01 New trays layout",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::37",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 37,
+        "doc_code": "4521-PLN-AEE-27-31-0002-GAR-R00 New trays layout",
+        "title": "",
+        "revision": "4521-PLN-AEE-27-31-0002-GAR_R00 New trays layout",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:03.375186+00:00"
+}

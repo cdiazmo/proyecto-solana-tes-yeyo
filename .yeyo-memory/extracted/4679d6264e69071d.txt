@@ -1,0 +1,1752 @@
+[page 1]
+Sheet 1 of 18 
+RFQ No.:
+Engineering Specification Job: 120006 Spec No.: 4521-ESP-AGE-58-64-0002
+Nitrogen Services Item No.: No. Req'd:
+Project: Solana
+Ref.: Issue: 2 Dated:
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be 
+included on all pages.
+2. Revisions are identified in the body of the Specification. 
+2 Apr/11/2012 PGV JHR PQJ Void
+JHR PQJ1 Mar/30/2012 For Bid
+ABENER TEYMA
+SOLANA
+Description of Revision
+PQJ
+ with Page Numbers
+AMM CLR
+Apr/11/2012
+Instructions:
+Date
+Apr/01/2011
+AG ENGINEERING
+Control Valve
+Rev.
+No. Chk’d
+0 For Bid
+By App’d
+PGV
+2 JHR PQJ
+1 JHR PQJ
+0 CLR PQJ
+No. Chk'd App'd App'd DescriptionDate
+Mar/30/2012
+Apr/01/2011 For Bid
+Apr/11/2012 PGV Void
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms 
+of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or 
+part including shop drawings shall bear this stamp. 
+Specification Form - Solana (Rev. 3/2011)
+PGV For Bid
+AMM
+By
+EC-98
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and 
+Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this 
+written descriptin on request.
+
+[page 2]
+Sheet 2 of 18 
+RFQ No.: 
+Job: 120006 Spec No.: 4521-ESP-AGE-58-64-0002 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 2 Dated: 
+2 Apr/11/2012 JHR PQJ 
+1 Mar/30/2012 JHR PQJ 
+0 Apr/01/2011 CLR PQJ 
+No. Date Chk'd App'd App'd Description 
+PGV Void 
+AG ENGINEERING 
+Engineering Specification 
+Nitrogen Services 
+Control Valve 
+Apr/11/2012 
+1. General 
+1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 
+1.2 Definitions 
+1.2.1 "Supplier" shall mean the instrument supply company chosen for the project. 
+1.2.2 "Customer" shall mean Abener Teyma. 
+1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable). 
+1.2.4 "Owner" shall mean Abengoa Solar Inc. 
+1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these 
+specifications. Any specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are 
+considered "Contract Documents". 
+1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work 
+described unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., 
+are addressed solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically 
+identified. 
+1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier. 
+2. Scope 
+2.1 Scope of this contract is supply of instruments as outlined in the following engineering specifications required for the project including all cables, 
+gasket, manifolds … etc as identified in the main specification as options or accessories. Shipping schedule to be confirm with purchasing during 
+the final commercial agreement 
+2.2 Packaging - To be defined later. 
+2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later. 
+2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify 
+Supplier of material required on an as needed basis . Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in 
+order to reduce transportation costs. 
+2.5 The following items are excluded from this subcontract: 
+" 
+" 
+" 
+2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available 
+for update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and 
+document all material within the scope of this contract. 
+ABENER TEYMA 
+SOLANA 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms 
+of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or 
+part including shop drawings shall bear this stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+EC-98 
+PGV For Bid 
+AMM For Bid 
+By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and 
+Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this 
+written descriptin on request. 
+
+[page 3]
+Sheet 3 of 18 
+RFQ No.: 
+Job: 120006 Spec No.: 4521-ESP-AGE-58-64-0002 
+Item No.: No. Req'd: 
+Project: Solana 
+Ref.: Issue: 2 Dated: 
+2 Apr/11/2012 JHR PQJ 
+1 Mar/30/2012 JHR PQJ 
+0 Apr/01/2011 CLR PQJ 
+No. Date Chk'd App'd App'd Description 
+PGV Void 
+AG ENGINEERING 
+Engineering Specification 
+Nitrogen Services 
+Gate Control Valve 
+Apr/11/2012 
+3. Quality 
+3.1 All material shall be supplied to meet all dime nsional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc 
+standards listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense. 
+Notice: 
+o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data 
+requirements reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing 
+number of weeks after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid. 
+o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received. 
+o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later. 
+o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized, the best estimated shipping date 
+August 2012 
+o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is 
+required. Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need 
+this information with the quotation, in order for our client to have spares available during start-up and to take advantage of any economies available. 
+o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by 
+Abener Teyma personnel prior to shipment to assure compliance with specifications. 
+o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick 
+Carlton, e-mail rick.carlton@abener.abengoa.com at (314) 275-1323 for details. 
+o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in 
+physical dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or 
+maintenance cost and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate 
+and price and delivery for that alternate. The purchase will, in general, be made on a basis of adher ence to the original design premise, economic 
+value, and best delivery. 
+o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as 
+meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed 
+corrections, changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must 
+request clarification. Give priority to pricing standard equipment and components. 
+o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply: 
+o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided 
+against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage. 
+o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation. 
+ABENER TEYMA 
+SOLANA 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms 
+of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or 
+part including shop drawings shall bear this stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+EC-98 
+PGV For Bid 
+AMM For Bid 
+By 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and 
+Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this 
+written descriptin on request. 
+
+[page 4]
+Sheet Revision 
+1 1
+2 1
+3 1
+4 1
+5 1
+6 1
+7 1
+8 1
+9 1
+10 1
+11 1
+12 1
+13 1
+14 1
+15 1
+16 1
+17 1
+18 1
+2 PGV Apr/11/2012 
+1 PGV Mar/30/2012 
+0 AMM Apr/01/2011 
+Rev By Date Sheet: 4 of 18 
+Document Nº: Rev.: 2 
+Title 
+Cover 
+General notes and instructions 
+HTF overflow tanks - PV 204-10 
+Nitrogen make up to TES 6 - PV 6-250-01A 
+Nitrogen vent from TES 1 to Nox abatement - PV 1-250-01B 
+General notes and instructions 
+Index 
+Nitrogen make up to TES 1 - PV 1-250-01A 
+ABENGOA SOLAR 
+For Bid 
+Solana power plant 
+Nitrogen vent from TES 4 to Nox abatement - PV 4-250-01B 
+Nitrogen vent from TES 6 to Nox abatement - PV 6-250-01B 
+Revision 4521-ESP-AGE-58-64-0002 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+Nitrogen make up to TES 2 - PV 2-250-01A 
+For Bid 
+Description 
+Nitrogen vent from TES 3 to Nox abatement - PV 3-250-01B 
+Void 
+Nitrogen vent from TES 2 to Nox abatement - PV 2-250-01B 
+Nitrogen vent from TES 5 to Nox abatement - PV 5-250-01B 
+Nitrogen make up to TES 3 - PV 3-250-01A 
+Nitrogen make up to TES 4 - PV 4-250-01A 
+Nitrogen make up to TES 5 - PV 5-250-01A 
+Expansion system - PV 205-20 
+
+[page 5]
+Tag: Service 
+P&ID Nº: Line Nº Gas Nitrogen 
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet 2" Sch. / Class 42 Type Diaphragm 
+13 Size outlet 2" Sch. / Class 43 Manufactur. Model Note 2 Note 2 
+14 Insulation NA 44 Size Note 2 
+15 Type Note 2 45 Modulating Yes On-Off: No 
+16 Body size Note 2 Rating: 46 Air supply Pressure 
+17 Design pressure 200 psig Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material CS - ASTM 53 Bonnet material 49 Actuato r orientation Increase to open 
+20 End conn. In Flanged End conn. Out 50 Action (Air Sup ply failure) FC 
+21 Flange face finish RF 51 Action (control signal failure) FC 
+22 End material Same as body 52 Stroke time (max) NA 
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4") 
+24 Lubrication / Type None 54 Tubing material 316 SS 
+25 Packing adjustment NA 55 Travel indicator (local) Yes 
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA 
+27 57 4 - 20 mA HART 
+28 Type Note 2 58 Type NA Smart Yes - HART 
+29 Anti-noise system NA 59 Gauges Yes 
+30 Anti-cavitation system NA 60 I/O analog signals NA 
+31 Characteristic Equal % 61 
+32 Travel Note 2 62 Type NA 
+33 Valve Cv Note 2 63 Number NA 
+34 Shutoff Class ANSI Class IV 63 Hazardous area class. NA 
+35 Disc material 316 SS 63 Model Note 2 
+36 Seat material PTFE 63 Set pressure Note 2 
+37 Ring material Note 2 63 Filter Yes Gauges Yes 
+38 Stem material 316 SS 63 Range 60 - 110 psig 
+39 Handwheel NA 63 Hydro pressure Yes 
+40 Material certificates Yes 63 Leakage test Yes 
+41 63 
+2
+1
+0
+Rev 
+Rev.: 
+1. Vendor to provide valve sizing calculations, graphs and any support documents. 
+Body and bonnet Trim 
+ANSI 150 80 psig 
+Others 
+Sound Pressure Level (from 1 meter) 
+Line 
+Pipe standard 
+150º F 
+CS - ASTM 53 
+Note 2 
+Flanged 
+Input signal 
+ASTM A-53 
+Hazardous area classification 
+207-N-08-CS72-2" 
+Actuator 
+psia 
+Process Conditions Operation Normal 
+Std / 150 
+Temperature 
+Viscosity Cp 
+1
+PV 204-10 
+Flow Coefficient Cv %
+Unit 
+Vapour pressure 
+lbm/h 
+4521-PLN-ANC-68-71-P204 
+Ambient 
+Density 
+Design Conditions 
+2 2
+300 272 6
+Operation Min. 
+Note 2 Travel % Note 2 
+5
+0,075 
+Note 1 
+Flow 
+5 10 Outlet pressure 
+Inlet pressure 
+Std / 150 
+In. WC 
+2
+5 of 18 Description 
+Solana power plant AMM Apr/01/2011 
+Notes 
+3. Calibration Certificate and functional testing are required. 
+2. Vendor to provide information. 
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2 
+Sheet: 
+NA 
+By Date 
+PGV Apr/11/2012 
+PGV Mar/30/2012 
+For Bid 
+Void 
+For Bid 
+<85 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+Note 2 
+psig 
+0,019 
+Ambient 
+0,075 lb/ft³ 
+ºF 
+0,019 
+Note 1 Note 1 
+Engineering Specification - Nitrogen Services - Control Valve 
+HTF - Overflow Tanks - Nitrogen Makeup to Tanks MT 204 A & MT 204 B 
+Ambient 
+0,019 
+0,075 
+<85 dB <85 
+NA NA 
+Class I Div. 2, Group D 
+Switch Test Air set Positioner 
+Notes 
+
+[page 6]
+Tag: Service 
+P&ID Nº: Line Nº Gas Nitrogen 
+Quantity 1 Rev.: 1
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11 
+12 Size inlet 6" Sch. / Class 42 Type Diaphragm 
+13 Size outlet 6" Sch. / Class 43 Manufactur. Model Note 2 Note 2 
+14 Insulation NA 44 Size Note 2 
+15 Type Note 2 45 Modulating Yes On-Off: No 
+16 Body size Note 2 Rating: 46 Air supply Pressure 
+17 Design pressure 200 psig Design temp 47 Communication HART 
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC 
+19 Body material CS - ASTM 53 Bonnet material 49 Actuato r orientation Increase to Close 
+20 End conn. In Flanged End conn. Out 50 FO 
+21 Flange face finish RF 51 Action (control signal failure) FO 
+22 End material Same as body 52 Stroke time (max) NA 
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4") 
+24 Lubrication / Type None 54 Tubing material 316 SS 
+25 Packing adjustment NA 55 Travel indicator (local) Yes 
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA 
+27 57 4 - 20 mA HART 
+28 Type Note 2 58 Type NA Smart Yes - HART 
+29 Anti-noise system NA 59 Gauges Yes 
+30 Anti-cavitation system NA 60 I/O analog signals NA 
+31 Characteristic Equal % 61 
+32 Travel Note 2 62 Type NA 
+33 Valve Cv Note 2 63 Number NA 
+34 Shutoff Class ANSI Class IV 63 Hazardous area class. NA 
+35 Disc material 316 SS 63 Model Note 2 
+36 Seat material PTFE 63 Set pressure Note 2 
+37 Ring material Note 2 63 Filter Yes Gauges Yes 
+38 Stem material 316 SS 63 Range 60 - 110 psig 
+39 Handwheel NA 63 Hydro pressure Yes 
+40 Yes 63 Leakage test Yes 
+41 63 
+2
+1
+0
+Rev 
+Trim Others 
+Class I Div. 2, Group D 
+Flanged 
+Std / 150 
+Line 
+ASTM A-53 
+psia 
+207-N-09-CS72-6" 
+80 psig 
+Actuator 
+ANSI 150 
+150º F 
+CS - ASTM 53 
+Note 2 
+Winter Peak 
+Discharge Mode 
+1
+PV 205-20 
+Flow Coefficient Cv %
+Unit 
+Vapour pressure 
+lbm/h 
+4521-PLN-ANC-68-71-P205 
+160 
+26.000 24.550 
+160 
+9.450 
+Body and bonnet 
+Sound Pressure Level (from 1 meter) 
+Hazardous area classification 
+Viscosity Cp 0,029 
+lb/ft³ 
+ºF 560 
+Density 
+Flow 
+160 
+Temperature 
+Process Conditions 
+130 Outlet pressure 
+Inlet pressure 
+psig 130 
+psig 
+Summer Peak 
+Charge Mode Design Conditions 
+ABENER TEYMA 
+SOLANA 
+AG ENGINEERING 
+ABENGOA SOLAR 
+Apr/11/2012 Void 
+Mar/30/2012 For Bid 
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents. 
+3. Calibration Certificate and functional testing are required. 
+2. Vendor to provide information. 
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2 
+Sheet: 6 of 18 Description 
+Solana power plant AMM Apr/01/2011 
+<85 
+For Bid 
+By Date 
+Std / 150 
+PGV 
+PGV 
+Engineering Specification - Nitrogen Services - Gate Control Valve 
+HTF - Expansion Tanks - Inert System Nitrogen Supply Control Valve 
+Travel % Note 2 
+Note 1 
+Note 2 
+560 560 
+0,08 
+NA NA NA 
+0,029 
+Note 1 Note 1 
+Input signal 
+Notes 
+0,029 
+0,08 0,08 
+Note 2 
+130 
+Material certificates 
+Positioner Switch 
+Pipe standard 
+Air set Test 
+<85 dB <85 
+Action (power failure) 
+
+[page 7]
+Tag: Service
+P&ID Nº: Line Nº
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet Sch. / Class 42 Type Diaphragm
+13 Size outlet Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 44 Size Note 2
+15 Type Note 2 45 Modulating Yes On-Off: No
+16 Body size Note 2 Rating: 46 Air supply Pressure
+17 Design pressure 200 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to open
+20 End conn. In Flanged End conn. Out 50 Action (Air Supply failure) FC
+21 Flange face finish RF 51 Action (control signal failure) FC
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4")
+24 Lubrication / Type None 54 Tubing material 316 SS
+25 Packing adjustment NA 55 Travel indicator (local) Yes
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA
+27 57 4 - 20 mA HART
+28 Type Note 2 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system NA 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel ( in. ) Note 2 62 Type NA
+33 Valve Cv Note 2 63 Number NA
+34 ANSI Class IV 63 Hazardous area class. NA
+35 316 SS 63 Model Note 2
+36 PTFE 63 Set pressure Note 2
+37 Note 2 63 Filter Yes Gauges Yes
+38 316 SS 63 Range 60 - 110 psig
+39 Handwheel NA 63 Hydro pressure Yes
+40 Yes 63 Leakage test Yes
+41 63
+2
+1
+0
+Rev 
+PGV Mar/30/2012
+Sheet: 7 of 18
+PGV Apr/11/2012
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+Solana power plant
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+By Date Description
+AMM Apr/01/2011 For Bid
+For Bid
+ABENGOA SOLAR
+Notes 
+Test 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+Void
+Air set Ring material
+Stem material
+Material certificates
+Flanged
+Input signal
+Trim 
+Seat material
+Others 
+Shutoff Class
+Disc material
+Positioner Switch 
+ANSI 150 80 psig
+150º F
+Note 2
+CS - ASTM 53
+Line 
+2 1/2" Std / 150
+Actuator 
+2" 40 / ANSI 150
+NA Pipe standard ASTM A-53
+Body and bonnet 
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Travel % Note 2 Note 2 Note 2
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Vapour pressure psia NA NA NA
+0,075
+Viscosity Cp 0,018 0,02 0,02
+Temperature ºF Ambient Ambient
+Density lb/ft³ 0,075 0,075
+Outlet pressure In. WC 2 2 - 10 12
+Inlet pressure Psig 5 5 5
+Flow lbm/h 150 157 - 241 250
+Class I Div. 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Ambient
+Engineering Specification - Nitrogen Services - Gate Control Valve
+1
+PV 1-250-01A Nitrogen Make-up to TES 1 
+4521-PLN-ANC-68-71-P251 207-N-01A-CS72-2" Fluid Nitrogen
+Hazardous area classification
+
+[page 8]
+Tag: Service
+P&ID Nº: Line Nº
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet Sch. / Class 42 Type Diaphragm
+13 Size outlet Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 44 Size Note 2
+15 Type Note 2 45 Modulating Yes On-Off: No
+16 Body size Note 2 Rating: 46 Air supply Pressure
+17 Design pressure 200 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to open
+20 End conn. In Flanged End conn. Out 50 Action (Air Supply failure) FC
+21 Flange face finish RF 51 Action (control signal failure) FC
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4")
+24 Lubrication / Type None 54 Tubing material 316 SS
+25 Packing adjustment NA 55 Travel indicator (local) Yes
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA
+27 57 4 - 20 mA HART
+28 Type Note 2 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel ( in. ) 62
+33 Valve Cv Note 2 63 Type NA
+34 ANSI Class IV 64 Number NA
+35 316 SS 65 Hazardous area class.
+36 PTFE 66 Model
+37 Note 2 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel NA 69 Range 60 - 110 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Gate Control Valve
+1
+PV 2-250-01A Nitrogen Make-up to TES 2
+4521-PLN-ANC-68-71-P261 207-N-01B-CS72-2" Fluid Nitrogen
+Hazardous area classification Class I Div. 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow lbm/h 150 157 - 241 250
+Inlet pressure Psig 5 5 5
+Outlet pressure In. WC 2 2 - 10 12
+Temperature ºF Ambient Ambient Ambient
+Density lb/ft³ 0,075 0,075 0,075
+Viscosity Cp 0,018 0,02 0,02
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+2 1/2" Std / 150
+Actuator 
+2" 40 / ANSI 150
+NA Pipe standard ASTM A-53
+Body and bonnet 
+ANSI 150 80 psig
+150º F
+Note 2
+CS - ASTM 53
+Trim 
+NA
+Seat material
+Air set 
+Others 
+Note 2
+Switch 
+Shutoff Class
+Disc material NA
+Flanged
+Positioner 
+Input signal
+Note 2
+Ring material
+Stem material Yes Yes
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 8 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 9]
+Tag: Service
+P&ID Nº: Line Nº
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet Sch. / Class 42 Type Diaphragm
+13 Size outlet Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 44 Size Note 2
+15 Type Note 2 45 Modulating Yes On-Off: No
+16 Body size Note 2 Rating: 46 Air supply Pressure
+17 Design pressure 200 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to open
+20 End conn. In Flanged End conn. Out 50 Action (Air Supply failure) FC
+21 Flange face finish RF 51 Action (control signal failure) FC
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4")
+24 Lubrication / Type None 54 Tubing material 316 SS
+25 Packing adjustment NA 55 Travel indicator (local) Yes
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA
+27 57 4 - 20 mA HART
+28 Type Note 2 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel ( in. ) 62
+33 Valve Cv Note 2 63 Type NA
+34 ANSI Class IV 64 Number NA
+35 316 SS 65 Hazardous area class.
+36 PTFE 66 Model
+37 Note 2 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel NA 69 Range 60 - 110 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Gate Control Valve
+1
+PV 3-250-01A Nitrogen Make-up to TES 3
+4521-PLN-ANC-68-71-P264 207-N-01C-CS72-2" Fluid Nitrogen
+Hazardous area classification Class I Div. 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow lbm/h 150 157 - 241 250
+Inlet pressure Psig 5 5 5
+Outlet pressure In. WC 2 2 - 10 12
+Temperature ºF Ambient Ambient Ambient
+Density lb/ft³ 0,075 0,075 0,075
+Viscosity Cp 0,018 0,02 0,02
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+2 1/2" Std / 150
+Actuator 
+2" 40 / ANSI 150
+NA Pipe standard ASTM A-53
+Body and bonnet 
+ANSI 150 80 psig
+150º F
+Note 2
+CS - ASTM 53
+Flanged
+Positioner 
+Input signal
+Trim 
+NA
+Seat material
+Air set 
+Others 
+Note 2
+Switch 
+Shutoff Class
+Disc material NA
+Note 2
+Ring material
+Stem material Yes Yes
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGApr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 9 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+PGV
+
+[page 10]
+Tag: Service
+P&ID Nº: Line Nº
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet Sch. / Class 42 Type Diaphragm
+13 Size outlet Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 44 Size Note 2
+15 Type Note 2 45 Modulating Yes On-Off: No
+16 Body size Note 2 Rating: 46 Air supply Pressure
+17 Design pressure 200 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to open
+20 End conn. In Flanged End conn. Out 50 Action (Air Supply failure) FC
+21 Flange face finish RF 51 Action (control signal failure) FC
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4")
+24 Lubrication / Type None 54 Tubing material 316 SS
+25 Packing adjustment NA 55 Travel indicator (local) Yes
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA
+27 57 4 - 20 mA HART
+28 Type Note 2 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel ( in. ) 62
+33 Valve Cv Note 2 63 Type NA
+34 ANSI Class IV 64 Number NA
+35 316 SS 65 Hazardous area class.
+36 PTFE 66 Model
+37 Note 2 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel NA 69 Range 60 - 110 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Gate Control Valve
+1
+PV 4-250-01A Nitrogen Make-up to TES 4
+4521-PLN-ANC-68-71-P267 207-N-01D-CS72-2" Fluid Nitrogen
+Hazardous area classification Class I Div. 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow lbm/h 150 157 - 241 250
+Inlet pressure Psig 5 5 5
+Outlet pressure In. WC 2 2 - 10 12
+Temperature ºF Ambient Ambient Ambient
+Density lb/ft³ 0,075 0,075 0,075
+Viscosity Cp 0,018 0,02 0,02
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+2 1/2" Std / 150
+Actuator 
+2" 40 / ANSI 150
+NA Pipe standard ASTM A-53
+Body and bonnet 
+ANSI 150 80 psig
+150º F
+Note 2
+CS - ASTM 53
+Flanged
+Positioner 
+Input signal
+Trim 
+NA
+Note 2
+Switch 
+Shutoff Class
+Disc material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 10 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 11]
+Tag: Service
+P&ID Nº: Line Nº
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet Sch. / Class 42 Type Diaphragm
+13 Size outlet Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 44 Size Note 2
+15 Type Note 2 45 Modulating Yes On-Off: No
+16 Body size Note 2 Rating: 46 Air supply Pressure
+17 Design pressure 200 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to open
+20 End conn. In Flanged End conn. Out 50 Action (Air Supply failure) FC
+21 Flange face finish RF 51 Action (control signal failure) FC
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4")
+24 Lubrication / Type None 54 Tubing material 316 SS
+25 Packing adjustment NA 55 Travel indicator (local) Yes
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA
+27 57 4 - 20 mA HART
+28 Type Note 2 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel ( in. ) 62
+33 Valve Cv Note 2 63 Type NA
+34 ANSI Class IV 64 Number NA
+35 316 SS 65 Hazardous area class.
+36 PTFE 66 Model
+37 Note 2 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel NA 69 Range 60 - 110 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Gate Control Valve
+1
+PV 5-250-01A Nitrogen Make-up to TES 5
+4521-PLN-ANC-68-71-P270 207-N-01E-CS72-2" Fluid Nitrogen
+Hazardous area classification Class I Div. 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow lbm/h 150 157 - 241 250
+Inlet pressure Psig 5 5 5
+Outlet pressure In. WC 2 2 - 10 12
+Temperature ºF Ambient Ambient Ambient
+Density lb/ft³ 0,075 0,075 0,075
+Viscosity Cp 0,018 0,02 0,02
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+2 1/2" Std / 150
+Actuator 
+2" 40 / ANSI 150
+NA Pipe standard ASTM A-53
+Body and bonnet 
+ANSI 150 80 psig
+150º F
+Note 2
+CS - ASTM 53
+Flanged
+Positioner 
+Input signal
+Trim 
+NA
+Note 2
+Switch 
+Shutoff Class
+Disc material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 11 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 12]
+Tag: Service
+P&ID Nº: Line Nº
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet Sch. / Class 42 Type Diaphragm
+13 Size outlet Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 44 Size Note 2
+15 Type Note 2 45 Modulating Yes On-Off: No
+16 Body size Note 2 Rating: 46 Air supply Pressure
+17 Design pressure 200 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to open
+20 End conn. In Flanged End conn. Out 50 Action (Air Supply failure) FC
+21 Flange face finish RF 51 Action (control signal failure) FC
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Standard 53 Identification plate 316 SS (2"*4")
+24 Lubrication / Type None 54 Tubing material 316 SS
+25 Packing adjustment NA 55 Travel indicator (local) Yes
+26 Packing material PTFE 56 Sol. Type NA Manufactur. NA
+27 57 4 - 20 mA HART
+28 Type Note 2 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel ( in. ) 62
+33 Valve Cv Note 2 63 Type NA
+34 ANSI Class IV 64 Number NA
+35 316 SS 65 Hazardous area class.
+36 PTFE 66 Model
+37 Note 2 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel NA 69 Range 60 - 110 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Gate Control Valve
+1
+PV 6-250-01A Nitrogen Make-up to TES 6
+4521-PLN-ANC-68-71-P273 207-N-01F-CS72-2" Fluid Nitrogen
+Hazardous area classification Class I Div. 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow lbm/h 150 157 - 241 250
+Inlet pressure Psig 5 5 5
+Outlet pressure In. WC 2 2 - 10 12
+Temperature ºF Ambient Ambient Ambient
+Density lb/ft³ 0,075 0,075 0,075
+Viscosity Cp 0,018 0,02 0,02
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+2 1/2" Std / 150
+Actuator 
+2" 40 / ANSI 150
+NA Pipe standard ASTM A-53
+Body and bonnet 
+ANSI 150 80 psig
+150º F
+Note 2
+CS - ASTM 53
+Flanged
+Positioner 
+Input signal
+Trim 
+NA
+Note 2
+Switch 
+Shutoff Class
+Disc material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 12 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 13]
+Tag: Service
+P&ID Nº:
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet 6" Sch. / Class 42 Type Diaphragm
+13 Size outlet 6" Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 6" 44 Size Note 2
+15 Type Globe 45 Modulating Yes On-Off: No
+16 Body size 6" Rating: 46 Air supply Pressure
+17 Design pressure 150 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to Close
+20 End conn. In Flanged End conn. Out Flanged 50 Action (Air Supply failure) FO
+21 Flange face finish RF 51 Action (control signal failure) FO
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Extended with bellows seal 53 Identification plate 316 SS (2"*4")
+24 Bellows seal material: Inconel 54 Tubing material 316 SS 
+25 Packing adjustement: Live loaded packing 55 Travel indicator (local) Yes
+26 Primary packing material: Garlock 1298 56 Sol. Type Manufactur.
+27 Secondary packing material: Fiber glass yarm 57 4 - 20 mA HART
+28 Type NA 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system Note 2 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel 62
+33 Valve Cv Note 2 ( prefer range 130-150 ) 63 Type NA
+34 Class IV 64 Number NA
+35 Note 2 65 Hazardous area class.
+36 316 SS 66 Model
+37 316 SS 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel Yes 69 Range 60 - 80 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+0
+Rev Sheet: 13 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+Solana power plantAMM Apr/01/2011 For Bid
+By Date Description
+PGV Apr/11/2012 Void
+PGV Mar/30/2012 For Bid
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Input signal
+Trim 
+Note 2
+Switch 
+Shutoff Class
+Plug material NA
+80 psig
+750 Deg. F
+Note 2
+CS - ASTM 53
+NA NA
+Line 
+Std (0.237") / 150
+Actuator 
+Std (0.237") / 150
+Pipe standard ASTM A-53
+Body and bonnet 
+Class 150
+Positioner 
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Travel % Note 2 Note 2 Note 2
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Vapour pressure psia NA NA NA
+Viscosity Cp 0,028 0.028 - 0.032 0,032
+Density lb/ft³ 0,03 0.03 - 0.04 0,04
+Temperature ºF 740 740 740
+Outlet pressure In. WC 1 2 2
+Inlet pressure In. WC 3 7 9
+Flow SCFM 3 70 90
+Class 1 Division 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Nitrogen + trace of molten salt
+Engineering Specification - Nitrogen Services - Globe Control Valve
+1
+PV 1-250-01B Nitrogen Vent from TES 1 to NOx Abatement 
+4521-PLN-ANC-68-71-P253 Line Nº 253-N-10A-CS72-6" Fluid
+Hazardous area classification
+
+[page 14]
+Tag: Service
+P&ID Nº:
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet 6" Sch. / Class 42 Type Diaphragm
+13 Size outlet 6" Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 6" 44 Size Note 2
+15 Type Globe 45 Modulating Yes On-Off: No
+16 Body size 6" Rating: 46 Air supply Pressure
+17 Design pressure 150 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to Close
+20 End conn. In Flanged End conn. Out Flanged 50 Action (Air Supply failure) FO
+21 Flange face finish RF 51 Action (control signal failure) FO
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Extended with bellows seal 53 Identification plate 316 SS (2"*4")
+24 Bellows seal material: Inconel 54 Tubing material 316 SS 
+25 Packing adjustement: Live loaded packing 55 Travel indicator (local) Yes
+26 Primary packing material: Garlock 1298 56 Sol. Type Manufactur.
+27 Secondary packing material: Fiber glass yarm 57 4 - 20 mA HART
+28 Type NA 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system Note 2 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel 62
+33 Valve Cv Note 2 ( prefer range 130-150 ) 63 Type NA
+34 Class IV 64 Number NA
+35 Note 2 65 Hazardous area class.
+36 316 SS 66 Model
+37 316 SS 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel Yes 69 Range 60 - 80 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Globe Control Valve
+1
+PV 2-250-01B Nitrogen Vent from TES 2 to NOx Abatement 
+4521-PLN-ANC-68-71-P263 Line Nº 253-N-10B-CS72-6" Fluid Nitrogen + trace of molten salt
+Hazardous area classification Class 1 Division 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow SCFM 3 70 90
+Inlet pressure In. WC 3 7 9
+Outlet pressure In. WC 1 2 2
+Temperature ºF 740 740 740
+Density lb/ft³ 0,03 0.03 - 0.04 0,04
+Viscosity Cp 0,028 0.028 - 0.032 0,032
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+Std (0.237") / 150
+Actuator 
+Std (0.237") / 150
+Pipe standard ASTM A-53
+Body and bonnet 
+Class 150
+Positioner 
+80 psig
+750 Deg. F
+Note 2
+CS - ASTM 53
+NA NA
+Input signal
+Trim 
+Note 2
+Switch 
+Shutoff Class
+Plug material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 14 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 15]
+Tag: Service
+P&ID Nº:
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet 6" Sch. / Class 42 Type Diaphragm
+13 Size outlet 6" Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 6" 44 Size Note 2
+15 Type Globe 45 Modulating Yes On-Off: No
+16 Body size 6" Rating: 46 Air supply Pressure
+17 Design pressure 150 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to Close
+20 End conn. In Flanged End conn. Out Flanged 50 Action (Air Supply failure) FO
+21 Flange face finish RF 51 Action (control signal failure) FO
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Extended with bellows seal 53 Identification plate 316 SS (2"*4")
+24 Bellows seal material: Inconel 54 Tubing material 316 SS 
+25 Packing adjustement: Live loaded packing 55 Travel indicator (local) Yes
+26 Primary packing material: Garlock 1298 56 Sol. Type Manufactur.
+27 Secondary packing material: Fiber glass yarm 57 4 - 20 mA HART
+28 Type NA 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system Note 2 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel 62
+33 Valve Cv Note 2 ( prefer range 130-150 ) 63 Type NA
+34 Class IV 64 Number NA
+35 Note 2 65 Hazardous area class.
+36 316 SS 66 Model
+37 316 SS 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel Yes 69 Range 60 - 80 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Globe Control Valve
+1
+PV 3-250-01B Nitrogen Vent from TES 3 to NOx Abatement 
+4521-PLN-ANC-68-71-P263 Line Nº 253-N-10C-CS72-6" Fluid Nitrogen + trace of molten salt
+Hazardous area classification Class 1 Division 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow SCFM 3 70 90
+Inlet pressure In. WC 3 7 9
+Outlet pressure In. WC 1 2 2
+Temperature ºF 740 740 740
+Density lb/ft³ 0,03 0.03 - 0.04 0,04
+Viscosity Cp 0,028 0.028 - 0.032 0,032
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+Std (0.237") / 150
+Actuator 
+Std (0.237") / 150
+Pipe standard ASTM A-53
+Body and bonnet 
+Class 150
+Positioner 
+80 psig
+750 Deg. F
+Note 2
+CS - ASTM 53
+NA NA
+Input signal
+Trim 
+Note 2
+Switch 
+Shutoff Class
+Plug material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 15 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 16]
+Tag: Service
+P&ID Nº:
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet 6" Sch. / Class 42 Type Diaphragm
+13 Size outlet 6" Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 6" 44 Size Note 2
+15 Type Globe 45 Modulating Yes On-Off: No
+16 Body size 6" Rating: 46 Air supply Pressure
+17 Design pressure 150 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to Close
+20 End conn. In Flanged End conn. Out Flanged 50 Action (Air Supply failure) FO
+21 Flange face finish RF 51 Action (control signal failure) FO
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Extended with bellows seal 53 Identification plate 316 SS (2"*4")
+24 Bellows seal material: Inconel 54 Tubing material 316 SS 
+25 Packing adjustement: Live loaded packing 55 Travel indicator (local) Yes
+26 Primary packing material: Garlock 1298 56 Sol. Type Manufactur.
+27 Secondary packing material: Fiber glass yarm 57 4 - 20 mA HART
+28 Type NA 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system Note 2 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel 62
+33 Valve Cv Note 2 ( prefer range 130-150 ) 63 Type NA
+34 Class IV 64 Number NA
+35 Note 2 65 Hazardous area class.
+36 316 SS 66 Model
+37 316 SS 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel Yes 69 Range 60 - 80 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Globe Control Valve
+1
+PV 4-250-01B Nitrogen Vent from TES 4 to NOx Abatement 
+4521-PLN-ANC-68-71-P263 Line Nº 253-N-10D-CS72-6" Fluid Nitrogen + trace of molten salt
+Hazardous area classification Class 1 Division 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow SCFM 3 70 90
+Inlet pressure In. WC 3 7 9
+Outlet pressure In. WC 1 2 2
+Temperature ºF 740 740 740
+Density lb/ft³ 0,03 0.03 - 0.04 0,04
+Viscosity Cp 0,028 0.028 - 0.032 0,032
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+Std (0.237") / 150
+Actuator 
+Std (0.237") / 150
+Pipe standard ASTM A-53
+Body and bonnet 
+Class 150
+Positioner 
+80 psig
+750 Deg. F
+Note 2
+CS - ASTM 53
+NA NA
+Input signal
+Trim 
+Note 2
+Switch 
+Shutoff Class
+Plug material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 16 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 17]
+Tag: Service
+P&ID Nº:
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet 6" Sch. / Class 42 Type Diaphragm
+13 Size outlet 6" Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 6" 44 Size Note 2
+15 Type Globe 45 Modulating Yes On-Off: No
+16 Body size 6" Rating: 46 Air supply Pressure
+17 Design pressure 150 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to Close
+20 End conn. In Flanged End conn. Out Flanged 50 Action (Air Supply failure) FO
+21 Flange face finish RF 51 Action (control signal failure) FO
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Extended with bellows seal 53 Identification plate 316 SS (2"*4")
+24 Bellows seal material: Inconel 54 Tubing material 316 SS 
+25 Packing adjustement: Live loaded packing 55 Travel indicator (local) Yes
+26 Primary packing material: Garlock 1298 56 Sol. Type Manufactur.
+27 Secondary packing material: Fiber glass yarm 57 4 - 20 mA HART
+28 Type NA 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system Note 2 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel 62
+33 Valve Cv Note 2 ( prefer range 130-150 ) 63 Type NA
+34 Class IV 64 Number NA
+35 Note 2 65 Hazardous area class.
+36 316 SS 66 Model
+37 316 SS 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel Yes 69 Range 60 - 80 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Globe Control Valve
+1
+PV 5-250-01B Nitrogen Vent from TES 1 to NOx Abatement 
+4521-PLN-ANC-68-71-P263 Line Nº 253-N-10E-CS72-6" Fluid Nitrogen + trace of molten salt
+Hazardous area classification Class 1 Division 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow SCFM 3 70 90
+Inlet pressure In. WC 3 7 9
+Outlet pressure In. WC 1 2 2
+Temperature ºF 740 740 740
+Density lb/ft³ 0,03 0.03 - 0.04 0,04
+Viscosity Cp 0,028 0.028 - 0.032 0,032
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+Std (0.237") / 150
+Actuator 
+Std (0.237") / 150
+Pipe standard ASTM A-53
+Body and bonnet 
+Class 150
+Positioner 
+80 psig
+750 Deg. F
+Note 2
+CS - ASTM 53
+NA NA
+Input signal
+Trim 
+Note 2
+Switch 
+Shutoff Class
+Plug material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 17 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2
+
+[page 18]
+Tag: Service
+P&ID Nº:
+Quantity 1 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 Size inlet 6" Sch. / Class 42 Type Diaphragm
+13 Size outlet 6" Sch. / Class 43 Manufactur. Model Note 2 Note 2
+14 Insulation 6" 44 Size Note 2
+15 Type Globe 45 Modulating Yes On-Off: No
+16 Body size 6" Rating: 46 Air supply Pressure
+17 Design pressure 150 psig Design temp 47 Communication HART
+18 Manufacturer Note 2 Model 48 I/O analog signals 4-20mA DC
+19 Body material CS - ASTM 53 Bonnet material 49 Actuator orientation Increase to Close
+20 End conn. In Flanged End conn. Out Flanged 50 Action (Air Supply failure) FO
+21 Flange face finish RF 51 Action (control signal failure) FO
+22 End material Same as body 52 Stroke time (max) NA
+23 Bonnet type Extended with bellows seal 53 Identification plate 316 SS (2"*4")
+24 Bellows seal material: Inconel 54 Tubing material 316 SS 
+25 Packing adjustement: Live loaded packing 55 Travel indicator (local) Yes
+26 Primary packing material: Garlock 1298 56 Sol. Type Manufactur.
+27 Secondary packing material: Fiber glass yarm 57 4 - 20 mA HART
+28 Type NA 58 Type NA Smart Yes - HART
+29 Anti-noise system NA 59 Gauges Yes
+30 Anti-cavitation system Note 2 60 I/O analog signals NA
+31 Characteristic Equal % 61
+32 Travel 62
+33 Valve Cv Note 2 ( prefer range 130-150 ) 63 Type NA
+34 Class IV 64 Number NA
+35 Note 2 65 Hazardous area class.
+36 316 SS 66 Model
+37 316 SS 67 Set pressure Note 2
+38 316 SS 68 Filter Gauges
+39 Handwheel Yes 69 Range 60 - 80 psig
+40 Yes 70 Hydro pressure
+41 71 Leakage test
+2
+1
+Rev 
+Engineering Specification - Nitrogen Services - Globe Control Valve
+1
+PV 6-250-01B Nitrogen Vent from TES 6 to NOx Abatement 
+4521-PLN-ANC-68-71-P263 Line Nº 253-N-10F-CS72-6" Fluid Nitrogen + trace of molten salt
+Hazardous area classification Class 1 Division 2, Group D Rev.:
+Process Conditions Unit Operation min. Operation Normal
+Design Conditions Notes
+Flow SCFM 3 70 90
+Inlet pressure In. WC 3 7 9
+Outlet pressure In. WC 1 2 2
+Temperature ºF 740 740 740
+Density lb/ft³ 0,03 0.03 - 0.04 0,04
+Viscosity Cp 0,028 0.028 - 0.032 0,032
+Vapour pressure psia NA NA NA
+Flow Coefficient Cv % Note 1 Note 1 Note 1
+Travel % Note 2 Note 2 Note 2
+Sound Pressure Level (from 1 meter) dB <85 <85 <85
+Line 
+Std (0.237") / 150
+Actuator 
+Std (0.237") / 150
+Pipe standard ASTM A-53
+Body and bonnet 
+Class 150
+Positioner 
+80 psig
+750 Deg. F
+Note 2
+CS - ASTM 53
+NA NA
+Input signal
+Trim 
+Note 2
+Switch 
+Shutoff Class
+Plug material NA
+Seat material
+Air set 
+Note 2
+Ring material
+Stem material Yes Yes
+Others 
+Material certificates
+Test 
+Yes
+Yes
+Notes 
+1. Vendor to provide valve sizing calculations, graphs and any support documents.
+2. Vendor to provide information.
+3. Calibration Certificate and functional testing are required.
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGPGV Apr/11/2012 Void
+Solana power plantPGV Mar/30/2012 For Bid
+By Date Description Sheet: 18 of 18
+Revision Document Nº: 4521-ESP-AGE-58-64-0002 Rev.: 2

@@ -1,0 +1,197 @@
+[page 1]
+Flow: 14236 gpm Flow: 28493 gpm Flow: 42776 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 35367 gpm
+Flow: 41950 gpm Flow: 13962 gpmFlow: 27943 gpm
+Flow: 10766 gpm
+Flow: 40453 gpmFlow: 43796 gpm
+Flow: 41950 gpm Flow: 27943 gpm Flow: 13962 gpmFlow: 42776 gpmFlow: 28493 gpmFlow: 14236 gpm
+Flow: 13962 gpm
+Flow: 14236 gpm
+Flow: 14257 gpm
+Flow: 14283 gpm
+Flow: 14316 gpm
+Flow: 13982 gpm
+Flow: 14006 gpm
+Flow: 14038 gpm
+Flow: 38289 gpm Flow: 48146 gpm
+Flow: 55988 gpm
+Flow: 57092 gpm
+Flow: 9858 gpm Flow: 9858 gpm
+Flow: 45224 gpm
+Flow: 57092 gpm Flow: 57095 gpm
+Flow: 1038 gpmFlow: 10238 gpm
+Flow: 11275 gpm
+Flow: 1038 gpm Flow: 12313 gpm
+Flow: 11275 gpm
+Flow: 8949 gpm Flow: 909 gpm
+Flow: 9858 gpm Flow: 9858 gpm
+Flow: --
+Flow: --
+Flow: --
+Flow: --
+Flow: --
+Flow: --
+Flow: -- Flow: --
+Flow: 14236 gpm Flow: 14236 gpm
+Flow: 14257 gpm Flow: 14257 gpm
+Flow: 14283 gpm Flow: 14283 gpm
+Flow: 14316 gpm Flow: 14316 gpm
+Flow: 14038 gpm Flow: 14038 gpm
+Flow: 14006 gpm Flow: 14006 gpm
+Flow: 13982 gpm Flow: 13982 gpm
+Flow: 13962 gpm Flow: 13962 gpm
+Flow: -- Flow: --
+Flow: 9858 gpm Flow: 9858 gpm
+Flow: 9858 gpm
+Flow: 9858 gpm
+Flow: 55988 gpm
+Flow: 57096 gpm
+Flow: 9858 gpm Flow: 9858 gpm
+Flow: 9858 gpm Flow: 9858 gpm
+Flow: 28431 gpm
+Flow: 29178 gpm
+Flow: 32520 gpm
+Flow: 25509 gpm Flow: 25509 gpm
+Flow: 4.355 gpm
+Flow: 28431 gpm
+Flow: 55988 gpm Flow: 55991 gpm
+Flow: 9858 gpm Flow: 9858 gpm
+Flow: 9858 gpm Flow: 9858 gpm Flow: 11275 gpm Flow: 11275 gpmFlow: 11275 gpm Flow: 11275 gpm
+Flow: 9858 gpmFlow: 9858 gpm Flow: 11275 gpmFlow: 11275 gpmFlow: 9858 gpm
+Flow: 9858 gpm Flow: 11275 gpm
+Flow: 11275 gpm
+Flow: 9858 gpmFlow: 9858 gpm Flow: 11275 gpmFlow: 11275 gpmFlow: 9858 gpm
+Flow: 9858 gpm Flow: 11275 gpm
+Flow: 11275 gpm
+Centrifugal Pump 2Op: Fixed SpeedTH: 313.6 m
+Centrifugal Pump 3Op: Fixed SpeedTH: 313.8 m
+P: 457.3 psi aCentrifugal Pump Op: Fixed SpeedTH: 313 m
+P: 539.8 psi a P: 539.6 psi a P: 539.5 psi a P: 539.4 psi a
+1-MF-251CdP: 5 psi 1-MF-251DdP: 5 psi
+P: 180.8 psi a
+P: 178 psi a
+2-MF-251CdP: 5 psi 2-MF-251DdP: 5 psi
+P: 177.9 psi a
+P: 175.2 psi a
+3-MF-251CdP: 5 psi 3-MF-251DdP: 5 psi
+P: 178 psi a
+P: 457.3 psi a 4-MF-251CdP: 5 psi 4-MF-251DdP: 5 psi P: 178 psi a
+5-MF-251CdP: 5 psi 5-MX-251dP: 50.19 psi 5-MF-251DdP: 5 psi
+P: 177.9 psi a
+P: 456.6 psi a
+P: 175.2 psi a
+6-MF-251CdP: 5 psi 6-MX-251dP: 50.19 psi 6-MF-251DdP: 5 psi P: 180.8 psi a
+P: 456.6 psi a
+P: 178 psi a
+P: 456.6 psi a P: 456.6 psi a
+Centrifugal Pump 8Op: Fixed SpeedTH: 316.8 m
+Centrifugal Pump 6Op: Fixed SpeedTH: 316.3 m
+Centrifugal Pump 9Op: Fixed SpeedTH: 315.9 m
+P: 457.3 psi a
+P: 544.3 psi a P: 544.4 psi a P: 544.5 psi a P: 544.7 psi a
+P: 175.2 psi a
+P: 171.9 psi a
+P: 173.3 psi a P: 172.9 psi a P: 172.8 psi a P: 172.7 psi a
+Centrifugal Pump 5Op: Fixed SpeedTH: 316.6 m
+Centrifugal Pump 1Op: Fixed SpeedTH: 313.3 m
+P: 171.6 psi aP: 171.4 psi aP: 171.4 psi a
+P: 173.4 psi a
+P: 172 psi a
+Sizing Valve 120dP: 215.7 psi
+Sizing Valve 114dP: 81.99 psi
+P: 175.2 psi a P: 175.2 psi a
+P: 457.3 psi a
+Sizing Valve 104dP: 212.9 psi
+Centrifugal Pump 4Op: Fixed SpeedTH: --
+P: --
+P: --
+Centrifugal Pump 7Op: Fixed SpeedTH: --
+P: --
+P: --
+Sizing Valve 99dP: --
+P: 540.2 psi a
+P: 539.9 psi a
+P: 539.8 psi a
+P: 539.7 psi a
+P: 544.6 psi a
+P: 544.6 psi a
+P: 544.8 psi a
+P: 545 psi a
+P: --
+Sizing Valve 123dP: 212.9 psi
+Sizing Valve 124dP: 215.7 psi
+Sizing Valve 121dP: 216.4 psi
+Sizing Valve 122dP: 216.4 psi
+P: 456.6 psi a
+Sizing Valve 84dP: 278.5 psi
+Sizing Valve 85dP: 278.6 psi
+P: 456.6 psi a
+Pressure Boundary Set P: 172 psi a
+Sizing Valve 113dP: 86.88 psi
+P: 220.6 psi a
+P: 223.5 psi a P: 183.9 psi a
+P: 181 psi a
+5-MX-252dP: 50.19 psi
+6-MX-252dP: 50.19 psi
+P: 220.7 psi a
+P: 220.7 psi a P: 181.1 psi a
+P: 181.1 psi a
+5-MX-253dP: 50.19 psi
+6-MX-253dP: 50.19 psi
+P: 223.5 psi a
+P: 220.6 psi a P: 181 psi a
+P: 183.9 psi a
+modelo simplificado HTF Solana winter discharge B.pipe
+Pa g
+Lineup:
+psi a
+Power:
+<Design Case>
+psi a
+Program Version:
+Maximum Iterations:
+File Name:
+Velocity:
+Drawn by:
+Density:
+in
+Flow rate:
+Pa*s
+Company:
+Calculation Method:
+Elevation:
+kg/m³
+gpm
+0.01
+12.1.21778
+Project Information
+Viscosity:
+2100
+14.7
+ft/s
+m
+jueves, mayo 05, 2016 12:19 PM
+PIPE-FLO Professional 12
+Print Date:
+Temperature:
+Size:
+Project:
+Laminar Cutoff Re:
+Atmospheric Pressure:
+Pressure:
+ºC
+Units Used
+100
+Darcy-Weisbach
+Iteration Tolerance:
+Length:

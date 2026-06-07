@@ -1,0 +1,48 @@
+{
+  "id": "842c38bd1dbdff57",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0003_R1  Ultrasonic Flowmeter Specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 547187,
+  "size_human": "534 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-74-70-0003 R1 Ultrasonic Flowmeter Specification",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13074,
+  "token_estimate": 3268,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/842c38bd1dbdff57.json",
+  "extracted_path": ".yeyo-memory/extracted/842c38bd1dbdff57.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1009,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Cover Sheet (2)",
+        "rows_seen": 1014,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet (3)",
+        "rows_seen": 1014,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 49,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Flowmeter FIT 204-53",
+        "rows_seen": 67,
+        "non_empty_rows": 48
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:26.734704+00:00"
+}

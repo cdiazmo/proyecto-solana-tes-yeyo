@@ -1,0 +1,28 @@
+{
+  "id": "5560811e3b8f462a",
+  "path": "04 GD Fabricacon LOI TES 3/Legalizacion (UDS)/Certificado UDS PE/1950201-UDS-001-00 Oil to Salt HEX.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 596337,
+  "size_human": "582 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-UDS-001-00 Oil to Salt HEX",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/5560811e3b8f462a.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 17,
+    "pdf_metadata": {
+      "Creator": "Xerox WorkCentre 7556",
+      "CreationDate": "D:20200717084710-06'00'",
+      "Producer": "PDFlib+PDI 7.0.2 (Linux-ia32)"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:29.459015+00:00"
+}

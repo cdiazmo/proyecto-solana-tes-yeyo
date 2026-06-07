@@ -1,0 +1,30 @@
+{
+  "id": "55da75ad0352b6c4",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS91.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 102114,
+  "size_human": "100 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS91",
+  "doc_code": "4521-ESP-ANC-68-61-CS91",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3229,
+  "token_estimate": 807,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/55da75ad0352b6c4.json",
+  "extracted_path": ".yeyo-memory/extracted/55da75ad0352b6c4.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100805102720",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-CS91 - Fuel Oil Class 300 CS"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:37.895274+00:00"
+}

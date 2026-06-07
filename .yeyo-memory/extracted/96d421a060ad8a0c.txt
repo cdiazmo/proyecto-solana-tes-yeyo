@@ -1,0 +1,99 @@
+[page 1]
+252-MS-03A-CS31-24"-2Flow: 6943 gpm
+Vel: 5.541 ft/s
+252-MS-04A-CS31-24"-2Flow: 7163 gpm
+Vel: 5.717 ft/s
+253-MS-01A-CS31-20"-1Flow: 7163 gpm
+Vel: 8.268 ft/s
+Branch 1Flow: 7163 gpm
+Vel: 5.717 ft/s
+Tramo 427Flow: 608.6 gpm
+Vel: 58.19 ft/s
+253-MS-01A-CS31-20"-2Flow: 7163 gpm
+Vel: 8.268 ft/s
+Pump Discharge 18''Flow: 6943 gpm
+Vel: 10.91 ft/s
+251-MS-01A-CS31-20"-1Flow: 6943 gpm
+Vel: 8.014 ft/s
+251-MS-01A-CS31-20"-2Flow: 6943 gpm
+Vel: 8.014 ft/s
+251-MS-01A-CS31-20"-3Flow: 6943 gpm
+Vel: 8.014 ft/s 253-MS-01F-CS31-20"13Flow: 7163 gpm
+Vel: 8.268 ft/s
+Ring Inlet Line 24''Flow: 7163 gpm
+Vel: 5.717 ft/s
+252-MS-03A-CS31-24"-3Flow: 6943 gpm
+Vel: 5.541 ft/s
+252-MS-04A-CS31-24"-4Flow: 7163 gpm
+Vel: 5.717 ft/s
+Cold salt tankSet P: 14.5 psi a
+Level: 32.81 ft
+El: 46.36 ftP: 114.2 psi a FIT 125105dP: 0 psi
+1-MX-251dP: 60.9 psi
+Pin: 135.2 psi a
+Pout: 49.92 psi a
+El: 12.47 ftP: 66.69 psi a
+FIT.2dP: 0 psi
+FV 1-252-21Flow: 7163 gpm
+dP: 56.09 psi
+Position: 79.83 %
+El: 46.59 ftP: 105 psi a
+El: 6.562 ftP: 135.2 psi aEl: 6.562 ftP: 137 psi a
+El: 48.95 ftP: 36.87 psi a
+1-MP-251TH: 134.1 ft
+NPSHa: 50.34 ft
+Psuct: 41.59 psi a
+Pdisch: 152.4 psi a
+Speed: 1020 rpm
+Eff: 79.08 %
+El: 40.88 ftP: 45.93 psi a El: 1.64 ftP: 17.29 psi a El: 1.64 ftP: 17.28 psi a
+Hot Salt Tank 1-MT-252Set P: 14.5 psi a
+Level: 3.412 ft
+El: 36.52 ftP: 122.4 psi a
+FV 1-251-05Flow: 6943 gpm
+dP: 7.503 psi
+Position: 100 % El: 48.95 ftP: -20 psi a
+El: 32.81 ftP: -7.549 psi a
+El: 46.59 ftP: 105 psi a
+El: 12.47 ftP: 68.28 psi a
+17 codos y 130 metros 24'' -->107 m y 15 codos
+Max Charge @ 1020 rpm.pipe
+bar g
+Lineup:
+Power:
+max charging-nivel min
+psi a
+Program Version:
+Maximum Iterations:
+File Name:
+Velocity:
+Drawn by:
+Density:
+Flow rate:
+cP
+Company:
+Calculation Method:
+Elevation:
+lb/ft³
+0.01
+12.1.21778
+Project Information
+Viscosity:
+2100
+14.5
+m/s
+viernes, agosto 05, 2016 10:10 AM
+PIPE-FLO Professional 12
+Print Date:
+Temperature:
+Size:
+Project:
+Laminar Cutoff Re:
+Atmospheric Pressure:
+Pressure:
+ºF
+Units Used
+100
+Darcy-Weisbach
+Iteration Tolerance:
+Length:

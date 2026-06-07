@@ -1,0 +1,116 @@
+{
+  "id": "a56fe1b2c36bf682",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 394486,
+  "size_human": "385 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-AGE-75-54-0005-GAR Rev00 TES Platform proposal reinf",
+  "doc_code": "4521-PLN-AGE-75-54-0005",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4364,
+  "token_estimate": 1091,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/a56fe1b2c36bf682.json",
+  "extracted_path": ".yeyo-memory/extracted/a56fe1b2c36bf682.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2013 - Español 2013 (19.0s (LMS Tech))",
+      "Title": "T GRTG EL 775' UN",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "CreationDate": "D:20170331143602",
+      "ModDate": "D:20170331143602"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.028123+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::21",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 21,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::21",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 21,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::24",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 24,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::25",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 25,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::25",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 25,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::21",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 21,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:00.028126+00:00"
+}

@@ -1,0 +1,443 @@
+[page 4]
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT PROCEDURE 
+PROCEDIMIENTO DE TRATAMIENTO TÉRMICO 
+ 
+REV : 
+ 
+1 
+ 
+ISSUED BY: 
+ 
+ISC 
+ 
+195001-PTT-001 
+ 
+DATE: 16-03-17 Pag 1/7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMPANY STANDARD 
+NORMA DE FABRICA 
+ 
+ 
+ 
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT 
+PROCEDURE 
+ 
+PROCEDIMIENTO DE TRATAMIENTO 
+TÉRMICO 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+ 
+ 
+DATE 
+FECHA 
+ 
+DESCRIPTION 
+DESCRIPCION 
+ 
+Prepar. By 
+Dept. Eng./ 
+Ing. 
+ 
+Aprov. By 
+Dept. Eng./ 
+Ing. 
+ 
+Aprov. By 
+Dept. Quality./ 
+Calidad 
+0 06/12/16 INITIAL ISSUE ISC AAG PAP 
+1 16/03/17 CLIENT COMMENTS ISC AAG PAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 5]
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT PROCEDURE 
+PROCEDIMIENTO DE TRATAMIENTO TÉRMICO 
+ 
+REV : 
+ 
+1 
+ 
+ISSUED BY: 
+ 
+ISC 
+ 
+195001-PTT-001 
+ 
+DATE: 16-03-17 Pag 2/7 
+ 
+ 
+ 
+INDEX / INDICE 
+ 
+ 
+1
+ SCOPE / ALCANCE ......................................................................................................... 3 
+2 APPLICABLE DOCUMENTATION / DOCUMENTACIÓN APLICABLE ................... 3 
+3 HEAT TREATMENT FURNACE AND EQUIPMENT / HORNO Y EQUIPO DE 
+TRATAMIENTO TÉRMICO ............................................................................................. 3 
+4 EQUIPMENT DISPOSAL / PREPARACIÓN DE LA PIEZA ......................................... 4 
+5 TREATMENT PROCEDURE / REALIZACIÓN DEL TRATAMIENTO ......................... 5 
+6 TEMPERATURE CONTROL / MEDICIÓN DE TEMPERATURA ............................... 5 
+7 HEATING AND COOLING RATES / VELOCIDAD DE CALENTAMIENTO Y 
+ENFRIAMIENTO ............................................................................................................. 6 
+8 ATTACHMENT AND REMOVAL OF THERMOCOUPLES / SUJECCIÓN Y 
+RETIRADA DE TERMOPARES ....................................................................................... 6 
+9 DOCUMENTATION / DOCUMENTACIÓN .................................................................. 7 
+ 
+ 
+
+[page 6]
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT PROCEDURE 
+PROCEDIMIENTO DE TRATAMIENTO TÉRMICO 
+ 
+REV : 
+ 
+1 
+ 
+ISSUED BY: 
+ 
+ISC 
+ 
+195001-PTT-001 
+ 
+DATE: 16-03-17 Pag 3/7 
+ 
+ 
+1 SCOPE / ALCANCE 
+ 
+This Heat Treatment Procedure has been developed fo r carrying out the Post Weld Heat 
+Treatment on general welded constructions as well a s their Production Weld Test Coupons 
+for SOLANA SOLAR POWER PLANT.
+ 
+. 
+ 
+Este procedimiento engloba el Procedimiento de Tra tamiento Térmico Post Soldadura 
+para el aliviado de tensiones en construcciones sol dadas en general así como de sus 
+correspondientes cupones de testigos de soldadura d e producción para SOLANA SOLAR 
+POWER PLANT. 
+ 
+ 
+2 APPLICABLE DOCUMENTATION / DOCUMENTACIÓN APLICABLE 
+ 
+ASME VIII Div. 2 
+TEMA R 
+ 
+All codes in their latest edition. 
+ 
+Todos los códigos en su última edición. 
+ 
+ 
+ITEMS EQUIPMENT 
+ LOINTEK REF. CUSTOMER REF. 
+ EQUIPOS REF. LOINTEK REF. CLIENTE 
+ 
+TES1: 1MX-A..F 
+(OIL TO 
+SALT HEX) 195001-DWG-120 4521-PLN-LOI-039-062-
+0002-GAR 
+TES2: 2MX-A..F 
+TES3: 3MX-A..F 
+TES4: 4MX-A..F 
+TES5: 5MX-A..F 
+TES6: 6MX-A..F 
+ 
+ 
+3 HEAT TREATMENT FURNACE AND EQUIPMENT / HORNO Y 
+EQUIPO DE TRATAMIENTO TÉRMICO 
+ 
+3.1. Heat treatment shall be performed at closed ga s furnace which heats the complete 
+piece uniformly. For each HEX, the whole HEX will b e introduced in LOINTEK’s shop 
+furnace, and it will be heat treated all at once, with no local heat treatments. ❶ 
+ 
+3.2. This procedure is not applicable for treatment s at open air by flames nor electric 
+devices. 
+ 
+
+[page 7]
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT PROCEDURE 
+PROCEDIMIENTO DE TRATAMIENTO TÉRMICO 
+ 
+REV : 
+ 
+1 
+ 
+ISSUED BY: 
+ 
+ISC 
+ 
+195001-PTT-001 
+ 
+DATE: 16-03-17 Pag 4/7 
+ 
+ 
+3.1. Se emplearán hornos cerrados de gas que calien ten la pieza uniformemente. Para 
+cada intercambiador, el equipo entero será introduc ido en el horno del taller de LOINTEK, 
+y será tratado entero a la vez, sin realizar tratamientos térmicos locales. 
+❶ 
+ 
+3.2. Este procedimiento no es aplicable para tratam ientos al aire libre mediante mecheros 
+ni cartuchos eléctricos. 
+ 
+ 
+4 EQUIPMENT DISPOSAL / PREPARACIÓN DE LA PIEZA 
+4.1. Equipment to be treated shall be free of grease, slag, paint and other inflammable stuffs. 
+ 
+4.2. Machined surfaces, i.e. gasket seating, thread s, shall be protected in such a manner 
+that oxidation shall be avoided during heat treatme nt. High resistant temperature grease 
+may be used. 
+ 
+4.3. The items have to be placed into the furnace, properly supported in such a way to 
+avoid a direct impingement of flame and must also b e placed in the uniform temperature 
+area of the furnace. The Quality Department shall v erify the furnace load and the correct 
+placement of thermocouples and record it on a sketch. 
+4.4. The Production test coupons shall undergo all the treatments together with the piece they 
+represent and will be placed close to the relevant weld preferably inside the vessel. 
+ 
+ 
+4.1. Las piezas a tratar deben estar libres de grasa, pintura y otras sustancias inflamables. 
+ 
+4.2. Las superficies mecanizadas, como por ejemplo la cara junta, roscas, serán 
+protegidas de forma que se evite una oxidación exce siva. Se utilizará grasa resistente a 
+altas temperaturas. 
+ 
+4.3. Las piezas han de ponerse en el horno bien sop ortadas y de tal forma que no tengan 
+contacto directo con la llama de los quemadores ade más deben ser situadas en un área 
+donde la temperatura sea uniforme. El departamento de calidad verificará la carga del 
+horno y la correcta colocación de los termopares dejándolo reflejado en un croquis. 
+ 
+4.4. Los testigos de producción serán sometidos a l os mismos ciclos de tratamiento 
+térmico del recipiente que representan, cerca de la soldadura correspondiente y 
+preferiblemente en el interior. 
+ 
+
+[page 8]
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT PROCEDURE 
+PROCEDIMIENTO DE TRATAMIENTO TÉRMICO 
+ 
+REV : 
+ 
+1 
+ 
+ISSUED BY: 
+ 
+ISC 
+ 
+195001-PTT-001 
+ 
+DATE: 16-03-17 Pag 5/7 
+ 
+ 
+5 TREATMENT PROCEDURE / REALIZACIÓN DEL TRATAMIENTO 
+ 
+5.1. Equipment shall be steady supported to avoid d eformation but allowing thermal 
+expansion / contraction and in a way that flames fr om burners do not impinge on 
+equipment surfaces. High temperature resistant grea se may be applied between 
+equipment and supports in order to reduce friction during thermal expansion. 
+ 
+5.2. Burners shall be gauged and regulated in order to avoid an excessive oxidation and 
+will not impinge on item surface. 
+ 
+5.3. Final PWHT shall be carried out after having c ompleted all welding operations and 
+repairs on shell including connections and appurtenances. 
+ 
+5.4. Heat treatments will be performed at LOINTEK’s shop by a subcontractor. ❶ 
+ 
+ 
+5.1. Las piezas se colocarán en el horno bien sopor tadas para evitar deformaciones pero 
+permitiendo la expansión/contracción térmica y de f orma que no tengan contacto directo 
+con las llamas de los quemadores. Se puede aplicar grasa resistente a altas temperaturas 
+entre el equipo y los soportes en los que se apoya para reducir la fricción durante la 
+expansión térmica. 
+ 
+5.2. Los quemadores estarán regulados y controlados de manera que no se produzcan 
+una oxidación excesiva, ni incidan directamente sobre la pieza. 
+ 
+5.3. El PWHT final se realizará finalizadas todas l as operaciones de soldaduras y 
+reparaciones en el equipo incluidos conexiones y accesorios. 
+ 
+5.4. Los tratamientos térmicos serán realizados en el taller de LOINTEK por una 
+subcontrata. 
+❶ 
+ 
+ 
+6 TEMPERATURE CONTROL / MEDICIÓN DE TEMPERATURA 
+ 
+6.1. Quality Control Department shall define the pr operly arrangement of thermocouples 
+for measuring the temperature gradient and uniform distribution of temperature along the 
+piece (see attached sketches). 
+6.2. Temperatures above 300ºC (572ºF) shall be recorded with regard to the time with a 
+suitable multipoint type recording device, also during any intermediate treatment. 
+6.3. Both Registering devices and thermocouples sha ll be calibrated and hold the 
+corresponding Calibration Certificates (appended with the final records). 
+6.4. During heating and cooling time temperature di fference between all thermocouples 
+shall not be greater than 80°C (176ºF). 
+6.5. During the holding period, the temperature dif ference between highest and lowest 
+temperature shall not be greater than 30°C (86ºF). 
+ 
+
+[page 9]
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT PROCEDURE 
+PROCEDIMIENTO DE TRATAMIENTO TÉRMICO 
+ 
+REV : 
+ 
+1 
+ 
+ISSUED BY: 
+ 
+ISC 
+ 
+195001-PTT-001 
+ 
+DATE: 16-03-17 Pag 6/7 
+ 
+ 
+6.1. El Departamento de Control de Calidad indicará en el formato adecuado la colocación 
+de los termopares necesarios para la medición del g radiente y la distribución uniforme de 
+la temperatura en la pieza (ver croquis adjuntos). 
+ 
+6.2. Las mediciones serán grabadas en un diagrama t iempo/temperatura de forma 
+constante. Se requiere un gráfico con el calentamie nto, mantenimiento y enfriamiento 
+mientras la temperatura es superior a 300ºC (572ºF). 
+ 
+6.3. Tanto los Registradores como los termopares se encontrarán calibrados con sus 
+correspondientes Certificados de Caducidad y Calibr ación. (Anexos a la documentación 
+final) 
+ 
+6.4. Durante el periodo de calentamiento y enfriami ento, la diferencia de temperatura 
+entre dos termopares cualesquiera no será mayor de 80 °C (176ºF). 
+ 
+6.5. Durante el periodo de mantenimiento, la difere ncia de temperatura entre dos 
+termopares cualesquiera no será mayor de 30 °C (86ºF). 
+ 
+ 
+7 HEATING AND COOLING RATES / VELOCIDAD DE 
+CALENTAMIENTO Y ENFRIAMIENTO 
+At time of introducing the piece in the furnace, th e temperature inside shall not be 
+greater than 300 °C (572ºF). Above this temperature heating and cooling ratios shall be 
+governed according this procedure. Above 300 °C (572ºF) cooling shall be done in closed 
+furnace and below that temperature it will be cooled in air. 
+ 
+En el momento de entrada de la pieza en el horno, é ste no sobrepasará la temperatura de 
+300 °C (572ºF). Por encima de esta temperatura los ratios de calentamiento y 
+enfriamiento se realizarán de acuerdo a este proced imiento. El enfriamiento por encima 
+de 300 ºC (572ºF) se llevará a cabo con horno cerra do y por debajo de esta temperatura 
+el enfriamiento será al aire. 
+ 
+ 
+8 ATTACHMENT AND REMOVAL OF THERMOCOUPLES / 
+SUJECCIÓN Y RETIRADA DE TERMOPARES 
+The thermocouples shall be attached by discharge condenser. 
+The removal of thermocouples attached to the vessel s shall be by smooth grinding, 
+avoiding unnecessary removal and damage to the mate rials. These areas have to be 
+checked by magnetic particles 
+ 
+ 
+Los termopares deben ser soldados por chispas o uni dos mecánicamente a las partes a 
+presión del equipo. 
+ 
+La retirada de los termopares se realizará mediante un suave esmerilado evitando el 
+dañado del material. Estas áreas serán chequeadas mediante partículas magnéticas. 
+ 
+ 
+
+[page 10]
+ 
+ 
+ 
+POSTWELD HEAT TREATMENT PROCEDURE 
+PROCEDIMIENTO DE TRATAMIENTO TÉRMICO 
+ 
+REV : 
+ 
+1 
+ 
+ISSUED BY: 
+ 
+ISC 
+ 
+195001-PTT-001 
+ 
+DATE: 16-03-17 Pag 7/7 
+ 
+ 
+9 DOCUMENTATION / DOCUMENTACIÓN 
+Record of heat treatment shall be taken using time- temperature recorders. Time-
+Temperature chart shall include, at least, the following information: 
+- LOINTEK, S.L. name. 
+- Record number of heat treatment. 
+- Specified holding temperature and time. 
+- Heat treatment date. 
+- LOINTEK, S.L. job number or reference number. 
+- Number of thermocouples. 
+- Quantity of heat-treated items, drawing, isometric. 
+- Certificates of equipment calibrations. 
+The heat treatment records or chart are approved by Q.C. Manager. 
+ 
+ 
+El reporte del tratamiento térmico deberá ser recog ido mediante un registrador de 
+Tiempo–Temperatura. El gráfico Tiempo–Temperatura i ncluirá como mínimo la 
+siguiente información. 
+- El nombre de LOINTEK, S.L. 
+- El número del tratamiento térmico. 
+- Temperatura y tiempo especificado de mantenimiento. 
+- Fecha del tratamiento térmico. 
+- Referencia de LOINTEK, S.L. 
+- Número de termopares. 
+- Cantidad y planos de los equipos tratados. 
+- Certificación de la calibración de los equipos. 
+Los reportes de tratamiento térmico y los gráficos serán aprobados por el responsable 
+del departamento de calidad.

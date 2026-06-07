@@ -1,0 +1,39 @@
+{
+  "id": "e55dcd6d22249952",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes de tubería HTF RFI015/HTF Typical Pipe Support REV01 Transmittal 11-27-2018.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 29556,
+  "size_human": "29 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "HTF Typical Pipe Support REV01 Transmittal 11-27-2018",
+  "doc_code": null,
+  "revision": "REV01",
+  "status": "ok",
+  "text_chars": 1154,
+  "token_estimate": 288,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/e55dcd6d22249952.json",
+  "extracted_path": ".yeyo-memory/extracted/e55dcd6d22249952.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "PDFCreator 2.5.1.5",
+      "CreationDate": "D:20181127085153-07'00'",
+      "ModDate": "D:20181127085153-07'00'",
+      "Title": "4521-TMT-DOT-0016",
+      "Author": "aybj",
+      "Subject": "HTF Typical Pipe Support REV01 Transmittal 11-27-2018",
+      "Keywords": "",
+      "Creator": "PDFCreator 2.5.1.5"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Soporte de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.928590+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.928592+00:00"
+}

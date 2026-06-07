@@ -1,0 +1,33 @@
+{
+  "id": "617861933bc755b0",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/EDL_4_supports.xlsx",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "xlsx",
+  "size_bytes": 24598,
+  "size_human": "24 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "EDL 4 supports",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 9057,
+  "token_estimate": 2264,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/617861933bc755b0.json",
+  "extracted_path": ".yeyo-memory/extracted/617861933bc755b0.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "ATYP steel struc",
+        "rows_seen": 24,
+        "non_empty_rows": 24
+      },
+      {
+        "name": "Sheet1",
+        "rows_seen": 109,
+        "non_empty_rows": 107
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:21:49.338923+00:00"
+}

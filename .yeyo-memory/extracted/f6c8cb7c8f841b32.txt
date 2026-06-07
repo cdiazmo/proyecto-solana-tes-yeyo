@@ -1,0 +1,614 @@
+[sheet Front page ]
+ABEINSA
+List
+Title:
+Supports. Molten Salt System supports list. Zone TES 3
+Client: ABENGOA SOLAR
+Project: Solana
+Document No.: | 4521-LIS-AEE-75-63-0001
+Revision: | Rev. 4
+Date: | 08/31/18
+© This document belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express written consent of Abeinsa
+
+[sheet Second page]
+ABEINSA
+Issued by:
+Álvaro Gil Rodríguez. Project Engineer. AE | Electronic Signature
+Reviewed by:
+José Ignacio Núñez Gómez. Project Engineer. AE | Electronic Signature
+Approved by:
+José María Rodríguez León. Technical Manager | Electronic Signature
+© This document belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express written consent of Abeinsa
+
+[sheet Supports List]
+ABEINSA Abeinsa Engineering | ABENGOA SOLAR | Document status: Critical: | Revision | Date | Purpose | Reason for revision | Issued by | Reviewed by | Approved by | Notes: 1,- Axis reference: X = South ; Y = Elevation ; Z = West 2,-Orientation references: N = North; S = South; E = East; W = West; U =Up; D =Down 3,-For different values on spring definition choose always equal or lower spring rates, 4,-The modification by vendor of any design parameter should be approved by EPC responsible
+ABENER TEYMA SOLANA
+Solana project | 4521-LIS-AEE-75-63-0001 Molten Salt System supports list. Zone TES 3 | 4 | 2018-08-31 00:00:00 | IFC | Drawings generated | JRG | HR | IGA | Color code:
+3 | 07/31/2017 | IFP | AY comments | AGR | JNG | JMRL | New
+2 | 04/21/2017 | IFP | Updated | AGR | JNG | JMRL | Modification
+1 | 2017-12-04 00:00:00 | IFC | Updated | AGR | JNG | JMRL | Deleted
+0 | 2017/15/03 | IFC | First emission | AGR | JNG | JMRL
+Support point information | Stress Conditions | Supporting Elements | Comments
+Support name | Revision | Line | DN (in) | Pipe Orientation (Flow Direction) | Temperature (ºF) | Insulation thickness (in) | Pipe spec, | Restrictions | Forces | Moment | Displacements | Atypical Elements (Y/N) | Atypical drawing code
+Fx (lb) | Fy (lb) | Fz (lb) | Fy(HYD) | Mx (ftlb) | My (ftlb) | Mz (ftlb) | dx(inch) | dy(inch) | dz(inch)
+253-MS-01F-S-004 | 1 | 253-MS-01F-CS31-20" | 20in | N 3 U | 750degF | 6.5 | CS31 | Rigid +Y; Rigid GUI w/gap; | -7290 | -24353 | 7597 | 0 | 0 | 0 | -1.23 | 0 | 0.1
+253-MS-01F-S-003 | 0 | 253-MS-01F-CS31-20" | 20in | N 3 U | 750degF | 6.5 | CS31 | Rigid +Y; Rigid -Y w/gap; Rigid GUI w/gap; Rigid LIM w/gap | 21020.765545000002 | -15780.018137000001 | 3511.51658 | 0 | 0 | 0 | 0.0700000378 | 0.8592524324999999 | 0.20000010799999998
+253-MS-01F-S-002 | 1 | 253-MS-01F-CS31-20" | 20in | N 3 U | 750degF | 6.5 | CS31 | Prog Design VSH; GUI w/gap | 0 | -23517.269490000002 | 0 | 0 | 0 | 0 | -1.5801583336 | 0.7227562958 | 0.7884256225999999
+253-MS-01E-S-001 | 0 | 253-MS-01E-CS31-20" | 20in | S 3 U | 750degF | 7 | CS31 | Prog Design VSH; GUI w/gap | 366 | -20747 | 5183 | 0 | 0 | 0 | 0.58 | 1.53 | 0 | Y
+253-MS-01E-S-002 | 0 | 253-MS-01E-CS31-20" | 20in | S 3 U | 750degF | 6.5 | CS31 | Rigid -Y w/gap; Rigid LIM w/gap; Rigid Z w/gap; Rigid +Y | -21792.534842 | -13840.141276 | -10068.071065 | 0 | 0 | 0 | -0.117716599 | 0.9214965606 | -0.20000010799999998
+253-MS-01E-S-003 | 1 | 253-MS-01E-CS31-20" | 20in | S 3 U | 750degF | 6.5 | CS31 | Rigid +Y | 6504.398797 | -23688.798757 | -2963.657047 | 0 | 0 | 0 | 1.3073235406000001 | 0 | -0.5863782693999999 | Y
+252-MS-14F-S-001 | 0 | 252-MS-14F-CS31-24" | 24in | U | 750degF | 7.000000000000001 | CS31 | Rigid GUI; Rigid GUI | 3821.977809 | 0 | -15334.896317 | 0 | 0 | 0 | 0 | 1.3509849815 | 0
+252-MS-14F-S-002 | 0 | 252-MS-14F-CS31-24" | 24in | E 0.1825 S 3.4781 U | 750degF | 7.000000000000001 | CS31 | Rigid +Y; Rigid GUI w/gap | -15490.913763 | -22176.958232 | 1570.2908650000002 | 0 | 0 | 0 | -0.0700000378 | 3.0453559752 | 2.111812164
+252-MS-14F-S-003 | 1 | 252-MS-14F-CS31-24" | 24in | D | 750degF | 7.000000000000001 | CS31 | Rigid +Y; Rigid Z w/gap | -1907.2795560000002 | -20540.79833 | 3094.720694 | 0 | 0 | 0 | -2.3353949619 | 0 | 0.0700000378
+252-MS-14E-S-003 | 0 | 252-MS-14E-CS31-24" | 24in | D | 750degF | 7.000000000000001 | CS31 | Rigid GUI; Rigid GUI | -6389.07178 | 0 | -16896.869249 | 0 | 0 | 0 | 0 | 1.2751581689 | 0
+252-MS-14E-S-001 | 1 | 252-MS-14E-CS31-24" | 24in | U | 750degF | 7.000000000000001 | CS31 | Rigid +Y; Rigid Z w/gap | 1881.201712 | -19979.450257 | 1688.765208 | 0 | 0 | 0 | 2.5216155349 | 0 | 0.0700000378
+252-MS-14E-S-002 | 0 | 252-MS-14E-CS31-24" | 24in | W 0.1849 S 3.5246 D | 750degF | 7.000000000000001 | CS31 | Rigid +Y; Rigid GUI w/gap | 17309 | -20749 | 2767 | 0 | 0 | 0 | 0.0700000378 | 2.7745684274 | 1.2543707561
+252-MS-13F-S-001 | 0 | 252-MS-13F-CS31-24" | 24in | E 2.9959 U | 750degF | 7.000000000000001 | CS31 | Rigid +Y; Rigid GUI | -17132.019463 | -8088.178202 | 501.99849700000004 | 0 | 0 | 0 | 0 | 1.5340165763999998 | -5.3789399125
+252-MS-13E-S-002 | 0 | 252-MS-13E-CS31-24" | 24in | W 0.1572 S 2.9959 D | 750degF | 7.000000000000001 | CS31 | Rigid GUI; Rigid +Y | 20817 | -10678 | -212 | 0 | 0 | 0 | 0 | 1.3165361439999999 | -5.8515779629999995
+252-MS-04F-S-002 | 0 | 252-MS-04F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid GUI | -10153.498485 | -41614.393990000004 | -4161.439399 | 0 | 0 | 0 | 0 | 0 | -2.0055916342
+252-MS-04F-S-003 | 0 | 252-MS-04F-CS31-24" | 24in | S 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 4968.728518 | -20882.50801 | -3815.683157 | 0 | 0 | 0 | 2.6865762539 | 0 | -1.9568514503999999 | Y
+252-MS-04F-S-004 | 0 | 252-MS-04F-CS31-24" | 24in | N 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 1722.03694 | -16121.278199 | -4712.671067 | 0 | 0 | 0 | 1.1762211076 | 0 | -3.0661827581 | Y
+252-MS-04F-S-005 | 0 | 252-MS-04F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -948.0195530000001 | -17863.547949 | -1632.3381490000002 | 0 | 0 | 0 | -2.0703554487 | 0 | -4.7167742006 | Y
+252-MS-04F-S-006 | 0 | 252-MS-04F-CS31-24" | 24in | W 0.0039 S 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 559.77441 | -14635.965136 | -1453.614994 | 0 | 0 | 0 | -0.9855517133 | 0 | -5.163939796399999 | Y
+252-MS-04F-S-007 | 0 | 252-MS-04F-CS31-24" | 24in | W 0.0039 S 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid GUI | -3998.6776830000003 | -24013.422953 | -2401.4097380000003 | 0 | 0 | 0 | 0 | 0 | -3.1432694138999997
+252-MS-04F-S-008 | 0 | 252-MS-04F-CS31-24" | 24in | W 0.0039 S 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid LIM | -2865.190705 | -30346.966910000003 | 34172.991281 | 0 | 0 | 0 | -2.0804341943 | 0 | 0.0002362206 | Y
+252-MS-04F-S-009 | 0 | 252-MS-04F-CS31-24" | 24in | S 3 U | 750degF | 6.5 | CS31 | Prog Design VSH; Rigid LIM | 4748.640507 | -32269.533478 | 0 | 0 | 0 | 0 | 0.0099606353 | -0.190157583 | 1.4828354464 | Y
+252-MS-04E-S-001 | 0 | 252-MS-04E-SS37-24" | 24in | S 3 U | 750degF | 7 | SS37 | Rigid +Y; Rigid GUI | 1163 | -11634 | -3347 | 0 | 0 | 0 | 2.4 | 0 | 0
+252-MS-04E-S-001A | 0 | 252-MS-04E-SS37-24" | 24in | U | 750degF | SS37 | User Design VSH | 0 | -11739 | 0 | 0 | 0 | 0 | 2.8 | 0.2 | 0.523 | Y
+252-MS-04E-S-002 | 0 | 252-MS-04E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid GUI | 14299.650872 | -42761.144699000004 | -12828.275967000001 | 0 | 0 | 0 | 0 | 0 | -1.3066148788 | Y
+252-MS-04E-S-003 | 0 | 252-MS-04E-CS31-24" | 24in | N 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -5127.668481000001 | -19318.286988 | -2700.8553260000003 | 0 | 0 | 0 | -3.6123247853 | 0 | -1.5858669981
+252-MS-04E-S-004 | 0 | 252-MS-04E-CS31-24" | 24in | S 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -3148.899663 | -16789.185738 | -4991.434227000001 | 0 | 0 | 0 | -2.4957887493 | 0 | -3.0768520552
+252-MS-04E-S-005 | 0 | 252-MS-04E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 2739.972092 | -17890.30022 | -4865.990805 | 0 | 0 | 0 | 2.6727573488000003 | 0 | -4.776971083499999
+252-MS-04E-S-006 | 0 | 252-MS-04E-CS31-24" | 24in | W 0.0039 N 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -584.5034 | -15019.938908 | -1501.499311 | 0 | 0 | 0 | 1.3926385472999998 | 0 | -5.1658689312999995 | Y
+252-MS-04E-S-007 | 0 | 252-MS-04E-CS31-24" | 24in | W 0.0039 N 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid GUI | -6307.466113 | -24554.987834 | -2455.588707 | 0 | 0 | 0 | 0 | 0 | -3.1509072133
+252-MS-04E-S-008 | 0 | 252-MS-04E-CS31-24" | 24in | W 0.0039 N 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid LIM | 2874.857492 | -30429.471813 | 48969.470043 | 0 | 0 | 0 | 2.1089381467 | 0 | 0 | Y
+252-MS-04E-S-009 | 1 | 252-MS-04E-CS31-24" | 24in | N 0.0046 E 3.0096 U | 750degF | 6.5 | CS31 | Rigid LIM; Prog Design VSH | -8487 | -32757 | 0 | 0 | 0 | 0 | -0.005984255199999999 | -0.11291344679999998 | 1.8777175494 | Y
+252-MS-03F-S-002 | 0 | 252-MS-03F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 881.026471 | -26852.086196 | -7036.296891 | 0 | 0 | 0 | 0.3259056878 | 0 | -5.4409084499
+252-MS-03F-S-003 | 0 | 252-MS-03F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid GUI | -3469.252488 | 0 | 0 | 0 | 0 | 0 | 0 | 1.7020481632 | -2.6642534072
+252-MS-03F-S-004 | 0 | 252-MS-03F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid GUI | -1577.2599440000001 | -45719.631139000005 | -4571.940633 | 0 | 0 | 0 | 0 | 0 | -3.4763010897999997
+252-MS-03F-S-005 | 0 | 252-MS-03F-CS31-24" | 24in | S 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 2590.249298 | -26118.30962 | -1815.107866 | 0 | 0 | 0 | 1.3109849598999999 | 0 | -1.2672054086999998
+252-MS-03F-S-006 | 0 | 252-MS-03F-CS31-24" | 24in | N 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -1669.656443 | -12105.96465 | -3518.485659 | 0 | 0 | 0 | -0.304330873 | 0 | -1.2955912508
+252-MS-03F-S-007 | 0 | 252-MS-03F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -1756.882335 | -20798.204635000002 | -1298.271975 | 0 | 0 | 0 | -2.9525606495 | 0 | -2.395276884
+252-MS-03F-S-008 | 0 | 252-MS-03F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -1254.43422 | -14592.352190000001 | -847.080312 | 0 | 0 | 0 | -2.8779149399 | 0 | -1.8264970493
+252-MS-03F-S-010 | 0 | 252-MS-03F-CS31-24" | 24in | S 2.9084 U | 750degF | 6.5 | CS31 | Rigid +Y; Rigid LIM | 3501.400175 | -21241.977601000002 | -2124.220241 | 0 | 0 | 0 | 0.0029527574999999996 | 0 | -0.5691735357
+252-MS-03F-S-011 | 0 | 252-MS-03F-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid LIM w/gap | -2414.223851 | -25341.144907 | 21824.907338 | 0 | 0 | 0 | -2.778741658 | 0 | 0.20027569869999998 | Y
+252-MS-03E-S-001 | 0 | 252-MS-03E-CS31-24" | 24in | U | 750degF | 6.5 | CS31 | Prog Design ; Rigid +Y | -1669 | -21545 | -6244 | 0 | 0 | 0 | -0.2 | 0.5 | -0.8
+252-MS-03E-S-002 | 0 | 252-MS-03E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -892.0421120000001 | -25692.071756 | -7689.367036000001 | 0 | 0 | 0 | -0.3620080695 | 0 | -4.975593237999999
+252-MS-03E-S-003 | 0 | 252-MS-03E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid X | 4626.56922 | 0 | 0 | 0 | 0 | 0 | 0 | 1.7342135348999999 | -3.0084661915
+252-MS-03E-S-004 | 0 | 252-MS-03E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid GUI; Rigid +Y | -4326.898823 | -44848.271455 | -4484.714741 | 0 | 0 | 0 | 0 | 0 | -3.2544505762999996 | Y
+252-MS-03E-S-005 | 0 | 252-MS-03E-CS31-24" | 24in | N 3 D | 750degF | 6.5 | CS31 | Rigid +Y | -2639.482469 | -27108.593265 | -2307.439576 | 0 | 0 | 0 | -2.9623244342999997 | 0 | -1.5938591284
+252-MS-03E-S-006 | 0 | 252-MS-03E-CS31-24" | 24in | S 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 3620.998563 | -12375.061023 | -3645.5027440000003 | 0 | 0 | 0 | -2.0119695903999997 | 0 | -1.3942527214
+252-MS-03E-S-007 | 0 | 252-MS-03E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 1967.3035590000002 | -21303.575267 | -2075.661497 | 0 | 0 | 0 | 3.4136632606999995 | 0 | -2.370867422
+252-MS-03E-S-008 | 0 | 252-MS-03E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y | 1302.992964 | -14464.435869 | -1265.8994790000002 | 0 | 0 | 0 | 3.2994112305 | 0 | -1.8209458652
+252-MS-03E-S-010 | 0 | 252-MS-03E-CS31-24" | 24in | N 0.3071 W 2.6658 U | 750degF | 6.5 | CS31 | Rigid LIM; Rigid +Y | -6831.9455100000005 | -22733.585316 | -2282.485777 | 0 | 0 | 0 | 0 | 0 | -0.5744491290999999
+252-MS-03E-S-011 | 0 | 252-MS-03E-CS31-24" | 24in | W 3 D | 750degF | 6.5 | CS31 | Rigid +Y; Rigid LIM w/gap | 2411.301334 | -25313.718209000002 | 26527.012382 | 0 | 0 | 0 | 2.7827180380999996 | 0 | 0.20027569869999998 | Y
+251-MS-07F-S-001 | 0 | 251-MS-07F-CS31-3" | 3in | W | 750degF | 4 | CS31 | Rigid -Y w/gap; Rigid +Y; Rigid GUI w/gap | 591.24767 | 391.392469 | 22.031282 | 0 | 0 | 0 | 0.0700000378 | 0.9000004859999999 | -0.2844096024
+251-MS-07E-S-001 | 0 | 251-MS-07E-CS31-3" | 3in | W | 750degF | 4 | CS31 | Rigid +Y | 24.953799 | -215.81664 | -24.72899 | 0 | 0 | 0 | -0.6558271258 | 0.9834650979999999 | -0.418897864
+251-MS-02F-S-001 | 0 | 251-MS-02F-CS31-20" | 20in | S 3 D | 750degF | 7.000000000000001 | CS31 | Rigid GUI | 0 | 0 | -4001.825009 | 0 | 0 | 0 | 0.7709059280999999 | 2.0445286631 | 0
+251-MS-02F-S-002 | 1 | 251-MS-02F-CS31-20" | 20in | E 25 S | 750degF | 7.000000000000001 | CS31 | Prog Design CSH | 0 | -22500 | 0 | 0 | 0 | 0 | -1.8739773898999998 | 1.8445285551 | 3.9504745742
+251-MS-02E-S-001 | 0 | 251-MS-02E-CS31-20" | 20in | N 3 D | 750degF | 7.000000000000001 | CS31 | Rigid GUI | 0 | 0 | -4831.14541 | 0 | 0 | 0 | -1.0424415078 | 1.7732686740999999 | 0
+251-MS-02E-S-002 | 0 | 251-MS-02E-CS31-20" | 20in | N 25 W | 750degF | 7.000000000000001 | CS31 | Prog Design VSH | 0 | -22221 | 0 | 0 | 0 | 0 | 1.8 | 1.8 | 3.9
+251-MS-01F-S-001 | 1 | 251-MS-01F-CS31-20" | 20in | N 3 U | 750degF | 7.000000000000001 | CS31 | Prog Design CSH | 0 | -19000 | 0 | 0 | 0 | 0 | 0.2 | 2 | -1.1974809616
+251-MS-01F-S-002 | 0 | 251-MS-01F-CS31-20" | 20in | W | 750degF | 7.000000000000001 | CS31 | Rigid GUI w/gap | 23404.415372 | 0 | 0 | 0 | 0 | 0 | 0.0700000378 | 0.9742131245 | -0.2540946254
+251-MS-01F-S-003 | 0 | 251-MS-01F-CS31-20" | 20in | N 3 U | 750degF | 7.000000000000001 | CS31 | Rigid -Y w/gap; Rigid +Y; Rigid GUI w/gap | -530.774049 | -13426.942334000001 | 21154.302091 | 0 | 0 | 0 | -0.19366152189999997 | 0.5457089561 | 0.0700000378
+251-MS-01F-S-004 | 0 | 251-MS-01F-CS31-20" | 20in | N 3 U | 750degF | 7.000000000000001 | CS31 | Rigid GUI w/gap; Rigid +Y | -6946.5981 | -23202.986508 | -14689.469678000001 | 0 | 0 | 0 | -1.5809851056999997 | 0 | -0.0700000378
+251-MS-01E-S-001 | 0 | 251-MS-01E-CS31-20" | 20in | S 3 D | 750degF | 7.000000000000001 | CS31 | Prog Design VSH | 0 | -21393 | 0 | 0 | 0 | 0 | -0.58 | 1.68 | -1.2
+251-MS-01E-S-003 | 0 | 251-MS-01E-CS31-20" | 20in | S 3 U | 750degF | 7.000000000000001 | CS31 | Rigid +Y; Rigid -Y w/gap; Rigid LIM w/gap; Rigid GUI w/gap | -24204.960221 | -12320.657245 | 9507.847037 | 0 | 0 | 0 | -0.163385915 | 0.4336222814 | 0.1400000756
+251-MS-01E-S-004 | 1 | 251-MS-01E-CS31-20" | 20in | S 3 U | 750degF | 7.000000000000001 | CS31 | Rigid GUI w/gap; Rigid +Y | 0 | -19381.683126 | -13506.749529 | 0 | 0 | 0 | 1.3212211858999998 | -0.4194096753 | -0.0700000378 | Y
+257-MS-10F-S-001 | 0 | 257-MS-10F-CS31-4" | 4in | S 3 D | 750degF | 4 | CS31 | Rigid +Y | 146.575468 | -516.8358910000001 | 50.582025 | 0 | 0 | 0 | 0.6462995616 | 0.26204738559999996 | 1.0972053169
+257-MS-10F-S-002 | 0 | 257-MS-10F-CS31-4" | 4in | S 3 D | 750degF | 4 | CS31 | Rigid GUI; Rigid Y | -72.163689 | -391.16766 | -622.046503 | 0 | 0 | 0 | -0.3377560879 | 0 | 0
+257-MS-10F-S-003 | 0 | 257-MS-10F-CS31-4" | 4in | S 3.0076 D | 750degF | 4 | CS31 | Rigid +Y | 301.918487 | -1011.6405000000001 | 109.481983 | 0 | 0 | 0 | 0.2553544686 | 0 | 0.07881894019999999
+257-MS-10F-S-004 | 0 | 257-MS-10F-CS31-4" | 4in | S 3.0076 D | 750degF | 4 | CS31 | Rigid GUI; Rigid +Y | 178.498346 | -673.0781460000001 | -653.2949540000001 | 0 | 0 | 0 | 1.3171266954999998 | 0 | 0
+257-MS-10F-S-005 | 0 | 257-MS-10F-CS31-4" | 4in | S 0.1642 E 3.0269 D | 750degF | 4 | CS31 | Rigid +Y | 0 | -667.907539 | 0 | 0 | 0 | 0 | -4.285041684 | 0 | 1.6092528375
+257-MS-10EF-S-001 | 0 | 257-MS-10EF-CS31-6" | 6in | E 0.0152 N 2.706 U | 750degF | 6.000000000000001 | CS31 | Rigid GUI | -482.440114 | 0 | 0 | 0 | 0 | 0 | 0 | 0.8244492641 | -0.5470475395 | Y
+257-MS-10EF-S-002 | 0 | 257-MS-10EF-CS31-6" | 6in | N 3 U | 750degF | 6.000000000000001 | CS31 | Prog Design VSH | 0 | -1503.0729740000002 | 0 | 0 | 0 | 0 | -0.3770080776 | 0.7441736302 | -0.22090563109999997
+257-MS-10EF-S-003 | 0 | 257-MS-10EF-CS31-6" | 6in | E 0.0256 S 2.9454 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y | -229.30518 | -1121.3472920000002 | 278.76316 | 0 | 0 | 0 | -1.5913788120999999 | 0 | 2.3183870787
+257-MS-10EF-S-004 | 0 | 257-MS-10EF-CS31-6" | 6in | E 0.0256 S 2.9454 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y | -306.639476 | -1333.1173700000002 | 347.77952300000004 | 0 | 0 | 0 | -1.0119690504 | 0 | 1.3682684553999998
+257-MS-10EF-S-005 | 0 | 257-MS-10EF-CS31-6" | 6in | E 0.0256 S 2.9454 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y; Rigid GUI | -2700.4057080000002 | -1643.3537900000001 | 480.86645100000004 | 0 | 0 | 0 | 0 | 0 | -0.6102759201
+257-MS-10EF-S-006 | 0 | 257-MS-10EF-CS31-6" | 6in | S 2.7634 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y | 75.985442 | -891.142876 | -75.311015 | 0 | 0 | 0 | 0.3176773369 | 0 | -0.7554728489
+257-MS-10EF-S-007 | 0 | 257-MS-10EF-CS31-6" | 6in | E 3 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y; Rigid GUI | 2737.948811 | -1297.597548 | -363.29134400000004 | 0 | 0 | 0 | 0 | 0 | -0.9888588017
+257-MS-10EF-S-008 | 0 | 257-MS-10EF-CS31-6" | 6in | E 3 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y | -113.52854500000001 | -1469.126815 | -143.87776 | 0 | 0 | 0 | -1.3526385257 | 0 | -1.8311820911999999
+257-MS-10EF-S-009 | 0 | 257-MS-10EF-CS31-6" | 6in | N 3 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y | -135.33501800000002 | -1697.083141 | -160.064008 | 0 | 0 | 0 | -2.3748831722 | 0 | -2.5057887546999997
+257-MS-10EF-S-010 | 0 | 257-MS-10EF-CS31-6" | 6in | E 3 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y | -153.76935600000002 | -972.523734 | -286.856284 | 0 | 0 | 0 | -1.7037410775 | 0 | -3.2734663345999997
+257-MS-10EF-S-011 | 0 | 257-MS-10EF-CS31-6" | 6in | E 3 U | 750degF | 6.000000000000001 | CS31 | Rigid +Y; Rigid GUI | -504.24658700000003 | -5651.2486420000005 | -565.1698260000001 | 0 | 0 | 0 | 0 | 0 | -4.3360653336 | Y
+257-MS-10EF-S-012 | 0 | 257-MS-10EF-CS31-6" | 6in | U | 750degF | 6.000000000000001 | CS31 | Rigid GUI; Rigid GUI | -1017.2607250000001 | 140.056007 | 842.359323 | 0 | 0 | 0 | 0 | 1.9872057975 | 0
+257-MS-10E-S-001 | 0 | 257-MS-10E-CS31-4" | 4in | N 3 D | 750degF | 4 | CS31 | Rigid GUI; Rigid +Y | -90.598027 | -680.496843 | -958.1359580000001 | 0 | 0 | 0 | -0.47854356549999993 | 0 | 0
+257-MS-10E-S-002 | 0 | 257-MS-10E-CS31-4" | 4in | N 3 D | 750degF | 4 | CS31 | Rigid Y | 39.116766 | -442.42411200000004 | -128.365939 | 0 | 0 | 0 | 0.8238193425 | 0 | -3.022048876
+257-MS-10E-S-003 | 0 | 257-MS-10E-CS31-4" | 4in | N 3 D | 750degF | 4 | CS31 | Rigid LIM; Rigid +Y | -364.640198 | -640.930459 | -188.614751 | 0 | 0 | 0 | 0 | 0 | -3.1786237636999997
+257-MS-10E-S-004 | 0 | 257-MS-10E-CS31-4" | 4in | W 3 D | 750degF | 4 | CS31 | Rigid +Y | 0 | -617.550323 | 0 | 0 | 0 | 0 | 3.1087024661 | 0.7769689234999999 | -2.1113003527
+253-MS-09F-S-001 | 0 | 253-MS-09F-CS31-3" | 3in | E | 750degF | 6.5 | CS31 | Rigid GUI w/gap; Rigid -Y w/gap; Rigid +Y | 471.649282 | -904.406607 | -189.28917800000002 | 0 | 0 | 0 | 0.1400000756 | 0 | -0.1364961367
+253-MS-09E-S-001 | 0 | 253-MS-09E-CS31-3" | 3in | E | 750degF | 6.5 | CS31 | Rigid +Y | 0 | -674.427 | 0 | 0 | 0 | 0 | -0.5380317866 | 1.2144101046 | -0.1087008461
+253-MS-05F-S-001 | 0 | 253-MS-05F-CS31-20" | 20in | S 3 D | 750degF | 6.5 | CS31 | Rigid GUI w/gap | 0 | 0 | 3473.973477 | 0 | 0 | 0 | 0.9101186017 | 2.2601980709 | 0.0700000378
+253-MS-05F-S-002 | 0 | 253-MS-05F-CS31-20" | 20in | D | 750degF | 6.5 | CS31 | Prog Design VSH | 0 | -20470 | 0 | 0 | 0 | 0 | -1.9 | 1.7 | -3.9
+253-MS-05E-S-001 | 1 | 253-MS-05E-CS31-20" | 20in | N 3 D | 750degF | 6.5 | CS31 | Rigid GUI w/gap | -654 | 1335 | -4966 | 0 | 0 | 0 | -1.0556304912999999 | 2.3522059946 | -0.0700000378
+253-MS-05E-S-002 | 0 | 253-MS-05E-CS31-20" | 20in | D | 750degF | 6.5 | CS31 | Prog Design VSH | 0 | -20136 | 0 | 0 | 0 | 0 | 1.8900797608 | 1.8739380198 | -3.9763013598
+257-MS-12EF-S-009 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | -403.307346 | -422.191302 | -126.342658 | 0 | 0 | 0 | -0.07 | 0 | -1.1162992125984252
+257-MS-12EF-S-008 | 0 | 257-MS-12EF-CS31-3" | 3in | S 3 U | 750degF | 4 | CS31 | Rigid +Y | -42.488901 | -471.874091 | -137.35829900000002 | 0 | 0 | 0 | -0.19771653543307088 | 0 | -1.028464566929134
+257-MS-12EF-S-011 | 0 | 257-MS-12EF-CS31-3" | 3in | N 3 U | 750degF | 4 | CS31 | Rigid +Y | -77.78391400000001 | -260.328822 | 55.078205000000004 | 0 | 0 | 0 | -0.1451968503937008 | 0 | -0.12909448818897637
+257-MS-12EF-S-010 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid LIM w/gap; Rigid +Y | -326.422668 | -444.22258400000004 | 1353.574989 | 0 | 0 | 0 | -0.07 | 0 | 0.07007874015748032
+257-MS-12EF-S-005 | 0 | 257-MS-12EF-CS31-3" | 3in | N 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | -186.141852 | -642.728931 | -1646.950734 | 0 | 0 | 0 | -0.2585826771653543 | 0 | -0.07
+257-MS-12EF-S-007 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | 384.42339000000004 | -392.06689600000004 | -117.125489 | 0 | 0 | 0 | 0.07 | 0 | -0.8513385826771653
+257-MS-12EF-S-016 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid Y | -82.954521 | -254.93340600000002 | -19.333574000000002 | 0 | 0 | 0 | 0.07 | 0 | -0.6604724409448819
+257-MS-12EF-S-003 | 0 | 257-MS-12EF-CS31-3" | 3in | U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid GUI w/gap | -1134.386214 | 0 | -86.776274 | 0 | 0 | 0 | -0.07 | 0.7711023622047244 | -0.07 | Y
+257-MS-12EF-S-013 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | 261.003249 | -486.71148500000004 | 145.901041 | 0 | 0 | 0 | 0.07 | 0 | 1.3496456692913386
+257-MS-12EF-S-014 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid +Y | 36.643867 | -234.026169 | 51.930879000000004 | 0 | 0 | 0 | 1.5100393700787402 | 0 | 2.300354330708662
+257-MS-12EF-S-015 | 0 | 257-MS-12EF-CS31-3" | 3in | S 3 U | 750degF | 4 | CS31 | Rigid +Y | 25.853035000000002 | -347.105096 | 24.953799 | 0 | 0 | 0 | 0.8104724409448819 | 0 | 0.8353937007874017
+257-MS-12EF-S-012 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | 396.563076 | -367.33790600000003 | -108.357938 | 0 | 0 | 0 | 0.07 | 0 | -0.4508661417322835
+257-MS-12EF-S-006 | 0 | 257-MS-12EF-CS31-3" | 3in | E 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | 1879.852858 | -304.841004 | -64.969801 | 0 | 0 | 0 | 0.07 | 0 | -1.9115748031496065 | Y
+257-MS-12EF-S-001 | 0 | 257-MS-12EF-CS31-3" | 3in | N 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | 373.18294000000003 | -1244.317815 | -395.66384 | 0 | 0 | 0 | 5.876732283464568 | 0 | -0.07
+257-MS-12EF-S-002 | 0 | 257-MS-12EF-CS31-3" | 3in | N 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | -8.093124 | -614.178188 | -45.636227000000005 | 0 | 0 | 0 | 7.002559055118111 | 2.1538582677165357 | -0.07
+257-MS-12EF-S-004 | 0 | 257-MS-12EF-CS31-3" | 3in | N 3 U | 750degF | 4 | CS31 | Rigid GUI w/gap; Rigid +Y | -297.197498 | -994.555016 | 370.485232 | 0 | 0 | 0 | -1.2108661417322835 | 0 | 0.07
+252-MS-06F-S-001 | 0 | 252-MS-06F-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | -253 | -852 | 39 | 0 | 0 | 0 | -2.296 | 0 | 0.3501
+252-MS-06F-S-002 | 0 | 252-MS-06F-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid GUI; Rigid +Y | 269 | -721 | 212 | 0 | 0 | 0 | 0 | 0 | 1.2151
+252-MS-06F-S-003 | 0 | 252-MS-06F-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid LIM; Rigid +Y | 218 | -697 | 679 | 0 | 0 | 0 | 0.7581 | 0 | 0
+255-MS-11F-S-001 | 0 | 255-MS-11F-CS31-3" | 3in | D | 750degF | 4 | CS31 | Rigid GUI; Rigid GUI | 366 | 0 | 352 | 0 | 0 | 0 | 0 | 0.7965 | 0 | Y
+255-MS-11F-S-002 | 0 | 255-MS-11F-CS31-3" | 3in | N 3 D | 750degF | 4 | CS31 | Rigid +Y | -93 | -1266 | 378 | 0 | 0 | 0 | -0.3654 | 0 | 1.4976
+255-MS-11F-S-003 | 0 | 255-MS-11F-CS31-3" | 3in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | -59 | -418 | 121 | 0 | 0 | 0 | -0.6296 | 0 | 1.1346
+255-MS-12F-S-001 | 0 | 255-MS-12F-CS31-3" | 3in | D | 750degF | 4 | CS31 | Rigid GUI; Rigid GUI | -302 | 0 | 414 | 0 | 0 | 0 | 0 | 1.1162 | 0 | Y
+255-MS-07F-S-001 | 0 | 255-MS-07F-CS31-4" | 4in | N 3 D | 750degF | 4 | CS31 | Rigid +Y | -319 | -2673 | -769 | 0 | 0 | 0 | -0.065 | 0 | -0.1506
+255-MS-07F-S-002 | 0 | 255-MS-07F-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid LIM; Rigid +Y; Rigid GUI | -3128 | -1358 | -2144 | 0 | 0 | 0 | 0 | 0 | 0
+255-MS-07F-S-003 | 0 | 255-MS-07F-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | 36 | -591 | -177 | 0 | 0 | 0 | 0.2122 | 0 | -1.0187
+255-MS-07F-S-004 | 0 | 255-MS-07F-CS31-4" | 4in | N 4.7 D | 750degF | 4 | CS31 | Rigid +Y | -62 | -625 | -184 | 0 | 0 | 0 | -0.2154 | 0 | -0.7295
+255-MS-07F-S-005 | 0 | 255-MS-07F-CS31-4" | 4in | N 3 D | 750degF | 4 | CS31 | Rigid +Y | 121 | -633 | 144 | 0 | 0 | 0 | 2.161 | 0 | 2.7722
+255-MS-07F-S-006 | 0 | 255-MS-07F-CS31-4" | 4in | N 2.4 D | 750degF | 4 | CS31 | Rigid +Y | 78 | -615 | -35 | 0 | 0 | 0 | 1.666 | 0.3202 | 2.27
+255-MS-13F-S-001 | 0 | 255-MS-13F-CS31-3" | 3in | U | 750degF | 4 | CS31 | Rigid GUI; Rigid GUI | -258 | 0 | 321 | 0 | 0 | 0 | 0 | 1.1572 | 0 | Y
+255-MS-08F-S-001 | 0 | 255-MS-08F-CS31-4" | 4in | N 3.37 D | 750degF | 4 | CS31 | Rigid +Y | 389 | -2294 | -579 | 0 | 0 | 0 | 0.3085 | 0 | -0.4448
+255-MS-09F-S-001 | 0 | 255-MS-09F-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | 0 | -2154 | 0 | 0 | 0 | 0 | 0.4537 | 0 | 1.1266
+255-MS-06F-S-001 | 0 | 255-MS-06F-CS31-4" | 4in | N 1.9 D | 750degF | 4 | CS31 | Rigid +Y | 141 | -558 | -150 | 0 | 0 | 0 | 0.4232 | 0 | -0.949
+255-MS-06F-S-002 | 0 | 255-MS-06F-CS31-4" | 4in | W 1.9 D | 750degF | 4 | CS31 | Rigid X; Rigid +Y | -5244 | 0 | 0 | 0 | 0 | 0 | 0 | 0.3209 | -0.2843 | Y
+255-MS-06F-S-003 | 0 | 255-MS-06F-CS31-4" | 4in | W 1.9 D | 750degF | 4 | CS31 | Prog Design VSH | 0 | -835 | 0 | 0 | 0 | 0 | 0.3242 | 0.4126 | -0.3192
+252-MS-06E-S-001 | 0 | 252-MS-06E-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | 319 | -1077 | 54 | 0 | 0 | 0 | 2.3167 | 0 | 0.3853
+252-MS-06E-S-002 | 0 | 252-MS-06E-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y; Rigid GUI | -463 | -1082 | 325 | 0 | 0 | 0 | 0 | 0 | 1.4071
+252-MS-06E-S-003 | 0 | 252-MS-06E-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y; Rigid LIM | -261 | -813 | 697 | 0 | 0 | 0 | -0.5627 | 0 | 0
+255-MS-11E-S-001 | 0 | 255-MS-11E-CS31-3" | 3in | D | 750degF | 4 | CS31 | Rigid GUI; Rigid GUI | -540 | 0 | 434 | 0 | 0 | 0 | 0 | 0.8234 | 0 | Y
+255-MS-11E-S-002 | 0 | 255-MS-11E-CS31-3" | 3in | S 3 D | 750degF | 4 | CS31 | Rigid +Y | 167 | -1518 | 455 | 0 | 0 | 0 | 0.6469 | 0 | 1.538
+255-MS-11E-S-003 | 0 | 255-MS-11E-CS31-3" | 3in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | 86 | -544 | -150 | 0 | 0 | 0 | 0.6749 | 0 | 1.1073
+255-MS-07E-S-001 | 0 | 255-MS-07E-CS31-4" | 4in | S 3 D | 750degF | 4 | CS31 | Rigid +Y | 394 | -2899 | -865 | 0 | 0 | 0 | 0.0654 | 0 | -0.1416
+255-MS-07E-S-002 | 0 | 255-MS-07E-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid LIM; Rigid +Y; Rigid GUI | 3109 | -1379 | -2507 | 0 | 0 | 0 | 0 | 0 | 0
+255-MS-07E-S-003 | 0 | 255-MS-07E-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | -58 | -757 | -213 | 0 | 0 | 0 | -0.2906 | 0 | -1.0012
+255-MS-07E-S-004 | 0 | 255-MS-07E-CS31-4" | 4in | S 3 D | 750degF | 4 | CS31 | Rigid +Y | 190 | -848 | -253 | 0 | 0 | 0 | 0.514 | 0 | -0.9661
+255-MS-07E-S-005 | 0 | 255-MS-07E-CS31-4" | 4in | S 3 D | 750degF | 4 | CS31 | Rigid +Y | -201 | -873 | 220 | 0 | 0 | 0 | -2.0066 | 0 | 2.7772
+255-MS-07E-S-006 | 0 | 255-MS-07E-CS31-4" | 4in | S 3.6 D | 750degF | 4 | CS31 | Rigid +Y | -71 | -809 | -38 | 0 | 0 | 0 | -1.4038 | 0.286 | 2.0219
+255-MS-12E-S-001 | 0 | 255-MS-12E-CS31-3" | 3in | D | 750degF | 4 | CS31 | Rigid GUI; Rigid GUI | 482 | 0 | 520 | 0 | 0 | 0 | 0 | 1.1263 | 0 | Y
+255-MS-13E-S-001 | 0 | 255-MS-13E-CS31-3" | 3in | D | 750degF | 4 | CS31 | Rigid GUI; Rigid GUI | 431 | 0 | 427 | 0 | 0 | 0 | 0 | 1.1602 | 0 | Y
+255-MS-08E-S-001 | 0 | 255-MS-08E-CS31-4" | 4in | S 3.37 D | 750degF | 4 | CS31 | Rigid +Y | -555 | -2974 | -729 | 0 | 0 | 0 | -0.3444 | 0 | -0.4324
+255-MS-09E-S-001 | 0 | 255-MS-09E-CS31-4" | 4in | E 3 D | 750degF | 4 | CS31 | Rigid +Y | -295 | -2711 | 788 | 0 | 0 | 0 | -0.2953 | 0 | 0.9641
+255-MS-06E-S-001 | 0 | 255-MS-06E-CS31-4" | 4in | S 1.9 D | 750degF | 4 | CS31 | Rigid +Y | -33 | -504 | -38 | 0 | 0 | 0 | -0.5014 | 0 | -0.5499
+255-MS-06E-S-002 | 0 | 255-MS-06E-CS31-4" | 4in | S 1.9 D | 750degF | 4 | CS31 | Rigid LIM; Rigid +Y | 4858 | 0 | 0 | 0 | 0 | 0 | 0 | 0.1519 | -0.5839
+255-MS-06E-S-003 | 0 | 255-MS-06E-CS31-4" | 4in | W 1.9 D | 750degF | 4 | CS31 | Prog Design VSH | 0 | -1344 | 0 | 0 | 0 | 0 | -0.0599 | 0.4069 | -0.3173
+252-MS-04F-S-001 | 0 | 252-MS-04F-SS37-24" | 24in | D | 750degF | 7 | SS37 | Prog Design VSH | 0 | -15427 | 0 | 0 | 0 | 0 | -2.4 | 0.1 | 0.4
+252-MS-03F-S-001 | 0 | 252-MS-03F-SS37-24'' | 24in | D | 750degF | 7 | SS37 | Rigid +Y | 1414 | -27684 | -2466 | 0 | 0 | 0 | -2.6 | 0 | -2.5
+
+[sheet Typical Supports]
+ABEINSA Abeinsa Engineering | ABENGOA SOLAR | Document status: Critical: | Revision | Date | Purpose | Reason for revision | Issued by | Reviewed by | Approved by | Notes: 1.- Axis reference: X = South ; Y = Elevation ; Z = West 2.-Orientation references: N = North; S = South; E = East; W = West; U =Up; D =Down 3.-For different values on spring definition choose always equal or lower spring rates, 4.-The modification by vendor of any design parameter should be approved by EPC responsible
+ABENER TEYMA SOLANA
+Solana project | 4521-LIS-AEE-75-63-0001 Molten Salt System supports list. Zone TES 6 | 4 | 2018-08-31 00:00:00 | IFC | Drawings generated | JRG | HR | IGA
+3 | 07/31/2017 | IFP | AY comments | AGR | JNG | JMRL
+2 | 04/21/2017 | IFP | Updated | AGR | JNG | JMRL
+1 | 2017-12-04 00:00:00 | IFC | Updated | AGR | JNG | JMRL
+0 | 2017/15/03 | IFC | First emission | AGR | JNG | JMRL
+Typical supports
+TES 6 | Support Name | Document Number | Typical | Support Code | Description | Comments | AEPC code
+251-MS-01E-S-003_P03 | P03 | P03-34-28.81-19.48-17.75-0-N-T | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+251-MS-01E-S-003_P11 | P11 | P11-17.75 | Round bar
+251-MS-01F-S-002_P02 | P02 | P02-34-28.81-19.48-17.75-0-N-D | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-01F-S-003_P02 | P02 | P02-34-28.81-19.48-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-01F-S-003_P11 | P11 | P11-17.75 | Round bar
+251-MS-01F-S-004_P02 | P02 | P02-34-28.81-19.48-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-01F-S-004_P11 | P11 | P11-17.75 | Round bar
+251-MS-02E-S-001_P02 | P02 | P02-34-28.81-19.48-17.75-0-N-D | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-02F-S-001_P02 | P02 | P02-34-28.81-19.48-17.75-0-N-D | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-07E-S-001_P02 | P02 | P02-11.5-15.23-13.58-9.02-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-07E-S-001_P11 | P11 | P11-9.01 | Round bar
+251-MS-07F-S-001_P02 | P02 | P02-11.5-15.23-13.58-9.02-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-07F-S-001_P11 | P11 | P11-9.01 | Round bar
+252-MS-03E-S-001_S01 | S01 | S01-80.7-B-Y-N | Variable spring | Type1
+252-MS-03E-S-001_T01 | T01 | T01-24-14-25-20-E-Y | Trunnion support | Type 2
+252-MS-03E-S-002_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-002_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-03E-S-003_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-003_P11 | P11 | P11-17.75 | Round bar
+252-MS-03E-S-004_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-004_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-03E-S-005_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-005_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-03E-S-006_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-006_P11 | P11 | P11-17.75 | Round bar
+252-MS-03E-S-007_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-007_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-03E-S-008_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-008_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-03E-S-010_P03 | P03 | P03-38-29.80-19.68-17.75-0-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-010_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-03E-S-011_P03 | P03 | P03-38-29.80-19.68-17.75-0-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-011_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-03F-S-001_T04 | 4521-PLN-DOT-75-63-0353 | T04 | T04-24-14-27-B-Y | Trunnion Base to Elbow
+Yes | 252-MS-03F-S-002_P02 | 4521-PLN-DOT-75-63-0272 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-002_P11 | 4521-PLN-DOT-75-63-0272 | P11 | P11-17.75 | Round bar
+Yes | 252-MS-03F-S-003_G07 | 4521-PLN-DOT-75-63-0273 | G07 | G07-59.61-0-A | Guide for Triple Shoe
+Yes | 252-MS-03F-S-003_P02 | 4521-PLN-DOT-75-63-0273 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-003_P11 | 4521-PLN-DOT-75-63-0273 | P11 | P11-17.75 | Round bar
+Yes | 252-MS-03F-S-004_G07 | 4521-PLN-DOT-75-63-0274 | G07 | G07-59.61-0-A | Guide for Triple Shoe
+Yes | 252-MS-03F-S-004_P02 | 4521-PLN-DOT-75-63-0274 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-004_P13 | 4521-PLN-DOT-75-63-0274 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-03F-S-005_P02 | 4521-PLN-DOT-75-63-0275 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-005_P13 | 4521-PLN-DOT-75-63-0275 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-03F-S-006_P02 | 4521-PLN-DOT-75-63-0276 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-006_P11 | 4521-PLN-DOT-75-63-0276 | P11 | P11-17.75 | Round bar
+Yes | 252-MS-03F-S-007_P02 | 4521-PLN-DOT-75-63-0277 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-007_P13 | 4521-PLN-DOT-75-63-0277 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-03F-S-008_P02 | 4521-PLN-DOT-75-63-0278 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-008_P13 | 4521-PLN-DOT-75-63-0278 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-03F-S-010_L01 | 4521-PLN-DOT-75-63-0279 | L01 | L01-4-0-D | Limit from shoe base
+252-MS-04E-S-002_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-002_P11 | P11 | P11-17.75 | Round bar
+252-MS-04E-S-003_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-003_P11 | P11 | P11-17.75 | Round bar
+252-MS-04E-S-004_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-004_P11 | P11 | P11-17.75 | Round bar
+252-MS-04E-S-005_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-005_P11 | P11 | P11-17.75 | Round bar
+252-MS-04E-S-005_P11 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-04E-S-006_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-006_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-04E-S-007_P02 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-007_P11 | P11 | P11-17.75 | Round bar
+252-MS-04E-S-008_P03 | P03 | P03-38-29.80-19.68-17.75-0-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-008_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-03F-S-010_P03 | 4521-PLN-DOT-75-63-0279 | P03 | P03-38-29.80-19.68-17.75-0-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-010_P13 | 4521-PLN-DOT-75-63-0279 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-03F-S-011_L01 | 4521-PLN-DOT-75-63-0280 | L01 | L01-4-0.2-E | Limit from shoe base
+Yes | 252-MS-03F-S-011_P03 | 4521-PLN-DOT-75-63-0280 | P03 | P03-38-29.80-19.68-17.75-0-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-03F-S-011_P13 | 4521-PLN-DOT-75-63-0280 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-04F-S-001_S01 | 4521-PLN-DOT-75-63-0352 | S01 | S01-38-10.6-D-N-Y | Variable Spring
+Yes | 252-MS-04F-S-002_G07 | 4521-PLN-DOT-75-63-0281 | G07 | G07-45-0-B | Guide for Triple Shoe
+Yes | 252-MS-04F-S-002_P02 | 4521-PLN-DOT-75-63-0281 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-04F-S-002_P11 | 4521-PLN-DOT-75-63-0281 | P11 | P11-17.75 | Round bar
+Yes | 252-MS-04F-S-003_P02 | 4521-PLN-DOT-75-63-0282 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-04F-S-003_P11 | 4521-PLN-DOT-75-63-0282 | P11 | P11-17.75 | Round bar
+Yes | 252-MS-04F-S-004_P02 | 4521-PLN-DOT-75-63-0283 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-04F-S-004_P11 | 4521-PLN-DOT-75-63-0283 | P11 | P11-17.75 | Round bar
+Yes | 252-MS-04F-S-005_P02 | 4521-PLN-DOT-75-63-0284 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-04F-S-005_P13 | 4521-PLN-DOT-75-63-0284 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-04F-S-006_P02 | 4521-PLN-DOT-75-63-0285 | P02 | P02-38-29.80-19.68-17.75-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-04F-S-006_P13 | 4521-PLN-DOT-75-63-0285 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-04F-S-007_G07 | G07 | G07-45,9-0-A | Guide for Triple Shoe
+Yes | 252-MS-04F-S-007_P02 | 4521-PLN-DOT-75-63-0286 | P02 | P02-38-29.80-19.68-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-04F-S-007_P13 | 4521-PLN-DOT-75-63-0286 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-04F-S-008_P03 | 4521-PLN-DOT-75-63-0287 | P03 | P03-38-29.80-19.68-17.75-0-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-04F-S-008_P11 | 4521-PLN-DOT-75-63-0287 | P11 | P11-17.75 | Round bar
+Yes | 252-MS-04F-S-009_L03 | 4521-PLN-DOT-75-63-0313 | L03 | L03-9.84-0-90-D-B-N | Limit From Longitudinal Beam
+Yes | 252-MS-04F-S-009_P03 | 4521-PLN-DOT-75-63-0313 | P03 | P03-38-29.80-19.68-17.75-270-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+253-MS-01E-S-002_P03 | P03 | P03-34-27.79-17.71-16.73-0-N-T | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+253-MS-01E-S-002_P11 | P11 | P11-16.73 | Round bar
+253-MS-01E-S-003_P02 | P02 | P02-34-28.82-19.49-17.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+253-MS-01E-S-003_P11 | P11 | P11-16.73 | Round bar
+253-MS-01E-S-003_G07 | G07 | G07-40-0,08-D | Guide for Triple Shoe
+253-MS-01E-S-003_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 252-MS-04F-S-009_S01 | 4521-PLN-DOT-75-63-0313 | S01 | S01-38-75.63-B-N-Y | Variable Spring | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-06F-S-001_E08 | 4521-PLN-DOT-75-63-0339 | E08 | E08-35-22-11-B-B-B-Y | T Support (H Profiles)
+Yes | 252-MS-06F-S-001_P02 | 4521-PLN-DOT-75-63-0339 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-06F-S-001_P11 | 4521-PLN-DOT-75-63-0339 | P11 | P11-12 | Round bar
+Yes | 252-MS-06F-S-002_E08 | 4521-PLN-DOT-75-63-0336 | E08 | E08-20-46-23-B-C-B-Y | T Support (H Profiles)
+253-MS-05E-S-001_P02 | P02 | P02-34-27.79-17.71-16.73-90-N-D | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+253-MS-05F-S-001_P02 | P02 | P02-34-27.79-17.71-16.73-0-N-D | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+253-MS-05F-S-002_S01 | S01 | S01-34-40-D-N-N | Variable Spring | Clamp diameter= Øpipe+insulation
+253-MS-09E-S-001_P02 | P02 | P02-17.5-20.07-15.74-11.81-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+253-MS-09E-S-001_P11 | P11 | P11-11.81 | Round bar
+253-MS-09F-S-001_P02 | P02 | P02-17.5-20.07-15.74-11.81-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+253-MS-09F-S-001_P11 | P11 | P11-11.81 | Round bar
+Yes | 252-MS-06F-S-002_G07 | 4521-PLN-DOT-75-63-0336 | G07 | G07-25-0-A | Guide for Triple Shoe
+Yes | 252-MS-06F-S-002_P02 | 4521-PLN-DOT-75-63-0336 | P02 | P02-12.5-16.22-13.58-10-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-06F-S-002_P11 | 4521-PLN-DOT-75-63-0336 | P11 | P11-10 | Round bar
+Yes | 252-MS-06F-S-003_L03 | 4521-PLN-DOT-75-63-0335 | L03 | L03-6-0-A | Limit From Longitudinal Beam
+Yes | 252-MS-06F-S-003_P02 | 4521-PLN-DOT-75-63-0335 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-06F-S-003_P11 | 4521-PLN-DOT-75-63-0335 | P11 | P11-12 | Round bar
+Yes | 252-MS-13E-S-002_G07 | 4521-PLN-DOT-75-63-0288 | G07 | G07-61.65-0-E | Guide for Triple Shoe
+Yes | 252-MS-13E-S-002_P02 | 4521-PLN-DOT-75-63-0288 | P02 | P02-38-30.82-19.68-19.29-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-13E-S-002_P11 | 4521-PLN-DOT-75-63-0288 | P11 | P11-19.29 | Round bar
+Yes | 252-MS-13F-S-001_G07 | 4521-PLN-DOT-75-63-0289 | G07 | G07-61.65-0-E | Guide for Triple Shoe
+Yes | 252-MS-13F-S-001_P02 | 4521-PLN-DOT-75-63-0289 | P02 | P02-38-30.82-19.68-19.29-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-13F-S-001_P11 | 4521-PLN-DOT-75-63-0289 | P11 | P11-19.29 | Round bar
+Yes | 252-MS-14E-S-001_G01 | 4521-PLN-DOT-75-63-0351 | G01 | G01-4-0.07-E | Guide for Shoe
+Yes | 252-MS-14E-S-002_G07 | 4521-PLN-DOT-75-63-0290 | G07 | G07-61.65-0.07-B | Guide for Triple Shoe
+Yes | 252-MS-14E-S-002_P02 | 4521-PLN-DOT-75-63-0290 | P02 | P02-38-30.82-19.68-19.29-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-14E-S-002_P11 | 4521-PLN-DOT-75-63-0290 | P11 | P11-19.29 | Round bar
+Yes | 252-MS-14E-S-003_P02 | 4521-PLN-DOT-75-63-0291 | P02 | P02-38-30.82-19.68-19.29-0-N-Q | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-14F-S-001_P02 | 4521-PLN-DOT-75-63-0292 | P02 | P02-38-30.82-19.68-19.29-0-N-Q | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 252-MS-14F-S-002_G07 | 4521-PLN-DOT-75-63-0293 | G07 | G07-61.65-0.07-A | Guide for Triple Shoe
+Yes | 252-MS-14F-S-002_P02 | 4521-PLN-DOT-75-63-0293 | P02 | P02-38-30.82-19.68-19.29-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+257-MS-10E-S-001_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+257-MS-10E-S-001_P11 | P11 | P11-10 | Round bar
+257-MS-10E-S-002_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+257-MS-10E-S-002_P11 | P11 | P11-10 | Round bar
+257-MS-10E-S-003_P03 | P03 | P03-12.5-16.22-13.58-10-0-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+257-MS-10E-S-003_P11 | P11 | P11-10 | Round bar
+257-MS-10E-S-004_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+257-MS-10E-S-004_P11 | P11 | P11-10 | Round bar
+Yes | 252-MS-14F-S-002_P11 | 4521-PLN-DOT-75-63-0293 | P11 | P11-19.29 | Round bar
+Yes | 252-MS-14F-S-003_G01 | 4521-PLN-DOT-75-63-0350 | G01 | G01-4-0.07-E | Guide for Shoe
+Yes | 253-MS-01F-S-002_P02 | P02 | P02-34-27.79-12-16.73-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation . Attention: Shoe with special size
+Yes | 253-MS-01F-S-002_S01 | 4521-PLN-DOT-75-63-0312 | S01 | S01-34-107.32-B-Y-N | Variable Spring | Clamp diameter= Øpipe+insulation
+Yes | 253-MS-01F-S-003_G04 | 4521-PLN-DOT-75-63-0294 | G04 | G04-0.2-1.2 | Anti-Lift Guide
+Yes | 253-MS-01F-S-003_G07 | 4521-PLN-DOT-75-63-0294 | G07 | G07-55.6-0.2-A | Guide for Triple Shoe
+Yes | 253-MS-01F-S-003_L01 | 4521-PLN-DOT-75-63-0294 | L01 | L01-5.90-0.07-D | Limit from shoe base
+Yes | 253-MS-01F-S-003_P03 | 4521-PLN-DOT-75-63-0294 | P03 | P03-34-27.79-17.71-16.73-0-N-T | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+Yes | 253-MS-01F-S-003_P11 | 4521-PLN-DOT-75-63-0294 | P11 | P11-16.73 | Round bar
+Yes | 253-MS-01F-S-004_G01 | 4521-PLN-DOT-75-63-0295 | G01 | G01-4-0.07-E | Guide for shoe
+Yes | 253-MS-01F-S-004_P02 | 4521-PLN-DOT-75-63-0295 | P02 | P02-34-27.79-17.71-16.73-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 253-MS-01F-S-004_P11 | 4521-PLN-DOT-75-63-0295 | P11 | P11-16.73 | Round bar
+Yes | 255-MS-06F-S-001_P02 | 4521-PLN-DOT-75-63-0340 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-06F-S-001_P11 | 4521-PLN-DOT-75-63-0340 | P11 | P11-12 | Round bar
+252-MS-04E-S-009_P03 | P03 | P03-38-29.80-19.68-17.75-90-N-S | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-009_S01 | S01 | S01-38-75,71-B-N-Y | Variable Spring | Clamp diameter= Øpipe+insulation
+251-MS-02F-S-002_S04 | S04 | S04-34-92.76-C-C-N-Y | Double Constant Spring | Clamp diameter= Øpipe+insulation
+251-MS-01F-S-001_S03 | S03 | S03-34-123.11-B-Y-N | Constant Spring | Clamp diameter= Øpipe+insulation
+251-MS-01E-S-004_P02 | P02 | PP02-34-23.62-19.48-17.75-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-01E-S-004_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+251-MS-01E-S-004_G07 | G07 | G07-40-0.08-E | Guide for Triple Shoe
+251-MS-01E-S-004_S01 | S01 | S01-34-17.32-D-N-N | Variable Spring | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-06F-S-002_R02 | 4521-PLN-DOT-75-63-0349 | R02 | R02-12-40-90-Y | Mechanical Restriction
+253-MS-05E-S-002_S01 | S01 | S01-34-31.1-D-N-N | Variable Spring | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-06F-S-003_E12 | 4521-PLN-DOT-75-63-0348 | E12 | E12-52-20-15-B-B-A | Excentric Support (H Profiles)
+Yes | 255-MS-06F-S-003_S01 | 4521-PLN-DOT-75-63-0348 | S01 | S01-12-37-B-N-Y | Variable Spring
+Yes | 255-MS-07F-S-001_E08 | 4521-PLN-DOT-75-63-0341 | E08 | E08-63-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 255-MS-07F-S-001_P02 | 4521-PLN-DOT-75-63-0341 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-07F-S-001_P11 | 4521-PLN-DOT-75-63-0341 | P11 | P11-12 | Round bar
+Yes | 255-MS-07F-S-002_E08 | 4521-PLN-DOT-75-63-0334 | E08 | E08-45-44-22-B-F-B-Y | T Support (H Profiles)
+Yes | 255-MS-07F-S-002_G07 | 4521-PLN-DOT-75-63-0334 | G07 | G07-25-0-A | Guide for Triple Shoe
+Yes | 255-MS-07F-S-002_L01 | 4521-PLN-DOT-75-63-0334 | L01 | L01-4-0-C | Limit from shoe base
+Yes | 255-MS-07F-S-002_P02 | 4521-PLN-DOT-75-63-0334 | P02 | P02-12.5-16.22-19,68-10-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-07F-S-002_P11 | 4521-PLN-DOT-75-63-0334 | P11 | P11-12 | Round bar
+Yes | 255-MS-07F-S-003_E08 | 4521-PLN-DOT-75-63-0342 | E08 | E08-30-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 255-MS-07F-S-003_P02 | 4521-PLN-DOT-75-63-0342 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-07F-S-003_P11 | 4521-PLN-DOT-75-63-0342 | P11 | P11-12 | Round bar
+Yes | 255-MS-07F-S-004_E08 | 4521-PLN-DOT-75-63-0343 | E08 | E08-20-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 255-MS-07F-S-004_P02 | 4521-PLN-DOT-75-63-0343 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-07F-S-004_P11 | 4521-PLN-DOT-75-63-0343 | P11 | P11-12 | Round bar
+Yes | 255-MS-07F-S-005_E07 | 4521-PLN-DOT-75-63-0344 | E07 | E07-9-15-10-2/5-B-E-N | Column
+Yes | 255-MS-07F-S-005_P02 | 4521-PLN-DOT-75-63-0344 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-07F-S-005_P11 | 4521-PLN-DOT-75-63-0344 | P11 | P11-12 | Round bar
+Yes | 255-MS-07F-S-006_P02 | 4521-PLN-DOT-75-63-0345 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-07F-S-006_P11 | 4521-PLN-DOT-75-63-0345 | P11 | P11-12 | Round bar
+Yes | 255-MS-08F-S-001_E08 | 4521-PLN-DOT-75-63-0346 | E08 | E08-45-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 255-MS-08F-S-001_P02 | 4521-PLN-DOT-75-63-0346 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-08F-S-001_P11 | 4521-PLN-DOT-75-63-0346 | P11 | P11-12 | Round bar
+Yes | 255-MS-09F-S-001_P02 | 4521-PLN-DOT-75-63-0347 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-09F-S-001_P11 | 4521-PLN-DOT-75-63-0347 | P11 | P11-12 | Round bar
+Yes | 255-MS-11F-S-001_G03 | 4521-PLN-DOT-75-63-0333 | G03 | G03-0-0 | Anti-Lift Guide
+Yes | 255-MS-11F-S-001_P02 | 4521-PLN-DOT-75-63-0333 | P02 | P02-11.5-12-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-11F-S-002_E08 | 4521-PLN-DOT-75-63-0337 | E08 | E08-70-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 255-MS-11F-S-002_P02 | 4521-PLN-DOT-75-63-0337 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-11F-S-002_P11 | 4521-PLN-DOT-75-63-0337 | P11 | P11-12 | Round bar
+Yes | 255-MS-11F-S-003_E08 | 4521-PLN-DOT-75-63-0338 | E08 | E08-63-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 255-MS-11F-S-003_P02 | 4521-PLN-DOT-75-63-0338 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-11F-S-003_P11 | 4521-PLN-DOT-75-63-0338 | P11 | P11-12 | Round bar
+Yes | 255-MS-12F-S-001_G03 | 4521-PLN-DOT-75-63-0331 | G03 | G03-0-0 | Anti-Lift Guide
+Yes | 255-MS-12F-S-001_P02 | 4521-PLN-DOT-75-63-0331 | P02 | P02-11.5-12-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 255-MS-13F-S-001_G03 | 4521-PLN-DOT-75-63-0332 | G03 | G03-0-0 | Anti-Lift Guide
+Yes | 255-MS-13F-S-001_P02 | 4521-PLN-DOT-75-63-0332 | P02 | P02-11.5-12-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-001_G07 | 4521-PLN-DOT-75-63-0296 | G07 | G07-29,1-0-A | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-001_P02 | 4521-PLN-DOT-75-63-0296 | P02 | P02-18.62-15.75-15.55-12.99-90-N-D | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-002_E12 | 4521-PLN-DOT-75-63-0314 | E12 | E12-100-42.2-20.71-B-B-B | Excentric Support (H Profiles)
+Yes | 257-MS-10EF-S-002_S01 | 4521-PLN-DOT-75-63-0314 | S01 | S01-18.62-64.96-B-N-Y | Variable Spring | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-003_P02 | 4521-PLN-DOT-75-63-0297 | P02 | P02-18.62-21.81-15.55-12.99-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-003_P11 | 4521-PLN-DOT-75-63-0297 | P11 | P11-12.99 | Round bar
+Yes | 257-MS-10EF-S-004_E08 | 4521-PLN-DOT-75-63-0298 | E08 | E08-26-24.01-12-B-E-B-N | T Support (H Profiles)
+Yes | 257-MS-10EF-S-004_P02 | 4521-PLN-DOT-75-63-0298 | P02 | P02-18.62-21.81-15.55-12.99-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-004_P11 | 4521-PLN-DOT-75-63-0298 | P11 | P11-12.99 | Round bar
+Yes | 257-MS-10EF-S-005_E08 | 4521-PLN-DOT-75-63-0299 | E08 | E08-37-55.12-25.92-B-G-B-N | T Support (H Profiles)
+Yes | 257-MS-10EF-S-005_G07 | 4521-PLN-DOT-75-63-0299 | G07 | G07-43,6-0-A | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-005_P02 | 4521-PLN-DOT-75-63-0299 | P02 | P02-18.62-21.81-15.55-12.99-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-005_P11 | 4521-PLN-DOT-75-63-0299 | P11 | P11-12.99 | Round bar
+Yes | 257-MS-10EF-S-006_E08 | 4521-PLN-DOT-75-63-0300 | E08 | E08-45.55-24.02-12.01-B-E-B-N | T Support (H Profiles)
+Yes | 257-MS-10EF-S-006_P02 | 4521-PLN-DOT-75-63-0300 | P02 | P02-18.62-21.81-15.55-12.99-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-006_P13 | 4521-PLN-DOT-75-63-0300 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+253-MS-05E-S-001_G07 | G07 | G07-55.59-0.07-B | Guide for Triple Shoe
+253-MS-09F-S-001_G07 | G07 | G07-40.16-0.14-A | Guide for Triple Shoe
+251-MS-01E-S-003_G07 | G07 | G07-57.64-0.14-B | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-007_G07 | 4521-PLN-DOT-75-63-0301 | G07 | G07-25-0-A | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-007_P02 | 4521-PLN-DOT-75-63-0301 | P02 | P02-18.62-15.75-15.55-12.99-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-007_P11 | 4521-PLN-DOT-75-63-0301 | P11 | P11-12.99 | Round bar
+Yes | 257-MS-10EF-S-008_E16 | 4521-PLN-DOT-75-63-0302 | E16 | E16-57.06-28.53-64.31-B-F-A | Frame (H Profiles)
+Yes | 257-MS-10EF-S-008_P02 | 4521-PLN-DOT-75-63-0302 | P02 | P02-18.62-21.81-15.55-12.99-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+257-MS-10E-S-001_G07 | G07 | G07-32.44-0-A | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-008_P11 | 4521-PLN-DOT-75-63-0302 | P11 | P11-12.99 | Round bar
+Yes | 257-MS-10EF-S-009_P02 | 4521-PLN-DOT-75-63-0303 | P02 | P02-18.62-21.81-15.55-12.99-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-009_P13 | 4521-PLN-DOT-75-63-0303 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 257-MS-10EF-S-010_E08 | 4521-PLN-DOT-75-63-0304 | E08 | E08-89.09-48-24-B-G-B-N | T Support (H Profiles)
+251-MS-02E-S-001_G07 | G07 | G07-57.63-0-B | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-010_P02 | 4521-PLN-DOT-75-63-0304 | P02 | P02-18.62-21.81-15.55-12.99-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-07F-S-001_G07 | G07 | G07-30.47-0.07-A | Guide for Triple Shoe
+251-MS-02F-S-001_G07 | G07 | G07-57.63-0-B | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-010_P11 | 4521-PLN-DOT-75-63-0304 | P11 | P11-12.99 | Round bar
+252-MS-04E-S-002_G07 | G07 | G07-45-0-B | Guide for Triple Shoe
+253-MS-01E-S-002_G07 | G07 | G07-55.6-0.2-B | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-011_G07 | 4521-PLN-DOT-75-63-0305 | G07 | G07-45,3-0-A | Guide for Triple Shoe
+252-MS-03E-S-004_G07 | G07 | G07-59.61-0-B | Guide for Triple Shoe
+Yes | 257-MS-10EF-S-011_P02 | 4521-PLN-DOT-75-63-0305 | P02 | P03-18.62-21.81-15.55-12.99-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10EF-S-011_P13 | 4521-PLN-DOT-75-63-0305 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+Yes | 257-MS-10EF-S-012_P03 | 4521-PLN-DOT-75-63-0306 | P03 | P03-18.62-21.81-15.55-12.99-0-N-D | Shoe rigid insulation with stop lug | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10F-S-001_P02 | 4521-PLN-DOT-75-63-0307 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10F-S-001_P11 | 4521-PLN-DOT-75-63-0307 | P11 | P11-10 | Round bar
+Yes | 257-MS-10F-S-002_G07 | 4521-PLN-DOT-75-63-0308 | G07 | G07-32.44-0-A | Guide for Triple Shoe
+Yes | 257-MS-10F-S-002_P02 | 4521-PLN-DOT-75-63-0308 | P02 | P02-12.5-16.22-13.58-10-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-01F-S-004_G07 | G07 | G07-57.64-0.07-E | Guide for Triple Shoe
+Yes | 257-MS-10F-S-002_P11 | 4521-PLN-DOT-75-63-0308 | P11 | P11-10 | Round bar
+Yes | 257-MS-10F-S-003_P02 | 4521-PLN-DOT-75-63-0309 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-003_G07 | G07 | G07-59.61-0-B | Guide for Triple Shoe
+Yes | 257-MS-10F-S-003_P11 | 4521-PLN-DOT-75-63-0309 | P11 | P11-10 | Round bar
+Yes | 257-MS-10F-S-004_G07 | 4521-PLN-DOT-75-63-0310 | G07 | G07-32.44-0-A | Guide for Triple Shoe
+Yes | 257-MS-10F-S-004_P02 | 4521-PLN-DOT-75-63-0310 | P02 | P02-12.5-16.22-13.58-10-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-10F-S-004_P11 | 4521-PLN-DOT-75-63-0310 | P11 | P11-10 | Round bar
+Yes | 257-MS-10F-S-005_P02 | 4521-PLN-DOT-75-63-0311 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+251-MS-01F-S-002_G08 | G08 | G08-62.24-57.63-0.07-E-D | Guide for Triple Shoe
+251-MS-01F-S-003_G08 | G08 | G08-62.24-57.76-0.07-E-D | Guide for Triple Shoe
+Yes | 257-MS-10F-S-005_P11 | 4521-PLN-DOT-75-63-0311 | P11 | P11-10 | Round bar
+252-MS-04E-S-009_L03 | L03 | L03-9.84-0-90-D-B-N | Limit From Longitudinal Beam
+Yes | 257-MS-12EF-S-001_G07 | 4521-PLN-DOT-75-63-0329 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-001_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-001_P02 | 4521-PLN-DOT-75-63-0329 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-03E-S-010_L01 | L01 | L01-4-0.2-E | Limit from shoe base
+252-MS-03E-S-011_L01 | L01 | L01-4-0.2-E | Limit from shoe base
+251-MS-01E-S-003_G04 | G04 | G04-0.14-1.2 | Anti-Lift Guide
+251-MS-07F-S-001_G03 | G03 | G03-0.07-0.9 | Anti-Lift Guide
+251-MS-01F-S-003_G04 | G04 | G04-0.07-1 | Anti-Lift Guide
+253-MS-01E-S-002_G04 | G04 | G04-0.2-1 | Anti-Lift Guide
+Yes | 257-MS-12EF-S-001_P11 | 4521-PLN-DOT-75-63-0329 | P11 | P11-9.76 | Round bar
+Yes | 257-MS-12EF-S-002_G07 | 4521-PLN-DOT-75-63-0328 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-002_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+255-MS-11E-S-001_G03 | G03 | G03-0-0 | Anti-Lift Guide
+Yes | 257-MS-12EF-S-002_P02 | 4521-PLN-DOT-75-63-0328 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-12E-S-001_G03 | G03 | G03-0-0 | Anti-Lift Guide
+255-MS-13E-S-001_G03 | G03 | G03-0-0 | Anti-Lift Guide
+252-MS-06E-S-002_G07 | G07 | G07-25-0-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-002_P11 | 4521-PLN-DOT-75-63-0328 | P11 | P11-9.76 | Round bar
+255-MS-07E-S-002_G07 | G07 | G07-25-0-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-003_P02 | 4521-PLN-DOT-75-63-0330 | P02 | P02-11.5-16.22-13.38-9.76-0-N-Q | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-002_L01 | L01 | L01-4-0-C | Limit from shoe base
+Yes | 257-MS-12EF-S-004_G07 | 4521-PLN-DOT-75-63-0327 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-004_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+255-MS-06E-S-002_L03 | L03 | L03-6-0-A | Limit From Longitudinal Beam
+252-MS-06E-S-003_L03 | L03 | L03-6-3-A | Limit From Longitudinal Beam
+255-MS-11E-S-001_P02 | P02 | P02-11.5-12-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-004_P02 | 4521-PLN-DOT-75-63-0327 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-12E-S-001_P02 | P02 | P02-11.5-12-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-004_P11 | 4521-PLN-DOT-75-63-0327 | P11 | P11-9.76 | Round bar
+255-MS-13E-S-001_P02 | P02 | P02-11.5-12-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-005_G07 | 4521-PLN-DOT-75-63-0323 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+255-MS-11E-S-002_P02 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-11E-S-003_P02 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-005_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-005_P02 | 4521-PLN-DOT-75-63-0323 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-06E-S-002_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-005_P11 | 4521-PLN-DOT-75-63-0323 | P11 | P11-9.76 | Round bar
+255-MS-07E-S-002_P02 | P02 | P02-12.5-16.22-19,68-10-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-006_G07 | 4521-PLN-DOT-75-63-0322 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+252-MS-06E-S-001_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-06E-S-003_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-006_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-006_P02 | 4521-PLN-DOT-75-63-0322 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-06E-S-001_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-06E-S-002_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-006_P11 | 4521-PLN-DOT-75-63-0322 | P11 | P11-9.76 | Round bar
+255-MS-07E-S-001_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-003_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-004_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-005_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-006_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-007_E08 | 4521-PLN-DOT-75-63-0325 | E08 | E08-93.65-48-24-B-G-B-N | T Support (H Profiles)
+Yes | 257-MS-12EF-S-007_G07 | 4521-PLN-DOT-75-63-0325 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-007_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-007_P02 | 4521-PLN-DOT-75-63-0325 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-007_P11 | 4521-PLN-DOT-75-63-0325 | P11 | P11-9.76 | Round bar
+255-MS-08E-S-001_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-008_P02 | 4521-PLN-DOT-75-63-0324 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-09E-S-001_P02 | P02 | P02-12.5-16.22-13.58-10-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-008_P11 | 4521-PLN-DOT-75-63-0324 | P11 | P11-9.76 | Round bar
+252-MS-06E-S-002_P11 | P11 | P11-10 | Round bar
+Yes | 257-MS-12EF-S-009_E16 | 4521-PLN-DOT-75-63-0320 | E16 | E16-57.06-28.53-68.46-B-F-A | Frame (H Profiles)
+252-MS-06E-S-001_P11 | P11 | P11-12 | Round bar
+252-MS-06E-S-003_P11 | P11 | P11-12 | Round bar
+Yes | 257-MS-12EF-S-009_G07 | 4521-PLN-DOT-75-63-0320 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-009_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+255-MS-06E-S-001_P11 | P11 | P11-12 | Round bar
+255-MS-06E-S-002_P11 | P11 | P11-12 | Round bar
+Yes | 257-MS-12EF-S-009_P02 | 4521-PLN-DOT-75-63-0320 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-001_P11 | P11 | P11-12 | Round bar
+255-MS-07E-S-002_P11 | P11 | P11-12 | Round bar
+255-MS-07E-S-003_P11 | P11 | P11-12 | Round bar
+255-MS-07E-S-004_P11 | P11 | P11-12 | Round bar
+255-MS-07E-S-005_P11 | P11 | P11-12 | Round bar
+255-MS-07E-S-006_P11 | P11 | P11-12 | Round bar
+Yes | 257-MS-12EF-S-009_P11 | 4521-PLN-DOT-75-63-0320 | P11 | P11-9.76 | Round bar
+Yes | 257-MS-12EF-S-010_G07 | 4521-PLN-DOT-75-63-0321 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-010_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-010_L01 | 4521-PLN-DOT-75-63-0321 | L01 | L01-4-0.07-C | Limit from shoe base
+Yes | 257-MS-12EF-S-010_P02 | 4521-PLN-DOT-75-63-0321 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-010_P11 | 4521-PLN-DOT-75-63-0321 | P11 | P11-9.76 | Round bar
+255-MS-08E-S-001_P11 | P11 | P11-12 | Round bar
+Yes | 257-MS-12EF-S-011_E08 | 4521-PLN-DOT-75-63-0326 | E08 | E08-50.95-24.02-12.01-B-E-B-N | T Support (H Profiles)
+255-MS-09E-S-001_P11 | P11 | P11-12 | Round bar
+Yes | 257-MS-12EF-S-011_P02 | 4521-PLN-DOT-75-63-0326 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-11E-S-002_P11 | P11 | P11-12 | Round bar
+255-MS-11E-S-003_P11 | P11 | P11-12 | Round bar
+Yes | 257-MS-12EF-S-011_P11 | 4521-PLN-DOT-75-63-0326 | P11 | P11-9.76 | Round bar
+Yes | 257-MS-12EF-S-012_E08 | 4521-PLN-DOT-75-63-0317 | E08 | E08-41.02-55.12-25.92-B-G-B-N | T Support (H Profiles)
+Yes | 257-MS-12EF-S-012_G07 | 4521-PLN-DOT-75-63-0317 | G07 | G07-32.44-0.07-A | Guide for Triple Shoe
+255-MS-06E-S-003_E12 | E12 | E12-52-20-15-B-B-A | Excentric Support (H Profiles)
+Yes | 257-MS-12EF-S-012_G07 | G07 | G07-32,4-0,07-A | Guide for Triple Shoe
+255-MS-06E-S-003_S01 | S01 | S01-12-37-B-N-Y | Variable Spring
+Yes | 257-MS-12EF-S-012_P02 | 4521-PLN-DOT-75-63-0317 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+253-MS-01E-S-002_L01 | L01 | L01-5.90-0.07-D | Limit from shoe base
+Yes | 257-MS-12EF-S-012_P11 | 4521-PLN-DOT-75-63-0317 | P11 | P11-9.76 | Round bar
+255-MS-11E-S-002_E08 | E08 | E08-70-22-11-B-E-B-Y | T Support (H Profiles)
+255-MS-11E-S-003_E08 | E08 | E08-63-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-013_E08 | 4521-PLN-DOT-75-63-0318 | E08 | E08-28.06-27.75-13.88-B-E-B-N | T Support (H Profiles)
+Yes | 257-MS-12EF-S-013_G07 | 4521-PLN-DOT-75-63-0318 | G07 | G07-26.61-0.07-A | Guide for Triple Shoe
+255-MS-07E-S-001_E08 | E08 | E08-63-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-013_G07 | G07 | G07-26,6-0,07-A | Guide for Triple Shoe
+255-MS-07E-S-002_E08 | E08 | E08-45-44-22-B-F-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-013_P02 | 4521-PLN-DOT-75-63-0318 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-003_E08 | E08 | E08-30-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-013_P11 | 4521-PLN-DOT-75-63-0318 | P11 | P11-9.76 | Round bar
+255-MS-07E-S-004_E08 | E08 | E08-20-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-014_P02 | 4521-PLN-DOT-75-63-0315 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+255-MS-07E-S-005_E07 | E07 | E07-9-15-10-2/5-B-E-N | Column
+Yes | 257-MS-12EF-S-014_P11 | 4521-PLN-DOT-75-63-0315 | P11 | P11-9.76 | Round bar
+255-MS-08E-S-001_E08 | E08 | E08-45-22-11-B-E-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-015_E08 | 4521-PLN-DOT-75-63-0316 | E08 | E08-13-24-12-B-A-B | T Support (H Profiles)
+252-MS-06E-S-001_E08 | E08 | E08-35-22-11-B-B-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-015_P02 | 4521-PLN-DOT-75-63-0316 | P02 | P02-11.5-16.22-13.38-9.76-0-N-S | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-06E-S-002_E08 | E08 | E08-20-46-23-B-C-B-Y | T Support (H Profiles)
+Yes | 257-MS-12EF-S-015_P13 | 4521-PLN-DOT-75-63-0316 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+251-MS-01E-S-003_L01 | L01 | L01-5.90-0.14-D | Limit from shoe base
+253-MS-09F-S-001_G03 | G03 | G03-0.14-0.5 | Anti-Lift Guide
+253-MS-05F-S-001_G07 | G07 | G07-55.59-0.07-B | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-016_G07 | 4521-PLN-DOT-75-63-0319 | G07 | G07-18.7-0.07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-016_G07 | G07 | G07-18,7-0,07-A | Guide for Triple Shoe
+Yes | 257-MS-12EF-S-016_P02 | 4521-PLN-DOT-75-63-0319 | P02 | P02-11.5-16.22-13.38-9.76-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+Yes | 257-MS-12EF-S-016_P13 | 4521-PLN-DOT-75-63-0319 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+253-MS-01E-S-001_S01 | S01 | S01-34-67.45-B-Y-N | Variable Spring | Clamp diameter= Øpipe+insulation
+253-MS-01E-S-001_P02 | P02 | P02-34-28.82-19.49-17.76-90-N-D | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+253-MS-01E-S-001_G01 | G01 | G01-40-0-E | Guide for shoe | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-001_P02 | P02 | P02-38-30.83-19.69-19.29-0-N-T | General shoe for rigid insulation | Clamp diameter= Øpipe+insulation
+252-MS-04E-S-001_P13 | P13 | P13-4.72-4.72-1.77-C | Anti-friccion plate for rest
+252-MS-04E-S-001_G07 | G07 | G07-42-0-B | Guide for Triple Shoe
+252-MS-04E-S-001A_S01 | S01 | S01-38-10.6-D-N-Y | Variable Spring
+252-MS-04E-S-001A_T04 | T04 | T04-24-14-30-B-Y | Trunnion Base to Elbow | Very important: isolate and electrical tracing for the trunnion
+251-MS-02E-S-002_S01 | S01 | S01-34-32.87-D-N-N | Variable Spring | Clamp diameter= Øpipe+insulation
+251-MS-01E-S-001_S02 | S02 | S02-34-64.65-33-B-C-N-N | Double Variable Spring Hanger | Clamp diameter= Øpipe+insulation
+
+[sheet Springs List]
+ABEINSA Abeinsa Engineering | ABENGOA SOLAR | Document status: Critical: | Revision | Date | Purpose | Reason for revision | Issued by | Reviewed by | Approved by
+ABENER TEYMA SOLANA
+Solana project | 4521-LIS-AEE-75-63-0001 Molten Salt System supports list. Zone TES 6 | 4 | 2018-08-31 00:00:00 | IFC | Drawings generated | JRG | HR | IGA
+3 | 07/31/2017 | IFP | AY comments | AGR | JNG | JMRL
+2 | 04/21/2017 | IFP | Updated | AGR | JNG | JMRL
+1 | 2017-12-04 00:00:00 | IFC | Updated | AGR | JNG | JMRL
+0 | 2017/15/03 | IFC | First emission | AGR | JNG | JMRL
+Springs List | Notes: 1,- Axis reference: X = South ; Y = Elevation ; Z = West 2,-Orientation references: N = North; S = South; E = East; W = West; U =Up; D =Down 3,-For different values on spring definition choose always equal or lower spring rates, 4,-The modification by vendor of any design parameter should be approved by EPC responsible 5.- Normal Operation (Fy, Dy): Data obtained from the spring normal operation case. 6.- Max Operation (Fy, Dy): Data obtained from the spring operation case which maximize the spring travel. Accidental cases are included (wind, earthquake…etc) 7.- Type 1: when pipes connect to old equipment / Type 2: when pipes connect to new equipment
+Support Name | H (inch) | Spring Type | Spring rate (lbs/inch) | Cold load (lb) | Hot load (lb) | Comments
+253-MS-01F-S-002 | 107.28346456692914 | User Design VSH | 3806 | -20485 | -20464
+252-MS-04F-S-009 | 75.62992125984252 | User Design VSH | 12181 | -30681.257893 | -32269.533478
+252-MS-04E-S-009 | 75.70866141732284 | User Design VSH | 12181 | -30349 | -32757
+251-MS-02F-S-002 | 35.43307086614173 | Double User Design CSH | - | -11250 | -11250
+251-MS-01F-S-001 | 123.11023622047244 | User Design CSH | - | -19000 | -19000
+251-MS-01E-S-004 | 17.322834645669293 | User Design VSH | 7613 | -15480.347740000001 | -19381.683126
+257-MS-10EF-S-002 | 64.96062992125985 | User Design VSH | 380 | -1503.0729740000002 | -1366.389102
+253-MS-05E-S-002 | 31.1 | User Design VSH | 1142 | -10116 | -16155 | Type 1- 2 units
+253-MS-05E-S-002 | 31.1 | User Design VSH | 1142 | -10116 | -16153 | Type 2- 2 units
+253-MS-05F-S-002 | 40 | User Design VSH | 3806 | -20050 | -19870
+255-MS-06F-S-003 | 37 | User Design VSH | 381 | 867 | 750
+255-MS-06E-S-003 | 37 | User Design VSH | 761 | 1426 | 1200
+252-MS-04F-S-001 | 10.6 | User Design VSH | 7613 | 15380 | -15257 | Type 1
+252-MS-04F-S-001 | 106 | User Design VSH | 7613 | 14143 | -15904 | Type 2
+253-MS-01E-S-001 | 67.45 | User Design VSH | 1903 | -20947 | -18265 | Type 1
+253-MS-01E-S-001 | 67.45 | User Design VSH | 1903 | -20947 | -18360 | Type 2
+252-MS-04E-S-001A | 10.6 | User Design VSH | 4568 | -11353 | -10993 | Type 1
+252-MS-04E-S-001A | 10.6 | User Design VSH | 4568 | -11353 | -10746 | Type 2
+252-MS-03E-S-001 | 80.7 | User Design VSH | 4588 | -11363 | -9873 | Type 1
+251-MS-02E-S-002 | 32.87 | User Design VSH | 3045 | -22368 | -18579 | Type 1
+251-MS-02E-S-002 | 32.87 | User Design VSH | 3045 | -22368 | -18599 | Type 2
+251-MS-01E-S-001 | 64.65 | User Design VSH | 1903 | -21820 | -19139 | Type 1
+251-MS-01E-S-001 | 64.65 | User Design VSH | 1903 | -21820 | -19523 | Type 2

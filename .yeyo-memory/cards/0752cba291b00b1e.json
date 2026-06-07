@@ -1,0 +1,36 @@
+{
+  "id": "0752cba291b00b1e",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-HTF-20F-CS30-1_Sht1_R4.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 546520,
+  "size_human": "534 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "255-HTF-20F-CS30-1 Sht1 R4",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2221,
+  "token_estimate": 555,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/0752cba291b00b1e.json",
+  "extracted_path": ".yeyo-memory/extracted/0752cba291b00b1e.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "CreationDate": "D:20200409100028-07'00'",
+      "Creator": "Adobe Acrobat Pro DC 20.6.20042",
+      "ModDate": "D:20200409100028-07'00'",
+      "Producer": "Adobe Acrobat Pro DC 20.6.20042",
+      "Title": "Model"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:51.984040+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:51.984042+00:00"
+}

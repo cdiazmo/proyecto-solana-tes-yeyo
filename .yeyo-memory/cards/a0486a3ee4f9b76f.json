@@ -1,0 +1,57 @@
+{
+  "id": "a0486a3ee4f9b76f",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0001-GAR_REV 0 _Repairing Procedure.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 272013,
+  "size_human": "266 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0001-GAR REV 0 Repairing Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4405,
+  "token_estimate": 1101,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/a0486a3ee4f9b76f.json",
+  "extracted_path": ".yeyo-memory/extracted/a0486a3ee4f9b76f.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20161206174515+01'00'",
+      "ModDate": "D:20170222183120+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::305",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 305,
+        "doc_code": "4521-INS-LOI-039-062-0001",
+        "title": "REPAIRING PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::305",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 305,
+        "doc_code": "4521-INS-LOI-039-062-0001",
+        "title": "REPAIRING PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:26.623403+00:00"
+}

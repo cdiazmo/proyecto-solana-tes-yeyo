@@ -1,0 +1,39 @@
+{
+  "id": "ae6e2891e9676ae4",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation/Annex IV - B.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 103810,
+  "size_human": "101 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "Annex IV - B",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13305,
+  "token_estimate": 3326,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/ae6e2891e9676ae4.json",
+  "extracted_path": ".yeyo-memory/extracted/ae6e2891e9676ae4.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20161215101422+01'00'",
+      "ModDate": "D:20161215101422+01'00'",
+      "Author": "abpmg",
+      "Creator": "PDFCreator Version 1.7.2",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "Annex IV - B.pdf"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.696295+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:00.696300+00:00"
+}

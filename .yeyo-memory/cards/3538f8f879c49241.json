@@ -1,0 +1,30 @@
+{
+  "id": "3538f8f879c49241",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V313.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 71227,
+  "size_human": "70 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-64-V313",
+  "doc_code": "4521-ESP-ANC-68-64-V313",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4091,
+  "token_estimate": 1022,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/3538f8f879c49241.json",
+  "extracted_path": ".yeyo-memory/extracted/3538f8f879c49241.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100907105139",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-64-V313 - Block and Butterfly Valves - Pla…"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:39.773990+00:00"
+}

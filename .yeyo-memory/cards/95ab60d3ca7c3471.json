@@ -1,0 +1,33 @@
+{
+  "id": "95ab60d3ca7c3471",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/10020-5-PartsList_2011118_en.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 29593,
+  "size_human": "29 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "10020-5-PartsList 2011118 en",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 10429,
+  "token_estimate": 2607,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/95ab60d3ca7c3471.json",
+  "extracted_path": ".yeyo-memory/extracted/95ab60d3ca7c3471.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Producer": "AFPL Ghostscript 8.14",
+      "CreationDate": "D:20180504154129",
+      "ModDate": "D:20180504154129",
+      "Creator": "html2ps version 1.0 beta3",
+      "Author": "",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "Stücklistenübersetzung †Test ERP LN‡"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:34.715847+00:00"
+}

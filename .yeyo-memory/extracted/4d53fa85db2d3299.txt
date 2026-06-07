@@ -1,0 +1,1782 @@
+[page 1]
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+Final Quality Dossier 
+ 
+ 
+Title 
+Final Quality Dossier 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-PCA-LOI-039-062-0002-GAR 
+Supplier Code: 1950101-MDR-001 
+Revision: 00 
+Date: 07/03/2018 
+ 
+Prepared by: 
+ Ana Delgado 
+ 
+Reviewed by: 
+Pedro Alvarez 
+ 
+ 
+ 
+Approved by: 
+Pedro Alvarez 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Document: 4521-PCA-LOI-039-062-0002-GAR 
+ 
+Revision: 00 Date: 07/03/2018 
+Page: 2 of 2 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 07/03/2018 Initial issue ADM PAP PAP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOSSIER DE CALIDAD 
+ MANUFACTURING DATA REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUSTOMER / CLIENTE : ARIZONA SOLAR ONE LLC 
+JOB / TRABAJO : OIL TO SALT HEAT EXCHANGER 
+LOINTEK REF : 1950101 (6 Ud) 
+CUSTOMER REF. : 4500887352 
+PROJECT / PROYECTO : HEX Replacement TES SOLANA 
+PLANT / PLANTA : ARIZONA SOLAR ONE LLC 
+LOCATION / LOCALIDAD :
+ ARIZONA ( USA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+ 
+ 
+DATE 
+FECHA 
+ 
+DESCRIPTION 
+DESCRIPCION 
+ 
+Prepar. By 
+ 
+ 
+Rev. By 
+ 
+ 
+Aprov. By 
+ 
+00 23/02/18 INITIAL ISSUE A.D.M P.A.P. P.A.P. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOSSIER DE CALIDAD 
+MANUFACTURING DATA REPORT 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-MDR-01 
+ 
+DATE: 23/02/18 Pag 1 
+
+[page 4]
+ 
+ 
+INDEX 
+ 
+ 
+01.- U/ ASME FORMAT SIGNED BY AUTHORIZED ASME INSPECTORS 
+ 
+02.- NON CONFORMANCE REPORTS 
+ 
+03.- DRAWINGS AND NAMEPLATE COPY 
+ 
+04.- INSPECTION PROGRAM POINT (IPP) 
+ 
+05.- WELDING BOOK 
+ 
+ 05.1.- WELDING PROCEDURES (WPS) 
+ 
+ 05.2.- WELDING PROCEDURE QUALIFICATIONS (PQR) 
+ 
+ 05.3.- WELDER QUALIFICATION 
+ 
+06.- PROCEDURES 
+ 
+ 06.1.- NON DESTRUCTI VES TEST PROCEDURES 
+ 
+ 06.2.- MANUFACTURING PROCEDURES 
+ 
+07.- MATERIAL CERTIFICATES 
+ 
+ 07.1.- MATERIAL IDENTIFICATION LIST / CERTIFICATES 
+ 
+ 07.2.- FILLER METAL MATERIAL LIST / CERTIFICATES 
+ 
+08.- NON DESTRUCTIVES TEST REPORTS 
+ 
+ 08.1- NON DESTRUCTI VES TEST REPORTS 
+ 
+ 08.2- CERTIFICATES OF QUALIFICATION OF NON DESTRUCTIVE TESTS OPERATORS 
+ 
+09.- MANUFACTURING REPORTS 
+ 
+ 09.1- LEAK TEST REPORTS 
+ 
+ 09.2- HEAT TREATMENT REPORTS 
+ 
+ 09.3- HIDROSTATIC TEST REPORTS 
+ 
+ 09.4 DIMENSIONAL CONTROL REPORTS 
+ 
+ 09.5 DESTRUCTIVE TEST REPORTS 
+ 
+ 09.6 SURFACE PREPARATION AND PAINT REPORTS 
+ 
+ 09.7 PREPARATION FOR TRANSPORT & N
+2 FILLING 
+ 
+ 
+ 
+ 
+ 
+DOSSIER DE CALIDAD 
+ MANUFACTURING DATA REPORT 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-MDR-01 
+ 
+DATE: 23/02/18 Pag 2 
+
+[page 5]
+01.- CERTIFICADO DE INSPECTOR U/ ASME AUTORIZADO 
+U/ ASME FORMAT SIGNED BY AUTHORIZED ASME 
+INSPECTORS 
+
+[page 18]
+02.- INFORMES DE NO CONFORMIDADES 
+NON CONFORMANCE REPORTS 
+
+[page 29]
+03.- PLANOS Y COPIA DE LA PLACA DE CARACTERISTICAS
+DRAWINGS AND NAMEPLATE COPY 
+
+[page 47]
+04.- PROGRAMA DE PUNTOS DE INSPECCION (PPI) 
+INSPECTION PROGRAM POINT (IPP) 
+
+[page 48]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIT 1 
+ 
+6MX‐A 
+ 
+ 
+ 
+
+[page 59]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIT 2 
+ 
+6MX‐B 
+ 
+ 
+ 
+
+[page 70]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIT 3 
+ 
+6MX‐C 
+ 
+ 
+ 
+
+[page 81]
+ 
+ 
+ 
+UNIT 4 
+ 
+6MX‐D 
+ 
+ 
+ 
+
+[page 92]
+ 
+ 
+ 
+UNIT 5 
+ 
+6MX‐E 
+ 
+ 
+ 
+
+[page 102]
+ 
+ 
+UNIT 6 
+ 
+6MX‐F 
+ 
+ 
+ 
+
+[page 113]
+ 
+05.- LIBRO DE SOLDADURA 
+WELDING BOOK 
+
+[page 124]
+05.1.- PROCEDIMIENTOS DE SOLDADURA 
+WELDING PROCEDURES (WPS) 
+
+[page 159]
+05.2.- CUALIFICACIONES DE PROCEDIMIENTOS DE 
+SOLDADURA 
+WELDING PROCEDURE QUALIFICATIONS (PQR) 
+
+[page 184]
+05.3.- CUALIFICACIONES DE SOLDADORES 
+WELDER QUALIFICATION 
+
+[page 209]
+06.- PROCEDIMIENTOS 
+PROCEDURES 
+
+[page 210]
+06.1.- PROCEDIMIENTOS DE ENSAYOS NO DESTRUCTIVOS
+NON DESTRUCTIVES TEST PROCEDURES 
+
+[page 333]
+06.2.- PROCEDIMIENTOS DE FABRICACION 
+MANUFACTURING PROCEDURES 
+
+[page 372]
+ 
+07.- CERTIFICADOS DE MATERIALES 
+MATERIAL CERTIFICATES 
+
+[page 373]
+07.1.- LISTA DE IDENTIFICACION DE MATERIALES / 
+CERTIFICADOS 
+MATERIAL IDENTIFICATION LIST / CERTIFICATES 
+
+[page 605]
+07.2.- LISTA DE MATERIALES DE APORTACION / 
+CERTIFICADOS 
+FILLER METAL MATERIAL LIST / CERTIFICATES 
+
+[page 620]
+08.- INFORMES DE ENSAYOS NO DESTRUCTIVOS 
+NON DESTRUCTIVES TEST REPORTS 
+
+[page 621]
+ 
+08.1- NON DESTRUCTIVES TEST REPORTS 
+INFORMES DE ENSAYOS NO DESTRUCTIVOS 
+
+[page 622]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIT 1 
+ 
+6MX‐A 
+ 
+ 
+ 
+
+[page 650]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIT 2 
+ 
+6MX‐B 
+ 
+ 
+ 
+
+[page 680]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIT 3 
+ 
+6MX‐C 
+ 
+ 
+ 
+
+[page 711]
+ 
+ 
+ 
+UNIT 4 
+ 
+6MX‐D 
+ 
+ 
+ 
+
+[page 746]
+ 
+ 
+ 
+UNIT 5 
+ 
+6MX‐E 
+ 
+ 
+ 
+
+[page 776]
+ 
+ 
+UNIT 6 
+ 
+6MX‐F 
+ 
+ 
+ 
+
+[page 808]
+08.2- CERTIFICADOS DE CUALIFICACIÓN DE OPERADORES 
+DE ENSAYOS NO DESTRUCTIVOS 
+CERTIFICATES OF QUALIFICATION OF NON DESTRUCTIVE 
+TESTS OPERATORS 
+ 
+
+[page 823]
+09.- INFORMES DE FABRICACION 
+MANUFACTURING REPORTS 
+
+[page 824]
+09.1- INFORMES DE PRUEBA DE FUGAS 
+LEAK TEST REPORTS 
+
+[page 837]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+09.2- INFORMES DE TRATAMIENTO TERMICO 
+HEAT TREATMENT REPORTS 
+
+[page 859]
+09.3- INFORMES DE PRUEBAS HIDROSTATICAS 
+HIDROSTATIC TEST REPORTS 
+
+[page 894]
+9.4 INFORMES DE CONTROL DIMENSIONAL 
+DIMENSIONAL CONTROL REPORTS 
+
+[page 901]
+9.5 INFORMES DE ENSAYOS DESTRUCTIVOS 
+DESTRUCTIVE TEST REPORTS 
+
+[page 910]
+9.6 INFORMES DE PREPARACION SUPERFICIAL Y PINTURA
+SURFACE PREPARATION REPORTS 
+ 
+
+[page 923]
+ 
+ 
+9.7 PREPARATION FOR TRANSPORT & N2 FILLING 
+ACONDICIONAMIENTO PARA TRANSPORTE Y LLENADO 
+CON N2 
+ 
+ 
+ 
+
+[page 924]
+FIT-REV-01 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-025 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-A 
+U1 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 1/2 
+Descripción de la Zona Examinada
+Description of the examined area
+% Examen 
+% Exam 100 Material 
+Material Acc.Dwg Espesor 
+Thickness 
+Acc.
+Dwg 
+Trat.Térmico 
+Heat treatment 
+  Sin TT/Not HT 
+  Antes/Before 
+ X Despues/After
+ Estado Superficial 
+ Surface Condition X Bruto/As made  Amolado/Grinded  Mecanizado/ Machined 
+ Material Base 
+ Base Material 
+ Prep. Bordes 
+ Weld Prep. 
+ Cordon Raiz 
+ Root Weld 
+X Soldadura 
+ Finish Weld 
+ Resanado 
+ Back Gouging 
+ILUMINACIÓN
+ Ilumination 
+Tipo 
+Type 
+ X Luz Natural/Daylight 
+  Luz Artificial/Artificial Light 
+INTENSIDAD
+Ilumination Intensity Medidor Luz 
+Lux-Meter 
+Examen
+Examination 
+Metodo 
+Method 
+ X Directo/Direct 
+  Remoto/Remote 
+Equipo Utilizado
+Used Equipment 
+-- 
+Registro del Examen 
+Records of the Examination 
+PREPARATION FOR TRANSPORT AND N2 FILLING 
+Acondicionamiento para Transporte y llenado con N2 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+ 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+
+[page 925]
+FIT-REV-01 
+ 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-25 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-A 
+U1 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 2/2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ 
+
+[page 926]
+FIT-REV-01 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-026 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-B 
+U2 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 1/2 
+Descripción de la Zona Examinada
+Description of the examined area
+% Examen 
+% Exam 100 Material 
+Material Acc.Dwg Espesor 
+Thickness 
+Acc.
+Dwg 
+Trat.Térmico 
+Heat treatment 
+  Sin TT/Not HT 
+  Antes/Before 
+ X Despues/After
+ Estado Superficial 
+ Surface Condition X Bruto/As made  Amolado/Grinded  Mecanizado/ Machined 
+ Material Base 
+ Base Material 
+ Prep. Bordes 
+ Weld Prep. 
+ Cordon Raiz 
+ Root Weld 
+X Soldadura 
+ Finish Weld 
+ Resanado 
+ Back Gouging 
+ILUMINACIÓN
+ Ilumination 
+Tipo 
+Type 
+ X Luz Natural/Daylight 
+  Luz Artificial/Artificial Light 
+INTENSIDAD
+Ilumination Intensity Medidor Luz 
+Lux-Meter 
+Examen
+Examination 
+Metodo 
+Method 
+ X Directo/Direct 
+  Remoto/Remote 
+Equipo Utilizado
+Used Equipment 
+-- 
+Registro del Examen 
+Records of the Examination 
+PREPARATION FOR TRANSPORT AND N2 FILLING 
+Acondicionamiento para Transporte y llenado con N2 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+ 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+
+[page 927]
+FIT-REV-01 
+ 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-26 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-B 
+U2 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 2/2 
+ 
+ 
+ 
+ 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ 
+
+[page 928]
+FIT-REV-01 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-027 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-C 
+U3 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 1/2 
+Descripción de la Zona Examinada
+Description of the examined area
+% Examen 
+% Exam 100 Material 
+Material Acc.Dwg Espesor 
+Thickness 
+Acc.
+Dwg 
+Trat.Térmico 
+Heat treatment 
+  Sin TT/Not HT 
+  Antes/Before 
+ X Despues/After
+ Estado Superficial 
+ Surface Condition X Bruto/As made  Amolado/Grinded  Mecanizado/ Machined 
+ Material Base 
+ Base Material 
+ Prep. Bordes 
+ Weld Prep. 
+ Cordon Raiz 
+ Root Weld 
+X Soldadura 
+ Finish Weld 
+ Resanado 
+ Back Gouging 
+ILUMINACIÓN
+ Ilumination 
+Tipo 
+Type 
+ X Luz Natural/Daylight 
+  Luz Artificial/Artificial Light 
+INTENSIDAD
+Ilumination Intensity Medidor Luz 
+Lux-Meter 
+Examen
+Examination 
+Metodo 
+Method 
+ X Directo/Direct 
+  Remoto/Remote 
+Equipo Utilizado
+Used Equipment 
+-- 
+Registro del Examen 
+Records of the Examination 
+PREPARATION FOR TRANSPORT AND N2 FILLING 
+Acondicionamiento para Transporte y llenado con N2 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+ 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+
+[page 929]
+FIT-REV-01 
+ 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-27 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-C 
+U3 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 2/2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ 
+
+[page 930]
+FIT-REV-01 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-028 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-D 
+U4 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 1/2 
+Descripción de la Zona Examinada
+Description of the examined area
+% Examen 
+% Exam 100 Material 
+Material Acc.Dwg Espesor 
+Thickness 
+Acc.
+Dwg 
+Trat.Térmico 
+Heat treatment 
+  Sin TT/Not HT 
+  Antes/Before 
+ X Despues/After
+ Estado Superficial 
+ Surface Condition X Bruto/As made  Amolado/Grinded  Mecanizado/ Machined 
+ Material Base 
+ Base Material 
+ Prep. Bordes 
+ Weld Prep. 
+ Cordon Raiz 
+ Root Weld 
+X Soldadura 
+ Finish Weld 
+ Resanado 
+ Back Gouging 
+ILUMINACIÓN
+ Ilumination 
+Tipo 
+Type 
+ X Luz Natural/Daylight 
+  Luz Artificial/Artificial Light 
+INTENSIDAD
+Ilumination Intensity Medidor Luz 
+Lux-Meter 
+Examen
+Examination 
+Metodo 
+Method 
+ X Directo/Direct 
+  Remoto/Remote 
+Equipo Utilizado
+Used Equipment 
+-- 
+Registro del Examen 
+Records of the Examination 
+PREPARATION FOR TRANSPORT AND N2 FILLING 
+Acondicionamiento para Transporte y llenado con N2 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+ 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+
+[page 931]
+FIT-REV-01 
+ 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-28 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-D 
+U4 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 2/2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+IVAN JIMENEZ 
+ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ 
+
+[page 932]
+FIT-REV-01 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-029 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-E 
+U5 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 1/2 
+Descripción de la Zona Examinada
+Description of the examined area
+% Examen 
+% Exam 100 Material 
+Material Acc.Dwg Espesor 
+Thickness 
+Acc.
+Dwg 
+Trat.Térmico 
+Heat treatment 
+  Sin TT/Not HT 
+  Antes/Before 
+ X Despues/After
+ Estado Superficial 
+ Surface Condition X Bruto/As made  Amolado/Grinded  Mecanizado/ Machined 
+ Material Base 
+ Base Material 
+ Prep. Bordes 
+ Weld Prep. 
+ Cordon Raiz 
+ Root Weld 
+X Soldadura 
+ Finish Weld 
+ Resanado 
+ Back Gouging 
+ILUMINACIÓN
+ Ilumination 
+Tipo 
+Type 
+ X Luz Natural/Daylight 
+  Luz Artificial/Artificial Light 
+INTENSIDAD
+Ilumination Intensity Medidor Luz 
+Lux-Meter 
+Examen
+Examination 
+Metodo 
+Method 
+ X Directo/Direct 
+  Remoto/Remote 
+Equipo Utilizado
+Used Equipment 
+-- 
+Registro del Examen 
+Records of the Examination 
+PREPARATION FOR TRANSPORT AND N2 FILLING 
+Acondicionamiento para Transporte y llenado con N2 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+ 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+
+[page 933]
+FIT-REV-01 
+ 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-29 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-E 
+U5 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 2/2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ 
+
+[page 934]
+FIT-REV-01 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-030 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-F 
+U6 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 1/2 
+Descripción de la Zona Examinada
+Description of the examined area
+% Examen 
+% Exam 100 Material 
+Material Acc.Dwg Espesor 
+Thickness 
+Acc.
+Dwg 
+Trat.Térmico 
+Heat treatment 
+  Sin TT/Not HT 
+  Antes/Before 
+ X Despues/After
+ Estado Superficial 
+ Surface Condition X Bruto/As made  Amolado/Grinded  Mecanizado/ Machined 
+ Material Base 
+ Base Material 
+ Prep. Bordes 
+ Weld Prep. 
+ Cordon Raiz 
+ Root Weld 
+X Soldadura 
+ Finish Weld 
+ Resanado 
+ Back Gouging 
+ILUMINACIÓN
+ Ilumination 
+Tipo 
+Type 
+ X Luz Natural/Daylight 
+  Luz Artificial/Artificial Light 
+INTENSIDAD
+Ilumination Intensity Medidor Luz 
+Lux-Meter 
+Examen
+Examination 
+Metodo 
+Method 
+ X Directo/Direct 
+  Remoto/Remote 
+Equipo Utilizado
+Used Equipment 
+-- 
+Registro del Examen 
+Records of the Examination 
+PREPARATION FOR TRANSPORT AND N2 FILLING 
+Acondicionamiento para Transporte y llenado con N2 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+ 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+
+[page 935]
+FIT-REV-01 
+ 
+ 
+INFORME DE INSPECCION VISUAL 
+ 
+VISUAL INSPECTION REPORT 
+ 
+Nº Informe 
+Report No 
+VT 2018-30 
+Cliente 
+Customer 
+ARIZONA SOLAR ONE 
+LLC 
+Proyecto 
+Project 
+ HEX replacement TES Solana 
+OIL TO SALT HEAT EXCHANGER 
+Obra 
+Contract. 1950101 
+Plano Nº 
+Dwg No: 1950101-DWG-110 Rev. 01 Proc.Ensayo 
+Ex.Procedure 1950101-PIV-01 Rev.00 
+ITEM/Unidad
+Item/Unit 
+ 
+6MX-F 
+U6 
+Norma 
+Code ASME VIII Div.2 2015 Nivel / Criterio Aceptación 
+Acceptance Critena / Level --- Pagina 
+Page 2/2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Observaciones/ Comments 
+ 
+I.P.P POINT 14.2 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted X RECHAZADO 
+Rejected 
+INSPECTOR 
+Inspector 
+ 
+IVAN JIMENEZ 
+ 
+FIRMA y FECHA 28-02-18 
+Sign & Date 
+REVISADO 
+Reviewed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date

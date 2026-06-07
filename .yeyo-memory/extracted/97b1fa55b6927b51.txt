@@ -1,0 +1,422 @@
+[sheet SMWP -Document List]
+DOT | Dotec
+ALL | Alliance (Ing SMWP)
+LOI | Lointek
+Solana HEX 6 Project | Rev: 4 | Atlantica Yield | 2020-04-29 00:00:00
+Section | Location | Document | Revision | Originator | AS Built
+C&S
+CAL
+4521-CAL-AEE-75-52-0001-GAR_Rev00_exchangers_foundation | 1 | Abengoa | No
+4521-CAL-AEE-75-52-0002-GAR_Rev00_Drain_back_tank | 1 | Abengoa | No
+4521-CAL-AEE-75-52-0003-GAR_Rev00_Drain_back_tank_support | 1 | Abengoa | No
+4521-CAL-AEE-75-52-0004-GAR Calculation Report for Drain Back Tank Platform | 1 | Abengoa | No
+4521-CAL-AGE-75-54-0005-GAR Calculation Report for TES Platform Structures | 0 | Abengoa | No
+DRA
+4521-PLN-AGE-58-54-2020-Solana Generating Station TES Platforms Heat Exchanger Supports. Details | 5 | Abengoa | No
+4521-PLN-AEE-68-51-0001-GAR_Rev04_Layout_new_exchangers | 4 | Abengoa | No
+4521-PLN-AEE-75-52-0001-GAR_Rev00_exchangers_foundation | 1 | Abengoa | No
+4521-PLN-AEE-75-52-0002-Drain Back Tank Pit | 2 | Abengoa | No
+4521-PLN-AEE-75-52-0003-Drain-Back Tank Support | 1 | Abengoa | No
+4521-PLN-AEE-75-52-0004-Drain Back Tank Platform | 1 | Abengoa | No
+4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf | 0 | Abengoa | No
+4521-PLN-AEE-75-52-0006-GAR_Central Plant Layout New Repositioning Exchangers | 10 | Abengoa | Yes
+4521-PLN-DOT-39-63-0901 - 252-HTF-12F-S-003 | 1 | DOTec | No
+4521-PLN-DOT-39-63-0902 - 252-HTF-12F-S-008 | 1 | DOTec | No
+4521-PLN-DOT-39-63-0903 - 252-HTF-12F-S-010 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0904 - 252-HTF-16F-S-001 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0905 - 252-HTF-16F-S-002 | 1 | DOTec | Yes
+4521-PLN-DOT-39-63-0906 - 252-HTF-16F-S-003 | 1 | DOTec | Yes
+4521-PLN-DOT-39-63-0907 - 252-MS-03F-S-011 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0908 - 252-MS-04F-S-003 | 1 | DOTec | Yes
+4521-PLN-DOT-39-63-0909 - 252-MS-04F-S-004 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0910 - 252-MS-04F-S-005 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0911 - 252-MS-04F-S-006 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0912 - 255-MS-06F-S-002 | 1 | DOTec | Yes
+4521-PLN-DOT-39-63-0913 - 252-MS-04F-S-008 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0914 - 252-MS-04F-S-009 | 1 | DOTec | Yes
+4521-PLN-DOT-39-63-0915 - 255-MS-11F-S-001 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0916 - 255-MS-12F-S-001 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0917 - 255-MS-13F-S-001 | 0 | DOTec | No
+4521-PLN-DOT-39-63-0918 - 257-MS-10EF-S-001 | 1 | DOTec | Yes
+4521-PLN-DOT-39-63-0919 - 257-MS-10EF-S-011 | 1 | DOTec | No
+4521-PLN-DOT-39-63-0920 - 257-MS-12EF-S-003 | 1 | DOTec | No
+4521-PLN-DOT-39-63-0921 - 257-MS-12EF-S-006 | 2 | DOTec | Yes
+4521-PLN-DOT-39-63-0922 - 252-MS-13F-S-001 | 4 | DOTec | Yes
+4521-PLN-DOT-39-63-0924 | 1 | DOTec | Yes
+4521-PLN-ANC-00-50-C001 - Anchor Rod Assemblies and Details | 1 | Abengoa | No
+4521-PLN-ANC-00-50-S001 - General Civil and Structural Notes | 5 | Abengoa | No
+4521-PLN-ANC-00-50-S002 - Typical Ladder, Safety Cage, and Safety Gate Details | 1 | Abengoa | No
+4521-PLN-ANC-00-50-S003 - Typical Pipe Handrail, Stairway, and Grating Details | 1 | Abengoa | No
+4521-PLN-ANC-00-50-S004 - Standard Base Plate Details and Standard Shear Key Details | 1 | Abengoa | No
+4521-PLN-ALL-75-63-0506 Sonotube Foundation Details for Cable Trays | 2 | SMW | No
+4521-PLN-ALL-75-63-0501 Sonotube Foundation Details for Pipe Supports | 0 | SMW | No
+4521-PLN-ALL-75-63-0504 - 252-N-06F-S-001 | 0 | SMW | No
+4521-PLN-ALL-75-63-0505 - 252-N-06F-S-002 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0507 Structural Steel for Cable Tray | 2 | SMW | No
+4521-PLN-ALL-75-63-0508 Structural Steel for Cable Tray | 3 | SMW | No
+4521-PLN-ALL-75-63-0509 Structural Steel for Cable Tray | 1 | SMW | No
+4521-PLN-ALL-75-63-0502 Base Plate Detail | 0 | SMW | No
+LIS
+4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found | 0 | Abengoa | No
+MTO
+4521-MTO-AEE-75-52-0001-GAR_Rev00_exchangers_foundation | 0 | Abengoa | No
+4521-MTO-AEE-75-52-0002-GAR_Rev00_Drain_back_tank | 0 | Abengoa | No
+4521-MTO-AEE-75-52-0003-GAR_Rev00_Drain_back_tank_support | 0 | Abengoa | No
+4521-MTO-AEE-75-52-0004_rev0-GAR_Drain Back Tank Platform | 0 | Abengoa | No
+Electrical | PENDING RECEPTION OF AS BUILT INFORMATION.
+LIS
+4521-LIS-AEE-39-40-0011-GAR_Rev.00_TES Area Electric cable list Unit 5-6 | 1 | Abengoa
+4521-LIS-AGE-39-40-0010-GAR_R00TES Area Electric consumer list Unit 5-6 | 1 | Abengoa
+PLN
+4521-PLN-AEE-27-31-0000-New Repositioning Exchangers TES 6 Electrical Cover Sheet | 1 | Abengoa
+4521-PLN-AEE-27-31-0000-New Repositioning Exchangers New Trays Layout P-001 Feeder Routing | 1 | Abengoa
+4521-PLN-AEE-27-31-0002-GAR_R01 New trays layout | 1 | Abengoa
+4521-PLN-AEE-27-33-0000- Electrical Drawing. Temp. Power for Construction Trailers | 0 | Abengoa
+4521-PLN-AEE-27-33-0001-Electrical Drawing. Temp. Power for Construction Trailers | 0 | Abengoa
+4521-PLN-AEE-27-33-0002-Electrical Drawing. Temp. Power for Construction Trailers | 0 | Abengoa
+4521-PLN-AEE-27-33-0003-Electrical Drawing. Temp. Power for Construction Trailers | 0 | Abengoa
+4521-PLN-AEE-27-33-0001-GAR_R01_New TES Grounding System | 1 | Abengoa
+4521-PLN-AEE-27-33-0004-New Repositioning Exchangers New TES 6 Grounding System | 0 | Abengoa
+4521-PLN-AEE-27-33-0005-New Repositioning Exchangers Lateral View New TES 6 Lightning Protection | 0 | Abengoa
+4521-PLN-AEE-27-33-0006-New Repositioning Exchangers Front View New TES 6 Lightning Protection | 0 | Abengoa
+4521-PLN-AEE-27-33-0007-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-AEE-27-33-0008-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-AEE-27-33-0009-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-AEE-27-33-00010-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-AEE-27-33-00011-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-AEE-27-33-00012-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-AEE-27-33-00013-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-AEE-27-33-00014-New Repositioning Exchangers Underground Grounding Details | 0 | Abengoa
+4521-PLN-ANC-27-23-P001_Electrical Power Panel P-001 New Heat Trace Control Panel | 0 | Abengoa
+4521-PLN-AEE-39-40-0002-GAR_Rev00_Lighting_new_repositioning_exchangers | 1 | Abengoa
+4521-PLN-ANC-27-21-O490 - 480V Single Line MCC-633 Electrical Room 32 | 13 | Abengoa
+4521-PLN-ANC-27-23-P590_R12 PP-6334M | 12 | Abengoa
+4521-PLN-DEE-27-33-G001-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-DEE-27-33-G002-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-DEE-27-33-G003-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-DEE-27-33-G004-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-DEE-27-33-G005-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-DEE-27-33-G006-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-DEE-27-33-G007-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-DEE-27-33-G008-RAR - New Repositioning Exchangers Underground Grounding Details | 0 | SMW
+4521-PLN-ANC-3-MP-258-1 Drain Back Tank Pump Control Schematics | 1 | Abengoa
+4521-PLN-ANC-3-MP-258-2 Drain Back Tank Pump Control Calculations | 1 | Abengoa
+3-MP-258 Motor Pump Specifications | N/A | Abengoa
+4521-PLN-ALL-27-33-0001 Cable Tray Route | 2 | SMW
+4521-PLN-ALL-27-33-0002 Cable Tray Route | 3 | SMW
+I&C | PENDING RECEPTION OF AS BUILT INFORMATION.
+ESP
+4521-ESP-AEE-00-70-0501-GAR_rev00 General notes & instructions for instruments & valves procurement | 0 | Abengoa
+4521-ESP-ANC-00-62-0001 Rev.5 Project Design Criteria | 5 | Abengoa
+HDD
+4521-HDD-AEE-39-70-0011-GAR Rev.01 Pressure transmitters datasheets | 1 | Abengoa
+4521-HDD-AEE-39-70-0012-GAR_Rev.01 Temperature transmitters datasheet | 1 | Abengoa
+4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet | 1 | Abengoa
+4521-HDD-AEE-39-70-0014-GAR Rev.00 Flow gauges datasheet | 0 | Abengoa
+4521-HDD-AEE-39-70-0015-GAR Rev.00 Pressure gauges Datasheet | 0 | Abengoa
+4521-HDD-AEE-39-70-0016-GAR_Rev.01 Pneumatic automatic valves | 1 | Abengoa
+4521-HDD-AGE-39-70-0011-GAR Rev.00 Pressure transmitters | 0 | Abengoa
+4521-HDD-AGE-39-70-0012-GAR_Rev.00 Temperature transmitters | 0 | Abengoa
+4521-HDD-AGE-39-70-0013-GAR Rev.00 Level transmitters | 0 | Abengoa
+LIS
+4521-LIS-AEE-00-70-0001-GAR Rev.01 I&C Signal List | 1 | Abengoa
+4521-LIS-AEE-39-45-0001-GAR Rev.00 Junction Boxes List | 0 | Abengoa
+4521-LIS-AEE-39-64-0002-GAR Rev.1 Automatic Valves List | 1 | Abengoa
+4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List | 0 | Abengoa
+4521-LIS-AEE-39-70-0016-GAR Rev.00 Control cable list | 0 | Abengoa
+MEM
+4521-MEM-AEE-70-10-0001-GAR Rev.01 TES S&T HEX Functional Description of Standby and Drainage Procedures | 1 | Abengoa
+PLN
+4521-PLN-AEE-39-70-0002-GAR Rev.00 Wiring diagrams | 0 | Abengoa
+4521-PLN-AEE-39-75-0001-GAR Rev.00 HEX replacement logic diagrams | 0 | Abengoa
+M&P
+CAL
+4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and Molten Salts Hydraulic Circuits Calculation Report | 2 | Abengoa | No
+4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation | 2 | Abengoa | No
+ESP
+4521-ESP-ANC-68-64-V350_Block Valves - installation standards | 2 | Abengoa | No
+4521-ESP-ANC-68-64-V380_Block Valves for HTF - installation standards | 3 | Abengoa | No
+4521-ESP-ANC-68-61-CS30 - Engineering Standards and Practices Material and Installation Standards Class 300 Carbon Steel – Piping System Project: Solana HTF Return | 6 | Abengoa | No
+4521-ESP-ANC-68-61-CS31 - Engineering Standards and Practices Material and Installation Standards Class 600 Carbon Steel – Piping System Project: Solana HTF Supply | 3 | Abengoa | No
+4521-ESP-ANC-68-61-CS32 - Engineering Standards and Practices Material and Installation Standards Class 600 Carbon Steel – Piping System Project: Solana HTF Supply | 4 | Abengoa | No
+4521-ESP-ANC-68-61-CS72 - Engineering Standards and Practices Material and Installation Standards Class 150 Carbon Steel – Piping System | 3 | Abengoa | No
+4521-ESP-ANC-58-61-PS001 - Engineering Standards and Practices Material and Installation Standards Piping Shop Fabrication HTF Area | 1 | Abengoa | No
+4521-ESP-ANC-58-61-PS002 - Engineering Standards and Practices Material and Installation Standards HTF Area Piping Installation Subcontract | 0 | Abengoa | No
+4521-ESP-ANC-00-50-2300 - Engineering Standards and Practices Specification for Earthwork | 3 | Abengoa | No
+4521-ESP-ANC-00-60-N180 - Specification for Shop Applied Paint | 2 | Abengoa | No
+4521-ESP-ANC-00-60-N185 - Specification for Shop Applied Paint | 1 | Abengoa | No
+4521-ESP-ANC-00-60-N101 - Specification for Two Coat System for Low Temperature Non-Primed Carbon Steel | 1 | Abengoa | No
+4521-ESP-ANC-00-60-N102 - Specification for Two Coat System for High Temperature Non-Primed Carbon Steel | 0 | Abengoa | No
+4521-ESP-ANC-00-60-N190 - Specification for Tank Lining | 2 | Abengoa | No
+4521-ESP-ANC-68-61-SS37 - Engineering Standards and Practices Material and Installation Standards Molten Salt 300# (304 SS ) – Piping System | 0 | Abengoa | No
+4521-ESP-ANC-68-61-SS38 - Engineering Standards and Practices Material and Installation Standards HTF 300# (304 SS ) – Piping System | 0 | Abengoa | No
+HDD
+4521-HDD-AEE-00-64-0001-GAR_Rev02_TES HTF PSV Datasheet | 2 | Abengoa | No
+4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet | 2 | Abengoa | No
+LIS
+4521-LIS-AEE-39-61-0001-GAR_R02_Pipeline TES HEX Replacement | 2 | Abengoa | No
+4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List | 0 | Abengoa | No
+4521-LIS-AEE-39-61-0003-GAR_Rev03 Manual Valve List TES HEX Replacement | 3 | Abengoa | No
+MEM
+4521-MEM-AEE-68-10-0001-GAR Rev 00 TES Replacement HEX Operation Philosophy | 0 | Abengoa | No
+4521-TAB-AEE-75-62-0001-GAR TBE MS Drain Pump | 0 | Abengoa | No
+PLN
+4521_PLN_AEE_68_71_P271-GAR_Rev02_Thermal energy storage Un5 HTF to salt | 2 | Abengoa | Yes
+4521_PLN_AEE_68_71_P273-GAR_Rev01_Thermal energy storage Unit 6 Cold Salt Storage Tank | 1 | Abengoa | Yes
+4521_PLN_AEE_68_71_P274-GAR_Rev02_ Thermal energy storage Un6 HTF to salt | 3 | Abengoa | Yes
+4521_PLN_AEE_68_71_P278-GAR_Rev03_Shell & Tube Tes Hex Train | 6 | Abengoa | Yes
+4521_PLN_AEE_68_71_P279-GAR_Rev04_TES Hex MS drawing | 7 | Abengoa | Yes
+4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system | 0 | Abengoa | No
+4521-PLN-AEE-73-00-0001-GAR_rev.00_Hazardous area classification | 1 | Abengoa | No
+4521-PLN-AGE-67-71-P412 Safety Showers | 0 | Abengoa | No
+4521-PLN-AGE-67-71-P493 Raw water distribution to HTF & TES | 1 | Abengoa | No
+4521-PLN-LOI-039-062-0005-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing | 1 | Lointek | Yes
+4521-PLN-LOI-039-062-0003-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing | 1 | Lointek | Yes
+4521-PLN-ANC-00-70-N001 P&ID Nomenclature | 12 | Abengoa | No
+4521-PLN-LOI-039-062-0001-GAR Rev03 General Arrangements Shell & Tube Heat Exchangers | 3 | Lointek | Yes
+MISC.
+1806-08 - Molten Salt Tank | 0 | Abengoa | No
+8081405- Inspection and Test Plan | 0 | Abengoa | No
+W103387-0-60070- Paint Procedure | 0 | Abengoa | No
+3.00.4601-001_en- Performance Test Procedure | 0 | Abengoa | No
+M3D
+4521-M3D-AEE-00-00-0001-GAR_2017-07-20 | July, 20 2017 | Abengoa | No
+Piping
+INF
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report | 0 | Abengoa | No
+LIS
+4521-LIS-AEE-58-63-0001_rev04_HTF System support list | 4 | Abengoa | No
+4521-LIS-AEE-75-63-0001_rev04_MS System support list | 4 | Abengoa | No
+PLN
+4521-PLN-DOT-75-63-0200 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0201 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0202 - HTF Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0203 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0204 - HTF Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0205 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0206 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0207 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0208 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0209 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0210 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0211 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0212 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0213 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0214 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0215 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0216 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0217 - HTF Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0218 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0219 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0220 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0221 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0222 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0223 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0224 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0225 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0226 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0227 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0228 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0229 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0230 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0231 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0232 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0233 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0234 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0235 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0236 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0237 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0238 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0239 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0240 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0241 - HTF Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0242 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0243 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0244 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0245 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0246 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0247 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0248 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0249 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0250 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0251 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0252 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0253 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0254 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0255 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0256 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0257 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0258 - HTF Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0259 - HTF Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0260 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0261 - HTF Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0262 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0263 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0264 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0265 - HTF Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0266 - HTF Pipe supports | 2 | DOTec | No
+4521-PLN-DOT-75-63-0267 - HTF Pipe supports | 2 | DOTec | No
+4521-PLN-DOT-75-63-0268 - HTF Pipe supports | 2 | DOTec | No
+4521-PLN-DOT-75-63-0269 - HTF Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0270 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0271 - HTF Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0272 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0273 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0274 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0275 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0276 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0277 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0278 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0279 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0280 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0281 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0282 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0283 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0284 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0285 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0286 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0287 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0288 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0289 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0290 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0291 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0292 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0293 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0294 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0295 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0296 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0297 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0298 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0299 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0300 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0301 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0302 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0303 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0304 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0305 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0306 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0307 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0308 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0309 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0310 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0311 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0312 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0313 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0314 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0315 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0316 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0317 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0318 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0319 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0320 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0321 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0322 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0323 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0324 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0325 - MS Pipe supports | 2 | DOTec | No
+4521-PLN-DOT-75-63-0326 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0327 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0328 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0329 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0330 - MS Pipe supports | 0 | DOTec | Yes
+4521-PLN-DOT-75-63-0331 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0332 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0333 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0334 - MS Pipe supports | 3 | DOTec | Yes
+4521-PLN-DOT-75-63-0335 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0336 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0337 - MS Pipe supports | 3 | DOTec | Yes
+4521-PLN-DOT-75-63-0338 - MS Pipe supports | 3 | DOTec | Yes
+4521-PLN-DOT-75-63-0339 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0340 - MS Pipe supports | 3 | DOTec | Yes
+4521-PLN-DOT-75-63-0341 - MS Pipe supports | 3 | DOTec | Yes
+4521-PLN-DOT-75-63-0342 - MS Pipe supports | 3 | DOTec | Yes
+4521-PLN-DOT-75-63-0343 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0344 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0345 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0346 - MS Pipe supports | 1 | DOTec | Yes
+4521-PLN-DOT-75-63-0347 - MS Pipe supports | 2 | DOTec | Yes
+4521-PLN-DOT-75-63-0348 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0349 - MS Pipe supports | 1 | DOTec | No
+4521-PLN-DOT-75-63-0350 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0351 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0352 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0353 - MS Pipe supports | 0 | DOTec | No
+4521-PLN-DOT-75-63-0526 - HTF Pipe supports | 1 | DOTec | Yes
+4521-PLN-ALL-75-63-0505 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0510 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0511 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0512 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0513 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0514 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0515 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0516 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0517 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0518 | 0 | SMW | No
+4521-PLN-ALL-75-63-0519 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0520 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0521 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0522 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0523 | 3 | SMW | Yes
+4521-PLN-ALL-75-63-0524 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0525 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0526 | 0 | SMW | No
+4521-PLN-ALL-75-63-0527 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0528 | 0 | SMW | No
+4521-PLN-ALL-75-63-0529 | 0 | SMW | No
+4521-PLN-ALL-75-63-0530 | 0 | SMW | No
+4521-PLN-ALL-75-63-0531 | 0 | SMW | No
+4521-PLN-ALL-75-63-0532 | 0 | SMW | No
+4521-PLN-ALL-75-63-0533 | 0 | SMW | No
+4521-PLN-ALL-75-63-0534 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0536 | 1 | SMW | Yes
+4521-PLN-ALL-75-63-0540 | 1 | SMW | Yes
+212-HTF-05-CS30-20" - HEX Replacement | 2 | Abengoa | No
+212-HTF-06-CS30-20" - HEX Replacement | 2 | Abengoa | No
+252-HTF-12F-CS30-20 - HEX Replacement | 4 | Abengoa | No
+252-HTF-13F-SS38-24" - HEX Replacement | 2 | Abengoa | No
+252-HTF-16F-CS30-20" - HEX Replacement | 7 | Abengoa | Yes
+252-HTF-21F-CS30-8" - HEX Replacement | 4 | Abengoa | Yes
+255-HTF-20F-CS30-1" - HEX Replacement | 4 | Abengoa | Yes
+255-HTF-21F-CS30-1" - HEX Replacement | 2 | Abengoa | No
+255-HTF-22F-CS30-1" - HEX Replacement | 2 | Abengoa | No
+255-HTF-23F-CS30-1" - HEX Replacement | 2 | Abengoa | No
+251-MS-01F-CS31-20" - HEX Replacement | 2 | Abengoa | No
+252-MS-03F-CS31-24 - HEX Replacement | 3 | Abengoa | No
+252-MS-04F-CS31-24 - HEX Replacement | 4 | Abengoa | Yes
+252-MS-06F-CS31-4" - HEX Replacement | 2 | Abengoa | Yes
+252-MS-13E-CS31-24" - HEX Replacement | 4 | Abengoa | No
+252-MS-13F-CS31-24" - HEX Replacement | 3 | Abengoa | Yes
+252-MS-14E-CS31-24" - HEX Replacement | 4 | Abengoa | No
+252-MS-14F-CS31-24" - HEX Replacement | 4 | Abengoa | No
+252-MS-60E-CS31-24" - HEX Replacement | 3 | Abengoa | No
+253-MS-01F-CS31-20" - HEX Replacement | 2 | Abengoa | No
+253-MS-60E-CS31-24" - HEX Replacement | 2 | Abengoa | No
+257-MS-13EF-CS31-2" - HEX Replacement | 2 | Abengoa | No
+255-MS-06F-CS31-4" - HEX Replacement | 4 | Abengoa | Yes
+255-MS-07F-CS31-4" - HEX Replacement | 2 | Abengoa | Yes
+255-MS-08F-CS31-4" - HEX Replacement | 2 | Abengoa | Yes
+255-MS-09F-CS31-4" - HEX Replacement | 2 | Abengoa | Yes
+255-MS-11F-CS31-3" - HEX Replacement | 3 | Abengoa | Yes
+255-MS-12F-CS31-3" - HEX Replacement | 3 | Abengoa | Yes
+255-MS-13F-CS31-3" - HEX Replacement | 3 | Abengoa | Yes
+255-MS-14F-CS31-3" - HEX Replacement | 4 | Abengoa | Yes
+255-MS-15F-CS31-3" - HEX Replacement | 3 | Abengoa | Yes
+257-MS-10EF-CS31-6" - HEX Replacement | 3 | Abengoa | Yes
+257-MS-10F-CS31-4" - HEX Replacement | 3 | Abengoa | Yes
+257-MS-11EF-CS31-4" - HEX Replacement | 2 | Abengoa | No
+257-MS-12EF-CS31-3" - HEX Replacement | 4 | Abengoa | Yes
+257-MS-13EF-CS31-2" - HEX Replacement | 2 | Abengoa | No
+252-N-06F-CS31-2" - HEX Replacement | 3 | Abengoa | Yes
+252-N-08EF-CS31-2" - HEX Replacement | 3 | Abengoa | Yes
+252-N-10F-CS31-2" - HEX Replacement | 4 | Abengoa | Yes
+252-N-11F-CS31-2" - HEX Replacement | 4 | Abengoa | Yes
+252-N-12F-CS31-2" - HEX Replacement | 4 | Abengoa | Yes
+255-N-09EF-CS31-2" - HEX Replacement | 3 | Abengoa | Yes
+255-N-09EF-CS72-1.5" - HEX Replacement | 4 | Abengoa | Yes
+255-N-10EF-CS72-0.5" - HEX Replacement | 3 | Abengoa | Yes
+257-N-11EF-CS72-0.5" - HEX Replacement | 4 | Abengoa | Yes
+4521-PLN-LOI-039-063-0001-GAR-R3_Sht1.pdf | 3 | Lointek | Yes
+4521-PLN-LOI-039-063-0002-GAR R4_Sht1.pdf | 4 | Lointek | Yes
+4521-PLN-LOI-039-063-0003-GAR_R03.pdf | 3 | Lointek | Yes
+4521-PLN-LOI-039-063-0004-GAR R4_ Sht1.pdf | 4 | Lointek | Yes

@@ -1,0 +1,67 @@
+{
+  "id": "8df353d8ec14e769",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-AGE-39-62-0006 Nitrogen Heaters (TES hot pump purge).pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 131525,
+  "size_human": "128 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-AGE-39-62-0006 Nitrogen Heaters (TES hot pump purge)",
+  "doc_code": "4521-ESP-AGE-39-62-0006",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 34237,
+  "token_estimate": 8559,
+  "chunks": 22,
+  "card_path": ".yeyo-memory/cards/8df353d8ec14e769.json",
+  "extracted_path": ".yeyo-memory/extracted/8df353d8ec14e769.txt",
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "Author": "agnsi",
+      "CreationDate": "D:20111014103733-05'00'",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Keywords": "",
+      "ModDate": "D:20160818114727+02'00'",
+      "Producer": "GPL Ghostscript 8.70",
+      "Subject": "",
+      "Title": "4521-ESP-AGE-39-62-0006_Nitrogen_Heater (hot pump purge)"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia nitrogeno",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.797684+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::234",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 234,
+        "doc_code": "4521-ESP-AGE-39-62-0006",
+        "title": "Nitrogen Heaters (TES hot pump purge)",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::234",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 234,
+        "doc_code": "4521-ESP-AGE-39-62-0006",
+        "title": "Nitrogen Heaters (TES hot pump purge)",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:58.797685+00:00"
+}

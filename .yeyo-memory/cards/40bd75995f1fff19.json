@@ -1,0 +1,68 @@
+{
+  "id": "40bd75995f1fff19",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AGE-27-23-P594 - R7_PP-1634_SLD_TES HEX Change.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 568587,
+  "size_human": "555 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AGE-27-23-P594 - R7 PP-1634 SLD TES HEX Change",
+  "doc_code": "4521-PLN-AGE-27-23-P594",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 65,
+  "token_estimate": 16,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/40bd75995f1fff19.json",
+  "extracted_path": ".yeyo-memory/extracted/40bd75995f1fff19.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-PLN-AGE-27-23-P594 - R7.dwg",
+      "4521-PLN-AGE-27-23-P594 - R7.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 686465,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::43",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 43,
+        "doc_code": "4521-PLN-AGE-27-23-P594-R08 PP-1634",
+        "title": "",
+        "revision": "4521-PLN-AGE-27-23-P594_R08 PP-1634",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::43",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 43,
+        "doc_code": "4521-PLN-AGE-27-23-P594-R08 PP-1634",
+        "title": "",
+        "revision": "4521-PLN-AGE-27-23-P594_R08 PP-1634",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::43",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 43,
+        "doc_code": "4521-PLN-AGE-27-23-P594-R08 PP-1634",
+        "title": "",
+        "revision": "4521-PLN-AGE-27-23-P594_R08 PP-1634",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:58.757772+00:00"
+}

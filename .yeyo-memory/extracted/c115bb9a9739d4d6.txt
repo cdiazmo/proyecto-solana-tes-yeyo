@@ -1,0 +1,435 @@
+[page 1]
+ 
+ABENGOA 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+Technical Instruction 
+ 
+Title 
+Performance Test Procedure 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-MOM-LOI-039-062-0001-GAR 
+Supplier Code: 195001-INS-0001 
+Revision: 01 
+Date: 28/02/2017 
+ 
+Prepared by: 
+ Jon Ander Agúndez 
+ 
+Reviewed by: 
+Iñaki Ugarte 
+ 
+Approved by: 
+Aitor López de Subijana 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the 
+express written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 2 of 16 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 30/11/2016 Initial Issue JAA IU ALS 
+01 28/02/2017 Abengoa Comments JAA IU ALS 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 3 of 16 
+ 
+ 
+Index 
+ 
+ 
+1. Aim .......................................................................................................................... 4 
+2. References ................................................................................................................ 5 
+3. Calculation method .................................................................................................. 6 
+4. Agreements prior to the Test .................................................................................... 7 
+5. Testing responsible ................................................................................................... 8 
+6. Reference condition definition .................................................................................. 9 
+7. Measurement of system variables ........................................................................... 10 
+8. Agreements on fouling conditions to be considered ................................................ 11 
+9. Scope and criteria for selection of instruments used in the system variable measurements
+ 12 
+10. Known damages and deficiencies identification .................................................... 13 
+11. Inspections planning ............................................................................................ 14 
+12. Number, installation and location of measuring instruments ................................. 15 
+13. Frequency of measures ......................................................................................... 16 
+ 
+ 
+
+[page 4]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 4 of 16 
+ 
+1. Aim 
+ 
+This document aims to describe the actions and measures to be considered during 
+performance testing of Oil to Salt heat exchangers supplied by LOINTEK for HEX 
+replacement TES Solana, placed in Arizona, USA. 
+ 
+These tests shall determine: 
+ The thermal balance of both fluids, in steady state operation at reference conditions as 
+indicated in Section 6 of the current procedure. 
+ Pressure drop on tube side and shell side at reference conditions. 
+ HAT (Hot Approach Temperature) and CAT (Cold Approach Temperature) values 
+estimated at reference conditions. 
+ OHTC, Duty and Pressure loss calculation at reference conditions 
+
+[page 5]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 5 of 16 
+ 
+2. References 
+ 
+ASME PTC 12.5-2000 Single Phase Heat Exchangers: Performance Test Codes. 
+ 
+4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED 
+
+[page 6]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 6 of 16 
+ 
+3. Calculation method 
+ 
+The calculation method used is based on stated in ASME PTC 12.5 and predicts the 
+performance values to be compared with the values measured during the test. 
+ 
+During the test, data of variables set for monitoring the performance test, shall be 
+extracted from the centralized information on the DCS. 
+ 
+From these data, those which are considered representative of system operation shall be 
+extracted. 
+ 
+After obtaining the data which will be used as a calculation basis, they shall be introduced 
+in the exchange r design program (HTRI), and the output will be compared with the data 
+obtained in field. 
+ 
+First of all, i f the data match (within the limits set out in paragraph 7), LOINTEK will 
+compare H&MB of both sides and will confirm that their similitude is accepta ble in 
+concordance to AME PTC 12.5. Then, once such acceptance is reach, LOINTEK would be 
+allowed to figuring performance at reference conditions. 
+ 
+In case of non -coincidence, it is necessary to study the possible causes of the deviation 
+(deficient instru ment measures, fouling coefficient different from the estimate, other 
+causes ...). 
+ 
+The data will be sent to AEPC for approval. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 7]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 7 of 16 
+ 
+4. Agreements prior to the Test 
+ 
+Stakeholders must agree on the following points before starting them: 
+ 
+A) Adopt this procedure to perform and evaluate the results of the test. 
+ 
+B) Define a testing responsible, which will have access to all necessary data and 
+measurement operations with the team, while performing the tests. The client will be 
+responsible for carrying out these tests ; in these cases, LOINTEK will send qualified 
+personnel to validate tests. 
+ 
+C) Definition of reference conditions (four of the six variables of the system), see table of 
+variables in section 6 , according to 4521-MEM-EPC-075-000-0001 MS -HTF HEX 
+Warranty Annex COMMENTED. 
+ 
+D) Establish the scope and criteria for inspections of equipment before the test. 
+ 
+E) Establish criteria for steady state operation and design conditions. 
+ 
+F) Establish agreements on fouling conditions to be considered in the calculations. 
+ 
+G) The selection criteria of tools to be used in measurements of system variables to be 
+used in the performance calculation. 
+ 
+H) Identification of known damage or equipment failures (eg plugged tubes, etc). 
+ 
+I) Planning of inspections of equipments pre -test, calibration of mea suring equipments 
+to be used, preliminary performance test and performance test. 
+ 
+J) The number, location and installation of temperature, flow and pressure measuring 
+instruments, measurement units to be used during data analysis. In paragraph 9 is 
+expanding on instruments used. 
+ 
+K) Fix the frequency of the measures. In section 13, cadences of proposed measures are 
+fixed. 
+ 
+ 
+
+[page 8]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 8 of 16 
+ 
+5. Testing responsible 
+ 
+Client will be responsible for carrying out these tests, also the analysis of the results and 
+the issuance of the report of the test conclusions. 
+ 
+ 
+
+[page 9]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 9 of 16 
+ 
+6. Reference condition definition 
+ 
+The measurement of four of the six variables for the thermal calculation of the system 
+shall be established in order to calculate the two other variables and thus determine the 
+accuracy of the calculations according to ASME PTC 12.5.It will be agreed between Client 
+and Lointek which measurements are the most reliable. 
+ 
+These variables to choose from are as follows: 
+ 
+REFERENCE CONDITIONS OF THE EQUIPMENT: Case 1. Maximum Charge 
+Hot fluid, HTF 
+ 
+Cold fluid, MOLTEN SALT 
+Directreading variables 
+Hot fluid mass flow, HTF Qh 4,105,612 Lb/hr 
+Cold fluid mass flow, MOLTEN SALT Qc 6,622,459 Lb/hr 
+Hot fluid inlet temperature, HTF Th 737.60 ºF 
+Cold fluid inlet temperature, MOLTEN SALT Tc 554.4 ºF 
+Hot fluid inlet pressure, HTF Ph 237.6 psia 
+Cold fluid inlet pressure, MOLTEN SALT Pc 137.7 psia 
+Calculated variables 
+Hot fluid outlet temperature, HTF Th 564.0 ºF 
+Cold fluid outlet temperature, MOLTEN SALT Tc 730.8 ºF 
+Hot fluid outlet pressure, HTF Ph 186.8 psia 
+Cold fluid outlet pressure, MOLTEN SALT Pc 39.35 psia 
+
+[page 10]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 10 of 16 
+ 
+7. Measurement of system variables 
+ 
+The Oil to Salt heat exchanger must operate at steady state conditions before to starting 
+with taking measures for at least 15 minutes. 
+ 
+If in that period of tim e, flow stability is not achieved, the time of performing of the test 
+should be extended until this point is reached. 
+ 
+Two measurements must be performed to ensure repeatability of results. 
+ 
+Heat exchangers must operate at steady state conditions and as cl ose as possible to the 
+design mode. The limits, which are defined based on operating experience of this kind of 
+power plants, are shown in the following table: 
+ 
+DEVIATIONS LIMIT IN PARAMETERS 
+Parameters 
+Deviation limit for test conditions of 
+the desing mode 
+Steadystateconditionlimit 
+Hot Fluid MassFlow +- 10 % +- 3 % 
+Hot Fluid Inlet Temperature +- 36 ºF +- 9 ºF 
+Hot Fluid InletPressure +- 10% +- 5 % 
+Cold Fluid MassFlow +- 10% +- 3% 
+Cold Fluid Inlet Temperature +- 36 ºF +- 9 ºF 
+Cold Fluid InletPressure +- 10 % +- 5 % 
+ 
+ 
+
+[page 11]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 11 of 16 
+ 
+8. Agreements on fouling conditions to be considered 
+ 
+The fouling coefficient used in design calculations is established as initial criterion. 
+ 
+Only in the case that a direct observation of the exchange surfaces is made and it is 
+checked that some extraordinary element involves reasonably a review of this coefficient, 
+a different coefficient to the design one shall be used. In any case, this new value will be 
+agreed between stakeholders. 
+ 
+ 
+ 
+
+[page 12]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 12 of 16 
+ 
+9. Scope and criteria for selection of instruments used in the system variable 
+measurements 
+ 
+The elements installed during assembly shall be used to calculate the performance of the 
+exchanger. 
+ 
+His placement will be as close as possible to the exchanger. 
+ 
+Then, an indication of the accuracy that measures shoul d have to the uncertainty of the 
+results obtained is admissible. 
+ 
+Measurement Accuracy 
+(over the measured value) 
+Flow ± 5% 
+Temperature ± 3,69 ºF 
+Pressure ± 0,3 % 
+ 
+Respecting the values of error in the measures, we shall obtain values of uncertainty, as 
+follows: 
+ 
+Result Uncertainty 
+Transfer Rate ± 3 – 10 % 
+Heat Exchanged ± 3 – 10 % 
+Pressure Loss ± 3 – 12 % 
+ 
+As mentioned above, instruments to be used are those used for the control and safety of 
+the power plant, which are communicated to the DCS, which will record all necessary 
+measures. 
+ 
+Note: The uncertainty is pending, must be justified through the delivery of supporting 
+calculations. 
+ 
+
+[page 13]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 13 of 16 
+ 
+10. Known damages and deficiencies identification 
+ 
+In case of plugged tubes prior to performance test, a plane of the tubesheet of these 
+equipments shall be included in Annex A, indicating clearly the total number of plugged tubes 
+and their position. 
+
+[page 14]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 14 of 16 
+ 
+11. Inspections planning 
+ 
+Before doi ng the final performance test, a tracing of the general behavior of each 
+equipment shall be carried out, in order to detect possible anomalies in the measurements 
+of the parameters obtained. 
+It shall review, in particular: 
+ 
+- Overall dimensions of equipments , and correct placement and installation of lagging 
+and its thickness. 
+ 
+- Define the number of plugged tubes (if applicable). 
+ 
+- Revision of the cleaning of inside surfaces that have been made after the hydrostatic 
+test. 
+ 
+- Revision of the instruments to be used for the performance test, verifying its correct 
+placement and operation. 
+ 
+
+[page 15]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 15 of 16 
+ 
+12. Number, installation and location of measuring instruments 
+ 
+At least, the following measuring elements shall be installed on each equipment: 
+ 
+- Thermometers and / or temperature transmitters at inlet and outlet of the hot and cold 
+fluids. 
+ 
+- Manometers and / or pressure transmitters at inlet and outlet of the hot and cold 
+fluids. 
+ 
+- Mass flow meters in the lines of hot and cold fluids. 
+ 
+In section 6, instruments used for the realization of the performance test are detailed. 
+ 
+ 
+ 
+ 
+
+[page 16]
+ABENGOA 
+Document: 4521-MOM-LOI-039-062-0001-GAR 
+ 
+Revision: 01 Date: 28/02/2017 
+Page: 16 of 16 
+ 
+13. Frequency of measures 
+ 
+During performance testing, measures will be made, and they will be recorded in a table, 
+with the following conditions: 
+ 
+- If the equipment could be operated under service conditions, these meas ures will be 
+used to analyze the performance of the exchanger. 
+ 
+- The equipment must be operated at steady state conditions during at least 15 minutes. 
+15 measures shall be carried out during 30 minutes, with 2 minutes of separation 
+between them. 
+ 
+- Whether any of the measures is inconsistent with data, it will be rejected and will not 
+be used for the final analysis. 
+ 
+- When the operating conditions of the equipment change, the process shall be 
+repeated as described above, so that, at every hour, differ ent operating conditions can 
+be analyzed.

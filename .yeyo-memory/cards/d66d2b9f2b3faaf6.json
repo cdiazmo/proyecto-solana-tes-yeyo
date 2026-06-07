@@ -1,0 +1,113 @@
+{
+  "id": "d66d2b9f2b3faaf6",
+  "path": "12 As Built TES 6/04_Piping/03_Stress Calculation report/4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 142656,
+  "size_human": "139 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-INF-AEE-21-63-0004 (A03) Rev00 Input Echo",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 99865,
+  "token_estimate": 24966,
+  "chunks": 64,
+  "card_path": ".yeyo-memory/cards/d66d2b9f2b3faaf6.json",
+  "extracted_path": ".yeyo-memory/extracted/d66d2b9f2b3faaf6.txt",
+  "metadata": {
+    "pages": 44,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20170131105856+01'00'",
+      "ModDate": "D:20170131105856+01'00'",
+      "Author": "agjbi",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::114",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 114,
+        "doc_code": "4521-INF-AEE-21-63-0004-GAR-TES HEX Change-stress report",
+        "title": "",
+        "revision": "4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::114",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 114,
+        "doc_code": "4521-INF-AEE-21-63-0004-GAR-TES HEX Change-stress report",
+        "title": "",
+        "revision": "4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::137",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 137,
+        "doc_code": "4521-INF-AEE-21-63-0004-GAR-TES HEX Change-stress report",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::198",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 198,
+        "doc_code": "4521-INF-AEE-21-63-0004-GAR-TES HEX Change-stress report",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::191",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 191,
+        "doc_code": "4521-INF-AEE-21-63-0004-GAR-TES HEX Change-stress report",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::116",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 116,
+        "doc_code": "4521-INF-AEE-21-63-0004-GAR-TES HEX Change-stress report",
+        "title": "",
+        "revision": "4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:19:42.838956+00:00"
+}

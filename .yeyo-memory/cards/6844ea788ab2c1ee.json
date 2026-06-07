@@ -1,0 +1,71 @@
+{
+  "id": "6844ea788ab2c1ee",
+  "path": "02 GD LOI/mama/4521-MOM-LOI-039-062-0004-GAR-901_Rev00 Installation, Start-Up, Operation and Maintenance Instructions.xlsx",
+  "top_dir": "02 GD LOI",
+  "ext": "xlsx",
+  "size_bytes": 39187,
+  "size_human": "38 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-MOM-LOI-039-062-0004-GAR-901 Rev00 Installation, Start-Up, Operation and Maintenance Instructions",
+  "doc_code": "4521-MOM-LOI-039-062-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2364,
+  "token_estimate": 591,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/6844ea788ab2c1ee.json",
+  "extracted_path": ".yeyo-memory/extracted/6844ea788ab2c1ee.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::324",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 324,
+        "doc_code": "4521-MOM-LOI-039-062-0004",
+        "title": "INSTALATION, START-UP, OPERATION AND MAINTENANCE INSTRUCTIONS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::324",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 324,
+        "doc_code": "4521-MOM-LOI-039-062-0004",
+        "title": "INSTALATION, START-UP, OPERATION AND MAINTENANCE INSTRUCTIONS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:30.887955+00:00"
+}

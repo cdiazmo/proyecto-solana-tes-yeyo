@@ -1,0 +1,43 @@
+{
+  "id": "2c5c03fd780197be",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0004-GAR-901_Rev0 Layout.xlsx",
+  "top_dir": "02 GD LOI",
+  "ext": "xlsx",
+  "size_bytes": 40555,
+  "size_human": "40 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0004-GAR-901 Rev0 Layout",
+  "doc_code": "4521-PLN-LOI-039-062-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2136,
+  "token_estimate": 534,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/2c5c03fd780197be.json",
+  "extracted_path": ".yeyo-memory/extracted/2c5c03fd780197be.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:10.801468+00:00"
+}

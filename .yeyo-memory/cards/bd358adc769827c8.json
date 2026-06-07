@@ -1,0 +1,32 @@
+{
+  "id": "bd358adc769827c8",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/181205/W103387-0-60070_Painting_Procedure_en-00.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 912213,
+  "size_human": "891 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "W103387-0-60070 Painting Procedure en-00",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 19663,
+  "token_estimate": 4915,
+  "chunks": 13,
+  "card_path": ".yeyo-memory/cards/bd358adc769827c8.json",
+  "extracted_path": ".yeyo-memory/extracted/bd358adc769827c8.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Author": "Dieter Fernengel",
+      "CreationDate": "D:20181127171610+01'00'",
+      "Creator": "Adobe Acrobat Pro 10.1.16",
+      "ModDate": "D:20181127171638+01'00'",
+      "Producer": "Adobe Acrobat Pro 10.1.16",
+      "Subject": "Abnahme",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:35.557987+00:00"
+}

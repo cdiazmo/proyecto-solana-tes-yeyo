@@ -1,0 +1,31 @@
+{
+  "id": "abbc39becc77f747",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Ensival/scope moteur+courbes+dwg+ds.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 248715,
+  "size_human": "243 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "scope moteur+courbes+dwg+ds",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 6178,
+  "token_estimate": 1544,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/abbc39becc77f747.json",
+  "extracted_path": ".yeyo-memory/extracted/abbc39becc77f747.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Author": "CEHO",
+      "CreationDate": "D:20161017084551+02'00'",
+      "Creator": "Adobe Acrobat 10.0.0",
+      "ModDate": "D:20161017084551+02'00'",
+      "Producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "Title": "scope moteur+courbes+dwg+ds.pdf"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:11:56.786723+00:00"
+}

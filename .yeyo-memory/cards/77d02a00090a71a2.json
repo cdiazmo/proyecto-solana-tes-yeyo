@@ -1,0 +1,36 @@
+{
+  "id": "77d02a00090a71a2",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/4521-PLN-LOI-039-063-0002-GAR R4_Sht1.dwg",
+  "top_dir": "12 As Built TES 6",
+  "ext": "dwg",
+  "size_bytes": 273039,
+  "size_human": "267 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-LOI-039-063-0002-GAR R4 Sht1",
+  "doc_code": "4521-PLN-LOI-039-063-0002",
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/77d02a00090a71a2.json",
+  "extracted_path": null,
+  "metadata": {
+    "index_matches": [
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::432",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 432,
+        "doc_code": "4521-PLN-LOI-039-063-0002-GAR R4-Sht1.pdf",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:20:29.040799+00:00"
+}

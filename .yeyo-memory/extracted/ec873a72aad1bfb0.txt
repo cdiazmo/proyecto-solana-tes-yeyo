@@ -1,0 +1,737 @@
+[page 1]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 1 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Instructions: 1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be included on all pages. 2. Revisions are identified in the body of the document. Description of Rev. No. Date By Chk’d App’d Revision Including Page Numbers 0 10/01/2017 LMOB JAG JMGL For Construction 1 04/05/2018 PAPT PAPT IGA Update IBC code reference to IBC 2012 
+
+[page 2]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 2 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Contents Page No. 1 Overview ............................................................................................................................... 4 2 Description ............................................................................................................................ 4 3 References ............................................................................................................................. 5 4 Codes and normative ............................................................................................................. 5 5 Design basis ........................................................................................................................... 6 5.1 Materials ....................................................................................................................... 6 5.2 Ground features: ........................................................................................................... 7 5.3 Safety factors and load combination coefficients: ......................................................... 11 5.4 Loads. ......................................................................................................................... 11 5.5 Design process: ........................................................................................................... 11 6 Results ................................................................................................................................. 13 7 Annex 1: Load Combinations ............................................................................................... 13 7.1 Partial safety factors (g) and combination factors (y)...................................................... 14 7.2 Combinations .............................................................................................................. 19 
+
+[page 3]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 3 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+8 Annex 2. Footing report ....................................................................................................... 26 8.1 Model of calculation .................................................................................................... 26 8.2 Checking of reinforcement: ......................................................................................... 27 9 Annex 3. Walls report .......................................................................................................... 35 9.1 Model of calculation .................................................................................................... 35 9.2 Design of reinforcement .............................................................................................. 36 10 Annex 4. Equipment load ................................................................................................ 44 
+
+[page 4]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 4 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+1 Overview In the present document, the TES exchanger foundations of Solana Generating Station are designed. 
+2 Description Foundation’s shape and dimensions is shown in the next figure: 
+ 
+
+[page 5]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 5 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+The TES exchangers foundation are composed by two reinforced concrete footings, whose area is 49’2”x 11’6” and thickness of 3 feet, with three reinforced concrete walls per footing whose dimensions are 14’7” of height and 3’0” feet of thickness. These footings are projected to support the TES Exchangers Equipment. These footings are buried down 5 feet of engineered fill according to design instructions. 
+3 References The ground data are obtained from “Report on Geotechnical Investigation. Abengoa Solar (Solana Power Plant)”, from Speedie and Associates document, Project No. 0911985A, dated 12/21/09 A especially the annex “Final Report” dated 06/21/2010 from Hushmand Associates, Incorporated to Speedie and Associates. The loads are obtained from the next documents: - 4521-PLN-FWE-21-52-0001 - 4521-PLN-FWE-21-52-0002 - 4521-PLN-FWE-21-52-0101 - 4521-PLN-FWE-21-52-0001 
+4 Codes and normative - IBC 2012 International Building Code - ASCE 7-05 Minimum Design Loads for Buildings and Other Structures. 
+
+[page 6]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 6 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+- ACI-318 Building Code Requirements for Structural Concrete. - API 650 Welded Steel Tanks for Oil Storage. 
+5 Design basis For design purpose a static finite elements analysis have been performed using a beam elements frame in place of the foundation in order to apply the wind and earthquake loads. 5.1 Materials In accordance with the Geotechnical Report, the soil has a sulfate concentration within the range of 44 to 170 p.p.m., therefore the exposure must be classified as S1. Though the soil water contains chlorides in concentrations of 120 to 430 ppm, the water level is more than ten metres below grade which makes this chloride contents irrelevant. Hence the following materials are chosen: - Concrete o 4000 psi o water-cement relation, W/CM ≤ 0.5 o Type II cement - Steel: 
+
+[page 7]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 7 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+o Grade 60 5.2 Ground features: For the ground bearing capacity, according to the Geothecnical Report, it can be considered a value of 3.000 psf. In according to Test boring (number PB-09 and PB-11), nearer to the area where it project this foundations, the average number of blows are about 25 to 30 blow/feet, so the ground bearing capacity is about 2.850 – 3.400 psf. 
+ Where, • N= Number of blows per feet: 25-30 b/ft • B= width of footing =11’6” • D= depth of foundation=5’0” 
+
+[page 8]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 8 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Image 1: Locate of the tests boring PB-09 and PB-11 where it projects the foundation 
+
+[page 9]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 9 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Image 2: Test boring PB-09 to depth where it projects the foundation 
+
+[page 10]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 10 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Image 3: Test boring PB-11 to depth where it projects the foundation 
+
+[page 11]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 11 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+5.3 Safety factors and load combination coefficients: - Fracture U.L.S. concrete: ACI-318 - Fracture U.L.S. foundation concrete: ACI-318 - Fracture U.L.S. rolled steel: ANSI/AISC 360-05 (LRFD) 5.4 Loads. - Specific weight of concrete elements: 156 lb per c.f. - Loads transmitted by TES Exchangers equipment (to see annex 4). 5.5 Design process: Rebar quantity has been obtained according to ACI 318 specifications using the rectangular diagram method. Adherence, cracking and shear strength have been checked. The footing has been reinforced with a minimum of 1.8 ‰ per each side as the ACI-318 indicates in 7.12.2.1 for mat foundations and this same reinforcement has been used as base reinforcement. In the case of walls have been designed with a minimum reinforcement in according to the next table 11.6.1 from ACI-318: 
+
+[page 12]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 12 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+
+[page 13]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 13 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+6 Results To analyse the foundation CYPECAD and SAP2000 software has been used, where the results of the analyzing process are shown in computer data annexes 2 and 3. 
+7 Annex 1: Load Combinations The load combinations will be defined according to the following criteria for the different project situations: - Situations persistent or transient 
+ - Situations seismic loading 
+ - Where: Gk Permanent load Pk Prestressing action Qk Variable load AE Seismic load gG Permanent load partial safety factor gP Partial safety coefficient for prestressing action gQ,1 Main variable load partial safety factor 
+ABENER TEYMA SOLANA ABEINSA ENGINEERING 
+Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR 
+for Job No.: No. Req'd.: 
+TES Exchangers foundations Project: Solana Generating Station 
+ P a g e 1 3 o f 4 6 
+ 
+0 10/01/2017 For Construction LMOB JAG JMGL 
+No. Date Description By Chk'd App'd App'd 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the 
+submission of billings or estimates in billing cycl es other than thirty days. A written 
+description of such other billing cycle applicable to the project is available from the 
+owners designated agent Teyma USA & Abener Engineer ing and Construction Services 
+General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and 
+the owner’s designated agent shall provide this wri tten description on request. 
+ 
+ 
+Information and know-how hereon are confidential an d proprietary and may not be used, reproduced, or r evealed to others except 
+in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and 
+Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop 
+drawings shall bear or refer to this stamp. 
+ 
+6 Results 
+To analyse the foundation CYPECAD and SAP2000 softw are has been used, where the results of the 
+analyzing process are shown in computer data annexe s 2 and 3. 
+ 
+7 Annex 1: Load Combinations 
+The load combinations will be defined according to the following criteria for the different project 
+situations: 
+- Situations persistent or transient 
+≥≥
+γ +γ + γ∑∑Gj kj P k Qi ki
+j 1 i 1
+GP Q
+ 
+- Situations seismic loading 
+≥ ≥
+γ +γ +γ + γ∑∑ EGj kj P k A E Qi ki
+j 1 i 1
+GP A Q
+ 
+- Where: 
+ Gk Permanent load 
+Pk Prestressing action 
+Qk Variable load 
+AE Seismic load 
+gG Permanent load partial safety factor 
+gP Partial safety coefficient for prestressing action 
+ABENER TEYMA SOLANA ABEINSA ENGINEERING 
+Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR 
+for Job No.: No. Req'd.: 
+TES Exchangers foundations Project: Solana Generating Station 
+ P a g e 1 3 o f 4 6 
+ 
+0 10/01/2017 For Construction LMOB JAG JMGL 
+No. Date Description By Chk'd App'd App'd 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the 
+submission of billings or estimates in billing cycl es other than thirty days. A written 
+description of such other billing cycle applicable to the project is available from the 
+owners designated agent Teyma USA & Abener Engineer ing and Construction Services 
+General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and 
+the owner’s designated agent shall provide this wri tten description on request. 
+ 
+ 
+Information and know-how hereon are confidential an d proprietary and may not be used, reproduced, or r evealed to others except 
+in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and 
+Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop 
+drawings shall bear or refer to this stamp. 
+ 
+6 Results 
+To analyse the foundation CYPECAD and SAP2000 softw are has been used, where the results of the 
+analyzing process are shown in computer data annexe s 2 and 3. 
+ 
+7 Annex 1: Load Combinations 
+The load combinations will be defined according to the following criteria for the different project 
+situations: 
+- Situations persistent or transient 
+≥≥
+γ +γ + γ∑∑Gj kj P k Qi ki
+j 1 i 1
+GP Q
+ 
+- Situations seismic loading 
+≥ ≥
+γ +γ +γ + γ∑∑ EGj kj P k A E Qi ki
+j 1 i 1
+GP A Q
+ 
+- Where: 
+ Gk Permanent load 
+Pk Prestressing action 
+Qk Variable load 
+AE Seismic load 
+gG Permanent load partial safety factor 
+gP Partial safety coefficient for prestressing action 
+
+[page 14]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 14 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+gQ,i Accompanying variable load partial safety factor gAE Seismic load partial safety factor 7.1 Partial safety factors (g) and combination factors (y) For each project situation and limit state, the loading coefficients will be determined by: Fracture U.L.S. Concrete: ACI 318M-08 Fracture U.L.S. Foundation concrete: ACI 318M-08 Fracture U.L.S. Rolled steel: ANSI/AISC 360-05 (LRFD) (9-1) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.400 1.400 Live load (Q) Wind (Q) (9-2 Lr) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) 0.000 1.600 Wind (Q) 
+
+[page 15]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 15 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ (9-2 S) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) 0.000 1.600 Wind (Q) (9-3 Lr, L) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) 0.000 0.500 Wind (Q) (9-3 S, L) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) 0.000 0.500 Wind (Q) 
+
+[page 16]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 16 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ (9-3 Lr, W) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) Wind (Q) 0.000 0.800 (9-3 S, W) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) Wind (Q) 0.000 0.800 (9-4 Lr) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) 0.000 0.500 Wind (Q) 1.600 1.600 (9-4 S) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) 0.000 0.500 Wind (Q) 1.600 1.600 
+
+[page 17]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 17 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+(9-5) Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.200 1.200 Live load (Q) 0.000 0.500 Wind (Q) Earthquake (E) -1.000 1.000 (9-6) Partial safety factors (g) Favourable Unfavourable Dead load (G) 0.900 0.900 Live load (Q) Wind (Q) 0.000 1.600 (9-7) Partial safety factors (g) Favourable Unfavourable Dead load (G) 0.900 0.900 Live load (Q) Wind (Q) Earthquake (E) -1.000 1.000 Ground bearing pressures Variable loads without seismic loading Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.000 1.000 
+
+[page 18]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 18 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Variable loads without seismic loading Partial safety factors (g) Favourable Unfavourable Live load (Q) 0.000 1.000 Wind (Q) 0.000 1.000 Seismic loading Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.000 1.000 Live load (Q) 0.000 1.000 Wind (Q) Earthquake (E) -1.000 1.000 Displacements Variable loads without seismic loading Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.000 1.000 Live load (Q) 0.000 1.000 Wind (Q) 0.000 1.000 Seismic loading Partial safety factors (g) Favourable Unfavourable Dead load (G) 1.000 1.000 Live load (Q) 0.000 1.000 Wind (Q) 
+
+[page 19]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 19 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Seismic loading Partial safety factors (g) Favourable Unfavourable Earthquake (E) -1.000 1.000 7.2 Combinations n Loadcase names: SW Self weight DL Dead load Qa Live load LL water LL water LL ope LL ope Hydro Hydro W+X W+X W-X W-X W+Y W+Y W-Y W-Y Ux Ux Uy Uy n Fracture U.L.S. Concrete n Fracture U.L.S. Foundation concrete n Fracture U.L.S. Rolled steel Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 1 1.400 1.400 
+
+[page 20]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 20 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 2 1.200 1.200 3 1.200 1.200 1.600 4 1.200 1.200 1.600 5 1.200 1.200 1.600 1.600 6 1.200 1.200 1.600 7 1.200 1.200 1.600 1.600 8 1.200 1.200 1.600 9 1.200 1.200 1.600 1.600 10 1.200 1.200 0.500 0.500 11 1.200 1.200 0.500 0.500 12 1.200 1.200 0.500 0.500 13 1.200 1.200 1.600 14 1.200 1.200 0.500 1.600 15 1.200 1.200 0.500 1.600 16 1.200 1.200 0.500 0.500 1.600 17 1.200 1.200 0.500 1.600 18 1.200 1.200 0.500 0.500 1.600 19 1.200 1.200 0.500 1.600 20 1.200 1.200 0.500 0.500 1.600 21 1.200 1.200 1.600 22 1.200 1.200 0.500 1.600 23 1.200 1.200 0.500 1.600 24 1.200 1.200 0.500 0.500 1.600 25 1.200 1.200 0.500 1.600 26 1.200 1.200 0.500 0.500 1.600 27 1.200 1.200 0.500 1.600 28 1.200 1.200 0.500 0.500 1.600 29 1.200 1.200 1.600 30 1.200 1.200 0.500 1.600 31 1.200 1.200 0.500 1.600 32 1.200 1.200 0.500 0.500 1.600 33 1.200 1.200 0.500 1.600 
+
+[page 21]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 21 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 34 1.200 1.200 0.500 0.500 1.600 35 1.200 1.200 0.500 1.600 36 1.200 1.200 0.500 0.500 1.600 37 1.200 1.200 1.600 38 1.200 1.200 0.500 1.600 39 1.200 1.200 0.500 1.600 40 1.200 1.200 0.500 0.500 1.600 41 1.200 1.200 0.500 1.600 42 1.200 1.200 0.500 0.500 1.600 43 1.200 1.200 0.500 1.600 44 1.200 1.200 0.500 0.500 1.600 45 1.200 1.200 -1.000 46 1.200 1.200 0.500 -1.000 47 1.200 1.200 0.500 -1.000 48 1.200 1.200 0.500 0.500 -1.000 49 1.200 1.200 0.500 -1.000 50 1.200 1.200 0.500 0.500 -1.000 51 1.200 1.200 0.500 -1.000 52 1.200 1.200 0.500 0.500 -1.000 53 1.200 1.200 1.000 54 1.200 1.200 0.500 1.000 55 1.200 1.200 0.500 1.000 56 1.200 1.200 0.500 0.500 1.000 57 1.200 1.200 0.500 1.000 58 1.200 1.200 0.500 0.500 1.000 59 1.200 1.200 0.500 1.000 60 1.200 1.200 0.500 0.500 1.000 61 1.200 1.200 -1.000 62 1.200 1.200 0.500 -1.000 63 1.200 1.200 0.500 -1.000 64 1.200 1.200 0.500 0.500 -1.000 65 1.200 1.200 0.500 -1.000 
+
+[page 22]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 22 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 66 1.200 1.200 0.500 0.500 -1.000 67 1.200 1.200 0.500 -1.000 68 1.200 1.200 0.500 0.500 -1.000 69 1.200 1.200 1.000 70 1.200 1.200 0.500 1.000 71 1.200 1.200 0.500 1.000 72 1.200 1.200 0.500 0.500 1.000 73 1.200 1.200 0.500 1.000 74 1.200 1.200 0.500 0.500 1.000 75 1.200 1.200 0.500 1.000 76 1.200 1.200 0.500 0.500 1.000 77 0.900 0.900 78 0.900 0.900 1.600 79 0.900 0.900 1.600 80 0.900 0.900 1.600 81 0.900 0.900 1.600 82 0.900 0.900 -1.000 83 0.900 0.900 1.000 84 0.900 0.900 -1.000 85 0.900 0.900 1.000 n Ground bearing pressures n Displacements Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 1 1.000 1.000 2 1.000 1.000 1.000 3 1.000 1.000 1.000 4 1.000 1.000 1.000 1.000 5 1.000 1.000 1.000 6 1.000 1.000 1.000 1.000 
+
+[page 23]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 23 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 7 1.000 1.000 1.000 8 1.000 1.000 1.000 1.000 9 1.000 1.000 1.000 10 1.000 1.000 1.000 1.000 11 1.000 1.000 1.000 1.000 12 1.000 1.000 1.000 1.000 1.000 13 1.000 1.000 1.000 1.000 14 1.000 1.000 1.000 1.000 1.000 15 1.000 1.000 1.000 1.000 16 1.000 1.000 1.000 1.000 1.000 17 1.000 1.000 1.000 18 1.000 1.000 1.000 1.000 19 1.000 1.000 1.000 1.000 20 1.000 1.000 1.000 1.000 1.000 21 1.000 1.000 1.000 1.000 22 1.000 1.000 1.000 1.000 1.000 23 1.000 1.000 1.000 1.000 24 1.000 1.000 1.000 1.000 1.000 25 1.000 1.000 1.000 26 1.000 1.000 1.000 1.000 27 1.000 1.000 1.000 1.000 28 1.000 1.000 1.000 1.000 1.000 29 1.000 1.000 1.000 1.000 30 1.000 1.000 1.000 1.000 1.000 31 1.000 1.000 1.000 1.000 32 1.000 1.000 1.000 1.000 1.000 33 1.000 1.000 1.000 34 1.000 1.000 1.000 1.000 35 1.000 1.000 1.000 1.000 36 1.000 1.000 1.000 1.000 1.000 37 1.000 1.000 1.000 1.000 38 1.000 1.000 1.000 1.000 1.000 
+
+[page 24]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 24 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 39 1.000 1.000 1.000 1.000 40 1.000 1.000 1.000 1.000 1.000 41 1.000 1.000 -1.000 42 1.000 1.000 1.000 -1.000 43 1.000 1.000 1.000 -1.000 44 1.000 1.000 1.000 1.000 -1.000 45 1.000 1.000 1.000 -1.000 46 1.000 1.000 1.000 1.000 -1.000 47 1.000 1.000 1.000 -1.000 48 1.000 1.000 1.000 1.000 -1.000 49 1.000 1.000 1.000 50 1.000 1.000 1.000 1.000 51 1.000 1.000 1.000 1.000 52 1.000 1.000 1.000 1.000 1.000 53 1.000 1.000 1.000 1.000 54 1.000 1.000 1.000 1.000 1.000 55 1.000 1.000 1.000 1.000 56 1.000 1.000 1.000 1.000 1.000 57 1.000 1.000 -1.000 58 1.000 1.000 1.000 -1.000 59 1.000 1.000 1.000 -1.000 60 1.000 1.000 1.000 1.000 -1.000 61 1.000 1.000 1.000 -1.000 62 1.000 1.000 1.000 1.000 -1.000 63 1.000 1.000 1.000 -1.000 64 1.000 1.000 1.000 1.000 -1.000 65 1.000 1.000 1.000 66 1.000 1.000 1.000 1.000 67 1.000 1.000 1.000 1.000 68 1.000 1.000 1.000 1.000 1.000 69 1.000 1.000 1.000 1.000 70 1.000 1.000 1.000 1.000 1.000 
+
+[page 25]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 25 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Comb. SW DL Qa LL water LL ope Hydro W+X W-X W+Y W-Y Ux Uy 71 1.000 1.000 1.000 1.000 72 1.000 1.000 1.000 1.000 1.000 
+ 
+
+[page 26]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 26 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+8 Annex 2. Footing report 8.1 Model of calculation In order to design and check of footing it has used of CYPECAD software: 
+ 
+
+[page 27]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 27 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+8.2 Checking of reinforcement: Reference: (M7-M8-M9) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status Pressures on the soil: 
+Criteria of CYPE 
+ - Mean stress in persistent situations: 
+Maximum: 3298.77 psf Calculated: 2783.45 psf 
+Verified - Mean bearing pressure in accidental seismic situations: 
+Maximum: 4906.4 psf Calculated: 2783.45 psf 
+Verified - Maximum bearing pressure in persistent situations without wind: 
+Maximum: 4122.95 psf Calculated: 2910.44 psf 
+Verified - Maximum bearing pressure in persistent situations with wind: 
+Maximum: 4122.95 psf Calculated: 3006.7 psf 
+Verified - Maximum bearing pressure in accidental seismic situations: 
+Maximum: 6132.2 psf Calculated: 3404.04 psf 
+Verified Overturning of footing: 
+If the safety reserve % is greater than zero, then the overturning safety factors are greater than those strictly required for all equilibrium combinations. 
+ - In X direction: 
+Safety reserve: 2623.8 % 
+Verified - In Y direction: 
+Safety reserve: 1010.4 % 
+Verified Sliding of the footing: 
+ - Persistent situations: 
+ Recommendation from the book 'Cálculo de estructuras de cimentación', J. Calavera. 4ª edición, ed. INTEMAC, 2000.. 
+Minimum: 1.5 Calculated: 43.58 
+Verified 
+
+[page 28]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 28 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Reference: (M7-M8-M9) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status - Accidental situations: 
+ Recommendation from the book 'Muros de Contención y Muros de Sótano', J. Calavera. 2ª edición, ed. INTEMAC, 1989. 
+Minimum: 1.2 Calculated: 14.8 
+Verified Bending in the pad footing: 
+ - In X direction: 
+Moment: 377828.16 lbs·ft 
+Verified - In Y direction: 
+Moment: 1364469.43 lbs·ft 
+Verified Shear in the footing: 
+ - In X direction: 
+Shear: 0.00 lbs 
+Verified - In Y direction: 
+Shear: 220770.91 lbs 
+Verified Oblique compression in the footing: 
+Criteria of CYPE 
+Maximum: 172045 psf 
+ - Persistent situations: 
+Calculated: 7951 psf 
+Verified - Accidental seismic situations: 
+Calculated: 5668 psf 
+Verified Minimum depth: 
+ Chapter 15.7 (ACI 318M-08 Code) 
+Minimum: 8 5/16" Calculated: 3'-0" 
+Verified Space to anchor starter bars in foundation: 
+Minimum: 7 7/8" 
+ - M7: 
+Calculated: 2'-8 11/16" 
+Verified - M8: 
+Calculated: 2'-8 11/16" 
+Verified - M9: 
+Calculated: 2'-8 11/16" 
+Verified Minimum geometric ratio: 
+Chapter 7.12.2.1 (ACI 318M-08 Code) 
+Minimum: 0.0018 
+ - Bottom reinf. X direction: 
+Calculated: 0.0018 
+Verified - Top reinf. X direction: 
+Calculated: 0.0018 
+Verified 
+
+[page 29]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 29 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Reference: (M7-M8-M9) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status - Bottom reinf. Y direction: 
+Calculated: 0.0018 
+Verified - Top reinf. Y direction: 
+Calculated: 0.0018 
+Verified Minimum diameter of the bars: 
+Criteria of CYPE 
+Minimum: 13/32" 
+ - Bottom reinforcement mesh: 
+Calculated: 3/4" 
+Verified - Top reinforcement mesh: 
+Calculated: 3/4" 
+Verified Maximum bar spacing: 
+Criteria of CYPE 
+Maximum: 11 13/16" 
+ - Bottom reinf. X direction: 
+Calculated: 7" 
+Verified - Bottom reinf. Y direction: 
+Calculated: 7" 
+Verified - Top reinf. X direction: 
+Calculated: 7" 
+Verified - Top reinf. Y direction: 
+Calculated: 7" 
+Verified Minimum bar spacing: 
+CYPE criteria, based on: J. Calavera. "Cálculo de Estructuras de Cimentación". Chapter 3.16 
+Minimum: 3 15/16" 
+ - Bottom reinf. X direction: 
+Calculated: 7" 
+Verified - Bottom reinf. Y direction: 
+Calculated: 7" 
+Verified - Top reinf. X direction: 
+Calculated: 7" 
+Verified - Top reinf. Y direction: 
+Calculated: 7" 
+Verified Anchorage length: 
+Criteria from the book "Cálculo de estructuras de cimentación", J. Calavera. Ed. INTEMAC, 1991 
+Minimum: 11 13/16" 
+ - Bott. reinf. X direction toward rgt: 
+Calculated: 17'-6 5/8" 
+Verified 
+
+[page 30]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 30 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Reference: (M7-M8-M9) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status - Bott. reinf. X direction toward lft: 
+Calculated: 17'-7 1/32" 
+Verified - Bott. reinf. Y direction upwards: 
+Calculated: 3'-0 7/32" 
+Verified - Bott. reinf. Y direction downwards: 
+Calculated: 3'-0 5/8" 
+Verified - Top reinf. X direction toward rgt: 
+Calculated: 13'-9 11/32" 
+Verified - Top reinf. X direction toward lft: 
+Calculated: 13'-9 11/32" 
+Verified - Top reinf. Y direction upwards: 
+Calculated: 3'-0 7/32" 
+Verified - Top reinf. Y direction downwards: 
+Calculated: 3'-0 5/8" 
+Verified Minimum length of the end hooks: 
+Minimum: 11 13/16" 
+ - Bott. reinf. X direction toward rgt: 
+Calculated: 1'-5 23/32" 
+Verified - Bott. reinf. X direction toward lft: 
+Calculated: 1'-5 23/32" 
+Verified - Bott. reinf. Y direction upwards: 
+Calculated: 1'-5 23/32" 
+Verified - Bott. reinf. Y direction downwards: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. X direction toward rgt: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. X direction toward lft: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. Y direction upwards: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. Y direction downwards: 
+Calculated: 1'-5 23/32" 
+Verified All the checks have been verified Reference: (M10-M11-M12) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status 
+
+[page 31]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 31 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Reference: (M10-M11-M12) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status Pressures on the soil: 
+Criteria of CYPE 
+ - Mean stress in persistent situations: 
+Maximum: 3298.77 psf Calculated: 3289.35 psf 
+Verified - Mean bearing pressure in accidental seismic situations: 
+Maximum: 4906.4 psf Calculated: 3289.35 psf 
+Verified - Maximum bearing pressure in persistent situations without wind: 
+Maximum: 4122.95 psf Calculated: 3428.62 psf 
+Verified - Maximum bearing pressure in persistent situations with wind: 
+Maximum: 4122.95 psf Calculated: 3594.52 psf 
+Verified - Maximum bearing pressure in accidental seismic situations: 
+Maximum: 6132.2 psf Calculated: 4194.63 psf 
+Verified Overturning of footing: 
+If the safety reserve % is greater than zero, then the overturning safety factors are greater than those strictly required for all equilibrium combinations. 
+ - In X direction: 
+Safety reserve: 2157.1 % 
+Verified - In Y direction: 
+Safety reserve: 834.5 % 
+Verified Sliding of the footing: 
+ - Persistent situations: 
+ Recommendation from the book 'Cálculo de estructuras de cimentación', J. Calavera. 4ª edición, ed. INTEMAC, 2000.. 
+Minimum: 1.5 Calculated: 35.89 
+Verified - Accidental situations: 
+ Recommendation from the book 'Muros de Contención y Muros de Sótano', J. Calavera. 2ª edición, ed. INTEMAC, 1989. 
+Minimum: 1.2 Calculated: 12.19 
+Verified Bending in the pad footing: 
+ 
+
+[page 32]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 32 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Reference: (M10-M11-M12) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status - In X direction: 
+Moment: 416846.70 lbs·ft 
+Verified - In Y direction: 
+Moment: 1640684.14 lbs·ft 
+Verified Shear in the footing: 
+ - In X direction: 
+Shear: 0.00 lbs 
+Verified - In Y direction: 
+Shear: 265811.35 lbs 
+Verified Oblique compression in the footing: 
+Criteria of CYPE 
+Maximum: 172045 psf 
+ - Persistent situations: 
+Calculated: 9593 psf 
+Verified - Accidental seismic situations: 
+Calculated: 7174 psf 
+Verified Minimum depth: 
+ Chapter 15.7 (ACI 318M-08 Code) 
+ 
+Minimum: 8 5/16" Calculated: 3'-0" 
+Verified Space to anchor starter bars in foundation: 
+Minimum: 7 7/8" 
+ - M10: 
+Calculated: 2'-8 11/16" 
+Verified - M11: 
+Calculated: 2'-8 11/16" 
+Verified - M12: 
+Calculated: 2'-8 11/16" 
+Verified Minimum geometric ratio: 
+Chapter 7.12.2.1 (ACI 318M-08 Code) 
+Minimum: 0.0018 
+ - Bottom reinf. X direction: 
+Calculated: 0.0018 
+Verified - Top reinf. X direction: 
+Calculated: 0.0018 
+Verified - Bottom reinf. Y direction: 
+Calculated: 0.0018 
+Verified - Top reinf. Y direction: 
+Calculated: 0.0018 
+Verified 
+
+[page 33]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 33 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Reference: (M10-M11-M12) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status Minimum diameter of the bars: 
+Criteria of CYPE 
+Minimum: 13/32" 
+ - Bottom reinforcement mesh: 
+Calculated: 3/4" 
+Verified - Top reinforcement mesh: 
+Calculated: 3/4" 
+Verified Maximum bar spacing: 
+Criteria of CYPE 
+Maximum: 11 13/16" 
+ - Bottom reinf. X direction: 
+Calculated: 7" 
+Verified - Bottom reinf. Y direction: 
+Calculated: 7" 
+Verified - Top reinf. X direction: 
+Calculated: 7" 
+Verified - Top reinf. Y direction: 
+Calculated: 7" 
+Verified Minimum bar spacing: 
+CYPE criteria, based on: J. Calavera. "Cálculo de Estructuras de Cimentación". Chapter 3.16 
+Minimum: 3 15/16" 
+ - Bottom reinf. X direction: 
+Calculated: 7" 
+Verified - Bottom reinf. Y direction: 
+Calculated: 7" 
+Verified - Top reinf. X direction: 
+Calculated: 7" 
+Verified - Top reinf. Y direction: 
+Calculated: 7" 
+Verified Anchorage length: 
+Criteria from the book "Cálculo de estructuras de cimentación", J. Calavera. Ed. INTEMAC, 1991 
+Minimum: 11 13/16" 
+ - Bott. reinf. X direction toward rgt: 
+Calculated: 17'-6 5/8" 
+Verified - Bott. reinf. X direction toward lft: 
+Calculated: 17'-6 5/8" 
+Verified - Bott. reinf. Y direction upwards: 
+Calculated: 3'-1" 
+Verified 
+
+[page 34]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 34 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Reference: (M10-M11-M12) Details: 590" x 138" x 36" Reinforcement: Xi:#6@7 3/32" Yi:#6@7 3/32" Xs:#6@7 3/32" Ys:#6@7 3/32" Perimeter:2#4 Code checks Values Status - Bott. reinf. Y direction downwards: 
+Calculated: 3'-1" 
+Verified - Top reinf. X direction toward rgt: 
+Calculated: 13'-9 11/32" 
+Verified - Top reinf. X direction toward lft: 
+Calculated: 13'-9 11/32" 
+Verified - Top reinf. Y direction upwards: 
+Calculated: 3'-1" 
+Verified - Top reinf. Y direction downwards: 
+Calculated: 3'-1" 
+Verified Minimum length of the end hooks: 
+Minimum: 11 13/16" 
+ - Bott. reinf. X direction toward rgt: 
+Calculated: 1'-5 23/32" 
+Verified - Bott. reinf. X direction toward lft: 
+Calculated: 1'-5 23/32" 
+Verified - Bott. reinf. Y direction upwards: 
+Calculated: 1'-5 23/32" 
+Verified - Bott. reinf. Y direction downwards: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. X direction toward rgt: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. X direction toward lft: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. Y direction upwards: 
+Calculated: 1'-5 23/32" 
+Verified - Top reinf. Y direction downwards: 
+Calculated: 1'-5 23/32" 
+Verified All the checks have been verified 
+
+[page 35]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 35 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+9 Annex 3. Walls report 9.1 Model of calculation In order to design and check of different walls it has used of SAP2000 software: 
+ 
+
+[page 36]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 36 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+9.2 Design of reinforcement Vertical reinforcement: Base reinforcement in according to minimum ratio, Asmin=0,0015 x b x h= 2,1 inch2. It has design with #6 / 7”. As=2,49 inch2. Forces used for checking this reinforcement: • Moment force M22 (Ultimate limit state, Max and Min): 37 kip*ft 
+ 
+
+[page 37]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 37 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+
+[page 38]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 38 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Shear force V12 (Ultimate limit state, Max and Min): 3 kip 
+ Axial force F22 (Ultimate limit state, Max and Min): 67 kip 
+ 
+
+[page 39]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 39 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar. 
+SHEAR ACCORDING TO ACI-318-08
+Geometry Shear strength
+Depth (h) 3,25ft Vc 156Kip
+Width (b = bw) 3,00ft Vs, required 0Kip
+Cover 2,0in
+Mechanical depth (d) 3,08ft
+Gross area (Ag) 1.404in2 Reinforcement disposition
+0 Maximum spacing 23,6in
+Materials 0 Required reinforcement 0,00in2/ft
+Concrete 4ksi
+Steel (not higher than 420) 60ksi Reinforcement
+Spacing (inch) 7OK
+Loads Number of bars 5
+V 3Kip Diameter (#) 6OK
+N (+ = tension) 67Kip
+
+[page 40]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 40 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Horizontal reinforcement: Base reinforcement in according to minimum ratio, Asmin=0,0025 x b x h= 3,48 inch2. It has design with #8 / 8”. As=3,86 inch2. Forces used for checking this reinforcement: • Moment force M11 (Ultimate limit state, Max and Min): 66 kip*ft 
+ 
+
+[page 41]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 41 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+Geometry Load
+Width (b) 40in Compression axial force (N) 0Kip
+Depth (h) 36in Design moment (Mu) 66Kip*ft
+Cover (r) 2in ø compression controlled 0,65
+ø tension controlled 0,90
+Materials
+Concrete (f'c) 4ksi
+εc,max 0,0030 Results for nominal moment
+Steel (fy) 60ksi Section type Tension controlled
+εs,max 0,0050 Concrete compression (Nc) 236Kip
+Es 29.000ksi Steel tension (Ns) 236Kip
+Concrete strain (εc) 0,0011
+Reinforcement Steel strain (εs) 0,0050
+Number of bars (n) 5 Steel tension (σs) 60Ksi
+Diameter (øs) 8/7" Nominal moment (Mn) 609Kip·ft
+Steel area (As) 3,927in2 ø 0,90
+CHECK OK
+FLEXURE DESIGN ACCORDING TO ACI-318
+
+[page 42]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 42 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+• Shear force V12 (Ultimate limit state, Max and Min): 7 kip*ft 
+ • Axial force F11 (Ultimate limit state, Max and Min): 14 kip 
+ 
+
+[page 43]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 43 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar. 
+SHEAR ACCORDING TO ACI-318-08
+Geometry Shear strength
+Depth (h) 3,25ft Vc 169Kip
+Width (b = bw) 3,00ft Vs, required 0Kip
+Cover 2,0in
+Mechanical depth (d) 3,08ft
+Gross area (Ag) 1.404in2 Reinforcement disposition
+0 Maximum spacing 23,6in
+Materials 0 Required reinforcement 0,00in2/ft
+Concrete 4ksi
+Steel (not higher than 420) 60ksi Reinforcement
+Spacing (inch) 8OK
+Loads Number of bars 5
+V 7Kip Diameter (#) 8OK
+N (+ = tension) 14Kip
+
+[page 44]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 44 of 46 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+10 Annex 4. Equipment load 
+ 
+
+[page 45]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR for Job No.: No. Req'd.: TES Exchangers foundations Project: Solana Generating Station Page 45 of 45 
+1 04/05/2018 Update IBC reference to IBC 2012 PAPT PAPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp.

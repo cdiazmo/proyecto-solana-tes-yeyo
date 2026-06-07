@@ -1,0 +1,31 @@
+{
+  "id": "5e0458f8d8276154",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/ZZ_comments MCPD/SUP July 2015.zip",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "zip",
+  "size_bytes": 5514339,
+  "size_human": "5.3 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "SUP July 2015",
+  "doc_code": null,
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 144,
+  "token_estimate": 36,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/5e0458f8d8276154.json",
+  "extracted_path": ".yeyo-memory/extracted/5e0458f8d8276154.txt",
+  "metadata": {
+    "archive_entries": 6,
+    "archive_sample": [
+      "SUP July 2015/",
+      "SUP July 2015/02 SP-1.pdf",
+      "SUP July 2015/03 SP-2.pdf",
+      "SUP July 2015/04 SP-3.pdf",
+      "SUP July 2015/05 SP-4.pdf",
+      "SUP July 2015/06 SP-5.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 6083942
+  },
+  "processed_at": "2026-06-05T09:15:54.083324+00:00"
+}

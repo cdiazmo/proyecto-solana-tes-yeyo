@@ -1,0 +1,74 @@
+{
+  "id": "e44753d5e344a631",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-68-61-CS30.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 58667,
+  "size_human": "57 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS30",
+  "doc_code": "4521-ESP-ANC-68-61-CS30",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 7722,
+  "token_estimate": 1930,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/e44753d5e344a631.json",
+  "extracted_path": ".yeyo-memory/extracted/e44753d5e344a631.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20111114083701-06'00'",
+      "ModDate": "D:20111114083701-06'00'",
+      "Title": "4521-ESP-ANC-68-61-CS30",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "rclipc",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::97",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 97,
+        "doc_code": "4521-ESP-ANC-68-61-CS30 - Engineering Standards and Practices Material and Installation Standards Class 300 Carbon Steel – Piping System Project: Solana HTF Return",
+        "title": "",
+        "revision": "6",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::147",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 147,
+        "doc_code": "4521-ESP-ANC-68-61-CS30 - Engineering Standards and Practices Material and Installation Standards Class 300 Carbon Steel – Piping System Project: Solana HTF Return",
+        "title": "",
+        "revision": "6",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::140",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 140,
+        "doc_code": "4521-ESP-ANC-68-61-CS30 - Engineering Standards and Practices Material and Installation Standards Class 300 Carbon Steel – Piping System Project: Solana HTF Return",
+        "title": "",
+        "revision": "6",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:56.932929+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1d1f6b1bc6a61811",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-13F-CS31-3_Sht_1_R3.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 165525,
+  "size_human": "162 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "255-MS-13F-CS31-3 Sht 1 R3",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1295,
+  "token_estimate": 323,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/1d1f6b1bc6a61811.json",
+  "extracted_path": ".yeyo-memory/extracted/1d1f6b1bc6a61811.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2017 - English 2017 (21.0s (LMS Tech))",
+      "Title": "Model",
+      "Producer": "pdfplot13.hdi 13.00.402.000",
+      "CreationDate": "D:20191205173705",
+      "ModDate": "D:20191205173705"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.323501+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:53.323504+00:00"
+}

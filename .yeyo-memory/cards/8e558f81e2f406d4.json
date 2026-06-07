@@ -1,0 +1,39 @@
+{
+  "id": "8e558f81e2f406d4",
+  "path": "01 GD AE/Compras/03 Deposito drenaje/02 Propuestas/Caldererias indalicas/1618500CIOF020-R02-TAN-ABE-OT.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 225000,
+  "size_human": "220 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1618500CIOF020-R02-TAN-ABE-OT",
+  "doc_code": null,
+  "revision": "R02",
+  "status": "ok",
+  "text_chars": 41588,
+  "token_estimate": 10397,
+  "chunks": 27,
+  "card_path": ".yeyo-memory/cards/8e558f81e2f406d4.json",
+  "extracted_path": ".yeyo-memory/extracted/8e558f81e2f406d4.txt",
+  "metadata": {
+    "pages": 27,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.02",
+      "CreationDate": "D:20161128122933+01'00'",
+      "ModDate": "D:20161128122933+01'00'",
+      "Title": "1618500CIOF020-R02-TAN-ABE-OT",
+      "Creator": "PDFCreator Version 1.2.1",
+      "Author": "ahernandez",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Tanque / drain back tank",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.820534+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:58.820536+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "c20b32dd109291aa",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180323/SP-4 FINAL 3_23_2018[1].pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 1467370,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "SP-4 FINAL 3 23 2018[1]",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2432,
+  "token_estimate": 608,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/c20b32dd109291aa.json",
+  "extracted_path": ".yeyo-memory/extracted/c20b32dd109291aa.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "Title": "Layout1",
+      "Producer": "pdfplot11.hdi 11.0.204.0",
+      "CreationDate": "D:20180323135714",
+      "ModDate": "D:20180323135714"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.862226+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:01.862228+00:00"
+}

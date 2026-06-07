@@ -1,0 +1,93 @@
+{
+  "id": "5ca484c489fc8ede",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-45-0002_R0.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 43871,
+  "size_human": "43 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-45-0002 R0",
+  "doc_code": "4521-ESP-AGE-39-45-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12718,
+  "token_estimate": 3179,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/5ca484c489fc8ede.json",
+  "extracted_path": ".yeyo-memory/extracted/5ca484c489fc8ede.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120301124541+01'00'",
+      "ModDate": "D:20120301124541+01'00'",
+      "Title": "4521-ESP-AGE-39-45-0002 Glands Specification",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "agppgv",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:56.489437+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::137",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 137,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Especificación técnica cajas de conexionado",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::176",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 176,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Juntion Box Especificaciónb técnica I&C",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::137",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 137,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Especificación técnica cajas de conexionado",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::176",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 176,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Juntion Box Especificaciónb técnica I&C",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:56.489443+00:00"
+}

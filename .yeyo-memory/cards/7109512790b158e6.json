@@ -1,0 +1,37 @@
+{
+  "id": "7109512790b158e6",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/252-HTF-16F-CS30-20_rev05_Sht_1.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 278308,
+  "size_human": "272 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "252-HTF-16F-CS30-20 rev05 Sht 1",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2232,
+  "token_estimate": 558,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/7109512790b158e6.json",
+  "extracted_path": ".yeyo-memory/extracted/7109512790b158e6.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20190104093628Z",
+      "Creator": "AutoCAD 2018 - English 2018 (22.0s (LMS Tech))",
+      "ModDate": "D:20190109135928-06'00'",
+      "Producer": "pdfplot14.hdi 14.00.049.000",
+      "Title": "Model"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:57.572909+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:57.572913+00:00"
+}

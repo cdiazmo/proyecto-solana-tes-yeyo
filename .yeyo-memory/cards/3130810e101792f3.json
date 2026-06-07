@@ -1,0 +1,30 @@
+{
+  "id": "3130810e101792f3",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950202 Convert EVEN to ODD train.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 452226,
+  "size_human": "442 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1950202 Convert EVEN to ODD train",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1320,
+  "token_estimate": 330,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/3130810e101792f3.json",
+  "extracted_path": ".yeyo-memory/extracted/3130810e101792f3.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "Alvaro Bilbao",
+      "Creator": "Microsoft® Word para Microsoft 365",
+      "CreationDate": "D:20210712142438+02'00'",
+      "ModDate": "D:20210712142438+02'00'",
+      "Producer": "Microsoft® Word para Microsoft 365"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:23.069268+00:00"
+}

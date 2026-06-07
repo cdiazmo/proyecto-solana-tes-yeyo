@@ -1,0 +1,136 @@
+{
+  "id": "3cfd5d07f76dd30e",
+  "path": "01 GD AE/C&S/MTO/4521-MTO-AEE-75-52-0004-GAR-901_Rev00_Drain-back tank Platform.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 36294,
+  "size_human": "35 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-MTO-AEE-75-52-0004-GAR-901 Rev00 Drain-back tank Platform",
+  "doc_code": "4521-MTO-AEE-75-52-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2049,
+  "token_estimate": 512,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/3cfd5d07f76dd30e.json",
+  "extracted_path": ".yeyo-memory/extracted/3cfd5d07f76dd30e.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 40
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::25",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 25,
+        "doc_code": "4521-MTO-AEE-75-52-0004-GAR",
+        "title": "Steel structure IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::29",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 29,
+        "doc_code": "4521-MTO-AEE-75-52-0004-rev0-GAR",
+        "title": "",
+        "revision": "4521-MTO-AEE-75-52-0004_rev0-GAR",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::25",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 25,
+        "doc_code": "4521-MTO-AEE-75-52-0004-GAR",
+        "title": "Steel structure IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::19",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 19,
+        "doc_code": "4521-MTO-AEE-75-52-0004-GAR",
+        "title": "Drain-back tank Platform",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::29",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 29,
+        "doc_code": "4521-MTO-AEE-75-52-0004-rev0-GAR",
+        "title": "",
+        "revision": "4521-MTO-AEE-75-52-0004_rev0-GAR",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::69",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 69,
+        "doc_code": "4521-MTO-AEE-75-52-0004-rev0-GAR-Drain Back Tank Platform",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::29",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 29,
+        "doc_code": "4521-MTO-AEE-75-52-0004-rev0-GAR",
+        "title": "",
+        "revision": "4521-MTO-AEE-75-52-0004_rev0-GAR",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:08.410308+00:00"
+}

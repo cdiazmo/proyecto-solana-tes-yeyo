@@ -1,0 +1,39 @@
+{
+  "id": "cb71ddb73f936b10",
+  "path": "02 GD LOI/Hoja tecnica/4521- HDD-AEPC-075-062-0001 Rev0 _ HTF -Molten salts Heat exchanger Data Sheet.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 45483,
+  "size_human": "44 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521- HDD-AEPC-075-062-0001 Rev0 HTF -Molten salts Heat exchanger Data Sheet",
+  "doc_code": null,
+  "revision": "Rev0",
+  "status": "ok",
+  "text_chars": 7538,
+  "token_estimate": 1884,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/cb71ddb73f936b10.json",
+  "extracted_path": ".yeyo-memory/extracted/cb71ddb73f936b10.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20160421115154+02'00'",
+      "ModDate": "D:20160421115154+02'00'",
+      "Author": "cgrrda",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "4521- HDD-AEPC-075-062-0003 - HTF -Molten salts Heat exchanger Solana -draft US UNITSm"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.207931+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.207933+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d37637ba81f210fd",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-07E-CS31-4_Sht_1.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 207781,
+  "size_human": "203 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "255-MS-07E-CS31-4 Sht 1",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d37637ba81f210fd.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2013 - Español 2013 (19.0s (LMS Tech))",
+      "Title": "Model",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "CreationDate": "D:20170718171241",
+      "ModDate": "D:20170718171241"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.650508+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.675526+00:00"
+}

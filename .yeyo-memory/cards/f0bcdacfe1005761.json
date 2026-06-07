@@ -1,0 +1,36 @@
+{
+  "id": "f0bcdacfe1005761",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201 - Placas de características selladas.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 2216247,
+  "size_human": "2.1 MB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "1950201 - Placas de características selladas",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/f0bcdacfe1005761.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Author": "Marta Guerreiro",
+      "Comments": "",
+      "Company": "",
+      "CreationDate": "D:20210210142511+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "Keywords": "",
+      "ModDate": "D:20210210142514+01'00'",
+      "Producer": "Adobe PDF Library 17.11.238",
+      "SourceModified": "D:20210201173952",
+      "Subject": "",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:09.387264+00:00"
+}

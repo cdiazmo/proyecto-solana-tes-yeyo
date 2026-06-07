@@ -1,0 +1,30 @@
+{
+  "id": "bff252930b90a752",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/W103387-5-10010-GAD-18081405-00.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 125485,
+  "size_human": "123 KB",
+  "mtime_iso": "2026-06-05T06:20:00.000Z",
+  "title": "W103387-5-10010-GAD-18081405-00",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/bff252930b90a752.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20181024110349Z",
+      "Creator": "AutoCAD Mechanical 2016 - Deutsch (German) 2016 (20.1s (LMS Tech))",
+      "ModDate": "D:20181105133809+01'00'",
+      "Producer": "pdfplot12.hdi 12.01.107.000",
+      "Title": "Layout1"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:43.850548+00:00"
+}

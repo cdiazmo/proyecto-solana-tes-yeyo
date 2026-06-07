@@ -1,0 +1,38 @@
+{
+  "id": "fa5abc9166aeb0d2",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Bandeja eléctrica TMT-18230-5 - Entregada para construcción/TMT-18230-05 Electrical Trays.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 123842,
+  "size_human": "121 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "TMT-18230-05 Electrical Trays",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1133,
+  "token_estimate": 283,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/fa5abc9166aeb0d2.json",
+  "extracted_path": ".yeyo-memory/extracted/fa5abc9166aeb0d2.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Nolan",
+      "CreationDate": "D:20190201161826-06'00'",
+      "Creator": "Acrobat PDFMaker 19 for Excel",
+      "ModDate": "D:20190201161833-06'00'",
+      "Producer": "Adobe PDF Library 19.10.96",
+      "Subject": "Letter of Transmital-New",
+      "Title": "STIS"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano electrico",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:05.035536+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:05.035539+00:00"
+}

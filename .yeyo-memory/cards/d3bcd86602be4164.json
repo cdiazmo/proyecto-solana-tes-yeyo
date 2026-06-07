@@ -1,0 +1,61 @@
+{
+  "id": "d3bcd86602be4164",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-AGE-58-64-0002 Safety Relieve Valves HTF-TES.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 215851,
+  "size_human": "211 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-AGE-58-64-0002 Safety Relieve Valves HTF-TES",
+  "doc_code": "4521-ESP-AGE-58-64-0002",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 48980,
+  "token_estimate": 12245,
+  "chunks": 31,
+  "card_path": ".yeyo-memory/cards/d3bcd86602be4164.json",
+  "extracted_path": ".yeyo-memory/extracted/d3bcd86602be4164.txt",
+  "metadata": {
+    "pages": 14,
+    "pdf_metadata": {
+      "Author": "agnsi",
+      "CreationDate": "D:20121002141356-07'00'",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Keywords": "",
+      "ModDate": "D:20160818121644+02'00'",
+      "Producer": "GPL Ghostscript 8.70",
+      "Subject": "",
+      "Title": "4521-ESP-AGE-58-64-0002_rev4"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::235",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 235,
+        "doc_code": "4521-ESP-AGE-58-64-0002",
+        "title": "Safety Relieve Valves HTF-TES",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::235",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 235,
+        "doc_code": "4521-ESP-AGE-58-64-0002",
+        "title": "Safety Relieve Valves HTF-TES",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:45.450655+00:00"
+}

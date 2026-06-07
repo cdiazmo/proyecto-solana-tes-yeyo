@@ -1,0 +1,31 @@
+{
+  "id": "7b399011f8e65a58",
+  "path": "03 GD Fabricacion LOI TES 6/Plan de calidad y ITP/4521-PPI-LOI-039-062-0001-GAR_Rev00 Inspection Point Program.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 107542,
+  "size_human": "105 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PPI-LOI-039-062-0001-GAR Rev00 Inspection Point Program",
+  "doc_code": "4521-PPI-LOI-039-062-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13488,
+  "token_estimate": 3372,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/7b399011f8e65a58.json",
+  "extracted_path": ".yeyo-memory/extracted/7b399011f8e65a58.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20170901102135+02'00'",
+      "Creator": "Microsoft® Word 2010",
+      "ModDate": "D:20170901102317+02'00'",
+      "Producer": "Microsoft® Word 2010",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:05.732115+00:00"
+}

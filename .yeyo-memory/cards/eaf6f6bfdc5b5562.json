@@ -1,0 +1,30 @@
+{
+  "id": "eaf6f6bfdc5b5562",
+  "path": "01 GD AE/Compras/01 HEX/02 Propuestas/095-16-OFT-001 Rev.2 Technical offer OIL TO SALT HEAT EXCHANGERS - Solana.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 2171529,
+  "size_human": "2.1 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "095-16-OFT-001 Rev.2 Technical offer OIL TO SALT HEAT EXCHANGERS - Solana",
+  "doc_code": null,
+  "revision": "Rev.2",
+  "status": "ok",
+  "text_chars": 59148,
+  "token_estimate": 14787,
+  "chunks": 38,
+  "card_path": ".yeyo-memory/cards/eaf6f6bfdc5b5562.json",
+  "extracted_path": ".yeyo-memory/extracted/eaf6f6bfdc5b5562.txt",
+  "metadata": {
+    "pages": 27,
+    "pdf_metadata": {
+      "CreationDate": "D:20160721115346+02'00'",
+      "Author": "mezkurra",
+      "Creator": "Microsoft® Word 2010",
+      "Producer": "Microsoft® Word 2010",
+      "ModDate": "D:20160721151339+02'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:11:56.585001+00:00"
+}

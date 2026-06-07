@@ -1,0 +1,62 @@
+{
+  "id": "7bb2e629f676d94d",
+  "path": "07 Presentado al Condado/0005_Isometrics/Firmado/N/255-N-09EF-CS72-1.5_Sht_1.dwg",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "dwg",
+  "size_bytes": 302957,
+  "size_human": "296 KB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "255-N-09EF-CS72-1.5 Sht 1",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/7bb2e629f676d94d.json",
+  "extracted_path": null,
+  "metadata": {
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::336",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 336,
+        "doc_code": "255-N-09EF-CS72-1.5\" - HEX Replacement",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::428",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 428,
+        "doc_code": "255-N-09EF-CS72-1.5\" - HEX Replacement",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::417",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 417,
+        "doc_code": "255-N-09EF-CS72-1.5\" - HEX Replacement",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:17:15.848651+00:00"
+}

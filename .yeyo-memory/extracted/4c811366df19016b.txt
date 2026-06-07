@@ -1,0 +1,448 @@
+[sheet Cover Sheet]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-58-70-0002
+Heat Transfer Fluid (HTF) Area | Item No.: | No. Req'd:
+HTF and Nitrogen Services | Project: | Solana
+Pressure transmitters | Ref.: | Issue: | 3 | Dated: | Jan/27/2012
+Instructions:
+1. | Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be
+included on all pages.
+2. | Revisions are identified in the body of the Specification.
+Rev. | Description of Revision
+No. | Date | By | Chk’d | App’d | with Page Numbers
+0 | Apr/01/2011 | PGV | CLR | PQJ | For Bid
+1A | July/20/2011 | PGV | CLR | PQJ | For P&ID review 5
+1B | Aug/16/2011 | VRG | CLR | PQJ | For P&ID review 6
+1 | Oct/20/2011 | PGV | JHR | PQJ | For Bid
+2 | Dec/19/2011 | PGV | JHR | PQJ | For Purchase
+3 | Jan/27/2012 | PGV | JHR | PQJ | For Purchase
+3 | Jan/27/2012 | PGV | JHR | PQJ | For Purchase
+2 | Dec/19/2011 | PGV | JHR | PQJ | For Purchase
+1 | Oct/20/2011 | PGV | JHR | PQJ | For Bid
+0 | Apr/01/2011 | PGV | CLR | PQJ | For Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 2]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | 120006 | Spec No.: | 4521-ESP-AGE-58-70-0002
+Heat Transfer Fluid (HTF) Area | No. Req'd:
+HTF and Nitrogen Services | Solana
+Pressure transmitters | Issue: | 3 | Dated: | Jan/27/2012
+1. General 1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 1.2 Definitions 1.2.1 "Supplier" shall mean the instrument supply company chosen for the project. 1.2.2 "Customer" shall mean Abener Teyma. 1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable). 1.2.4 "Owner" shall mean Abengoa Solar Inc. 1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these specifications. Any specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are considered "Contract Documents". 1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work described unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., are addressed solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically identified. 1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier. 2. Scope 2.1 Scope of this contract is supply of instruments as outlined in the following engineering specifications required for the project including all cables, gasket, manifolds … etc as identified in the main specification as options or accessories. Shipping schedule to be confirm with purchasing during the final commercial agreement 2.2 Packaging - To be defined later. 2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later. 2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify Supplier of material required on an as needed basis. Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in order to reduce transportation costs. 2.5 The following items are excluded from this subcontract: " " " 2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available for update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and document all material within the scope of this contract.
+3 | Jan/27/2012 | PGV | JHR | PQJ | For Purchase
+2 | Dec/19/2011 | PGV | JHR | PQJ | For Purchase
+1 | Oct/20/2011 | PGV | JHR | PQJ | For Bid
+0 | Apr/01/2011 | PGV | CLR | PQJ | For Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 3]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-58-70-0002
+Heat Transfer Fluid (HTF) Area | Item No.: | No. Req'd:
+HTF and Nitrogen Services | Project: | Solana
+Pressure transmitters | Ref.: | Issue: | 3 | Dated: | Jan/27/2012
+3. Quality 3.1 All material shall be supplied to meet all dimensional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc standards listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense. Notice: o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data requirements reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing number of weeks after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid. o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received. o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later. o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized, the best estimated shipping date March 2012. o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is required. Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need this information with the quotation, in order for our client to have spares available during start-up and to take advantage of any economies available. o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by Abener Teyma personnel prior to shipment to assure compliance with specifications. o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick Carlton, e-mail rick.carlton@abener.abengoa.com at (314) 275-1323 for details. o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in physical dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or maintenance cost and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate and price and delivery for that alternate. The purchase will, in general, be made on a basis of adherence to the original design premise, economic value, and best delivery. o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed corrections, changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must request clarification. Give priority to pricing standard equipment and components. o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply: o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage. o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation.
+3 | Jan/27/2012 | PGV | JHR | PQJ | For Purchase
+2 | Dec/19/2011 | PGV | JHR | PQJ | For Purchase
+1 | Oct/20/2011 | PGV | JHR | PQJ | For Bid
+0 | Apr/01/2011 | PGV | CLR | PQJ | For Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Index ]
+Sheet | Title | Revision
+1 | Cover | 3
+2 | General Notes And Instructions | 3
+3 | General Notes And Instructions | 3
+4 | Index | 3
+5 | Engineering Specification - HTF Services - Pressure Instruments - HTF | 3
+6 | Engineering Specification - HTF Services - Pressure Instruments List - HTF I | 3
+7 | Engineering Specification - HTF Services - Pressure Instruments List - HTF I - Purcharse information | 3
+8 | Engineering Specification - HTF Services - Pressure Instruments List - HTF II | 3
+9 | Engineering Specification - HTF Services - Pressure Instruments - Nitrogen | 3
+10 | Engineering Specification - HTF Services - Pressure Instruments List - Nitrogen | 3
+11 | Engineering Specification - HTF Services - Pressure Instruments List - Nitrogen - Purchase information | 3
+12 | Engineering Specification - HTF Services - Pressure Differential Transmitter | 3
+13 | Engineering Specification - HTF Services - Pressure Differential Transmitter - List | 3
+3 | PGV | Jan/27/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purchase
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 4 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet HTF Press. Trans. Specs.]
+Instrument Specification - HTF Storage / Expansion Area - HTF Pressure Transmitters
+General | 1 | Tag number | See HTF Pressure Instrument List (Item Numbers HC- XX)
+2 | Service | HTF - Heat Transfer Fluid
+3 | P&ID | See HTF Pressure Instrument List
+4 | Line | See HTF Pressure Instrument List
+5 | Quantity | See HTF Pressure Instrument List
+Process Conditions | 6 | Fluid | Phase | HTF | Liquid
+7 | Design Pressure | See Specific Pressure Class on "HTF Pressure Transmitter List"
+8 | Design Temperature | 750 Deg. F
+Sensor and Body | 9 | Maximum Measuring Range | See Note 1
+10 | Instrument type | Pressure Transmitter
+11 | Type of measurement | Gauge Pressure
+12 | Calibration Range | See "Nitrogen Pressure Transmitter List"
+13 | Accuracy | ± 0.1% Of Calibrated Span
+14 | Overpressure | 1.5
+15 | Zero Adjustment | Span Adjustment | Yes | Yes
+16 | Element Type | Piezorresistive sensor
+17 | Diaphragm Material | 316 SSL
+18 | Body Material | 316 SS
+19 | Fill fluid | See Important Note 2
+20 | Bolts / Gasket | Yes / Yes
+21 | Process connection | Per vendor also see Accessories / Process connection
+Transmitter | 22 | Housing | Aluminium
+23 | Electrical connection | 1/2" NPT
+24 | Enclosure Protection | NEMA 4
+25 | Output signal | Resistance | 4-20 mA + HART | 500 Ohm
+26 | Type / Power Supply | 2-Wire / 24 VDC
+27 | Hazardous Area Classification | Class I, Division II
+28 | Local Display | Yes
+29 | Environmental Conditions | 22 Deg. F - 125 Deg. F
+30 | Mounting | Remote
+31 | Special Conditions -Solar radiation (DNI) | 1,008 W/m2 - See Note 3
+Accessories | 32 | Mounting Accesories | 2" Pipe mounting kit
+33 | Instrument tag | 316SS 2" * 4"
+34 | Process Connection | Fill Fluid | 2" Diaphragm Seal - RF | See Important Note 2
+35 | Thermal Extender | Material | NA | NA
+36 | Flushing ring / Mat'l / Size / Body Class | Yes / 316SS / 2" / See List for Class rating.
+37 | Flushing Ring / Drain Port Size | Yes / 1/2" - 3/4".
+38 | Manifold type | NA
+39 | Capillary Tube / Material / Length (ft) | Yes / 316 SS / 10 ft
+40 | Sun shield | Vendor to provide cost est. for this option
+Purchasing | 41 | Manufacturer | ABB
+42 | Transmitter Model # | See sheet 7
+43 | Sun shield P/N # | See sheet 7
+44 | Chem seal, Class 300 | See sheet 7
+45 | Chem seal, Class 600 | See sheet 7
+Notes: (1) Q Capsule = 1150 psig. (2) Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F (3) Flushing ring or offline flanged is required for HTF liquid service, accessories to be similar to several styles and sizes as desribed in Yokogawa general specification GS SLC11A0-02E-A. Single Flush port. (4) DNI (Daily Normal Irradiance) solar radiation energy created thermal accumulation based on the exposed area to environment . (5) All transmitters shall be calibrated by vendor, a certicate of calibration is required
+3 | PGV | Jan/27/2012 | For Purchase - Change as Noted | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purchase - Change as Noted
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 5 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet HTF Press. Trans. List I]
+Engineering Specification - HTF Central Distribution Area - HTF Pressure Instruments List
+Item # | Instrument Tag | Service | Calibration (psig) | P&ID | Process Line # | Flange Class
+HC - 1 | PIT-200-05A | Far Field HTF Pump MP 200-A Outlet Pressure | 0 - 600 | ♦♦ P202 | 202-HTF-07-CS32-24" | 600
+HC - 2 | PIT-200-05B | Far Field HTF Pump MP 200-B Outlet Pressure | 0 - 600 | ♦♦ P202 | 202-HTF-08-CS32-24" | 600
+HC - 3 | PIT-200-05C | Far Field HTF Pump MP 200-C Outlet Pressure | 0 - 600 | ♦♦ P202 | 202-HTF-09-CS32-24" | 600
+HC - 4 | PIT-200-05D | Far Field HTF Pump MP 200-D Outlet Pressure | 0 - 600 | ♦♦ P202 | 202-HTF-10-CS32-24" | 600
+HC - 5 | PIT-200-05E | Far Field HTF Pump MP 200-E Outlet Pressure | 0 - 600 | ♦♦ P202 | 202-HTF-11-CS32-24" | 600
+HC -6 | PIT-201-05A | Far Field HTF Standby Pump MP 201-A Outlet Pressure | 0 - 600 | ♦♦ P210 | 210-HTF-13-CS32-20" | 600
+HC - 7 | PIT-200-06A | Far Field HTF Pump MP 200-A Inlet Pressure | 0 - 400 | ♦♦ P202 | 202-HTF-01-CS30-24" | 300
+HC - 8 | PIT-200-06B | Far Field HTF Pump MP 200-B Inlet Pressure | 0 - 400 | ♦♦ P202 | 202-HTF-02-CS30-24" | 300
+HC - 9 | PIT-200-06C | Far Field HTF Pump MP 200-C Inlet Pressure | 0 - 400 | ♦♦ P202 | 202-HTF-03-CS30-24" | 300
+HC - 10 | PIT-200-06D | Far Field HTF Pump MP 200-D Inlet Pressure | 0 - 400 | ♦♦ P202 | 202-HTF-04-CS30-24" | 300
+HC - 11 | PIT-200-06E | Far Field HTF Pump MP 200-E Inlet Pressure | 0 - 400 | ♦♦ P202 | 202-HTF-05-CS30-24" | 300
+HC - 12 | PIT-201-06A | Far Field HTF Standby Pump MP 201-A Inlet Pressure | 0 - 400 | ♦♦ P210 | 210-HTF-12-CS30-24" | 300
+HC - 13 | PIT-200-10 | Central Plant Far Field HTF Pumps Inlet Header | 0 - 400 | ♦♦ P202 | 211-HTF-03-CS30-30" | 300
+HC - 14 | PIT-200-11 | Central Plant Far Field HTF Pumps Inlet Header | 0 - 400 | ♦♦ P202 | 211-HTF-03-CS30-30" | 300
+HC -15 | PIT-200-05F | Near Field HTF Pump MP 200-F Outlet Pressure | 0 - 600 | ♦♦ P203 | 203-HTF-07-CS32-24" | 600
+HC - 16 | PIT-200-05G | Near Field HTF Pump MP 200-G Outlet Pressure | 0 - 600 | ♦♦ P203 | 203-HTF-08-CS32-24" | 600
+HC - 17 | PIT-200-05H | Near Field HTF Pump MP 200-H Outlet Pressure | 0 - 600 | ♦♦ P203 | 203-HTF-09-CS32-24" | 600
+HC - 18 | PIT-200-05J | Near Field HTF Pump MP 200-J Outlet Pressure | 0 - 600 | ♦♦ P203 | 203-HTF-10-CS32-24" | 600
+HC - 19 | PIT-200-05K | Near Field HTF Pump MP 200-K Outlet Pressure | 0 - 600 | ♦♦ P203 | 203-HTF-11-CS32-24" | 600
+HC -20 | PIT-201-05B | Near Field HTF Standby Pump MP 201-B Outlet Pressure | 0 - 600 | ♦♦ P212 | 212-HTF-13-CS32-20" | 600
+HC - 21 | PIT-200-06F | Near Field HTF Pump MP 200-F Inlet Pressure | 0 - 400 | ♦♦ P203 | 203-HTF-01-CS30-24" | 300
+HC - 22 | PIT-200-06G | Near Field HTF Pump MP 200-G Inlet Pressure | 0 - 400 | ♦♦ P203 | 203-HTF-02-CS30-24" | 300
+HC - 23 | PIT-200-06H | Near Field HTF Pump MP 200-H Inlet Pressure | 0 - 400 | ♦♦ P203 | 203-HTF-03-CS30-24" | 300
+HC - 24 | PIT-200-06J | Near Field HTF Pump MP 200-J Inlet Pressure | 0 - 400 | ♦♦ P203 | 203-HTF-04-CS30-24" | 300
+HC - 25 | PIT-200-06K | Near Field HTF Pump MP 200-K Inlet Pressure | 0 - 400 | ♦♦ P203 | 203-HTF-05-CS30-24" | 300
+HC - 26 | PIT-201-06B | Near Field HTF Standby Pump MP 201-B Inlet Pressure | 0 - 400 | ♦♦ P212 | 212-HTF-12-CS30-24" | 300
+HC - 27 | PIT-200-15 | Central Plant Near Field HTF Pumps Inlet Header | 0 - 400 | ♦♦ P203 | 211-HTF-02-CS30-30" | 300
+HC - 28 | PIT-200-16 | Central Plant Near Field HTF Pumps Inlet Header | 0 - 400 | ♦♦ P203 | 211-HTF-02-CS30-30" | 300
+HC - 29 | PIT-101-01 | Far North Field HTF Return Header Pressure | 0 - 400 | ♦♦ P210 | 211-HTF-150-CS30-30" | 300
+HC - 30 | PIT-101-05 | Far & Near North Fields Cross Connect Header Pressure | 0 - 400 | ♦♦ P210 | 210-HTF-02-CS30-30" | 300
+HC - 31 | PIT-101-06 | Far North Field HTF Supply Header Pressure | 0 - 600 | ♦♦ P210 | 211-HTF-100-CS32-30" | 600
+HC - 32 | PIT-101-07 | Central Plant Near Field HTF Pumps Outlet Header Pressure | 0 - 600 | ♦♦ P211 | 203-HTF-26-CS32-42" | 600
+HC - 33 | PIT-102-01 | Near Field HTF Header Return Pressure | 0 - 400 | ♦♦ P210 | 211-HTF-250-CS30-30" | 300
+HC - 34 | PIT-102-06 | Near Field HTF Header Supply Pressure | 0 - 600 | ♦♦ P210 | 211-HTF-200-CS32-30" | 600
+HC - 35 | PIT-102-07 | Central Plant Far Field HTF Pumps Outlet Header Pressure | 0 - 600 | ♦♦ P211 | 202-HTF-26-CS32-42" | 600
+HC - 36 | PIT-103-01 | Near Southth Field HTF Header Return Pressure | 0 - 400 | ♦♦ P212 | 211-HTF-350-CS30-30" | 300
+HC - 37 | PIT-103-05 | Far & Near South Field Cross Connect HTF Header Pressure | 0 - 400 | ♦♦ P212 | 212-HTF-02-CS30-30" | 300
+HC - 38 | PIT-103-06 | Near Southth Field HTF Supply Header Pressure | 0 - 600 | ♦♦ P212 | 211-HTF-300-CS32-30" | 600
+HC - 39 | PIT-104-01 | Far South Field HTF Header Return Pressure | 0 - 400 | ♦♦ P212 | 211-HTF-450-CS30-30" | 300
+HC - 40 | PIT-104-06 | Near Field HTF Header Supply Pressure | 0 - 600 | ♦♦ P212 | 211-HTF-400-CS32-30" | 600
+HC - 41 | PIT-204-30 | HTF Scrubber Spray cooler | 0 - 300 | ♦♦ P204 | 204-HTF-21-CS30-6" | 300
+♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+3 | PGV | Jan/27/2012 | For Purchase - Change as Noted | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purchase - Change as Noted
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 6 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet HTF Press. Trans. List I (2)]
+Engineering Specification - HTF Central Distribution Area - Purchase information
+Item # | Instrument Tag | Model Number | Chem Seal & Flushing Ring Number
+HC - 1 | PIT-200-05A | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 2 | PIT-200-05B | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 3 | PIT-200-05C | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 4 | PIT-200-05D | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 5 | PIT-200-05E | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC -6 | PIT-201-05A | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 7 | PIT-200-06A | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 8 | PIT-200-06B | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 9 | PIT-200-06C | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 10 | PIT-200-06D | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 11 | PIT-200-06E | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 12 | PIT-201-06A | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 13 | PIT-200-10 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 14 | PIT-200-11 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC -15 | PIT-200-05F | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 16 | PIT-200-05G | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 17 | PIT-200-05H | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 18 | PIT-200-05J | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 19 | PIT-200-05K | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC -20 | PIT-201-05B | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 21 | PIT-200-06F | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 22 | PIT-200-06G | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 23 | PIT-200-06H | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 24 | PIT-200-06J | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 25 | PIT-200-06K | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 26 | PIT-201-06B | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 27 | PIT-200-15 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 28 | PIT-200-16 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 29 | PIT-101-01 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 30 | PIT-101-05 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 31 | PIT-101-06 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 32 | PIT-101-07 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 33 | PIT-102-01 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 34 | PIT-102-06 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 35 | PIT-102-07 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 36 | PIT-103-01 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 37 | PIT-103-05 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 38 | PIT-103-06 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 39 | PIT-104-01 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+HC - 40 | PIT-104-06 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E3.S.F.SM.2.A.E.G.3.A.G
+HC - 41 | PIT-204-30 | 266HRH.Q.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.G.3.A.G
+ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/27/2012 | For Purchase - Change as Noted
+2 | PGV | Dec/19/2011 | For Purchase - New sheet added | Solana power plant
+Rev | By | Date | Description | Sheet: | 7 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet N2 Press. Trans. Specs. 1]
+Instrument Specification - HTF Storage / Expansion Area - Nitrogen Pressure Transmitters
+General | 1 | Tag number | See Nitrogen Pressure Instrument List - Item numbers (HN-X)
+2 | Service | HTF Vapor & Nitrogen
+3 | P&ID | See Nitrogen Pressure Instrument List - Item numbers (HN-X)
+4 | Line | See Nitrogen Pressure Instrument List - Item numbers (HN-X)
+5 | Quantity | See Nitrogen Pressure Instrument List - Item numbers (HN-X)
+Process Conditions | 6 | Fluid | Phase | HTF Vapor & Nitrogen | Mixed Gas
+7 | Design Pressure | 300 LBS
+8 | Design Temperature | 700 Deg. F
+Sensor and Body | 9 | Maximum Measuring Range | See Note 1
+10 | Instrument type | Pressure Transmitter
+11 | Type of measurement | Gauge Pressure
+12 | Calibration Range | See Nitrogen Pressure Instrument List - Item numbers (HN-X)
+13 | Accuracy | ± 0.1% Of Calibrated Span
+14 | Overpressure | 1.5
+15 | Zero Adjustment | Span Adjustment | Yes | Yes
+16 | Element Type | Piezorresistive sensor
+17 | Diaphragm Material | 316 SSL
+18 | Body Material | 316 SS
+19 | Fill fluid | Silicone
+20 | Bolts / Gasket | Yes / Yes
+21 | Process connection | Per vendor also see Accessories / Process connection
+Transmitter | 22 | Housing | Aluminium
+23 | Electrical connection | 1/2" NPT
+24 | Enclosure Protection | NEMA 4
+25 | Output signal | Resistance | 4-20 mA + HART | 500 Ohm
+26 | Type / Power Supply | 2-Wire / 24 VDC
+27 | Hazardous Area Classification | Class I, Division II
+28 | Local Display | Yes
+29 | Environmental Conditions | 22 Deg. F - 125 Deg. F
+30 | Mounting | Remote
+31 | Special Conditions -Solar radiation (DNI) | 1,008 W/m2 - See Note 3
+Accessories | 32 | Mounting Accesories | 2" Pipe mounting kit
+33 | Instrument tag | 316SS 2" * 4"
+34 | Process Connection | 2" Diaphragm Seal - RF
+35 | Thermal Extender | Material | NA | NA
+36 | Flushing ring / Mat'l / Size / Body Class | No
+37 | Flushing ring Drain Port / Size | NA
+38 | Manifold type | NA
+39 | Capillary Tube / Material / Length (ft) | Yes / 316 SS / See Specific Note on "Nitrogen Pressure Transmitter List"
+40 | Calibration | Yes - See Note 2
+41 | Sun shield | Vendor to provide cost est. for this option
+Purchasing | 42 | Manufacturer | ABB
+43 | Transmitter Model # | See sheet 11
+44 | Sun shield P/N # | NA
+45 | Chem seal # | See sheet 11
+Notes: (1) G Capsule = 22 in wc / P Capsule = 348 psig. (2) All transmitters shall be calibrated by vendor, a certicate of calibration is required. (3) DNI (Daily Normal Irradiance) solar radiation energy created thermal accumulation based on the exposed area to environment .
+3 | PGV | Jan/27/2012 | For Purchase - Change as Noted | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purchase - Change as Noted
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 8 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet N2 PIT Spec 2]
+Instrument Specification - HTF Storage / Expansion Area - Nitrogen Pressure Transmitters
+General | 1 | Tag number | See Nitrogen Pressure Instrument List - Item numbers (N-X)
+2 | Service | Nitrogen
+3 | P&ID | See Nitrogen Pressure Instrument List - Item numbers (N-X)
+4 | Line | See Nitrogen Pressure Instrument List - Item numbers (N-X)
+5 | Quantity | See Nitrogen Pressure Instrument List - Item numbers (N-X)
+Process Conditions | 6 | Fluid | Phase | Nitrogen | Pure Gas
+7 | Design Pressure | 150 LBS
+8 | Design Temperature | 20 Deg. F - 200 Deg. F
+Sensor and Body | 9 | Maximum Measuring Range | See Note 1
+10 | Instrument type | Pressure Transmitter
+11 | Type of measurement | Gauge Pressure
+12 | Calibration Range | See Nitrogen Pressure Instrument List - Item numbers (N-X)
+13 | Accuracy | ± 0.1% Of Calibrated Span
+14 | Overpressure | 1.5
+15 | Zero Adjustment | Span Adjustment | Yes | Yes
+16 | Element Type | Piezorresistive sensor
+17 | Diaphragm Material | 316 SSL
+18 | Body Material | 316 SS
+19 | Fill fluid | NA
+20 | Bolts / Gasket | Yes / Yes
+21 | Process connection | 3/4" NPT
+Transmitter | 22 | Housing | Aluminium
+23 | Electrical connection | 1/2" NPT
+24 | Enclosure Protection | NEMA 4
+25 | Output signal | Resistance | 4-20 mA + HART | 500 Ohm
+26 | Type / Power Supply | 2-Wire / 24 VDC
+27 | Hazardous Area Classification | Class I, Division II
+28 | Local Display | Yes
+29 | Environmental Conditions | 22 Deg. F - 125 Deg. F
+30 | Mounting | Direct
+31 | Special Conditions -Solar radiation (DNI) | 1,008 W/m2 - See Note 3
+Accessories | 32 | Mounting Accesories | NA
+33 | Instrument tag | 316SS 2" * 4"
+34 | Process Connection | NA
+35 | Thermal Extender | Material | NA | NA
+36 | Flushing ring / Mat'l / Size / Body Class | NA | NA
+37 | Flushing ring Drain Port / Size | NA | NA
+38 | Manifold type | NA
+39 | Capillary Tube / Material / Length (ft) | NA
+40 | Calibration | Yes - See Note 2
+41 | Sun shield | Vendor to provide cost est. for this option
+Purchasing | 42 | Manufacturer | ABB
+43 | Transmitter Model # | See sheet 11
+44 | Sun shield P/N # | NA
+Notes: (1) E Capsule = 64 in wc. (2) All transmitters shall be calibrated by vendor, a certicate of calibration is required. (3) DNI (Daily Normal Irradiance) solar radiation energy created thermal accumulation based on the exposed area to environment .
+3 | PGV | Jan/27/2012 | For Purcharse - Change as Noted | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purcharse - Change as Noted
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 9 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet N2 Press. Trans. List]
+Engineering Specification - HTF Storage / Expansion Area - Nitrogen Pressure Instruments List
+Item # | Instrument Tag | Service | Calibration | P&ID | Process Line # | Flange Class
+HN - 1 | PIT 204-11A | Over Flow Tank MT 204-A Nitrogen Pressure | 0 - 15 (In. WC) | ♦♦ P204 | Vessel | 150
+HN - 2 | PIT-204-11B | Over Flow Tank MT 204-B Nitrogen Pressure | 0 - 15 (In. WC) | ♦♦ P204 | Vessel | 150
+HN - 3 | PIT 205-26A | Expansion Tanks Nitrogen Pressure 1oo3 | 0 - 200 (psig) | ♦♦ P205 | 205-N-02-CS30-10" | 150
+HN - 4 | PIT 205-26B | Expansion Tanks Nitrogen Pressure 2oo3 | 0 - 200 (psig) | ♦♦ P205 | 205-N-02-CS30-10" | 150
+HN - 5 | PIT 205-26C | Expansion Tanks Nitrogen Pressure 3oo3 | 0 - 200 (psig) | ♦♦ P205 | 205-N-02-CS30-10" | 150
+Item # | Instrument Tag | Service | Calibration | P&ID | Process Line # | Note Capillary Length (Feet)
+N - 1 | PIT 204-10 | Over Flow Tanks MT 204-A/B Nitrogen Pressure | 0 - 15 In. WC | ♦♦ P204 | 207-N-08-CS72-2" | NA
+Note: | ♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+3 | PGV | Jan/27/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purchase
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 10 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet N2 Press. Trans. List (2)]
+Engineering Specification - HTF Storage / Expansion Area - Nitrogen Pressure Instruments List - Purchase information
+Item # | Instrument Tag | Model Number | Chem seal #
+HN - 1 | PIT 204-11A | 266HRH.G.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.V.S.N.N.N
+HN - 2 | PIT-204-11B | 266HRH.G.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.V.S.N.N.N
+HN - 3 | PIT 205-26A | 266HRH.P.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.N.N.N
+HN - 4 | PIT 205-26B | 266HRH.P.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.N.N.N
+HN - 5 | PIT 205-26C | 266HRH.P.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.N.N.N
+Item # | Instrument Tag | Model Number | Chem seal #
+N - 1 | PIT 204-10 | 266HSH.E.S.T.A.1.E6..L1.B1..I2…H3 | N/A
+3 | PGV | Jan/27/2012 | For Purchase - New sheet added | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purchase - New sheet added
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 11 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet W press Tran. Spec]
+Instrument Specification - HTF Storage / Expansion Area - Water Pressure Transmitters
+General | 1 | Tag number | See WaterPressure Instrument List - Item numbers (W-X)
+2 | Service | Water
+3 | P&ID | See WaterPressure Instrument List - Item numbers (W-X)
+4 | Line | See WaterPressure Instrument List - Item numbers (W-X)
+5 | Quantity | See WaterPressure Instrument List - Item numbers (W-X)
+Process Conditions | 6 | Fluid | Phase | Water | Liquid
+7 | Design Pressure | 150 LBS
+8 | Design Temperature | 200 Deg. F
+Sensor and Body | 9 | Maximum Measuring Range | See Note 1
+10 | Instrument type | Pressure Transmitter
+11 | Type of measurement | Differential Pressure
+12 | Calibration Range | See WaterPressure Instrument List - Item numbers (W-X)
+13 | Accuracy | ± 0.1% Of Calibrated Span
+14 | Overpressure | 1.5
+15 | Zero Adjustment | Span Adjustment | Yes | Yes | Yes
+16 | Element Type | Piezorresistive sensor
+17 | Diaphragm Material | 316 SSL
+18 | Body Material | 316 SS
+19 | Fill fluid | NA
+20 | Bolts / Gasket | NA / NA
+21 | Process connection | Per vendor
+Transmitter | 22 | Housing | Aluminium
+23 | Electrical connection | 1/2" NPT
+24 | Enclosure Protection | NEMA 4
+25 | Output signal | Resistance | 4-20 mA + HART | 500 Ohm
+26 | Type / Power Supply | 2-Wire / 24 VDC
+27 | Hazardous Area Classification | Class I, Division II
+28 | Local Display | Yes
+29 | Environmental Conditions | 22 Deg. F - 125 Deg. F
+30 | Mounting | Intergral
+31 | Special Conditions -Solar radiation (DNI) | 1,008 W/m2 - See Note 3
+Accessories | 32 | Mounting Accesories | 2" Pipe mounting kit
+33 | Instrument tag | 316SS 2" * 4"
+34 | Process Connection | 3/4" NPT ( Both High and Low side)
+35 | Thermal Extender | Material | NA | NA
+36 | Flushing ring / Mat'l / Size / Body Class | No
+37 | Flushing ring Drain Port / Size | NA
+38 | Manifold type | 5-valve configuration
+39 | Capillary Tube / Material / Length (ft) | NA
+40 | Calibration | Yes - See Note 2
+41 | Sun shield | Vendor to provide cost est. for this option
+Purchasing | 42 | Manufacturer | ABB
+43 | Transmitter Model # | 266HSH.E.S.T.A.1.E6..L1.B1..I2…H2
+44 | Sun shield P/N # | NA
+45 | Manifold # | M26.D.A.S.5.V.S.P.P.F.1.6.C.1
+(1) E Capsule = 64 in wc. (2) All transmitters shall be calibrated by vendor, a certicate of calibration is required. (3) DNI (Daily Normal Irradiance) solar radiation energy created thermal accumulation based on the exposed area to environment .
+3 | PGV | Jan/27/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purchase
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 12 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3
+
+[sheet W Press Spec List]
+Instrument Specification - HTF Storage / Expansion Area - Water Pressure Transmitters List
+Item # | Instrument Tag | Service | Calibration | P&ID | Process Line # | Note
+W - 1 | PDT 205-03 | HTF MX 205 Cooler - Water Diff. Pressure | 0 - 5 (In. psig) | ♦♦ P204 | Vessel
+Note: | ♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+3 | PGV | Jan/27/2012 | For Purcharse | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | Dec/19/2011 | For Purcharse - No change on this page
+1 | PGV | Oct/20/2011 | Issue for Bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 13 of 13
+Revision | Document Nº: | 4521-ESP-AGE-58-70-0002 | Rev.: 3

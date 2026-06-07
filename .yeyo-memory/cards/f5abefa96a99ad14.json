@@ -1,0 +1,33 @@
+{
+  "id": "f5abefa96a99ad14",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V309.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 36853,
+  "size_human": "36 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-64-V309",
+  "doc_code": "4521-ESP-ANC-68-64-V309",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3818,
+  "token_estimate": 954,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/f5abefa96a99ad14.json",
+  "extracted_path": ".yeyo-memory/extracted/f5abefa96a99ad14.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20111027100131-05'00'",
+      "ModDate": "D:20111027100131-05'00'",
+      "Title": "4521-ESP-ANC-68-64-V309",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "mdreim",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:39.306122+00:00"
+}

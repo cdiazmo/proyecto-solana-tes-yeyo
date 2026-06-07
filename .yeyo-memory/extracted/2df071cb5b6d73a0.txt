@@ -1,0 +1,190 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: ABEINSA EPC USA
+Project: Solana
+Document: Instrument List
+Document: 4521-LIS-AEE-39-70-0015-GAR
+Revision: 0
+Date: Dec/15/2016
+Prepared by:
+Manuel Muñoz Arranz
+Reviewed by:
+Jose María Rodríguez León
+Approved by:
+Jose María Rodríguez León
+Instrument list
+© This procedure belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express 
+written consent of Abeinsa
+
+[page 2]
+Revision: 0
+Date: Dec/15/2016
+Revision Date Revision Object Prepared Revised Approved
+0 Dec/15/2016 Issue for bid MMA JMRL JMRL
+Edition Sections Status
+ABEINSA 
+ENGINEERING
+Document Code: 4521-LIS-ABE-58-72-0002-GAR
+I&C Instruments List
+Revisions Control Sheet
+Preliminary or pending information
+Concepts
+
+[page 3]
+1.- Change in the instruments
+The changes in the instruments will be indicate according to the following way:
+Removed Instrument - All file in Red Colour
+Added Instrument - All file in Green Colour . 
+Modified Instrument - Modified cell in Yellow Colour.
+When any change in an instrument come true ( either why it has gotten modified, addition or removed ) update him the revision of the same in the column Rev. 
+JMRL
+Instrument list
+Reviewed JMRL
+MMADocument: Completed
+Approved
+Modification
+4521-LIS-AEE-39-70-0015-GAR
+Date
+General Notes
+ABEINSA ENGINEERING
+Client: ABEINSA EPC USA Document number:
+IFB
+00
+Dec-15-2016
+Revision
+Project: Solana
+
+[page 4]
+Revision
+Date
+Modification
+Completed
+Reviewed
+Approved
+1 0 PIT-525501 Pressure transmitter Molten salt Pressure MS between TES HEX A and B at TES 5 TES 5 HEX Train 255-MS-01E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+2 0 TIT-525501 Temperature transmitter Molten salt Temperature MS between TES HEX A and B at TES 5 TES 5 HEX Train 255-MS-01E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+3 0 PIT-525502 Pressure transmitter Molten salt Pressure MS between TES HEX B and C at TES 5 TES 5 HEX Train 255-MS-02E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+4 0 TIT-525502 Temperature transmitter Molten salt Temperature MS between TES HEX B and C at TES 5 TES 5 HEX Train 255-MS-02E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+5 0 PIT-525503 Pressure transmitter Molten salt Pressure MS between TES HEX C and D at TES 5 TES 5 HEX Train 255-MS-03E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+6 0 TIT-525503 Temperature transmitter Molten salt Temperature MS between TES HEX C and D at TES 5 TES 5 HEX Train 255-MS-03E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+7 0 PIT-525504 Pressure transmitter Molten salt Pressure MS between TES HEX D and E at TES 5 TES 5 HEX Train 255-MS-04E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+8 0 TIT-525504 Temperature transmitter Molten salt Temperature MS between TES HEX D and E at TES 5 TES 5 HEX Train 255-MS-04E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+9 0 PIT-525505 Pressure transmitter Molten salt Pressure MS between TES HEX E and F at TES 5 TES 5 HEX Train 255-MS-05E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+10 0 TIT-525505 Temperature transmitter Molten salt Temperature MS between TES HEX E and F at TES 5 TES 5 HEX Train 255-MS-05E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+11 0 PIT-525506 Pressure transmitter HTF Pressure HTF between TES HEX A and B at TES 5 TES 5 HEX Train 255-HTF-01E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+12 0 TIT-525506 Temperature transmitter HTF Temperature HTF between TES HEX A and B at TES 5 TES 5 HEX Train 255-HTF-01E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+13 0 PIT-525507 Pressure transmitter HTF Pressure HTF between TES HEX B and C at TES 5 TES 5 HEX Train 255-HTF-02E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+14 0 TIT-525507 Temperature transmitter HTF Temperature HTF between TES HEX B and C at TES 5 TES 5 HEX Train 255-HTF-02E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+15 0 PIT-525508 Pressure transmitter HTF Pressure HTF between TES HEX C and D at TES 5 TES 5 HEX Train 255-HTF-03E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+16 0 TIT-525508 Temperature transmitter HTF Temperature HTF between TES HEX C and D at TES 5 TES 5 HEX Train 255-HTF-03E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+17 0 PIT-525509 Pressure transmitter HTF Pressure HTF between TES HEX D and E at TES 5 TES 5 HEX Train 255-HTF-04E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+18 0 TIT-525509 Temperature transmitter HTF Temperature HTF between TES HEX D and E at TES 5 TES 5 HEX Train 255-HTF-04E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+19 0 PIT-525510 Pressure transmitter HTF Pressure HTF between TES HEX E and F at TES 5 TES 5 HEX Train 255-HTF-05E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+20 0 TIT-525510 Temperature transmitter HTF Temperature HTF between TES HEX E and F at TES 5 TES 5 HEX Train 255-HTF-05E-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P277-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+21 0 PIT-625501 Pressure transmitter Molten salt Pressure MS between TES HEX A and B at TES 6 TES 6 HEX Train 255-MS-01F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+22 0 TIT-625501 Temperature transmitter Molten salt Temperature MS between TES HEX A and B at TES 6 TES 6 HEX Train 255-MS-01F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+23 0 PIT-625502 Pressure transmitter Molten salt Pressure MS between TES HEX B and C at TES 6 TES 6 HEX Train 255-MS-02F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+24 0 TIT-625502 Temperature transmitter Molten salt Temperature MS between TES HEX B and C at TES 6 TES 6 HEX Train 255-MS-02F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+25 0 PIT-625503 Pressure transmitter Molten salt Pressure MS between TES HEX C and D at TES 6 TES 6 HEX Train 255-MS-03F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+26 0 TIT-625503 Temperature transmitter Molten salt Temperature MS between TES HEX C and D at TES 6 TES 6 HEX Train 255-MS-03F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+27 0 PIT-625504 Pressure transmitter Molten salt Pressure MS between TES HEX D and E at TES 6 TES 6 HEX Train 255-MS-04F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+28 0 TIT-625504 Temperature transmitter Molten salt Temperature MS between TES HEX D and E at TES 6 TES 6 HEX Train 255-MS-04F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+29 0 PIT-625505 Pressure transmitter Molten salt Pressure MS between TES HEX E and F at TES 6 TES 6 HEX Train 255-MS-05F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+30 0 TIT-625505 Temperature transmitter Molten salt Temperature MS between TES HEX E and F at TES 6 TES 6 HEX Train 255-MS-05F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+31 0 PIT-625506 Pressure transmitter HTF Pressure HTF between TES HEX A and B at TES 6 TES 6 HEX Train 255-HTF-01F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+32 0 TIT-625506 Temperature transmitter HTF Temperature HTF between TES HEX A and B at TES 6 TES 6 HEX Train 255-HTF-01F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+33 0 PIT-625507 Pressure transmitter HTF Pressure HTF between TES HEX B and C at TES 6 TES 6 HEX Train 255-HTF-02F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+34 0 TIT-625507 Temperature transmitter HTF Temperature HTF between TES HEX B and C at TES 6 TES 6 HEX Train 255-HTF-02F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+35 0 PIT-625508 Pressure transmitter HTF Pressure HTF between TES HEX C and D at TES 6 TES 6 HEX Train 255-HTF-03F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+36 0 TIT-625508 Temperature transmitter HTF Temperature HTF between TES HEX C and D at TES 6 TES 6 HEX Train 255-HTF-03F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+37 0 PIT-625509 Pressure transmitter HTF Pressure HTF between TES HEX D and E at TES 6 TES 6 HEX Train 255-HTF-04F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+38 0 TIT-625509 Temperature transmitter HTF Temperature HTF between TES HEX D and E at TES 6 TES 6 HEX Train 255-HTF-04F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+39 0 PIT-625510 Pressure transmitter HTF Pressure HTF between TES HEX E and F at TES 6 TES 6 HEX Train 255-HTF-05F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+40 0 TIT-625510 Temperature transmitter HTF Temperature HTF between TES HEX E and F at TES 6 TES 6 HEX Train 255-HTF-05F-CS30-24" 24" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P278-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+41 0 PIT-625901 Pressure transmitter Molten salt Pressure at drain back tank Drain back tank - - - EF-MT-259 A 105 / A 106 Gr.B - - 4521-PLN-AEU-68-71-P279-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+42 0 TIT-625901 Temperature transmitter Molten salt Temperature at drain back tank Drain back tank - - - EF-MT-259 A 105 / A 106 Gr.B - - 4521-PLN-AEU-68-71-P279-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0103 4521-PLN-AEE-39-45-6101-GAR - -
+43 0 LIT-625901 Radar level transmitter Molten salt Level at drain back tank Drain back tank - - - EF-MT-259 A 105 / A 106 Gr.B - - 4521-PLN-AEU-68-71-P279-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 100 % AI 4-20 mA By loop 4521-HDD-AGE-39-70-0013-GAR 4521-PLN-AGE-00-74-0120 4521-PLN-AEE-39-45-6101-GAR - -
+44 0 PIT-625902 Pressure transmitter Molten salt Pressure MS from drain back tank to cold salt tank Drain back tank 255-MS-10EF-CS31-4" 4" CS31 n/a n/a - 6" 4521-PLN-AEU-68-71-P279-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+45 0 LSH-625901 High level switch Molten salt High level at drain back tanck Drain back tank - - - EF-MT-259 A 105 / A 106 Gr.B - - 4521-PLN-AEU-68-71-P279-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 1 N/A DI (Relay) By loop 4521-HDD-AGE-39-70-0014-GAR 4521-PLN-AGE-00-74-0122 4521-PLN-AEE-39-45-6101-GAR - -
+46 0 LSL-625901 Low level switch Molten salt Low level at drain back tanck Drain back tank - - - EF-MT-259 A 105 / A 106 Gr.B - - 4521-PLN-AEU-68-71-P279-GAR 1 1 4521-PLN-AEE-39-72-0012-GAR 0 1 N/A DI (Relay) By loop 4521-HDD-AGE-39-70-0014-GAR 4521-PLN-AGE-00-74-0122 4521-PLN-AEE-39-45-6101-GAR - -
+47 0 PIT-525120A Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from cold salt tank TES 5 252-MS-03E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+48 0 PIT-525120B Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from cold salt tank TES 5 252-MS-03E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+49 0 PIT-525120C Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from cold salt tank TES 5 252-MS-03E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+50 0 PIT-525110A Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from hot salt tank TES 5 252-MS-04E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+51 0 PIT-525110B Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from hot salt tank TES 5 252-MS-04E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+52 0 PIT-525110C Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from hot salt tank TES 5 252-MS-04E-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+53 0 PIT-525139 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from HTF pump suction header TES 5 252-HTF-10E-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+54 0 PIT-525140 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from HTF pump suction header TES 5 252-HTF-10E-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+55 0 TIT-525108C Temperature transmitter HTF Temperature HTF inlet/outlet HEX from HTF pump suction header TES 5 252-HTF-10E-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+56 0 TIT-525108D Temperature transmitter HTF Temperature HTF inlet/outlet HEX from HTF pump suction header TES 5 252-HTF-10E-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+57 0 PIT-525141 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from hot HTF header SF TES 5 212-HTF-05-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+58 0 PIT-525142 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from hot HTF header SF TES 5 212-HTF-05-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+59 0 TIT-525118C Temperature transmitter HTF Temperature HTF inlet/outlet HEX from hot HTF header SF TES 5 212-HTF-05-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+60 0 TIT-525118D Temperature transmitter HTF Temperature HTF inlet/outlet HEX from hot HTF header SF TES 5 212-HTF-05-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P271-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+61 0 PIT-625120A Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from cold salt tank TES 6 252-MS-03F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+62 0 PIT-625120B Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from cold salt tank TES 6 252-MS-03F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+63 0 PIT-625120C Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from cold salt tank TES 6 252-MS-03F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+64 0 PIT-625110A Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from hot salt tank TES 6 252-MS-04F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+65 0 PIT-625110B Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from hot salt tank TES 6 252-MS-04F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+66 0 PIT-625110C Pressure transmitter Molten salt Pressure MS inlet/outlet HEX from hot salt tank TES 6 252-MS-04F-CS31-24" 24" CS31 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 0 185,3 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0111 4521-PLN-AEE-39-45-6101-GAR - -
+67 0 PIT-625139 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from HTF pump suction header TES 6 252-HTF-10F-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+68 0 PIT-625140 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from HTF pump suction header TES 6 252-HTF-10F-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+69 0 TIT-625108C Temperature transmitter HTF Temperature HTF inlet/outlet HEX from HTF pump suction header TES 6 252-HTF-10F-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+70 0 TIT-625108D Temperature transmitter HTF Temperature HTF inlet/outlet HEX from HTF pump suction header TES 6 252-HTF-10F-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+71 0 PIT-625141 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from hot HTF header SF TES 6 212-HTF-06-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+72 0 PIT-625142 Pressure transmitter HTF Pressure HTF inlet/outlet HEX from hot HTF header SF TES 6 212-HTF-06-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 14,5 300 psia AI 4-20 mA By loop 4521-HDD-AGE-39-70-0011-GAR 4521-PLN-AGE-00-74-0118 4521-PLN-AEE-39-45-6101-GAR - -
+73 0 TIT-625118C Temperature transmitter HTF Temperature HTF inlet/outlet HEX from hot HTF header SF TES 6 212-HTF-06-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+74 0 TIT-625118D Temperature transmitter HTF Temperature HTF inlet/outlet HEX from hot HTF header SF TES 6 212-HTF-06-CS30-20" 20" CS30 n/a n/a - 7" 4521-PLN-AEU-68-71-P274-GAR 1 0 4521-PLN-AEE-39-72-0012-GAR 32 800 ºF AI 4-20 mA By loop 4521-HDD-AGE-39-70-0012-GAR 4521-PLN-AGE-00-74-0104 4521-PLN-AEE-39-45-6101-GAR - -
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+This instrument shall be demounted and reinstalled at new pipe location
+Nozzle DiameterInstrument Type System Line Size Equipment NameTag Process Fluid P&ID Sheet
+Remarks
+P&ID Revision Min. Instrument Range Max. Instrument Range Unit Signal Type Power Supply Data Sheet Process Hook-up Diagrams Electrical Connect. Diagrams Manufacturer Model
+00
+MMA
+JMRL
+IFD
+JMRL
+Client: ABEINSA EPC USA
+Dec-15-2016
+Solana TES HEX
+Document number:
+4521-LIS-AEE-39-70-0015-GAR
+Instrument list
+Document:
+Equipment Material Insulation
+Location
+Drawing Lay-Out
+Basic Data
+Item Service Description
+ABEINSA ENGINEERING
+Line Spec
+Project:
+Line NumberRev. P&ID
+Technical Information Supplier Data

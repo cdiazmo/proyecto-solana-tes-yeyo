@@ -1,0 +1,61 @@
+{
+  "id": "9929b91da2f154d0",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-00-61-PS001.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 130959,
+  "size_human": "128 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-00-61-PS001",
+  "doc_code": "4521-ESP-ANC-00-61-PS001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 22626,
+  "token_estimate": 5656,
+  "chunks": 15,
+  "card_path": ".yeyo-memory/cards/9929b91da2f154d0.json",
+  "extracted_path": ".yeyo-memory/extracted/9929b91da2f154d0.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110818091513-05'00'",
+      "ModDate": "D:20110818091513-05'00'",
+      "Title": "4521-ESP-ANC-00-61-PS001",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "rclipc",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::191",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 191,
+        "doc_code": "4521-ESP-ANC-00-61-PS001",
+        "title": "Especificación Montaje Mecánico",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::191",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 191,
+        "doc_code": "4521-ESP-ANC-00-61-PS001",
+        "title": "Especificación Montaje Mecánico",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:56.215287+00:00"
+}

@@ -1,0 +1,1183 @@
+[page 1]
+ABEINSA ENGENEERING 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title: 
+TES HEX Change stress report 
+Project: HEX replacement TES Solana 
+ 
+Document No. : 4521-INF-AEE-21-63-0004-GAR 
+Revision : 00 
+Date : 30/01/2017 
+ 
+Prepared by: 
+Juan Benítez Infante Electronic Signature 
+ 
+Reviewed by: 
+Miguel Trigueros González Electronic Signature 
+ 
+Approved by: 
+José María Rodríguez León Electronic Signature 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+2 of 25 
+ 
+Revision Control Sheet 
+ 
+ 
+Revision Date Reason for the revision Prepared 
+by 
+Reviewed 
+by 
+Approved 
+by 
+00 30/01/2017 First issue JBI MTG JMRL 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+3 of 25 
+ 
+Table of Contents 
+ 
+1. Objective ......................................... ................................................... 4 
+2. Scope ................................................................................................ .. 5 
+3. Design and conditions loads ............................................................. 6 
+3.1. Temperatures and pressures ................................................................................ 6 
+4. Allowable stresses ............................................................................. 8 
+5. Load Combinations ............................................................................ 9 
+5.1. Load Combinations 1 ........................................................................................... 9 
+6. Inputs ............................................................................................... . 11 
+6.1. Screen Captures ................................................................................................ 11 
+6.1.1. TEX HEX Change_Molten salts MODE1 / MODE2 .......................................................................11 
+6.1.2. TEX HEX Change_HTF ................................................................................................................12 
+6.2. Input Echo and Miscellaneous ............................................................................ 12 
+7. Results .............................................................................................. 13 
+7.1. Maximum stress rating ....................................................................................... 13 
+7.1.1. TEX HEX Change_Molten salts MODE1 / MODE2 .......................................................................13 
+ 13 
+7.1.2. TEX HEX Change_HTF ................................................................................................................15 
+7.2. Restraint and Stress Report ................................................................................ 16 
+7.3. Nozzle Loads ..................................................................................................... 16 
+TEX HEX Change_Molten salts MODE1 / MODE2 .....................................................................................16 
+TEX HEX Change_HTF ..............................................................................................................................20 
+8. Annexes ............................................................................................ 24 
+9. Conclusions ....................................... ............................................... 25 
+ 
+
+[page 4]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+4 of 25 
+ 
+1. Objective 
+The purpose of this document is to validate the piping layout and define the pipe supports for 
+the lines included in the associated stress calculation models of molten salts and HTF system as 
+a result of the heat exchangers modification. Desig n validation is obtained by modelling the 
+effect of the external loads applied on the pipelin e. The analysis of model shows the potential 
+behaviour of pipe system under application of all e xternal loads. This analysis will provide the 
+following information: 
+• Pipe stress verification for application code. 
+• Calculation of loads and displacements applied on pipe supports for their correct sizing. 
+This piping dossier for the molten salts and HTF Po wer block system is composed of these 
+documents and the associated annexes specified in p aragraph 8. Mainly these annexes are 
+related to the input echo, the stress report and stress isometrics from Caesar II 2016. 
+ 
+Localization Calculation model Annexes 
+Power 
+Block 
+TES HEX Change_Molten 
+salts MODE1 
+4521-INF-AEE-21-63-0004(A01)_Rev00_Input Echo 
+4521 -INF -AEE -21 -63 -0004 (A04)_Rev00_Restraint and Stress 
+Report 
+4521-INF-AEE-21-63-0004 (A07) 
+TES HEX Change_Molten 
+salts MODE2 
+4521-INF-AEE-21-63-0004 (A02)_Rev00_Input Echo 
+4521 -INF -AEE -21 -63 -0004 (A05)_Rev00_Restraint and Stress 
+Report 
+TES HEX Change_HTF 
+4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo 
+4521 -INF -AEE -21 -63 -0004 (A06)_Rev00_Restraint and Stress 
+Report 
+ 
+ 
+ 
+
+[page 5]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+5 of 25 
+ 
+2. Scope 
+The table below shows the calculation models includ ed in this system and the piping 
+associated. 
+ Calculation model Pipeline 
+Power Block 
+TES HEX Change_Molten salts MODE1/MODE2 
+252-MS-04E-CS31-24" 
+252-MS-03E-CS31-24" 
+252-MS-04F-CS31-24" 
+252-MS-03F-CS31-24" 
+257-MS-10EF-CS31-6" 
+252-MS-14E-CS31-24" 
+253-MS-01E-CS31-20" 
+253-MS-05E-CS31-20" 
+253-MS-03E-CS31-10" 
+253-MS-09E-CS31-3" 
+253-MS-02E-CS31-10" 
+253-MS-07E-CS31-10" 
+253-MS-04E-CS31-10" 
+257-MS-10E-CS31-4" 
+257-MS-10F-CS31-4" 
+252-MS-60E-CS31-24" 
+252-MS-14F-CS31-24" 
+253-MS-01F-CS31-20" 
+253-MS-05F-CS31-20" 
+253-MS-02F-CS31-10" 
+253-MS-07F-CS31-10" 
+253-MS-04F-CS31-10" 
+253-MS-09F-CS31-3" 
+251-MS-02F-CS31-20" 
+251-MS-01F-CS31-20" 
+252-MS-13F-CS31-24" 
+251-MS-07F-CS31-3" 
+251-MS-01E-CS31-20" 
+251-MS-02E-CS31-20" 
+252-MS-60F-CS31-24" 
+252-MS-13E-CS31-24" 
+TES HEX Change_HTF 
+252-HTF-12E-CS30-20" 
+252-HTF-16E-CS30-20" 
+252-HTF-12F-CS30-20" 
+252-HTF-16F-CS30-20" 
+
+[page 6]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+6 of 25 
+ 
+3. Design and conditions loads 
+As design conditions the following data will be taken into account: 
+• Design pressure and temperature of the pipe. 
+• Operating pressure and temperature of the pipe. 
+• Wind loads on the pipe. The next data will be determined: Wind shape factor, wind 
+directions and Wind Load Parameters according to ASCE#7 
+To determine the static load corresponding to a horizontal force (G factors can be derived), 
+the following formula must be used (from ASCE Seismic Design and Retrofit of Piping 
+System): 
+3.1. Temperatures and pressures 
+The design and operation temperatures and pressures ate according to the project line list 
+4521-LIS-AEE-39-61-0001-GAR_R00_ Pipeline TES HEX Replacement 
+ 
+ 
+ Design Conditions Testing pressure 
+ Calculate Line Number Pressure (psi) T(ºF) Pressure 
+psi) Fluid 
+TES HEX Change_Molten 
+salts MODE1/MODE2 
+252-MS-04E-CS31-24" 160 750 240 Water 
+252-MS-03E-CS31-24" 160 750 240 Water 
+252-MS-04F-CS31-24" 160 750 240 Water 
+252-MS-03F-CS31-24" 160 750 240 Water 
+257-MS-10EF-CS31-6" 200 750 300 Water 
+252-MS-14E-CS31-24" 160 750 240 Water 
+253-MS-01E-CS31-20" 96.3 750 144.45 Water 
+253-MS-05E-CS31-20" 96.3 750 144.45 Water 
+253-MS-03E-CS31-10" 38.7 750 58 Water 
+253-MS-09E-CS31-3" 96.3 750 144.45 Water 
+253-MS-02E-CS31-10" 38.7 750 58 Water 
+253-MS-07E-CS31-10" 53 750 80 Water 
+253-MS-04E-CS31-10" 96.3 750 144.45 Water 
+257-MS-10E-CS31-4" 200 750 300 Water 
+257-MS-10F-CS31-4" 200 750 300 Water 
+252-MS-60E-CS31-24" 160 750 240 Water 
+252-MS-14F-CS31-24" 160 750 240 Water 
+253-MS-01F-CS31-20" 96.3 750 144.45 Water 
+253-MS-05F-CS31-20" 96.3 750 144.45 Water 
+253-MS-02F-CS31-10" 38.7 750 58 Water 
+
+[page 7]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+7 of 25 
+ 
+253-MS-07F-CS31-10" 53 750 80 Water 
+253-MS-04F-CS31-10" 96.3 750 144.45 Water 
+253-MS-09F-CS31-3" 96.3 750 144.45 Water 
+251-MS-02F-CS31-20" 96.3 750 144.45 Water 
+251-MS-01F-CS31-20" 96.3 750 144.45 Water 
+252-MS-13F-CS31-24" 160 750 240 Water 
+251-MS-07F-CS31-3" 96.3 750 144.45 Water 
+251-MS-01E-CS31-20" 96.3 750 144.45 Water 
+251-MS-02E-CS31-20" 96.3 750 144.45 Water 
+252-MS-60F-CS31-24" 160 750 240 Water 
+252-MS-13E-CS31-24" 160 750 240 Water 
+TES HEX Change_HTF 
+252-HTF-12E-CS30-
+20" 350 750 525 Water 
+252-HTF-16E-CS30-
+20" 350 750 525 Water 
+252-HTF-12F-CS30-
+20" 350 750 525 Water 
+252-HTF-16F-CS30-
+20" 350 750 525 Water 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 8]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+8 of 25 
+ 
+4. Allowable stresses 
+The code used for HTF Solar Field syustem will be ASME B31.3 Process Piping 
+ 
+Sustained load 
+Sb A
+F
+tn 
+PD S
+m
+A
+SL ++= 4
+0
+ 
+ 
+B31.3 
+ 
+≤ 1.0 Sh 
+Occasional load 
+ S 4
+ 
+b
+0 max 
+++=
+m
+A
+n
+OL 
+A
+F
+t
+DPS 
+Forces of discharge in safety valves. 
+Loads of inside pressure and fluid. 
+Seism´s loads. 
+ 
+B31.3 
+ 
+≤ 1.33 Sh for occasional 
+loads 
+ 
+Expansion Thermal loads. 
+22 * 4tE SSb S += 
+Thermals movements of anchors. 
+Seismic movements of the anchors 
+(only if anchors are excluded of 
+Movements MB). 
+B31.3 
+ 
+≤ SA 
+ 
+Where: 
+SA = f [1.25(Sh+Sc)-SL ] 
+*** 
+Where Sb is: 
+( ) ( )
+Z
+MiMiSb 
+ooii
+22
+**( += 
+ 
+ 
+*** To materials which has traction tension minimum 70 KSI, admissible tension(Sa) will be 
+calculated using Sc and Sh < 20 Ksi. 
+ 
+
+[page 9]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+9 of 25 
+ 
+Acronyms used: 
+- Sl Longitudinal Stress 
+-
+SL S Longitudinal Stress due to pressure and weight 
+- Se Stress due to thermal expansion. 
+- Sol Longitudinal Stress due to occasional loads , like pressure and weight 
+-Sh Basics Stress of the material at hot temperat ure 
+- P Pressure 
+- Do Outside diameter 
+- tn Thickness 
+- i Intensified forces 
+- f Factor is given by the number of cycles. 
+- Fa Axial Force 
+- Am Cross-sectional metal area in the pipe 
+- Sb Bending Stress 
+- St Torsional stress 
+- ii In plane stress intensification factor 
+- oi Out plane stress intensification factor 
+- iM In-plane moment 
+- oM Out-plane moment 
+ 
+ 
+ 
+Code ASME B31.3 established the method for calculat ing the stress factor by the number of cycles. 
+ 
+16
+2 . 0≤= Nf 
+ 
+ N= number of cycles 
+ 
+5. Load Combinations 
+5.1. Load Combinations 1 
+This load cases has been used for the folowing calculates: 
+ 
+TEX HEX Change_Molten salts MODE1 
+TEX HEX Change_Molten salts MODE2 
+TEX HEX Change_HTF 
+ 
+Software tool used for the project is Caesar II 201 6 R1. The load combinations to be 
+considered are shown in the table below. 
+ 
+Load 
+Case 
+Comb. 
+Type Description 
+L1 HGR W Hanger Calculation 
+L2 HGR W+D1+T1+P1 Hanger Calculation 
+L3 HYD WW+HP+H Hydro Test 
+
+[page 10]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+10 of 25 
+ 
+L4 OPE W+D1+T1+P1+H Operating Condition 
+L5 OPE W+D2+T2+P2+H Design Condition 
+L6 OPE W+D2+T2+P2+H+F1 Design Condition + Force1 
+L7 OPE W+D1+T1+P1+H+U1 Design Condition + U1 
+L8 OPE W+D1+T1+P1+H-U1 Design Condition - U1 
+L9 OPE W+D1+T1+P1+H+U2 Design Condition + U2 
+L10 OPE W+D1+T1+P1+H-U2 Design Condition - U2 
+L11 OPE W+D1+D4+T1+P1+H Operating Condition + desp . 
+L12 OPE W+D1-D4+T1+P1+H Operating Condition + desp . 
+L13 OPE W+D1+D5+T1+P1+H Operating Condition + desp . 
+L14 OPE W+D1-D5+T1+P1+H Operating Condition + desp . 
+L15 OPE W+D1+D4+T1+P1+H+U1 Design Condition + U1+desp. 
+L16 OPE W+D1-D4+T1+P1+H+U1 Design Condition + U1+desp. 
+L17 OPE W+D1+D4+T1+P1+H-U1 Design Condition - U1+desp. 
+L18 OPE W+D1-D4+T1+P1+H-U1 Design Condition - U1+de sp. 
+L19 OPE W+D1+D5+T1+P1+H+U2 Design Condition - U2+desp. 
+L20 OPE W+D1-D5+T1+P1+H+U2 Design Condition - U2+desp. 
+L21 OPE W+D1+D5+T1+P1+H-U2 Design Condition - U2+desp. 
+L22 OPE W+D1-D5+T1+P1+H-U2 Design Condition - U2+de sp. 
+L23 OPE W+D1+T1+P1+H+WIN1 Operating Condition + Win d1 
+L24 OPE W+D1+T1+P1+H-WIN1 Operating Condition - Win d1 
+L25 SUS W+P1+H Cold Load with Operating Pressure 
+L26 SUS W+P2+H Cold Load with Design Pressure 
+L27 OCC L6-L5 Force1 Stress 
+L28 OCC L7-L4 + U1Seismic Stress 
+L29 OCC L8-L4 - U1Seismic Stress 
+L30 OCC L9-L4 + U2Seismic Stress 
+L31 OCC L10-L4 -U2Seismic Stress 
+L32 OCC L23-L4 +Wind1 Stress 
+L33 OCC L24-L4 -Wind1 Stress 
+L34 EXP L4-L25 Operating Thermal Stress 
+L35 EXP L5-L26 Design Thermal Stress 
+L36 EXP L11-L25 Operating Thermal Stress + desp. 
+L37 EXP L12-L25 Operating Thermal Stress + desp. 
+L38 EXP L13-L25 Operating Thermal Stress + desp. 
+L39 EXP L14-L25 Operating Thermal Stress + desp. 
+L40 OCC L25+L27 Sustained Design + Force1 Stress 
+L41 OCC L25+L28 Sustained Design + U1 Seismic Stres s 
+L42 OCC L25+L29 Sustained Design - U1Seismic Stress 
+L43 OCC L25+L30 Sustained Design + U2 Seismic Stres s 
+
+[page 11]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+11 of 25 
+ 
+L44 OCC L25+L31 Sustained Design- U2Seismic Stress 
+L45 OCC L25+L32 Sustained Design + Wind1 Stress 
+L46 OCC L25+L33 Sustained Design- Wind1 Stress 
+ 
+6. Inputs 
+6.1. Screen Captures 
+6.1.1. TEX HEX Change_Molten salts MODE1 / MODE2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 12]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+12 of 25 
+ 
+6.1.2. TEX HEX Change_HTF 
+ 
+ 
+6.2. Input Echo and Miscellaneous 
+See the following annexes: 
+4521-INF-AEE-21-63-0004(A01)_Rev00_Input Echo 
+4521-INF-AEE-21-63-0004 (A02)_Rev00_Input Echo 
+4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo 
+ 
+ 
+ 
+
+[page 13]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+13 of 25 
+ 
+7. Results 
+7.1. Maximum stress rating 
+The screens below have shown maximum stress rating for any calculation model. 
+More details you can find in reference attached files. 
+ 
+7.1.1. TEX HEX Change_Molten salts MODE1 / MODE2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 14]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+14 of 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 15]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+15 of 25 
+ 
+7.1.2. TEX HEX Change_HTF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 16]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+16 of 25 
+ 
+ 
+ 
+7.2. Restraint and Stress Report 
+See the following annexes: 
+ 
+4521-INF-AEE-21-63-0004 (A04)_Rev00_Restraint and S tress Report 
+4521-INF-AEE-21-63-0004 (A05)_Rev00_Restraint and S tress Report 
+4521-INF-AEE-21-63-0004 (A06)_Rev00_Restraint and S tress Report 
+ 
+ 
+ 
+7.3. Nozzle Loads 
+ 
+The maximum forces and moments (include sustained, operational and occasional load cases) 
+are less than the allowable loads supplied by vendor. 
+ 
+TEX HEX Change_Molten salts MODE1 / MODE2 
+Heaters 
+ 
+Reference document; 4521-PLN-LOI-039-062-0001-GAR R ev.00 GENERAL ARRAGEMENT 
+AND LOADS DRAWING 
+ 
+Nozzle 5-MX-251_S1 
+ 
+7950 Absolute Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) -1609 172 -336 0.314 -1750 1164.2 1877.4 0.053 
+ 4(OPE) 2491 -3295 -2257 0.525 11097 25082 2055.1 0.702 
+ 5(OPE) 3966 -4625 -2513 0.773 15919 32886 2459. 4 0.921 
+ 6(OPE) 3966 -4625 -2513 0.773 15919 32886 2459. 4 0.921 
+ 7(OPE) 2478 -2763 -2182 0.483 10714 25245 605.2 0.707 
+
+[page 17]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+17 of 25 
+ 
+ 8(OPE) 2490 -3795 -2293 0.605 11423 25001 3380.5 0.7 
+ 9(OPE) 2689 -3488 -3686 0.587 11613 21238 2292. 8 0.595 
+ 10(OPE) 2293 -3180 -920 0.507 10708 28665 2119.5 0.802 
+ 11(OPE) 2491 -3295 -2257 0.525 11097 25082 2055. 1 0.702 
+ 12(OPE) 2491 -3295 -2257 0.525 11097 25082 2055.1 0.702 
+ 13(OPE) 2491 -3295 -2257 0.525 11097 25082 2055. 1 0.702 
+ 14(OPE) 2491 -3295 -2257 0.525 11097 25082 2055. 1 0.702 
+ 15(OPE) 2478 -2763 -2182 0.483 10714 25245 605.2 0.707 
+ 16(OPE) 2478 -2763 -2182 0.483 10714 25245 605.2 0.707 
+ 17(OPE) 2490 -3795 -2293 0.605 11423 25001 3380. 5 0.7 
+ 18(OPE) 2490 -3795 -2293 0.605 11423 25001 3380. 5 0.7 
+ 19(OPE) 2689 -3488 -3686 0.587 11613 21238 2292. 8 0.595 
+ 20(OPE) 2689 -3488 -3686 0.587 11613 21238 2292.8 0.595 
+ 21(OPE) 2293 -3180 -920 0.507 10708 28665 2119.5 0.802 
+ 22(OPE) 2293 -3180 -920 0.507 10708 28665 2119.5 0.802 
+ 23(OPE) 2488 -3280 -2240 0.523 11068 25128 2005. 1 0.703 
+ 24(OPE) 2494 -3309 -2273 0.527 11123 25042 2099.7 0.701 
+ 25(SUS) -2567 274 -536 0.501 -2794 1858.3 2996.6 0.084 
+ 26(SUS) -2567 274 -536 0.501 -2794 1858.3 2996.6 0.084 
+ 
+Nozzle 5-MX-251_S2 
+ 
+9100 Absolute Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) 2739 -282 4 0.534 3000.1 1000.1 453.7 0. 059 
+ 4(OPE) 3342 -1006 1035 0.652 6443 -17569 -1452 0.492 
+ 5(OPE) 3324 -1018 1054 0.648 6488.9 -17913 -149 9 0.501 
+ 6(OPE) 3324 -1018 1054 0.648 6488.9 -17913 -149 9 0.501 
+ 7(OPE) 3269 525 1108 0.637 -1634 -18837 -5700 0 .527 
+ 8(OPE) 3402 -2538 949 0.663 14548 -16263 2800.2 0.455 
+ 9(OPE) 4409 -956 4160 0.86 547.6 -18780 -2584 0 .526 
+ 10(OPE) 2272 -1056 -2092 0.443 12343 -16350 -319 .1 0.458 
+ 11(OPE) 3342 -1006 1035 0.652 6443 -17569 -1452 0.492 
+ 12(OPE) 3342 -1006 1035 0.652 6443 -17569 -1452 0.492 
+ 13(OPE) 3342 -1006 1035 0.652 6443 -17569 -1452 0.492 
+ 14(OPE) 3342 -1006 1035 0.652 6443 -17569 -1452 0.492 
+ 15(OPE) 3269 525 1108 0.637 -1634 -18837 -5700 0 .527 
+ 16(OPE) 3269 525 1108 0.637 -1634 -18837 -5700 0.527 
+ 17(OPE) 3402 -2538 949 0.663 14548 -16263 2800.2 0.455 
+ 18(OPE) 3402 -2538 949 0.663 14548 -16263 2800.2 0.455 
+ 19(OPE) 4409 -956 4160 0.86 547.6 -18780 -2584 0 .526 
+ 20(OPE) 4409 -956 4160 0.86 547.6 -18780 -2584 0.526 
+ 21(OPE) 2272 -1056 -2092 0.443 12343 -16350 -319 .1 0.458 
+
+[page 18]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+18 of 25 
+ 
+ 22(OPE) 2272 -1056 -2092 0.443 12343 -16350 -319.1 0.458 
+ 23(OPE) 3342 -1006 1035 0.652 6441.4 -17566 -145 2 0.492 
+ 24(OPE) 3341 -1006 1036 0.651 6444.7 -17570 -145 1 0.492 
+ 25(SUS) 3948 -477 -25 0.77 4580.8 -1652 720.8 0. 091 
+ 26(SUS) 3948 -477 -25 0.77 4580.3 -1652 720.7 0.091 
+ 
+Nozzle 6-MX-251_S2 
+ 
+17240 Absolute Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) -1251 -432 -352 0.244 4237.9 2721.6 -455 5 0.128 
+ 4(OPE) 1324 1597 -572 0.258 -5145 24070 -895.6 0.674 
+ 5(OPE) 2172 2448 -397 0.423 -8773 29819 13 0.83 5 
+ 6(OPE) 2172 2448 -397 0.423 -8773 29819 13 0.835 
+ 7(OPE) 1332 1621 -589 0.26 -5187 24051 -938.1 0 .673 
+ 8(OPE) 1317 1573 -555 0.257 -5103 24090 -853.2 0.674 
+ 9(OPE) 1328 1600 -600 0.259 -5153 24022 -894.4 0.672 
+ 10(OPE) 1320 1597 -548 0.257 -5139 24111 -911.3 0.675 
+ 11(OPE) 1324 1597 -572 0.258 -5145 24070 -895.6 0.674 
+ 12(OPE) 1324 1597 -572 0.258 -5145 24070 -895.6 0.674 
+ 13(OPE) 1324 1597 -572 0.258 -5145 24070 -895.6 0.674 
+ 14(OPE) 1324 1597 -572 0.258 -5145 24070 -895.6 0.674 
+ 15(OPE) 1332 1621 -589 0.26 -5187 24051 -938.1 0 .673 
+ 16(OPE) 1332 1621 -589 0.26 -5187 24051 -938.1 0 .673 
+ 17(OPE) 1317 1573 -555 0.257 -5103 24090 -853.2 0.674 
+ 18(OPE) 1317 1573 -555 0.257 -5103 24090 -853.2 0.674 
+ 19(OPE) 1328 1600 -600 0.259 -5153 24022 -894.4 0.672 
+ 20(OPE) 1328 1600 -600 0.259 -5153 24022 -894.4 0.672 
+ 21(OPE) 1320 1597 -548 0.257 -5139 24111 -911.3 0.675 
+ 22(OPE) 1320 1597 -548 0.257 -5139 24111 -911.3 0.675 
+ 23(OPE) 1320 1577 -549 0.257 -5103 24108 -853.1 0.675 
+ 24(OPE) 1335 1641 -624 0.261 -5233 23993 -1001 0 .672 
+ 25(SUS) -1976 -534 -542 0.385 5346.8 3650.3 -575 8 0.161 
+ 26(SUS) -1976 -534 -542 0.385 5346.8 3650.3 -575 8 0.161 
+ 
+Nozzle 6-MX-251_S1 
+ 
+17540 Absolute Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) 2128 284 7 0.415 -3114 1072 104.8 0.062 
+ 4(OPE) 2788 1140 1091 0.544 -8147 -16569 3830.8 0.464 
+ 5(OPE) 2750 1157 1108 0.536 -8213 -17100 3914.7 0.479 
+ 6(OPE) 2750 1157 1108 0.536 -8213 -17100 3914.7 0.479 
+
+[page 19]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+19 of 25 
+ 
+ 7(OPE) 2788 1174 1088 0.544 -8339 -16534 3796.7 0.463 
+ 8(OPE) 2787 1107 1093 0.543 -7954 -16604 3864.9 0.465 
+ 9(OPE) 2812 1139 1159 0.548 -8012 -16718 3853 0 .468 
+ 10(OPE) 2763 1142 1022 0.539 -8282 -16420 3808.6 0.46 
+ 11(OPE) 2788 1140 1091 0.544 -8147 -16569 3830.8 0.464 
+ 12(OPE) 2788 1140 1091 0.544 -8147 -16569 3830.8 0.464 
+ 13(OPE) 2788 1140 1091 0.544 -8147 -16569 3830.8 0.464 
+ 14(OPE) 2788 1140 1091 0.544 -8147 -16569 3830.8 0.464 
+ 15(OPE) 2788 1174 1088 0.544 -8339 -16534 3796.7 0.463 
+ 16(OPE) 2788 1174 1088 0.544 -8339 -16534 3796.7 0.463 
+ 17(OPE) 2787 1107 1093 0.543 -7954 -16604 3864.9 0.465 
+ 18(OPE) 2787 1107 1093 0.543 -7954 -16604 3864.9 0.465 
+ 19(OPE) 2812 1139 1159 0.548 -8012 -16718 3853 0.468 
+ 20(OPE) 2812 1139 1159 0.548 -8012 -16718 3853 0 .468 
+ 21(OPE) 2763 1142 1022 0.539 -8282 -16420 3808.6 0.46 
+ 22(OPE) 2763 1142 1022 0.539 -8282 -16420 3808.6 0.46 
+ 23(OPE) 2787 1140 1089 0.543 -8146 -16558 3831.1 0.464 
+ 24(OPE) 2787 1140 1092 0.543 -8149 -16578 3830.6 0.464 
+ 25(SUS) 4287 400 77 0.836 -5430 8375.8 58.7 0.23 4 
+ 26(SUS) 4287 400 77 0.836 -5430 8375.8 58.7 0.23 4 
+ 
+Drain back tank 
+ 
+Reference document; 4521-ESP-AEPC-075-062-0002 
+ 
+AF1WSD10AP001 Pump nozzle 
+ 
+10400 Absolute Method 
+ Limits 6672 5471 6005 382.8 471.2 647.9 
+ 3(HYD) 1 -463 7 0.085 -122.7 77.7 886.5 1.368 
+ 4(OPE) 825 -732 -593 0.134 -130.6 197.7 -321.7 0.496 
+ 5(OPE) 1133 -833 -858 0.17 -206.7 232.9 -196.4 0.54 
+ 6(OPE) 1133 -833 -858 0.17 -206.7 232.9 -196.4 0.54 
+ 7(OPE) 869 -744 -620 0.136 -143.5 188.8 -319.2 0.493 
+ 8(OPE) 779 -720 -566 0.132 -118.3 207.4 -320.1 0.494 
+ 9(OPE) 1071 -748 -687 0.161 -221.1 26.1 -624.5 0.964 
+ 10(OPE) 580 -716 -539 0.131 -100.6 303.6 -18.3 0 .644 
+ 11(OPE) 825 -732 -593 0.134 -130.6 197.7 -321.7 0.496 
+ 12(OPE) 825 -732 -593 0.134 -130.6 197.7 -321.7 0.496 
+ 13(OPE) 825 -732 -593 0.134 -130.6 197.7 -321.7 0.496 
+ 14(OPE) 825 -732 -593 0.134 -130.6 197.7 -321.7 0.496 
+ 15(OPE) 869 -744 -620 0.136 -143.5 188.8 -319.2 0.493 
+ 16(OPE) 869 -744 -620 0.136 -143.5 188.8 -319.2 0.493 
+
+[page 20]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+20 of 25 
+ 
+ 17(OPE) 779 -720 -566 0.132 -118.3 207.4 -320.1 0.494 
+ 18(OPE) 779 -720 -566 0.132 -118.3 207.4 -320.1 0.494 
+ 19(OPE) 1071 -748 -687 0.161 -221.1 26.1 -624.5 0.964 
+ 20(OPE) 1071 -748 -687 0.161 -221.1 26.1 -624.5 0.964 
+ 21(OPE) 580 -716 -539 0.131 -100.6 303.6 -18.3 0.644 
+ 22(OPE) 580 -716 -539 0.131 -100.6 303.6 -18.3 0 .644 
+ 23(OPE) 822 -732 -593 0.134 -130.7 198.5 -318.8 0.492 
+ 24(OPE) 824 -732 -593 0.134 -131.1 198.1 -319 0. 492 
+ 25(SUS) -3 -472 31 0.086 20 75 -581 0.897 
+ 26(SUS) -3 -472 31 0.086 20 75 -581 0.897 
+ 
+Tanks nozzles 
+ 
+Check 4521-INF-AEE-21-63-0004 (A07) Rev00 for tank loads in nozzles 
+ 
+TEX HEX Change_HTF 
+Heaters 
+ 
+Reference document; 4521-PLN-LOI-039-062-0001-GAR R ev.00 GENERAL ARRAGEMENT 
+AND LOADS DRAWING 
+ 
+Nozzle 5-MX-251_T2 
+ 
+23220 Absolute Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) -2699 29 1473 0.526 400.7 8938 -709.6 0. 25 
+ 4(OPE) -2177 1596 -226 0.424 11424 -1351 -7605 0.226 
+ 5(OPE) -1855 2200 -780 0.362 14169 -5062 -10201 0.286 
+ 6(OPE) -1855 2200 -780 0.362 14169 -5062 -10201 0.286 
+ 7(OPE) -1849 1652 327 0.36 11242 2858 -8003 0.2 24 
+ 8(OPE) -2506 1549 -783 0.489 11613 -5598 -7301 0.23 
+ 9(OPE) -2061 3050 -286 0.486 11411 -1650 -19450 0.544 
+ 10(OPE) -2295 315 -205 0.447 11489 -1381 2674 0. 227 
+ 11(OPE) -2177 1596 -226 0.424 11424 -1351 -7605 0.226 
+ 12(OPE) -2177 1596 -226 0.424 11424 -1351 -7605 0.226 
+ 13(OPE) -2177 1596 -226 0.424 11424 -1351 -7605 0.226 
+ 14(OPE) -2177 1596 -226 0.424 11424 -1351 -7605 0.226 
+ 15(OPE) -1849 1652 327 0.36 11242 2858 -8003 0.2 24 
+ 16(OPE) -1849 1652 327 0.36 11242 2858 -8003 0.2 24 
+ 17(OPE) -2506 1549 -783 0.489 11613 -5598 -7301 0.23 
+ 18(OPE) -2506 1549 -783 0.489 11613 -5598 -7301 0.23 
+ 19(OPE) -2061 3050 -286 0.486 11411 -1650 -19450 0.544 
+
+[page 21]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+21 of 25 
+ 
+ 20(OPE) -2061 3050 -286 0.486 11411 -1650 -19450 0.544 
+ 21(OPE) -2295 315 -205 0.447 11489 -1381 2674 0. 227 
+ 22(OPE) -2295 315 -205 0.447 11489 -1381 2674 0. 227 
+ 23(OPE) -2079 2391 -44 0.405 11490 -356.4 -13774 0.386 
+ 24(OPE) -2276 963 -444 0.444 11408 -2650 -2898 0.226 
+ 25(SUS) -3150 -1 1709 0.614 16.7 11583 -1545 0.3 24 
+ 26(SUS) -3150 -1 1709 0.614 16.7 11583 -1545 0.3 24 
+ 
+Nozzle 5-MX-251_T1 
+ 
+23520 Absolute Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) 2821 93 2281 0.55 12843 4018 -9710 0.272 
+ 4(OPE) 2628 724 2143 0.512 11117 6103 1644 0.22 
+ 5(OPE) 2612 736 2134 0.509 11024 6133 1956 0.21 8 
+ 6(OPE) 2612 736 2134 0.509 11024 6133 1956 0.21 8 
+ 7(OPE) 2895 716 1555 0.564 7875 5000 320.8 0.15 6 
+ 8(OPE) 2360 730 2730 0.46 14377 7202 2962 0.284 
+ 9(OPE) 2992 1882 2305 0.583 4307 7004 1067 0.19 6 
+ 10(OPE) 2252 -446 1982 0.439 17906 5172 2290 0.3 54 
+ 11(OPE) 2628 724 2143 0.512 11117 6103 1644 0.22 
+ 12(OPE) 2628 724 2143 0.512 11117 6103 1644 0.22 
+ 13(OPE) 2628 724 2143 0.512 11117 6103 1644 0.22 
+ 14(OPE) 2628 724 2143 0.512 11117 6103 1644 0.22 
+ 15(OPE) 2895 716 1555 0.564 7875 5000 320.8 0.15 6 
+ 16(OPE) 2895 716 1555 0.564 7875 5000 320.8 0.156 
+ 17(OPE) 2360 730 2730 0.46 14377 7202 2962 0.284 
+ 18(OPE) 2360 730 2730 0.46 14377 7202 2962 0.284 
+ 19(OPE) 2992 1882 2305 0.583 4307 7004 1067 0.19 6 
+ 20(OPE) 2992 1882 2305 0.583 4307 7004 1067 0.196 
+ 21(OPE) 2252 -446 1982 0.439 17906 5172 2290 0.3 54 
+ 22(OPE) 2252 -446 1982 0.439 17906 5172 2290 0.3 54 
+ 23(OPE) 3286 1830 1653 0.641 484.4 5770 -123.3 0 .162 
+ 24(OPE) 1961 -392 2634 0.42 21728 6410 3473 0.43 
+ 25(SUS) 3449 146 2601 0.672 15617 4895 -13954 0. 391 
+ 26(SUS) 3449 146 2601 0.672 15617 4895 -13954 0. 391 
+ 
+Nozzle 6-MX-251_T2 
+ 
+27170 
+Absolute 
+Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) -2755 34 -1495 0.537 -471.2 -9277 -725.4 0.26 
+
+[page 22]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+22 of 25 
+ 
+ 4(OPE) -2184 1574 168 0.426 -11180 1211 -7559 0.221 
+ 5(OPE) -1837 2188 752 0.358 -14112 5303 -10283 0.288 
+ 6(OPE) -1837 2188 752 0.358 -14112 5303 -10283 0.288 
+ 7(OPE) -2516 1521 726 0.491 -11332 5591 -7167 0 .224 
+ 8(OPE) -1852 1628 -390 0.361 -11028 -3165 -7962 0.223 
+ 9(OPE) -2061 3051 231 0.486 -11159 1539 -20006 0.56 
+ 10(OPE) -2308 286 147 0.45 -11253 1248 3122 0.22 3 
+ 11(OPE) -2184 1574 168 0.426 -11180 1211 -7559 0 .221 
+ 12(OPE) -2184 1574 168 0.426 -11180 1211 -7559 0 .221 
+ 13(OPE) -2184 1574 168 0.426 -11180 1211 -7559 0 .221 
+ 14(OPE) -2184 1574 168 0.426 -11180 1211 -7559 0 .221 
+ 15(OPE) -2516 1521 726 0.491 -11332 5591 -7167 0 .224 
+ 16(OPE) -2516 1521 726 0.491 -11332 5591 -7167 0.224 
+ 17(OPE) -1852 1628 -390 0.361 -11028 -3165 -7962 0.223 
+ 18(OPE) -1852 1628 -390 0.361 -11028 -3165 -7962 0.223 
+ 19(OPE) -2061 3051 231 0.486 -11159 1539 -20006 0.56 
+ 20(OPE) -2061 3051 231 0.486 -11159 1539 -20006 0.56 
+ 21(OPE) -2308 286 147 0.45 -11253 1248 3122 0.22 3 
+ 22(OPE) -2308 286 147 0.45 -11253 1248 3122 0.22 3 
+ 23(OPE) -2244 2311 545 0.438 -11293 3824 -13420 0.376 
+ 24(OPE) -2123 1007 -173 0.414 -11112 -1086 -3277 0.22 
+ 25(SUS) -3219 2 -1736 0.628 -91.7 -12055 -1581 0 .337 
+ 26(SUS) -3219 2 -1736 0.628 -91.7 -12055 -1581 0 .337 
+ 
+Nozzle 6-MX-251_T1 
+ 
+27330 Absolute Method 
+ Limits 5129 6276 6276 50556 35721 35721 
+ 3(HYD) 2721 86 -2204 0.531 -12172 -3903 -9000 0 .252 
+ 4(OPE) 2586 729 -2133 0.504 -10962 -6268 2089 0.217 
+ 5(OPE) 2557 741 -2118 0.499 -10815 -6276 2530 0 .214 
+ 6(OPE) 2557 741 -2118 0.499 -10815 -6276 2530 0 .214 
+ 7(OPE) 2311 737 -2745 0.451 -14382 -7414 3478 0 .284 
+ 8(OPE) 2862 720 -1520 0.558 -7550 -5119 697.4 0 .149 
+ 9(OPE) 2977 1942 -2308 0.58 -3797 -7229 1476 0. 202 
+ 10(OPE) 2170 -510 -1961 0.423 -18052 -5241 2877 0.357 
+ 11(OPE) 2586 729 -2133 0.504 -10962 -6268 2089 0 .217 
+ 12(OPE) 2586 729 -2133 0.504 -10962 -6268 2089 0.217 
+ 13(OPE) 2586 729 -2133 0.504 -10962 -6268 2089 0 .217 
+ 14(OPE) 2586 729 -2133 0.504 -10962 -6268 2089 0 .217 
+ 15(OPE) 2311 737 -2745 0.451 -14382 -7414 3478 0 .284 
+ 16(OPE) 2311 737 -2745 0.451 -14382 -7414 3478 0.284 
+ 17(OPE) 2862 720 -1520 0.558 -7550 -5119 697.4 0 .149 
+
+[page 23]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+23 of 25 
+ 
+ 18(OPE) 2862 720 -1520 0.558 -7550 -5119 697.4 0.149 
+ 19(OPE) 2977 1942 -2308 0.58 -3797 -7229 1476 0. 202 
+ 20(OPE) 2977 1942 -2308 0.58 -3797 -7229 1476 0. 202 
+ 21(OPE) 2170 -510 -1961 0.423 -18052 -5241 2877 0.357 
+ 22(OPE) 2170 -510 -1961 0.423 -18052 -5241 2877 0.357 
+ 23(OPE) 2695 1826 -2947 0.525 -7685 -8443 3255 0 .236 
+ 24(OPE) 2451 -393 -1322 0.478 -14147 -4026 1111 0.28 
+ 25(SUS) 3539 153 -2669 0.69 -16131 -5038 -14477 0.405 
+ 26(SUS) 3539 153 -2669 0.69 -16131 -5038 -14477 0.405 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 24]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+24 of 25 
+ 
+8. Annexes 
+ 
+Localization Calculation model Annexes 
+Power 
+Block 
+TES HEX Change_Molten 
+salts MODE1 
+4521-INF-AEE-21-63-0004(A01)_Rev00_Input Echo 
+4521 -INF -AEE -21 -63 -0004 (A04)_Rev00_Restraint and Stress 
+Report 
+4521-INF-AEE-21-63-0004 (A07) 
+TES HEX Change_Molten 
+salts MODE2 
+4521-INF-AEE-21-63-0004 (A02)_Rev00_Input Echo 
+4521 -INF -AEE -21 -63 -0004 (A05)_Rev00_Restraint and Stress 
+Report 
+TES HEX Change_HTF 
+4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo 
+4521 -INF -AEE -21 -63 -0004 (A06)_Rev00_Restraint and Stress 
+Report 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 25]
+ ABENGOA 
+ 
+4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report 
+ABEINSA 
+ENGINEERING 
+Revision: 
+00 
+Date: 
+30/01/201 
+Page: 
+25 of 25 
+ 
+9. Conclusions 
+The stresses are within the limits established by the code ANSI/ASME B31.3 - 2014 
+The loads do not exceed the allowable limits.

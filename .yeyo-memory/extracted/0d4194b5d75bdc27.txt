@@ -1,0 +1,73 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-INF-AEE-21-63-0004-GAR-901 | 0 | 2017-01-31 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | Stress report
+By review TCS data box | C:\Users\agmbo\Desktop\Solana\Entregas\31-01\[4521-INF-AEE-21-63-0004-GAR-901_TES HEX Change_stress report.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521-INF-AEE-21-63-0004-GAR-901_TES HEX Change_stress report
+4521-INF-AEE-21-63-0004-GAR | 0 | IFD | 4521-TMT-AEE-AEPC-0042 | 2017-01-31 00:00:00
+Input data | Used
+P&ID: 4521_PLN_AEE_68_71_P271-GAR_Rev00
+P&ID: 4521_PLN_AEE_68_71_P273-GAR_Rev00
+P&ID: 4521_PLN_AEE_68_71_P274-GAR_Rev00
+P&ID: 4521_PLN_AEE_68_71_P278-GAR_Rev01
+P&ID: 4521_PLN_AEE_68_71_P279-GAR_Rev01
+Isometrics: 4521-PLN-AEE-58-65-0001-GAR_rev00_HTF System ISO
+Isometrics: 4521-PLN-AEE-75-65-0001-GAR_rev00_MS System ISO
+Assumptions:
+-
+-
+-
+Holds:
+Plant review
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-INF-AEE-21-63-0004-GAR | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-INF-AEE-21-63-0004-GAR-901 | 0 | 2017-01-31 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | Stress report
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

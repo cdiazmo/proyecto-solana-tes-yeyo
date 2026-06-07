@@ -1,0 +1,69 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_CAL_AEE_58_11_0002-GAR_901 | 0 | 2016-12-16 00:00:00 | TES Circuit Hydraulic Calculation | Abeinsa Engineering
+Submitted Document | _TES Circuit Hydraulic Calculatio
+By review TCS data box | https://abengoa.sharepoint.com/sites/lh-j36/Proyectos/J36/Solana_ TES HEX Change/General/08.Engineering/84 Final doc/M&P/CAL/[4521_CAL_AEE_58_11_0002-GAR_901_Rev00_TES Circuit Hydraulic Calculatio.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521_CAL_AEE_58_11_0002-GAR_901_Rev00_TES Circuit Hydraulic Calculatio
+4521_CAL_AEE_58_11_0002-GAR | 2 | IFD | 4521-TMT-AEE-AEPC-0025 | 2016-12-16 00:00:00
+Input data | Used
+Heat Exchanger's pressure drop: 4521-CAL-LOI-039-062-0002-GAR Rev00 HMB
+Pump performance: As specified in Vendors data sheets (Flowserve for Oil and Lewis pumps for MS)
+Pipe length and fittings: Based on 3D model (Solana 25-11-2016)
+Assumptions:
+As described in the document (2.2 apart. Page 5)
+-
+-
+Holds:
+Final pipe isometric drawings. whenever important changes result, a new revision of this document will be issued.
+-
+-
+Reason for revision | Input data change
+New pipe routing and additional jumper for MS interchangeability among TES systems in the same platform.
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+New pipe routing and additional jumper for MS interchangeability among TES systems in the same platform.
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521_CAL_AEE_58_11_0002-GAR | 2 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_CAL_AEE_58_11_0002-GAR_901 | 0 | 2016-12-16 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | _TES Circuit Hydraulic Calculatio
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

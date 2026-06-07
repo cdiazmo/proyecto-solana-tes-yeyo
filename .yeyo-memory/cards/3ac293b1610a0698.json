@@ -1,0 +1,29 @@
+{
+  "id": "3ac293b1610a0698",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/1950201-MDR-001.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 78966656,
+  "size_human": "75 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1950201-MDR-001",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4306,
+  "token_estimate": 1076,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/3ac293b1610a0698.json",
+  "extracted_path": ".yeyo-memory/extracted/3ac293b1610a0698.txt",
+  "metadata": {
+    "pages": 957,
+    "pdf_metadata": {
+      "CreationDate": "D:20210316155832+01'00'",
+      "Creator": "KM_368",
+      "ModDate": "D:20210513151111+02'00'",
+      "Producer": "KONICA MINOLTA bizhub 368"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:26.409150+00:00"
+}

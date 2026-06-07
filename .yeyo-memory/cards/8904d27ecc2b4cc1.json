@@ -1,0 +1,98 @@
+{
+  "id": "8904d27ecc2b4cc1",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0003_R4 temperature.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 1274609,
+  "size_human": "1.2 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0003 R4 temperature",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 52954,
+  "token_estimate": 13238,
+  "chunks": 34,
+  "card_path": ".yeyo-memory/cards/8904d27ecc2b4cc1.json",
+  "extracted_path": ".yeyo-memory/extracted/8904d27ecc2b4cc1.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 25
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 70,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "Index ",
+        "rows_seen": 72,
+        "non_empty_rows": 23
+      },
+      {
+        "name": "Well +RTD+Transm. Spec.",
+        "rows_seen": 81,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "Well + RTD",
+        "rows_seen": 82,
+        "non_empty_rows": 51
+      },
+      {
+        "name": "Sketch 1",
+        "rows_seen": 75,
+        "non_empty_rows": 22
+      },
+      {
+        "name": "List I",
+        "rows_seen": 73,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "List 2",
+        "rows_seen": 74,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "List 3",
+        "rows_seen": 76,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "List 4",
+        "rows_seen": 75,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "List 5",
+        "rows_seen": 81,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "List 6",
+        "rows_seen": 78,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "List 7",
+        "rows_seen": 69,
+        "non_empty_rows": 48
+      },
+      {
+        "name": "List 8",
+        "rows_seen": 79,
+        "non_empty_rows": 48
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:13.167102+00:00"
+}

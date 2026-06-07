@@ -1,0 +1,119 @@
+{
+  "id": "5286b9cf0d31853c",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-21-64-0005_R3.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 167828,
+  "size_human": "164 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-21-64-0005 R3",
+  "doc_code": "4521-ESP-AGE-21-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 64400,
+  "token_estimate": 16100,
+  "chunks": 41,
+  "card_path": ".yeyo-memory/cards/5286b9cf0d31853c.json",
+  "extracted_path": ".yeyo-memory/extracted/5286b9cf0d31853c.txt",
+  "metadata": {
+    "pages": 20,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120629172427-05'00'",
+      "ModDate": "D:20120629172427-05'00'",
+      "Title": "4521-ESP-AGE-21-64-0005_REV2 Control globe valves Specifications",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.912252+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::128",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 128,
+        "doc_code": "4521-ESP-AGE-21-64-0001",
+        "title": "Automatic Valves Technical Specification Butterfly Control Valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::129",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 129,
+        "doc_code": "4521-ESP-AGE-21-64-0002",
+        "title": "Automatic Valves Technical Specification Rotary Control Valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::130",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 130,
+        "doc_code": "4521-ESP-AGE-21-64-0005",
+        "title": "Automatic Valves Technical Specification Globe Control Valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::128",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 128,
+        "doc_code": "4521-ESP-AGE-21-64-0001",
+        "title": "Automatic Valves Technical Specification Butterfly Control Valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::129",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 129,
+        "doc_code": "4521-ESP-AGE-21-64-0002",
+        "title": "Automatic Valves Technical Specification Rotary Control Valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::130",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 130,
+        "doc_code": "4521-ESP-AGE-21-64-0005",
+        "title": "Automatic Valves Technical Specification Globe Control Valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:55.912255+00:00"
+}

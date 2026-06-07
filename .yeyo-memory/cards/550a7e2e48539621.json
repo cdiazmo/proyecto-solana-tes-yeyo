@@ -1,0 +1,43 @@
+{
+  "id": "550a7e2e48539621",
+  "path": "01 GD AE/I&C/HDD/4521-ESP-DOT-00-64-0001_Solana PCV_Valves_HDD.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 581265,
+  "size_human": "568 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-DOT-00-64-0001 Solana PCV Valves HDD",
+  "doc_code": "4521-ESP-DOT-00-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5807,
+  "token_estimate": 1451,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/550a7e2e48539621.json",
+  "extracted_path": ".yeyo-memory/extracted/550a7e2e48539621.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "Index",
+        "rows_seen": 51,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Sheet.1",
+        "rows_seen": 1004,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "Sheet.2",
+        "rows_seen": 1004,
+        "non_empty_rows": 57
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:59.676505+00:00"
+}

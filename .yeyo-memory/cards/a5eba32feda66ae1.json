@@ -1,0 +1,38 @@
+{
+  "id": "a5eba32feda66ae1",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/MS/253-MS-01F-CS31-20_rev02_Sht_1-Model.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 602145,
+  "size_human": "588 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "253-MS-01F-CS31-20 rev02 Sht 1-Model",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/a5eba32feda66ae1.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180717131121-05'00'",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20180717131148-05'00'",
+      "Producer": "Acrobat Distiller 18.0 (Windows)",
+      "Title": "Model"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Isometrico de tuberia MS",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.078554+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:00.106801+00:00"
+}

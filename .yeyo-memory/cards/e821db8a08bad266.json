@@ -1,0 +1,35 @@
+{
+  "id": "e821db8a08bad266",
+  "path": "01 GD AE/Compras/03 Deposito drenaje/02 Propuestas/Tecnologia tuberias/Q-209259-Piping Technology P-quote.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 161148,
+  "size_human": "157 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "Q-209259-Piping Technology P-quote",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2494,
+  "token_estimate": 623,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/e821db8a08bad266.json",
+  "extracted_path": ".yeyo-memory/extracted/e821db8a08bad266.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20161104104813-07'00'",
+      "Creator": "Crystal Reports",
+      "ModDate": "D:20161104104813-07'00'",
+      "Producer": "Powered By Crystal"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Tanque / drain back tank",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:04.002481+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:04.002483+00:00"
+}

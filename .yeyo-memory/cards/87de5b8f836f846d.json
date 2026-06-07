@@ -1,0 +1,36 @@
+{
+  "id": "87de5b8f836f846d",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/10015-5-CrossSectionalDrawing-503236-00.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 160143,
+  "size_human": "156 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "10015-5-CrossSectionalDrawing-503236-00",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/87de5b8f836f846d.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20151005145350Z",
+      "Creator": "AutoCAD Mechanical 2014 - Deutsch (German) 2014 (19.1s (LMS Tech))",
+      "ModDate": "D:20180504154407+02'00'",
+      "Producer": "pdfplot11.hdi 11.1.108.0",
+      "Title": "Layout1"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.484068+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:58.505560+00:00"
+}

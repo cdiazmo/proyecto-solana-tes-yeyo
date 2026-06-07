@@ -1,0 +1,73 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PLN-AEE-39-70-0002-GAR_901 | 0 | 2017-03-27 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | 4521-PLN-AEE-39-70-0002-GAR Rev.00 Wiring diagrams
+By review TCS data box | C:\Users\agmbo\Desktop\Solana\Entregas\27-03 I&C\[4521-PLN-AEE-39-70-0002-GAR_901 Rev.00 Wiring diagrams.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521-PLN-AEE-39-70-0002-GAR_901 Rev.00 Wiring diagrams
+4521-PLN-AEE-39-70-0002-GAR Rev.00 | 0 | IFD | 4521-TMT-AEE-AEPC-0065 | 2017-03-27 00:00:00
+Input data | Used
+4521-PLN-AEE-68-71-P271-GAR_Rev01 TES Unit 5 HTF-to-salt HEX
+4521-PLN-AEE-68-71-P274-GAR_Rev01 TES Unit 6 HTF-to-salt HEX
+4521-PLN-AEE-68-71-P278-GAR_Rev02 TES HEX Train
+4521-PLN-AEE-68-71-P279-GAR_Rev02 TES HEX MS drainage
+4521-LIS-AEE-000-070-0001-GAR Rev.01 I&C Signal List
+4521-LIS-AEE-39-45-0001-GAR Rev.00 Junction Boxes List
+4521-LIS-AEE-39-70-0016-GAR Rev.00 Control cable list
+4521-PLN-AEE-27-31-0002-GAR Rev.00 New trays layout
+Assumptions:
+Connection to DCS at electrical building 32
+-
+Holds:
+Motor start and stop orders connection, reverse detection, other motor signals
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AEE-39-70-0002-GAR Rev.00 | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PLN-AEE-39-70-0002-GAR_901 | 0 | 2017-03-27 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | 4521-PLN-AEE-39-70-0002-GAR Rev.00 Wiring diagrams
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

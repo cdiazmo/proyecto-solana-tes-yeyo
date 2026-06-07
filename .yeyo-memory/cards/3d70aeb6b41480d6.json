@@ -1,0 +1,43 @@
+{
+  "id": "3d70aeb6b41480d6",
+  "path": "01 GD AE/Tuberia/PLN/4521-PLN-AEE-75-63-0001-GAR-901_General typical support standard.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 41728,
+  "size_human": "41 KB",
+  "mtime_iso": "2026-06-05T06:22:00.000Z",
+  "title": "4521-PLN-AEE-75-63-0001-GAR-901 General typical support standard",
+  "doc_code": "4521-PLN-AEE-75-63-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2260,
+  "token_estimate": 565,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/3d70aeb6b41480d6.json",
+  "extracted_path": ".yeyo-memory/extracted/3d70aeb6b41480d6.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 51,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:32.054196+00:00"
+}

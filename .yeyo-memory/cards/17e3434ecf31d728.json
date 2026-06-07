@@ -1,0 +1,36 @@
+{
+  "id": "17e3434ecf31d728",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-00-70-N007.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 122954,
+  "size_human": "120 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-AGE-00-70-N007",
+  "doc_code": "4521-PLN-AGE-00-70-N007",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 8985,
+  "token_estimate": 2246,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/17e3434ecf31d728.json",
+  "extracted_path": ".yeyo-memory/extracted/17e3434ecf31d728.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD LT 2013 - English 2013 (19.0s (LMS Tech))",
+      "Title": "Layout1",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "CreationDate": "D:20121016162619",
+      "ModDate": "D:20121016162619"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.023325+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:53.023328+00:00"
+}

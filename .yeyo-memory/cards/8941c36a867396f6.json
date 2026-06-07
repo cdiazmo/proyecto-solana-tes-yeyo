@@ -1,0 +1,31 @@
+{
+  "id": "8941c36a867396f6",
+  "path": "04 GD Fabricacon LOI TES 3/Procedimientos calidad/1950201-PPM-001.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 274954,
+  "size_human": "269 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PPM-001",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 32316,
+  "token_estimate": 8079,
+  "chunks": 21,
+  "card_path": ".yeyo-memory/cards/8941c36a867396f6.json",
+  "extracted_path": ".yeyo-memory/extracted/8941c36a867396f6.txt",
+  "metadata": {
+    "pages": 26,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20191213113216+01'00'",
+      "Creator": "Adobe Acrobat Pro 2017 17.11.30156",
+      "ModDate": "D:20191213113216+01'00'",
+      "Producer": "Adobe Acrobat Pro 2017 17.11.30156",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:33.303700+00:00"
+}

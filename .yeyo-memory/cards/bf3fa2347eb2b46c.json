@@ -1,0 +1,62 @@
+{
+  "id": "bf3fa2347eb2b46c",
+  "path": "03 GD Fabricacion LOI TES 6/Dibujos/4521-PLN-LOI-039-062-0013-GAR_Rev01 TRANSPORT DRAWING.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 1904356,
+  "size_human": "1.8 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0013-GAR Rev01 TRANSPORT DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0013",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/bf3fa2347eb2b46c.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20180322121919+01'00'",
+      "Producer": "doPDF Ver 7.3 Build 382 (Windows 7 Business Edition (SP 1) - Version: 6.1.7601 (x64))",
+      "ModDate": "D:20180322153804+01'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.703082+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::300",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 300,
+        "doc_code": "4521-PLN-LOI-039-062-0013",
+        "title": "TRANSPORT DRAWING",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::300",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 300,
+        "doc_code": "4521-PLN-LOI-039-062-0013",
+        "title": "TRANSPORT DRAWING",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:01.724860+00:00"
+}

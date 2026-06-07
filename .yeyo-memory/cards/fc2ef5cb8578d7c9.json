@@ -1,0 +1,113 @@
+{
+  "id": "fc2ef5cb8578d7c9",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-64-V350.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 144731,
+  "size_human": "141 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-ESP-ANC-68-64-V350",
+  "doc_code": "4521-ESP-ANC-68-64-V350",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 41860,
+  "token_estimate": 10465,
+  "chunks": 27,
+  "card_path": ".yeyo-memory/cards/fc2ef5cb8578d7c9.json",
+  "extracted_path": ".yeyo-memory/extracted/fc2ef5cb8578d7c9.txt",
+  "metadata": {
+    "pages": 15,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110816094359-05'00'",
+      "ModDate": "D:20110816094359-05'00'",
+      "Title": "4521-ESP-ANC-68-64-V350",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "mdreim",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::86",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 86,
+        "doc_code": "4521-ESP-ANC-68-64-V350",
+        "title": "",
+        "revision": "4521-ESP-ANC-68-64-V350",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::86",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 86,
+        "doc_code": "4521-ESP-ANC-68-64-V350",
+        "title": "",
+        "revision": "4521-ESP-ANC-68-64-V350",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::95",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 95,
+        "doc_code": "4521-ESP-ANC-68-64-V350-Block Valves - installation standards",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::145",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 145,
+        "doc_code": "4521-ESP-ANC-68-64-V350-Block Valves - installation standards",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::138",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 138,
+        "doc_code": "4521-ESP-ANC-68-64-V350-Block Valves - installation standards",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::88",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 88,
+        "doc_code": "4521-ESP-ANC-68-64-V350",
+        "title": "",
+        "revision": "4521-ESP-ANC-68-64-V350",
+        "status": "??",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:24:05.972293+00:00"
+}

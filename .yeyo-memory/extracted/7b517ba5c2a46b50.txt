@@ -1,0 +1,1388 @@
+[page 1]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 0)0
+HEX replacementLogic diagramsCover120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+LOGIC DIAGRAMSHEX REPLACEMENT
+
+[page 2]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 1)0
+HEX replacementLogic diagramsIndex120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+ReviewDescriptionSheetDocumentReviewDescriptionSheetDocument 4521-PLN-AEE-39-75-0001-GARCover 00
+17
+0102030405060708091011
+IndexSimbology00
+16181920
+00000000000000000000000000000000
+Pressure transmittersPressure transmittersPressure transmittersTemperature transmittersTemperature transmittersManual valves limit switchesSpareLevel instruments
+On-off valve XV-X25520
+On-off valve XV-X25515
+On-off valve XV-X25521On-off valve XV-X25522On-off valve XV-X25524On-off valve XV-X25523
+12131415
+2122232425262728
+On-off valve XV-X25516On-off valve XV-X25517On-off valve XV-X25518On-off valve XV-X25519
+On-off valve XV-X25525On-off valve XV-325713On-off valve XV-325714On-off valve XV-325715Control valve LV-525701Control valve LV-625701SpareDrain back tank pump 3-MP-258
+000000000000000000000000
+4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR4521-PLN-AEE-39-75-0001-GAR
+
+[page 3]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 2)0
+HEX replacementLogic diagramsSimbology120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+6
+&
+DCS signal from/to field
+DCS Signal from/to HMI screen
+DCS screen alarm
+Logical NOT
+Logical AND
+Add
+REAL signal data type
+BOOL signal data type
+ASignal link
+Dividey
+Multiplier
+Non-linear Function
+X
+f(x)
+Contact
+No-contact
+=1Logical XOR
+Logical OROR
+RSRS Flip-Flop Basic memory
+RS Flip-Flop Set dominant
+RS Flip-Flop Reset dominant
+RS
+RS
+Subtract¾
+HIGHLOW
+Signal monitoring (high)
+Signal monitoring (low)
+RautAutAutAutoPermisivesInterlockOn/off timerParameters
+AutActionsOn/offStatus MotorHMI buttonFail-strFail-stpFeedbackAutoOnOffMotL/RFailE6 RonRoffManualOnOffLockUnlock TAG
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto TAG
+F.100%MovePermisivesParametersAutoActionsD.pos
+PneumaticControlValveHMI buttonFeedbackPositionF.0%DiscrepancyAutManualStatusR.autPos
+DiscAutoOpen100%Close100%
+S.P.TAG
+Fwd.en
+ParametersActionsMV
+ControllerR.autF.en
+PID action
+R.spFv AutFwdP.V.S.P.ManualAutoDSPDSCAutoStatusHMI buttonsDiscrepancyPIDPermisives
+Motor
+On/off pneumatic valve
+Control pneumatic valve
+PID controller
+Control block macros
+
+[page 4]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 3)0
+HEX replacementLogic diagramsPressure transmitters120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONDCSTES HEX A and B inlet/outetMolten salt pressure indication-PI-X25501 FIELDTES HEX A and B inlet/outetMolten salt pressurePIT-X25501
+DCSTES HEX B and C inlet/outetMolten salt pressure indication-PI-X25502 FIELDTES HEX B and C inlet/outetMolten salt pressurePIT-X25502
+DCSTES HEX C and D inlet/outetMolten salt pressure indication-PI-X25503 FIELDTES HEX C and D inlet/outetMolten salt pressurePIT-X25503
+DCSTES HEX D and E inlet/outetMolten salt pressure indication-PI-X25504 FIELDTES HEX D and E inlet/outetMolten salt pressurePIT-X25504
+DCSTES HEX E and F inlet/outetMolten salt pressure indication-PI-X25505 FIELDTES HEX E and F inlet/outetMolten salt pressurePIT-X25505
+Note 1: X value identified as 5 and 6. I.E.: PIT-X25505 --> PIT-525505 and PIT-625505
+
+[page 5]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 4)0
+HEX replacementLogic diagramsPressure transmitters120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONDCSTES HEX A and B inlet/outetHTF pressure indication-PI-X25506 FIELDTES HEX A and B inlet/outetHTF pressurePIT-X25506
+DCSTES HEX B and C inlet/outetHTF pressure indication-PI-X25507 FIELDTES HEX B and C inlet/outetHTF pressurePIT-X25507
+DCSTES HEX C and D inlet/outetHTF pressure indication-PI-X25508 FIELDTES HEX C and D inlet/outetHTF pressurePIT-X25508
+DCSTES HEX D and E inlet/outetHTF pressure indication-PI-X25509 FIELDTES HEX D and E inlet/outetHTF pressurePIT-X25509
+DCSTES HEX E and F inlet/outetHTF pressure indication-PI-X25510 FIELDTES HEX E and F inlet/outetHTF pressurePIT-X25510
+Note 1: X value identified as 5 and 6. I.E.: PIT-X25505 --> PIT-525505 and PIT-625505
+
+[page 6]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 5)0
+HEX replacementLogic diagramsPressure transmitters120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONDCSDrain back tankNitrogen pressure-PI-325701 FIELDDrain back tankNitrogen pressurePIT-325701
+DCS MS from drain back tank to cold salt tankMolten salt pressure-PI-325702 FIELDMS from drain back tank to cold salt tankMolten salt pressurePIT-325702HIGH
+LOW
+11/28MS from drain back tank to cold salt tankHigh high pressure-PAHH-325702
+14/28MS from drain back tank to cold salt tankLow pressure-PAL-325702
+HIGH03/22Drain back tankHigh pressure-PAH-325701HIGH05/22Close order
+
+[page 7]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 6)0
+HEX replacementLogic diagramsTemperature transmitters120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONDCSTES HEX A and B inlet/outetMolten salt temperature indication-TI-X25501 FIELDTES HEX A and B inlet/outetMolten salt temperatureTIT-X25501
+DCSTES HEX B and C inlet/outetMolten salt temperature indication-TI-X25502 FIELDTES HEX B and C inlet/outetMolten salt temperatureTIT-X25502
+DCSTES HEX C and D inlet/outetMolten salt temperature indication-TI-X25503 FIELDTES HEX C and D inlet/outletMolten salt temperatureTIT-X25503
+DCSTES HEX D and E inlet/outetMolten salt temperature indication-TI-X25504 FIELDTES HEX D and E inlet/outetMolten salt temperatureTIT-X25504
+DCSTES HEX E and F inlet/outetMolten salt temperature indication-TI-X25505 FIELDTES HEX E and F inlet/outetMolten salt temperatureTIT-X25505
+Note 1: X value identified as 5 and 6. I.E.: PIT-X25505 --> PIT-525505 and PIT-625505
+
+[page 8]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 7)0
+HEX replacementLogic diagramsTemperature transmitters120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONDCSTES HEX A and B inlet/outetHTF temperature indication-TI-X25506 FIELDTES HEX A and B inlet/outetHTF temperatureTIT-X25506
+DCSTES HEX B and C inlet/outetHTF temperature indication-TI-X25507 FIELDTES HEX B and C inlet/outetHTF temperatureTIT-X25507
+DCSTES HEX C and D inlet/outetHTF temperature indication-TI-X25508 FIELDTES HEX C and D inlet/outetHTF temperatureTIT-X25508
+DCSTES HEX D and E inlet/outetHTF temperature indication-TI-X25509 FIELDTES HEX D and E inlet/outetHTF temperatureTIT-X25509
+DCSTES HEX E and F inlet/outetHTF temperature indication-TI-X25510 FIELDTES HEX E and F inlet/outetHTF temperatureTIT-X25510
+Note 1: X value identified as 5 and 6. I.E.: PIT-X25505 --> PIT-525505 and PIT-625505
+
+[page 9]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 8)0
+HEX replacementLogic diagramsManual valves limit switches120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONDCSOpen limit switchMS drainage TES HEX-ZIO-X25526 FIELDOpen limit switchMS drainage TES HEXZSO-X25526
+DCSClose limit switchMS drainage TES HEX-ZIC-X25526 FIELDClose limit switchMS drainage TES HEXZSC-X25526
+DCSOpen limit switchMS drainage TES HEX-ZIO-X25527 FIELDOpen limit switchMS drainage TES HEXZSO-X25527
+DCSClose limit switchMS drainage TES HEX-ZIC-X25527 FIELDClose limit switchMS drainage TES HEXZSC-X25527
+DCSOpen limit switchMS drainage TES HEX-ZIO-X25528 FIELDOpen limit switchMS drainage TES HEXZSO-X25528
+DCSClose limit switchMS drainage TES HEX-ZIC-X25528 FIELDClose limit switchMS drainage TES HEXZSC-X25528
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25528 --> ZSC-525528 and ZSC-625528
+
+[page 10]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 9)0
+HEX replacementLogic diagrams-120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONSPARE
+
+[page 11]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 10)0
+HEX replacementLogic diagramsLevel instruments120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONDCSDrain back tankLevel at MS drain back tank-LI-325701 FIELDDrain back tankLevel at MS drain back tankLIT-325701Drain back tankLevel at MS drain back tank-LI-325701Drain back tankLevel at MS drain back tank-LI-32570104/2504/26
+HIGH
+LOW
+HIGH
+LOW
+Drain back tankHigh high level at MS drain back tank-LAHH-32570112/28
+Drain back tankHigh level at MS drain back tank-LAH-32570110/28
+Drain back tankLow level at MS drain back tank-LAL-32570109/28
+Drain back tankLow low level at MS drain back tank-LALL-32570113/28
+
+[page 12]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 11)0
+HEX replacementLogic diagramsOn-off valve XV-X25515120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25515
+RS
+DCSHEX vent to HTF overflow systemValve orderXV-X25515
+FIELDHEX vent to HTF overflow systemValve openZSO-X25515
+FIELDHEX vent to HTF overflow systemValve closedZSC-X25515
+FIELDHEX vent to HTF overflow systemValve order - Open-XV-X25515
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 13]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:55/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 12)0
+HEX replacementLogic diagramsOn-off valve XV-X25516120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25516
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25516
+FIELDHEX vent to MS drain back tankValve openZSO-X25516
+FIELDHEX vent to MS drain back tankValve closedZSC-X25516
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25516
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 14]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 13)0
+HEX replacementLogic diagramsOn-off valve XV-X25517120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25517
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25517
+FIELDHEX vent to MS drain back tankValve openZSO-X25517
+FIELDHEX vent to MS drain back tankValve closedZSC-X25517
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25517
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 15]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 14)0
+HEX replacementLogic diagramsOn-off valve XV-X25518120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25518
+RS
+DCSHEX vent to HTF overflow systemValve orderXV-X25518
+FIELDHEX vent to HTF overflow systemValve openZSO-X25518
+FIELDHEX vent to HTF overflow systemValve closedZSC-X25518
+FIELDHEX vent to HTF overflow systemValve order - Open-XV-X25518
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 16]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 15)0
+HEX replacementLogic diagramsOn-off valve XV-X25519120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25519
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25519
+FIELDHEX vent to MS drain back tankValve openZSO-X25519
+FIELDHEX vent to MS drain back tankValve closedZSC-X25519
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25519
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 17]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 16)0
+HEX replacementLogic diagramsOn-off valve XV-X25520120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25520
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25520
+FIELDHEX vent to MS drain back tankValve openZSO-X25520
+FIELDHEX vent to MS drain back tankValve closedZSC-X25520
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25520
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 18]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 17)0
+HEX replacementLogic diagramsOn-off valve XV-X25522120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25522
+RS
+DCSHEX vent to HTF overflow systemValve orderXV-X25522
+FIELDHEX vent to HTF overflow systemValve openZSO-X25522
+FIELDHEX vent to HTF overflow systemValve closedZSC-X25522
+FIELDHEX vent to HTF overflow systemValve order - Open-XV-X25522
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 19]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 18)0
+HEX replacementLogic diagramsOn-off valve XV-X25521120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25521
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25521
+FIELDHEX vent to MS drain back tankValve openZSO-X25521
+FIELDHEX vent to MS drain back tankValve closedZSC-X25521
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25521
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 20]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 20)0
+HEX replacementLogic diagramsOn-off valve XV-X25523120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25523
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25523
+FIELDHEX vent to MS drain back tankValve openZSO-X25523
+FIELDHEX vent to MS drain back tankValve closedZSC-X25523
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25523
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 21]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 20)0
+HEX replacementLogic diagramsOn-off valve XV-X25524120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25524
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25524
+FIELDHEX vent to MS drain back tankValve openZSO-X25524
+FIELDHEX vent to MS drain back tankValve closedZSC-X25524
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25524
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 22]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 21)0
+HEX replacementLogic diagramsOn-off valve XV-X25525120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-X25525
+RS
+DCSHEX vent to MS drain back tankValve orderXV-X25525
+FIELDHEX vent to MS drain back tankValve openZSO-X25525
+FIELDHEX vent to MS drain back tankValve closedZSC-X25525
+FIELDHEX vent to MS drain back tankValve order - Open-XV-X25525
+Note 1: X value identified as 5 and 6. I.E.: ZSC-X25515 --> ZSC-525515 and ZSC-625515
+
+[page 23]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 22)0
+HEX replacementLogic diagramsOn-off valve XV-325713120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-325713
+RS
+FIELDMS drainage from drain back tankValve openZSO-325713
+FIELDMS drainage from drain back tankValve closedZSC-325713
+FIELDMS drainage from drain back tankValve order - Open-XV-325713
+36/05Drain back tankHigh pressurePAH-32570138/05Close order
+
+[page 24]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 23)0
+HEX replacementLogic diagramsOn-off valve XV-325714120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-325714
+RS
+DCSMS from drain back tank to cold salt tanksValve orderXV-325714
+FIELDMS from drain back tank to cold salt tanksValve openZSO-325714
+FIELDMS from drain back tank to cold salt tanksValve closedZSC-325714
+FIELD MS from drain back tank to cold salt tanksValve order - Open-XV-325714
+
+[page 25]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 24)0
+HEX replacementLogic diagramsOn-off valve XV-325715120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+AutOpenAutoPermisivesRautOpen timerParametersActionsOpenStatus On/offPneumaticvalveHMI buttonFail-open
+RopRclOpenOpenClose
+AutClose timeCloseAutManualCloseE6FeedbackInterlockCloseFail-closeAuto XV-325715
+RS
+DCSMS from drain back tank to cold salt tanksValve orderXV-325715
+FIELDMS from drain back tank to cold salt tanksValve openZSO-325715
+FIELDMS from drain back tank to cold salt tanksValve closedZSC-325715
+FIELD MS from drain back tank to cold salt tanksValve order - Open-XV-325715
+
+[page 26]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANAABENER TEYMA DRAWING NUMBERPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 25)0
+HEX replacementLogic diagramsControl valve LV-525701120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+F.100%MovePermisivesParametersAutoActionsD.pos
+PneumaticControlValveHMI buttonFeedbackPositionF.0%DiscrepancyAutManualStatusR.autPos
+DiscAutoOpen100%Close100%
+S.P.LV-525701
+Fwd.en
+ParametersActionsMV
+ControllerR.autF.en
+PID action
+R.spFv AutFwdP.V.S.P.ManualAutoDSPDSCAutoStatusHMI buttonsDiscrepancyPIDPermisives
+33/10Drain back tankLevel at MS drain back tankLI-325701
+FieldPosition control valveLevel control at MS drain back tankLVI-525701
+FIELDHEX vent to MS drain back tankValve orderLV-525701
+Drain back tankLevel at MS drain back tank setpointDCS
+FieldSelector HEX train 5-
+
+[page 27]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANAABENER TEYMA DRAWING NUMBERPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 26)0
+HEX replacementLogic diagramsControl valve LV-625701120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+F.100%MovePermisivesParametersAutoActionsD.pos
+PneumaticControlValveHMI buttonFeedbackPositionF.0%DiscrepancyAutManualStatusR.autPos
+DiscAutoOpen100%Close100%
+S.P.LV-625701
+Fwd.en
+ParametersActionsMV
+ControllerR.autF.en
+PID action
+R.spFv AutFwdP.V.S.P.ManualAutoDSPDSCAutoStatusHMI buttonsDiscrepancyPIDPermisives
+35/10Drain back tankLevel at MS drain back tankLI-325701
+FieldPosition control valveLevel control at MS drain back tankLVI-625701
+FIELDHEX vent to MS drain back tankValve orderLV-625701
+Drain back tankLevel at MS drain back tank setpointDCS
+FieldSelector HEX train 6-
+
+[page 28]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 27)0
+HEX replacementLogic diagrams-120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATIONSPARE
+
+[page 29]
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\LOGIC DIAGRAMS\4521-PLN-AEE-39-75-0001-GAR HEX REPLACEMENT LOGIC DIAGRAMS.DWGPlot Date/Time/User: 11-abr-17/3:56/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS004/11/17FOR BID
+MMA-JMRL- DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-75-0001-GAR (Sheet 28)0
+HEX replacementLogic diagramsDrain back tank pump 3-MP-258120006 04/11/17FOR BIDMMA04/11/17JMRL04/11/17MMA04/11/17JMRL04/11/17
+SOLANAGILA BEND, ARIZONA
+-
+DescriptionTo row/sheet 1KKS-TAG No.KKS-TAG No. From row/sheetDescription23456789101112131415161718192021222324252627282930
+313233343536373839404142434445464748495051525354555657585960
+No.No. CONTROL CONFIGURATION
+RautAutAutAutoPermisivesInterlockOn/off timerParameters
+AutActionsOn/offStatusMotorHMI buttonFail-strFail-stpFeedbackAutoOnOffMotL/RFailE6 RonRoffManualOnOffLockUnlock 3-MP-258
+DCSDrain back tank pumpPump start order3-MP-258DCSDrain back tank pumpPump stop order3-MP-258
+FIELDDrain back tank pumpElectrical motor fail3-MP-258
+FIELDDrain back tank pumpStart/stop order-3-MP-258
+44/10Drain back tankLow level at MS drain back tankLAL-32570141/10Drain back tankHigh level at MS drain back tankLAH-325701&
+38/10Drain back tankHigh high level at MS drain back tankLAHH-32570147/10Drain back tankLow low level at MS drain back tankLALL-32570154/5MS from drain back tank to cold salt tankLow pressurePAL-325702FIELDDrain back tank pumpPump running3-MP-258f(x)
+Note 1: f(x) shall be equal to 1 (active), 30 seconds after input signal (x) is equal to 1(active).
+OR&
+48/5MS from drain back tank to cold salt tankHigh high pressurePAH-325702
+HMS tank pump runningCMS tank pump runningDCSDCS
+HV-025164 HTF by pass open (>90%)HV-025154 CloseDCSDCS

@@ -1,0 +1,43 @@
+{
+  "id": "fa6bf0050eeb2d88",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-75-52-0003-GAR-901_Rev00_Drain_back_tank_support.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 36305,
+  "size_human": "35 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AEE-75-52-0003-GAR-901 Rev00 Drain back tank support",
+  "doc_code": "4521-PLN-AEE-75-52-0003",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2135,
+  "token_estimate": 533,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/fa6bf0050eeb2d88.json",
+  "extracted_path": ".yeyo-memory/extracted/fa6bf0050eeb2d88.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 41
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:07.905627+00:00"
+}

@@ -1,0 +1,95 @@
+[page 1]
+Branch 1Flow: 6923 gpm
+Vel: 5.525 ft/s
+Tramo 427Flow: 600.2 gpm
+Vel: 57.39 ft/s
+Ring Inlet Line 24''Flow: 6923 gpm
+Vel: 5.525 ft/s
+251-MS-01A-CS31-20"-2Flow: 6923 gpm
+Vel: 7.992 ft/s
+251-MS-01A-CS31-20"-3Flow: 6923 gpm
+Vel: 7.992 ft/s
+252-MS-03A-CS31-24"-1Flow: 6923 gpm
+Vel: 5.525 ft/s
+252-MS-04A-CS31-24"-1Flow: 7143 gpm
+Vel: 5.701 ft/s
+252-MS-04A-CS31-24"-2Flow: 7143 gpm
+Vel: 5.701 ft/s
+253-MS-03A-CS31-20"16Flow: 7143 gpm
+Vel: 8.245 ft/s
+253-MS-03A-CS31-20"15Flow: 7143 gpm
+Vel: 8.245 ft/s
+253-MS-03A-CS31-20"13Flow: 7143 gpm
+Vel: 8.245 ft/s
+Pump Discharge 18''Flow: 7143 gpm
+Vel: 11.22 ft/s
+252-MS-03A-CS31-24"3Flow: 6923 gpm
+Vel: 5.525 ft/s
+El: 46.59 ftP: -19.18 psi aFIT 125105dP: 0 psi
+1-MX-251dP: 60.59 psi
+Pin: 109.8 psi a
+Pout: 72.87 psi a
+El: 9.843 ftP: 132.9 psi a
+FIT.2dP: 0 psiFV 1-252-05Flow: 7143 gpm
+dP: 7.698 psi
+Position: 100 %
+El: 46.59 ftP: 36.97 psi a
+El: 5.577 ftP: 71.91 psi a
+El: 45.93 ftP: 104.7 psi a
+El: 5.577 ftP: 73.66 psi aEl: 40.35 ftP: 106.6 psi a El: 1.64 ftP: 17.37 psi a El: 1.64 ftP: 17.37 psi a
+Cold Salt Tank 1-MT-251Set P: 14.5 psi a
+Level: 3.412 ft
+FV 1-251-21Flow: 6923 gpm
+dP: 55.33 psi
+Position: 79.79 %
+El: 32.81 ftP: -8.255 psi a
+El: 45.93 ftP: 113.6 psi a
+El: 32.81 ftP: 124.5 psi a
+Hot salt tankSet P: 14.5 psi a
+Level: 32.81 ft
+1-MP-252TH: 137.2 ft
+NPSHa: 50.9 ft
+Psuct: 40.76 psi a
+Pdisch: 150.6 psi a
+Speed: 1040 rpm
+Eff: 80.57 %
+Discharge @ 1040rpm.pipe
+bar g
+Lineup:
+Power:
+Discharge-nivel min
+psi a
+Program Version:
+Maximum Iterations:
+File Name:
+Velocity:
+Drawn by:
+Density:
+Flow rate:
+cP
+Company:
+Calculation Method:
+Elevation:
+lb/ft³
+0.01
+12.1.21778
+Project Information
+Viscosity:
+2100
+14.5
+m/s
+viernes, agosto 05, 2016 09:42 AM
+PIPE-FLO Professional 12
+Print Date:
+Temperature:
+Size:
+Project:
+Laminar Cutoff Re:
+Atmospheric Pressure:
+Pressure:
+ºF
+Units Used
+100
+Darcy-Weisbach
+Iteration Tolerance:
+Length:

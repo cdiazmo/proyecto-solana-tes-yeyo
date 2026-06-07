@@ -1,0 +1,35 @@
+{
+  "id": "b357af2298269080",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-I A- Summer Charge - min level @ 850rpm.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 29419,
+  "size_human": "29 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "AnnexI-I A- Summer Charge - min level @ 850rpm",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2072,
+  "token_estimate": 518,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/b357af2298269080.json",
+  "extracted_path": ".yeyo-memory/extracted/b357af2298269080.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "",
+      "Creator": "",
+      "Producer": "Qt 4.7.0 (C) 2010 Nokia Corporation and/or its subsidiary(-ies)",
+      "CreationDate": "D:20160805075716"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.097039+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:01.097044+00:00"
+}

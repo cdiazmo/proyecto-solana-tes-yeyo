@@ -1,0 +1,35 @@
+{
+  "id": "423cd47ab2a21107",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/SMWP/Solana P&ID.PDF",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 3746637,
+  "size_human": "3.6 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "Solana P&ID",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/423cd47ab2a21107.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "CreationDate": "D:20181226100642-08'00'",
+      "ModDate": "D:20181226100642-08'00'",
+      "Creator": "RICOH Aficio MP C5502",
+      "Producer": "RICOH Aficio MP C5502"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.911810+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:54.933209+00:00"
+}

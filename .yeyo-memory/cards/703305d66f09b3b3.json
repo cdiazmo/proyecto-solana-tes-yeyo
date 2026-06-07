@@ -1,0 +1,73 @@
+{
+  "id": "703305d66f09b3b3",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0012_R1 Purgemeter specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 304766,
+  "size_human": "298 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0012 R1 Purgemeter specification",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 22820,
+  "token_estimate": 5705,
+  "chunks": 15,
+  "card_path": ".yeyo-memory/cards/703305d66f09b3b3.json",
+  "extracted_path": ".yeyo-memory/extracted/703305d66f09b3b3.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet ",
+        "rows_seen": 1013,
+        "non_empty_rows": 20
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 68,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 68,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 59,
+        "non_empty_rows": 16
+      },
+      {
+        "name": "Purg for LT",
+        "rows_seen": 61,
+        "non_empty_rows": 45
+      },
+      {
+        "name": "Purg for LT List I",
+        "rows_seen": 56,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Purg for LT List II",
+        "rows_seen": 56,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Purg for Pump",
+        "rows_seen": 59,
+        "non_empty_rows": 45
+      },
+      {
+        "name": "FIG for Pump List I",
+        "rows_seen": 56,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "FIG for Pump List II",
+        "rows_seen": 56,
+        "non_empty_rows": 19
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:15.063500+00:00"
+}

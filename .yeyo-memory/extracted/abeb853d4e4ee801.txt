@@ -1,0 +1,48 @@
+[page 1]
+Job: Document:
+Item No.: No. Req'd:
+Project:
+Ref.: Issue: Dated:
+0 15/12/2016 RDA JRL JRL
+Rev. Date By Chk'd App'd Description
+Insulation
+Shell Tube Shell Tube Reference point E. (ft) N. (ft) EL. (ft)
+0 Shell&Tube Heat Exchanger (MS-HTF) 0-MX-251-A 4521-PLN-AEE-68-71-P278-GAR Lointek 4521-HDD-LOI-039-062-0001-GAR 1 Carbon Steel Carbon Steel 750 750 320 320 refer datasheets refer datasheets refer datasheets NA NA NA YES On hold 12" On hold On hold On hold On hold
+0 Shell&Tube Heat Exchanger (MS-HTF) 0-MX-251-B 4521-PLN-AEE-68-71-P278-GAR Lointek 4521-HDD-LOI-039-062-0001-GAR 1 Carbon Steel Carbon Steel 750 750 320 320 refer datasheets refer datasheets refer datasheets NA NA NA YES On hold 12" On hold On hold On hold On hold
+0 Shell&Tube Heat Exchanger (MS-HTF) 0-MX-251-C 4521-PLN-AEE-68-71-P278-GAR Lointek 4521-HDD-LOI-039-062-0001-GAR 1 Carbon Steel Carbon Steel 750 750 320 320 refer datasheets refer datasheets refer datasheets NA NA NA YES On hold 12" On hold On hold On hold On hold
+0 Shell&Tube Heat Exchanger (MS-HTF) 0-MX-251-D 4521-PLN-AEE-68-71-P278-GAR Lointek 4521-HDD-LOI-039-062-0001-GAR 1 Carbon Steel Carbon Steel 750 750 320 320 refer datasheets refer datasheets refer datasheets NA NA NA YES On hold 12" On hold On hold On hold On hold
+0 Shell&Tube Heat Exchanger (MS-HTF) 0-MX-251-E 4521-PLN-AEE-68-71-P278-GAR Lointek 4521-HDD-LOI-039-062-0001-GAR 1 Carbon Steel Carbon Steel 750 750 320 320 refer datasheets refer datasheets refer datasheets NA NA NA YES On hold 12" On hold On hold On hold On hold
+0 Shell&Tube Heat Exchanger (MS-HTF) 0-MX-251-F 4521-PLN-AEE-68-71-P278-GAR Lointek 4521-HDD-LOI-039-062-0001-GAR 1 Carbon Steel Carbon Steel 750 750 320 320 refer datasheets refer datasheets refer datasheets NA NA NA YES On hold 12" On hold On hold On hold On hold
+0 MS Drain Back Tank 00-MT-257 4521-PLN-AEE-68-71-P279-GAR On Hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold NA NA NA On hold On hold On hold On hold On hold On hold On hold On hold
+0 MS Drain Back Tank Pump 00-MP-257 4521-PLN-AEE-68-71-P279-GAR On Hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold On hold
+ABEINSA ENGINEERING
+Site Arrival Date
+(CONTRACTUAL or 
+PLANNING L3)
+Coordinates (ITM)Pumps Capacity and size Anchor Bolt Supply by 
+Vendor
+(YES/NO)
+SOLANA 250 MW Solar Power Plant
+Equipment list (TES system) - HEX Replacement
+ABENER TEYMA 
+SOLANA
+4521-LIS-AEE-39-61-0002-GAR
+Solana
+Diam (mm) T-T (mm) Vol (m3)
+0
+refer to the GA Drawing 4521-PLN-LOI-
+039-062-0001-GAR
+NOTES:
+"0" number prefixed on HEX tags shall be replaced depending on the TES system refered: 1 for TES1 up to 6 for TES6
+"00" number prefixed on equipment tags shall be replaced depending on the TES couple refered: 1 for TES1&TES 2, 2 for TES3&TES4, and 3 for TES5&TES 6
+Manufacturer Documentation
+Data Sheet / Drawing Revision 
+Nº
+Pressure (Psig)P&IDRev Name Item TAG Nº NotesFlow rated 
+(m3/h) TDH rated (m) Thickness (Inch)
+Manufacturer 
+(Supplier)
+Material of Construction Design Conditions Vessels / tank / Exchangers Vessels / Tank / Exchangers dimensions
+Shell / Casing Tube / Impeller Temp. (ºF)
+Electrical / heat 
+power (kW) Empty Weight (kg)

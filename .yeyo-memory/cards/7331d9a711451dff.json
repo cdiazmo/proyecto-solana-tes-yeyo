@@ -1,0 +1,59 @@
+{
+  "id": "7331d9a711451dff",
+  "path": "03 GD Fabricacion LOI TES 6/Informes mensual/4521-INF-LOI-039-062-0001-GAR_Rev00 Monthly Progress Report - Nov 17.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 343383,
+  "size_human": "335 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INF-LOI-039-062-0001-GAR Rev00 Monthly Progress Report - Nov 17",
+  "doc_code": "4521-INF-LOI-039-062-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12438,
+  "token_estimate": 3109,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/7331d9a711451dff.json",
+  "extracted_path": ".yeyo-memory/extracted/7331d9a711451dff.txt",
+  "metadata": {
+    "pages": 11,
+    "pdf_metadata": {
+      "Author": "DavidVeiga",
+      "CreationDate": "D:20171222135332+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20171222140041+01'00'",
+      "Producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "Title": "Microsoft Word - 4521-INF-LOI-039-062-0001-GAR_Rev00 Monthly Progress Report - Nov 17.docx"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::285",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 285,
+        "doc_code": "4521-INF-LOI-039-062-0001",
+        "title": "PROGRESS REPORT",
+        "revision": "",
+        "status": "-",
+        "date": "N/A",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::285",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 285,
+        "doc_code": "4521-INF-LOI-039-062-0001",
+        "title": "PROGRESS REPORT",
+        "revision": "",
+        "status": "-",
+        "date": "N/A",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:02.366523+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "da8bcd16643ab02a",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201-DWG-140.00 ANCHOR BOLTS.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 358997,
+  "size_human": "351 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1950201-DWG-140.00 ANCHOR BOLTS",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3564,
+  "token_estimate": 891,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/da8bcd16643ab02a.json",
+  "extracted_path": ".yeyo-memory/extracted/da8bcd16643ab02a.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20191107130417+01'00'",
+      "Creator": "CATIA V5",
+      "Producer": "CATIA V5",
+      "Author": "davidguerrero"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:23.034509+00:00"
+}

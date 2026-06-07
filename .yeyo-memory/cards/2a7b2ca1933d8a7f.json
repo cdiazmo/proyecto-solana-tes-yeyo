@@ -1,0 +1,49 @@
+{
+  "id": "2a7b2ca1933d8a7f",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-21-70-0002_R0 Filter Regulator Specification.xls",
+  "top_dir": "01 GD AE",
+  "ext": "xls",
+  "size_bytes": 257536,
+  "size_human": "252 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-21-70-0002 R0 Filter Regulator Specification",
+  "doc_code": "4521-ESP-AGE-21-70-",
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/2a7b2ca1933d8a7f.json",
+  "extracted_path": null,
+  "metadata": {
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::102",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 102,
+        "doc_code": "4521-ESP-AGE-21-70-0010",
+        "title": "Level Switches Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::102",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 102,
+        "doc_code": "4521-ESP-AGE-21-70-0010",
+        "title": "Level Switches Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:05.251640+00:00"
+}

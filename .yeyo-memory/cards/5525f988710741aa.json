@@ -1,0 +1,92 @@
+{
+  "id": "5525f988710741aa",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-PLN-DOT-75-63-0236.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 209405,
+  "size_human": "204 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-DOT-75-63-0236",
+  "doc_code": "4521-PLN-DOT-75-63-0236",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/5525f988710741aa.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "cameron.g",
+      "CreationDate": "D:20180824101743-05'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20180824160744-05'00'",
+      "Producer": "Acrobat Distiller 11.0 (Windows)",
+      "Title": "\\\\ss-rey\\REY\\Customers\\AY-ASO\\Pipe Supports\\02_Typ Supports\\Completed\\HTF Typical\\0236 P10 (1)"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Soporte de tuberia MS",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:56.080298+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "12 As Built TES 6/05_Pipe Supports/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx::Typical Supports::27",
+        "index_path": "12 As Built TES 6/05_Pipe Supports/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 27,
+        "doc_code": "4521-PLN-DOT-75-63-0236",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/LIS/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx::Typical Supports::27",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/LIS/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 27,
+        "doc_code": "4521-PLN-DOT-75-63-0236",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx::Typical Supports::27",
+        "index_path": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 27,
+        "doc_code": "4521-PLN-DOT-75-63-0236",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx::Typical Supports::27",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-LIS-AEE-58-63-0001 HTF TES6support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 27,
+        "doc_code": "4521-PLN-DOT-75-63-0236",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:56.103186+00:00"
+}

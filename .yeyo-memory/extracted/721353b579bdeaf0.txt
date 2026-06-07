@@ -1,0 +1,1337 @@
+[page 1]
+ 
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+Technical Instruction 
+ 
+Title 
+Installation, start-up, operation and maintenance instructions 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-MOM-LOI-039-062-0004-GAR 
+Supplier Code: 
+Revision: 00 
+Date: 17/11/2017 
+ 
+Prepared by: 
+ Jon Ander Agundez 
+ 
+Reviewed by: 
+Iñaki Ugarte 
+ 
+Approved by: 
+David Veiga 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the 
+express written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 2 of 29 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 17/11/2017 Initial Issue JLP IU DVL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 3 of 29 
+ 
+ 
+ 
+INSTRUCTIONS FOR 
+INSTALLATION, START-UP, OPERATION AND MAINTENANCE 
+OF 
+OIL TO SALT HEAT EXCHANGERS OF SOLANA 
+ 
+ 
+ 
+ 
+ 
+ 
+LOINTEK JOB NO 4521-MOM-LOI-039-062-0004-GAR 
+ 
+ 
+ENGINEERED BY 
+MECHANICAL ENGINEERING - LOINTEK 
+MANUFACTERED BY LOINTEK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 4 of 29 
+ 
+ 
+ 
+ 
+ 
+IMPORTANT 
+READ BEFORE INSTALLING 
+ 
+The instructions given in this manual are intended to aid you in the operation, performance 
+and preservation of your new LOINTEK Oil to Salt Heat Exchanger System. While everything 
+discussed in this instruction manual is important, we have selected these pages to emphasize 
+several instructions th at must be followed when installing or operating your Oil to Salt Heat 
+Exchanger System. 
+ 
+1. All parts painted orange must be removed prior to testing or operating. See the 
+“Transport Drawing” in order to know which part is in orange colour (temporal suppo rts, 
+hydraulic test covers,…). Penetrant or magnetic test will be required after removing these 
+parts. 
+ 
+2. Check the tightness of all permanent plugs and covers prior to pressurizing the heater. 
+ 
+3. LOINTEK must be notified prior to performing any warranty work. 
+ 
+4. A pressure gauge on an Oil to Salt Heat Exchanger System indicates the vessel is filled 
+with nitrogen gas for shipping. ALL PERSONNEL MUST BE CAUTIONED NOT TO PUT THEIR 
+HEAD INTO VESSEL OPENINGS. NITROGEN IS COLORLESS AND ODORLESS AND 
+SUFFOCATION COULD TAKE PLACE WITHOUT THE SENSES PROVIDING AN ALARM. 
+ 
+5. Proper caution must be taken to assure that the Oil to Salt Heat Exchanger System has 
+been drained and vented and all flow has ceased, prior to entering either the channel or shell 
+side of an Oil to Salt Heat Exchanger System. 
+ 
+6. To insure that all bolted joints remain tight, such joints should be pulled up evenly after 
+the unit is put in service under a full operating load. On all bolted flange joints (not pipe 
+connections), it is suggested that insulation be left off, or that a removable insulation blanket 
+be used. 
+ 
+Any significant installation, operation, or maintenance problems should be reported to 
+LOINTEK. 
+ 
+
+[page 5]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 5 of 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+1. SECTION 1: SHIPPING AND INSTALLATION ................................ ................................ ...... 7 
+1.1. PRE-INSTALLATION STORAGE OF OIL TO SALTS HEAT EXCHANGER SYSTEMS .......................... 7 
+1.2. INSTALLATION INSTRUCTIONS .................................................................................................... 8 
+1.3. HYDROSTATIC TESTING ............................................................................................................. 13 
+1.2 REMOVAL OF WELDED SHIPPING COVERS ............................................................................... 13 
+2. SECTION 2: START-UP AND OPERATION ................................ ................................ ........ 14 
+2.1. INITIAL COLD START-UP ............................................................................................................ 14 
+2.2. WARM START-UP (NORMAL CHARGE OR DISCHARGE) ........................................................... 15 
+2.3. SHUT-DOWN .............................................................................................................................. 16 
+3. SECTION 3: MAINTENANCE & REPARATIONS RECOMENDATIONS ................................ 17 
+3.1. FIELD WELDING .......................................................................................................................... 17 
+3.2. SHELL REMOVAL AND REPLACEMENT ...................................................................................... 17 
+3.3. BOLTED CONNECTIONS ............................................................................................................. 19 
+3.4. LOCATING TUBE FAILURES ........................................................................................................ 23 
+3.5. TUBE PLUGGING ........................................................................................................................ 24 
+3.6. BOLTED PASS PARTITION COVER PLATE REMOVAL AND REPLACEMENT ............................... 25 
+4. ANNEX 1: REQUIRED DOCUMENTATION ................................ ................................ ....... 26 
+5. ANNEX 2: HYDROSTATIC TESTING ................................ ................................ ................. 27 
+6. ANNEX 3. MAINTENANCE INSPECTION POINTS ................................ ............................. 28 
+ 
+ 
+
+[page 6]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 6 of 29 
+ 
+CAUTION 
+ 
+HOT THERMAL FLUID AND SALTS 
+ 
+ 
+ 
+DO NOT REMOVE COVERS, PIPING, OR CONNECTIONS 
+UNLESS PLANT INSTRUCTIONS FOR VENTING AND 
+DRAINING VESSEL HAVE BEEN FOLLOWED. REMOVAL 
+OF COVER WITHOUT FIRST PROPERLY VENTING AND 
+DRAINING VESSEL MAY CAUSE SERIOUS INJURY OR 
+DEATH FROM RAPID RELEASE OF HOT THERMAL FLUID 
+AND HOT SALTS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 7]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 7 of 29 
+ 
+ 
+1. SECTION 1: SHIPPING AND INSTALLATION 
+ 
+1.1. PRE-INSTALLATION STORAGE OF OIL TO SALTS HEAT EXCHANGER SYSTEMS 
+ 
+CAUTION: A PRESSURE GAUGE ON AN OIL TO SALT HEAT EXCHANGER SYSTEM 
+INDICATES THE VESSEL IS FILLED WITH NITROGEN GAS FOR SHIPPING 
+(SEE TRANSPORT DRAWING). ALL PERSONNEL MUST BE CAUTIONED 
+NOT TO PUT THEIR HEAD INTO VESSEL OPENINGS TO INSPECT THE 
+INTERIOR. NITROGEN IS COLORLESS AND ODORLESS AND 
+SUFFOCATION COULD TAKE PLACE WITHOUT THE SENSES PROVIDING 
+AN ALARM. 
+ 
+The Oil to Salt Heat Exchanger System should be thoroughly inspected for shipping damage 
+immediately upon arrival. Exchangers with an internal nitrogen atmosphere have pressure 
+gauges to show internal pressure on both shell and tube side. Heaters are shipped under 0.6 
+barg nitrogen pressure. If the nitrogen pressure has fallen below 0.10 barg during s hipment, 
+it should be restored between 0.10 and 0.6 barg. 
+ 
+ 
+ 
+Heaters should be stored on cribbing and not in contact with the ground. Horizontal heaters 
+should rest on their supports. 
+ 
+Heaters with a nitrogen atmosphere, once positioned, should be "bl own down" by loosening 
+a plug or nozzle cover at the low point and allowing any condensate to escape from each side 
+of the heater. CAUTION IS TO BE EXERCISED WHEN LOOSENING THE PLUG, OR COVER, 
+BECAUSE THE OIL TO SALT HEAT EXCHANGER SYSTEM IS PRESSURIZED. PERSONNEL 
+SHOULD NOT HAVE ANY PORTION OF THEIR BODY IN DIRECT LINE WITH THE PLUG OR 
+COVER. The opening should be immediately resealed. The loss of nitrogen will be very slight. 
+ 
+Nitrogen blanketed heaters should be inspected on a regular basis. If the pressure falls below 
+0.1 barg, it should be restored to 0.6 barg (max.). Minor leaks can be stopped by a slight 
+uniform tightening of cover bolts or by tightening the threaded bar plugs in couplings or 
+welded shipping covers. Refer to the instructions co vering "Removal of Welded Shipping 
+
+[page 8]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 8 of 29 
+ 
+Covers" at the end of this section of the manual. 
+ 
+If uniform tightening of gasket cover bolts will not stop a leak, the gasket must be replaced to 
+permit restoration of the nitrogen seal. To minimize the time a vessel i s open, all tools and 
+material should be available before starting the work. 
+ 
+CAUTION: BEFORE BEGINNING TO REMOVE THE BOLTS HOLDING A GASKET COVER, 
+BLEED THE NITROGEN PRESSURE DOWN TO ZERO. DO NOT ATTEMPT TO 
+REMOVE A COVER OR BAR PLUG FROM A PRESSURIZED VESSEL. 
+ 
+The recommended gasket material for pre -installation storage and nitrogen purge is 1/8" 
+thick Garlock Blue-Gard service sheet or equal. The gasket should be cut to fit just inside the 
+bolt circle. If the nozzle cover has a coupling in it, cut a one inch (1") hole in the gasket to 
+match that location. 
+ 
+While the cover is removed, inspect it and the nozzle end for any surface condition that could 
+cause a leak. 
+ 
+Replace the cover and new gasket as quickly as possible to minimize nitrogen loss. Secure the 
+hold down bolts by finger -tightening and pressurize the vessel with nitrogen. Allow the gas 
+to flow around the loose cover and seep out air admitted during the change. A five minute 
+flow should restore the nitrogen atmosphere. 
+ 
+Tighten the cover uniformly in the conventional star pattern. Do not over -tighten and risk 
+cutting the gasket. Retest with a soap solution or a commercial solution. 
+ 
+1.2. INSTALLATION INSTRUCTIONS 
+ 
+Each Oil to Salt Heat Exchanger is shipped completely assembled and ready for installation on 
+the purchaser's supports (six equipments for train : three bottom equipments and three top 
+equipments). The heater must be installed as shown on the General Arrangement Drawing in 
+a true horizontal plane. 
+ 
+GENERAL HANDLING INSTRUCTIONS 
+ 
+Prior to any planned lifting of a heat exchanger, the rigging foreman should review the 
+supplied Transport drawing. This drawing contains the necessary data to plan normal lifting 
+of the exchanger. This information consists of the following items: 
+ 
+1. Empty weight of each exchanger. 
+2. Location of the longitudinal center of gravity. 
+ 
+CAUTION: DO NOT CONFUSE PULLING LUGS WIT H LIFTING LUGS. PULLING LUGS 
+WILL NOT SUPPORT THE VESSEL WEIGHT. 
+ 
+ 
+
+[page 9]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 9 of 29 
+ 
+TWO HOOK LIFT (HORIZONTAL VESSELS ONLY) 
+ 
+When using two hooks to lift a vessel, the vessel can be tilted lengthwise. This allows moving 
+the vessel through hatchways and other areas that do not have sufficient clearance for the 
+vessel to pass through in the level, horizontal position. Slings sho uld be sized at 1.4142 times 
+the vessel weight and the vessel should not be tilted according to shipping drawing 
+CAUTION: STANDARD SAFETY RULES SHOULD BE ADHERED TO AT ALL TIMES 
+DURING THE HANDLING OF A HEAT EXCHANGER. TO PREVENT 
+POSSIBLE SHOCK DAMAGE, THE VESSEL SHOULD NOT BE ALLOWED TO 
+"STRIKE" INTO ANY OBJECT. WHEN LOWERING INTO A RESTING 
+POSITION THE VESSEL SHOULD NOT BE DROPPED OR BUMPED. 
+SHIPPING COVERS SHOULD NOT BE REMOVED UNTIL THE VESSEL IS 
+LOCATED IN ITS FINAL POSITION; THIS WILL PREVENT ANY U NDUE 
+CONTAMINATION. 
+ 
+About the hoisting points, there is not any special or hook points; only take into account the 
+following ones: 
+ 
+ Lifting operations must be with nylon slings. In case of steel slings the contact points 
+must be protected with rubbers or similar. 
+ 
+The nylon sling can be situated on any part of the body of the equipment apart from 
+the nozzles find below picture: 
+ 
+ 
+ 
+
+[page 10]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 10 of 29 
+ 
+ 
+ 
+Suggested positions for slinging are indicated in the shipping drawing. 
+ 
+ 
+ 
+ 
+Once the equipments are installed, all damaged painted parts should be repainted before 
+starting insulation. 
+ 
+All heaters are to be lifted into place. Eyebolts, lugs, clips or other devices are installed only 
+to lift the empty components to which they are attached and not the assembled Oil to Salt 
+
+[page 11]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 11 of 29 
+ 
+Heat Exchanger System, unless explicitly specified otherwise. 
+ 
+Proper rigging must be used in lifting assembled Oil to Salt Heat Exchanger Systems. Oil to 
+Salt Heat Exchanger Systems are usually much heavier than pressure vessels of comparable 
+dimensions; therefore, weights should be secured from the Transport Drawing. 
+ 
+SETTING HEATERS: 
+ 
+The fixed supports have been designed so that shims have to be used to obtain proper 
+elevation and orientation. 
+ 
+Nuts for foundation bolts installed in slotted support holes are to be loosened to allow free 
+expansion of the shell. 
+ 
+Before installing the equipments, check stake out of anchor bolts installed by civil works and 
+verify that it matches the distribution of equipment drills 
+ 
+See the “anchor bolts drawing” in order to obtain the correct leveling and positioning 
+information. 
+ 
+Indicate on the bolts the corresponding leveling position of the nuts. Take in account that in 
+the sliding support there is a stainless steel plate and once the sliding plate is installed, the top 
+of the sliding plate and the top of the fixed support nuts must be at the same elevation. 
+ 
+Install the leveling nuts in both supports and the sliding stainless plate on the sliding support. 
+Recheck that elevation is correct. 
+Before lifting any equi pment check that the KKS of the nameplate corresponds with the 
+correct equipment location in field. 
+Once lower equipments have been positioned, make sure that all bolt elements (washers, 
+bushings, nuts, locknuts) have been correctly installed. 
+Before lifting upper equipment check that both saddles (top saddles of lower equipment) are at 
+the same elevation. 
+ 
+See the “saddles drawing” in order to obtain the correct leveling and positioning information. 
+There are 0,2 -0,08-0,08-0,04 inch (5 -2-2-1 mm) gauges to cover any deviation in upper 
+equipment elevation. Sliding support gauges are stainless steel material and fix support gauges 
+are carbon steel material. At least one gauge of any thickness should be place in the sliding 
+support to permit the sliding. If the sliding support and the fix support elevations are the same, 
+the same thickness gauge should be place in the fix support. 
+Before lifting any equipment check that the KKS of the nameplate corresponds with the 
+correct equipment location in field. 
+Place the upper equipment on the top of the lower equipment, take in account that the holes 
+of equipment supports match perfectly. 
+
+[page 12]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 12 of 29 
+ 
+Once upper equipments have been positioned, make sure that all bolt elements (washers, 
+bushings, nuts, locknuts) have been correctly installed 
+Tightening of the lower and upper equipment nuts shall be carried out according to standard 
+pairs in the case of fixed supp orts. In the sliding supports, no tightening will be performed to 
+facilitate the movement (sliding) of the equipment in operation phase. 
+Once the equipments are in the final position an alignment and leveling report should be sent 
+to LOINTEK 
+ 
+PIPING CONNECTIONS: 
+ 
+All parts covering connecting nozzles are to be removed prior to operating the Oil to Salt Heat 
+Exchanger System. 
+ 
+Remove the shipping covers and plugs immediately prior to the connections of the piping. In 
+case of residual water inside the heater (shell and channel side) will be remove through the 
+nozzles. 
+ 
+Instructions for removal of welded shipping covers are given at the end of this section of the 
+manual. 
+ 
+As Oil to Salt Heat Exchangers are filled with nitrogen, ALL PERSONNEL MUST BE CAUTIONED 
+NOT TO VISUALLY INSPECT THE INTERNALS BY PROJECTING THEIR HEAD THROUGH THE 
+OPENINGS. NITROGEN IS COLORLESS AND ODORLESS AND SUFFOCATION COULD OCCUR 
+WITHOUT THE HUMAN SENSES PROVIDING AN ALARM. 
+ 
+The entire system should be clean and free of foreign objects before starting operation. Do 
+not expose the Oil to Salt Heat Exchanger System internals to moisture or harmful 
+contaminants. 
+ 
+All of the connections on the General Arrangement Drawing must be utilized for the purpose 
+intended unless otherwise approved by the LOINTEK Engineering Department. 
+ 
+All pipe lines should be blown before welding to the equipments. 
+ 
+CORROSION PROTECTION: 
+ 
+As Oil to Salt Heat Exchanger s are protected against corrosion with nitrogen, it is 
+recommended that the heat exchanger remain sealed as long as possible prior to the 
+installation of the piping . After piping is complete, the heater should be immediately 
+protected with a nitrogen blanket or other suitable means of protection against corrosion. 
+ 
+ALTERATIONS OR REPAIRS: 
+ 
+Any alterations or repairs that may become necessary during installation, testing or operation 
+should be made under the direction of LOINTEK and in accordance with LOINTEK procedures. 
+Please contact LOINTEK for any instructions that may be necessary. 
+ 
+
+[page 13]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 13 of 29 
+ 
+1.3. HYDROSTATIC TESTING 
+ 
+If any field hydrostat testing will be performance with the equipments, see ANNEX 2. 
+ 
+1.2 REMOVAL OF WELDED SHIPPING COVERS 
+ 
+LOINTEK covers weld end nozzles with welded -on steel caps to protect the weld end 
+preparation and to offer a stable nitrogen seal for long term storage. 
+ 
+CAUTION: BEFORE BEGINNING TO CUT OFF A SHIPPING COVER, BLEED THE INTERNAL 
+NITROGEN PRESSURE OF THE VESSEL DOWN TO "ZERO". 
+Covers are intended to be discarded and should never be salvaged at the risk of cutting into 
+the nozzle. 
+Grinding is the intended method of removal. 
+When grinding is used, the start of weld removal (the point of attack) should be the edge of 
+the cap and whatever welds is taken with it. Break the cap to weld joint and avoid grinding 
+on the nozzle while the cap is still in place. When the cap is ground free of the weld and 
+moved, the balance of the weld is removed from the nozzle and blended to contour. 
+ 
+Any removal of nozzle material is a concern of the Owner's Engineers. Assistance can be 
+obtained by contacting LOINTEK. 
+ 
+Once the covers are removed, all bevels have to be checked and if necessary they have to be 
+repaired. 
+ 
+Any reparations in nozzles or bevels should be made under the direction of LOINTEK and in 
+accordance with LOINTEK procedures. After reparations penetrant and magnetic test could 
+be required. 
+ 
+ 
+ 
+ 
+ 
+
+[page 14]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 14 of 29 
+ 
+ 
+2. SECTION 2: START-UP AND OPERATION 
+ 
+Starting, operating and shutting down of an Oil to Salt Heat Exchanger System require 
+specific instructions, with emphasis on load limitations, as well as of the order of start -up and 
+shut-down. The plant operating instructions and the Oil to Salt Heat Ex changer System 
+Drawing, specification sheet, and nameplates are to be reviewed prior to operating the Oil to 
+Salt Heat Exchanger System. 
+The following are precautions that should be reviewed and recognized when operating the 
+Oil to Salt Heat Exchanger Sys tem. Improper starting-up or incorrect shutdown sequence can 
+cause leakeages in the tube -plate weldings, in the flanged joints of the equipments or even 
+can cause a tube breakage. 
+ 
+The operation modes related to the MS-HTF heat interchanger are briefly described below: 
+ 
+ Initial Start-Up (Filling) 
+ Warm Start-up (Normal Start up) 
+ Hot Stat-up & Standby mode. 
+ Shutdown 
+Oil to Salt Heat Exchanger System operation should not be undertaken if any of the protective 
+devices are known to be faulty. 
+ 
+2.1. INITIAL COLD START-UP 
+ 
+During the initial start up of the plant, and following extended scheduled maintenance 
+periods, the heat exchangers will be subjected to the following sequences: 
+ 
+- The heat exchangers will initially be empty, and at ambient temperature. The hea t 
+exchanger (shell) drain valves will be closed, and the heat exchanger (shell) vent valves will be 
+open. 
+ 
+- Electric heat tracing on the heat exchanger shells and channels will be activated until 50ºC, 
+heating up rate of 1,8ºF/hour (1ºC/hour). 
+ 
+- When shells and channels are at the temperature of 176ºF (80ºC) (use heat trace temperature 
+transmitters for measuring this temperature), preheated HTF will be introduced at the 
+temperature of 176ºF (80ºC). Gradually the HTF temperature will be increased (with h eat tracing 
+in shell side and HTF in channel side) with a maximum ramp of 90ºF/hou r (50ºC/hour) up to a 
+nominal value of 545ºF (285ºC). 
+ 
+- When everything is at the value of 545 ºF (285ºC) , it will be proceed to introduce the salt, 
+what will be at ± 27ºF (15ºC) from the previous established temperature. 
+ 
+ 
+ The maximum flow to the filling of the salt will be of 5% of the design case flow. 
+- Close the venting valves when the system is filled. 
+
+[page 15]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 15 of 29 
+ 
+ 
+- Put Exchangers in Recirculation Mode with Cold Tank. 
+ 
+- Circulate 15-25% molten salt design case flow from Cold Tank. Previously shell side 
+temperature should be checked and can not be less than 518 ºF ( 270ºC) (max. 572 ºF 
+(300ºC)). In order to ensure the correct filling, the temperature transmitter situated in the inlet 
+of the train will be used. 
+ 
+- Increase HTF Temperature until molten salt Outlet Temperature is 370.8 ºF ( 388,22ºC) (TT 
+situated in the outlet of the HEX train will be used for this control): 
+ 
+ In all cases heating-up rate of 18ºF/minute (10ºC/minute) shall not be exceeded, in 
+normal operation. 
+ 
+- Close recirculation mode with cold tank. 
+ 
+- Route molten salt to Hot Tank. 
+ 
+- Increase gradually both flows until 100%. Heating -up rate of 50 ºF/minute (10ºC/minute) 
+should be taken into account. 
+ 
+- Unit is now in “Nomal Charge Case”. 
+ 
+Oil to Salt Heat Exchanger Systems has not to be operated at fluid temperatures higher than 
+those shown on the specification sheet and 4521-MOM-LO-039-062-0003-GAR Operational Limits. 
+ 
+It is recommended that Oil to Salt Heat Exchanger Systems must not be subjected to abrupt 
+temperature fluctuations. Once the Oil to Salt Heat Exchanger System has been placed in 
+service in order to attained the full load condition, the maximum rate of incr ease or decrease 
+in temperature should be limited to 18ºF/minute (10ºC/ minute) in both fluids. 
+ 
+2.2. WARM START-UP (NORMAL CHARGE OR DISCHARGE) 
+ 
+For normal charge or discharge modes follow the operation limits specification 4521-MOM-LO-
+039-062-0003-GAR. 
+ 
+Oil to Salt Heat Exchanger System operating conditions and performance should be checked 
+regularly against the values stated on the specification sheet provided for each heat 
+exchanger. 
+ 
+Any significant deviation of heater performance from that specified should be immediately 
+reported to LOINTEK. The prompt reporting of any suspected performance problem is the 
+best guard against the possibility of damage to the Oil to Salt Heat Exchanger System. A 
+detailed performance report should include actual values for all of the flows, temperatures 
+and operating pressures listed on the specification sheet. 
+ 
+The failure of an Oil to Salt Heat Exchanger System to perform satisfactorily may be caused b y 
+one or more factors, such as: 
+
+[page 16]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 16 of 29 
+ 
+ A. Air or non-condensable gas blanketing resulting from improper piping 
+ installation or lack of suitable venting. 
+ B. Operating conditions differing from design conditions. 
+ C. Tubing failure. 
+ D. Bad distribution of flow. 
+ 
+Oil to Salt Heat Exchanger Systems are pressure tested before leaving the manufacturer’s 
+shop, in accordance with ASME Code requirements and PED 97/23 Directive. However, 
+normal yielding of gaskets may occur in the interval between testing in the shop and 
+installation at the jobsite. Therefore, all external bolted joints may require retightening after 
+installation and, if necessary, after the heater has reached operating temperature. 
+ 
+2.3. SHUT-DOWN 
+ 
+The shutdown of the oil to salt heat exchangers system must take place, first stopping the hot 
+fluid, and then stop the flow on cold side. 
+ 
+When taking an exchanger out of service for an extended period of time, provisions should be 
+made to protect the internals from corrosion and pitting. This can be accomplis hed by 
+blanketing both the shell and channel sides with a positive pressure of nitrogen or another 
+inert gas. When it is not possible to provide an inert gas blanket and freezing conditions will 
+not be encountered, both sides of the exchanger should be flo oded with oxygen -free 
+condensate. 
+ 
+DRAIN 
+ 
+The first fluid to drain should be Salts. 
+ 
+There is no limitation in pressure differences between fluids apart from design pressures. 
+ 
+There is no special temperature limitation for the drain, apart for the 18ºF/minute (10ºC/min) 
+temperature ramp. In this case, the ramp will be measured with the average of the drain 
+outlet temperatures. From the highest points of the exchanger nitrogen must be introduced 
+in order to facilitate the drain of the salt. 
+ 
+The heat exchangers are supplied with a % slope in order to facilitate this operation. 
+ 
+ 
+ 
+
+[page 17]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 17 of 29 
+ 
+ 
+3. SECTION 3: MAINTENANCE & REPARATIONS RECOMENDATIONS 
+ 
+3.1. FIELD WELDING 
+ 
+If it becomes necessary to perform manual welding on a pressure vessel in the field, the 
+comments listed below should be observed. 
+ 
+ 
+CERTIFICATION: 
+ 
+All welding must be performed using a procedure qualified in accordance with Section IX of 
+the ASME Code or the applicable section of the original code of construction. LOINTEK can 
+supply welding procedure s on request. Exact details as to the material type and thickness 
+must be provided to assure that the proper procedure is supplied. It should be noted that any 
+procedure supplied by LOINTEK must be qualified by the responsible organization. 
+ 
+Welders must be certified to the welding process involved in accordance with Section IX of 
+the ASME Code or the applicable section of the original code of construction and the PED 
+97/23 CE Directive. 
+ 
+A Notified Body should be contacted to review the procedure and wit ness the welding and 
+any tests that are performed. 
+ 
+GENERAL PRECAUTIONS ON WELD MATERIAL APPLICATION: 
+ 
+Proper preheat, dryness and cleanliness of the welding area are very important when welding. 
+This is particularly true with tube-to-tubesheet weld. 
+ 
+All information about welding procedures it can be found in equipments welding dossier. 
+There are instructions for preheating and PWHT procedures after repairing operations. The 
+welding list will indicate witch WPS have to be applied in each repairing work. 
+3.2. SHELL REMOVAL AND REPLACEMENT 
+ 
+SCOPE 
+ 
+These instructions cover the removal and replacement of tube bundles Oil to Salt Heat 
+Exchanger System. 
+ 
+Specific instructions cover the bundle removal from the shell where it is impractical to either 
+remove the entire unit or to apply staging and rails on which the bundle could be pulled out. 
+ 
+GENERAL 
+ 
+Care must be exercised to ensure that the bundle is always evenly supported. 
+ 
+
+[page 18]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 18 of 29 
+ 
+Oil to Salt Heat Exchanger System bundles are heavy, but individual parts, such as tube s are 
+relatively thin and easily damaged. Care must be exercised at all times to ensure that there is 
+no sudden shift in the bundle or binding that can result in damage to the tubing. A large 
+number of tubes can be easily damaged with one wrong move duri ng the removal or 
+insertion of a bundle. 
+ 
+SHELL REMOVAL 
+ 
+The shell is pulled off using pulling lugs. 
+ 
+The shell is pulled in steps, pausing between each step to provide support for the bundle. 
+Crib to raise the weight of the bundle off the shell before clearing the last support plate so 
+the bundle end will not drop and strike the shell as support under the bundle is removed. 
+ 
+On horizontal heaters, cribbing or other adequate support must be placed at the maximum 
+spacing of 2m. Cribbing must be long enough to carry the full width of the flat bottom of 
+the support plates. Bars or pipe tacked to the support plates and extending to the floor or 
+some other adequate arrangement must be provided to ensure against any overturning of the 
+bundle. 
+ 
+The suggest ed practice is to employ a beam -type monorail with plain trolleys to cover the 
+required number of support points. 
+ 
+A chain hoist or "come along" chain pull is recommended with each trolley to permit fine 
+adjustment of the bundle height at each support poin t. This is important on bundle removal 
+and critical on bundle insertion. 
+ 
+It is preferred that exposed area of the bundle and all shell openings be covered with plastic 
+or other suitable material as soon as the shell is removed in order to minimize corrosi on and 
+accumulation of dirt, etc. 
+ 
+REINSTALLATION OF SHELL (BUNDLE INSERTION): 
+ 
+Prior to insertion, a thorough inspection is required. The bundle must be checked for 
+alignment. The bundle must be level, straight, and there should not be any twist between 
+the forward and rear ends. The bundle and internal surfaces of the shell must be clean. 
+ 
+ 
+The shell is drawn over the bundle by placing a cable around the forward shell support and 
+pulling from the channel end. After the shell is approximately halfway over the bundle, the 
+cable can be shifted to a support further back, if required. 
+ 
+NOTE: THE PULLING CABLE SHOULD BE LIFTED UP ON THE SUPPORT AS CLOSE TO 
+THE SHELL AS POSSIBLE WHEN PULLING, TO MINIMIZE ANY BENDING 
+MOMENTS ON THE ATTACHMENT OF THE SUPPORT TO THE SHELL. 
+ 
+An air operated hoist is generally used for bundle insertion. However, come -alongs or any 
+other suitable device may be used. A mechanic must be stationed on each side of the shell to 
+observe the open end of the shell passing across support plates and bundle skids. No 
+
+[page 19]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 19 of 29 
+ 
+interference can be permitted. Bundle support cribbing is removed as required. Note that, 
+when stopping to remove cribbing, the nearest bundle skid and/or support plates should be 
+inside the open end of the shell. 
+ 
+The bundle insertion should be monitored at the shell opening to assure support plates to not 
+catch the shell and bend. Remove the rigging only as the tube bundle is supported by the 
+shell as it is inserted. 
+ 
+CLOSURE SEAM FIT-UP AND WELD: 
+ 
+Fit-up lugs may be tack w elded to the shell to aid in pulling the shell over the back -up strip 
+and final positioning. 
+ 
+NOTE: FIT-UP LUGS, ETC., SHOULD BE WASHED OFF BY AIR ARC AND GROUND 
+SMOOTH. THESE LUGS "SHOULD NOT BE KNOCKED OFF". AFTER FIT -UP, 
+CHECK ALIGNMENT AND LOCATION O F PRINCIPAL CONNECTIONS FROM 
+REFERENCE "ZERO" ON THE SETTING PLAN DRAWING. 
+ 
+RADIOGRAPHIC EXAMINATION: 
+ 
+Radiographic examination is required on carbon steel seams having a thickness of 1 -1/4" and 
+greater. 
+ 
+HYDRO TEST: 
+ 
+On completion of the welding of all connections, a hydro test should be conducted in 
+accordance with the Hydro Test section of these instructions. 
+ 
+ 
+3.3. BOLTED CONNECTIONS 
+ 
+SCOPE: 
+ 
+This section provides recommendations for assembly and maintenance of external bolted 
+joints utilizing gasketed sealing surfaces. Bolted joints considered are main body flanges, full 
+access bolted covers, and manways. This section does not cover internal bolted joints such as 
+pass partitions. These recommendations are not intended to replace existing plant 
+maintenance procedures where such procedures have been established and used successfully 
+for this type of equipment. 
+ 
+PREPARATION FOR ASSEMBLY: 
+ 
+1. All gasket joint surfaces shall be clean and free of all foreign materials. 
+2. Inspect gasket surfaces for defects or damage that may hinder proper sealing of the 
+gasket. Suspect areas should be repaired prior to assembly of the joint. 
+3. Nut faces and the flange or washer surfaces where the nut face bears should be clean and 
+smooth. If roughness, burrs, or surface irregularitie s are present, these irregularities 
+
+[page 20]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 20 of 29 
+ 
+should be dressed out to provide as smooth a surface as possible. 
+4. Threads on studs and nuts shall be cleaned. Thoroughly lubricate threads on studs and 
+nuts as well as contacting surfaces on which the nut face bears. 
+ 
+ASSEMBLY: 
+ 
+All bolted connections are to be tightened uniformly in a diametrically staggered pattern as 
+shown on the Bolt Tightening Pattern Sketch. Tightening to the listed torque values shall be 
+achieved in multiple steps as noted below, with each tight ening increment performed in the 
+same diametrically staggered pattern. This will ensure a uniform stress over the entire gasket 
+surface. The procedure to use for tightening bolted connections is as follows: 
+ 
+1. The joint shall be snuggled up squarely so the entire flange face bears uniformly on the 
+gasket. 
+2. Tightening of the bolts shall be applied in at least three equal increments to achieve 
+torque values listed in the following torque table. It is suggested that 4 equal 
+increments be used for bolt diameters above 2”. 
+3. Alternatively, bolts can tighten one flat at a time in a diametrically staggered pattern 
+until the specified torque is achieved. 
+ 
+If the bolted connection leaks, the nuts can be tightened in the pattern outlined on the Bolt 
+Tightening Pattern Sketch, one flat at a time. The spacing between the flanges must be equal 
+throughout the tightening process. This will ensure the gasket surface will not be distorted. 
+ 
+If a connection continues to leak, it must be disassembled and examined for the following: 
+ 
+A. Indication of a leak path, such as a gouge across the gasket surface. 
+B. Evidence of interference between the mating connections. 
+C. Evidence of distortion or out of roundness of either of the mating gasket surfaces. 
+This is usually best checked by mea suring the gasket compression every 45 degrees 
+around the gasket itself. Thickness measurements should also be taken close to both 
+the I.D. and the O.D. of the compressed portion of the gasket to check against any 
+possible rotation of the flange during bolt tightening. 
+D. Evidence of bolt diameter reduction or "necking", which would indicate an 
+overstressing of the bolts. 
+ 
+In order to ensure that all bolted flanged joints remain tight, such joints should be tightened 
+uniformly immediately after the heater has been placed in service for the first time, and again 
+after the heater has been operated at full load for the first time. It is recommended that 
+periodic checks be made during the first six months of operation to ensure proper tightness 
+of all bolted joints. 
+ 
+Note: In case of diaphragm gaskets, it can be used several times. It is recommended to check 
+it after cutting. Normally it has to be repaired according to the following pictures: 
+ 
+
+[page 21]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 21 of 29 
+ 
+ 
+ 
+ 
+ 
+ 
+BOLT TIGHTENING PATTERN SKETC 
+ 
+TORQUE VALUES FOR SA-193-B7 STUDS 
+ 
+Torque values are based on studs well -lubricated with a heavy graphite and oil 
+mixture. 
+Torque values listed are to achieve a pre-load of 60% of yield. 
+ 
+ 
+NOMINAL DIA. OF 
+STUD (INCHES) 
+No. OF THREADS 
+PER INCH 
+TORQUE 
+(FT-LBS) 
+TORQUE 
+(Newton-Meters) 
+1/2” 13 75 102 
+5/8” 11 150 203 
+3/4” 10 252 342 
+7/8” 9 402 545 
+1” 8 618 838 
+1 1/8” 8 894 1,212 
+
+[page 22]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 22 of 29 
+ 
+1 1/4” 8 1,260 1,708 
+1 3/8” 8 1,740 2,359 
+1 1/2” 8 2,016 2,733 
+1 5/8” 8 2,760 3,742 
+1 3/4” 8 3,780 5,125 
+1 7/8” 8 5,040 6,833 
+2” 8 5,520 7,484 
+2 1/4” 8 8,016 10,868 
+2 1/2” 8 11,088 15,033 
+2 3/4” 8 13,500 18,304 
+3” 8 17,640 23,917 
+3 1/4” 8 22,560 30,587 
+3 1/2” 8 28,320 38,397 
+3 3/4” 8 35,040 47,508 
+4” 8 42,720 57,921 
+ 
+ 
+ 
+DISASSEMBLY: 
+ 
+Protection must be provided to assure that, on completion of bolt removal, parts will not fall 
+free or shift, possibly leading to injury of personnel or damage to equipment. 
+All mating flanges should be adequately match-marked before disassembly is started. 
+Bolts are to be loosened in the reverse of the tightening p rocess shown on the sketch 
+following. 
+ 
+GASKETS: 
+ 
+Gasket selection should be in accordance with the original design. Please contact LOINTEK if 
+gaskets are required. Diaphragm gaskets don´t have to be replaced. 
+The use of a non -hardening compound is recommended to aid in holding the gasket in place 
+during bolt-up. The use of masking tape or a hardening compound is not recommended. 
+Gasket surfaces must be inspected for cleanliness and absence of scratches, erosion, etc., 
+before gaskets are installed. If there is any evidence of damage on gasket surfaces, or if there 
+is any question with regard to gasket material and/or type, this should also be referred to 
+LOINTEK. 
+ 
+When a jacketed type gasket is used in conjunction with a nubbin (raised ring) on one of the 
+gasket surfaces, the flat side of the gasket must be in contact with the nubbin. 
+ 
+ 
+ 
+ 
+ 
+
+[page 23]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 23 of 29 
+ 
+3.4. LOCATING TUBE FAILURES 
+ 
+To determine the probable causes of tube failure, it is essential that the exact location of each 
+failure be known. 
+ 
+This instruction gives a method of locating the point of failure in an Oil to Salt Heat Exchanger 
+tube. Although other means may be employed, it has been our experience that the system 
+described represents a practical procedure for making an accurate deter mination of the 
+location of a tube failure. 
+ 
+When collecting data on tubing failures, the following minimum amount of information must 
+be recorded: 
+ 
+1. LOINTEK Oil to Salt Heat Exchanger System "Serial Number". 
+2. The pass in which the failure occurred (inlet or outlet). 
+3. Tube row, counted from pass plate. 
+4. Tube number, counted from the left when facing the tubesheet. 
+5. Distance of the failure back from face of tubesheet. 
+6. Length of failure, where possible. 
+7. Date of investigation. 
+ 
+ 
+TUBESHEET/TUBE END EXAMINATION: 
+ 
+The face of the tubesheet, the tube ends and the inlet pass tube inside surfaces are to be 
+visually examined using a bright light, from a distance of approximately 30cm. This 
+examination should disclose any pitting, "bug holes", or other indications of damage. 
+ 
+If any tubes have been previously plugged, they must be checked to ensure no leak paths 
+have developed around the plug. 
+ 
+Once the visual inspection is finished, it is recommended to make a penetrant test in the 
+tubesheet surface. With this test it is possible to detect damages in the weldings between the 
+tube and the tubesheet. 
+ 
+Other testing will be performed in order to find damages inside the tubes like bubble test. 
+ 
+After detecting the leaks a plug will be use in orde r to block the damaged tube. That plug is 
+placed inside the tube and welded to the tubesheet according the following drawing: 
+ 
+ 
+ 
+ 
+
+[page 24]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 24 of 29 
+ 
+3.5. TUBE PLUGGING 
+ 
+These instructions cover the plugging of Oil to Salt Heat Exchanger tubes. Plugging is divided 
+into the following categories, depending on the nature of the tube failure. 
+ 
+1. Tube-end Plugging: Where failure has occurred in the tube itself, and the tube -to-
+tubesheet joint is sound. 
+2. Safety Plugging: Where tubes are plugged because of possible erosion damage due to 
+a failure in an adjacent tube. 
+3. Tubesheet Plugging: Where the tube -to-tubesheet joint has failed beyond repair, 
+specific instructions will be issued by LOINTEK. 
+ 
+ 
+GENERAL PREPARATION FOR TUBE PLUGGING. 
+ 
+Plugs conforming to the material and dimensions given in these instructions should be 
+obtained from Lointek Procedure. Please contact LOINTEK should tube plugs be desired. 
+ 
+GENERAL PRECAUTIONS WHEN USING WELDED PLUGS: 
+ 
+Weld wire substitutions are not to be made without prior approval by LOINTEK. 
+ 
+Do not weld until the welding area and the tubes, including plugs, are clean and dry. Clean 
+the tube holes and plugs with a high grade, non -residue solvent. Tools, hoses, etc., in the 
+work area must be clean. 
+ 
+Heat the area in the tubesheet to be welded, as required, to remove moisture. 
+ 
+The bar used for plugs that are to be welded must not be of a "free machining" type 
+material. 
+ 
+ 
+TESTS FOR PLUGGED TUBES 
+ 
+Tube plug welds should be tested as follows prior to putting the equipment back in service. 
+ 
+1. Bubble leak test the plug by applying air or nitrogen at 5 barg on the shellside and 
+applying a bubble forming solution on the plug to tubesheet joint. 
+ 
+2. A color contrast liquid penetrant examination is to be performed on welded plugs. 
+ 
+3. (OPTIONAL) Hydrostatic test the shellside at a pressure approximately 10% below the 
+shellside design pressure stated on the nameplate. Any test pressure exceeding the design 
+pressure will require gagging or blanking off the shell safety valve. Hold the test pressure for 
+at least four hours, preferably overnight, and check for any droplets or weepage. 
+ 
+ 
+ 
+
+[page 25]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 25 of 29 
+ 
+3.6. BOLTED PASS PARTITION COVER PLATE REMOVAL AND REPLACEMENT 
+ 
+Pass partition cover plates are fitted with either handles for handl ing purposes, or they have 
+nuts welded to the cover plate that are used to attach bolts, bars, or eyes for the purpose of 
+handling the cover. Where access to the channel internals and pass partition is restricted 
+through a manway, pass partition covers ar e typically fitted with handles and can be 
+manipulated by one person and removed through the manway. Where access to the channel 
+internals and pass partition is through a full access channel cover, pass partition covers are 
+typically fitted with nuts weld ed to the cover and are sized to be removable through the 
+channel cover opening. These full access partition covers are normally larger segments that 
+cannot be handled by one person without external help. 
+ 
+The following steps should be followed for removal and installation of the pass partition cover 
+and gasket: 
+ 
+REMOVAL 
+ 
+1. Caution must be used when removing pass partition cover bolting to ensure that the 
+cover plate are secured and will not fall free or shift when bolts are removed, possibly leadin g 
+to injury of personnel or damage to equipment. 
+ 
+2. Remove the nuts holding the cover plate to remove the cover. Nuts are typically tack 
+welded to the cover plate on one flat to prevent loosening during operation. 
+ 
+3. Remove the pass partition cover gasket. 
+ 
+REPLACEMENT 
+ 
+1. Visually inspect pass partition welds where pass partition attaches to the channel. If 
+equipment is in cyclic service or if visual inspection results in the need for closer inspection, 
+pass partition welds should be examined by liquid penetrant methods. 
+ 
+2. Clean and inspect the bolts and cover plate for damage such as erosion or "washing". 
+If roughness or burrs are present, they should be dressed out to provide a smooth surface 
+ 
+3. Threads on pass partition cover bolts shall be cleaned. Pass partition co ver bolts are 
+normally installed without thread lubricant. 
+ 
+4. Clean and inspect all gasket joint surfaces. Inspect gasket surfaces for defects or 
+damage that may hinder proper sealing of the gasket. 
+ 
+5. Any suspect areas found as a result of the above ex amination should be repaired prior 
+to installation of the pass partition cover. 
+ 
+6. Obtain new pass partition gasket. 
+ 
+7. Gaskets should be handled with care to avoid excessive bending during handling. 
+ 
+ 
+
+[page 26]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 26 of 29 
+ 
+8. Re-install the pass partition gaskets, cover, and nuts. 
+ 
+a. Pass partition cover bolts are typically installed ‘dry’ with no lubricant. 
+ 
+b. Tightening of the bolts shall be applied in at least three equal increments to 
+achieve the final torque. Tightening shall be applied in a staggered “star” 
+pattern to ensure that the gasket is compressed uniformly and that gasket 
+surface will not be distorted by uneven tightening. 
+ 
+d. Final torque value for AISI 304 bolts (see torque values table page 20). 
+ 
+e. Once final torque is achieved, tack weld one flat of each nut to cover to prevent 
+loosening during operation. 
+ 
+4. ANNEX 1: REQUIRED DOCUMENTATION 
+ 
+ 
+4521-LIS-LOI-039-062-0002-GAR START UP COMMISIONING SPARE PARTS LIST 
+4521-LIS-LOI-039-062-0007-GAR TWO YEARS OPERATIONAL SPARE PARTS LIST 
+ 
+4521-HDD-LOI-039-062-0001-GAR EQUIPMENT DATA SHEETS 
+4521-MOM-LOI-039-062-0003-GAR OPERATIONAL LIMITS 
+ 
+ 
+4521-PLN-LOI-039-062-0001-GAR GENERAL ARRAGEMENT AND LOADS DRAWING 
+4521-PLN-LOI-039-062-0010-GAR TUBE SHEET DRAWING 
+4521-PLN-LOI-039-062-0013-GAR TRANSPORT DRAWING 
+4521-PLN-LOI-039-062-0014-GAR INSULATION SUPPORTS DESIGN DRAWINGS 
+4521-PLN-LOI-039-062-0015-GAR NAMEPLATE DRAWING 
+4521-PLN-LOI-039-062-0002-GAR PRODUCTION TEST DRAWING 
+4521-PLN-LOI-039-062-0003-GAR ANCHOR BOLTS DRAWINGS 
+4521-PLN-LOI-039-062-0011-GAR SADDLES DETAIL DRAWIGS 
+ 
+ 
+ 
+
+[page 27]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 27 of 29 
+ 
+5. ANNEX 2: HYDROSTATIC TESTING 
+ 
+LIMITATIONS: 
+ 
+The hydrostatic test pressures of closed Oil to Salt Heat Exchanger Systems are stated on each 
+heat exchanger's nameplate and on the General Arrangement drawing. Under no 
+circumstance is the hydrostatic test pressure to be exceeded. VERIFY SHELLSIDE AND 
+TUBESIDE TEST PRESSURE STAMPED ON THE OIL TO SALT HEAT EXCHANGER SYSTEM 
+NAMEPLATE PRIOR TO ANY FIELD HYDROTEST. 
+ 
+Hydrostatic testing using a water temperature of less than 60 OF (15.5 OC) is not 
+recommended. Check ASME code to calculate the minimum temperature to be used. 
+ 
+After filling the Oil to Salt Heat Exchanger System with test water, hold for approximately 
+one-half hour, drain a sample and check the temperature to ensure that it is higher than the 
+minimum recommended hydrostatic test temperature. 
+ 
+CODE INSPECTION: 
+ 
+When hydrostatic testing is conducted to demonstrate acceptability of repairs performed on 
+pressure parts of Oil to Salt Heat Exchanger System, it is recommended that these tests be 
+witnessed by the owner's Authorized Inspector and Notify Body. 
+ 
+TESTING PRECAUTIONS: 
+ 
+During filling, start -up vents must be opened and remain open until all passages have been 
+purged of air or nitrogen and are completely filled with fluid. 
+ 
+After completely filling the chamber to be tested and purging it of air o r nitrogen, the vents 
+are to be closed. 
+ 
+Pressure is to be applied at a steady rate. In no case should the vessel be subjected to a 
+sudden pressure surge. It is recommended that a relatively small capacity pump be used to 
+apply hydrostatic test pressure. 
+ 
+It is recommended see the hydrostatic test drawing before starting the test. 
+ 
+ 
+DRAINAGE AFTER HYDROSTATIC TEST: 
+ 
+Following hydrostatic testing, the Oil to Salt Heat Exchanger System is to be drained. It is 
+preferred in most cases (and essential in the case of carbon steel heaters) that they be dried 
+and nitrogen blanketed following drainage 
+ 
+ 
+ 
+ 
+ 
+
+[page 28]
+ 
+Document: 4521-MOM-LOI-039-062-0004-GAR 
+ 
+Revision: 00 Date: 17/11/2017 
+Page: 28 of 29 
+ 
+6. ANNEX 3. MAINTENANCE INSPECTION POINTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 29]
+ 
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project: SOLANA
+Date: 23/11/2016
+Revision: 0
+Nº Discipline Description Revision Observations Reference. Doc Requirements
+EQUIPMENTS
+1 HEAT EXCHANGERS Visual check for leaks in end covers monthly
+2 HEAT EXCHANGERS Visual check for leaks in manhole monthly
+3 HEAT EXCHANGERS Closed cover bolts retightening anually Initially, after operation at 100% load, it is 
+recommended to retighten O&M Manual Bolts T < 50ºC
+4 HEAT EXCHANGERS Manhole bolts retightening anually Initially, after operation at 100% load, it is 
+recommended to retighten O&M Manual
+5 HEAT EXCHANGERS Review sliding support. Check the correct movement of equipment 
+and wear proper position of the slide plate. each 6 months According to equipment drawing
+6 HEAT EXCHANGERS Lubricating the bolts and manhole covers anually If any bolt is damaged, it will be replaced O&M Manual
+7 HEAT EXCHANGERS Predictive Maintenance of the equipment. Analysis of the fouling, 
+performance, etc ... for each equipment. each 6 months Lointek can offer predictive maintenance contract by 
+studying the data from each equipment.
+8 HEAT EXCHANGERS N2 inertizicing in the piping systems in complete stop. Salts / HTF
+9 HEAT EXCHANGERS Partition Channel Gasket anually
+It is recommended to check the partition channel gasket 
+(if is needed it will be replaced ) according to the O&M 
+Manual
+10 HEAT EXCHANGERS Other gaskets (visual check) each 6 months
+MANTENIANCE POINTS, TO BE INSPECT BY THE CUSTOMER
+Long stops For long stops where systems (HTF/Salt) are drained

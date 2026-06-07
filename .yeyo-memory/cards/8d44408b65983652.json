@@ -1,0 +1,39 @@
+{
+  "id": "8d44408b65983652",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-00-70-N005.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 1469479,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-AGE-00-70-N005",
+  "doc_code": "4521-PLN-AGE-00-70-N005",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/8d44408b65983652.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "agdamm",
+      "CreationDate": "D:20130221181113-07'00'",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Keywords": "",
+      "ModDate": "D:20130304153415-06'00'",
+      "Producer": "GPL Ghostscript 8.70",
+      "Subject": "",
+      "Title": "\\\\GILSOLFN01\\Groups\\AGE\\01 NtP Deliveries\\P&IDs\\P&IDs_FROM AEPC_2013_02_01\\P&IDs Rev FEB-2013\\4521-PLN-AGE-00-70-N005-Rev4 Pres"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.775139+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:58.796474+00:00"
+}

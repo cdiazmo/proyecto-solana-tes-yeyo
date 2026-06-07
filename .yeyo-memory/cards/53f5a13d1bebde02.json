@@ -1,0 +1,30 @@
+{
+  "id": "53f5a13d1bebde02",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201 Rev.0 Packing List - Heaters.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 107255,
+  "size_human": "105 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201 Rev.0 Packing List - Heaters",
+  "doc_code": null,
+  "revision": "Rev.0",
+  "status": "ok",
+  "text_chars": 1082,
+  "token_estimate": 270,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/53f5a13d1bebde02.json",
+  "extracted_path": ".yeyo-memory/extracted/53f5a13d1bebde02.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "a.lopez",
+      "CreationDate": "D:20210216104432+01'00'",
+      "Creator": "Microsoft® Excel® para Microsoft 365",
+      "ModDate": "D:20210421114020+02'00'",
+      "Producer": "Microsoft® Excel® para Microsoft 365"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:29.592324+00:00"
+}

@@ -1,0 +1,228 @@
+[sheet Front page ]
+ABEINSA
+List
+Title:
+Supports. HTF system supports list. Zone TES 6
+Client: ABENGOA SOLAR
+Project: Solana
+Document No.: | 4521-LIS-AEE-58-63-0001
+Revision: | Rev. 4
+Date: | 8/24/2018
+© This document belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express written consent of Abeinsa
+
+[sheet Second page]
+ABEINSA
+Issued by:
+Álvaro Gil Rodríguez. Project Engineer. AE | Electronic Signature
+Reviewed by:
+José Ignacio Núñez Gómez. Project Engineer. AE | Electronic Signature
+Approved by:
+José María Rodríguez León. Technical Manager | Electronic Signature
+© This document belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express written consent of Abeinsa
+
+[sheet Supports List]
+ABEINSA Abeinsa Engineering | ABENGOA SOLAR | Document status: Critical: | Revision | Date | Purpose | Reason for revision | Issued by | Reviewed by | Approved by | Notes: 1,- Axis reference: X = South ; Y = Elevation ; Z = West 2,-Orientation references: N = North; S = South; E = East; W = West; U =Up; D =Down 3,-For different values on spring definition choose always equal or lower spring rates, 4,-The modification by vendor of any design parameter should be approved by EPC responsible
+ABENER TEYMA SOLANA
+Solana project | 4521-LIS-AEE-58-63-0001 HTF system supports list. Zone TES 6 | 4 | 2018-08-24 00:00:00 | IFC | Updated | CAG | HR | IGA | Color code:
+3 | 07/31/2017 | IFP | AY comments | AGR | JNG | JMRL | New
+2 | 04/21/2017 | IFP | Updated | AGR | JNG | JMRL | Modification
+1 | 2017-12-04 00:00:00 | IFC | Updated | AGR | JNG | JMRL | Removed
+0 | 2017/23/03 | IFC | First emission | AGR | JNG | JMRL
+Support point information | Stress Conditions | Supporting Elements | Comments
+TES 6 | Support name | Revision | Line | DN (in) | Pipe Orientation (Flow Direction) | Temperature (ºF) | Insulation thickness (in) | Pipe spec, | Restrictions | Forces | Moment | Displacements | Atypical Elements (Y/N) | Atypical drawing code
+TES 6 | Fx (lb) | Fy (lb) | Fz (lb) | Fz(HYD) | Mx (ftlb) | My (ftlb) | Mz (ftlb) | dx(inch) | dy(inch) | dz(inch)
+252-HTF-16E-S-012 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid +YROD | 0 | -4784 | 0 | 0 | 0 | 0 | -1.0975 | 0 | -1.1168
+252-HTF-16E-S-011 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | CS30 | Rigid GUI; Rigid +Y | -8696 | -6658 | -1875 | 0 | 0 | 0 | 0 | 0 | -0.2289
+252-HTF-16E-S-010 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid +YROD | 0 | -6615 | 0 | 0 | 0 | 0 | 0.9011 | 0 | 2.0921
+252-HTF-16E-S-009 | 0 | 252-HTF-16E-CS30-20" | 20" | U | 750degF | 6.5 | CS30 | Rigid +Y | 1364 | -7133 | 1649 | 0 | 0 | 0 | 1.6056 | 0 | 2.1482
+252-HTF-16E-S-008 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid GUI; Rigid +Y | -4158 | -17310 | 4037 | 0 | 0 | 0 | 0 | 0 | 0.004
+252-HTF-16E-S-007 | 0 | 252-HTF-16E-CS30-20" | 20" | N | 750degF | 6.5 | CS30 | Rigid +Y | 1346 | -7856 | -1265 | 0 | 0 | 0 | 0.7505 | 0 | -0.4349
+252-HTF-16E-S-006 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid +Y | 1773 | -8164 | -1745 | 0 | 0 | 0 | 2.208 | 0 | -2.1048
+252-HTF-16E-S-005 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid +Y | 2872 | -10062 | 1456 | 0 | 0 | 0 | 2.3246 | 0 | 0.9933
+252-HTF-16E-S-004 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid GUI; Rigid +Y | 2440 | -8276 | -2385 | 0 | 0 | 0 | 0 | 0 | -2.1102
+252-HTF-16E-S-003 | 0 | 252-HTF-16E-CS30-20" | 20" | S | 750degF | 6.5 | CS30 | Rigid GUI; Rigid +Y | 1755 | -6002 | 12085 | 0 | 0 | 0 | 1.7262 | 0 | 0 | Y
+252-HTF-16E-S-002 | 0 | 252-HTF-16E-CS30-20" | 20" | S | 750degF | 6.5 | CS30 | Rigid LIM; Rigid +Y | -5044 | -7800 | -2340 | 0 | 0 | 0 | 0 | 0 | -0.5349 | Y
+252-HTF-16E-S-001 | 0 | 252-HTF-16E-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Prog Design VSH | 0 | -7114 | 0 | 0 | 0 | 0 | -0.9467 | -0.3279 | -0.5528 | Y
+252-HTF-12E-S-010 | 0 | 252-HTF-12E-CS30-20" | 20" | N | 750degF | 7 | CS30 | Rigid LIM | -3001 | -272 | 859 | 0 | 0 | 0 | 0 | -0.4985 | 2.739 | Y | Actualizar fuerzas/momentos/dist
+252-HTF-12E-S-009 | 0 | 252-HTF-12E-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y | 1138 | -6330 | 1355 | 0 | 0 | 0 | 1.7544 | 0 | 2.128
+252-HTF-12E-S-008 | 0 | 252-HTF-12E-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid GUI; Rigid LIM w/gap; Rigid +Y | -1133 | -9061 | 14021 | 0 | 0 | 0 | 0 | 0 | 0.07 | Y
+252-HTF-12E-S-007 | 0 | 252-HTF-12E-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid GUI w/gap; Rigid +Y | -4915 | -6934 | -2080 | 0 | 0 | 0 | -0.07 | 0 | -3.0611 | Actualizar fuerzas/momentos/dist
+252-HTF-12E-S-006 | 0 | 252-HTF-12E-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y | 2807 | -9691 | 1697 | 0 | 0 | 0 | 2.0328 | 0 | 1.5265
+252-HTF-12E-S-005 | 0 | 252-HTF-12E-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid GUI w/gap; Rigid +Y | 8161 | -7631 | -2289 | 0 | 0 | 0 | 0.07 | 0 | -2.7277
+252-HTF-12E-S-004 | 0 | 252-HTF-12E-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y | -1077 | -17284 | -5147 | 0 | 0 | 0 | -0.5194 | 0 | -3.9142 | Y
+252-HTF-12E-S-003 | 0 | 252-HTF-12E-CS30-20" | 20" | D | 750degF | 7 | CS30 | Rigid X w/gap | -5536 | 0 | 0 | 0 | 0 | 0 | -0.2 | 0.5497 | -3.4901
+252-HTF-12E-S-002 | 0 | 252-HTF-12E-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid LIM w/gap; Rigid GUI w/gap; Rigid +Y | 3470 | -7164 | 9056 | 0 | 0 | 0 | 0.07 | 2.6347 | 0.07 | Actualizar cargas
+YES | 212-HTF-05-S-016 | 0 | 212-HTF-05-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid +Y; Rigid GUI w/gap | 1488 | -10122 | 3029 | 0 | 0 | 0 | 0.07 | 0 | 0.9557
+YES | 212-HTF-05-S-012 | 0 | 212-HTF-05-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid +Y | -27 | -5825 | 37 | 0 | 0 | 0 | 2.3116 | 1.6299 | -2.3622
+YES | 212-HTF-05-S-013 | 0 | 212-HTF-05-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid GUI w/gap; Rigid +Y | 2120 | -4749 | -1200 | 0 | 0 | 0 | 0.07 | 0 | -0.5856
+YES | 212-HTF-05-S-014 | 0 | 212-HTF-05-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid +Y | -1839 | -7395 | -1440 | 0 | 0 | 0 | -1.742 | 0 | -1.4173
+YES | 212-HTF-05-S-015 | 0 | 212-HTF-05-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid GUI w/gap; Rigid +Y | -2652 | -5238 | -360 | 0 | 0 | 0 | -0.07 | 0 | -1.3569
+YES | 252-HTF-16F-S-012 | 0 | 252-HTF-16F-CS30-20" | 20" | N | 750degF | 6.5 | CS30 | Rigid +YROD | 0 | -5976 | 0 | 0 | 0 | 0 | 0.4645 | 0 | -0.3239
+YES | 252-HTF-16F-S-011 | 0 | 252-HTF-16F-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid GUI; Rigid +Y | 8370 | -8891 | 2432 | 0 | 0 | 0 | 0 | 0 | -0.0567
+YES | 252-HTF-16F-S-010 | 0 | 252-HTF-16F-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid +YROD | 0 | -6825 | 0 | 0 | 0 | 0 | -0.7495 | 0 | 2.1223
+YES | 252-HTF-16F-S-009 | 0 | 252-HTF-16F-CS30-20" | 20" | U | 750degF | 6.5 | CS30 | Rigid +Y | -1258 | -6656 | 1551 | 0 | 0 | 0 | -1.4427 | 0 | 2.1583
+YES | 252-HTF-16F-S-008 | 0 | 252-HTF-16F-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid GUI; Rigid +Y | 4056 | -17542 | 3652 | 0 | 0 | 0 | 0 | 0 | 0.0037
+YES | 252-HTF-16F-S-007 | 0 | 252-HTF-16F-CS30-20" | 20" | S | 750degF | 6.5 | CS30 | Rigid +Y | -1320 | -7836 | -1260 | 0 | 0 | 0 | -0.6397 | 0 | -0.4071
+YES | 252-HTF-16F-S-006 | 0 | 252-HTF-16F-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid +Y | -1792 | -8143 | -1720 | 0 | 0 | 0 | -2.2457 | 0 | -2.081
+YES | 252-HTF-16F-S-005 | 0 | 252-HTF-16F-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid +Y | -2871 | -10098 | 1458 | 0 | 0 | 0 | -2.3446 | 0 | 0.9905
+YES | 252-HTF-16F-S-004 | 0 | 252-HTF-16F-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Rigid GUI; Rigid +Y | -2548 | -8281 | -2384 | 0 | 0 | 0 | 0 | 0 | -2.108
+YES | 252-HTF-16F-S-003 | 0 | 252-HTF-16F-CS30-20" | 20" | N | 750degF | 6.5 | CS30 | Rigid GUI; Rigid +Y | -1752 | -6009 | 12092 | 0 | 0 | 0 | -1.7347 | 0 | 0 | Y
+YES | 252-HTF-16F-S-002 | 0 | 252-HTF-16F-CS30-20" | 20" | N | 750degF | 6.5 | CS30 | Rigid +Y; Rigid LIM | 5143 | -7833 | -2350 | 0 | 0 | 0 | 0 | 0 | -0.5375 | Y
+YES | 252-HTF-16F-S-001 | 0 | 252-HTF-16F-CS30-20" | 20" | E | 750degF | 6.5 | CS30 | Prog Design VSH | 0 | -7109 | 0 | 0 | 0 | 0 | 0.9533 | -0.3376 | -0.5591 | Y
+YES | 252-HTF-12F-S-002 | 0 | 252-HTF-12F-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid LIM w/gap; Rigid GUI w/gap; Rigid +Y | -3121 | -6793 | 7591 | 0 | 0 | 0 | -0.07 | 2.4646 | 0.07
+YES | 252-HTF-12F-S-003 | 0 | 252-HTF-12F-CS30-20" | 20" | D | 750degF | 7 | CS30 | Rigid X | 5440 | 0 | 0 | 0 | 0 | 0 | 0 | 0.5053 | -2.8807 | Y
+YES | 252-HTF-12F-S-004 | 0 | 252-HTF-12F-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y | 1003 | -17665 | -5275 | 0 | 0 | 0 | 0.3159 | 0 | -3.27 | Y
+YES | 252-HTF-12F-S-005 | 0 | 252-HTF-12F-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y; Rigid GUI w/gap | -7280 | -7783 | -2333 | 0 | 0 | 0 | -0.07 | 0 | -1.9458
+YES | 252-HTF-12F-S-006 | 0 | 252-HTF-12F-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y | -2697 | -10170 | 1326 | 0 | 0 | 0 | -1.9362 | 0 | 0.9552
+YES | 252-HTF-12F-S-007 | 0 | 252-HTF-12F-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y; Rigid GUI w/gap | 3493 | -7248 | -2172 | 0 | 0 | 0 | 0.07 | 0 | -3.0609 | Actualizar fuerzas/momentos/dist
+YES | 252-HTF-12F-S-008 | 0 | 252-HTF-12F-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid GUI; Rigid LIM w/gap; Rigid +Y | 299 | -9253 | 10072 | 0 | 0 | 0 | 0 | 0 | 0.07 | Y
+YES | 252-HTF-12F-S-009 | 0 | 252-HTF-12F-CS30-20" | 20" | W | 750degF | 7 | CS30 | Rigid +Y | -1215 | -6846 | 1457 | 0 | 0 | 0 | -1.7734 | 0 | 2.1279
+YES | 252-HTF-12F-S-010 | 0 | 252-HTF-12F-CS30-20" | 20" | S | 750degF | 7 | CS30 | User Design VSH | 0 | -12859 | 0 | 0 | 0 | 0 | 0.0055 | -0.4766 | 1.7401 | Y | Actualizar fuerzas/momentos/dist
+YES | 212-HTF-06-S-017 | 0 | 212-HTF-06-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid +Y; Rigid GUI w/gap | 2306 | -4784 | -453 | 0 | 0 | 0 | 0.07 | 0 | -1.4226
+YES | 212-HTF-06-S-015 | 0 | 212-HTF-06-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid +Y | 1953 | -7539 | -1319 | 0 | 0 | 0 | 1.6956 | 0 | -1.2084
+YES | 212-HTF-06-S-014 | 0 | 212-HTF-06-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid +Y; Rigid GUI w/gap | -1906 | -4692 | 1126 | 0 | 0 | 0 | 0.07 | 0 | -0.2845
+YES | 212-HTF-06-S-013 | 0 | 212-HTF-06-CS30-20" | 20" | W | 750degF | 6.5 | CS30 | Rigid +Y | 50 | -5873 | 45 | 0 | 0 | 0 | -2.0347 | 1.6302 | -2.0654
+YES | 252-HTF-21F-S-007 | 0 | 252-HTF-21F-CS30-8" | 8" | D | 750degF | 6 | CS30 | Rigid X w/gap | 524 | 0 | 0 | 0 | 0 | 0 | 0.07 | 0.3336 | 1.9854
+YES | 252-HTF-21F-S-008 | 0 | 252-HTF-21F-CS30-8" | 8" | E | 750degF | 6 | CS30 | Rigid +Y | -191 | -9993 | 2995 | 0 | 0 | 0 | -0.1678 | 0 | 1.8904
+YES | 252-HTF-21F-S-009 | 0 | 252-HTF-21F-CS30-8" | 8" | E | 750degF | 6 | CS30 | Rigid +Y; Rigid GUI w/gap | -603 | -1226 | 365 | 0 | 0 | 0 | -0.07 | 0 | 0.6102
+YES | 252-HTF-21F-S-010 | 0 | 252-HTF-21F-CS30-8" | 8" | E | 750degF | 6 | CS30 | Rigid +Y | 222 | -1372 | -388 | 0 | 0 | 0 | 0.3016 | 0 | -0.8324
+252-HTF-21E-S-007 | 0 | 252-HTF-21E-CS30-8" | 8" | D | 750degF | 6 | CS30 | Rigid X w/gap | -497 | 0 | 0 | 0 | 0 | 0 | -0.07 | 0.3507 | 1.9498
+252-HTF-21E-S-008 | 0 | 252-HTF-21E-CS30-8" | 8" | E | 750degF | 6 | CS30 | Rigid +Y | 168 | -9059 | 2715 | 0 | 0 | 0 | 0.1861 | 0 | 1.8658 | Actualizar cargas
+252-HTF-21E-S-009 | 0 | 252-HTF-21E-CS30-8" | 8" | E | 750degF | 6 | CS30 | Rigid GUI w/gap; Rigid +Y | 508 | -1251 | 372 | 0 | 0 | 0 | 0.07 | 0 | 0.575
+252-HTF-21E-S-010 | 0 | 252-HTF-21E-CS30-8" | 8" | E | 750degF | 6 | CS30 | Rigid +Y | -177 | -1347 | -377 | 0 | 0 | 0 | -0.2692 | 0 | -0.8575
+252-HTF-13E-S-001 | 0 | 252-HTF-13E-SS38-24" | 24" | U | 750degF | SS38 | User Design VSH | 0 | -10790 | 0 | 0 | 0 | 0 | -0.15 | 0.9065 | 4.7317 | Y
+YES | 252-HTF-13F-S-001 | 0 | 252-HTF-13F-SS38-24" | 24" | W | 750degF | SS38 | Rigid +Y | 309 | -4637 | 459 | 0 | 0 | 0 | -0.4597 | 0 | 3.9837 | Y
+YES | 252-HTF-13F-S-002 | 0 | 252-HTF-13F-SS38-24" | 24" | U | 750degF | SS38 | Rigid X w/gap | 1089 | 0 | 0 | 0 | 0 | 0 | 0.07 | 0.2652 | 4.3775 | Y
+
+[sheet Typical Supports]
+ABEINSA Abeinsa Engineering | ABENGOA SOLAR | Document status: Critical: | Revision | Date | Purpose | Reason for revision | Issued by | Reviewed by | Approved by | Notes: 1.- Axis reference: X = South ; Y = Elevation ; Z = West 2.-Orientation references: N = North; S = South; E = East; W = West; U =Up; D =Down 3.-For different values on spring definition choose always equal or lower spring rates, 4.-The modification by vendor of any design parameter should be approved by EPC responsible
+ABENER TEYMA SOLANA
+Solana project | 4521-LIS-AEE-58-63-0001 HTF system supports list. Zone TES 6 | 4 | 2018-08-24 00:00:00 | IFC | Updated | CAG | HR | IGA
+3 | 07/31/2017 | IFP | AY comments | AGR | JNG | JMRL
+2 | 04/21/2017 | IFP | Updated | AGR | JNG | JMRL
+1 | 2017-12-04 00:00:00 | IFC | Updated | AGR | JNG | JMRL
+0 | 2017/23/03 | IFC | First emission | AGR | JNG | JMRL
+Typical supports
+TES 6 | Support Name | Doc. Number | Typical | Support Code | Description | Comments | AEPC code
+YES | 252-HTF-12F-S-002_G07 | 4521-PLN-DOT-75-63-0263 | G07 | G07-45.20-0.07-B | Guide for triple shoe
+YES | 252-HTF-12F-S-002_P01 | 4521-PLN-DOT-75-63-0217 | P01 | P01-20-21.81-15.75-12.99-0-N-T | General Shoes
+YES | 252-HTF-12F-S-002_P10 | 4521-PLN-DOT-75-63-0237 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-002_P11 | 4521-PLN-DOT-75-63-0217 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-002_P12 | 4521-PLN-DOT-75-63-0244 | P12 | P12-20 | Non-rotating trunnion
+YES | 252-HTF-12F-S-003_G01 | 4521-PLN-DOT-75-63-0264 | G01 | G01-7-0.2-E | Guide for shoe
+YES | 252-HTF-12F-S-003_P01 | 4521-PLN-DOT-75-63-0209 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-12F-S-003_P10 | 4521-PLN-DOT-75-63-0235 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-003_P11 | 4521-PLN-DOT-75-63-0209 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-004_P10 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-004_T04 | 4521-PLN-DOT-75-63-0259 | T04 | T04-20-16-20-A-Y | Trunnion base to elbow
+YES | 252-HTF-12F-S-005_G07 | 4521-PLN-DOT-75-63-0256 | G07 | G07-30 -0.07-B | Guide for triple shoe
+YES | 252-HTF-12F-S-005_P01 | 4521-PLN-DOT-75-63-0219 | P01 | P01-20-21.81-15.75-12.99-0-N-T | General Shoes
+YES | 252-HTF-12F-S-005_P10 | 4521-PLN-DOT-75-63-0226 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-005_P11 | 4521-PLN-DOT-75-63-0219 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-006_P01 | 4521-PLN-DOT-75-63-0218 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-12F-S-006_P10 | 4521-PLN-DOT-75-63-0236 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-006_P11 | 4521-PLN-DOT-75-63-0218 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-007_E16 | 4521-PLN-DOT-75-63-0258 | E16 | E16-84.6-13.3-9.29-B-D-A | Frame (H Profile)
+YES | 252-HTF-12F-S-007_G01 | 4521-PLN-DOT-75-63-0255 | G01 | G01-4 -0.07-E | Guide for shoe
+YES | 252-HTF-12F-S-007_P01 | 4521-PLN-DOT-75-63-0213 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-12F-S-007_P10 | 4521-PLN-DOT-75-63-0238 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-007_P11 | 4521-PLN-DOT-75-63-0213 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-007_P12 | 4521-PLN-DOT-75-63-0243 | P12 | P12-20 | Non-rotating trunnion
+YES | 252-HTF-12F-S-008_L01 | 4521-PLN-DOT-75-63-0252 | L01 | L01-4 -0-C | Limit from shoe base
+YES | 252-HTF-12F-S-008_P01 | 4521-PLN-DOT-75-63-0215 | P01 | P01-20-21.81-15.75-12.99-0-N-T | General Shoes
+YES | 252-HTF-12F-S-008_P10 | 4521-PLN-DOT-75-63-0230 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-008_P11 | 4521-PLN-DOT-75-63-0215 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-008_P12 | 4521-PLN-DOT-75-63-0242 | P12 | P12-20 | Non-rotating trunnion
+YES | 252-HTF-12F-S-009_E08 | 4521-PLN-DOT-75-63-0261 | E08 | E08-25.5/16-30-15-B-E-A | T Support (H Profile)
+YES | 252-HTF-12F-S-009_P01 | 4521-PLN-DOT-75-63-0212 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-12F-S-009_P10 | 4521-PLN-DOT-75-63-0231 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-009_P11 | 4521-PLN-DOT-75-63-0212 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-010_L03 | 4521-PLN-DOT-75-63-0251 | L03 | L03-8-0-A | Limit from longitudinal beam
+YES | 252-HTF-12F-S-010_P01 | 4521-PLN-DOT-75-63-0214 | P01 | P01-20-21.81-22.24-12.99-0-N-R | General Shoes
+YES | 252-HTF-12F-S-010_P10 | 4521-PLN-DOT-75-63-0232 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-12F-S-010_P11 | 4521-PLN-DOT-75-63-0214 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-12F-S-010_S01 | 4521-PLN-DOT-75-63-0248 | S01 | S01-20-14.17-D-N-N | Variable Spring
+YES | 252-HTF-13F-S-001_T04 | 4521-PLN-DOT-75-63-0270 | T04 | T04-24-14-35.9-A-N | Trunnion base to elbow
+YES | 252-HTF-13F-S-002_G04 | 4521-PLN-DOT-75-63-0271 | G04 | G04-5-0.08 | Anti-Lift Guide
+YES | 252-HTF-13F-S-002_P10 | 4521-PLN-DOT-75-63-0271 | P10 | P10-24-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-001_P01 | 4521-PLN-DOT-75-63-0220 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-16F-S-001_P10 | 4521-PLN-DOT-75-63-0239 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-001_P11 | 4521-PLN-DOT-75-63-0220 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-001_S01 | 4521-PLN-DOT-75-63-0247 | S01 | S01-20-12-D-N-N | Variable Spring
+YES | 252-HTF-16F-S-002_L01 | 4521-PLN-DOT-75-63-0252 | L01 | L01-4 -0-C | Limit from shoe base
+YES | 252-HTF-16F-S-002_P01 | 4521-PLN-DOT-75-63-0221 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-16F-S-002_P10 | 4521-PLN-DOT-75-63-0240 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-002_P11 | 4521-PLN-DOT-75-63-0221 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-002_P12 | 4521-PLN-DOT-75-63-0246 | P12 | P12-20 | Non-rotating trunnion
+YES | 252-HTF-16F-S-003_P01 | 4521-PLN-DOT-75-63-0211 | P01 | P01-20-21.81-15.75-12.99-0-N-T | General Shoes
+YES | 252-HTF-16F-S-003_P10 | 4521-PLN-DOT-75-63-0233 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-003_P11 | 4521-PLN-DOT-75-63-0211 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-004_G01 | 4521-PLN-DOT-75-63-0254 | G01 | G01-4 -0-E | Guide for shoe
+YES | 252-HTF-16F-S-004_P01 | 4521-PLN-DOT-75-63-0216 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-16F-S-004_P10 | 4521-PLN-DOT-75-63-0234 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-004_P11 | 4521-PLN-DOT-75-63-0216 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-004_P12 | 4521-PLN-DOT-75-63-0245 | P12 | P12-20 | Non-rotating trunnion
+YES | 252-HTF-16F-S-005_P01 | 4521-PLN-DOT-75-63-0206 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-16F-S-005_P10 | 4521-PLN-DOT-75-63-0225 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-005_P11 | 4521-PLN-DOT-75-63-0206 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-006_P01 | 4521-PLN-DOT-75-63-0207 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-16F-S-006_P10 | 4521-PLN-DOT-75-63-0228 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-006_P11 | 4521-PLN-DOT-75-63-0207 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-007_E16 | 4521-PLN-DOT-75-63-0260 | E16 | E16-39.03-19.51-10.60-1.97-B-A-B | Frame (H Profile)
+YES | 252-HTF-16F-S-007_P01 | 4521-PLN-DOT-75-63-0208 | P01 | P01-20-21.81-15.75-12.99-0-N-S | General Shoes
+YES | 252-HTF-16F-S-007_P10 | 4521-PLN-DOT-75-63-0227 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-007_P11 | 4521-PLN-DOT-75-63-0208 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-008_G01 | 4521-PLN-DOT-75-63-0257 | G01 | G01-4 -0-E | Guide for shoe
+YES | 252-HTF-16F-S-008_P01 | 4521-PLN-DOT-75-63-0203 | P01 | P01-20-21.81-15.55-12.99-0-N-S | General Shoes
+YES | 252-HTF-16F-S-008_P10 | 4521-PLN-DOT-75-63-0229 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-008_P11 | 4521-PLN-DOT-75-63-0203 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-008_P12 | 4521-PLN-DOT-75-63-0241 | P12 | P12-20 | Non-rotating trunnion
+YES | 252-HTF-16F-S-009A_P01 | 4521-PLN-DOT-75-63-0204 | P01 | P01-12-16.22-13.39-9.76-0-N-S | General Shoes
+YES | 252-HTF-16F-S-009A_P10 | 4521-PLN-DOT-75-63-0223 | P10 | P10-12-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-009A_P11 | 4521-PLN-DOT-75-63-0204 | P11 | P11-9.76 | Round bar
+YES | 252-HTF-16F-S-009A_T01 | 4521-PLN-DOT-75-63-0249 | T01 | T01-20-12-48.69-32.75-180-Y | Trunnion on straight pipe
+YES | 252-HTF-16F-S-009B_P01 | 4521-PLN-DOT-75-63-0205 | P01 | P01-12-16.22-13.39-9.76-0-N-S | General Shoes
+YES | 252-HTF-16F-S-009B_P10 | 4521-PLN-DOT-75-63-0224 | P10 | P10-12-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-009B_P11 | 4521-PLN-DOT-75-63-0205 | P11 | P11-9.76 | Round bar
+YES | 252-HTF-16F-S-009B_T01 | 4521-PLN-DOT-75-63-0250 | T01 | T01-20-12-48.69-32.75-0-Y | Trunnion on straight pipe
+YES | 252-HTF-16F-S-010_H01 | 4521-PLN-DOT-75-63-0202 | H01 | H01-20-173.82-Y-N | Single hanger
+YES | 252-HTF-16F-S-011_G07 | 4521-PLN-DOT-75-63-0262 | G07 | G07-45.20-0-B | Guide for triple shoe
+YES | 252-HTF-16F-S-011_P01 | 4521-PLN-DOT-75-63-0210 | P01 | P01-20-21.81-15.75-12.99-0-N-T | General Shoes
+YES | 252-HTF-16F-S-011_P10 | 4521-PLN-DOT-75-63-0222 | P10 | P10-20-0.20 | Microtherm Sheet
+YES | 252-HTF-16F-S-011_P11 | 4521-PLN-DOT-75-63-0210 | P11 | P11-12.99 | Round bar
+YES | 252-HTF-16F-S-012_H01 | 4521-PLN-DOT-75-63-0201 | H01 | H01-20-64-Y-N | Single hanger
+YES | 252-HTF-21E-S-007_G04 | 4521-PLN-DOT-75-63-0269 | G04 | G04-2.25-0.07 | Anti-Lift Guide
+YES | 252-HTF-21F-S-007_G04 | 4521-PLN-DOT-75-63-0265 | G04 | G04-2.25-0.07 | Anti-Lift Guide
+YES | 252-HTF-21F-S-007_P01 | 4521-PLN-DOT-75-63-0265 | P01 | P01-8-14.17-12.80-8.27-0-N-S | General Shoes
+YES | 252-HTF-21F-S-007_P10 | 4521-PLN-DOT-75-63-0265 | P10 | P10-21.81-0.20 | Microtherm Sheet
+YES | 252-HTF-21F-S-008_E16 | 4521-PLN-DOT-75-63-0266 | E16 | E16-44-22-86-3-B-E-B | Frame (H Profile)
+YES | 252-HTF-21F-S-008_P01 | 4521-PLN-DOT-75-63-0266 | P01 | P01-8-14.17-12.80-8.27-0-N-S | General Shoes
+YES | 252-HTF-21F-S-008_P10 | 4521-PLN-DOT-75-63-0266 | P10 | P10-8-0.20 | Microtherm Sheet
+YES | 252-HTF-21F-S-008_P11 | 4521-PLN-DOT-75-63-0266 | P11 | P11-8.27 | Round bar
+YES | 252-HTF-21F-S-009_E08 | 4521-PLN-DOT-75-63-0267 | E08 | E08-79-22-11-B-F-B-Y | T Support (H Profile)
+YES | 252-HTF-21F-S-009_G01 | 4521-PLN-DOT-75-63-0267 | G01 | G01-4-0.07-E | Guide for shoe
+YES | 252-HTF-21F-S-009_P01 | 4521-PLN-DOT-75-63-0267 | P01 | P01-8-14.17-12.80-8.27-0-N-S | General Shoes
+YES | 252-HTF-21F-S-009_P10 | 4521-PLN-DOT-75-63-0267 | P10 | P10-8-0.20 | Microtherm Sheet
+YES | 252-HTF-21F-S-009_P11 | 4521-PLN-DOT-75-63-0267 | P11 | P11-8.27 | Round bar
+YES | 252-HTF-21F-S-010_E08 | 4521-PLN-DOT-75-63-0268 | E08 | E08-74-22-11-B-F-B-Y | T Support (H Profile)
+YES | 252-HTF-21F-S-010_P01 | 4521-PLN-DOT-75-63-0268 | P01 | P01-8-14.17-12.80-8.27-0-N-S | General Shoes
+YES | 252-HTF-21F-S-010_P10 | 4521-PLN-DOT-75-63-0268 | P10 | P10-8-0.20 | Microtherm Sheet
+YES | 252-HTF-21F-S-010_P11 | 4521-PLN-DOT-75-63-0268 | P11 | P11-8.27 | Round bar
+
+[sheet Springs List]
+ABEINSA Abeinsa Engineering | ABENGOA SOLAR | Document status: Critical: | Revision | Date | Purpose | Reason for revision | Issued by | Reviewed by | Approved by
+ABENER TEYMA SOLANA
+Solana project | 4521-LIS-AEE-58-63-0001 HTF system supports list. Zone TES 6 | 4 | 2018-08-24 00:00:00 | IFC | Updated | CAG | HR | IGA
+3 | 07/31/2017 | IFP | AY comments | AGR | JNG | JMRL
+2 | 04/21/2017 | IFP | Updated | AGR | JNG | JMRL
+1 | 2017-12-04 00:00:00 | IFC | Updated | AGR | JNG | JMRL
+0 | 2017/23/03 | IFC | First emission | AGR | JNG | JMRL
+Springs List | Notes: 1,- Axis reference: X = South ; Y = Elevation ; Z = West 2,-Orientation references: N = North; S = South; E = East; W = West; U =Up; D =Down 3,-For different values on spring definition choose always equal or lower spring rates, 4,-The modification by vendor of any design parameter should be approved by EPC responsible 5.- Normal Operation (Fy, Dy): Data obtained from the spring normal operation case. 6.- Max Operation (Fy, Dy): Data obtained from the spring operation case which maximize the spring travel. Accidental cases are included (wind, earthquake…etc)
+Support Name | H (inch) | Spring Type | Spring rate (lbs/inch) | Cold load (lb) | Hot load (lb) | Comments
+252-HTF-16E-S-001 | 12.00 | User Design VSH | 3045 | -6115 | -7114
+252-HTF-12E-S-010 | 14.17 | User Design VSH | 708 | -10167 | -12443
+252-HTF-16F-S-001 | 12 | User Design VSH | 3045 | -6081 | -7109
+252-HTF-12F-S-010 | 14.17 | User Design VSH | 708 | -10682 | -12859
+252-HTF-13E-S-001 | 27.47 | User Design VSH | 18 | 5395 | -10599 | 2 units
+-2177
+-3.074858757062147

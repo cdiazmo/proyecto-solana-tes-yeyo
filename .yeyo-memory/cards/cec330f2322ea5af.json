@@ -1,0 +1,343 @@
+{
+  "id": "cec330f2322ea5af",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-64-0001_R2 Globe valves specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 2965033,
+  "size_human": "2.8 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-64-0001 R2 Globe valves specification",
+  "doc_code": "4521-ESP-AGE-39-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 247398,
+  "token_estimate": 61849,
+  "chunks": 157,
+  "card_path": ".yeyo-memory/cards/cec330f2322ea5af.json",
+  "extracted_path": ".yeyo-memory/extracted/cec330f2322ea5af.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1013,
+        "non_empty_rows": 21
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 69,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 72,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index",
+        "rows_seen": 102,
+        "non_empty_rows": 72
+      },
+      {
+        "name": "FV-125105",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-125105 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-225105",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-225105 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-325105",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-325105 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-425105",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-425105 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-525105",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-525105 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-625105",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-625105 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-125121",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-125121 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-225121",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-225121 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-325121",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-325121 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-425121",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-425121 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-525121",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-525121 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-625121",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-625121 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-125205",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-125205 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-225205",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-225205 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-325205",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-325205 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-425205",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-425205 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-525205",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-525205 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-625205",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-625205 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "FV-125218",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-125218 Notes",
+        "rows_seen": 63,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "FV-225218",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-225218 Notes",
+        "rows_seen": 63,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "FV-325218",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-325218 Notes",
+        "rows_seen": 63,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "FV-425218",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-425218 Notes",
+        "rows_seen": 63,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "FV-525218",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-525218 Notes",
+        "rows_seen": 63,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "FV-625218",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-625218 Notes",
+        "rows_seen": 63,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "FV-125221",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-125221 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-225221",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-225221 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-325221",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-325221 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-425221",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-425221 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-525221",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-525221 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "FV-625221",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "FV-625221 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 44
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:06.622670+00:00"
+}

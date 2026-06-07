@@ -1,0 +1,31 @@
+{
+  "id": "6d974b1e7b973e58",
+  "path": "04 GD Fabricacon LOI TES 3/Procedimientos calidad/1950201-PRX-001.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 717242,
+  "size_human": "700 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PRX-001",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 89921,
+  "token_estimate": 22480,
+  "chunks": 57,
+  "card_path": ".yeyo-memory/cards/6d974b1e7b973e58.json",
+  "extracted_path": ".yeyo-memory/extracted/6d974b1e7b973e58.txt",
+  "metadata": {
+    "pages": 51,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20191213114622+01'00'",
+      "Creator": "Adobe Acrobat Pro 2017 17.11.30156",
+      "ModDate": "D:20191213114622+01'00'",
+      "Producer": "Adobe Acrobat Pro 2017 17.11.30156",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:33.680258+00:00"
+}

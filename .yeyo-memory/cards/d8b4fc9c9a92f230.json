@@ -1,0 +1,39 @@
+{
+  "id": "d8b4fc9c9a92f230",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0029_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 45000,
+  "size_human": "44 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0029 R1",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 19160,
+  "token_estimate": 4790,
+  "chunks": 12,
+  "card_path": ".yeyo-memory/cards/d8b4fc9c9a92f230.json",
+  "extracted_path": ".yeyo-memory/extracted/d8b4fc9c9a92f230.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120628131213-05'00'",
+      "ModDate": "D:20120628131213-05'00'",
+      "Title": "4521-ESP-AGE-39-70-0029 Hydrocarbon Analysis transmitter_",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.957545+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.957547+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b59793527f6e5499",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0010_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 101223,
+  "size_human": "99 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-57-70-0010 R1",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11738,
+  "token_estimate": 2934,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/b59793527f6e5499.json",
+  "extracted_path": ".yeyo-memory/extracted/b59793527f6e5499.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110923112947-05'00'",
+      "ModDate": "D:20110923112947-05'00'",
+      "Title": "4521-ESP-AGE-57-70-0010 Inclinometer Mounting Plate Specification_Rev.1",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.231157+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:01.231159+00:00"
+}

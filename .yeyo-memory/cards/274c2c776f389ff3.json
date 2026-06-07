@@ -1,0 +1,36 @@
+{
+  "id": "274c2c776f389ff3",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-ANC-00-70-N002.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 76121,
+  "size_human": "74 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-ANC-00-70-N002",
+  "doc_code": "4521-PLN-ANC-00-70-N002",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 8373,
+  "token_estimate": 2093,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/274c2c776f389ff3.json",
+  "extracted_path": ".yeyo-memory/extracted/274c2c776f389ff3.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD LT 2013 - English 2013 (19.0s (LMS Tech))",
+      "Title": "Presentacion",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "CreationDate": "D:20121016161829",
+      "ModDate": "D:20121016161829"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.790847+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:53.790850+00:00"
+}

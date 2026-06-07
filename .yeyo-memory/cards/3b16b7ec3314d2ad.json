@@ -1,0 +1,107 @@
+{
+  "id": "3b16b7ec3314d2ad",
+  "path": "01 GD AE/Tuberia/LIS/4521-LIS-AEE-00-65-0001-GAR_rev01_HEX replacement MTO.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 531823,
+  "size_human": "519 KB",
+  "mtime_iso": "2026-06-05T06:22:00.000Z",
+  "title": "4521-LIS-AEE-00-65-0001-GAR rev01 HEX replacement MTO",
+  "doc_code": "4521-LIS-AEE-00-65-0001",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 115,
+  "token_estimate": 28,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/3b16b7ec3314d2ad.json",
+  "extracted_path": ".yeyo-memory/extracted/3b16b7ec3314d2ad.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-LIS-AEE-00-65-0001-GAR_rev01_HEX replacement MTO.pdf",
+      "4521-LIS-AEE-00-65-0001-GAR_rev01_HEX replacement MTO.xls"
+    ],
+    "archive_total_uncompressed_bytes": 1432945,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::79",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 79,
+        "doc_code": "4521-LIS-AEE-00-65-0001-GAR",
+        "title": "Piping MTO IFP",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-24 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::116",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 116,
+        "doc_code": "4521-LIS-AEE-00-65-0001-GAR-rev01-HEX replacement MTO",
+        "title": "",
+        "revision": "4521-LIS-AEE-00-65-0001-GAR_rev01_HEX replacement MTO",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::79",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 79,
+        "doc_code": "4521-LIS-AEE-00-65-0001-GAR",
+        "title": "Piping MTO IFP",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-24 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::73",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 73,
+        "doc_code": "4521-LIS-AEE-00-65-0001-GAR",
+        "title": "HEX replacement MTO",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "PIP"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::116",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 116,
+        "doc_code": "4521-LIS-AEE-00-65-0001-GAR-rev01-HEX replacement MTO",
+        "title": "",
+        "revision": "4521-LIS-AEE-00-65-0001-GAR_rev01_HEX replacement MTO",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::118",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 118,
+        "doc_code": "4521-LIS-AEE-00-65-0001-GAR-rev01-HEX replacement MTO",
+        "title": "",
+        "revision": "4521-LIS-AEE-00-65-0001-GAR_rev01_HEX replacement MTO",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:31.491347+00:00"
+}

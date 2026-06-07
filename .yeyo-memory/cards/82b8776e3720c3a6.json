@@ -1,0 +1,33 @@
+{
+  "id": "82b8776e3720c3a6",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Flowserve/TTN-KAS-56456_Technical Proposal_Rev0 commented AEPC.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 3915088,
+  "size_human": "3.7 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "TTN-KAS-56456 Technical Proposal Rev0 commented AEPC",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 36628,
+  "token_estimate": 9157,
+  "chunks": 24,
+  "card_path": ".yeyo-memory/cards/82b8776e3720c3a6.json",
+  "extracted_path": ".yeyo-memory/extracted/82b8776e3720c3a6.txt",
+  "metadata": {
+    "pages": 23,
+    "pdf_metadata": {
+      "Author": "skarthick",
+      "CreationDate": "D:20160920161208-04'00'",
+      "Creator": "PDFCreator Version 1.3.0",
+      "Keywords": "",
+      "ModDate": "D:20161007125747+02'00'",
+      "Producer": "GPL Ghostscript 9.05",
+      "Subject": "",
+      "Title": "Molten Salt Pumps_Technical Proposal Template"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:11:57.380742+00:00"
+}

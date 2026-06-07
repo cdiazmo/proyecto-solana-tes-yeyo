@@ -1,0 +1,38 @@
+{
+  "id": "8e247cc3f5b75c1b",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180404/Sellado/S3.1  04_04_2018.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 1158103,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "S3.1 04 04 2018",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 10479,
+  "token_estimate": 2619,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/8e247cc3f5b75c1b.json",
+  "extracted_path": ".yeyo-memory/extracted/8e247cc3f5b75c1b.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180404160925-05'00'",
+      "Creator": "AutoCAD 2017 - English 2017 (21.0s (LMS Tech))",
+      "ModDate": "D:20180404161056-05'00'",
+      "Producer": "Acrobat Distiller 18.0 (Windows)",
+      "Title": "S3.1"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.819633+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:58.819635+00:00"
+}

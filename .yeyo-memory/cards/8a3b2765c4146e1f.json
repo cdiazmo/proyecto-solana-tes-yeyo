@@ -1,0 +1,30 @@
+{
+  "id": "8a3b2765c4146e1f",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS51.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 108812,
+  "size_human": "106 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS51",
+  "doc_code": "4521-ESP-ANC-68-61-CS51",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5298,
+  "token_estimate": 1324,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/8a3b2765c4146e1f.json",
+  "extracted_path": ".yeyo-memory/extracted/8a3b2765c4146e1f.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100517142407",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-CS51 - General Water Service - Class 15…"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:36.948901+00:00"
+}

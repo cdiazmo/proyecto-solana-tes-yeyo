@@ -1,0 +1,30 @@
+{
+  "id": "e5e0a307775873a6",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS21.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 112658,
+  "size_human": "110 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-SS21",
+  "doc_code": "4521-ESP-ANC-68-61-SS21",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4022,
+  "token_estimate": 1005,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/e5e0a307775873a6.json",
+  "extracted_path": ".yeyo-memory/extracted/e5e0a307775873a6.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100805102031",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-SS21 - Lube Oil Class 150 304SS"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.847207+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ca38b5e07ebd55dd",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0011_R1 RF Capacitance Gap Switch.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 525112,
+  "size_human": "513 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-70-0011 R1 RF Capacitance Gap Switch",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 16293,
+  "token_estimate": 4073,
+  "chunks": 11,
+  "card_path": ".yeyo-memory/cards/ca38b5e07ebd55dd.json",
+  "extracted_path": ".yeyo-memory/extracted/ca38b5e07ebd55dd.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet (1)",
+        "rows_seen": 1008,
+        "non_empty_rows": 20
+      },
+      {
+        "name": "Cover Sheet (2)",
+        "rows_seen": 1007,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Coversheet (3)",
+        "rows_seen": 1011,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 53,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "LS 204-02A",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "LS 204-02B",
+        "rows_seen": 64,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 21
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:24.629652+00:00"
+}

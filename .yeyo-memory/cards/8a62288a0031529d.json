@@ -1,0 +1,76 @@
+{
+  "id": "8a62288a0031529d",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-ANC-00-50-C001.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 485598,
+  "size_human": "474 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-ANC-00-50-C001",
+  "doc_code": "4521-PLN-ANC-00-50-C001",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/8a62288a0031529d.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20120709172332-07'00'",
+      "Creator": "Adobe Acrobat 7.1",
+      "Producer": "Adobe Acrobat 7.1 Image Conversion Plug-in",
+      "ModDate": "D:20120709172332-07'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.640253+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::47",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 47,
+        "doc_code": "4521-PLN-ANC-00-50-C001 - Anchor Rod Assemblies and Details",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::50",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 50,
+        "doc_code": "4521-PLN-ANC-00-50-C001 - Anchor Rod Assemblies and Details",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::50",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 50,
+        "doc_code": "4521-PLN-ANC-00-50-C001 - Anchor Rod Assemblies and Details",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:58.661995+00:00"
+}

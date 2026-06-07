@@ -1,0 +1,99 @@
+[page 1]
+JMJG JMRL
+JMJG JMRL
+1/1 JMJG JMRL
+Sheet Revised Approved
+ 
+1
+Line/Equipment
+1 P&ID/sheet/zone Function
+Stamp required: Yes Haz. Class. Class I Div 2 Group D
+ 
+2
+10% Back pressure (psig) NA
+ 
+3
+Nozzle type
+Lifting lever No Test gag *
+ 
+4
+Faces
+STD / (8) BW
+STD / (8) BW
+ 
+5
+ 
+6
+ 
+7
+ 
+8
+A = ('') 
+B = ('') 
+C = ('') 
+WEIGHT = (lb) 
+9
+(*) Information must be supplied by the supplier. 
+(1) Valve seat tightness shall be tested according to API Standard 527.
+(2) One valve per line for a total amount of six valves, one for each of the indicated P&ID.
+(3) To be confirmed by supplier
+(4) According to API 526
+(5) Valve #1: 252-HTF-12A-CS30-8'' ; Valve #2: 252-HTF-12B-CS30-8''; Valve #3: 252-HTF-12C-CS30-8'' ; Valve #4: 252-HTF-12D-CS30-8'';Valve #5: 252-HTF-12E-CS30-8'' ; Valve #6: 252-HTF-12F-CS30-8''
+(6) Valve #1: 4521-PLN-ANC-68-71-P252 ; Valve #2: 4521-PLN-ANC-68-71-P262; Valve #3: 4521-PLN-ANC-68-71-P265 ; Valve #4: 4521-PLN-ANC-68-71-P268;Valve #5: 4521-PLN-ANC-68-71-P271 ; Valve #6: 4521-PLN-ANC-68-71-P274
+(7) The NN variable in the tagging depends on which TES system is the valves to be installed. A for TES1, B for TES 2 and so forth untill F for TES 6.
+(8) Carbon Steel ASTM A-53 or API 5L grade "B"
+ABENGOA
+Abeinsa EngineeringArizona 
+Solar One Pressure Safety Valve Datasheet
+01 06/02/2017
+02 18/04/2017 PMG IFP
+PMG IFB - corrected process data
+4521-HDD-AEE-00-64-0001-GAR
+00 16/12/2016 PMG Issued for Bid
+Revision Date Prepared Purpose
+General
+Nº Item (tag) 252-HTF-14NN-V-RE-01 (7) Manufacturer *
+Design code API 520/521 Noise level (dBA) <85 dB
+Service (cont.inter.) Intermittent (5) Model *
+43,4 / 44,4
+Maximum operating temperature (ºF) 737 Viscosity (at design/max. temp.) (lb /ft-h) 0,356 / 0,365
+Quantity (2) (6) Thermal relief valve Installation Welded
+145 / 142
+Mass flow calculated at maximum operating P,T (lb/h) 612633 Maximum operation pressure (psig) 219,5
+Operating conditions
+Fluid
+Type of fluid HTF Density (at design/max. temp.) (lb/ft 3)
+320 Max. allowable overpressure (%) Constant 159,3 Variable
+Design temperature (ºF) 750 Vapor Pressure (at design/max. temp.) (psia) 
+Blowdown (% or psig) N/A
+Construction data and accesories
+Type Conventional Metal seated Full Bonnet type Closed
+Set pressure (psig)
+Cap Screwed Yes Number of adjusting rings Bellows No
+Remarks: (1)
+Connections
+Line End connections
+Size Schedule & 
+Material
+Flanged Welded ThreadedType of flange
+Inlet 4''
+Outlet 6''
+Materials
+Body and bonnet A 216 WCB Disc A-479 316L Studs & nuts *
+Seat (nozzle) A-351 CF8M Spring High temperature alloy steel Bellows *
+Spindle AISI 416 Guide * Gaskets *
+Orifice
+Specification Supplier
+Calculated area (in 2) 4,175 (3) *
+Selected area (in 2) 4,34 (3) (5) *
+Orifice designation N (3) *
+Calculation formula * *
+Pilot operated valves
+Design type Piston Number of pilots * Pilot type N/A
+Pilot action N/A Pilot sense N/A
+Dimensions and weights
+*
+*
+*
+Notes
+*

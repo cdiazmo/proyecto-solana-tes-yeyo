@@ -1,0 +1,130 @@
+[page 1]
+Job: Document:4521-LIS-AEE-39-61-0001-GAR
+Item No.: No. Req'd:
+Project: Solana
+Ref.: Issue: Dated:
+0 15/12/2016 RDA JMJG JRL
+1 13/01/2017 RDA JMJG JRL
+2 07/04/2017 RDA JMJG JRL
+Rev. Date By Chk'd App'd Description
+Rev System Code NPS Schedule Class Material Specification Fluid Mass Flow (LBM/HR) Max. Values Test pressure Heat insulation Heat tracing temperature Notes Comments 
+From To Pressure (psi.a) T (oF) T (ºF) Pressure (psi.g) T (oF) Pressure (psi.g) Thickness (in) T (oF)
+0-GAR TES 1 - 2 252-MS-60A-CS31-24" 4521-PLN-AGE-68-71-P252 and P262 HTF to salt heat exchanger - UNIT 1 / UNIT 2 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-13A-CS31-24' 252-MS-13B-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 3 - 4 252-MS-60C-CS31-24" 4521-PLN-AGE-68-71-P265 and P268 HTF to salt heat exchanger - UNIT 3 / UNIT 4 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-13C-CS31-24' 252-MS-13D-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 5 - 6 252-MS-60E-CS31-24" 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 5 / UNIT 6 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-13E-CS31-24' 252-MS-13F-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 - 2 253-MS-60A-CS31-24" 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 1 / UNIT 2 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-14A-CS31-24' 252-MS-14B-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 3 - 4 253-MS-60C-CS31-24" 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 3 / UNIT 4 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-14C-CS31-24' 252-MS-14D-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 5 - 6 253-MS-60E-CS31-24" 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 5 / UNIT 6 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-14E-CS31-24' 252-MS-14F-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-MS-03NN-CS31-24' 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 1 (...UNIT 6) 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-13NN-CS31-24' 0-MX-251A 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-MS-04NN-CS31-24' 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 1 (...UNIT 6) 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 252-MS-14NN-CS31-24' 0-MX-251F 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-MS-13NN-CS31-24' 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 1 (...UNIT 6) 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 251-MS-01NN-CS31-20'' 252-MS-03NN-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-MS-14NN-CS31-24' 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 1 (...UNIT 6) 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 253-MS-01NN-CS31-20'' 252-MS-04NN-CS31-24' 131 730 730 160 750 240 7 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-HTF-16NN-CS30-20" 4521-PLN-AGE-68-71-P271-GAR; (...P274-GAR) HTF to salt heat exchanger - UNIT 1 20" STD 300 Carbon Steel CS30 HTF (Oil) 4083090 0-MX-251A (3) 252-HTF-10NN-CS30-20" 233 583 583 350 750 525 6 1/2 530 Heat Tracing, Electrical, E&I
+Will connect the Shell & Tube HEX, replacing the same 
+previous line that used to be connected to the Plate heat 
+exchanger, once this plate HEX be out of service.
+0-GAR TES 1 252-HTF-12A-CS30-20" 4521-PLN-AGE-68-71-P252-GAR HTF to salt heat exchanger - UNIT 1 20" STD 300 Carbon Steel CS30 HTF (Oil) 4083090 210-HTF-05-CS30-20" 1-MX-251F 233 737,6 739,4 350 750 525 7" 530 Heat Tracing, Electrical, E&I
+Will connect the Shell & Tube HEX, replacing the same 
+previous line that used to be connected to the Plate heat 
+exchanger, once this plate HEX be out of service.
+0-GAR TES 2 252-HTF-12B-CS30-20" 4521-PLN-AGE-68-71-P262-GAR HTF to salt heat exchanger - UNIT 2 20" STD 300 Carbon Steel CS30 HTF (Oil) 4083090 210-HTF-06-CS30-20" 2-MX-251F 233 737,6 737,6 350 750 525 7" 530 Heat Tracing, Electrical, E&I
+Will connect the Shell & Tube HEX, replacing the same 
+previous line that used to be connected to the Plate heat 
+exchanger, once this plate HEX be out of service.
+0-GAR TES 3 252-HTF-12C-CS30-20" 4521-PLN-AGE-68-71-P265-GAR HTF to salt heat exchanger - UNIT 3 20" STD 300 Carbon Steel CS30 HTF (Oil) 4083090 211-HTF-26-CS30-20" 3-MX-251F 233 737,6 739 350 750 525 7" 530 Heat Tracing, Electrical, E&I
+Will connect the Shell & Tube HEX, replacing the same 
+previous line that used to be connected to the Plate heat 
+exchanger, once this plate HEX be out of service.
+0-GAR TES 4 252-HTF-12D-CS30-20" 4521-PLN-AGE-68-71-P268-GAR HTF to salt heat exchanger - UNIT 4 20" STD 300 Carbon Steel CS30 HTF (Oil) 4083090 211-HTF-27-CS30-20" 4-MX-251F 233 737,6 739 350 750 525 7" 530 Heat Tracing, Electrical, E&I
+Will connect the Shell & Tube HEX, replacing the same 
+previous line that used to be connected to the Plate heat 
+exchanger, once this plate HEX be out of service.
+0-GAR TES 5 252-HTF-12E-CS30-20" 4521-PLN-AGE-68-71-P271-GAR HTF to salt heat exchanger - UNIT 5 20" STD 300 Carbon Steel CS30 HTF (Oil) 4083090 212-HTF-05-CS30-20" 5-MX-251F 233 737,6 739 350 750 525 7" 530 Heat Tracing, Electrical, E&I
+Will connect the Shell & Tube HEX, replacing the same 
+previous line that used to be connected to the Plate heat 
+exchanger, once this plate HEX be out of service.
+0-GAR TES 6 252-HTF-12F-CS30-20" 4521-PLN-AGE-68-71-P274-GAR HTF to salt heat exchanger - UNIT 6 20" STD 300 Carbon Steel CS30 HTF (Oil) 4083090 212-HTF-06-CS30-20" 6-MX-251F 233 737,6 739 350 750 525 7" 530 Heat Tracing, Electrical, E&I
+Will connect the Shell & Tube HEX, replacing the same 
+previous line that used to be connected to the Plate heat 
+exchanger, once this plate HEX be out of service.
+0-GAR TES 1 TO 6 252-N-06NN-CS31-2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 2" XXS 300 Carbon Steel CS31 Nitrogen / MS 75 255-N-09NNNN-CS31-2" 252-N-10NN-CS31-2" / 252-N-11NN-
+CS31-2" / 252-N-12NN-CS31-2" 14,7 737,6 739 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-N-10NN-CS31-2" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 2" XXS 300 Carbon Steel CS31 Nitrogen / MS 25 252-N-06NN-CS31-2" 255-MS-13NN-CS31-3" 14,7 530 650 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-N-11NN-CS31-2" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 2" XXS 300 Carbon Steel CS31 Nitrogen / MS 25 252-N-06NN-CS31-2" 255-MS-12NN-CS31-3" 14,7 530 650 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-N-12NN-CS31-2" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 2" XXS 300 Carbon Steel CS31 Nitrogen / MS 25 252-N-06NN-CS31-2" 255-MS-11NN-CS31-3" 14,7 530 650 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-13NN-CS31-3" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 3" 160 300 Carbon Steel CS31 Nitrogen / MS 41887 255-MS-02NN-CS31-24" 255-MS-10NN-CS31-24" 14,7 737,6 739 50 750 75 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-12NN-CS31-3" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 3" 160 300 Carbon Steel CS31 Nitrogen / MS 41888 255-MS-04NN-CS31-24" 255-MS-10NN-CS31-24" 14,7 737,6 739 50 750 75 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-11NN-CS31-3" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 3" 160 300 Carbon Steel CS31 Nitrogen / MS 41889 256-MS-04NN-CS31-24" 255-MS-10NN-CS31-24" 14,7 737,6 739 50 750 75 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-10NN-CS31-4" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 4" 120 300 Carbon Steel CS31 Nitrogen / MS 125661
+255-N-11NN-CS31-3" / 255-N-
+12NN-CS31-3" / 255-N-13NN-
+CS31-3"
+255-MS-06NN-CS31-4" 14,7 737,6 739 50 750 75 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-20NN-CS30-1" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 1" 80 300 Carbon Steel CS30 Nitrogen / HTF (Oil) - 255-HTF-21NN-CS30-1" / 255-HTF-
+22NN-CS30-1" / 255-HTF-23NN- Safe drainage 14,7 212 212 50 750 75 3" NA NA
+0-GAR TES 1 TO 6 255-HTF-21NN-CS30-1" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 1" 80 300 Carbon Steel CS30 Nitrogen / HTF (Oil) - 255-HTF-20NN-CS30-1" 255-HTF-02NN-CS30-24" 14,7 212 212 50 750 75 3" 122 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-22NN-CS30-1" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 1" 80 300 Carbon Steel CS30 Nitrogen / HTF (Oil) - 255-HTF-20NN-CS30-1" 255-HTF-04NN-CS30-24" 14,7 212 212 50 750 75 3" 122 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-23NN-CS30-1" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 1" 80 300 Carbon Steel CS30 Nitrogen / HTF (Oil) - 255-HTF-20NN-CS30-1" 252-HTF-12NN-CS30-20'' 14,7 212 212 50 750 75 3" 122 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 252-HTF-21NN-CS30-8" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 8" STD 300 Carbon Steel CS30 Nitrogen / HTF (Oil) - 252-HTF-16NN-CS30-20" 252-HTF-12NN-CS30-20'' 260 738 738 320 750 525 6" 530 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-09NN-CS31-4" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 4" 120 300 Carbon Steel CS31 Molten Salt - 252-MS-03NN-CS31-24" 255-MS-06NN-CS31-4" 73 640 650 320 750 525 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-08NN-CS31-4" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 4" 120 300 Carbon Steel CS31 Molten Salt - 255-MS-02NN-CS31-24" 255-MS-06NN-CS31-4" 73 640 650 320 750 525 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-07NN-CS31-4" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 4" 120 300 Carbon Steel CS31 Molten Salt - 255-MS-04NN-CS31-24" 255-MS-06NN-CS31-4" 73 640 650 320 750 525 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-06NN-CS31-4" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 4" 120 300 Carbon Steel CS31 Molten Salt - 256-MS-04NN-CS31-24" 0-MT-257 73 640 650 320 750 525 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-01NN-CS31-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 0-MX-251A 0-MX-251B 131 730 730 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-02NN-CS31-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 0-MX-251B 0-MX-251C 131 730 730 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-03NN-CS31-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 0-MX-251C 0-MX-251D 131 730 730 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-04NN-CS31-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 0-MX-251D 0-MX-251E 131 730 730 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-05NN-CS31-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" 40 300 Carbon Steel CS31 Molten Salt 6620487 0-MX-251E 0-MX-251E 131 730 730 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-01NN-CS30-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" XS 300 Carbon Steel CS30 HTF (Oil) 4083090 0-MX-251A 0-MX-251B 233 737,6 739 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-02NN-CS30-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" XS 300 Carbon Steel CS30 HTF (Oil) 4083090 0-MX-251B 0-MX-251C 233 737,6 739 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-03NN-CS30-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" XS 300 Carbon Steel CS30 HTF (Oil) 4083090 0-MX-251C 0-MX-251D 233 737,6 739 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-04NN-CS30-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" XS 300 Carbon Steel CS30 HTF (Oil) 4083090 0-MX-251D 0-MX-251E 233 737,6 739 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-HTF-05NN-CS30-24" 4521-PLN-AGE-68-71-P278-GAR Shell & Tube TEX HEX Train 24" XS 300 Carbon Steel CS30 HTF (Oil) 4083090 0-MX-251E 0-MX-251E 233 737,6 739 320 750 525 7" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 & TES 2 255-N-09AB-CS72-1 1/2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 1 1/2" 80 150 Carbon Steel CS72 Nitrogen 75 207-N-02-CS72-2 1/2'' 255-N-09AB-CS31-2" 190 60 122 200 400 300 NA NA NA
+0-GAR TES 3 & TES 4 255-N-09CD-CS72-1 1/2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 1 1/2" 80 150 Carbon Steel CS72 Nitrogen 75 207-N-04-CS72-2 1/2'' 255-N-09CD-CS31-2" 190 60 122 200 400 300 NA NA NA
+0-GAR TES 5 & TES 6 255-N-09EF-CS72-1 1/2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 1 1/2" 80 150 Carbon Steel CS72 Nitrogen 75 207-N-06-CS72-2 1/2'' 255-N-09EF-CS31-2" 190 60 122 200 400 300 NA NA NA
+0-GAR TES 1 & TES 2 255-N-09AB-CS31-2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 2" XXS 300 Carbon Steel CS31 Nitrogen 75 255-N-09AB-CS72-1 1/2" 1-MT-257 14,7 640 650 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 3 & TES 4 255-N-09CD-CS31-2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 2" XXS 300 Carbon Steel CS31 Nitrogen 75 255-N-09CD-CS72-1 1/2" 2-MT-257 14,7 640 650 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 5 & TES 6 255-N-09EF-CS31-2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 2" XXS 300 Carbon Steel CS31 Nitrogen 75 255-N-09EF-CS72-1 1/2" 3-MT-257 14,7 640 650 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1&2 - TES 
+3&4 - TES 5&6 252-N-08NNNN-CS31-2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 2" XXS 300 Carbon Steel CS31 Nitrogen 75 255-N-09NNNN-CS31-2" 252-N-06NN-CS31-2" 14,7 640 650 50 750 75 3 1/2" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1&2 - TES 
+3&4 - TES 5&6 257-MS-13NNNN-CS31-2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 2" XXS 300 Carbon Steel CS31 Nitrogen / MS - 00-MT-257 Safe drainage 14,7 510 650 50 750 75 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1&2 - TES 
+3&4 - TES 5&7 257-MS-12NNNN-CS31-3" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 3" 160 300 Carbon Steel CS31 Nitrogen / MS - 00-MT-257 251-N-09NN-CS72-12" 30 510 650 50 750 75 4" NA NA
+0-GAR TES 1&2 - TES 
+3&4 - TES 5&7 257-MS-11NNNN-CS31-4" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 4" 120 300 Carbon Steel CS31 MS - 00-MT-257 Safe drainage 14,7 510 650 50 750 75 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1&2 - TES 
+3&4 - TES 5&8 257-MS-10NNNN-CS31-6" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 6" XS 300 Carbon Steel CS31 MS 160756 0-MT-257 255-MS-10NN-CS31-4" 65 640 650 200 750 300 6" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1&2 - TES 
+3&4 - TES 5&9 257-MS-10NN-CS31-4" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 4" XS 300 Carbon Steel CS31 MS 160756 257-MS-10NNNN-CS31-6" ON HOLD 65 640 650 200 750 300 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 252-HTF-13A-CS30-6" 4521-PLN-AGE-68-71-P252-GAR HTF to salt heat exchanger - UNIT 1 6" XS 300 Carbon Steel CS30 HTF (Oil) 630000 252-HTF-14A-V-RE-01 252-HTF-10A-CS30-20" 191 583 583 360 750 540 6" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 2 252-HTF-13BCS30-6" 4521-PLN-AGE-68-71-P262-GAR HTF to salt heat exchanger - UNIT 2 6" XS 300 Carbon Steel CS30 HTF (Oil) 630000 252-HTF-14B-V-RE-02 252-HTF-10B-CS30-20" 191 583 583 360 750 540 6" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 3 252-HTF-13C-CS30-6" 4521-PLN-AGE-68-71-P265-GAR HTF to salt heat exchanger - UNIT 3 6" XS 300 Carbon Steel CS30 HTF (Oil) 630000 252-HTF-14C-V-RE-03 252-HTF-10C-CS30-20" 191 583 583 360 750 540 6" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 4 252-HTF-13D-CS30-6" 4521-PLN-AGE-68-71-P268-GAR HTF to salt heat exchanger - UNIT 4 6" XS 300 Carbon Steel CS30 HTF (Oil) 630000 252-HTF-14D-V-RE-04 252-HTF-10D-CS30-20" 191 583 583 360 750 540 6" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 5 252-HTF-13E-CS30-6" 4521-PLN-AGE-68-71-P271-GAR HTF to salt heat exchanger - UNIT 5 6" XS 300 Carbon Steel CS30 HTF (Oil) 630000 252-HTF-14E-V-RE-05 252-HTF-10E-CS30-20" 191 583 583 360 750 540 6" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 6 252-HTF-13F-CS30-6" 4521-PLN-AGE-68-71-P274-GAR HTF to salt heat exchanger - UNIT 6 6" XS 300 Carbon Steel CS30 HTF (Oil) 630000 252-HTF-14F-V-RE-06 252-HTF-10F-CS30-20" 191 583 583 360 750 540 6" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 1 252-HTF-14A-CS30-4" 4521-PLN-AGE-68-71-P252-GAR HTF to salt heat exchanger - UNIT 1 4" 120 300 Carbon Steel CS30 HTF (Oil) 630000 210-HTF-05-CS30-20" 252-HTF-14A-V-RE-01 335 737 737 360 750 540 4" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 2 252-HTF-14B-CS30-4" 4521-PLN-AGE-68-71-P262-GAR HTF to salt heat exchanger - UNIT 2 4" 120 300 Carbon Steel CS30 HTF (Oil) 630000 210-HTF-06-CS30-20" 252-HTF-14B-V-RE-02 335 737 737 360 750 540 4" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 3 252-HTF-14C-CS30-4" 4521-PLN-AGE-68-71-P265-GAR HTF to salt heat exchanger - UNIT 3 4" 120 300 Carbon Steel CS30 HTF (Oil) 630000 211-HTF-26-CS30-20" 252-HTF-14C-V-RE-03 335 737 737 360 750 540 4" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 4 252-HTF-14D-CS30-4" 4521-PLN-AGE-68-71-P268-GAR HTF to salt heat exchanger - UNIT 4 4" 120 300 Carbon Steel CS30 HTF (Oil) 630000 211-HTF-27-CS30-20" 252-HTF-14D-V-RE-04 335 737 737 360 750 540 4" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 5 252-HTF-14E-CS30-4" 4521-PLN-AGE-68-71-P271-GAR HTF to salt heat exchanger - UNIT 5 4" 120 300 Carbon Steel CS30 HTF (Oil) 630000 212-HTF-05-CS30-20" 252-HTF-14E-V-RE-05 335 737 737 360 750 540 4" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 6 252-HTF-14F-CS30-4" 4521-PLN-AGE-68-71-P274-GAR HTF to salt heat exchanger - UNIT 6 4" 120 300 Carbon Steel CS30 HTF (Oil) 630000 212-HTF-06-CS30-20" 252-HTF-14F-V-RE-06 335 737 737 360 750 540 4" 100 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-15NN-CS31-3" 4521-PLN-AGE-68-71-P278-GAR HTF to salt heat exchanger - UNIT 1 (...UNIT 6) 3" 160 300 Carbon Steel CS31 Molten Salt - 252-MS-03NN-CS31-24" 0-MT-251 131 730 730 160 750 240 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 255-MS-14NN-CS31-3" 4521-PLN-AGE-68-71-P278-GAR HTF to salt heat exchanger - UNIT 1 (...UNIT 6) 3" 160 300 Carbon Steel CS31 Molten Salt - 252-MS-04NN-CS31-24" 0-MT-252 131 730 730 160 750 240 4" 510 Heat Tracing, Electrical, E&I
+0-GAR TES 1 TO 6 257-N-11NNNN-CS72-1/2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 1/2" 80 150 Carbon Steel CS72 Nitrogen 117 255-N-09-NNNN-CS72-1 1/2" 00-MP-258 30 60 122 170 750 255 NA NA NA
+0-GAR TES 1 TO 6 255-N-10NNNN-CS72-1/2" 4521-PLN-AGE-68-71-P279-GAR TES HEX MS DREINAGE 1/2"" 80 150 Carbon Steel CS72 Nitrogen - 255-N-09-NNNN-CS72-1 1/2" N2 Utility supply 30 60 122 170 750 255 NA NA NA
+P&ID Drawing Design conditions
+"NN" Letter shall be replaced for A to F depending on the TES system refered, corresponding A for TES 1, up to F for TES 6
+ABEINSA ENGINEERING
+P&ID Drawing
+ABEINSA ENGINEERING
+"0" number prefixed on HEX tags shall be replaced depending on the TES system refered: 1 for TES1 up to 6 for TES6
+"00" number prefixed on equipment tags shall be replaced depending on the TES couple refered: 1 for TES1&TES 2, 2 for TES3&TES4, and 3 for TES5&TES 6
+"NNNN" Letter shall be replaced for AB, or, CD, or EF depending on the TES couple refered: AB for TES1&TES 2, CD for TES3&TES4, and EF for TES5&TES 6
+Route Operating condition
+ABENER TEYMA 
+SOLANA
+SOLANA 250 MW Solar Power PlantSOLANA 250 MW Solar Power Plant
+Pipe line list (TES system) - HEX Replacement
+NOTES:

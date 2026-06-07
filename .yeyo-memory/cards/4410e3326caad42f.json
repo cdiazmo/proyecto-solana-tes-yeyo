@@ -1,0 +1,38 @@
+{
+  "id": "4410e3326caad42f",
+  "path": "12 As Built TES 6/00_Permit Package/03_Planning layout/4521-PLN-AEE-00-00-0200_REV01.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 1158103,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "4521-PLN-AEE-00-00-0200 REV01",
+  "doc_code": "4521-PLN-AEE-00-00-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 10479,
+  "token_estimate": 2619,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/4410e3326caad42f.json",
+  "extracted_path": ".yeyo-memory/extracted/4410e3326caad42f.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180404160925-05'00'",
+      "Creator": "AutoCAD 2017 - English 2017 (21.0s (LMS Tech))",
+      "ModDate": "D:20180404161056-05'00'",
+      "Producer": "Acrobat Distiller 18.0 (Windows)",
+      "Title": "S3.1"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.003526+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:55.003527+00:00"
+}

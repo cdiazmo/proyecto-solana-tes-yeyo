@@ -1,0 +1,29 @@
+{
+  "id": "1c349c5986e1a7d2",
+  "path": "03 GD Fabricacion LOI TES 6/Listas/4521-LIS-LOI-039-062-0004-GAR_rev00 Two years operational spare parts list.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 188984,
+  "size_human": "185 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-LIS-LOI-039-062-0004-GAR rev00 Two years operational spare parts list",
+  "doc_code": "4521-LIS-LOI-039-062-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2037,
+  "token_estimate": 509,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/1c349c5986e1a7d2.json",
+  "extracted_path": ".yeyo-memory/extracted/1c349c5986e1a7d2.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20171023105051+02'00'",
+      "ModDate": "D:20171023105051+02'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:04.828840+00:00"
+}

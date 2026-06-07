@@ -1,0 +1,59 @@
+{
+  "id": "d023e459655fde68",
+  "path": "03 GD Fabricacion LOI TES 6/Documentacion de procesos/4521-MOM-LOI-039-062-0001-GAR_rev01 Performance Test Procedure.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 641966,
+  "size_human": "627 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-MOM-LOI-039-062-0001-GAR rev01 Performance Test Procedure",
+  "doc_code": "4521-MOM-LOI-039-062-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 19289,
+  "token_estimate": 4822,
+  "chunks": 13,
+  "card_path": ".yeyo-memory/cards/d023e459655fde68.json",
+  "extracted_path": ".yeyo-memory/extracted/d023e459655fde68.txt",
+  "metadata": {
+    "pages": 19,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20180301125348+01'00'",
+      "Creator": "Microsoft® Word 2010",
+      "ModDate": "D:20180307120341+01'00'",
+      "Producer": "Microsoft® Word 2010",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::320",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 320,
+        "doc_code": "4521-MOM-LOI-039-062-0001",
+        "title": "PERFORMANCE TEST PROCEDURE",
+        "revision": "00",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::320",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 320,
+        "doc_code": "4521-MOM-LOI-039-062-0001",
+        "title": "PERFORMANCE TEST PROCEDURE",
+        "revision": "00",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:58.731943+00:00"
+}

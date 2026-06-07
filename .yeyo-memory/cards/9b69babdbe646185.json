@@ -1,0 +1,64 @@
+{
+  "id": "9b69babdbe646185",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-ANC-67-71-P480.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 201589,
+  "size_human": "197 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-ANC-67-71-P480",
+  "doc_code": "4521-PLN-ANC-67-71-P480",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/9b69babdbe646185.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD LT 2013 - English 2013 (19.0s (LMS Tech))",
+      "Title": "Model",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "CreationDate": "D:20121018122832",
+      "ModDate": "D:20121018122832"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.544784+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::187",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 187,
+        "doc_code": "4521-PLN-ANC-67-71-P480",
+        "title": "P&ID sistema aire comprimido (y comprobacion de la capacidad del sistema)",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::187",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 187,
+        "doc_code": "4521-PLN-ANC-67-71-P480",
+        "title": "P&ID sistema aire comprimido (y comprobacion de la capacidad del sistema)",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:59.566100+00:00"
+}

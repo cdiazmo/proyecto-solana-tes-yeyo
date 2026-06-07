@@ -1,0 +1,31 @@
+{
+  "id": "3bc9befc4326bd72",
+  "path": "04 GD Fabricacon LOI TES 3/Documentos procesos/TD-CAL-SLN-002-00 Process flow conditions heat & mass balances.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 84136,
+  "size_human": "82 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "TD-CAL-SLN-002-00 Process flow conditions heat & mass balances",
+  "doc_code": "TD-CAL-SLN-002-00",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3294,
+  "token_estimate": 823,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/3bc9befc4326bd72.json",
+  "extracted_path": ".yeyo-memory/extracted/3bc9befc4326bd72.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "CreationDate": "D:20200515144226+02'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Word para Office 365",
+      "Producer": "Microsoft® Word para Office 365",
+      "ModDate": "D:20200515145708+02'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:23.585197+00:00"
+}

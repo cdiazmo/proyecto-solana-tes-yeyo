@@ -1,0 +1,63 @@
+{
+  "id": "267f026aa578ef5d",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0011-GAR Rev.00 SADDLES.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 3151806,
+  "size_human": "3.0 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0011-GAR Rev.00 SADDLES",
+  "doc_code": "4521-PLN-LOI-039-062-0011",
+  "revision": "Rev.00",
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/267f026aa578ef5d.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20161216100929+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0",
+      "Producer": "Bluebeam Brewery 5.0",
+      "ModDate": "D:20161216121656+01'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.743975+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::298",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 298,
+        "doc_code": "4521-PLN-LOI-039-062-0011",
+        "title": "SADDLES DETAIL DRAWIGS",
+        "revision": "",
+        "status": "-",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::298",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 298,
+        "doc_code": "4521-PLN-LOI-039-062-0011",
+        "title": "SADDLES DETAIL DRAWIGS",
+        "revision": "",
+        "status": "-",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:53.766080+00:00"
+}

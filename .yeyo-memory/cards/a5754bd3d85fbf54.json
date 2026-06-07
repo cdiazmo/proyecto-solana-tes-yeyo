@@ -1,0 +1,39 @@
+{
+  "id": "a5754bd3d85fbf54",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation/Annex V - A - Winter Discharge.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 105121,
+  "size_human": "103 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "Annex V - A - Winter Discharge",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13777,
+  "token_estimate": 3444,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/a5754bd3d85fbf54.json",
+  "extracted_path": ".yeyo-memory/extracted/a5754bd3d85fbf54.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20161215101531+01'00'",
+      "ModDate": "D:20161215101531+01'00'",
+      "Author": "abpmg",
+      "Creator": "PDFCreator Version 1.7.2",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "Annex V - A - Winter Discharge.pdf"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.053085+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:00.053089+00:00"
+}

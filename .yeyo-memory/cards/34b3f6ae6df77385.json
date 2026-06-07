@@ -1,0 +1,63 @@
+{
+  "id": "34b3f6ae6df77385",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0003-GAR_Rev01_Hydraulic Test Procedure.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 366831,
+  "size_human": "358 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0003-GAR Rev01 Hydraulic Test Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0003",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12680,
+  "token_estimate": 3170,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/34b3f6ae6df77385.json",
+  "extracted_path": ".yeyo-memory/extracted/34b3f6ae6df77385.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20180116172610+01'00'",
+      "ModDate": "D:20180116172736+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.162811+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::310",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 310,
+        "doc_code": "4521-INS-LOI-039-062-0003",
+        "title": "TUBE BENDING PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::310",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 310,
+        "doc_code": "4521-INS-LOI-039-062-0003",
+        "title": "TUBE BENDING PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:54.162814+00:00"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "2ec1af3abceff23e",
+  "path": "01 GD AE/C&S/CAL/4521-CAL-AEE-75-52-0002-GAR_Rev00_Drain_back_tank.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 15014596,
+  "size_human": "14 MB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-CAL-AEE-75-52-0002-GAR Rev00 Drain back tank",
+  "doc_code": "4521-CAL-AEE-75-52-0002",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 75,
+  "token_estimate": 18,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/2ec1af3abceff23e.json",
+  "extracted_path": ".yeyo-memory/extracted/2ec1af3abceff23e.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-CAL-AGE-75-52-0002_Rev 0-GAR.doc",
+      "4521-CAL-AGE-75-52-0002_Rev 0-GAR.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 15660802,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::11",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 11,
+        "doc_code": "4521-CAL -AEE-75-52-0002-GAR",
+        "title": "Drain tank Foundation IFC",
+        "revision": "1",
+        "status": "",
+        "date": "2017-01-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::11",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 11,
+        "doc_code": "4521-CAL -AEE-75-52-0002-GAR",
+        "title": "Drain tank Foundation IFC",
+        "revision": "1",
+        "status": "",
+        "date": "2017-01-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::5",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 5,
+        "doc_code": "4521-CAL -AEE-75-52-0002-GAR",
+        "title": "Drain_back_tank",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::13",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 13,
+        "doc_code": "4521-CAL-AEE-75-52-0002-GAR-Rev00-Drain-back-tank",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::13",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 13,
+        "doc_code": "4521-CAL-AEE-75-52-0002-GAR-Rev00-Drain-back-tank",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::13",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 13,
+        "doc_code": "4521-CAL-AEE-75-52-0002-GAR-Rev00-Drain-back-tank",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:07.123806+00:00"
+}

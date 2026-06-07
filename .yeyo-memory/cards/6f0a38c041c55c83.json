@@ -1,0 +1,58 @@
+{
+  "id": "6f0a38c041c55c83",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V353.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 65457,
+  "size_human": "64 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-64-V353",
+  "doc_code": "4521-ESP-ANC-68-64-V353",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4867,
+  "token_estimate": 1216,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/6f0a38c041c55c83.json",
+  "extracted_path": ".yeyo-memory/extracted/6f0a38c041c55c83.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20101209092628",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-64-V353 - Triple Offset Rotary Valves"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::241",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 241,
+        "doc_code": "4521-ESP-ANC-68-64-V353",
+        "title": "Triple Offset Rotary Valves",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::241",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 241,
+        "doc_code": "4521-ESP-ANC-68-64-V353",
+        "title": "Triple Offset Rotary Valves",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:19:40.205758+00:00"
+}

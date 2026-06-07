@@ -1,0 +1,53 @@
+{
+  "id": "7dc20e725114f30b",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0013_R1 VOC Analyzer.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 248875,
+  "size_human": "243 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0013 R1 VOC Analyzer",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 17154,
+  "token_estimate": 4288,
+  "chunks": 11,
+  "card_path": ".yeyo-memory/cards/7dc20e725114f30b.json",
+  "extracted_path": ".yeyo-memory/extracted/7dc20e725114f30b.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet ",
+        "rows_seen": 1013,
+        "non_empty_rows": 21
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 68,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 68,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index",
+        "rows_seen": 54,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "HTF Press. Trans. Specs.",
+        "rows_seen": 74,
+        "non_empty_rows": 63
+      },
+      {
+        "name": "VOC IR List",
+        "rows_seen": 41,
+        "non_empty_rows": 14
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:15.256460+00:00"
+}

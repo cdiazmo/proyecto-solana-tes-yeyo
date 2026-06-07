@@ -1,0 +1,59 @@
+{
+  "id": "9e82eb9554644685",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0012-GAR PQR.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 2734813,
+  "size_human": "2.6 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0012-GAR PQR",
+  "doc_code": "4521-INS-LOI-039-062-0012",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2565,
+  "token_estimate": 641,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/9e82eb9554644685.json",
+  "extracted_path": ".yeyo-memory/extracted/9e82eb9554644685.txt",
+  "metadata": {
+    "pages": 15,
+    "pdf_metadata": {
+      "CreationDate": "D:20161212165533+01'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20161212181536+01'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::319",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 319,
+        "doc_code": "4521-INS-LOI-039-062-0012",
+        "title": "PQR",
+        "revision": "",
+        "status": "-",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::319",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 319,
+        "doc_code": "4521-INS-LOI-039-062-0012",
+        "title": "PQR",
+        "revision": "",
+        "status": "-",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:28.318828+00:00"
+}

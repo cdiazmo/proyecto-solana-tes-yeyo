@@ -1,0 +1,30 @@
+{
+  "id": "15de8a7ea413ef09",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-PL24.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 83687,
+  "size_human": "82 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-PL24",
+  "doc_code": "4521-ESP-ANC-68-61-PL24",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 6402,
+  "token_estimate": 1600,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/15de8a7ea413ef09.json",
+  "extracted_path": ".yeyo-memory/extracted/15de8a7ea413ef09.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20101118125319",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-PL24 - Underground HDPE"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.369650+00:00"
+}

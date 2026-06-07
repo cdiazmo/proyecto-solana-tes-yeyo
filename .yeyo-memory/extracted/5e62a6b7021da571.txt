@@ -1,0 +1,80 @@
+[sheet Manual_Valves]
+ABENER TEYMA SOLANA | SOLANA 250 MW Solar Power Plant | Job: | Document: | 4521-LIS-AEE-39-61-0003-GAR | ABEINSA ENGINEERING
+Item No.: | No. Req'd:
+Project: | Solana
+Manual Valve List (TES system) - HEX Replacement | Ref.: | Issue: | Dated:
+0 | 2016-12-20 00:00:00 | RDA | JRL | JRL
+1 | 2017-02-13 00:00:00 | RDA | JRL | JRL
+2 | 2017-04-18 00:00:00 | RDA | JRL | JRL
+3 | 2017-06-01 00:00:00 | RDA | JRL | JRL
+Rev. | Date | By | Chk'd | App'd | Description
+ID | Valve Type. | Description | Line / Equipment TAG No. (1) (2) | Valve Id. | Extract for TAG No | Valve TAG No. (1) (2) | Valve Size | Valve Specification | Fluid | Pipe / Nozzle Schedule | P&ID | Limit Switch (3) | Lock | Notes | EPC Code
+1 | Gate | Isolation | 252-HTF-13NN-CS30-6" | V-GA-01 | 252-HTF-13NN- | 252-HTF-13NN-V-GA-01 | 6" | FA56 | HTF | STD | 4521-PLN-AGE-68-71-P271-GAR | NA | Open | PSV isolation per Client request
+2 | Gate | Isolation | 252-HTF-14NN-CS30-4" | V-GA-02 | 252-HTF-14NN- | 252-HTF-14NN-V-GA-02 | 4" | FA56 | HTF | STD | 4521-PLN-AGE-68-71-P271-GAR | NA | Open | PSV isolation per Client request
+3 | Gate | Venting | 255-HTF-21NN-CS30-1" | V-GA-90 | 255-HTF-21NN- | 255-HTF-21NN-V-GA-90 | 1" | FA40 | N2 | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Close
+4 | Gate | Venting | 255-HTF-22NN-CS30-1" | V-GA-90 | 255-HTF-22NN- | 255-HTF-22NN-V-GA-90 | 1" | FA40 | N2 | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Close
+5 | Gate | Venting | 255-HTF-23NN-CS30-1" | V-GA-90 | 255-HTF-23NN- | 255-HTF-23NN-V-GA-90 | 1" | FA40 | N2 | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Close
+6 | Gate | PIT root | 255-HTF-01NN-CS30-24" | V-GA-50 | 255-HTF-01NN- | 255-HTF-01NN-V-GA-50 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Open
+7 | Gate | PIT root | 255-HTF-02NN-CS30-24" | V-GA-50 | 255-HTF-02NN- | 255-HTF-02NN-V-GA-50 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Open
+8 | Gate | PIT root | 255-HTF-03NN-CS30-24" | V-GA-50 | 255-HTF-03NN- | 255-HTF-03NN-V-GA-50 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Open
+9 | Gate | PIT root | 255-HTF-04NN-CS30-24" | V-GA-50 | 255-HTF-04NN- | 255-HTF-04NN-V-GA-50 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Open
+10 | Gate | PIT root | 255-HTF-05NN-CS30-24" | V-GA-50 | 255-HTF-05NN- | 255-HTF-05NN-V-GA-50 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Open
+11 | Gate | Draining | 252-HTF-16NN-CS30-20" | V-GA-80 | 252-HTF-16NN- | 252-HTF-16NN-V-GA-80 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Close
+12 | Gate | Draining | 252-HTF-16NN-CS30-20" | V-GA-81 | 252-HTF-16NN- | 252-HTF-16NN-V-GA-81 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Close
+13 | Gate | Draining | 252-HTF-12NN-CS30-20" | V-GA-80 | 252-HTF-12NN- | 252-HTF-12NN-V-GA-80 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | NA | Close
+14 | Globe | Draining | 255-MS-09NN-CS31-4" | V-GL-01 | 255-MS-09NN- | 255-MS-09NN-V-GL-01 | 4" | FB58V | MS | 120 | 4521-PLN-AGE-68-71-P278-GAR | Required | Close
+15 | Globe | Draining | 255-MS-08NN-CS31-4" | V-GL-01 | 255-MS-08NN- | 255-MS-08NN-V-GL-01 | 4" | FB58V | MS | 120 | 4521-PLN-AGE-68-71-P278-GAR | Required | Close
+16 | Globe | Draining | 255-MS-07NN-CS31-4" | V-GL-01 | 255-MS-07NN- | 255-MS-07NN-V-GL-01 | 4" | FB58V | MS | 120 | 4521-PLN-AGE-68-71-P278-GAR | Required | Close
+17 | Globe | Draining | 255-MS-06NN-CS31-4" | V-GL-01 | 255-MS-06NN- | 255-MS-06NN-V-GL-01 | 4" | FB58V | MS | 120 | 4521-PLN-AGE-68-71-P278-GAR | Required | Close
+18 | DELETED
+19 | DELETED
+20 | DELETED
+21 | DELETED
+22 | Gate | On line | 252-N-06NN-CS31-2" | V-GA-01 | 252-N-06NN- | 252-N-06NN-V-GA-01 | 2" | FA58V | N2 / MS | XXS | 4521-PLN-AGE-68-71-P279-GAR | NA | Close
+23 | Globe | Draining | 257-MS-11NNNN-CS31-4" | V-GL-01 | 257-MS-11NNNN- | 257-MS-11NNNN-V-GL-01 | 4" | FB58V | MS | 120 | 4521-PLN-AGE-68-71-P279-GAR | NA | Close
+24 | Globe | Draining | 257-MS-11NNNN-CS31-4" | V-GL-02 | 257-MS-11NNNN- | 257-MS-11NNNN-V-GL-02 | 4" | FB58V | MS | 120 | 4521-PLN-AGE-68-71-P279-GAR | NA | Close
+25 | Gate | On line | 255-N-09NNNN-CS31-2" | V-GA-01 | 255-N-09NNNN- | 255-N-09NNNN-V-GA-01 | 1 1/2" | FA37 | N2 | 80 | 4521-PLN-AGE-68-71-P279-GAR | NA | Close
+26 | Gate | PG root | 255-N-09NNNN-CS31-2" | V-GA-50 | 255-N-09NNNN- | 255-N-09NNNN-V-GA-50 | 3/4" | FA37 | N2 | 80 | 4521-PLN-AGE-68-71-P279-GAR | NA | Close
+27 | Gate | Draining | 255-HTF-02NN-CS30-24" | V-GA-70 | 255-HTF-02NN- | 255-HTF-02NN-V-GA-70 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | Not required | Close
+28 | Gate | Draining | 255-HTF-04NN-CS30-24" | V-GA-70 | 255-HTF-04NN- | 255-HTF-04NN-V-GA-70 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P278-GAR | Not required | Close
+29 | DELETED
+30 | DELETED
+31 | DELETED
+32 | DELETED
+33 | DELETED
+34 | DELETED
+35 | DELETED
+36 | DELETED
+37 | Gate | On line | 257-N-11NNNN-CS72-1/2" | V-GA-01 | 257-N-11NNNN- | 257-N-11NNNN-V-GA-01 | 1/2" | FA37 | N2 | 80 | 4521-PLN-AGE-68-71-P279-GAR | Not required | Close
+38 | Gate | On line | 257-N-11NNNN-CS72-1/2" | V-GA-02 | 257-N-11NNNN- | 257-N-11NNNN-V-GA-02 | 1/2" | FA37 | N2 | 80 | 4521-PLN-AGE-68-71-P279-GAR | Not required | Close
+39 | Globe | On line | 257-N-10NNNN-CS72-1/2" | V-GL-01 | 257-N-10NNNN- | 257-N-10NNNN-V-GL-01 | 1/2" | FB37 | N2 | 80 | 4521-PLN-AGE-68-71-P279-GAR | Not required | Close
+40 | Globe | On line | 257-MS-10NNNN-CS31-4" | V-GL-01 | 257-MS-10NNNN- | 257-MS-10NNNN-V-GL-01 | 4" | FB58V | MS | 80 | 4521-PLN-AGE-68-71-P279-GAR | Not required | Close
+41 | Globe | On line | 255-N-09NNNN-CS31-2" | V-GL-01 | 255-N-09NNNN- | 255-N-09NNNN-V-GL-01 | 2" | FB58V | MS | 80 | 4521-PLN-AGE-68-71-P279-GAR | Not required | Close
+42 | Gate | Spare | 2" | FA40 | HTF | Spare
+43 | Gate | Spare | 1" | FA40 | HTF | Spare
+44 | Gate | Venting | 252-HTF-12NN-CS30-20" | V-GA-01 | 252-HTF-12NN- | 252-HTF-12NN-V-GA-01 | 2" | FA40 | HTF | 80 | 4521-PLN-AGE-68-71-P271-GAR | Not required | Close | XV-6-255-25
+NOTES: | (1) "NN" Letter shall be replaced for A to F depending on the TES system refered, corresponding A for TES 1, up to F for TES 6
+(2) "NNNN" Letter shall be replaced for AB, or, CD, or EF depending on the TES couple refered: AB for TES1&TES 2, CD for TES3&TES4, and EF for TES5&TES 6
+(3) Area classification: Class 1, Division 2, Group D. Housing material: Aluminum. Environmental protection: NEMA 4. Electrical Connection: 1/2" NPT. Contact type: SPDT. Contact rating 0.5 A (24Vdc or 110Vac 60 Hz). Ground terminal: Yes. Identificative plate: Yes. Assembly Support: No. it shall be installed over the valve
+
+[sheet Mechanical Equipments List]
+ABENER | XXXX(X)-AAA-BBB- (CCC)-(DDD-EEE)-YYYY-(ZZZ)_Document title
+XX | yyyy/mm/dd
+Sheet 1 of X | Revision | Date | Purpose | Issued by | Checked by | Reviewed by | Approved by
+Rev | Name | Function | Item TAG Nº | Equipment Type | Number | Equipment Description | P&ID | P&ID Sheet No. | Data Sheet | Manufacturer | Material of Construction | Design Conditions Vessels / tank / Exchangers | Vessels / Tank / Exchangers dimensions | Pumps Capacity and size | Electrical / heat power (kW) | Empty Weight (kg) | Insulation | Coordinates (ITM) | Notes
+Shell / Casing | Tube / Impeller | Temp. (ºC) | Pressure (barg) | Diam (mm) | T-T (mm) | Vol (m3) | Flow rated (m3/h) | TDH rated (m) | Thickness (mm)
+Shell | Tube | Shell | Tube | Reference point | E. (m) | N. (m) | EL. (m)
+
+[sheet Valve List]
+ABENER | XXXX(X)-AAA-BBB- (CCC)-(DDD-EEE)-YYYY-(ZZZ)_Document title
+XX | yyyy/mm/dd
+Sheet 1 of X | Revision | Date | Purpose | Issued by | Checked by | Reviewed by | Approved by
+ID | KKS Code | P&ID | P&ID Sheet No. | Piping Class | NPD | Valve Data Sheet | Line / Equipment | Fluid | Catalogue Number | Limit Switch | Lock | Notes | EPC Conde
+Level 1 | Level 2
+Area | System Code | System number | Valve code
+1
+2
+3
+4
+5
+6

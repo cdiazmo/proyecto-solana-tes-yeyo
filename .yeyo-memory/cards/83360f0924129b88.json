@@ -1,0 +1,29 @@
+{
+  "id": "83360f0924129b88",
+  "path": "13_Documentos de Inspección Final/418-2nd-Floor-1_20210826_114012_002579.pdf",
+  "top_dir": "13_Documentos de Inspección Final",
+  "ext": "pdf",
+  "size_bytes": 435414,
+  "size_human": "425 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "418-2nd-Floor-1 20210826 114012 002579",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/83360f0924129b88.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20210826114018-03'30'",
+      "Creator": "Brother Scanner System : MFC-J6545DW",
+      "ModDate": "D:20210826112125-05'00'",
+      "Producer": "Brother Scanner System Image Conversion"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:20:49.978803+00:00"
+}

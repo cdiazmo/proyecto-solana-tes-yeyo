@@ -1,0 +1,37 @@
+{
+  "id": "cdac962282cb9b80",
+  "path": "03 GD Fabricacion LOI TES 6/Dibujos/4521-PLN-LOI-039-062-0009-GAR_ rev03 SHELL & CHANNEL.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 1196252,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0009-GAR rev03 SHELL & CHANNEL",
+  "doc_code": "4521-PLN-LOI-039-062-0009",
+  "revision": "rev03",
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/cdac962282cb9b80.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20180424091423+02'00'",
+      "Author": "inakiugarte",
+      "Creator": "Bluebeam Stapler 12.6.0",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "ModDate": "D:20180424091534+02'00'",
+      "Title": "4521-PLN-LOI-039-062-0009-GAR_ rev03 SHELL & CHANNEL.pdf"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.276965+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.298277+00:00"
+}

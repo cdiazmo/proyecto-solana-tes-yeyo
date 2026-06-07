@@ -1,0 +1,35 @@
+{
+  "id": "f5e70a7cd2517d45",
+  "path": "01 GD AE/Tuberia/INF/4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 2745090,
+  "size_human": "2.6 MB",
+  "mtime_iso": "2026-06-05T06:22:00.000Z",
+  "title": "4521-INF-AEE-21-63-0004-GAR TES HEX Change stress report",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 583,
+  "token_estimate": 145,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/f5e70a7cd2517d45.json",
+  "extracted_path": ".yeyo-memory/extracted/f5e70a7cd2517d45.txt",
+  "metadata": {
+    "archive_entries": 10,
+    "archive_sample": [
+      "4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report.docx",
+      "4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report.pdf",
+      "Annexes/",
+      "Annexes/4521-INF-AEE-21-63-0004 (A01)_Rev00_Input Echo.pdf",
+      "Annexes/4521-INF-AEE-21-63-0004 (A02)_Rev00_Input Echo.pdf",
+      "Annexes/4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo.pdf",
+      "Annexes/4521-INF-AEE-21-63-0004 (A04)_Rev00_Restraint and Stress Report.pdf",
+      "Annexes/4521-INF-AEE-21-63-0004 (A05)_Rev00_Restraint and Stress Report.pdf",
+      "Annexes/4521-INF-AEE-21-63-0004 (A06)_Rev00_Restraint and Stress Report.pdf",
+      "Annexes/4521-INF-AEE-21-63-0004 (A07)Rev00.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 3019195
+  },
+  "processed_at": "2026-06-05T09:12:31.411120+00:00"
+}

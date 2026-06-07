@@ -1,0 +1,85 @@
+{
+  "id": "386ffbf8468fde0d",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR_r00 Packing and Shipping List.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 240853,
+  "size_human": "235 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-LIS-LOI-039-062-0003-GAR r00 Packing and Shipping List",
+  "doc_code": "4521-LIS-LOI-039-062-0003",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2916,
+  "token_estimate": 729,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/386ffbf8468fde0d.json",
+  "extracted_path": ".yeyo-memory/extracted/386ffbf8468fde0d.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "CreationDate": "D:20161206103334+01'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Word 2010",
+      "Producer": "Microsoft® Word 2010",
+      "ModDate": "D:20161206110029+01'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR-901_Rev.00 Packing and Shipping List.xlsx::Document::10",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR-901_Rev.00 Packing and Shipping List.xlsx",
+        "index_kind": "index-like-workbook",
+        "sheet": "Document",
+        "row": 10,
+        "doc_code": "4521-LIS-LOI-039-062-0003",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "2016-12-07 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR-901_Rev.00 Packing and Shipping List.xlsx::Document::41",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR-901_Rev.00 Packing and Shipping List.xlsx",
+        "index_kind": "index-like-workbook",
+        "sheet": "Document",
+        "row": 41,
+        "doc_code": "4521-LIS-LOI-039-062-0003",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "dd/mm/aaaa",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::288",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 288,
+        "doc_code": "4521-LIS-LOI-039-062-0003",
+        "title": "PACKING AND SHIPPING LIST",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::288",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 288,
+        "doc_code": "4521-LIS-LOI-039-062-0003",
+        "title": "PACKING AND SHIPPING LIST",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:28.495532+00:00"
+}

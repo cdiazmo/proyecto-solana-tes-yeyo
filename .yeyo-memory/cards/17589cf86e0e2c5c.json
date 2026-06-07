@@ -1,0 +1,44 @@
+{
+  "id": "17589cf86e0e2c5c",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Rheinhuette/Quote 9750 - Abenisa - New Duty Point Curve.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 301809,
+  "size_human": "295 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "Quote 9750 - Abenisa - New Duty Point Curve",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2501,
+  "token_estimate": 625,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/17589cf86e0e2c5c.json",
+  "extracted_path": ".yeyo-memory/extracted/17589cf86e0e2c5c.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "201703210838.pdf",
+      "Producer": "Mac OS X 10.12.3 Quartz PDFContext",
+      "Creator": "Preview",
+      "CreationDate": "D:20170321124322Z00'00'",
+      "ModDate": "D:20170321124322Z00'00'",
+      "Keywords": "",
+      "AAPL:Keywords": "[]"
+    },
+    "encrypted": false,
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng",
+      "pages": 1,
+      "pages_with_text": 1,
+      "characters": 2501,
+      "generated_at": "2026-06-05T11:32:16.524773+00:00"
+    }
+  },
+  "processed_at": "2026-06-05T11:32:16.525116+00:00"
+}

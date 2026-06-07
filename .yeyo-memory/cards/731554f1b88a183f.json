@@ -1,0 +1,35 @@
+{
+  "id": "731554f1b88a183f",
+  "path": "01 GD AE/Compras/03 Deposito drenaje/02 Propuestas/Ryan Herco/QUOTE MT-259 TANK DB SALT 12 22 16.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 12392,
+  "size_human": "12 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "QUOTE MT-259 TANK DB SALT 12 22 16",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1625,
+  "token_estimate": 406,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/731554f1b88a183f.json",
+  "extracted_path": ".yeyo-memory/extracted/731554f1b88a183f.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20161222152341Z",
+      "Creator": "EscapeE PCL Converter version 8.86C",
+      "ModDate": "D:20170203105738+01'00'",
+      "Producer": "RedTitan PDFOUT v13.4"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Tanque / drain back tank",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:57.730871+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:57.730874+00:00"
+}

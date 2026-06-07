@@ -1,0 +1,31 @@
+{
+  "id": "5de4339b48381398",
+  "path": "04 GD Fabricacon LOI TES 3/Procedimientos calidad/1950201-PLP-001.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 273647,
+  "size_human": "267 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PLP-001",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 33105,
+  "token_estimate": 8276,
+  "chunks": 21,
+  "card_path": ".yeyo-memory/cards/5de4339b48381398.json",
+  "extracted_path": ".yeyo-memory/extracted/5de4339b48381398.txt",
+  "metadata": {
+    "pages": 25,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20191213115947+01'00'",
+      "Creator": "Adobe Acrobat Pro 2017 17.11.30156",
+      "ModDate": "D:20191213115947+01'00'",
+      "Producer": "Adobe Acrobat Pro 2017 17.11.30156",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:33.168973+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4679d6264e69071d",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-64-0002_R2.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 273934,
+  "size_human": "268 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-64-0002 R2",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 51910,
+  "token_estimate": 12977,
+  "chunks": 33,
+  "card_path": ".yeyo-memory/cards/4679d6264e69071d.json",
+  "extracted_path": ".yeyo-memory/extracted/4679d6264e69071d.txt",
+  "metadata": {
+    "pages": 18,
+    "pdf_metadata": {
+      "Title": "4521-ESP-AGE-58-64-0002 Gate control valves Specifications (LB)",
+      "Author": "agppgv",
+      "Creator": "PDFCreator Version 1.0.2",
+      "ModDate": "D:20120411121558+02'00'",
+      "Subject": "",
+      "Keywords": "",
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120411121426+02'00'",
+      "PXCViewerInfo": "PDF-XChange Viewer;2.5.201.0;Jan 23 2012;21:08:47;D:20120411121558+02'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.095783+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::223",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 223,
+        "doc_code": "4521-ESP-AGE-58-64-0005",
+        "title": "Heat Transfer Fluid (HTF) Services rotary control valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::223",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 223,
+        "doc_code": "4521-ESP-AGE-58-64-0005",
+        "title": "Heat Transfer Fluid (HTF) Services rotary control valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:55.095786+00:00"
+}

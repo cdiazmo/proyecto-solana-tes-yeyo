@@ -1,0 +1,28 @@
+{
+  "id": "5a8eb1e0321f23f9",
+  "path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 21884,
+  "size_human": "21 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "GD AE Document List Rev01",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5844,
+  "token_estimate": 1461,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/5a8eb1e0321f23f9.json",
+  "extracted_path": ".yeyo-memory/extracted/5a8eb1e0321f23f9.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_seen": 126,
+        "non_empty_rows": 119
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:28.532169+00:00"
+}

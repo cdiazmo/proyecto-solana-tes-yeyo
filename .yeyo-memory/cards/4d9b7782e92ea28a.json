@@ -1,0 +1,41 @@
+{
+  "id": "4d9b7782e92ea28a",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Lewis/Abengoa Abiensa Quote 16-298-FH Rev. 1 for Solana Power Plant.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 1221894,
+  "size_human": "1.2 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "Abengoa Abiensa Quote 16-298-FH Rev. 1 for Solana Power Plant",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 72323,
+  "token_estimate": 18080,
+  "chunks": 46,
+  "card_path": ".yeyo-memory/cards/4d9b7782e92ea28a.json",
+  "extracted_path": ".yeyo-memory/extracted/4d9b7782e92ea28a.txt",
+  "metadata": {
+    "pages": 34,
+    "pdf_metadata": {
+      "CreationDate": "D:20161007133846-06'00'",
+      "Creator": "Xerox WorkCentre 7845",
+      "ModDate": "D:20161007134344-05'00'",
+      "Producer": "Xerox WorkCentre 7845"
+    },
+    "encrypted": false,
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng",
+      "pages": 34,
+      "pages_with_text": 34,
+      "characters": 72323,
+      "generated_at": "2026-06-05T11:32:11.192161+00:00"
+    }
+  },
+  "processed_at": "2026-06-05T11:32:11.192741+00:00"
+}

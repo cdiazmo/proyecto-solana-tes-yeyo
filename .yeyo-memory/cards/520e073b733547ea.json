@@ -1,0 +1,71 @@
+{
+  "id": "520e073b733547ea",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0007-GAR-901 Rev.0 Radiographic Examination Procedure.xlsx",
+  "top_dir": "02 GD LOI",
+  "ext": "xlsx",
+  "size_bytes": 39256,
+  "size_human": "38 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0007-GAR-901 Rev.0 Radiographic Examination Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0007",
+  "revision": "Rev.0",
+  "status": "ok",
+  "text_chars": 2281,
+  "token_estimate": 570,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/520e073b733547ea.json",
+  "extracted_path": ".yeyo-memory/extracted/520e073b733547ea.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::314",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 314,
+        "doc_code": "4521-INS-LOI-039-062-0007",
+        "title": "RADIOGRAPHIC EXAMINATION PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::314",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 314,
+        "doc_code": "4521-INS-LOI-039-062-0007",
+        "title": "RADIOGRAPHIC EXAMINATION PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:27.704425+00:00"
+}

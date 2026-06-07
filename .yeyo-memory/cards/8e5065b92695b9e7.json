@@ -1,0 +1,94 @@
+{
+  "id": "8e5065b92695b9e7",
+  "path": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR Rev.00 I&C Signal List.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 154254,
+  "size_human": "151 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-LIS-AEE-000-070-0001-GAR Rev.00 I&C Signal List",
+  "doc_code": "4521-LIS-AEE-000-070-0001",
+  "revision": "Rev.00",
+  "status": "archive_listed",
+  "text_chars": 114,
+  "token_estimate": 28,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/8e5065b92695b9e7.json",
+  "extracted_path": ".yeyo-memory/extracted/8e5065b92695b9e7.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-LIS-AEE-000-070-0001-GAR Rev.00 I&C Signal List.pdf",
+      "4521-LIS-AEE-000-070-0001-GAR Rev.00 I&C Signal List.xlsx"
+    ],
+    "archive_total_uncompressed_bytes": 595253,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx::Document::10",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 10,
+        "doc_code": "4521-LIS-AEE-000-070-0001",
+        "title": "",
+        "revision": "",
+        "status": "IFB",
+        "date": "2017-03-01 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx::Document::46",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 46,
+        "doc_code": "4521-LIS-AEE-000-070-0001",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "dd/mm/aaaa",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0016-GAR_901 Rev.00 Control cable list.xlsx::Document::16",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0016-GAR_901 Rev.00 Control cable list.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 16,
+        "doc_code": "4521-LIS-AEE-000-070-0001",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx::Document::10",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 10,
+        "doc_code": "4521-LIS-AEE-000-070-0001",
+        "title": "",
+        "revision": "",
+        "status": "IFB",
+        "date": "2017-03-01 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx::Document::46",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 46,
+        "doc_code": "4521-LIS-AEE-000-070-0001",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "dd/mm/aaaa",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:27.695198+00:00"
+}

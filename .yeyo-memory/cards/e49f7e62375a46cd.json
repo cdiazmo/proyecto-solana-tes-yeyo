@@ -1,0 +1,35 @@
+{
+  "id": "e49f7e62375a46cd",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Quote 10709 - Atlantica Yield - Salt Drain Pump.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 5682041,
+  "size_human": "5.4 MB",
+  "mtime_iso": "2026-06-05T06:20:00.000Z",
+  "title": "Quote 10709 - Atlantica Yield - Salt Drain Pump",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/e49f7e62375a46cd.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 22,
+    "pdf_metadata": {
+      "CreationDate": "D:20180214153709-05'00'",
+      "Creator": "LANIER MP C305",
+      "ModDate": "D:20180214154523-05'00'",
+      "Producer": "LANIER MP C305"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.904605+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.927384+00:00"
+}

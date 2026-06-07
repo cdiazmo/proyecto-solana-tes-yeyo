@@ -1,0 +1,38 @@
+{
+  "id": "a7e77123704d1338",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/DRA/SOLANA TES HX Permit_Pkg_02_01_2018.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 5888690,
+  "size_human": "5.6 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "SOLANA TES HX Permit Pkg 02 01 2018",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 58429,
+  "token_estimate": 14607,
+  "chunks": 37,
+  "card_path": ".yeyo-memory/cards/a7e77123704d1338.json",
+  "extracted_path": ".yeyo-memory/extracted/a7e77123704d1338.txt",
+  "metadata": {
+    "pages": 23,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180201174137-06'00'",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20180201174353-06'00'",
+      "Producer": "Acrobat Distiller 11.0 (Windows)",
+      "Title": "S1.1"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.225928+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:00.225937+00:00"
+}

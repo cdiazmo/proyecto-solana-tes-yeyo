@@ -1,0 +1,1527 @@
+[page 1]
+ 
+ABENGOA 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+PENETRANT LIQUIDS PROCEDURE 
+ 
+Title 
+PENETRANT LIQUIDS PROCEDURE 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 1950201-PLP-001 
+Supplier Code: 1950201-PLP-001 
+Revision: 00 
+Date: 13/12/2019 
+ 
+Prepared by: 
+PAULA PEREZ URIARTE 
+ 
+ 
+Reviewed by: 
+ENEKO LERMA MALDONADO 
+ 
+ 
+Approved by: 
+JON BARANDA MERINO 
+ 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the 
+express written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENGOA 
+Document: 4521-TTT-EEE-AAA-DDD-CCCC-GAR 
+ 
+Revision: 00 Date: 13/12/2019 
+Page: 2 of 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 13/12/19 INITIAL ISSUE P.P.U. P.A.P. P.A.P. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950201-PLP-001 
+ 
+DATE: 13/12/19 Pag 1/25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION 
+GENERAL PROCEDURE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUSTOMER / CLIENTE :ATLANTICA YIELD 
+JOB / TRABAJO : ENGINEERING / OIL TO SALT HEAT EXCHANGER 
+LOINTEK REF : 1950201 
+CUSTOMER REF. : 
+PROJECT / PROYECTO : HEX replacement TES Solana 
+PLANT / PLANTA : ARIZONA SOLAR ONE LLC 
+LOCATION / LOCALIDAD : ARIZONA (USA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Revised 
+Revisado 
+Aproved 
+Aprobado 
+III 
+00 13/12/19 INITIAL ISSUE P.P.U. E.L.M. J.B.M. 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950201-PLP-001 
+ 
+DATE: 13/12/19 Pag 2/25 
+ 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+ 
+ 
+1. OBJECT 
+2. SCOPE 
+3. CODES 
+4. RESPONSIBILITIES AND AUTHORITY 
+5. NECESSARY EQUIPMENTS AND CONSUMABLES 
+6. PERFORMING THE EXAM 
+7. EVALUATION AND ACCEPTANCE CRITERIA 
+8. EXAMINATION REPORT 
+ 
+ 
+ 
+ 
+
+[page 5]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950201-PLP-001 
+ 
+DATE: 13/12/19 Pag 3/25 
+ 
+ 
+1. OBJECT 
+The purpose of this procedure is to establi sh the minimum requirements to 
+perform the Liquid Penetrant Testi ng in welded joints, edges and metallic 
+material of 6 heat exchangers for Atlantica Yield. 
+ 
+2. SCOPE 
+All those surfaces specified in Inspection Program Point 1950201-PPI-001. 
+ 
+3. CODES 
+According to General procedure IT-CAL-PLP-01 Rev.13 (attached). 
+ 
+4. RESPONSABILITIES AND AUTHORITY 
+According to General procedure IT-CAL-PLP-01 Rev.13 (attached) Paragraph 
+4.2. 
+The evaluatio ns of indications must be performed by qualified personnel at 
+least as Level 2. 
+ 
+5. NECESSARY EQUIPMENTS AND CONSUMABLES 
+According to General procedure IT-CAL-PLP-01 Rev.13 (attached) Paragraph 
+5. 
+ 
+6. PERFORMING THE EXAM 
+According to General procedure IT-CAL-PLP-01 Rev.1 3 (attached) 
+Paragraphs 6 & 7. 
+ 
+7. EVALUATION AND ACCEPTANCE CRITERIA 
+According to General procedure IT-CAL-PLP-01 Rev.13 (attached) Paragraph 
+8 & 9. 
+ 
+8. FINAL REPORT 
+According to General procedure IT-CAL-PLP-01 Rev.13 (attached) Paragraph 
+10. 
+
+[page 6]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 1
+/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION PROCEDURE 
+ASME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Rev. & Aprov. 
+Rev. & Aprob. 
+Aproved 
+Aprobado 
+LEVEL III 
+00 10/07/06 INITIAL ISSUED A.M. J.M.S. 
+01 26/06/07 Updating A.M. J.M.S. L.S.P. 
+02 08/09/10 Updating to ASME 2010 Edition M.D.G. I.I.I.. I.I.I. 
+03 17/03/11 Paragraph 5.0 revised according ASME Team 
+comment M.D.G. I.I.I.. I.I.I. 
+04 16/12/13 Updating to ASME 2013 Edition J.T.A J.B.M J.B.M 
+05 24/02/16 Updating to ASME 2015 Edition J.T.A J.B.M J.B.M 
+06 11/07/16 Multiple corrections A.G.R. J.B.M. J.B.M. 
+07 21/07/16 According ASME Team comment A.G.R. J.B.M. J.B.M. 
+08 05/04/17 Include new penetrating liquids P.A.P J.B.M. J.B.M. 
+09 14/06/17 According ASME Team comment A.G.R. J.B.M. J.B.M. 
+10 16-02-18 Updating to ASME 2017 Edition E.L.M J.B.M. J.B.M. 
+11 12-03-18 TRANSLATION TO SPANISH E.L.M J.B.M. J.B.M. 
+12 18-05-18 Multiple Corrections app. 5.0 / 7.50 /7.6.0 and 
+Tale 1. E.L.M J.B.M. J.B.M. 
+13 19-06-19 According ASME Team comment E.L.M J.B.M. J.B.M. 
+
+[page 7]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 2
+/19 
+ 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+ 
+1.0. OBJECT 
+2.0. SCOPE 
+3.0. CODES 
+4.0. RESPONSIBILITIES AND AUTHORITY 
+5.0. PRODUCTS 
+6.0. SURFACE CONDITION 
+7.0. DESCRIPTION OF THE PROCESS 
+8.0. EVALUATION 
+9.0. ACCEPT/REJECT CRITERIA 
+10.0. FINAL REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 8]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 3
+/19 
+ 
+ 
+ 
+1.0 OBJECT 
+ 
+This procedure describes t he method and requirements f or visible dye 
+penetrant examination using the solvent removable process. 
+This procedure is applicable for the detec tion of discontinuities that are open 
+to the surface in components of non-porous metallic material , welds and 
+temporary attachments. 
+ 
+ 
+2.0 SCOPE 
+ 
+As specified in the particular Inspection Program of the component . 
+ 
+ 
+3.0 CODES 
+ 
+ASME Code, Section V – Non Destructive Examination (2017 Edition). 
+ASME Code, Section VIII Div 1 y 2 – Pressure Vessels (2017 Edition). 
+ASME Section I, Power Boilers (2017 Edition). 
+ASME B 31.1 Power Piping (2016 Edition) 
+WRITTEN PRACTICE ASME. QCM.PR05 
+SNT-TC-1A (2006 Edition) 
+ 
+4.0 RESPONSIBILITIES AND AUTHORITY 
+ 
+4.1.0 QUALITY MANAGER 
+ 
+He has the authority to determine the items that must be checked using this 
+procedure. 
+ 
+ 
+4.2.0 QUALIFIED PERSONNEL 
+ 
+The personnel who will perform the liquid penetrant examinations must be 
+qualified according to Lointek S.L. Written Practice ASME.QCM.PR05. In 
+those cases where the test s are required to meet the EC Pressure Equipment 
+Directive, personnel must be qualified as per ISO 9712/2012 ( EN-473) 
+specifies. 
+ 
+It will also be valid that the subcontractor will be certified according to their 
+own written practice. If the subcontractor's written practice is appr oved by the 
+QC Manager. 
+ 
+The results must be interpreted by a Level II or III qualified and certified 
+personnel. 
+ 
+
+[page 9]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 4
+/19 
+ 
+ 
+A Change of a requirement in Table 2 (attached) identified as an essential 
+variable shall require requalification of the written procedure by demonstration. 
+All changes off essential or non- essential variables from those specified within 
+this written procedure shall require revision of the written procedure. 
+ 
+ 
+5.0 PRODUCTS 
+ 
+The products used will be selected according to: Method C- Type II Visible 
+Penetrant Examination. 
+ 
+The products will be the following ones: 
+ 
+• Dye Penetrant ARDROX 996PB 
+ 
+• Remover ARDROX 9 PR5 
+ 
+• Developer ARDROX 9 D1B 
+ 
+ The following products can also be used. 
+ 
+• Dye Penetrant MAGNAFLUX SKL-SP2 
+ 
+• Remover MAGNAFLUX SKC-S 
+ 
+• Developer MAGNAFLUX SKD-S2 
+ 
+ 
+Another similar product could be used with the approval of the Quality Control 
+Manager and they will be demonstrated to the A.I. 
+ 
+The products must be compatible with the material to examine and with the 
+final use of the examined piece. It is not allowed to mix different makers' 
+products. 
+ 
+The products used for the examination in Nickel base alloys, austenitic or 
+duplex stainless steel and titanium shall be analysed individually, fo r each 
+batch number. 
+ 
+ 
+ 
+6.0 SURFACE CONDITION 
+ 
+6.1.0. CLEANING 
+The areas to be examined and all adjacent areas within at least 1 inch ( 25 
+mm.) will be clean (free of dust , oxide, welding splatter, oils, machining marks 
+or any other that can interfere with the exam or the interpret ation) and will be 
+dry before applying the penetrant. 
+ 
+ 
+ 
+
+[page 10]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 5
+/19 
+ 
+ 
+The cleaning will be made applying solvent: ARDROX 9PR5 when Ardrox 
+products are used or MAGNAFLUX SKC -S when Magnaflux products are 
+used. 
+Drying after cleaning of the surface to be examined s hall be accomplished by 
+normal evaporation or with forced hot or cold air. After all visible traces of the 
+cleaner have been removed, a minimum of fiv e minutes drying time shall be 
+established prior to application of the penetrant. 
+ 
+6.2.0 TEMPERATURE 
+ 
+The temperature of the penetrant and the examined surface will be between 
+the 5ºC and 52ºC throughout the examination period. Local heating or cooling 
+is permitted. 
+ 
+6.3.0 LIGHTING 
+For visible penetrant, t he minimum light intensit y will be 1000 lux. The l ight 
+intensity shall be measured with light meter prior to the evaluation of 
+indications. 
+ 
+Light meters shall be calibrated at least once a year or whenever the meter 
+has been repaired. If meters have not been in use for one year or more, 
+calibration shall be done before being used. 
+ 
+ 
+7.0 DESCRIPTION OF THE PROCESS 
+ 
+7.1.0 APPLICATION OF THE PENETRANT 
+The liquid penetrant examination shall be performed in accordance with 
+minimum and maximum listed in Table 1 (attached) 
+ 
+The examined area must be fully cover ed with the penetrant. This application 
+will be done using the following methods: brushing. 
+ 
+7.2.0 PENETRANT DWELL TIME 
+The appropriate time of penetration for the range of temperatures indicated on 
+the paragraph 6.2.0 of this procedure is at least of 15 minutes. 
+ 
+During this period the penetrant liquid shall not be allowed to dry and shall be 
+applied several times if required. 
+ 
+For temperatures from 5ºC to 10ºC, minimum time shall be 20 minutes. When 
+the examination temperature is out of the range above, this procedure shall be 
+re-qualified for the temperature 
+ 
+When the actual dwell time is changed beyond the range, the procedure shall also 
+be re-qualified 
+ 
+ 
+
+[page 11]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 6
+/19 
+ 
+ 
+The maximum penetrant dwell time shal l not exceed of 30 minutes according 
+to manufacturing recommendations. 
+ 
+ 
+7.3.0 EXCESS PENETRANT REMOVAL 
+ 
+- Organic solvent 
+ 
+First the excess penetrant shall be removed by wiping with a clean, dry, lint -
+free cloth or absorbent paper, repeating the operat ion until most traces of 
+penetrant have been removed. Later the cleaning process continues with rags 
+moistened with solvent until the examined area and the adjacent ones will be 
+fully cleaned. 
+ 
+It is not allowed to apply the solvent directly on the examined area during the 
+cleaning previous to the developer application. 
+ 
+ 
+7.4.0 DRYING AFTER EXCESS PENETRANT REMOVAL 
+The examined surfaces must be totally dry, before applying the developer. 
+ 
+The surface may be dried by normal evaporation, blotting, wiping or forced air. 
+ 
+Drying time after removal of excess penetrant and prior to the application of 
+the developer shall be held to a minimum of 5 minutes and a maximum of 30 
+minutes. 
+ 
+ 
+7.5.0 DEVELOP ING 
+The developer shall be applied as soon as possible, after excess penet rant 
+removal. Prior to applyi ng wet developer to the surface, the developer spray 
+must be thoroughly agitated to ensure adequate mixture. 
+ 
+The developer shall be applied on the examined surface getting a fine layer free of 
+local accumulations. 
+ 
+7.6.0. INTERPRETATION 
+Developing time f or final interpretation begins as soon as wet developer 
+coating is dry. 
+ 
+The f inal interpretation shall be made between 10 and 60 minutes after the 
+developing time has been completed. 
+. 
+If the surface to be examined is large enough to precl ude complete 
+examination, the examination shall be performed in increments. 
+ 
+The surface must be observed during the application of the developer to 
+follow the behaviour of the indications and during the test. 
+ 
+ 
+
+[page 12]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 7
+/19 
+ 
+ 
+ 
+7.7.0 POST-CLEANING 
+Post cleaning is necessary when residual products could interfere with 
+subsequent processing or with service requirements. 
+When post cleaning is required, it should be conducted as soon as practical 
+after evaluation and documentation with approved products. 
+ 
+ 
+TABLE 1 
+ 
+TIME LIMITS FOR STEPS IN PENETRANT EXAMINATION PROCEDURE 
+Procedure Step Time Minimum Time Maximum 
+Drying After Preparation (6.1.0) 5 minutes - 
+Penetrant dwell (7.2.0) 15 minutes ( 10ºC to 52ºC) 
+20 minutes (5ºC to 10ºC) 
+Recommended by the 
+manufacture: 30 minutes 
+Drying after penetrant removal (7.4.0) 5 minutes 30 minutes 
+Developer application (7.5.0) - 5 minutes 
+Developing and interpretation time (7.6.0) 10 minutes 60 minutes 
+(See to paragraph 7.6.0) 
+ 
+ 
+8.0 EVALUATION 
+ 
+An indication is the evidence of a mechanical discontinuity. 
+An indication of an imperfection may be larger than the imperfection that 
+causes it; however, the size of the indication is the basis for acceptance 
+evaluation. Only indications with major dimensions greater than 1,5 mm shall 
+be considered relevant. 
+ 
+• Linear indications are those having a length exceeding three tim es the 
+width of the indication. 
+ 
+• Rounded indications are those which are circular or elliptical and have 
+a length of less than three times the width of the indication. 
+ 
+• Any doubtful or questionable indication will be checked again to verify if 
+it is relevant. 
+ 
+Any indication that is believed to be non-relevant shall be regarded as a defect 
+until the indication is eliminated by surface conditioning or evaluat ed by other 
+non-destructive means and demonstrated to be non-relevant. 
+ 
+When two adjacent indications are separated by a lower distance than the 
+bigger dimension of the smallest one, they should be evaluated as a single 
+continuous indication. 
+ 
+
+[page 13]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 8
+/19 
+ 
+ 
+The final ev aluation of the dimension of the indication should be carried out 
+after the minimum time of development has lapsed and before the indication 
+has delayed until the point of not representing the origin of the imperfection. 
+ 
+ 
+9.0 ACCEPT / REJECT CRITERIA 
+ 
+All surfaces to be examined shall be free of: 
+ 
+According with ASME I, ASME VIII Div.1 & 2 
+ 
+Cracks like indications detected irrespective of surface conditions . 
+• Relevant linear indication. 
+ 
+• Relevant rounded indications greater than 5 mm. 
+ 
+• Four or more relevant rounded indications in a line separated by 1,5 mm. 
+or less (edge to edge). 
+ 
+According with ASME B31.1 
+ 
+• Any cracks or linear indications 
+ 
+ 
+• Rounded indications greater than 5 mm 
+ 
+• Four or more relevant rounded indications in a line separated by 2 mm. or 
+less (edge to edge). 
+ 
+• Ten or more rounded indications in any 3870mm2 of surface with the 
+major dimension of this area not to exceed 150mm with the area taken in 
+the most unfavourable location relative to the indications being evaluated 
+ 
+Only indications with major dimensions greater t han 1,5 mm shall be 
+considered relevant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 14]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION GENERAL 
+PROCEDURE 
+ 
+REV : 
+ 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 9
+/19 
+ 
+ 
+ 
+ 
+10.0 FINAL REPORT 
+ 
+The result of the exam will be documented with the corresponding report that 
+will include as minimum the following data: 
+ 
+• Job number. 
+• Procedure identification and revision. 
+• Drawing. 
+• Identification of the weld, part or component examined. 
+ 
+• Description of the piece; material and thickness 
+• Equipment and products. Lighting equipment 
+ 
+• Type of each penetrant, penetrant remover and developer used 
+ 
+ 
+• Map or record of indications 
+ 
+ 
+• NDE operator qualifications 
+ 
+• Date of examination 
+ 
+• Evaluation and acceptance criteria 
+
+[page 15]
+ 
+ 
+ 
+LIQUID PENETRANT EXAMINATION 
+ASME 
+ 
+REV : 
+10 
+13 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 19/06/19 Pag 10/9 
+ 
+ 
+ 
+TABLE 2 
+ 
+REQUIREMENTS OF A LIQUID PENETRANT EXAMINATION PROCEDURE 
+ 
+R E Q U I R E M E N T ESSENTIAL NONESSENTIAL 
+ 
+Paragraph 
+ 
+Identification of and any change in type or family group of penetrant materials including 
+developers, emulsifiers, etc. X … 
+5 
+Surface preparation (finishing and cleaning, including type of cleaning solvent) X … 6 
+Method of applying penetrant X … 7.1.0 
+Method of removing excess surfaces penetrant X … 7.3.0 
+Hydrophilic or lipophilic emulsifier concentration and dwell time in dip tanks and agitation 
+time for hydrophilic emulsifier X … n.a 
+Hydrophilic emulsifier concentration in spray applications X … n.a 
+Method of applying developer X … 7.5.0 
+Minimum and maximum time periods between steps and drying aids X … 7.6.0 
+Decrease in penetrant dwell time X … 7.2.0 
+Increase in developer dwell time (Interpretation Time) X … 7.2.0 
+Minimum light intensity X … 6.3.0 
+Surface temperature outside 40 to 125ºF. (5 to 52ºC.) or as previously qualified X … 6.2.0 
+Performance demonstration, when required X … n.a 
+Personnel qualification requirements … X 4.2.0 
+Materials, shapes, or sizes to be examined and the extent of examination … X 1.0 
+Post-examination cleaning technique … X 7.7.0 
+
+[page 16]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+11 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 12/03/18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX I: TRANSLATION TO SPANISH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 17]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 1/9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCEDIMIENTO DE INSPECCIÓN POR LIQUIDOS PENETRANTES 
+ASME 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Rev. & Aprov. 
+Rev. & Aprob. 
+Aproved 
+Aprobado 
+LEVEL III 
+00 10/07/06 INITIAL ISSUED/ A.M. J.M.S. 
+01 26/06/07 Updating /Actualizado A.M. J.M.S. L.S.P. 
+02 08/09/10 Updating to ASME 2010 Edition/actualizado 2010 M.D.G. I.I.I.. I.I.I. 
+03 17/03/11 
+Paragraph 5.0 revised according ASME Team 
+comment. / Párrafo 5 revisado Acc. inspector 
+ASME 
+M.D.G. I.I.I.. I.I.I. 
+04 16/12/13 Updating to ASME 2013 Edition.Actualziado 
+ASME 2013 J.T.A J.B.M J.B.M 
+05 24/02/16 Updating to ASME 2015 Edition.ctualziado ASME 
+2015 J.T.A J.B.M J.B.M 
+06 11/07/16 Multiple corrections/ Varias Correcciones A.G.R. J.B.M. J.B.M. 
+07 21/07/16 According ASME Team comment/Revisado 
+acuerdo comentarios Inspector ASME A.G.R. J.B.M. J.B.M. 
+08 05/04/17 Include new penetrating liquids. / Se incluyne 
+nuevos productos P.A.P J.B.M. J.B.M. 
+09 14/06/17 According ASME Team comment//Revisado 
+acuerdo comentarios Inspector ASME A.G.R. J.B.M. J.B.M. 
+10 16-02-18 Updating to ASME 2017 Edition/Actualizado 
+ASME 2017 E.L.M J.B.M. J.B.M. 
+11 12-03-18 TRANSLATION TO SPANISH/ Traducción E.L.M J.B.M. J.B.M. 
+12 15-05-18 Correcciones apartados 5.0 /7.5.0 y Tabla 1 
+7.7.0 E.L.M J.B.M. J.B.M. 
+13 19/06/19 According ASME Team comment/Revisado 
+acuerdo comentarios Inspector ASME E.L.M J.B.M. J.B.M. 
+ 
+
+[page 18]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 2/9 
+ 
+ 
+ 
+INDICE 
+ 
+1.0. OBJETO 
+2.0. CAMPO DE APLICACION 
+3.0. NORMAS DE REFERENCIA 
+4.0. RESPONSABILIDADES Y AUTORIDAD 
+5.0. PRODUCTOS 
+6.0. CONDICIÓN SUPERFICIAL 
+7.0. DESCRIPCIóN DEL PROCESO 
+8.0. EVALUACION 
+9.0. CRITERIOS DE ACEPTACIóN 
+10.0. INFORME FINAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 19]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 3/9 
+ 
+ 
+ 
+ 
+1.0 OBJETO 
+ 
+Este procedimiento describe el método para la detección de discontinuidades abiertas 
+en soldaduras y componentes de materiales metálicos no porosos, utilizando el método 
+de Líquidos Penetrantes Coloreados. 
+ 
+2.0 CAMPO DE APLICACION 
+ 
+Alcanza a todas aquellas superficies especificadas en el programa de 
+inspección particular del componente. 
+ 
+ 
+3.0 NORMAS DE APLICACION 
+ 
+Codigo ASME, Seccion V – Ensayos no destructivos (Edicion 2017) 
+Codigo ASME, Seccion VIII Div 1 y 2 – Depósitos a presión (Edicion 2017) 
+Codigo ASME, Seccion I – Construccion de Calderas de Potencia. (2017 Edition) 
+ASME B 31.1 Power Piping (2012 Edition) 
+PRACTICA ESCRITA ASME. QCM.PR05 
+SNT-TC-1A (Edicion 2006) 
+ 
+4.0 RESPONSIBILIDADES Y AUTORIDAD 
+ 
+4.1.0 RESPONSABLE DE CALIDAD 
+ 
+ Tiene autoridad para determinar las piezas sometidas a la prueba de inspección 
+aplicando este procedimiento. 
+. 
+ 
+4.2.0 PERSONAL CUALIFICADO 
+ 
+El personal deberá estar cualificado y certificado de acuerdo con la practica escrita 
+de Lointek S.L. ASME. QCM.PR05. En los casos en que las inspecciones sean 
+realizados para cumplir con los requisitos del reglamento de aparatos a presión, el 
+personal deberá estar cualificado según ISO 9712/2012 (EN-473). 
+ 
+ También será válido operadores de END certificados de acuerdo a la práctica 
+escrita del Subcontratista, si la práctica escrita del Subcontratista es aprobada por 
+del Responsable de Calidad de LOINTEK. 
+ 
+ La evaluación de los resultados únicamente la podrá realizar un operador 
+cualificado y certificado como Nivel II o III. 
+ 
+ 
+
+[page 20]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 4/9 
+ 
+ 
+Un cambio de los requerimientos de la Tabla 2 (anexa) identificados como variable 
+esencial requiere recualificación del procedimiento escrito mediante demostración. 
+Todos los cambios de variables esenciales o no esenciales de las especificadas en 
+este procedimiento requieren revisión del procedimiento escrito. 
+ 
+ 
+5.0 PRODUCTOS 
+ 
+Los productos utilizados corresponden al Método C – Tipo II: Examen de Lí quidos 
+Penetrantes visibles. 
+ 
+Los productos a emplear serán los siguientes: 
+ 
+• Penetrante rojo ARDROX 996PB 
+ 
+• Eliminador ARDROX 9 PR 5 
+ 
+• Revelador ARDROX 9 D1B 
+ 
+ Se pueden utilizar los siguientes productos 
+ 
+• Penetrante MAGNAFLUX SKL- SP2 
+ 
+• Eliminador MAGNAFLUX SKC-S 
+ 
+• Revelador MAGNAFLUX SKD-S2 
+ 
+Se podrán utilizar otros productos de similares características siempre y cuando se 
+cuente con la aprobación del responsable del departamento de calidad y deberán 
+ser demostrados al I.A. 
+ 
+Los productos de ensayo por líquidos penetrantes deben ser compatibles con el 
+material a examinar y con el uso para el que esté diseñada la pieza. No se podrán 
+mezclar productos de diferentes fabricantes. 
+ 
+La inspección de materiales en base Níquel, Aceros Inoxidables Austeníticos o 
+Duplex y T itanio, deberá ser de manera individual , por cada número de Lote 
+conforme a la sección V, artículo 6, Apéndice II del código ASME. 
+ 
+ 
+6.0 CONDICION SUPERFICIAL 
+ 
+6.1.0 LIMPIEZA 
+ 
+El área a examinar deberá incluir el volumen de la soldadura y la zona afectada 
+térmicamente o bien 25 mm a cada lado de la soldadura, aquella que sea mayor. 
+Las zonas a examinar deberán estar limpias de cualquier contaminante y secas 
+antes de aplicar el penetrante. Se consi deran como contaminantes la cascarilla, 
+óxido, proyecciones de soldadura, aceites, marcas de mecanizado o cualquier otra 
+materia extraña que pueda interferir con el examen o la interpretación. 
+ 
+La limpieza se realizará aplicando el disolvente: ARDROX 9PR5 cuando se utilicen 
+productos ARDROX o MAGNAFLUX SKC -S cuando se utilicen productos 
+MAGNAFLUX 
+
+[page 21]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 5/9 
+ 
+ 
+ 
+El secado después de la limpieza de la superficie a examinar deberá reali zarse con 
+evaporación normal o con evaporación forzada de aire caliente o frío. El tiempo de 
+secado antes de aplicar el penetrante deberá ser como mínimo 5 minutos. 
+ 
+6.2.0 TEMPERATURA 
+ 
+La temperatura de la superficie examinada y de los productos deberá est ar entre 
+los 5 ºC y 52 ºC durante el periodo de inspección. Calentamiento o enfriamiento 
+local es posible. 
+ 
+6.3.0 ILUMINACIÓN 
+ 
+La mínima iluminación será de 1000 lux en la superficie a examinar. La intendidad 
+de la luz deberá ser medida con un luxómetro pr evío a la evaluación de las 
+indicaciones. 
+ 
+El luxometro deberá ser calibrado como mínimo una vez al año o cada vez que se 
+repare. Si el equipo no ha sido usado en un año o más, se deberá calibrar antes de 
+su uso. 
+ 
+7.0 DESCRIPCION DEL PROCESO 
+ 
+7.1.0 APLICACION DEL PENETRANTE 
+ 
+El examen por líquidos penetrantes será realizado en concordancia con los 
+mínimos y máximos listados en la Tabla 1 (anexada) 
+ 
+Deberá realizarse cubriendo total y uniformemente con penetrante el área que se 
+examina. Ésta aplicación se l levará a cabo por medio de inmersión, pincel, o por 
+pulverización. 
+ 
+ 
+7.2.0 TIEMPO DE PERMANENCIA DEL PENETRANTE 
+ 
+El tiempo mínimo de permanencia del líquido penetrante para el rango de 
+temperaturas indicadas en el parágrafo 6.2.0 de este procedimiento es de al 
+menos 15 minutos. 
+ 
+Durante este periodo, el líquido penetrante no deberá secarse, s i fuese necesario, 
+deberá ser aplicado varias veces. 
+ 
+Para temperaturas entre 5ºC y 10ºC, el mínimo tiempo de revelado deberá ser de 
+20 minutos . Para otro rango de temperaturas el procedimiento deberá ser re -
+cualificado. 
+ 
+ 
+El tiempo máximo recomendado por el fabricante no deberá exceder de 30minutos. 
+ 
+ 
+ 
+ 
+
+[page 22]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 6/9 
+ 
+ 
+ 
+ 
+ 
+ 
+7.3.0 ELIMINACION DEL EXCESO DE PENETRANTE 
+ 
+- Disolvente orgánico 
+ 
+En un primer momento el exceso de penetrante se eliminará con papel absorbente 
+o con trapos limpios, secos y libres de pelusa, repitiendo la operación hasta que se 
+eliminen la mayoría de los restos de penetrante Posteriormente se seguirá 
+limpiando con trapos humedecidos con disolvente frotando tanto la zona 
+examinada como las adyacentes hasta que no se aprecie ningún resto de 
+penetrante. 
+ 
+No está permitido aplicar el eliminador directamente sobre la zona examinada 
+durante la limpieza anterior al revelado. 
+ 
+7.4.0 SECADO DESPUES DE ELIMINAR EL EXCESO DE PENETRANTE. 
+ 
+Las superficies inspeccionadas deberán estar completamente secas, antes de 
+aplicar el revelador. 
+ 
+Las superficies se pueden secar por evaporación, (exposición a temperatura 
+ambiente), secando con material absorbente o mediante soplado con aire. 
+ 
+El tiempo de secado después de eliminar el exceso de penetrante y previo a la 
+aplicación del revelado deberá ser entre un mínimo de 5 minutos y un máximo de 
+30 minutos. 
+ 
+ 
+7.5.0 REVELADO 
+ 
+El revelador deberá ser aplicado lo antes posible tras la eliminació n del exceso de 
+penetrante. Antes de aplicar el revelador húmedo a la superficie, el bote 
+pulverizador deberá ser agitado para asegurar la mezcla adecuada. 
+ 
+El revelador deberá aplicarse uniformemente sobre la superficie examinada 
+consiguiendo una capa fina libre de acumulaciones locales. 
+ 
+. 
+7.6.0 INTERPRETACIÓN 
+ 
+El tiempo de revelado para la interpretación final, comenzará inmediatamente 
+después del secado del revelador húmedo. 
+ 
+La interpretación final se hará entre 10 y 60 minutos después de que el tiempo de 
+revelado haya transcurrido. 
+ 
+Si la superficie a examinar es lo suficientemente l arga que imposibilita el examen 
+completo, el examen se realizará en fases. 
+
+[page 23]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 7/9 
+ 
+ 
+ 
+Se observará detenidamente la superficie durante la aplicación del revelador para 
+seguir el comportamiento de las indicaciones. 
+ 
+7.7.0 LIMPIEZA FINAL 
+ 
+Se eliminarán todos los producto s empleados sobre la pieza siempre que puedan 
+interferir en el uso final de la pieza o en posteriores operaciones de proceso. 
+ 
+El penetrante y el revelador se eliminarán lo antes posible con productos 
+aprobados. 
+ 
+Tabla 1 
+TIEMPO LÍMITE PARA LOS PASOS EN EL PROCEDIMIENTO DE LÍQUIDOS PENETRANTES 
+PASOS DEL PROCEDIMIENTO Tiempo mínimo Tiempo máximo 
+Secado después de la preparación (6.1.0) 5 minutos - 
+Penetrante (7.2.0) 15 minutos (10ºC a 52ºC) 
+20 minutos (5ºC a 10ºC) 
+Lo recomendado por el 
+fabricante o 2 horas 
+Secado después de eliminar el penetrante 
+(7.4.0) 5 minutos 30 minutos 
+Aplicación del revelado (7.5.0) - 5 minutos 
+Revelado e interpretación final (7.6.0) 10 minutos 60 minutos 
+(Mirar parágrafo 7.6.0) 
+ 
+ 
+8.0 EVALUACION 
+ 
+Una indicación es la evidencia de una imperfección mecánica. 
+ 
+Una indicación de una imperfección podrá tener mayor longitud que la 
+imperfección que lo causa, sin embargo los criterios de aceptación se basan 
+principalmente en el tamaño de las indicaciones. Solo las indicaciones con 
+dimensiones mayores a 1,5 mm se considerarán relevantes: 
+ 
+• Indicaciones lineales son aquellas en las cuales la longitud es mayor que tres veces 
+la anchura. 
+ 
+• Indicaciones redondeadas son aquellas de forma circular o elíptica cuya longitud es 
+menor que tres veces la anchura. 
+ 
+• Cualquier indicación dudosa o cuestionable será comprobada nuevamente para 
+verificar si es o no relevante. 
+ 
+Cualquier indicación que se crea que es una falsa indicación, se considerará como 
+defecto hasta que la indicación sea eliminada por la s condiciones superficiales o 
+
+[page 24]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 18/05/18 Pag 8/9 
+ 
+ 
+evaluada por otro Ensayo No Destructivo que la considere como falsa indicación. 
+ 
+ 
+ 
+Cuando dos indicaciones adyacentes están separadas por una distancia inferior a 
+la mayor dimensión de la más pequeña de las dos indicaciones de ben tratarse 
+como si fuera una sola indicación continua. 
+ 
+La evaluación final de la dimensión de la indicación debe realizarse después de 
+que el tiempo mínimo de revelado ha transcurrido y antes de que la indicación haya 
+decaído hasta el punto de no representar el origen de la imperfección. 
+ 
+ 
+De acuerdo a ASME B 31.1 
+ 
+• Indicaciones relevantes lineales. 
+• Indicaciones relevantes redondas mayores de 5 mm. 
+• Cuatro o más indicaciones relevantes redondas en línea separadas por 2 mm. 
+o menos (borde a borde) 
+• Diez o más indicaciones relevantes redondas en una superficie de 3870 mm 2 
+con un área que no excederá los 150 mm en la localización más desfavorable 
+Sólo se considerarán relevantes aquellas indicaciones cuyas dimensiones superen 
+los 1.5 mm. 
+ 
+10.0 INFORME FINAL 
+ 
+El resultado del examen se documentará con el correspondiente informe que 
+deberá incluir como mínimo los siguientes datos: 
+ 
+• Número referencia de trabajo/ Obra 
+ 
+• Procedimiento y revisión 
+• Plano 
+ 
+• Identificación de la soldadura, parte o componete inspeccionado. 
+• Descripición de la pieza; material y espesor. 
+• Equipamiento y productos; Equipo de iluminación. 
+• Tipo de penetrante, eliminador y revelador usado. 
+• Mapa o registro de las indicaciones. 
+• Cualificación del operario de END. 
+• Fecha de examen , Evaluación y Criterio de Aceptación. 
+
+[page 25]
+ 
+ 
+ 
+PROCEDIMIENTO GENERAL DE LÍQUIDOS PENETRANTES 
+ASME 
+ 
+REV : 
+10 
+12 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PLP-01 
+ 
+DATE: 12/03/18 Pag 9/9 
+ 
+ 
+ 
+TABLA 2 
+ 
+REQUERIMIENTOS DEL PROCEDIMIENTO DE INSPECCION POR LIQUIDOS PENETRANTES 
+ 
+R E Q U E R I M I E N T O VARIABLE 
+ESENCIAL 
+VARIABLE 
+ NO ESENCIAL 
+ 
+Apartado 
+ 
+Identificación de cualquier cambio en el tipo o grupo de familia de productos 
+penetrantes incluido revelador, emulsionante, etc. X … 
+5 
+Preparación superficial (acabado y limpieza, incluido tipo de disolvente) X … 6 
+Método de aplicación del penetrante X … 7.1.0 
+Método de eliminación del exceso de penetrante X … 7.3.0 
+Concentración de emulsionante hid rofílico o lipofílico y tiempo de revelado 
+en tanque de inmersión y tiempo de agitado para emulsionante hidrofílico X … n.a 
+Concentración de emulsionante hidrofílico en aplicaciones de spray X … n.a 
+Método de aplicación del revelador X … 7.5.0 
+Mínimo y máximo periodo de tiempo entre pasos y secado X … 7.6.0 
+Disminución de tiempo de revelado del penetrante X … 7.2.0 
+Aumento de tiempo de revelado del penetrante (Tiempo de Interpretación) X … 7.2.0 
+Mínima intensidad de luz X … 6.3.0 
+Temperatura de la superficie fuera de entre 5 a 52ºC, o la previamente 
+cualificada X … 6.2.0 
+Desempeño de la demostración, cuando requiera X … n.a 
+Requerimientos de cualificacion del personal … X 4.2.0 
+Materiales, formas o tamaños a examinar y alcance de la inspección … X 1.0 
+Técnica de limpieza final tras la inspección … X 7.7.0

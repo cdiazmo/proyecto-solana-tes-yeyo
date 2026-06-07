@@ -1,0 +1,33 @@
+{
+  "id": "ceb9d7f4b274efd5",
+  "path": "07 Presentado al Condado/003 Planning distribucion/Order 186461 summary.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 63804,
+  "size_human": "62 KB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "Order 186461 summary",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1025,
+  "token_estimate": 256,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/ceb9d7f4b274efd5.json",
+  "extracted_path": ".yeyo-memory/extracted/ceb9d7f4b274efd5.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Powered By Crystal",
+      "Creator": "Crystal Reports"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.387525+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.387529+00:00"
+}

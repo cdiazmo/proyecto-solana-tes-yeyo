@@ -1,0 +1,31 @@
+{
+  "id": "519c6f6a53a72b82",
+  "path": "04 GD Fabricacon LOI TES 3/Plan calidad y ITP/1950201-PPI-001_Rev00.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 265705,
+  "size_human": "259 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PPI-001 Rev00",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13638,
+  "token_estimate": 3409,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/519c6f6a53a72b82.json",
+  "extracted_path": ".yeyo-memory/extracted/519c6f6a53a72b82.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20191211102437+01'00'",
+      "Creator": "Microsoft® Word para Office 365",
+      "ModDate": "D:20191211102437+01'00'",
+      "Producer": "Microsoft® Word para Office 365",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:32.349337+00:00"
+}

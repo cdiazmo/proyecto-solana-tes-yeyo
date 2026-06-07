@@ -1,0 +1,1067 @@
+[page 1]
+HEX REPLACEMENTWIRING DIAGRAMS
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 00
+HEX REPLACEMENT. WIRING DIAGRAMSCOVER120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 2]
+INDEXSheetDescriptionRevision 01234567891011121314
+CoverIndexJunction box IJB-250-A1-620Junction box IJB-250-A1-621Junction box IJB-250-D1-610Junction box IJB-250-D1-611Junction box IJB-250-D1-612Junction box IJB-250-A1-622Junction box IJB-250-A1-623Junction box IJB-250-D1-613Junction box IJB-250-D1-614Junction box IJB-250-D1-615Junction box IJB-250-D1-616Junction box IJB-250-A1-624Junction box IJB-250-D1-617
+000000000000000
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 10
+HEX REPLACEMENT. WIRING DIAGRAMSINDEX120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 3]
+PIT-5-255-01TIT-5-255-01PIT-5-255-02TIT-5-255-02PIT-5-255-03TIT-5-255-03
+PIT-5-255-06
+IJB-250-A1-620
+SPARESPARESPARESPARE
+PIT-5-255-07
+PIT-5-255-08TIT-5-255-08PIT-5-255-09TIT-5-255-09
+IJB-250-A1-620
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK1WH1BK13WH13
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK3WH3BK15WH15SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK4WH4BK16WH16SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK5WH5BK17WH17SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK6WH6BK18WH18
+SHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK2WH2BK14WH14TIT-5-255-07
+SHIELDSHIELDBKWHSHIELDBK10WH10BK22WH22
+SHIELDSHIELDBKWHSHIELDBK12WH12BK24WH24
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+PIT-5-255-04TIT-5-255-04PIT-5-255-05TIT-5-255-05
+TIT-5-255-06
+PIT-5-255-10TIT-5-255-10SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK7WH7BK17WH17SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK8WH8BK18WH18
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 20
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-A1-620120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 4]
+PIT-5-251-20APIT-5-251-20BPIT-5-251-20CPIT-5-251-10APIT-5-251-10BPIT-5-251-10C
+PIT-5-251-41
+IJB-250-A1-621
+SPARESPARESPARESPARESPARE
+TIT-5-251-18C
+IJB-250-A1-621
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK1WH1BK13WH13
+SHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK2WH2BK14WH14TIT-5-251-18D
+SHIELDSHIELDBKWHSHIELDBK10WH10BK22WH22
+SHIELDSHIELDBKWHSHIELDBK12WH12BK24WH24
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21SHIELDSHIELDBKWHSHIELDBK8WH8BK20WH20 PIT-5-251-39PIT-5-251-40TIT-5-251-08CTIT-5-251-08D
+PIT-5-251-42
+SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SPARE SHIELDSHIELDBKWHSHIELDBK6WH6BK22WH22SHIELDSHIELDBKWHSHIELDBK5WH5BK21WH21SHIELDSHIELDBKWHSHIELDBK4WH4BK20WH20SHIELDSHIELDBKWHSHIELDBK3WH3BK19WH19SPARESPARESPARE
+SPARE
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 30
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-A1-621120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 5]
+IJB-250-D1-610
+SPARESPARESPARESPARESPARE
+IJB-250-D1-610
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BKIWHIBKDWHD
+SHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK2WHIBKDWHD
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SPARE
+SHIELDSHIELDBKWHSHIELDBK5WH5BK21WH21
+SHIELDSHIELDBKWHSHIELDBK3WH3BK19WH19
+ZS-5-255-15ZSO-5-255-15ZSC-5-255-15
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK4WH4BKDWHD ZSC-5-255-16
+SHIELDSHIELDBKWHSHIELDBK6WH6BKDWHD ZSC-5-255-17
+SHIELDSHIELDBKWHSHIELDBK8WH8BKDWHD ZSC-5-255-18
+SHIELDSHIELDBKWHSHIELDBK10WH10BKDWHD ZSC-5-255-19
+SHIELDSHIELDBKWHSHIELDBK12WH12BKDWHD ZSC-5-255-20
+ZS-5-255-16ZSO-5-255-16
+ZS-5-255-17ZSO-5-255-17
+ZS-5-255-18ZSO-5-255-18
+ZS-5-255-19ZSO-5-255-19
+ZS-5-255-20ZSO-5-255-20
+ZS-5-255-21ZSO-5-255-21ZSC-5-255-21BKWHSHIELDZSC-5-255-22ZS-5-255-22ZSC-5-255-22
+BKWHSHIELD
+BKWHSHIELDZSC-5-255-23ZS-5-255-23ZSC-5-255-23
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 40
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-610120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 6]
+IJB-250-D1-611
+IJB-250-D1-611
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+SPARESPARESPARESPARESPARE
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+SHIELDSHIELDBKWHSHIELDBKIWHIBKDWHDSHIELDSHIELDBKWHSHIELDBK2WHIBKDWHD
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SPARE
+SHIELDSHIELDBKWHSHIELDBK5WH5BK21WH21
+SHIELDSHIELDBKWHSHIELDBK3WH3BK19WH19
+ZS-5-255-24ZSO-5-255-24ZSC-5-255-24
+SHIELDSHIELDBKWHSHIELDBK4WH4BKDWHD ZSC-5-255-25
+SHIELDSHIELDBKWHSHIELDBK6WH6BKDWHD ZSC-5-255-26
+SHIELDSHIELDBKWHSHIELDBK8WH8BKDWHD ZSC-5-255-27
+SHIELDSHIELDBKWHSHIELDBK10WH10BKDWHD ZSC-5-255-28
+SHIELDSHIELDBK12WH12BKDWHD
+ZS-5-255-25ZSO-5-255-25
+ZS-5-255-26ZSO-5-255-26
+ZS-5-255-27ZSO-5-255-27
+ZS-5-255-28ZSO-5-255-28
+SHIELDSHIELDBK11WH11BKDWHD SPARESPARE
+SPARESPARESPARESPARESPARE
+SPARE
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 50
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-611120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 7]
+XV-5-255-15XV-5-255-16XV-5-255-17XV-5-255-18XV-5-255-19XV-5-255-20
+XV-5-255-25
+IJB-250-D1-612
+SPARESPARESPARESPARE
+IJB-250-D1-612
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
++ 1
+891011
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+SHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23SHIELDSHIELDBKWHSHIELDBK10WH10BK22WH22SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+XV-5-255-21XV-5-255-22XV-5-255-23XV-5-255-24
+SHIELDSHIELDBKWHSHIELDBK8WH8BK20WH20SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SHIELDSHIELDBKWHSHIELDBK6WH6BK18WH18SHIELDSHIELDBKWHSHIELDBK5WH5BK17WH17SHIELDSHIELDBKWHSHIELDBK4WH4BK16WH16SHIELDSHIELDBKWHSHIELDBK3WH3BK15WH15SHIELDSHIELDBKWHSHIELDBK2WH2BK14WH14SHIELDSHIELDBKWHSHIELDBK1WH1BK13WH13
+2412 + 12- 12SH+ 24- 24SHSHIELDSHIELDBK12WH12BKDWHD
+SPARESPARESPARESPARE
+SPARESPARESPARESPARE
+SPARE
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 60
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-612120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 8]
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+PIT-6-255-01TIT-6-255-01PIT-6-255-02TIT-6-255-02PIT-6-255-03TIT-6-255-03
+PIT-6-255-06
+IJB-250-A1-622
+SPARESPARESPARESPARE
+PIT-6-255-07
+PIT-6-255-08TIT-6-255-08PIT-6-255-09TIT-6-255-09
+IJB-250-A1-622
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK1WH1BK13WH13
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK3WH3BK15WH15SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK4WH4BK16WH16SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK5WH5BK17WH17SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK6WH6BK18WH18
+SHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK2WH2BK14WH14TIT-6-255-07
+SHIELDSHIELDBKWHSHIELDBK10WH10BK22WH22
+SHIELDSHIELDBKWHSHIELDBK12WH12BK24WH24
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+PIT-6-255-04TIT-6-255-04PIT-6-255-05TIT-6-255-05
+TIT-6-255-06
+PIT-6-255-10TIT-6-255-10SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK7WH7BK17WH17SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK8WH8BK18WH18
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 70
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-A1-622120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 9]
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+PIT-6-251-20APIT-6-251-20BPIT-6-251-20CPIT-6-251-10APIT-6-251-10BPIT-6-251-10C
+PIT-6-251-41
+IJB-250-A1-623
+SPARESPARESPARESPARESPARE
+TIT-6-251-18C
+IJB-250-A1-623
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK1WH1BK13WH13
+SHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK2WH2BK14WH14TIT-6-251-18D
+SHIELDSHIELDBKWHSHIELDBK10WH10BK22WH22
+SHIELDSHIELDBKWHSHIELDBK12WH12BK24WH24
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21SHIELDSHIELDBKWHSHIELDBK8WH8BK20WH20 PIT-6-251-39PIT-6-251-40TIT-6-251-08CTIT-6-251-08D
+PIT-6-251-42
+SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SPARE SHIELDSHIELDBKWHSHIELDBK6WH6BK22WH22SHIELDSHIELDBKWHSHIELDBK5WH5BK21WH21SHIELDSHIELDBKWHSHIELDBK4WH4BK20WH20SHIELDSHIELDBKWHSHIELDBK3WH3BK19WH19SPARESPARESPARE
+SPARE
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 80
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-A1-623120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 10]
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+IJB-250-D1-613
+SPARESPARESPARESPARESPARE
+IJB-250-D1-613
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BKIWHIBKDWHD
+SHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK2WHIBKDWHD
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SPARE
+SHIELDSHIELDBKWHSHIELDBK5WH5BK21WH21
+SHIELDSHIELDBKWHSHIELDBK3WH3BK19WH19
+ZS-6-255-15ZSO-6-255-15ZSC-6-255-15
+SHIELDSHIELDBKWHSHIELDBKWHSHIELD BK4WH4BKDWHD ZSC-6-255-16
+SHIELDSHIELDBKWHSHIELDBK6WH6BKDWHD ZSC-6-255-17
+SHIELDSHIELDBKWHSHIELDBK8WH8BKDWHD ZSC-6-255-18
+SHIELDSHIELDBKWHSHIELDBK10WH10BKDWHD ZSC-6-255-19
+SHIELDSHIELDBKWHSHIELDBK12WH12BKDWHD ZSC-6-255-20
+ZS-6-255-16ZSO-6-255-16
+ZS-6-255-17ZSO-6-255-17
+ZS-6-255-18ZSO-6-255-18
+ZS-6-255-19ZSO-6-255-19
+ZS-6-255-20ZSO-6-255-20
+ZS-6-255-21ZSO-6-255-21ZSC-6-255-21BKWHSHIELDZSC-6-255-22ZS-6-255-22ZSC-6-255-22
+BKWHSHIELD
+BKWHSHIELDZSC-6-255-23ZS-6-255-23ZSC-6-255-23
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 90
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-613120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 11]
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+IJB-250-D1-614
+IJB-250-D1-614
+SPARESPARESPARESPARESPARE
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
+24
++ 1
+89101112
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SH+ 24- 24SH
+SHIELDSHIELDBKWHSHIELDBKIWHIBKDWHDSHIELDSHIELDBKWHSHIELDBK2WHIBKDWHD
+SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SPARE
+SHIELDSHIELDBKWHSHIELDBK5WH5BK21WH21
+SHIELDSHIELDBKWHSHIELDBK3WH3BK19WH19
+ZS-6-255-24ZSO-6-255-24ZSC-6-255-24
+SHIELDSHIELDBKWHSHIELDBK4WH4BKDWHD ZSC-6-255-25
+SHIELDSHIELDBKWHSHIELDBK6WH6BKDWHD ZSC-6-255-26
+SHIELDSHIELDBKWHSHIELDBK8WH8BKDWHD ZSC-6-255-27
+SHIELDSHIELDBKWHSHIELDBK10WH10BKDWHD ZSC-6-255-28
+SHIELDSHIELDBK12WH12BKDWHD
+ZS-6-255-25ZSO-6-255-25
+ZS-6-255-26ZSO-6-255-26
+ZS-6-255-27ZSO-6-255-27
+ZS-6-255-28ZSO-6-255-28
+SHIELDSHIELDBK11WH11BKDWHD SPARESPARE
+SPARESPARESPARESPARESPARE
+SPARE
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-70-0002-GAR Sheet 100
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-614120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+
+[page 12]
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+XV-6-255-15XV-6-255-16XV-6-255-17XV-6-255-18XV-6-255-19XV-6-255-20
+XV-6-255-25
+IJB-250-D1-615
+SPARESPARESPARESPARE
+IJB-250-D1-615
+1
+18
+2
+19
+3
+20
+4
+21
+5
+22
+6
+23
+7
++ 1
+891011
+1314151617
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH
++ 13- 13SH+ 14- 14SH+ 15- 15SH+ 16- 16SH+ 17- 17SH+ 18- 18SH+ 19- 19SH+ 20- 20SH+ 21- 21SH+ 22- 22SH+ 23- 23SHSHIELDSHIELDBKWHSHIELDBK11WH11BK23WH23SHIELDSHIELDBKWHSHIELDBK10WH10BK22WH22SHIELDSHIELDBKWHSHIELDBK9WH9BK21WH21
+XV-6-255-21XV-6-255-22XV-6-255-23XV-6-255-24
+SHIELDSHIELDBKWHSHIELDBK8WH8BK20WH20SHIELDSHIELDBKWHSHIELDBK7WH7BK19WH19SHIELDSHIELDBKWHSHIELDBK6WH6BK18WH18SHIELDSHIELDBKWHSHIELDBK5WH5BK17WH17SHIELDSHIELDBKWHSHIELDBK4WH4BK16WH16SHIELDSHIELDBKWHSHIELDBK3WH3BK15WH15SHIELDSHIELDBKWHSHIELDBK2WH2BK14WH14SHIELDSHIELDBKWHSHIELDBK1WH1BK13WH13
+2412 + 12- 12SH+ 24- 24SHSHIELDSHIELDBK12WH12BKDWHD
+SPARESPARESPARESPARE
+SPARESPARESPARESPARE
+SPARE
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:26/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-70-0002-GAR Sheet 110
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-615120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+
+[page 13]
+IJB-250-D1-616
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+IJB-250-D1-616
+1234567
++ 1
+89101112
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
+SHIELDBKWHSHIELDBK1WH1SHIELDBKWHSHIELDBK2WH2
+SHIELDBK4WH4
+SHIELDBK6WH6
+SHIELDBK8WH8
+SHIELDBK10WH10
+SHIELDBK12WH12SHIELDBK11WH11
+BKWHSHIELDSHIELDBK3WH3
+SHIELDBK5WH5
+SHIELDBK7WH7
+SHIELDBK9WH9
+XV-3-257-13XV-3-257-14XV-3-257-15
+SPARESPARESPARESPARESPARE
+SPARE
+SPARESPARESPARE
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:27/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 120
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-616120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 14]
+IJB-250-A1-624
+IJB-250-A1-624
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+1234567
++ 1
+89101112
+- 1SH+ 2- 2SH
+O/A SHO/A SH
++ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
+SHIELDBKWHSHIELDBK1WH1SHIELDBKWHSHIELDBK2WH2
+SHIELDBK4WH4
+SHIELDBK6WH6
+SHIELDBK8WH8
+SHIELDBK10WH10
+SHIELDBK12WH12SHIELDBK11WH11
+BKWHSHIELDSHIELDBK3WH3
+SHIELDBK5WH5
+SHIELDBK7WH7
+SHIELDBK9WH9
+PIT-3-257-01TIT-3-257-01LIT-3-257-01
+SPARESPARESPARESPARE
+BKWHSHIELDBKWHSHIELD
+PIT-3-257-02
+BKWHSHIELD
+LV-5-257-01LV-5-257-01LVI-5-257-01BKWHSHIELDBKWHSHIELD
+LV-6-257-01LV-6-257-01LVI-6-257-01
+To DCS at Electric building 32Controller R-32-2012
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:27/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234
+4521-PLN-AEE-39-70-0002-GAR Sheet 130
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-A1-624120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+
+[page 15]
+IJB-250-D1-617
+NOTES:1. ALL CONDUCTORS AND SHIELDS SHALL BE FITTED WITH AN INSULATED COMPRESSION TYPE CRIMP.
+IJB-250-D1-617To DCS at Electric building 32Controller R-32-2012
+1234567
++ 1
+89101112
+- 1SH+ 2- 2SH+ 3- 3SH+ 4- 4SH+ 5- 5SH+ 6- 6SH+ 7- 7SH+ 8- 8SH+ 9- 9SH+ 10- 10SH+ 11- 11SH+ 12- 12SH
+SHIELDBKWHSHIELDBK1WH1SHIELDBKWHSHIELDBK2WHI ZS-3-257-13ZSO-3-257-13ZSC-3-257-13
+SHIELDBKWHSHIELDBK4WH4 ZSC-3-257-14
+SHIELDBKWHSHIELDBK6WH6 ZSC-3-257-15
+SHIELDBK8WH8
+SHIELDBK10WH10
+SHIELDBK12WH12
+ZS-3-257-14ZSO-3-257-14
+ZS-3-257-15ZSO-3-257-15
+SHIELDBK11WH11 SPARESPARE
+BKWHSHIELDSHIELDBK3WH3
+BKWHSHIELDSHIELDBK5WH5
+SHIELDBK7WH7
+SHIELDBK9WH9 SPARESPARE
+SPARE
+O/A SHO/A SH
+FSL-3-257-1FIG-3-257-1BKWHSHIELD
+H:\400_ING\AE4521_SOLANA-HEX\08 ENGINEERING\84 WORK DOC\I&C\PLN\WIRING DIAGRAMS\4521-PLN-AEE-39-70-0002-GAR REV.00 WIRING DIAGRAMS.DWGPlot Date/Time/User: 27-mar-17/9:27/AGMMA
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 353736383941404243HGFE
+ 22 
+ 1 3 2 4 5 6 7 8 
+ 15 
+ 10 9 11 12 13 14 16 17 18 19 20 21 
+DCB
+ 29 
+ 23 24 25 26 27 28 30 31 32 34 33 35
+A
+3637383941404243
+LAST SAVED BY AGMMA 
+PE STAMP
+108162432401/23/40121018263445263/801/40442404636832281024121420161612188202241/80
+BYDATEAPP'D.DATEJOB NO.REVISION
+ABENER TEYMASOLANAABENGOA SOLARABEINSA ENGINEERING
+Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANANotice of Alternate Billing Cycle:This contract allows the owner to require the submission of billings orestimates in billing cycles other than thirty days. A written description ofsuch other billing cycle applicable to the project is available from the ownersdesignated agentTeyma USA & Abener Engineering and Construction Services GeneralPartnership at4505 E. Chandler Blvd, Suite 130,Phoenix, Arizona, 85048and the owner's designated agent shall providethis written description on request.ABENER TEYMA DRAWING NUMBERISSUE DATEPURPOSE OF ISSUE
+DRAWNCHECKEDSCALE
+BYDATEAPP'D.DATEJOB NO.REVISION Information and know-how hereon are confidential and proprietary and may not beused, reproduced, or revealed to others except in accordance with the terms of acontract with or other written permission of the Teyma USA & Abener Engineeringand Construction Services General Partnership ("Abener Teyma"). Any reproductionsin whole or part including shop drawings shall bear or refer to this stamp.
+THIS DRAWING IS THE PROPERTY OFABENER TEYMASOLANA
+DESCRIPTIONDATENO.BYBYBY
+REVISIONSDESCRIPTIONDATENO.BYBYBY
+REVISIONS4521-PLN-AEE-39-70-0002-GAR Sheet 140
+HEX REPLACEMENT. WIRING DIAGRAMSFIELD JUNCTION BOX IJB-250-D1-617120006 Mar/27/17ISSUE FOR DESIGNMMAMar/27/17JMRLMar/27/17JMRLMar/27/17JMRLMar/27/17
+SOLANAGILA BEND, ARIZONA
+-
+AREA MAP:
+Phase 2
+DESCRIPTIONDATENO.BYBYBY
+REVISIONS0Mar/27/17FOR DESIGN
+MMAJMRLJMRL 1234

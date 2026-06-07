@@ -1,0 +1,81 @@
+{
+  "id": "25ed9ca88a997963",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-64-0015_R0 Rotary Triple Offset On-Off Valve.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 241613,
+  "size_human": "236 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-64-0015 R0 Rotary Triple Offset On-Off Valve",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 18389,
+  "token_estimate": 4597,
+  "chunks": 12,
+  "card_path": ".yeyo-memory/cards/25ed9ca88a997963.json",
+  "extracted_path": ".yeyo-memory/extracted/25ed9ca88a997963.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1014,
+        "non_empty_rows": 17
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 72,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 73,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Index",
+        "rows_seen": 56,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "HV-205-30",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "HV-205-31",
+        "rows_seen": 64,
+        "non_empty_rows": 57
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::223",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 223,
+        "doc_code": "4521-ESP-AGE-58-64-0005",
+        "title": "Heat Transfer Fluid (HTF) Services rotary control valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::223",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 223,
+        "doc_code": "4521-ESP-AGE-58-64-0005",
+        "title": "Heat Transfer Fluid (HTF) Services rotary control valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:22.828569+00:00"
+}

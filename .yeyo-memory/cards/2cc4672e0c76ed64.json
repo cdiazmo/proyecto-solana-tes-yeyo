@@ -1,0 +1,30 @@
+{
+  "id": "2cc4672e0c76ed64",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS17.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 105279,
+  "size_human": "103 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-SS17",
+  "doc_code": "4521-ESP-ANC-68-61-SS17",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3694,
+  "token_estimate": 923,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/2cc4672e0c76ed64.json",
+  "extracted_path": ".yeyo-memory/extracted/2cc4672e0c76ed64.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100805102054",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-SS17 - Chemical Feed 304L SS"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.659951+00:00"
+}

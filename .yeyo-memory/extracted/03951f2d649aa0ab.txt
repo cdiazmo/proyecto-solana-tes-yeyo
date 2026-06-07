@@ -1,0 +1,478 @@
+[page 1]
+ABENER TEYMA 
+ SOLANA Abeinsa Engineering 
+ 
+ 
+Hydraulic Calculation Report 
+ 
+Title: 
+HTF & Molten Salts Hydraulic Circuits Calculation Report 
+Client: ABENER TEYMA SOLANA 
+Project: Solana 
+ 
+ 
+Document No. : 4521-CAL-AEE-58-11-0001-GAR 
+Revision : 02 
+Purpose: N/A 
+Date : 08/08/2016 
+ 
+Prepared by: 
+Antonia Gómez Gómez. Mechanical & Process Engineer 
+Pedro Moreira Gomes. Mechanical & Process Engineer Electronic Signature 
+ 
+Reviewed by: 
+Jesús Manuel Jimenez García – Head of Mechanical & Process 
+Division Electronic Signature 
+ 
+Approved by: 
+Pietro Gasperini. Project Manager Electronic Signature 
+ 
+This document is property of Abener Teyma Solana. I ts total or partial reproduction is strictly forbid den by any means, as well as its 
+distribution to third parties without the express written consent of Abener Teyma Solana. 
+ 
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential informati on, legal requirements or local regulations 
+and/or contractual requirements of the client), there was a need to modify the requirements included i n this procedure, these changes must 
+be properly documented in the quality, environment and health and safety plan of the project, prior ap proval from the company 
+headquarters management system department. 
+ 
+The original one of this document is approved and filed in document management system application 
+ 
+
+[page 2]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 2 of 12 
+ 
+Revision Control Sheet 
+ 
+Revision Date Reason for the revision Prepared 
+by 
+Reviewed 
+by 
+Approved 
+by 
+00 28/04/2016 First edition AGG / PMG ACR PGA 
+01 05/05/2016 Updated version based on AEPC 
+comments and revised model AGG / PMG ACR PGA 
+02 08/08/2016 
+Updated version based on the 
+IFC piping routing and updated 
+HEX datasheet 
+AGG / PMG JMJG PGA 
+ 
+ 
+Preliminary or pending Information 
+Edition Sections Concepts Status 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 3 of 12 
+ 
+ 
+Table of Contents 
+ 
+ Purpose and scope ................................................................................................. 4 1. 
+ Molten Salts Circuit ............................................................................................... 4 2. 
+2.1. System description ............................................................................................... 4 
+2.2. Hypothesis and Assumptions ............................................................................... 5 
+ HTF Circuit .............................................................................................................. 5 3. 
+3.1. System Description .............................................................................................. 5 
+3.2. Hypothesis and Assumptions ............................................................................... 6 
+ Simulation results .................................................................................................. 7 4. 
+4.1. Molten Salts Circuit ............................................................................................. 7 
+4.1.1. Heat Exchanger .................................................................................................. 7 
+4.1.2. Pumps ............................................................................................................... 8 
+4.2. HTF Circuit .......................................................................................................... 8 
+ Conclusions ............................................................................................................ 9 5. 
+ Reference documents ............................................................................................ 9 6. 
+Annex I...................................................................................................................... 11 
+Annex II..................................................................................................................... 12 
+ 
+
+[page 4]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 4 of 12 
+ 
+ Purpose and scope 1. 
+This document is intended to evaluate the implicati ons of replacing the existing TES System 
+plate heat exchangers, for a new set of heat exchangers of the tube and shell. 
+ 
+The new proposed heat exchangers will have differen t pressure drops and will be located at a 
+different location and at heights of the existing o nes. To evaluate the consequences of 
+installing this equipment on the existing HTF and M olten Salts circuits, a set of hydraulic 
+calculations were simulated using Pipeflo ®, for bo th systems and different operating cases. 
+The considered cases were the following: 
+ 
+• Summer Charging 
+• Summer Discharging 
+• Winter Discharging 
+• Max Charging 
+• 25% Charging 
+ 
+For the HTF circuit an extra case was considered, u sing field data retrieved on the 22 
+nd July 
+2015 (from 9:30 to 11:30). 
+In this particular case there were 9 pumps running at 1400 rpm and 5 heat exchangers 
+charging the TES circuit, at different flow rates. The heat exchangers pressure drops are based 
+on the vendor’s tube & shell information, and then extrapolated for each of the 5 operating 
+heat exchangers. This is because the existing equip ment is of a different type (plate) with a 
+smaller pressure drop, than of the tube & shell type (the proposed technology). 
+This was the first HTF circuit case to be simulated . Once the model validated that the existing 
+pumps and control valves are suitable for the new h eat exchangers, this same model was 
+used as template for the other operating cases. 
+ 
+ Molten Salts Circuit 2. 
+2.1. System description 
+The plant includes 6 identical and independent molt en salts circuits. For simulation purposes 
+the following equipment where considered: 
+ 
+• One (1) hot salts tank (1/../6 -MT-252) 
+• One (2) cold salts tank (1/../6 -MT-251) 
+• One (1) HTF-to-Salt Heat Exchanger (1/../6 -MX-251) 
+• One (1) hot salts pump (1/../6 -MP-252) 
+
+[page 5]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 5 of 12 
+ 
+• One (1) cold salts pump (1/../6 -MP-251) 
+ 
+Because there are no differences in terms of geomet ry and equipment performance, the 
+molten salts circuit was simulated for a single set of tanks for the different operating modes. 
+2.2. 
+ Hypothesis and Assumptions 
+The following assumptions have been considered for the calculations: 
+ 
+• Pipes length and fittings details based on the 3D M odel (Solana_14-06-16) and P&IDs 
+collection. 
+• Salts tanks operating pressure: 14.5 psia. 
+• Cold molten salts temperature: 
+o Charge mode : 556 °F 
+o Discharge mode: 556 °F and 564 °F for the Normal and Winter Discharge 
+modes, respectively. 
+• Hot molten salts temperature: 730 °F. 
+• Pumps height : 3’ 
+• Heat Exchanger Inlet nozzle height: 
+o Discharge mode: 36,09 ft 
+o Charge mode: 6,56 ft 
+• Heat Exchanger Outlet nozzle height: 
+o Discharge mode: 6,56 ft 
+o Charge mode: 36,09 ft 
+• Heat Exchanger pressure drop: based on the Lointek’ s tender datasheet (extrapolated 
+from the design flow pressure drop). 
+• Pumps performance curve: as specified in its datasheet. 
+ HTF Circuit 3. 
+3.1. System Description 
+The HTF circuit is a closed circuit where its backpressure is ensured by the expansion tank. 
+ 
+In terms of equipment includes 10 identical main pumps (2 of which in standby) that send the 
+colds HTF to the solar field and through 6 identica l HTF-to-Salts heat exchangers and two 
+steam generators. 
+ 
+For simulation purposes the following equipment where considered: 
+
+[page 6]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 6 of 12 
+ 
+ 
+• Ten (10) HTF Far Field Pumps (MP-200 A/B/C/D/E/F/G/H/J/K) 
+• Pumps suction pressure: 172 psia 
+• Twelve (12) pressure regulating valves at the HTF p umps discharge (FV20005 
+A/B/C/D/E/F/G/H/J/K) 
+• Six (6) HTF-to-Salt Heat Exchanger (1/../6 -MX-251) 
+• Six (6) HTF-to-Salt Heat Exchanger Filters (1/../6 -MF-251C) 
+• Six (6) HTF-to-Salt Heat Exchanger Filters (1/../6 -MF-251D) 
+• Six (6) HTF-to-Salt Heat Exchanger Flow Regulating Valves (1/../6 FV25135) 
+• Six (6) HTF-to-Salt Heat Exchanger Flow Regulating Valves (1/../6 FV25136) 
+3.2. Hypothesis and Assumptions 
+The following assumptions have been considered for the calculations: 
+ 
+• Pipes length and fittings details based on the 3D M odel (Solana ALL 2015-08-13) and 
+P&IDs collection 
+• Cold HTF Temperature: based on the Oil-To-Salt Heat Exchangers datasheet operation 
+modes, ranging from 545 °F to 598°F. 
+• Hot HTF temperature: based on the Oil-To-Salt Heat Exchangers datasheet operation 
+modes, ranging from 718 °F to 738°F. 
+• Pumps performance curve: as specified in its datasheet. 
+• HTF flow to Solar Fields: minimum 50 000 gpm (25 000 gpm per field). 
+• Pumps suction pressure: 172 psia. 
+• Heat Exchanger Inlet nozzle height: 
+o Discharge mode: 36,09 ft 
+o Charge mode: 6,56 ft 
+• Heat Exchanger Outlet nozzle height: 
+o Discharge mode: 6,56 ft 
+o Charge mode: 36,09 ft 
+• Temporary strainers at the main pumps suction removed. 
+• Heat Exchanger pressure drop: based on the Lointek’ s tender datasheet (extrapolated 
+from the design flow pressure drop). 
+• Operating flows as indicated on the initial heat exchangers datasheets. 
+• Far field pumps operation considerations: 
+- 8 out of 10 running (2 spare) with even flows. 
+Regardless of the fact that these pumps are equipped with a VFD, for simulation purposes 
+and to verify that they can handle the new heat exchangers, they were designed as fixed 
+speed pumps running at maximum (1802 rpm) 
+ 
+
+[page 7]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 7 of 12 
+ 
+ 
+ Simulation results 4. 
+4.1. Molten Salts Circuit 
+For each of the simulated cases, two scenarios were considered: 
+ 
+-
+ Case 1: When the receiving tank is at its maximum level. (max. operating point). 
+- Case 2: When the receiving tank is at its minimum level. 
+ 
+For case 1, for all operating modes the installed p umps and control valves are valid and there 
+are no TDH issues. There is enough margin in both the control valves and pump head. 
+ 
+However for case 2, for all operating modes, the si mulation model could not provide a 
+realistic mathematical solution. 
+According to the simulation software, the control v alve on the receiving tank would generate 
+a pressure drop in which the pressure downstream th e valve would be smaller than the 
+absolute vacuum. (< 0 psia). This is because the va lve is located at the far end of the line and 
+at the highest point (at the tank inlet); and after wards the fluid accelerates to be injected into 
+the tank. The change of height accelerates the liqu id and the software to ensure that there is 
+energy conservation generates these impossible pressure figures. 
+ 
+In reality the injection pipe is pierced so that th e pressure is balanced with the tank’s 
+operating pressure (atmospheric) and above the maxi mum liquid level. Thus, breaking the 
+“communicating recipients effect”. 
+ 
+ 
+For more details concerning the Molten Salts circui t and the overall process data check the 
+section Annex I of this document. 
+4.1.1. 
+ Heat Exchanger 
+Process Data entering the Heat Exchanger 1/../6-MX-251: 
+Operation case Mass flow (lb/h) 
+Inlet 
+volumetric 
+flow (gpm) 
+Inlet pressure 
+(psia) 
+Outlet pressure 
+(psia) 
+HEX 
+Pressure 
+drop (psia) 
+25 % Load Charging g 
+(max level @ hot salts 
+tank) 
+1.659.040 1.739 46,32 14,94 7,0 
+Summer Charge 
+ (max level @ hot salts 
+tank) 
+5.079.990 5.326 83,46 45,53 37,6 
+
+[page 8]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 8 of 12 
+ 
+Operation case Mass flow (lb/h) 
+Inlet 
+volumetric 
+flow (gpm) 
+Inlet pressure 
+(psia) 
+Outlet pressure 
+(psia) 
+HEX 
+Pressure 
+drop (psia) 
+Max Charging 
+(max level @ hot salts 
+tank) 
+6.622.460 6.943 110,9 25,64 60,9 
+Discharging 
+ (max level @ cold salts 
+tank) 
+6.604.020 7.143 86,28 49,3 60,6 
+Winter Discharging 
+ (max level @ cold salts 
+tank) 
+6.620.490 7.161 88,93 51,69 60,9 
+ 
+4.1.2. 
+ Pumps 
+The table below compiles the pump performance for e ach of the operating cases. The 
+installed pumps were simulated using the vendor’s p erformance. The pump operating speed 
+has been adjusted so that the control valve opening % would be as high as possible. 
+Operation case Pump Speed (rpm) Total Head 
+(ft) NPSHa (ft) Discharge pressure (psia) Efficiency 
+(%) 
+25 % Load Charging g 
+(max level @ hot salts tank) 540 41,69 20,95 51,75 53 
+Summer Charge 
+ (max level @ hot salts tank) 850 94,66 20,95 95,49 77 
+Max Charging 
+(max level @ hot salts tank) 1020 134,1 20,95 128,1 79 
+Disc harging 
+ (max level @ cold salts tank) 1040 137,2 21,5 127 80 
+Winter Disc harging 
+ (max level @ cold salts tank) 1050 140,6 21,5 129,8 80 
+ 
+ 
+4.2. 
+ HTF Circuit 
+Process Data entering the Heat Exchanger 1/../6-MX-251: 
+Operation case Mass flow (lb/h) 
+Inlet 
+volumetric 
+flow (gpm) 
+Inlet pressure 
+(psia) 
+Outlet pressure 
+(psia) 
+HEX Pressure drop 
+(psia) 
+Summer charge 3.102.130 8763 224.3 186.3 28.99 
+Summer Discharging 4.083.090 9860 220.6 181 50.22 
+Winter Discharging 4.081.984 9858 220.7 181.1 50.19 
+Max charging 4.105.612 11597 229.4 169.6 50.76 
+25% charge 1.001.893 2830 225.1 213 3.036 
+Field Data 22072016* 
+*check Annex II.VI with the simulation details and the process data for each of the operating heat 
+exchangers. 
+
+[page 9]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 9 of 12 
+ 
+ 
+For all cases the simulation results presented no i ssues with the existing pumps and heat 
+exchangers control valves, and the system was always balanced. 
+For more details concerning the HTF circuit and the overall process data check the section 
+Annex II of this document. 
+ Conclusions 5. 
+The new set of heat exchangers and installed pumps can handle all operation cases. 
+ 
+The simulations show that for all cases the pump can run at a speed below its maximum 
+speed (1132 rpm) and the control valve opening percentage bigger than 50% (for some cases 
+in the 90%-95% opening range). 
+ Reference documents 6. 
+• 3D Model (Solana 14-06-16) 
+• Specification for Oil-to-Salt Heat Exchanger 4521-ESP-ANC-39-62-0002, Rev 02 
+• Main Salt Pump Performance Curve 0018H-3414-56 
+• Main HTF Pumps Predicted Performance Curves PPC-4840421 (Flowserve document) 
+• HTF Services Rotary Control Valve Datasheet 4521-ESP-AGE-58-64-0005 Rev 03 
+• Lointek tender proposal for an alternative heat exc hanger 095-16-OFT-001 Rev 00 
+(13/04/2016) 
+• Far Field HTF Pumps – 4521-PLN-ANC-68-71-P202 
+• Near Field HTF Pumps – 4521-PLN-ANC-68-71-P203 
+• Central Plant HTF Distribution – 4521-PLN-ANC-68-71-P210 
+• Central Plant HTF Distrib-Central – 4521-PLN-ANC-68-71-P211 
+• Central Plant HTF Distrib-South – 4521-PLN-ANC-68-71-P212 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P251 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P253 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P261 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P263 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P264 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P266 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P267 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P269 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P270 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P272 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P273 
+
+[page 10]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 10 of 12 
+ 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P275 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P252 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P262 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P265 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P268 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P271 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P274 
+ 
+ 
+
+[page 11]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 11 of 12 
+ 
+Annex I 
+Annex I encloses the results provided by Pipe-Flo s oftware, scheme report for each of 
+calculated cases for the Molten Salts operation: 
+ 
+• Annex I.I A– Summer Charging (min level) @ 850 rpm 
+• Annex I.I B– Summer Charging (max level) @ 850 rpm 
+• Annex I.II A – Discharging (min level) @ 1040 rpm 
+• Annex I.II B – Discharging (max level) @ 1040 rpm 
+• Annex I.III A – Winter Discharging (min level) @ 1050 rpm 
+• Annex I.III B – Winter Discharging (max level) @1050 rpm 
+• Annex I.IV A – Max Charging (min level) @ 1050 rpm 
+• Annex I.IV B – Max Charging (max level) @ 1050 rpm 
+• Annex I.V A – 25% Load Charging (min level) @ 540 rpm 
+• Annex I.V B – 25% Load Charging (max level) @ 540 rpm 
+ 
+ 
+
+[page 12]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0001-GAR 
+Revision: 02 Date: 08/08/2016 ABENGOA 
+Abeinsa Engineering 
+Purpose: N/A Page: 12 of 12 
+ 
+Annex II 
+Annex II encloses the results provided by Pipe-Flo software, scheme report for each of 
+calculated cases for the HTF circuit operation: 
+ 
+• Annex II.I – Summer Charging 
+• Annex II.II – Summer Discharging 
+• Annex II.III – Winter Discharging 
+• Annex II.IV – Max Charging 
+• Annex II.V – 25% Charging 
+• Annex II.VI – Field Data 22072015

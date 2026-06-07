@@ -1,0 +1,28 @@
+{
+  "id": "d5ed970bb1248f4a",
+  "path": "09 Miscelanea/boreholes_Proposed locations.pdf",
+  "top_dir": "09 Miscelanea",
+  "ext": "pdf",
+  "size_bytes": 264315,
+  "size_human": "258 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "boreholes Proposed locations",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d5ed970bb1248f4a.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20180823151727-06'00'",
+      "Creator": "Xerox WorkCentre 7556",
+      "Producer": "Xerox WorkCentre 7556"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:17:45.849427+00:00"
+}

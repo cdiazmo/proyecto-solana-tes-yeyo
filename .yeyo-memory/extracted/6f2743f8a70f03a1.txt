@@ -1,0 +1,88 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-LIS-AEE-39-40-0010-GAR-901 | 0 | 2017-01-10 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | _TES Area Electric consumer list Unit 5-6
+By review TCS data box | C:\Users\agmbo\Desktop\Solana\10-01\[4521-LIS-AGE-39-40-0010_GAR_901_Rev00_TES Area Electric consumer list Unit 5-6.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521-LIS-AGE-39-40-0010_GAR_901_Rev00_TES Area Electric consumer list Unit 5-6
+4521-PLN-AEE-39-40-0010-GAR | 0 | IFD | 4521-TMT-AEE-AEPC-0035 | 2017-01-10 00:00:00
+Input data | Used
+4521-PLN-ANC-27-21-O490
+4521-PLN-ANC-27-23-P593
+4521-PLN-ANC-27-23-P648
+4521-PLN-ANC-27-23-P590
+4521-PLN-ANC-27-23-P605
+4521-PLN-ANC-27-23-O491
+4521-PLN-ANC-27-23-P597
+4521-PLN-ANC-27-23-P599
+4521-PLN-ANC-27-23-O492
+4521-PLN-ANC-27-23-P600
+4521-PLN-ANC-27-23-P592
+4521-PLN-ANC-27-23-P594
+4521-PLN-ANC-27-23-P623
+4521-PLN-ANC-27-23-P649
+4521-PLN-ANC-27-21-O495
+4521-PLN-ANC-27-23-P591
+4521-PLN-ANC-27-23-P606
+4521-PLN-NIC-27-41-2529 Power & Control panels - TES - Unit A - Rev 2
+4521-PLN-NIC-27-41-2530 Power & Control panels - TES - Unit B - Rev 1
+4521-ESP-NIC-27-41-2024-Power & Control panels - HTF - Platform South - Unit A - Rev 0
+4521-ESP-NIC-27-41-2025-Power & Control panels - HTF - Platform South - Unit B - Rev 0
+4521-LIS-NIC-27-41-2510 List of circuits - Rev8 - As Builts
+4521-LIS-NIC-27-41-2007 List of circuits Rv08-AB-DRAFT
+Assumptions:
+Tracing power panels. Estimated according W/ft per pipe diameter already installed.
+HTF panels, feed from PP-26334M37 (ATS) which require Diesel, will be fed by MPP-6334M
+Drain system for TES unit E will be fed by electrical system of TES F to allow drain operations when an electrical fault happens and viceversa
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+Additional tracing for new pipes and lighting
+-
+-
+Mistakes
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AEE-39-40-0010-GAR | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-LIS-AEE-39-40-0010-GAR-901 | 0 | 2017-01-10 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | _TES Area Electric consumer list Unit 5-6
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

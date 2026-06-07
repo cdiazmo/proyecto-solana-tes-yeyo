@@ -1,0 +1,64 @@
+{
+  "id": "982ba450da5237e0",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/4521-PLN-DOT-39-63-0908.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 140321,
+  "size_human": "137 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-DOT-39-63-0908",
+  "doc_code": "4521-PLN-DOT-39-63-0908",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/982ba450da5237e0.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20180823104318-06'00'",
+      "Creator": "Xerox WorkCentre 7556",
+      "ModDate": "D:20180823113003-05'00'",
+      "Producer": "Xerox WorkCentre 7556"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.363634+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/EDL_4_supports.xlsx::ATYP steel struc::9",
+        "index_path": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/EDL_4_supports.xlsx",
+        "index_kind": "edl",
+        "sheet": "ATYP steel struc",
+        "row": 9,
+        "doc_code": "4521-PLN-DOT-39-63-0908",
+        "title": "252-MS-04F-S-003",
+        "revision": "",
+        "status": "",
+        "date": "2018-08-17 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/Soportes atípicos/EDL_4_supports.xlsx::ATYP steel struc::9",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/Soportes atípicos/EDL_4_supports.xlsx",
+        "index_kind": "support-list",
+        "sheet": "ATYP steel struc",
+        "row": 9,
+        "doc_code": "4521-PLN-DOT-39-63-0908",
+        "title": "252-MS-04F-S-003",
+        "revision": "",
+        "status": "",
+        "date": "2018-08-17 00:00:00",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:59.384906+00:00"
+}

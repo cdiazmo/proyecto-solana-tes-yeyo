@@ -1,0 +1,112 @@
+{
+  "id": "b161e44a3db31d83",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-45-0001_R2Junction Boxes Specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 268287,
+  "size_human": "262 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-45-0001 R2Junction Boxes Specification",
+  "doc_code": "4521-ESP-AGE-39-45-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 17657,
+  "token_estimate": 4414,
+  "chunks": 12,
+  "card_path": ".yeyo-memory/cards/b161e44a3db31d83.json",
+  "extracted_path": ".yeyo-memory/extracted/b161e44a3db31d83.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1013,
+        "non_empty_rows": 23
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 71,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index",
+        "rows_seen": 91,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "JB Spec",
+        "rows_seen": 96,
+        "non_empty_rows": 35
+      },
+      {
+        "name": "JB list I",
+        "rows_seen": 100,
+        "non_empty_rows": 31
+      },
+      {
+        "name": "JB list II",
+        "rows_seen": 100,
+        "non_empty_rows": 31
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::137",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 137,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Especificación técnica cajas de conexionado",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::176",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 176,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Juntion Box Especificaciónb técnica I&C",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::137",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 137,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Especificación técnica cajas de conexionado",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::176",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 176,
+        "doc_code": "4521-ESP-AGE-39-45-0001",
+        "title": "Juntion Box Especificaciónb técnica I&C",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:06.046658+00:00"
+}

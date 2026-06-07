@@ -1,0 +1,30 @@
+{
+  "id": "ce596ecdab9aa451",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Transmision 24-04-2019/Rheinhuette Pump Transmittal -04-24-2019.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 213667,
+  "size_human": "209 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "Rheinhuette Pump Transmittal -04-24-2019",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1175,
+  "token_estimate": 293,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/ce596ecdab9aa451.json",
+  "extracted_path": ".yeyo-memory/extracted/ce596ecdab9aa451.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "aybj",
+      "CreationDate": "D:20190424161454-07'00'",
+      "ModDate": "D:20190424161454-07'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": "Rheinhuette Transmittal -04-24-2019.xlsx"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:43.416307+00:00"
+}

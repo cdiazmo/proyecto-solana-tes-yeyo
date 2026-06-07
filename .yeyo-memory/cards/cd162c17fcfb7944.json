@@ -1,0 +1,39 @@
+{
+  "id": "cd162c17fcfb7944",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0003_R2.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 56109,
+  "size_human": "55 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-70-0003 R2",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 14943,
+  "token_estimate": 3735,
+  "chunks": 10,
+  "card_path": ".yeyo-memory/cards/cd162c17fcfb7944.json",
+  "extracted_path": ".yeyo-memory/extracted/cd162c17fcfb7944.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120210172709-06'00'",
+      "ModDate": "D:20120210172709-06'00'",
+      "Title": "4521-ESP-AGE-58-70-0003 Ultrasonic Flowmeter Specification",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.253947+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.253951+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "b1cb33d299368db2",
+  "path": "02 GD LOI/IBP/4521-PPI-LOI-039-062-0004-GAR Rev.00 INSPECTION POINT PROGRAM.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 118405,
+  "size_human": "116 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PPI-LOI-039-062-0004-GAR Rev.00 INSPECTION POINT PROGRAM",
+  "doc_code": "4521-PPI-LOI-039-062-0004",
+  "revision": "Rev.00",
+  "status": "ok",
+  "text_chars": 14162,
+  "token_estimate": 3540,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/b1cb33d299368db2.json",
+  "extracted_path": ".yeyo-memory/extracted/b1cb33d299368db2.txt",
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "Author": "pedroalvarez",
+      "CreationDate": "D:20161014161013+02'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20161014162304+02'00'",
+      "Producer": "Acrobat Distiller 10.1.0 (Windows)",
+      "Title": "Microsoft Word - Document Template HEX Replacement TES - Solana"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::325",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 325,
+        "doc_code": "4521-PPI-LOI-039-062-0004",
+        "title": "INSPECTION POINT PROGRAM",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-10-12 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::325",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 325,
+        "doc_code": "4521-PPI-LOI-039-062-0004",
+        "title": "INSPECTION POINT PROGRAM",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-10-12 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:26.400910+00:00"
+}

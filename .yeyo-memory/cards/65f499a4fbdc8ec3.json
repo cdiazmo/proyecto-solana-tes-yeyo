@@ -1,0 +1,85 @@
+{
+  "id": "65f499a4fbdc8ec3",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0005-GAR_ MTO Piping.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 374675,
+  "size_human": "366 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-LIS-LOI-039-062-0005-GAR MTO Piping",
+  "doc_code": "4521-LIS-LOI-039-062-0005",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13628,
+  "token_estimate": 3407,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/65f499a4fbdc8ec3.json",
+  "extracted_path": ".yeyo-memory/extracted/65f499a4fbdc8ec3.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "CreationDate": "D:20170306114712+01'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20170306114923+01'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::289",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 289,
+        "doc_code": "4521-LIS-LOI-039-062-0005",
+        "title": "PIPING MTO",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-10-26 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::289",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 289,
+        "doc_code": "4521-LIS-LOI-039-062-0005",
+        "title": "PIPING MTO",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-10-26 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0005-GAR_901_Piping MTO.xlsx::Document::10",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0005-GAR_901_Piping MTO.xlsx",
+        "index_kind": "mto",
+        "sheet": "Document",
+        "row": 10,
+        "doc_code": "4521-LIS-LOI-039-062-0005",
+        "title": "",
+        "revision": "",
+        "status": "IFD",
+        "date": "2016-10-27 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0005-GAR_901_Piping MTO.xlsx::Document::41",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0005-GAR_901_Piping MTO.xlsx",
+        "index_kind": "mto",
+        "sheet": "Document",
+        "row": 41,
+        "doc_code": "4521-LIS-LOI-039-062-0005",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "dd/mm/aaaa",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:28.759553+00:00"
+}

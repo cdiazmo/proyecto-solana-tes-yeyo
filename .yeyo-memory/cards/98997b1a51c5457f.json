@@ -1,0 +1,59 @@
+{
+  "id": "98997b1a51c5457f",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0008-GAR_Rev00  - IV.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 282730,
+  "size_human": "276 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0008-GAR Rev00 - IV",
+  "doc_code": "4521-INS-LOI-039-062-0008",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12545,
+  "token_estimate": 3136,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/98997b1a51c5457f.json",
+  "extracted_path": ".yeyo-memory/extracted/98997b1a51c5457f.txt",
+  "metadata": {
+    "pages": 14,
+    "pdf_metadata": {
+      "Author": "anadelgado",
+      "CreationDate": "D:20171031153112+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20171102120804+01'00'",
+      "Producer": "Acrobat Distiller 10.1.0 (Windows)",
+      "Title": "Microsoft Word - [PORTADA] 4521-INS-LOI-039-062-0008-GAR_Rev00 - IV"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::315",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 315,
+        "doc_code": "4521-INS-LOI-039-062-0008",
+        "title": "ULTRASONIC EXAMINATION PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::315",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 315,
+        "doc_code": "4521-INS-LOI-039-062-0008",
+        "title": "ULTRASONIC EXAMINATION PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:07.229150+00:00"
+}

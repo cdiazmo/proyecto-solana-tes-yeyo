@@ -1,0 +1,138 @@
+{
+  "id": "debda994f60aafbb",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-64-0004_R3 Rotary  On-off valves Specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 436170,
+  "size_human": "426 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-64-0004 R3 Rotary On-off valves Specification",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 84907,
+  "token_estimate": 21226,
+  "chunks": 54,
+  "card_path": ".yeyo-memory/cards/debda994f60aafbb.json",
+  "extracted_path": ".yeyo-memory/extracted/debda994f60aafbb.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1014,
+        "non_empty_rows": 23
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 72,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 73,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "Index",
+        "rows_seen": 56,
+        "non_empty_rows": 33
+      },
+      {
+        "name": "HV-10103A",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10103B",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10203A",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10203B",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10303A",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10303B",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10403A",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10403B",
+        "rows_seen": 64,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "HV-10205",
+        "rows_seen": 66,
+        "non_empty_rows": 62
+      },
+      {
+        "name": "HV-20070A",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070B",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070C",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070D",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070E",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070F",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070G",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070H",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070J",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "HV-20070K",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:21.740803+00:00"
+}

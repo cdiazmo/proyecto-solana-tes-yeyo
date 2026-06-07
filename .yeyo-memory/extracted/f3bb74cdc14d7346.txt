@@ -1,0 +1,255 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: Arizona Solar One
+Project: HEX replacement TES Solana
+Title: MS Drain Pump - Technical Bid Evaluation
+Document:
+Revision:
+Date:
+Prepared by:
+Ricardo R. Delgado A.
+Revised by:
+Ricardo R. Delgado A.
+Approved by:
+José María Rodríguez L.
+Standard Technical Comparison
+Electronic signature
+Electronic signature
+Electronic signature
+© This document is property of Abeinsa EPC. Reproduction of the same, either wholly or in part, by any means, as well as its distribution to third
+parties, is expressly forbidden without the written consent of Abener.
+18/01/17
+0
+4521-TAB-AEE-75-62-0001-GAR
+
+[page 2]
+4521-TAB-AEE-75-62-0001-GAR
+Revision: Rev.0
+Date: 18/01/17
+1.- Tender Data
+Supplier: AEPC Lewis Ensival Moret
+Reference number and Revision of the proposal: 16-298-FH EMI1602682
+Rev: 05 01 01
+Date: 19/12/2016 07/10/2016 21/09/2016
+Contact person: Frederic C. Hugill Cécile Hortelan
+e-mail: fred.hugill@weirminerals.com ceho@em-pumps.com
+Site:
+2.- Technical Data
+MS Drain Tk pump
+General
+Service Drain Tk pump Stand by Pump Stand by Pump Stand by Pump
+Model Friate GVSO 80/250 VMS-2412- 1/2 VC7A
+Disposition Vertical Vertical Vertical Vertical
+Type VS4 VS4 VS1
+Quantity 1x100% 1x100% 1x100% 1x100%
+Pump location Outdoors Outdoors Outdoors Outdoors
+Guarantee Points
+Design Point (Initial)
+Desing Flow rate (gpm) 137.4 137.4 137.4 137.4
+Total Dinamic Head at impeller (TDH) (ft) 58.1 58.1 64.4 64.4
+Discharge Pressure @ discharge flange (Psig) 58.9 ND ND ND
+Suction Pressure (Psia) 13.7 ND ND ND
+Operating temperature (ºF) 563-750 563-751 563-750 563-751
+Potential Temperature Gradient ND TBC ARO TBC TBC
+Efficiency (%) >70% 55% 65% 58.7%
+RPM rate (rpm) By Supplier 1750 1150 1750
+Run Out (120% Normal Flow) Q/TDH (120% Normal Flow) Q/TDH 250gpm / 45 ft 250gpm / 30 ft 185gpm / 55 ft
+Min submergence (from min. Salt level to bottom pit) (Inch) By Supplier 2000 1866 mmm 2100
+Technical Data
+Number of stages By Supplier 1 1 1
+Min / Max operating speed (rpm) By Supplier 1750 1150 1750
+Design Pressure (Psig) By Supplier 163 163 163
+Design Temperature (ºF) 750 750 750 750
+Pump Dimensions:
+- Pump length (mm) (from suction bell to mounting plate) 2000 2000 1866 mm (73,5") 2200
+- Suction Bell Diameter (in) By Supplier 4" ND ND
+- Baseplate dimensions (in)(Diameter) By Supplier 20" rectangular 610mmx 800mm 692 mm
+Tank Dimensions:
+- Pit Diameter required 650 650 mm ND 500
+- Distance between suction bell and bottom pit in ambient
+conditions (20ºC) (mm) By Supplier 100 75 mm (3") 150
+- Distance between suction bell and bottom pit at operating
+(381ºC) temperature (mm) By Supplier 100 75 mm (3") 150
+Reverse speed:
+- Maximum allowable (rpm) By Supplier Permited ND ND
+Impeller
+Type Closed Closed Closed Closed
+Single/Double Suction By Supplier Double Suction ND Single
+Size:
+- Minimum (in) By Supplier 10.24" ND 7.87" (200mm)
+- Current (in) By Supplier 8.046" 8.375" 8.81" (224mm)
+- Maximum (in) By Supplier 7.87" ND 10.2" (260mm)
+Casing
+Volute / Bowls type By Supplier Double Volute ND ND
+Basket at suction (yes/no) By Supplier Not Included - Optional ND Included
+Discharge Head
+Discharge flange: Diam. / # / Face By Supplier(Maximun 4") 4" 3" 150# TBC 2"
+Forces and Moments
+- Fx (N) (According AEPC Spec)
+- Fy (N) (According AEPC Spec)
+- Fz (N) (According AEPC Spec)
+- Mx (N) (According AEPC Spec)
+- My (N) (According AEPC Spec)
+- Mz (N) (According AEPC Spec)
+Shaft Sealing
+Type By Supplier Packing with Lantern Ring ND Throttle bushing
+Manufacturer By Supplier TBC ND ND
+Sealing cooling system (according to API plan) By Supplier NA ND NA
+Injection of sealing water/nitrogen (through the seals) By Supplier N2 inyection ND N2 inyection
+Injection pressure (Psi a) By Supplier TBC ND TBC
+Injection temperature (ºF) By Supplier ambient ND ND
+Maximum particle size in sealing media (micrometres) By Supplier NA ND ND
+Leakage (through seals) (l/m) By Supplier TBC ND ND
+Coupling
+Type By Supplier Block ND Metastream
+Manufacturer By Supplier ND ND Jhon Crane
+Coupling Guard with spacer By Supplier Included ND Included
+Motor
+Manufacturer By Supplier Siemens Nidec WEG
+Class S1 (IEC 60034-1) SF 1,15 SF 1,15 S1 - SF 1,15
+Size / Frame By Supplier 254TDV 215 HP 254/6T
+Protection/Insulation /Thermal Rise NEMA4/Class F / Class B TEFC (IP55) / Class F / Class B
+Terminal box NEMA5 Class F / Class B IP-55 / Class F / Class B
+Ambient Temperature (ºC) 50ºC 50ºC 40ºC 50ºC
+Power (kW) By Supplier 15 Hp 10 Hp 15 Hp
+Speed (rpm) By Supplier 1800 1800 1760
+Voltage (V) 460 V 460V 460 460
+Frequency (Hz) 60 Hz 60 60 60
+Prepared for working with VFD By Supplier Yes TBD TBD
+Voltage fluctuations (%) 10% 10% TBD TBD
+Frequency fluctuations (%) 5% 5% TBD TBD
+Torque (Starting/Maximun) By Supplier 184lb/f - 234 lb/f 66,752 lb/f - 85,526 lb/f 121,4 Nm / 145,68 Nm
+Load Torque By Supplier 44 lb/f 29,8 lb/f 60,7 Nm
+Slippage By Supplier 1.67% 2.22% 2.22%
+Stator Connection By Supplier Delta TBD TBD
+Rotor Type Squirrel Cage Yes TBD TBD
+Efficiency at 100/75/50% Load (2): By Supplier 92,4% / 92,8% / 92,3%
+Nema Premium
+91,7% / 92,6% / 92,4%
+Premium efficiency
+91,7% / 92,4% / 92,4%
+Premium efficiency
+Start-up at a voltage 80% lower than the designed (yes/no) Yes Yes TBD TBD
+Max. Current at start up at full load and nominal voltage 7*In <=7 TBD TBD
+Allowable overspeed (%) 60 sec By Supplier >=20% TBD TBD
+PTC for bearings 2 per bearing No TBD TBD
+PTC for windings 2 per winding (6 total) 2 x 3 PTC TBD TBD
+Refrigeration By Supplier TEFC TEFC IC411-TEFC
+Motor heating resistance (yes/no) YES YES TBD TBD
+Max consecutives Start-ups in one hour By Supplier TBD TBD TBD
+Motor bearings life (h) By Supplier >=50,000h TBD TBD
+Torque / Speed Curve Yes Yes TBD TBD
+Local Emergency push bottom Yes No TBD TBD
+ABEINSA ENGINEERING
+9750
+Jeffrey Kelly
+Flange Force Loads GVSO
+80315 (submited)
+jkelly@rh-pump.com
+MS Drain Pump - Technical Bid Evaluation
+Rheinhütte
+3 x table 5 AP I610 TBC
+
+[page 3]
+Connections and Piping
+Size / Type of connection Aspiration By Supplier DN101 ND ND
+Size / Type of connection Discharge By Supplier 4" RTJ 6" FF 150# 2"
+Mounting Plate
+Common mounting plate for pump, motor, coupling and
+bellows under mounting plate, with thermal gasket to isolate,
+and anchor bolts
+Yes YES TBC Soleplate
+All equipments (including piping) must be located within the
+mounting plate Yes YES TBC YES
+Materials
+Certificates according to international standards By Supplier EN 3.1 Included EN 3.1 Included EN 3.1 Included
+Casing / Bowl / Volute By Supplier ND A217WC6 and 1.7735
+Impeller By Supplier ND A487 Gr CA6 NM
+Shaft By Supplier ND WN 1.7709 (21 CrMo V57)
+Mounting Plate By Supplier ND ND
+Coupling By Supplier ND ND
+Other Nuts, bolts and screws By Supplier ND ND
+3.- Scope of supply
+Material and equipment
+Mechanical equipment:
+Pumps with motors To be included Included Included Included
+Coupling with coupling guard To be included Included Included Included
+Earthing lugs To be included Included Included Included
+Mounting Plante To be included Included Included Included
+Anchor bolts To be included TBC Included Included
+Earthing straps To be included Included Included Included
+Technical name plate To be included Included Included Included
+Bellows coupling system between tank and steel structure Not apply Not included ND NA
+Instrumentation and control:
+Vibration Detectos in Bearings (X-Y in radial bearings, 1 in thrust
+bearing if applicable) Not required Optional No YES
+Reverse detector sensor Not required TBC No YES
+Instrumentations must be provided with 4-20 mA HART
+protocol Not required TBC No YES
+Wires from instruments to terminal box Not required TBC No YES
+One (1) common terminal box Not required TBC No YES
+Services
+Shop Tests:
+Performance To be included Included Add 2798 usd Not witnessed YES
+NPSH tests To be included Not included add 1550 usd NO
+Hydrostatic Test as per HI To be included Add $510.00 each Add 275 usd not witnessed According API 610 11th
+Ed.
+Balanced Impellers and rotor as per ISO1940 Gr 2,5 To be included Add 205.00 each NO NO
+Noise and Vibration Limits according to ISO 10816-7 Zone Limit
+A To be included Add 520.00 set No NO
+NDE tests for main components (impellers, shafts, bowls,
+casing,discharge heads, wear rings, etc)
+As an option (Detail number
+of days required) Dye penetrant Add 3150 usd Dye penetrant an X-ray in
+casing (30%)
+Final documentation and O&M manuals
+As an option (Detail number
+of days required) Included TBC Included
+Quality documentation as per specification As an option Included TBC Included
+3D Model As an option Not included TBC Not included
+Commercial conditions offered
+Payment 100% prior to shipment Progress payments (see
+commercial offer)
+Progress payments (see
+commercial offer)
+Delivery time
+Delivery Time (pump and motor) 6 months (ExWorks) 6.5 months 45 Weeks
+Delivery Time (Start-up Spares) Pending to negociate 12 wks ARO Pending to negociate
+Delivery Time (2 yrs Spares) Pending to negociate 12 wks ARO Pending to negociate
+Delivery agreement
+Pump DDP - Gila Bend, AZ. USA Pending to negociate DDP - Gila Bend, AZ. USA
+Motor DDP - Gila Bend, AZ. USA Pending to negociate DDP - Gila Bend, AZ. USA
+Start-up Spares DDP - Gila Bend, AZ. USA Pending to negociate FOB - Lewis Plant
+2 Yrs Spares DDP - Gila Bend, AZ. USA Pending to negociate FOB - Lewis Plant
+Warranty 18 months after start-up or
+24 months after delivery
+18 months from Shipment date or
+24 months after initial operation
+12 months after start-up
+or 18 months after delivery
+Price (USD)
+Pump price $ 53,660.00 $ 79,795.00
+Motor $ 6,055.00 $ 3,792.00
+Commissioning spare parts $ 698.00 $ 3,048.00 Included
+2-yrs spare parts $ 6,250.00 $ 22,747.00 $ 6,216.00
+Optional DDP NO DATA $ 86,116.00 83,587+ 2,587 (2 yrs
+spares)
+Optional: Engineering deliverables documents (separately) $ 1,170.75 NO DATA NO DATA
+6.- Technical Bid Evaluation Results
+Recommended. Fits perfectly
+the current Drain Tank
+design. Vendor info is
+already available from Xina's
+project (same pump
+supplied)
+Not recommended. It does not fit
+suitable on the Drain Tank
+Designed.
+Not recommended. Fits
+better to the drain back
+tank, but this model of
+vertical pump demands
+more maintenance
+All Materials in 1.4581,
+1.4980 & 1.4541
+FCA on shop

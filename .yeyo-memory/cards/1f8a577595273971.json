@@ -1,0 +1,39 @@
+{
+  "id": "1f8a577595273971",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0005_R0.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 66000,
+  "size_human": "64 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-74-70-0005 R0",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 17775,
+  "token_estimate": 4443,
+  "chunks": 12,
+  "card_path": ".yeyo-memory/cards/1f8a577595273971.json",
+  "extracted_path": ".yeyo-memory/extracted/1f8a577595273971.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120516105422-05'00'",
+      "ModDate": "D:20120516105422-05'00'",
+      "Title": "4521-ESP-AGE-74-70-0005 analyzer",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.487852+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:53.487854+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ce26d5f0d3cb8eb9",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201-DWG-001.00 GENERAL ARRANGEMENT.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 795516,
+  "size_human": "777 KB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "1950201-DWG-001.00 GENERAL ARRANGEMENT",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/ce26d5f0d3cb8eb9.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20191126083250+01'00'",
+      "ModDate": "D:20191126083250+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.342999+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.364393+00:00"
+}

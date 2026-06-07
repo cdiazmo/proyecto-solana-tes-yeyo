@@ -1,0 +1,39 @@
+{
+  "id": "de0e8d3ac8ee2aec",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-AGE-39-62-0002 Nitrogen Heaters (TES cold pump purge).pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 131487,
+  "size_human": "128 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-AGE-39-62-0002 Nitrogen Heaters (TES cold pump purge)",
+  "doc_code": "4521-ESP-AGE-39-62-0002",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 34250,
+  "token_estimate": 8562,
+  "chunks": 22,
+  "card_path": ".yeyo-memory/cards/de0e8d3ac8ee2aec.json",
+  "extracted_path": ".yeyo-memory/extracted/de0e8d3ac8ee2aec.txt",
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "Author": "agnsi",
+      "CreationDate": "D:20111014103414-05'00'",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Keywords": "",
+      "ModDate": "D:20160818114638+02'00'",
+      "Producer": "GPL Ghostscript 8.70",
+      "Subject": "",
+      "Title": "4521-ESP-AGE-39-62-0002_Nitrogen_Heater (cold pump purge)"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia nitrogeno",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.444577+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.444581+00:00"
+}

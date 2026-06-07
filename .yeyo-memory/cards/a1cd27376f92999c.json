@@ -1,0 +1,29 @@
+{
+  "id": "a1cd27376f92999c",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201-DWG-007.00 H2 SADDLES.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 540446,
+  "size_human": "528 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1950201-DWG-007.00 H2 SADDLES",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/a1cd27376f92999c.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20191125111513+01'00'",
+      "ModDate": "D:20191125111513+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:19.581642+00:00"
+}

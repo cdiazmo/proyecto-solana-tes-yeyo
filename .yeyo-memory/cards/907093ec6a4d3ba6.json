@@ -1,0 +1,30 @@
+{
+  "id": "907093ec6a4d3ba6",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V301.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 72425,
+  "size_human": "71 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-64-V301",
+  "doc_code": "4521-ESP-ANC-68-64-V301",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4788,
+  "token_estimate": 1197,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/907093ec6a4d3ba6.json",
+  "extracted_path": ".yeyo-memory/extracted/907093ec6a4d3ba6.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100907104508",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-64-V301 - Block Valves Alloy 20"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:39.201980+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "901e69fadd4d61c0",
+  "path": "06 Especificaciones Tecnicas/Tuberia/SS38.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 40243,
+  "size_human": "39 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "SS38",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4051,
+  "token_estimate": 1012,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/901e69fadd4d61c0.json",
+  "extracted_path": ".yeyo-memory/extracted/901e69fadd4d61c0.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20130322132433-07'00'",
+      "ModDate": "D:20130322132433-07'00'",
+      "Author": "wchambers",
+      "Creator": "Bluebeam PDF Revu x64",
+      "Producer": "Bluebeam PDF Library 9.5.1"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:57.707403+00:00"
+}

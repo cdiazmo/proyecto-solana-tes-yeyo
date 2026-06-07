@@ -1,0 +1,128 @@
+{
+  "id": "d8552b77033a8b2c",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0001_R2 RTD Multipoint +Transmitter.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 1332633,
+  "size_human": "1.3 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0001 R2 RTD Multipoint +Transmitter",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 51748,
+  "token_estimate": 12937,
+  "chunks": 33,
+  "card_path": ".yeyo-memory/cards/d8552b77033a8b2c.json",
+  "extracted_path": ".yeyo-memory/extracted/d8552b77033a8b2c.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet ",
+        "rows_seen": 1014,
+        "non_empty_rows": 21
+      },
+      {
+        "name": "Cover Sheet (2)",
+        "rows_seen": 1016,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet (3)",
+        "rows_seen": 1016,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index ",
+        "rows_seen": 39,
+        "non_empty_rows": 28
+      },
+      {
+        "name": "RTD Multipoint Spec",
+        "rows_seen": 60,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "COLD RTD LIST I",
+        "rows_seen": 59,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "COLD RTD LIST II",
+        "rows_seen": 54,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "COLD RTD LIST III",
+        "rows_seen": 53,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "COLD RTD LIST IV",
+        "rows_seen": 58,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "COLD RTD LIST V",
+        "rows_seen": 56,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "COLD RTD LIST VI",
+        "rows_seen": 60,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "HOT RTD LIST I",
+        "rows_seen": 60,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "HOT RTD LIST II",
+        "rows_seen": 55,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "HOT RTD LIST III",
+        "rows_seen": 54,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "HOT RTD LIST IV",
+        "rows_seen": 60,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "HOT RTD LIST V",
+        "rows_seen": 56,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "HOT RTD LIST VI",
+        "rows_seen": 60,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "Sketch 1",
+        "rows_seen": 66,
+        "non_empty_rows": 10
+      },
+      {
+        "name": "Single Point RTD Spec",
+        "rows_seen": 60,
+        "non_empty_rows": 41
+      },
+      {
+        "name": "Sketch 2",
+        "rows_seen": 78,
+        "non_empty_rows": 5
+      },
+      {
+        "name": "Single Point RTD List",
+        "rows_seen": 58,
+        "non_empty_rows": 21
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:12.527555+00:00"
+}

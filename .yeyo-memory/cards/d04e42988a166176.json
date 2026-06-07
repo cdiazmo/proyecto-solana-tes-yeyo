@@ -1,0 +1,30 @@
+{
+  "id": "d04e42988a166176",
+  "path": "03 GD Fabricacion LOI TES 6/WPS Y PQR/W.List - Unit 1 - 6MX-A.PDF",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 423711,
+  "size_human": "414 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "W.List - Unit 1 - 6MX-A",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d04e42988a166176.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Title": "SKM_36818012316201",
+      "Creator": "KM_368",
+      "Producer": "KONICA MINOLTA bizhub 368",
+      "CreationDate": "D:20180123162144+01'00'",
+      "ModDate": "D:20180123162144+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:08.661637+00:00"
+}

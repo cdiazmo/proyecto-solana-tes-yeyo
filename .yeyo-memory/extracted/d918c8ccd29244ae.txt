@@ -1,0 +1,301 @@
+[page 1]
+Support definition-P0114.17 in
+12.80"
+8.27 in
+Isometric reference point
+Elevation (Looking to pipe orientation)
+Side View
+Ȧ 
+Detail 1 (Ori.ref.)
+==UP OR NORTH
+10 in
+Existing structure
+90
+180
+270
+0
+Ȧ
+Non-rotation trunnion
+¦0
+Single S
+Ȧ
+Notes:
+1.- Element provided by vendor, to define
+final geometry
+2.- See loads in support list.
+3.- Thickness stiffeners (e) according
+minimum thickness of existing profile (E)
+%=ª(&+1af[`3]5(&-1af[`
+- E < 0.39 inch ; e = 0.32 inch
+Support definition - P11
+Notes:
+1.-Element provided by vendor, to define
+final geometry
+2.-See loads on support control list
+min 0.79
+Existing typical shoe
+ElevationSide View
+Microtherm sheet
+0.2" th
+¦)(
+A
+B
+C
+D
+E
+F
+123A4
+1234
+A
+B
+C
+D
+E
+F
+Drawing No: Scale:
+Project:
+Sheets:K`]]lf³2
+Status:
+EPC Contractor:
+Supplier Eng:
+Client:Stamp:
+Drawn by Rev.:Date:Reviewed by Approved by Description:
+This drawing and the design it covers are the property of Abeinsa.They
+have been merely loaned by express agreement of the borrower,who states
+that it cannot be reproduced,copied, loaned, exhibited or used under any
+circunstances. As an exception, it can be used in a limited and private way,
+as long as Abeinsa gives permission to the borrower for using it through a
+written consent.
+Typical Standard
+252-HTF-21F-S-007
+General shoe
+With Insulation / Not insulation
+4521-PLN-DOT-75-63-0265
+1 4
+-
+FOR CONSTRUCTION
+ARIZONA SOLAR
+ONE
+SOLANA
+00 08/24/18First emisionJRCHRIGA
+Ildefonso Gonzalez, P.E. PHD
+01 11/20/2018Added Foundation InformationCGHRIGA
+
+[page 2]
+Gap 1=2.25 in
+Gap 2=0.07 in
+Detail B
+Lift-stop Thk 0.79in
+See detail A
+2 unidades
+110
+75
+25H
+Do not weld this side
+Note:
+1.- Gap 1 is limited to 0.59 in
+Non-rotating trunnion
+Support definition - G04
+Existing structure
+Detail B
+Isometric reference point
+Detail A (2 Pieces)
+Side View
+Existing typical shoe
+Gap 2 from top of shoe plate
+trim as required
+@5?Yh*#K`g]l`a[cf]kk#¦Jgmf\:Yjgj?jYh`al]HdYl]
+Elevation
+A
+B
+C
+D
+E
+F
+123A4
+1234
+A
+B
+C
+D
+E
+F
+Drawing No: Scale:
+Project:
+Sheets:K`]]lf³2
+Status:
+EPC Contractor:
+Supplier Eng:
+Client:Stamp:
+Drawn by Rev.:Date:Reviewed by Approved by Description:
+This drawing and the design it covers are the property of Abeinsa.They
+have been merely loaned by express agreement of the borrower,who states
+that it cannot be reproduced,copied, loaned, exhibited or used under any
+circunstances. As an exception, it can be used in a limited and private way,
+as long as Abeinsa gives permission to the borrower for using it through a
+written consent.
+Typical Standard
+Anti-Lift Guide
+Insulated / Uninsulated
+4521-PLN-DOT-75-63-0265
+2 4
+-
+FOR CONSTRUCTION
+ARIZONA SOLAR ONE
+SOLANA
+00 08/24/18First emisionJRCHRIGA
+Ildefonso Gonzalez, P.E. PHD
+01 11/20/2018Added Foundation InfomationCGHRIGA
+
+[page 3]
+193"
+36"
+91"94"
+W8X31
+W4X13
+W4X13
+3
+2 W4x13
+1
+MTO
+ID
+3 22' 8"
+2 27' 1.8"
+1 W8x31 216' 1"
+MTO
+ID Desc Thk/Len QuantINDIV.
+WEIGHT (LB)
+34.67
+92.96
+498.6
+WEIGHT (LB)
+69.3
+185.9
+997.2
+TOTAL
+WEIGHT
+(LB)
+1252.4
+W4x13
+A
+B
+C
+D
+E
+F
+123A4
+1234
+A
+B
+C
+D
+E
+F
+Drawing No: Scale:
+Project:
+Sheets:K`]]lf³2
+Status:
+EPC Contractor:
+Supplier Eng:
+Client:Stamp:
+Drawn by Rev.:Date:Reviewed by Approved by Description:
+This drawing and the design it covers are the property of Abeinsa.They
+have been merely loaned by express agreement of the borrower,who states
+that it cannot be reproduced,copied, loaned, exhibited or used under any
+circunstances. As an exception, it can be used in a limited and private way,
+as long as Abeinsa gives permission to the borrower for using it through a
+written consent.
+Typical Standard
+Support Structure
+Insulated / Uninsulated
+4521-PLN-DOT-75-63-0265
+3 4
+-
+FOR CONSTRUCTION
+ARIZONA SOLAR ONE
+SOLANA
+00 08/24/18First emisionJRCHRIGA
+Ildefonso Gonzalez, P.E. PHD
+01 11/20/2018Added Foundation InformaitonCGHRIGA
+REVISION 01
+
+[page 4]
+12"
+12"
+3"
+3"
+SECTION CC
+(4) #6
+#4
+ANCHOR LAYOUT
+¦)'* 10"
+10"
+6"
+6" 2"
+2"1/2" BASE PLATE
+ANCHOR DEFINITION
+)'*¦@=P@=9<:GDL
+EMBED 4 1/2" DEEP
+12"36"12"
+12"12"
+12"
+10"
+12"
+10"
+#4 @
+6"O.C.
+#4 @
+9"O.C.
+3"3"
+3"
+SECTION AA
+SECTION BB
+AA
+BB
+C C
+Foundation Definition
+N=700178'-1"
+E=373234'-3"
+ELEVATION=722'-4"
+PLANT NORTH12" 12"
+A
+B
+C
+D
+E
+F
+123A4
+1234
+A
+B
+C
+D
+E
+F
+Drawing No: Scale:
+Project:
+Sheets:K`]]lf³2
+Status:
+EPC Contractor:
+Supplier Eng:
+Client:Stamp:
+Drawn by Rev.:Date:Reviewed by Approved by Description:
+This drawing and the design it covers are the property of Abeinsa.They
+have been merely loaned by express agreement of the borrower,who states
+that it cannot be reproduced,copied, loaned, exhibited or used under any
+circunstances. As an exception, it can be used in a limited and private way,
+as long as Abeinsa gives permission to the borrower for using it through a
+written consent.
+Typical Standard
+Foundation
+Insulated / Uninsulated
+4521-PLN-DOT-75-63-0265
+4 4
+-
+FOR CONSTRUCTION
+ARIZONA SOLAR ONE
+SOLANA
+00 08/24/18First emisionJRCHRIGA
+Ildefonso Gonzalez, P.E. PHD
+01 11/20/2018Added Foundation InformaitonCGHRIGA
+REVISION 01

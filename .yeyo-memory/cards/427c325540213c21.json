@@ -1,0 +1,38 @@
+{
+  "id": "427c325540213c21",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Fundación de soporte de tuberías TMT-18230-06/TMT-18230-06 Pipe Support Foundation Index Table(s).pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 170421,
+  "size_human": "166 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "TMT-18230-06 Pipe Support Foundation Index Table(s)",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1205,
+  "token_estimate": 301,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/427c325540213c21.json",
+  "extracted_path": ".yeyo-memory/extracted/427c325540213c21.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Nolan",
+      "CreationDate": "D:20190301112628-06'00'",
+      "Creator": "Acrobat PDFMaker 19 for Excel",
+      "ModDate": "D:20190301113129-06'00'",
+      "Producer": "Adobe PDF Library 19.10.123",
+      "Subject": "Letter of Transmital-New",
+      "Title": "STIS"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Soporte de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.956849+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:54.956851+00:00"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "07d34262d7324fcf",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-ANC-27-23-P590-901_PP-6334_SLD_TES HEX Change.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 41583,
+  "size_human": "41 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-ANC-27-23-P590-901 PP-6334 SLD TES HEX Change",
+  "doc_code": "4521-PLN-ANC-27-23-P590",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2376,
+  "token_estimate": 594,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/07d34262d7324fcf.json",
+  "extracted_path": ".yeyo-memory/extracted/07d34262d7324fcf.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::51",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 51,
+        "doc_code": "4521-PLN-ANC-27-23-P590-R12 PP-6334M",
+        "title": "",
+        "revision": "4521-PLN-ANC-27-23-P590_R12 PP-6334M",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::51",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 51,
+        "doc_code": "4521-PLN-ANC-27-23-P590-R12 PP-6334M",
+        "title": "",
+        "revision": "4521-PLN-ANC-27-23-P590_R12 PP-6334M",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::63",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 63,
+        "doc_code": "4521-PLN-ANC-27-23-P590-R12 PP-6334M",
+        "title": "",
+        "revision": "12",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::99",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 99,
+        "doc_code": "4521-PLN-ANC-27-23-P590-R12 PP-6334M",
+        "title": "",
+        "revision": "12",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::92",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 92,
+        "doc_code": "4521-PLN-ANC-27-23-P590-R12 PP-6334M",
+        "title": "",
+        "revision": "12",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::51",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 51,
+        "doc_code": "4521-PLN-ANC-27-23-P590-R12 PP-6334M",
+        "title": "",
+        "revision": "4521-PLN-ANC-27-23-P590_R12 PP-6334M",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:59.245254+00:00"
+}

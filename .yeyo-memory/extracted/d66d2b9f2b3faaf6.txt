@@ -1,0 +1,2794 @@
+[page 1]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+1
+ 
+Table of Contents 
+ 
+LISTING OF STATIC LOAD CASES FOR THIS ANALYSIS .................................................. .............................. 2
+ 
+INPUT LISTING ..................................... ................................................... ................................................... ............ 3 
+ 
+
+[page 2]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+ 
+ 
+2
+ 
+ 
+LISTING OF STATIC LOAD CASES FOR THIS ANALYSIS 
+ 
+ 
+1 (HGR) CASE NOT ACTIVE 
+2 (HGR) CASE NOT ACTIVE 
+3 (HYD) WW+HP+H 
+4 (OPE) W+D1+T1+P1+H 
+5 (OPE) W+D2+T2+P2+H 
+6 (OPE) W+D2+T2+P2+H+F1 
+7 (OPE) W+D1+T1+P1+H+U1 
+8 (OPE) W+D1+T1+P1+H-U1 
+9 (OPE) W+D1+T1+P1+H+U2 
+10 (OPE) W+D1+T1+P1+H-U2 
+11 (OPE) W+D1+D4+T1+P1+H 
+12 (OPE) W+D1-D4+T1+P1+H 
+13 (OPE) W+D1+D5+T1+P1+H 
+14 (OPE) W+D1-D5+T1+P1+H 
+15 (OPE) W+D1+D4+T1+P1+H+U1 
+16 (OPE) W+D1-D4+T1+P1+H+U1 
+17 (OPE) W+D1+D4+T1+P1+H-U1 
+18 (OPE) W+D1-D4+T1+P1+H-U1 
+19 (OPE) W+D1+D5+T1+P1+H+U2 
+20 (OPE) W+D1-D5+T1+P1+H+U2 
+21 (OPE) W+D1+D5+T1+P1+H-U2 
+22 (OPE) W+D1-D5+T1+P1+H-U2 
+23 (OPE) W+D1+T1+P1+H+WIN1 
+24 (OPE) W+D1+T1+P1+H-WIN1 
+25 (SUS) W+P1+H 
+26 (SUS) W+P2+H 
+27 (OCC) L27=L6-L5 
+28 (OCC) L28=L7-L4 
+29 (OCC) L29=L8-L4 
+30 (OCC) L30=L9-L4 
+31 (OCC) L31=L10-L4 
+32 (OCC) L32=L23-L4 
+33 (OCC) L33=L24-L4 
+34 (EXP) L34=L4-L25 
+35 (EXP) L35=L5-L26 
+36 (EXP) L36=L11-L25 
+37 (EXP) L37=L12-L25 
+38 (EXP) L38=L13-L25 
+39 (EXP) L39=L14-L25 
+40 (OCC) L40=L25+L27 
+41 (OCC) L41=L25+L28 
+42 (OCC) L42=L25+L29 
+43 (OCC) L43=L25+L30 
+44 (OCC) L44=L25+L31 
+45 (OCC) L45=L25+L32 
+46 (OCC) L46=L25+L33 
+
+[page 3]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+3
+ 
+ 
+ Job Description: 
+ 
+ PROJECT: 
+ 
+ CLIENT : 
+ 
+ ANALYST: 
+ 
+ NOTES : 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ PIPE DATA 
+ ----------------------------------------------------------------------------- 
+ ----------------------------------------------------------------------------- 
+ From 7951 To 9200 DX= 4.750 ft. 
+ B31.3 (2014) Cycle Max Switch = ON Sc= 20,000 lb./sq.in. 
+ Sh1= 18,296 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 24.000 in. Wall= .688 in. Cor= .0300 in. 
+ GENERAL 
+ T1= 564 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 26,916,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0675000 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0066550 lb./cu.in. 
+ RIGID Weight= .00 lb. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 7951 To 23221 DX= -4.083 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9200 To 9210 DY= -2.283 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 20,000 lb./sq.in. Sh2= 19,810 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 247 F T2= 410 F 
+ RIGID Weight= .00 lb. 
+ RESTRAINTS 
+ Node 9210 ANC 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 9101 To 9102 DY= -3.500 ft. 
+ B31.3 (2014) Cycle Max Switch = ON Sc= 20,000 lb./sq.in. 
+ Sh1= 14,628 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+
+[page 4]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+4
+ 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 24.000 in. Wall= .688 in. Cor= .0300 in. 
+ GENERAL 
+ T1= 737 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 25,056,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0675000 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0066550 lb./cu.in. 
+ RIGID Weight= .00 lb. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 9102 To 9105 DX= 4.750 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9102 To 9106 DX= -3.108 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9106 To 23521 DY= 2.917 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9105 To 9110 DY= -3.500 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9110 To 9115 DY= -4.567 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 19,873 lb./sq.in. Sh2= 19,810 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 403 F T2= 410 F 
+ RIGID Weight= .00 lb. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 9115 To 9120 DY= -7.070 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 14,628 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 737 F T2= 750 F 
+ RIGID Weight= .00 lb. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 9120 To 9125 DY= -2.283 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 19,873 lb./sq.in. Sh2= 19,810 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+
+[page 5]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+5
+ 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 403 F T2= 410 F 
+ RIGID Weight= .00 lb. 
+ RESTRAINTS 
+ Node 9125 ANC 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 17541 To 9126 DY= -3.500 ft. 
+ B31.3 (2014) Cycle Max Switch = ON Sc= 20,000 lb./sq.in. 
+ Sh1= 14,628 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 24.000 in. Wall= .688 in. Cor= .0300 in. 
+ GENERAL 
+ T1= 737 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 25,056,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0675000 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0066550 lb./cu.in. 
+ RIGID Weight= .00 lb. 
+ UNIFORM LOAD 
+ Vector1 in F/L X1 Dir = .11 lb./in. Y1 Dir = .00 lb./in. 
+ Z1 Dir = .00 lb./in. Vector2 in F/L X2 Dir = .00 lb./in. 
+ Y2 Dir = .00 lb./in. Z2 Dir = .11 lb./in. Vector3 in F/L 
+ X3 Dir = .00 lb./in. Y3 Dir = .00 lb./in. Z3 Dir = .00 lb./in. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 9126 To 9129 DX= -4.750 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9126 To 9127 DX= 3.108 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9127 To 27331 DY= 2.917 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9129 To 9134 DY= -3.500 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9134 To 9139 DY= -4.567 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 19,873 lb./sq.in. Sh2= 19,810 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 403 F T2= 410 F 
+ RIGID Weight= .00 lb. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 9139 To 9144 DY= -7.070 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+
+[page 6]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+6
+ 
+ Sh1= 14,628 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 737 F T2= 750 F 
+ RIGID Weight= .00 lb. 
+ RESTRAINTS 
+ Node 9144 ANC 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 17241 To 9203 DX= -4.750 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 18,296 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 24.000 in. Wall= .688 in. Cor= .0300 in. 
+ GENERAL 
+ T1= 564 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 26,916,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0675000 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0066550 lb./cu.in. 
+ RIGID Weight= .00 lb. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 17241 To 27171 DX= 4.083 ft. DY= .083 ft. 
+ RIGID Weight= .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 9203 To 9213 DY= -2.283 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 20,000 lb./sq.in. Sh2= 19,810 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 247 F T2= 410 F 
+ RIGID Weight= .00 lb. 
+ RESTRAINTS 
+ Node 9213 ANC 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 23020 To 23030 DX= -2.833 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 18,087 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. Cor= .0300 in. 
+ GENERAL 
+ T1= 583 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 26,802,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+
+[page 7]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+7
+ 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0293000 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0050800 lb./cu.in. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ WIND 
+ Wind Shape= .650 
+ SIF's & TEE's 
+ Node 23030 Weldolet 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 23030 To 23040 DX= -1.500 ft. 
+ SIF's & TEE's 
+ Node 23040 Weldolet 
+ ----------------------------------------------------------------------------- 
+ From 23040 To 23045 DX= -5.055 ft. 
+ RESTRAINTS 
+ Node 23045 +YROD Length= 500.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 23045 To 23050 DX= -5.055 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23049 
+ Angle/Node @2= .00 23048 
+ ----------------------------------------------------------------------------- 
+ From 23050 To 23061 DZ= 20.906 ft. 
+ RESTRAINTS 
+ Node 23061 +Y Mu = .30 
+ Node 23061 Guide 
+ ----------------------------------------------------------------------------- 
+ From 23061 To 23062 DZ= 31.667 ft. 
+ RESTRAINTS 
+ Node 23062 +Y Mu = .30 
+ Node 23062 Guide 
+ ----------------------------------------------------------------------------- 
+ From 23062 To 23060 DZ= 15.000 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23059 
+ Angle/Node @2= .00 23058 
+ ----------------------------------------------------------------------------- 
+ From 23060 To 23063 DX= 7.000 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23067 
+ Angle/Node @2= .00 23071 
+ ----------------------------------------------------------------------------- 
+ From 23063 To 23066 DY= -20.776 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23065 
+ Angle/Node @2= .00 23064 
+ ----------------------------------------------------------------------------- 
+ From 23066 To 23072 DX= -3.500 ft. 
+ RESTRAINTS 
+ Node 23072 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+
+[page 8]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+8
+ 
+ From 23072 To 23070 DX= -3.500 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23069 
+ Angle/Node @2= .00 23068 
+ ----------------------------------------------------------------------------- 
+ From 23070 To 23081 DZ= 18.365 ft. 
+ RESTRAINTS 
+ Node 23081 +Y Mu = .30 
+ Node 23081 Guide 
+ ----------------------------------------------------------------------------- 
+ From 23081 To 23080 DZ= 29.583 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23079 
+ Angle/Node @2= .00 23078 
+ ----------------------------------------------------------------------------- 
+ From 23080 To 23085 DX= 10.812 ft. 
+ RESTRAINTS 
+ Node 23085 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 23085 To 23090 DX= 10.812 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23089 
+ Angle/Node @2= .00 23088 
+ ----------------------------------------------------------------------------- 
+ From 23090 To 23095 DZ= 4.641 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23095 To 23102 DZ= 5.923 ft. 
+ RESTRAINTS 
+ Node 23102 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 23102 To 23103 DZ= 42.321 ft. 
+ RESTRAINTS 
+ Node 23103 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 23103 To 23098 DZ= 12.352 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23100 
+ Angle/Node @2= .00 23101 
+ ----------------------------------------------------------------------------- 
+ From 23098 To 23096 DX= -20.250 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23099 
+ Angle/Node @2= .00 23094 
+ ----------------------------------------------------------------------------- 
+ From 23096 To 23097 DZ= 4.678 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23097 To 23135 DZ= 4.678 ft. 
+ RESTRAINTS 
+ Node 23135 +Y Mu = .30 
+ Node 23135 Guide 
+ ----------------------------------------------------------------------------- 
+ From 23135 To 23140 DZ= 31.836 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23139 
+ Angle/Node @2= .00 23138 
+ ----------------------------------------------------------------------------- 
+
+[page 9]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+9
+ 
+ From 23140 To 23142 DX= -3.750 ft. 
+ RESTRAINTS 
+ Node 23142 +Y Mu = .30 
+ Node 23142 Guide 
+ ----------------------------------------------------------------------------- 
+ From 23142 To 23150 DX= -26.094 ft. 
+ RESTRAINTS 
+ Node 23150 +Y Mu = .30 
+ Node 23150 LIM 
+ ----------------------------------------------------------------------------- 
+ From 23150 To 23152 DX= -3.556 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23152 To 23153 DX= -1.146 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23153 To 23156 DX= -4.701 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23156 To 23160 DX= -4.701 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23159 
+ Angle/Node @2= .00 23158 
+ ----------------------------------------------------------------------------- 
+ From 23160 To 23170 DZ= 5.932 ft. 
+ HANGERS 
+ Hanger Node =23170 Hanger Table = 5 Available Space = -500.0000 in. 
+ Allowed Load Variation = 25.0000 No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ SIF's & TEE's 
+ Node 23170 Weldolet 
+ ----------------------------------------------------------------------------- 
+ From 23170 To 23175 DZ= 1.083 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23175 To 23180 DZ= 1.083 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23180 To 23190 DZ= 1.146 ft. 
+ RIGID Weight= 4,012.00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 23190 To 23200 DZ= 4.333 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23199 
+ Angle/Node @2= .00 23198 
+ ----------------------------------------------------------------------------- 
+ From 23200 To 23210 DX= 4.380 ft. DY= 7.583 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23210 To 23220 DX= .833 ft. DY= 1.443 ft. 
+ RESTRAINTS 
+ Node 23220 ANC Cnode 23221 
+ ----------------------------------------------------------------------------- 
+ From 23170 To 23230 DY= 1.062 ft. 
+ Dia= 8.625 in. Wall= .322 in. 
+ Insul Thk= 7.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 23310 To 23320 DY= -1.062 ft. 
+ SIF's & TEE's 
+ Node 23320 Weldolet 
+
+[page 10]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+10 
+ ----------------------------------------------------------------------------- 
+ From 23320 To 23330 DZ= 3.766 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. 
+ GENERAL 
+ T1= 738 F P1= 260.0000 lb./sq.in. Fluid Den= .0225100 lb./cu.in. 
+ Insul Thk= 7.000 in. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23329 
+ Angle/Node @2= .00 23328 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 23330 To 23340 DY= -32.573 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23339 
+ Angle/Node @2= .00 23338 
+ ----------------------------------------------------------------------------- 
+ From 23340 To 23345 DX= 10.240 ft. 
+ RESTRAINTS 
+ Node 23345 LIM 
+ HANGERS 
+ Hanger Node =23345 Hanger Table = 5 Available Space = .0000 in. 
+ Allowed Load Variation = 25.0000 No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 23345 To 23347 DX= 30.206 ft. 
+ RESTRAINTS 
+ Node 23347 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 23347 To 23350 DX= 5.206 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23349 
+ Angle/Node @2= .00 23348 
+ ----------------------------------------------------------------------------- 
+ From 23350 To 23352 DZ= -10.000 ft. 
+ RESTRAINTS 
+ Node 23352 +Y Mu = .30 
+ Node 23352 LIM K= 0.0 lb./in. Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 23352 To 23353 DZ= -23.833 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23353 To 23354 DZ= -23.833 ft. 
+ RESTRAINTS 
+ Node 23354 +Y Mu = .30 
+ Node 23354 Guide 
+ Node 23354 LIM Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 23354 To 23361 DZ= -30.833 ft. 
+ RESTRAINTS 
+ Node 23361 +Y Mu = .30 
+ Node 23361 Guide Gap= .070 in. 
+
+[page 11]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+11 
+ ----------------------------------------------------------------------------- 
+ From 23361 To 23360 DZ= -4.401 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23359 
+ Angle/Node @2= .00 23358 
+ ----------------------------------------------------------------------------- 
+ From 23360 To 23370 DX= 20.500 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23369 
+ Angle/Node @2= .00 23368 
+ ----------------------------------------------------------------------------- 
+ From 23370 To 23380 DZ= -17.448 ft. 
+ RESTRAINTS 
+ Node 23380 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 23380 To 23390 DZ= -42.152 ft. 
+ RESTRAINTS 
+ Node 23390 +Y Mu = .30 
+ Node 23390 Guide Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 23390 To 23400 DZ= -15.385 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23399 
+ Angle/Node @2= .00 23398 
+ ----------------------------------------------------------------------------- 
+ From 23400 To 23410 DX= -8.172 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23409 
+ Angle/Node @2= .00 23408 
+ ----------------------------------------------------------------------------- 
+ From 23410 To 23420 DZ= -2.500 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23420 To 23430 DZ= -4.828 ft. 
+ RESTRAINTS 
+ Node 23430 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 23430 To 23440 DZ= -3.411 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23439 
+ Angle/Node @2= .00 23438 
+ ----------------------------------------------------------------------------- 
+ From 23440 To 23441 DY= 6.498 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23441 To 23442 DY= 6.498 ft. 
+ RESTRAINTS 
+ Node 23442 X Gap= .200 in. 
+ ----------------------------------------------------------------------------- 
+ From 23442 To 23446 DY= 3.249 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23446 To 23443 DY= 3.249 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23443 To 23447 DY= 3.249 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23447 To 23444 DY= 3.249 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23444 To 23445 DY= 6.498 ft. 
+
+[page 12]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+12 
+ ----------------------------------------------------------------------------- 
+ From 23445 To 23450 DY= 6.498 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23450 To 23460 DY= 5.000 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23459 
+ Angle/Node @2= .00 23458 
+ ----------------------------------------------------------------------------- 
+ From 23460 To 23470 DZ= -4.000 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 738 F 
+ RESTRAINTS 
+ Node 23470 +Y Mu = .30 
+ Node 23470 LIM Gap= .070 in. 
+ Node 23470 Guide Gap= .070 in. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 23470 To 23480 DZ= -9.333 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ GENERAL 
+ T1= 738 F P1= 260.0000 lb./sq.in. Fluid Den= .0255100 lb./cu.in. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 23320 To 23490 DZ= -3.000 ft. 
+ SIF's & TEE's 
+ Node 23490 Weldolet 
+ ----------------------------------------------------------------------------- 
+ From 23490 To 23500 DZ= -3.568 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 23499 
+ Angle/Node @2= .00 23498 
+ ----------------------------------------------------------------------------- 
+ From 23500 To 23510 DX= 1.250 ft. DY= -2.167 ft. 
+ ----------------------------------------------------------------------------- 
+ From 23510 To 23520 DX= .833 ft. DY= -1.443 ft. 
+ RESTRAINTS 
+ Node 23520 ANC Cnode 23521 
+ ----------------------------------------------------------------------------- 
+ From 23030 To 23530 DZ= -.906 ft. 
+ Dia= 2.375 in. Wall= .154 in. 
+ Insul Thk= 7.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 23040 To 23540 DY= .885 ft. 
+ Dia= 1.315 in. Wall= .133 in. 
+ Insul Thk= 7.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 23490 To 23550 DY= .901 ft. 
+ ----------------------------------------------------------------------------- 
+ From 25365 To 25370 DZ= 2.557 ft. 
+
+[page 13]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+13 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 18,087 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Sy= 35,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. Cor= .0300 in. 
+ GENERAL 
+ T1= 583 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 26,802,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0292993 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0050800 lb./cu.in. 
+ RESTRAINTS 
+ Node 25370 +Y Mu = .30 
+ Node 25370 LIM Gap= .500 in. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 25370 To 25400 DZ= 1.348 ft. 
+ ----------------------------------------------------------------------------- 
+ From 25400 To 25450 DZ= 3.281 ft. 
+ ----------------------------------------------------------------------------- 
+ From 25450 To 25455 DZ= 5.230 ft. 
+ RESTRAINTS 
+ Node 25455 Guide Gap= .070 in. 
+ Node 25455 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 25455 To 25500 DZ= 13.353 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 25499 
+ Angle/Node @2= .00 25498 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ----------------------------------------------------------------------------- 
+ From 25500 To 23020 DX= -2.500 ft. 
+ ----------------------------------------------------------------------------- 
+ From 24000 To 24005 DZ= 2.556 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. 
+ GENERAL 
+ T1= 738 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 25,048,800 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+
+[page 14]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+14 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0255059 lb./cu.in. Insul Thk= 7.000 in. 
+ RESTRAINTS 
+ Node 24005 Y Mu = .30 
+ Node 24005 LIM Gap= .500 in. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 24005 To 24010 DZ= 19.540 ft. 
+ RESTRAINTS 
+ Node 24010 Guide Gap= .070 in. 
+ Node 24010 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 24010 To 24035 DZ= 3.415 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 24034 
+ Angle/Node @2= .00 24033 
+ ----------------------------------------------------------------------------- 
+ From 24035 To 24085 DY= 23.297 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 24084 
+ Angle/Node @2= .00 24083 
+ ----------------------------------------------------------------------------- 
+ From 24085 To 24090 DZ= 7.491 ft. 
+ RESTRAINTS 
+ Node 24090 +Y Mu = .30 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ----------------------------------------------------------------------------- 
+ From 24090 To 24095 DZ= 27.423 ft. 
+ RESTRAINTS 
+ Node 24095 +Y Mu = .30 
+ Node 24095 Guide Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 24095 To 24135 DZ= 5.435 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 24134 
+ Angle/Node @2= .00 24133 
+ ----------------------------------------------------------------------------- 
+ From 24135 To 24185 DX= -13.500 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 24184 
+ Angle/Node @2= .00 24183 
+ ----------------------------------------------------------------------------- 
+ From 24185 To 24190 DZ= 11.260 ft. 
+ RESTRAINTS 
+ Node 24190 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 24190 To 24235 DZ= 14.740 ft. 
+
+[page 15]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+15 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 24234 
+ Angle/Node @2= .00 24233 
+ ----------------------------------------------------------------------------- 
+ From 24235 To 24285 DX= 12.000 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 24284 
+ Angle/Node @2= .00 24283 
+ ----------------------------------------------------------------------------- 
+ From 24285 To 24290 DZ= 8.458 ft. 
+ RESTRAINTS 
+ Node 24290 +Y Mu = .30 
+ Node 24290 Guide Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 24290 To 23480 DZ= 12.260 ft. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ----------------------------------------------------------------------------- 
+ From 27010 To 27020 DZ= 2.500 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 18,109 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. Cor= .0300 in. 
+ GENERAL 
+ T1= 581 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 26,814,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0292631 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0050578 lb./cu.in. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27019 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ WIND 
+ Wind Shape= .650 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 27020 To 27025 DX= 8.307 ft. 
+ RESTRAINTS 
+ Node 27025 +YROD Length= 500.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 27025 To 27030 DX= 8.307 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27029 
+ Angle/Node @2= .00 27028 
+ ----------------------------------------------------------------------------- 
+ From 27030 To 27033 DZ= 20.779 ft. 
+
+[page 16]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+16 
+ RESTRAINTS 
+ Node 27033 +Y Mu = .30 
+ Node 27033 Guide 
+ ----------------------------------------------------------------------------- 
+ From 27033 To 27036 DZ= 32.130 ft. 
+ RESTRAINTS 
+ Node 27036 +Y Mu = .30 
+ Node 27036 Guide 
+ ----------------------------------------------------------------------------- 
+ From 27036 To 27040 DZ= 14.663 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27039 
+ Angle/Node @2= .00 27038 
+ ----------------------------------------------------------------------------- 
+ From 27040 To 27043 DX= -7.000 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27042 
+ Angle/Node @2= .00 27041 
+ ----------------------------------------------------------------------------- 
+ From 27043 To 27046 DY= -20.777 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27045 
+ Angle/Node @2= .00 27044 
+ ----------------------------------------------------------------------------- 
+ From 27046 To 27048 DX= 3.500 ft. 
+ RESTRAINTS 
+ Node 27048 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 27048 To 27050 DX= 3.500 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27049 
+ ----------------------------------------------------------------------------- 
+ From 27050 To 27055 DZ= 18.257 ft. 
+ RESTRAINTS 
+ Node 27055 +Y Mu = .30 
+ Node 27055 Guide 
+ ----------------------------------------------------------------------------- 
+ From 27055 To 27060 DZ= 29.689 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27059 
+ Angle/Node @2= .00 27058 
+ ----------------------------------------------------------------------------- 
+ From 27060 To 27065 DX= -10.682 ft. 
+ RESTRAINTS 
+ Node 27065 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 27065 To 27070 DX= -10.682 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27069 
+ Angle/Node @2= .00 27068 
+ ----------------------------------------------------------------------------- 
+ From 27070 To 27073 DZ= 10.586 ft. 
+ RESTRAINTS 
+ Node 27073 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 27073 To 27076 DZ= 42.083 ft. 
+
+[page 17]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+17 
+ RESTRAINTS 
+ Node 27076 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 27076 To 27080 DZ= 12.620 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27079 
+ Angle/Node @2= .00 27078 
+ ----------------------------------------------------------------------------- 
+ From 27080 To 27090 DX= 20.253 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27089 
+ Angle/Node @2= .00 27088 
+ ----------------------------------------------------------------------------- 
+ From 27090 To 27095 DY= .002 ft. DZ= 9.395 ft. 
+ RESTRAINTS 
+ Node 27095 +Y Mu = .30 
+ Node 27095 Guide 
+ ----------------------------------------------------------------------------- 
+ From 27095 To 27100 DY= .002 ft. DZ= 31.796 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27099 
+ Angle/Node @2= .00 27098 
+ ----------------------------------------------------------------------------- 
+ From 27100 To 27102 DX= 3.750 ft. 
+ RESTRAINTS 
+ Node 27102 +Y Mu = .30 
+ Node 27102 Guide 
+ ----------------------------------------------------------------------------- 
+ From 27102 To 27105 DX= 26.223 ft. 
+ RESTRAINTS 
+ Node 27105 LIM 
+ Node 27105 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 27105 To 27110 DX= 14.161 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27109 
+ Angle/Node @2= .00 27108 
+ ----------------------------------------------------------------------------- 
+ From 27110 To 27120 DZ= 5.928 ft. 
+ HANGERS 
+ Hanger Node =27120 Hanger Table = 5 Available Space = -500.0000 in. 
+ Allowed Load Variation = 25.0000 No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ SIF's & TEE's 
+ Node 27120 Weldolet 
+ ----------------------------------------------------------------------------- 
+ From 27120 To 27125 DZ= 1.083 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27125 To 27130 DZ= 1.083 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27130 To 27140 DZ= 1.148 ft. 
+ RIGID Weight= 4,012.00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 27140 To 27150 DX= .003 ft. DY= .003 ft. DZ= 4.285 ft. 
+
+[page 18]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+18 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 89.984 Angle/Node @1= 44.99 27149 
+ Angle/Node @2= .00 27148 
+ ----------------------------------------------------------------------------- 
+ From 27150 To 27160 DX= -4.567 ft. DY= 7.910 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27160 To 27170 DX= -.833 ft. DY= 1.444 ft. 
+ RESTRAINTS 
+ Node 27170 ANC Cnode 27171 
+ ----------------------------------------------------------------------------- 
+ From 27120 To 27180 DY= 1.063 ft. 
+ Dia= 8.625 in. Wall= .322 in. 
+ Insul Thk= 7.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 27190 To 27195 DZ= 10.582 ft. 
+ B31.3 (2014) Cycle Max Switch = --- Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. 
+ GENERAL 
+ T1= 738 F P1= 260.0000 lb./sq.in. Fluid Den= .0256504 lb./cu.in. 
+ Insul Thk= 7.000 in. 
+ RESTRAINTS 
+ Node 27195 +Y Mu = .30 
+ Node 27195 LIM Gap= .070 in. 
+ Node 27195 Guide Gap= .070 in. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 27195 To 27200 DZ= 5.702 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27199 
+ Angle/Node @2= .00 27198 
+ ----------------------------------------------------------------------------- 
+ From 27200 To 27205 DY= -5.000 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27205 To 27207 DY= -26.214 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27207 To 27210 DY= -12.985 ft. 
+ BEND at "TO" end 
+ Radius= 20.000 in. (user) Bend Angle= 90.000 Angle/Node @1= 45.00 27209 
+ Angle/Node @2= .00 27208 
+ RESTRAINTS 
+ Node 27207 X Gap= .200 in. 
+ ----------------------------------------------------------------------------- 
+ From 27210 To 27215 DZ= 3.328 ft. 
+ RESTRAINTS 
+ Node 27215 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 27215 To 27220 DZ= 7.328 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27219 
+
+[page 19]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+19 
+ Angle/Node @2= .00 27218 
+ ----------------------------------------------------------------------------- 
+ From 27220 To 27225 DX= -3.275 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27225 To 27230 DX= -4.275 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27229 
+ Angle/Node @2= .00 27228 
+ ----------------------------------------------------------------------------- 
+ From 27230 To 27233 DZ= 15.281 ft. 
+ RESTRAINTS 
+ Node 27233 +Y Mu = .30 
+ Node 27233 Guide Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 27233 To 27240 DZ= 18.035 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27240 To 27239 DZ= 24.035 ft. 
+ RESTRAINTS 
+ Node 27239 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 27239 To 27234 DZ= 17.629 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27235 
+ Angle/Node @2= .00 27232 
+ ----------------------------------------------------------------------------- 
+ From 27234 To 27236 DX= 20.500 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27237 
+ Angle/Node @2= .00 27238 
+ ----------------------------------------------------------------------------- 
+ From 27236 To 27251 DZ= 4.400 ft. 
+ RESTRAINTS 
+ Node 27251 +Y Mu = .30 
+ Node 27251 Guide Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 27251 To 27252 DZ= 30.833 ft. 
+ RESTRAINTS 
+ Node 27252 +Y Mu = .30 
+ Node 27252 Guide 
+ Node 27252 LIM Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 27252 To 27256 DZ= 23.833 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27256 To 27261 DZ= 23.833 ft. 
+ RESTRAINTS 
+ Node 27261 +Y Mu = .30 
+ Node 27261 LIM K= 0.0 lb./in. Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 27261 To 27260 DZ= 10.000 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27259 
+ Angle/Node @2= .00 27258 
+ ----------------------------------------------------------------------------- 
+ From 27260 To 27262 DX= 5.376 ft. 
+ RESTRAINTS 
+ Node 27262 +Y Mu = .30 
+
+[page 20]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+20 
+ ----------------------------------------------------------------------------- 
+ From 27262 To 27265 DX= 30.376 ft. 
+ RESTRAINTS 
+ Node 27265 LIM 
+ HANGERS 
+ Hanger Node =27265 Hanger Table = 5 Available Space = .0000 in. 
+ Allowed Load Variation = 25.0000 No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ ----------------------------------------------------------------------------- 
+ From 27265 To 27270 DX= 9.898 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 89.994 Angle/Node @1= 45.00 27269 
+ Angle/Node @2= .00 27268 
+ ----------------------------------------------------------------------------- 
+ From 27270 To 27280 DX= .003 ft. DY= 32.562 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27279 
+ Angle/Node @2= .00 27278 
+ ----------------------------------------------------------------------------- 
+ From 27280 To 27290 DZ= -3.763 ft. 
+ SIF's & TEE's 
+ Node 27290 Weldolet 
+ ----------------------------------------------------------------------------- 
+ From 27290 To 27300 DZ= -1.942 ft. 
+ SIF's & TEE's 
+ Node 27300 Weldolet 
+ ----------------------------------------------------------------------------- 
+ From 27300 To 27310 DZ= -4.646 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 27309 
+ Angle/Node @2= .00 27308 
+ ----------------------------------------------------------------------------- 
+ From 27310 To 27320 DX= -1.250 ft. DY= -2.165 ft. 
+ ----------------------------------------------------------------------------- 
+ From 27320 To 27330 DX= -.833 ft. DY= -1.444 ft. 
+ RESTRAINTS 
+ Node 27330 ANC Cnode 27331 
+ ----------------------------------------------------------------------------- 
+ From 27290 To 27420 DY= 1.063 ft. 
+ Dia= 8.625 in. Wall= .322 in. 
+ Insul Thk= 7.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 27300 To 27430 DY= 1.004 ft. 
+ Dia= 4.500 in. Wall= .237 in. 
+ Insul Thk= 7.000 in. 
+ ----------------------------------------------------------------------------- 
+ From 27190 To 28680 FILTER DZ= -3.224 ft. 
+ B31.3 (2014) Cycle Max Switch = ON Sc= 20,000 lb./sq.in. 
+ Sh1= 15,574 lb./sq.in. Sh2= 15,500 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Sy= 30,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. Cor= .0300 in. 
+ GENERAL 
+
+[page 21]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+21 
+ T1= 738 F T2= 750 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (155)A312 TP304 E= 28,487,500 lb./sq.in. 
+ EH1= 24,574,400 lb./sq.in. EH2= 24,500,000 lb./sq.in. 
+ EH3= 28,487,500 lb./sq.in. EH4= 28,487,500 lb./sq.in. 
+ EH5= 28,487,500 lb./sq.in. EH6= 28,487,500 lb./sq.in. 
+ EH7= 28,487,500 lb./sq.in. EH8= 28,487,500 lb./sq.in. 
+ EH9= 28,487,500 lb./sq.in. v = .292 Pipe Den= .2900000 lb./cu.in. 
+ Fluid Den= .0254800 lb./cu.in. Insul Thk= 7.000 in. 
+ Insul Den= .0050800 lb./cu.in. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 28680 To 28690 DZ= -7.792 ft. 
+ B31.3 (2014) Cycle Max Switch = ON Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Sy= 35,000 lb./sq.in. 
+ GENERAL 
+ T1= 738 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 25,048,800 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ RESTRAINTS 
+ Node 28690 +Y Mu = .30 
+ Node 28690 Guide Gap= .070 in. 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 28690 To 28700 DZ= -7.521 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 28699 
+ Angle/Node @2= .00 28698 
+ ----------------------------------------------------------------------------- 
+ From 28700 To 28725 DX= 12.880 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 28724 
+ Angle/Node @2= .00 28723 
+ ----------------------------------------------------------------------------- 
+ From 28725 To 28730 DZ= -14.107 ft. 
+ RESTRAINTS 
+ Node 28730 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 28730 To 28740 DZ= -8.252 ft. 
+ ----------------------------------------------------------------------------- 
+ From 28740 To 28750 DZ= -3.642 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 28749 
+ Angle/Node @2= .00 28748 
+ ----------------------------------------------------------------------------- 
+ From 28750 To 28775 DX= -13.758 ft. 
+
+[page 22]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+22 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 28774 
+ Angle/Node @2= .00 28773 
+ ----------------------------------------------------------------------------- 
+ From 28775 To 28790 DZ= -4.750 ft. 
+ RESTRAINTS 
+ Node 28790 +Y Mu = .30 
+ Node 28790 Guide Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 28790 To 28800 DZ= -25.430 ft. 
+ ----------------------------------------------------------------------------- 
+ From 28800 To 28810 DZ= -2.061 ft. 
+ RESTRAINTS 
+ Node 28810 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 28810 To 28825 DZ= -7.939 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 28824 
+ Angle/Node @2= .00 28823 
+ ----------------------------------------------------------------------------- 
+ From 28825 To 28850 DY= -23.479 ft. 
+ BEND at "TO" end 
+ Radius= 30.000 in. (LONG) Bend Angle= 90.000 Angle/Node @1= 45.00 28849 
+ Angle/Node @2= .00 28848 
+ ----------------------------------------------------------------------------- 
+ From 28850 To 28860 DZ= -3.380 ft. 
+ RESTRAINTS 
+ Node 28860 +Y Mu = .30 
+ ----------------------------------------------------------------------------- 
+ From 28860 To 28880 DZ= -19.083 ft. 
+ RESTRAINTS 
+ Node 28880 +Y Mu = .30 
+ Node 28880 Guide Gap= .070 in. 
+ Node 28880 LIM Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 28880 To 28881 DZ= -2.372 ft. 
+ UNIFORM LOAD 
+ Vector1 in G-s X1 Dir = .11 g's Y1 Dir = .00 g's Z1 Dir = .00 g's 
+ Vector2 in G-s X2 Dir = .00 g's Y2 Dir = .00 g's Z2 Dir = .11 g's 
+ Vector3 in G-s X3 Dir = .00 g's Y3 Dir = .00 g's Z3 Dir = .00 g's 
+ ----------------------------------------------------------------------------- 
+ From 27010 To 29905 DZ= -3.375 ft. 
+ B31.3 (2014) Cycle Max Switch = ON Sc= 20,000 lb./sq.in. 
+ Sh1= 18,109 lb./sq.in. Sh2= 13,900 lb./sq.in. Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. Sh5= 20,000 lb./sq.in. Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. Sh8= 20,000 lb./sq.in. Sh9= 20,000 lb./sq.in. 
+ Dia= 20.000 in. Wall= .375 in. 
+ GENERAL 
+ T1= 581 F P1= 260.0000 lb./sq.in. P2= 350.0000 lb./sq.in. 
+ PHyd= 525.0000 lb./sq.in. Mat= (305)API-5L B E= 29,687,500 lb./sq.in. 
+ EH1= 26,814,000 lb./sq.in. EH2= 24,900,000 lb./sq.in. 
+ EH3= 29,687,500 lb./sq.in. EH4= 29,687,500 lb./sq.in. 
+ EH5= 29,687,500 lb./sq.in. EH6= 29,687,500 lb./sq.in. 
+ EH7= 29,687,500 lb./sq.in. EH8= 29,687,500 lb./sq.in. 
+ EH9= 29,687,500 lb./sq.in. v = .292 Pipe Den= .2830000 lb./cu.in. 
+ Fluid Den= .0292700 lb./cu.in. Insul Thk= 7.000 in. 
+
+[page 23]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+23 
+ ALLOWABLE STRESSES 
+ ----------------------------------------------------------------------------- 
+ From 29905 To 29910 DZ= -7.005 ft. 
+ RESTRAINTS 
+ Node 29910 +Y Mu = .30 
+ Node 29910 LIM Gap= .070 in. 
+ Node 29910 Guide Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 29910 To 29925 DZ= -5.203 ft. 
+ ----------------------------------------------------------------------------- 
+ From 29925 To 29926 DZ= -3.281 ft. 
+ ----------------------------------------------------------------------------- 
+ From 29926 To 29940 DZ= -1.958 ft. 
+ RESTRAINTS 
+ Node 29940 +Y Mu = .30 
+ Node 29940 Guide Gap= .070 in. 
+ Node 29940 -Y Gap= .070 in. 
+ ----------------------------------------------------------------------------- 
+ From 29940 To 29943 DZ= -2.328 ft. 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ NODENAMES 
+ 27190 28680 From= To= FILTER 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ MATERIAL Changes: 
+ 7951 9200 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 9101 9102 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 17541 9126 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 17241 9203 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 23020 23030 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 25365 25370 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 24000 24005 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 27010 27020 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 27190 28680 FILTER Mat= (155)A312 TP304 
+ E= 28,487,500 lb./sq.in. v = .292 
+
+[page 24]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+24 
+ Density= .2900 lb./cu.in. 
+ 28680 28690 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ 27010 29905 Mat= (305)API-5L B 
+ E= 29,687,500 lb./sq.in. v = .292 
+ Density= .2830 lb./cu.in. 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ JOBNAME: C:\USERS\AGJBI\DESKTOP\STRESS\CáLCULO 25\ HTF2 
+ 
+ ALLOWABLE STRESS Changes 
+ 7951 9200 B31.3 (2014) Cycle Max Switch = ON 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 18,296 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9200 9210 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 20,000 lb./sq.in. 
+ Sh2= 19,810 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9101 9102 B31.3 (2014) Cycle Max Switch = ON 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,628 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9110 9115 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 19,873 lb./sq.in. 
+ Sh2= 19,810 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9115 9120 B31.3 (2014) Cycle Max Switch = --- 
+
+[page 25]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+25 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,628 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9120 9125 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 19,873 lb./sq.in. 
+ Sh2= 19,810 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 17541 9126 B31.3 (2014) Cycle Max Switch = ON 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,628 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9134 9139 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 19,873 lb./sq.in. 
+ Sh2= 19,810 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9139 9144 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,628 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 17241 9203 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+
+[page 26]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+26 
+ Sh1= 18,296 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 9203 9213 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 20,000 lb./sq.in. 
+ Sh2= 19,810 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 23020 23030 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 18,087 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 23320 23330 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 23460 23470 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 23470 23480 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. 
+
+[page 27]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+27 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 25365 25370 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 18,087 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ Sy= 35,000 lb./sq.in. 
+ 24000 24005 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 27010 27020 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 18,109 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 27190 27195 B31.3 (2014) Cycle Max Switch = --- 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ 27190 28680 FILTER B31.3 (2014) Cycle Max Switch = ON 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 15,574 lb./sq.in. 
+
+[page 28]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+28 
+ Sh2= 15,500 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ Sy= 30,000 lb./sq.in. 
+ 28680 28690 B31.3 (2014) Cycle Max Switch = ON 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 14,594 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ Sy= 35,000 lb./sq.in. 
+ 27010 29905 B31.3 (2014) Cycle Max Switch = ON 
+ Sc= 20,000 lb./sq.in. 
+ Sh1= 18,109 lb./sq.in. 
+ Sh2= 13,900 lb./sq.in. 
+ Sh3= 20,000 lb./sq.in. 
+ Sh4= 20,000 lb./sq.in. 
+ Sh5= 20,000 lb./sq.in. 
+ Sh6= 20,000 lb./sq.in. 
+ Sh7= 20,000 lb./sq.in. 
+ Sh8= 20,000 lb./sq.in. 
+ Sh9= 20,000 lb./sq.in. 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ BEND ELEMENTS 
+ 23045 23050 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23049 Angle/Node @2= .00 23048 
+ 23062 23060 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23059 Angle/Node @2= .00 23058 
+ 23060 23063 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23067 Angle/Node @2= .00 23071 
+ 23063 23066 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23065 Angle/Node @2= .00 23064 
+ 23072 23070 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23069 Angle/Node @2= .00 23068 
+ 23081 23080 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23079 Angle/Node @2= .00 23078 
+ 23085 23090 Radius= 30.000 in. (LONG) 
+
+[page 29]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+29 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23089 Angle/Node @2= .00 23088 
+ 23103 23098 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23100 Angle/Node @2= .00 23101 
+ 23098 23096 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23099 Angle/Node @2= .00 23094 
+ 23135 23140 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23139 Angle/Node @2= .00 23138 
+ 23156 23160 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23159 Angle/Node @2= .00 23158 
+ 23190 23200 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23199 Angle/Node @2= .00 23198 
+ 23320 23330 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23329 Angle/Node @2= .00 23328 
+ 23330 23340 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23339 Angle/Node @2= .00 23338 
+ 23347 23350 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23349 Angle/Node @2= .00 23348 
+ 23361 23360 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23359 Angle/Node @2= .00 23358 
+ 23360 23370 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23369 Angle/Node @2= .00 23368 
+ 23390 23400 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23399 Angle/Node @2= .00 23398 
+ 23400 23410 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23409 Angle/Node @2= .00 23408 
+ 23430 23440 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23439 Angle/Node @2= .00 23438 
+ 23450 23460 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23459 Angle/Node @2= .00 23458 
+ 23490 23500 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 23499 Angle/Node @2= .00 23498 
+ 25455 25500 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 25499 Angle/Node @2= .00 25498 
+ 24010 24035 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 24034 Angle/Node @2= .00 24033 
+ 24035 24085 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 24084 Angle/Node @2= .00 24083 
+
+[page 30]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+30 
+ 24095 24135 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 24134 Angle/Node @2= .00 24133 
+ 24135 24185 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 24184 Angle/Node @2= .00 24183 
+ 24190 24235 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 24234 Angle/Node @2= .00 24233 
+ 24235 24285 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 24284 Angle/Node @2= .00 24283 
+ 27010 27020 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27019 
+ 27025 27030 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27029 Angle/Node @2= .00 27028 
+ 27036 27040 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27039 Angle/Node @2= .00 27038 
+ 27040 27043 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27042 Angle/Node @2= .00 27041 
+ 27043 27046 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27045 Angle/Node @2= .00 27044 
+ 27048 27050 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27049 
+ 27055 27060 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27059 Angle/Node @2= .00 27058 
+ 27065 27070 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27069 Angle/Node @2= .00 27068 
+ 27076 27080 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27079 Angle/Node @2= .00 27078 
+ 27080 27090 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27089 Angle/Node @2= .00 27088 
+ 27095 27100 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27099 Angle/Node @2= .00 27098 
+ 27105 27110 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27109 Angle/Node @2= .00 27108 
+ 27140 27150 Radius= 30.000 in. (LONG) 
+ Bend Angle= 89.984 Angle/Node @1= 44.99 
+ 27149 Angle/Node @2= .00 27148 
+ 27195 27200 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27199 Angle/Node @2= .00 27198 
+ 27207 27210 Radius= 20.000 in. (user) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+
+[page 31]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+31 
+ 27209 Angle/Node @2= .00 27208 
+ 27215 27220 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27219 Angle/Node @2= .00 27218 
+ 27225 27230 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27229 Angle/Node @2= .00 27228 
+ 27239 27234 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27235 Angle/Node @2= .00 27232 
+ 27234 27236 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27237 Angle/Node @2= .00 27238 
+ 27261 27260 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27259 Angle/Node @2= .00 27258 
+ 27265 27270 Radius= 30.000 in. (LONG) 
+ Bend Angle= 89.994 Angle/Node @1= 45.00 
+ 27269 Angle/Node @2= .00 27268 
+ 27270 27280 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27279 Angle/Node @2= .00 27278 
+ 27300 27310 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 27309 Angle/Node @2= .00 27308 
+ 28690 28700 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 28699 Angle/Node @2= .00 28698 
+ 28700 28725 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 28724 Angle/Node @2= .00 28723 
+ 28740 28750 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 28749 Angle/Node @2= .00 28748 
+ 28750 28775 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 28774 Angle/Node @2= .00 28773 
+ 28810 28825 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 28824 Angle/Node @2= .00 28823 
+ 28825 28850 Radius= 30.000 in. (LONG) 
+ Bend Angle= 90.000 Angle/Node @1= 45.00 
+ 28849 Angle/Node @2= .00 28848 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ RIGIDS 
+ 7951 9200 RIGID Weight= .00 lb. 
+ 7951 23221 RIGID Weight= .00 lb. 
+ 9200 9210 RIGID Weight= .00 lb. 
+ 9101 9102 RIGID Weight= .00 lb. 
+ 9102 9105 RIGID Weight= .00 lb. 
+ 9102 9106 RIGID Weight= .00 lb. 
+ 9106 23521 RIGID Weight= .00 lb. 
+ 9105 9110 RIGID Weight= .00 lb. 
+
+[page 32]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+32 
+ 9110 9115 RIGID Weight= .00 lb. 
+ 9115 9120 RIGID Weight= .00 lb. 
+ 9120 9125 RIGID Weight= .00 lb. 
+ 17541 9126 RIGID Weight= .00 lb. 
+ 9126 9129 RIGID Weight= .00 lb. 
+ 9126 9127 RIGID Weight= .00 lb. 
+ 9127 27331 RIGID Weight= .00 lb. 
+ 9129 9134 RIGID Weight= .00 lb. 
+ 9134 9139 RIGID Weight= .00 lb. 
+ 9139 9144 RIGID Weight= .00 lb. 
+ 17241 9203 RIGID Weight= .00 lb. 
+ 17241 27171 RIGID Weight= .00 lb. 
+ 9203 9213 RIGID Weight= .00 lb. 
+ 23180 23190 RIGID Weight= 4,012.00 lb. 
+ 27130 27140 RIGID Weight= 4,012.00 lb. 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ SIF's & TEE's 
+ 23020 23030 Node 23030 Weldolet 
+ 23030 23040 Node 23040 Weldolet 
+ 23160 23170 Node 23170 Weldolet 
+ 23310 23320 Node 23320 Weldolet 
+ 23320 23490 Node 23490 Weldolet 
+ 27110 27120 Node 27120 Weldolet 
+ 27280 27290 Node 27290 Weldolet 
+ 27290 27300 Node 27300 Weldolet 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ REDUCERS 
+ 23210 23220 Diam2= 24.000 in. Wall2= .375 in. 
+ 23510 23520 Diam2= 24.000 in. Wall2= .375 in. 
+ 27160 27170 Diam2= 24.000 in. Wall2= .375 in. 
+ 27320 27330 Diam2= 24.000 in. Wall2= .375 in. 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ RESTRAINTS Len MU 
+ GAP YIELD Dir 
+ NODE TYPE CNODE STIF1 STIF2 FORCE Vectors 
+ -------+-------+------+----------+----------+----------+--------------------- 
+ 9210 ANC .000 .000 .000 
+ 9125 ANC .000 .000 .000 
+ 9144 ANC .000 .000 .000 
+ 9213 ANC .000 .000 .000 
+ 23045 +YROD 500.00 .000 1.000 .000 
+ 23061 +Y .30 .000 1.000 .000 
+ 23061 Guide .000 .000 .000 
+ 23062 +Y .30 .000 1.000 .000 
+ 23062 Guide .000 .000 .000 
+ 23072 +Y .30 .000 1.000 .000 
+ 23081 +Y .30 .000 1.000 .000 
+ 23081 Guide .000 .000 .000 
+ 23085 +Y .30 .000 1.000 .000 
+
+[page 33]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+33 
+ 23102 +Y .30 .000 1.000 .000 
+ 23103 +Y .30 .000 1.000 .000 
+ 23135 +Y .30 .000 1.000 .000 
+ 23135 Guide .000 .000 .000 
+ 23142 +Y .30 .000 1.000 .000 
+ 23142 Guide .000 .000 .000 
+ 23150 +Y .30 .000 1.000 .000 
+ 23150 LIM .000 .000 .000 
+ 23220 ANC 23221 .000 .000 .000 
+ 23345 LIM .000 .000 .000 
+ 23347 +Y .30 .000 1.000 .000 
+ 23352 +Y .30 .000 1.000 .000 
+ 23352 LIM 0.0 .07 .000 .000 .000 
+ 23354 +Y .30 .000 1.000 .000 
+ 23354 Guide .000 .000 .000 
+ 23354 LIM .07 .000 .000 .000 
+ 23361 +Y .30 .000 1.000 .000 
+ 23361 Guide .07 .000 .000 .000 
+ 23380 +Y .30 .000 1.000 .000 
+ 23390 +Y .30 .000 1.000 .000 
+ 23390 Guide .07 .000 .000 .000 
+ 23430 +Y .30 .000 1.000 .000 
+ 23442 X .20 1.000 .000 .000 
+ 23470 +Y .30 .000 1.000 .000 
+ 23470 LIM .07 .000 .000 .000 
+ 23470 Guide .07 .000 .000 .000 
+ 23520 ANC 23521 .000 .000 .000 
+ 25370 +Y .30 .000 1.000 .000 
+ 25370 LIM .50 .000 .000 .000 
+ 25455 Guide .07 .000 .000 .000 
+ 25455 +Y .30 .000 1.000 .000 
+ 24005 Y .30 .000 1.000 .000 
+ 24005 LIM .50 .000 .000 .000 
+ 24010 Guide .07 .000 .000 .000 
+ 24010 +Y .30 .000 1.000 .000 
+ 24090 +Y .30 .000 1.000 .000 
+ 24095 +Y .30 .000 1.000 .000 
+ 24095 Guide .07 .000 .000 .000 
+ 24190 +Y .30 .000 1.000 .000 
+ 24290 +Y .30 .000 1.000 .000 
+ 24290 Guide .07 .000 .000 .000 
+ 27025 +YROD 500.00 .000 1.000 .000 
+ 27033 +Y .30 .000 1.000 .000 
+ 27033 Guide .000 .000 .000 
+ 27036 +Y .30 .000 1.000 .000 
+ 27036 Guide .000 .000 .000 
+ 27048 +Y .30 .000 1.000 .000 
+ 27055 +Y .30 .000 1.000 .000 
+ 27055 Guide .000 .000 .000 
+ 27065 +Y .30 .000 1.000 .000 
+ 27073 +Y .30 .000 1.000 .000 
+ 27076 +Y .30 .000 1.000 .000 
+ 27095 +Y .30 .000 1.000 .000 
+ 27095 Guide .000 .000 .000 
+ 27102 +Y .30 .000 1.000 .000 
+ 27102 Guide .000 .000 .000 
+
+[page 34]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+34 
+ 27105 LIM .000 .000 .000 
+ 27105 +Y .30 .000 1.000 .000 
+ 27170 ANC 27171 .000 .000 .000 
+ 27195 +Y .30 .000 1.000 .000 
+ 27195 LIM .07 .000 .000 .000 
+ 27195 Guide .07 .000 .000 .000 
+ 27207 X .20 1.000 .000 .000 
+ 27215 +Y .30 .000 1.000 .000 
+ 27233 +Y .30 .000 1.000 .000 
+ 27233 Guide .07 .000 .000 .000 
+ 27239 +Y .30 .000 1.000 .000 
+ 27251 +Y .30 .000 1.000 .000 
+ 27251 Guide .07 .000 .000 .000 
+ 27252 +Y .30 .000 1.000 .000 
+ 27252 Guide .000 .000 .000 
+ 27252 LIM .07 .000 .000 .000 
+ 27261 +Y .30 .000 1.000 .000 
+ 27261 LIM 0.0 .07 .000 .000 .000 
+ 27262 +Y .30 .000 1.000 .000 
+ 27265 LIM .000 .000 .000 
+ 27330 ANC 27331 .000 .000 .000 
+ 28690 +Y .30 .000 1.000 .000 
+ 28690 Guide .07 .000 .000 .000 
+ 28730 +Y .30 .000 1.000 .000 
+ 28790 +Y .30 .000 1.000 .000 
+ 28790 Guide .07 .000 .000 .000 
+ 28810 +Y .30 .000 1.000 .000 
+ 28860 +Y .30 .000 1.000 .000 
+ 28880 +Y .30 .000 1.000 .000 
+ 28880 Guide .07 .000 .000 .000 
+ 28880 LIM .07 .000 .000 .000 
+ 29910 +Y .30 .000 1.000 .000 
+ 29910 LIM .07 .000 .000 .000 
+ 29910 Guide .07 .000 .000 .000 
+ 29940 +Y .30 .000 1.000 .000 
+ 29940 Guide .07 .000 .000 .000 
+ 29940 -Y .07 .000 1.000 .000 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ HANGER CONTROL AND LOCATION DATA 
+ 
+ No. of Hanger Design Load Cases = 1 
+ Actual Cold Load Flag = 0.0 
+ Short Range Spring Flag = 1 
+ Allowed Load Variation (%) = 25.0000 
+ Default Hanger Table = 1 
+ 
+ 23160 23170 Hanger Node =23170 Hanger Table = 5 
+ Available Space = -500.0000 in. 
+ Allowed Load Variation = 25.0000 
+ No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. 
+ Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ 
+
+[page 35]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+35 
+ 23340 23345 Hanger Node =23345 Hanger Table = 5 
+ Available Space = .0000 in. 
+ Allowed Load Variation = 25.0000 
+ No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. 
+ Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ 
+ 27110 27120 Hanger Node =27120 Hanger Table = 5 
+ Available Space = -500.0000 in. 
+ Allowed Load Variation = 25.0000 
+ No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. 
+ Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ 
+ 27262 27265 Hanger Node =27265 Hanger Table = 5 
+ Available Space = .0000 in. 
+ Allowed Load Variation = 25.0000 
+ No. Hangers = 0.0 Short Range Flag = -1 
+ User Operating Load = .00 lb. 
+ Free Node = 0 Free Node = 0 
+ Free Code = 0.0 Spring Rate = .00 lb./in. 
+ Theoretical Cold Load = .00 lb. 
+ 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ EQUIPMENT LIMITS 
+ 23210 23220 Nozzle Node =23220 
+ 
+ 
+ Limiting Loads: A=pipe; B=ref; C=AxB; FA= 5,129.00 lb. FB= 6,276.00 lb. 
+ FC= 6,276.00 lb. MA= 606,672.00 in.lb. MB= 428,652.00 in.lb. 
+ MC= 428,652.00 in.lb. Equipment Major Direction Vector= .0000 .0000 
+ 1.0000 Interact. Mtd= Absolute 
+ 23510 23520 Nozzle Node =23520 
+ 
+ 
+ Limiting Loads: A=pipe; B=ref; C=AxB; FA= 5,129.00 lb. FB= 6,276.00 lb. 
+ FC= 6,276.00 lb. MA= 606,672.00 in.lb. MB= 428,652.00 in.lb. 
+ MC= 428,652.00 in.lb. Equipment Major Direction Vector= .0000 .0000 
+ 1.0000 Interact. Mtd= Absolute 
+ 27160 27170 Nozzle Node =27170 
+ 
+ 
+ Limiting Loads: A=pipe; B=ref; C=AxB; FA= 5,129.00 lb. FB= 6,276.00 lb. 
+ FC= 6,276.00 lb. MA= 606,672.00 in.lb. MB= 428,652.00 in.lb. 
+ MC= 428,652.00 in.lb. Equipment Major Direction Vector= .0000 .0000 
+ 1.0000 Interact. Mtd= Absolute 
+ 27320 27330 Nozzle Node =27330 
+ 
+ 
+
+[page 36]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+36 
+ Limiting Loads: A=pipe; B=ref; C=AxB; FA= 5,129.00 lb. FB= 6,276.00 lb. 
+ FC= 6,276.00 lb. MA= 606,672.00 in.lb. MB= 428,652.00 in.lb. 
+ MC= 428,652.00 in.lb. Equipment Major Direction Vector= .0000 .0000 
+ 1.0000 Interact. Mtd= Absolute 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ UNIFORM LOAD Changes 
+ 7951 9200 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 9101 9102 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 17541 9126 Vector1 in F/L 
+ X1 Dir = .11 lb./in. Y1 Dir = .00 lb./in. 
+ Z1 Dir = .00 lb./in. 
+ Vector2 in F/L 
+ X2 Dir = .00 lb./in. Y2 Dir = .00 lb./in. 
+ Z2 Dir = .11 lb./in. 
+ Vector3 in F/L 
+ X3 Dir = .00 lb./in. Y3 Dir = .00 lb./in. 
+ Z3 Dir = .00 lb./in. 
+ 23020 23030 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 25365 25370 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 25455 25500 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+
+[page 37]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+37 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 24000 24005 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 24085 24090 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 24290 23480 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 27010 27020 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 27190 27195 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 27190 28680 FILTER Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+
+[page 38]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+38 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ 28880 28881 Vector1 in G-s 
+ X1 Dir = .11 g's Y1 Dir = .00 g's 
+ Z1 Dir = .00 g's 
+ Vector2 in G-s 
+ X2 Dir = .00 g's Y2 Dir = .00 g's 
+ Z2 Dir = .11 g's 
+ Vector3 in G-s 
+ X3 Dir = .00 g's Y3 Dir = .00 g's 
+ Z3 Dir = .00 g's 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ WIND/WAVE 
+ 23020 23030 WIND Wind Shape= .650 
+ 27010 27020 WIND Wind Shape= .650 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ INPUT UNITS USED... 
+ 
+ UNITS= ENGLISH NOM/SCH INPUT= ON 
+ LENGTH inches x 1.000 = in. 
+ FORCE pounds x 1.000 = lb. 
+ MASS(dynamics) pounds x 1.000 = lbm 
+ MOMENTS(INPUT) inch-pounds x 1.000 = in.lb. 
+ MOMENTS(OUTPUT) inch-pounds x 0.083 = ft.lb. 
+ STRESS lbs./sq.in. x 1.000 = lb./sq.in. 
+ TEMP. SCALE degrees F. x 1.000 = F 
+ PRESSURE psig x 1.000 = lb./sq.in. 
+ ELASTIC MODULUS lbs./sq.in. x 1.000 = lb./sq.in. 
+ PIPE DENSITY lbs./cu.in. x 1.000 = lb./cu.in. 
+ INSULATION DENS. lbs./cu.in. x 1.000 = lb./cu.in. 
+ FLUID DENSITY lbs./cu.in. x 1.000 = lb./cu.in. 
+ TRANSL. STIF lbs./in. x 1.000 = lb./in. 
+ ROTATIONAL STIF in.lb./deg. x 1.000 = in.lb./deg 
+ UNIFORM LOAD lb./in. x 1.000 = lb./in. 
+ G LOAD g's x 1.000 = g's 
+ WIND LOAD lbs./sq.in. x 144.000 = lb./sq.ft. 
+ ELEVATION inches x 0.083 = ft. 
+ COMPOUND LENGTH inches x 0.083 = ft. 
+ DIAMETER inches x 1.000 = in. 
+ WALL THICKNESS inches x 1.000 = in. 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ SETUP FILE PARAMETERS 
+ ------------------------------------------------------------------------------ 
+ CONNECT GEOMETRY THRU CNODES = YES 
+ MIN ALLOWED BEND ANGLE = 5.00000 
+ MAX ALLOWED BEND ANGLE = 95.0000 
+ BEND LENGTH ATTACHMENT PERCENT = 1.00000 
+ MIN ANGLE TO ADJACENT BEND PT = 5.00000 
+
+[page 39]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+39 
+ LOOP CLOSURE TOLERANCE = 1.00000 in. 
+ THERMAL BOWING HORZ TOLERANCE = 0.100000E-03 
+ AUTO NODE NUMBER INCREMENT= 10.0000 
+ Z AXIS UP= NO 
+ USE PRESSURE STIFFENING = DEFAULT 
+ ALPHA TOLERANCE = 0.500000E-01 
+ RESLD-FORCE = NO 
+ HGR DEF RESWGT STIF = 0.100000E+13 lb./in. 
+ DECOMP SNG TOL = 0.100000E+11 
+ BEND AXIAL SHAPE = YES 
+ FRICT STIF = 0.100000E+07 lb./in. 
+ FRICT NORM FORCE VAR = 0.150000 
+ FRICT ANGLE VAR = 15.0000 
+ FRICT SLIDE MULT = 1.00000 
+ ROD TOLERANCE = 1.00000 
+ ROD INC = 2.00000 
+ INCORE NUMERICAL CHECK = NO 
+ OUTCORE NUMERICAL CHECK = NO 
+ DEFAULT TRANS RESTRAINT STIFF= 0.100000E+13 lb./in. 
+ DEFAULT ROT RESTRAINT STIFF= 0.100000E+13 in.lb./deg 
+ IGNORE SPRING HANGER STIFFNESS = NO 
+ MISSING MASS ZPA = EXTRACTED 
+ MIN WALL MILL TOLERANCE = 12.5000 
+ WRC-107 VERSION = MAR 79 1B1/2B1 
+ WRC-107 INTERPOLATION = LAST VALUE 
+ DEFAULT AMBIENT TEMPERATURE= 70.0000 F 
+ BOURDON PRESSURE= NONE 
+ COEFFICIENT OF FRICTION (MU) = 0.000000 
+ INCLUDE SPRG STIF IN HGR OPE = NO 
+ INCLUDE INSULATION IN HYDROTEST = NO 
+ REDUCED INTERSECTION = B31.1(POST1980) 
+ USE WRC329 NO 
+ NO REDUCED SIF FOR RFT AND WLT NO 
+ B31.1 REDUCED Z FIX = YES 
+ CLASS 1 BRANCH FLEX NO 
+ ALL STRESS CASES CORRODED = NO 
+ ADD TORSION IN SL STRESS = DEFAULT 
+ ADD F/A IN STRESS = DEFAULT 
+ OCCASIONAL LOAD FACTOR = 0.000000 
+ DEFAULT CODE = B31.3 
+ B31.3 SUS CASE SIF FACTOR = 0.000000 
+ ALLOW USERS BEND SIF = NO 
+ USE SCHNEIDER NO 
+ YIELD CRITERION STRESS = MAX 3D SHEAR 
+ USE PD/4T NO 
+ BASE HOOP STRESS ON ? = ID 
+ EN13480 USE IN OUTPLANE SIFS= NO 
+ LIBERAL EXPANSION ALLOWABLE= YES 
+ B31.3 SEC 319.2.3C SAXIAL= Default 
+ B31.3 WELDING/CONTOUR TEE ISB16.9 FALSE 
+ PRESSURE VARIATION IN EXP CASE= DEFAULT 
+ IMPLEMENT B313 APP-P NO 
+ IMPLEMENT B313 CODE CASE 178 NO 
+ IGNORE B31.1/B31.3 Wc FACTOR= NO 
+ USE FRP SIF = YES 
+ USE FRP FLEX = YES 
+
+[page 40]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+40 
+ BS 7159 Pressure Stiffening= Design Strain 
+ FRP Property Data File= CAESAR.FRP 
+ FRP Emod (axial) = 0.320000E+07 lb./sq.in. 
+ FRP Ratio Gmod/Emod (axial) = 0.250000 
+ FRP Ea/Eh*Vh/a = 0.152730 
+ FRP Laminate Type = THREE 
+ FRP Alpha = 12.0000 F 
+ FRP Density = 0.600000E-01 lb./cu.in. 
+ EXCLUDE f2 FROM UKOOA BENDING = NO 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ 
+ 
+ EXECUTION CONTROL PARAMETERS 
+ 
+ Rigid/ExpJt Print Flag ..... 1.000 
+ Bourdon Option ............. .000 
+ Loop Closure Flag .......... 2.000 
+ Thermal Bowing Delta Temp .. .000 F 
+ Liberal Allowable Flag ..... 1.000 
+ Uniform Load Option ........ 1.000 
+ 
+ Ambient Temperature ........ 25.000 F 
+ Plastic (FRP) Alpha ........ 12.000 
+ Plastic (FRP) GMOD/EMODa ... .250 
+ Plastic (FRP) Laminate Type. 3.000 
+ Eqn Optimizer .............. .000 
+ Node Selection ............. .000 
+ Eqn Ordering ............... .000 
+ Collins .................... .000 
+ Degree Determination ....... .000 
+ User Eqn Control ........... .000 
+ CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) JAN 31,2017 9:55:42 
+ 
+ COORDINATE REPORT 
+ /--------------------(in.)----------------------/ 
+ NODE X Y Z 
+ 7951 -1644.001 189.756 -394.080 
+ 9200 -1587.001 189.756 -394.080 
+ 7951 -1644.001 189.756 -394.080 
+ 23220 -1693.001 189.756 -394.080 
+ 9200 -1587.001 189.756 -394.080 
+ 9210 -1587.001 162.356 -394.080 
+ 9101 -1644.001 420.000 .000 
+ 9102 -1644.001 378.000 .000 
+ 9105 -1587.001 378.000 .000 
+ 9102 -1644.001 378.000 .000 
+ 9106 -1681.301 378.000 .000 
+ 23520 -1681.301 413.000 .000 
+ 9105 -1587.001 378.000 .000 
+ 9110 -1587.001 336.000 .000 
+ 9115 -1587.001 281.200 .000 
+ 9120 -1587.001 196.360 .000 
+ 9125 -1587.001 168.960 .000 
+ 17541 .000 420.000 .000 
+ 9126 .000 378.000 .000 
+
+[page 41]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+41 
+ 9129 -57.000 378.000 .000 
+ 9126 .000 378.000 .000 
+ 9127 37.300 378.000 .000 
+ 27330 37.300 413.000 .000 
+ 9129 -57.000 378.000 .000 
+ 9134 -57.000 336.000 .000 
+ 9139 -57.000 281.200 .000 
+ 9144 -57.000 196.360 .000 
+ 17241 .000 189.756 -394.080 
+ 9203 -57.000 189.756 -394.080 
+ 17241 .000 189.756 -394.080 
+ 27170 49.000 190.756 -394.080 
+ 9203 -57.000 189.756 -394.080 
+ 9213 -57.000 162.356 -394.080 
+ 23020 -1071.375 330.756 -3220.425 
+ 23030 -1105.375 330.756 -3220.425 
+ 23040 -1123.375 330.756 -3220.425 
+ 23045 -1184.031 330.756 -3220.425 
+ 23050 -1244.688 330.756 -3220.425 
+ 23061 -1244.688 330.756 -2969.550 
+ 23062 -1244.688 330.756 -2589.550 
+ 23060 -1244.688 330.756 -2409.550 
+ 23063 -1160.688 330.756 -2409.550 
+ 23066 -1160.688 81.444 -2409.550 
+ 23072 -1202.688 81.444 -2409.550 
+ 23070 -1244.688 81.444 -2409.550 
+ 23081 -1244.688 81.444 -2189.175 
+ 23080 -1244.688 81.444 -1834.175 
+ 23085 -1114.938 81.444 -1834.175 
+ 23090 -985.188 81.444 -1834.175 
+ 23095 -985.188 81.444 -1778.487 
+ 23102 -985.188 81.444 -1707.414 
+ 23103 -985.188 81.444 -1199.560 
+ 23098 -985.188 81.444 -1051.331 
+ 23096 -1228.188 81.444 -1051.331 
+ 23097 -1228.188 81.444 -995.190 
+ 23135 -1228.188 81.444 -939.049 
+ 23140 -1228.188 81.444 -557.018 
+ 23142 -1273.188 81.444 -557.018 
+ 23150 -1586.313 81.444 -557.018 
+ 23152 -1628.980 81.444 -557.018 
+ 23153 -1642.730 81.444 -557.018 
+ 23156 -1699.146 81.444 -557.018 
+ 23160 -1755.563 81.444 -557.018 
+ 23170 -1755.563 81.444 -485.830 
+ 23175 -1755.563 81.444 -472.830 
+ 23180 -1755.563 81.444 -459.830 
+ 23190 -1755.563 81.444 -446.080 
+ 23200 -1755.563 81.444 -394.080 
+ 23210 -1703.001 172.444 -394.080 
+ 23220 -1693.001 189.756 -394.080 
+ 23170 -1755.563 81.444 -485.830 
+ 23230 -1755.563 94.194 -485.830 
+ 23310 -1706.301 469.063 78.813 
+ 23320 -1706.301 456.313 78.813 
+ 23330 -1706.301 456.313 124.000 
+
+[page 42]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+42 
+ 23340 -1706.301 65.438 124.000 
+ 23345 -1583.426 65.438 124.000 
+ 23347 -1220.957 65.438 124.000 
+ 23350 -1158.489 65.438 124.000 
+ 23352 -1158.489 65.438 4.000 
+ 23353 -1158.489 65.438 -282.000 
+ 23354 -1158.489 65.438 -568.000 
+ 23361 -1158.489 65.438 -938.000 
+ 23360 -1158.489 65.438 -990.812 
+ 23370 -912.489 65.438 -990.812 
+ 23380 -912.489 65.438 -1200.188 
+ 23390 -912.489 65.438 -1706.009 
+ 23400 -912.489 65.438 -1890.625 
+ 23410 -1010.552 65.438 -1890.625 
+ 23420 -1010.552 65.438 -1920.625 
+ 23430 -1010.552 65.438 -1978.563 
+ 23440 -1010.552 65.438 -2019.500 
+ 23441 -1010.552 143.417 -2019.500 
+ 23442 -1010.552 221.396 -2019.500 
+ 23446 -1010.552 260.386 -2019.500 
+ 23443 -1010.552 299.375 -2019.500 
+ 23447 -1010.552 338.365 -2019.500 
+ 23444 -1010.552 377.354 -2019.500 
+ 23445 -1010.552 455.334 -2019.500 
+ 23450 -1010.552 533.313 -2019.500 
+ 23460 -1010.552 593.313 -2019.500 
+ 23470 -1010.552 593.313 -2067.500 
+ 23480 -1010.552 593.313 -2179.500 
+ 23320 -1706.301 456.313 78.813 
+ 23490 -1706.301 456.313 42.813 
+ 23500 -1706.301 456.313 .000 
+ 23510 -1691.301 430.313 .000 
+ 23520 -1681.301 413.000 .000 
+ 23030 -1105.375 330.756 -3220.425 
+ 23530 -1105.375 330.756 -3231.300 
+ 23040 -1123.375 330.756 -3220.425 
+ 23540 -1123.375 341.381 -3220.425 
+ 23490 -1706.301 456.313 42.813 
+ 23550 -1706.301 467.125 42.813 
+ 25365 -1041.375 330.756 -3529.662 
+ 25370 -1041.375 330.756 -3498.975 
+ 25400 -1041.375 330.756 -3482.800 
+ 25450 -1041.375 330.756 -3443.425 
+ 25455 -1041.375 330.756 -3380.659 
+ 25500 -1041.375 330.756 -3220.425 
+ 23020 -1071.375 330.756 -3220.425 
+ 24000 -992.552 313.750 -3530.454 
+ 24005 -992.552 313.750 -3499.781 
+ 24010 -992.552 313.750 -3265.298 
+ 24035 -992.552 313.750 -3224.313 
+ 24085 -992.552 593.313 -3224.313 
+ 24090 -992.552 593.313 -3134.422 
+ 24095 -992.552 593.313 -2805.344 
+ 24135 -992.552 593.313 -2740.125 
+ 24185 -1154.552 593.313 -2740.125 
+ 24190 -1154.552 593.313 -2605.000 
+
+[page 43]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+43 
+ 24235 -1154.552 593.313 -2428.125 
+ 24285 -1010.552 593.313 -2428.125 
+ 24290 -1010.552 593.313 -2326.625 
+ 23480 -1010.552 593.313 -2179.500 
+ 27010 -601.866 327.763 -3250.380 
+ 27020 -601.866 327.763 -3220.380 
+ 27025 -502.181 327.763 -3220.380 
+ 27030 -402.496 327.763 -3220.380 
+ 27033 -402.496 327.763 -2971.029 
+ 27036 -402.496 327.763 -2585.467 
+ 27040 -402.496 327.763 -2409.513 
+ 27043 -486.496 327.763 -2409.513 
+ 27046 -486.496 78.433 -2409.513 
+ 27048 -444.496 78.433 -2409.513 
+ 27050 -402.496 78.433 -2409.513 
+ 27055 -402.496 78.433 -2190.430 
+ 27060 -402.496 78.433 -1834.159 
+ 27065 -530.685 78.433 -1834.159 
+ 27070 -658.874 78.433 -1834.159 
+ 27073 -658.874 78.433 -1707.129 
+ 27076 -658.874 78.433 -1202.130 
+ 27080 -658.874 78.433 -1050.694 
+ 27090 -415.843 78.433 -1050.694 
+ 27095 -415.843 78.453 -937.955 
+ 27100 -415.843 78.473 -556.403 
+ 27102 -370.843 78.473 -556.403 
+ 27105 -56.164 78.473 -556.403 
+ 27110 113.764 78.473 -556.403 
+ 27120 113.764 78.473 -485.261 
+ 27125 113.764 78.473 -472.269 
+ 27130 113.764 78.473 -459.277 
+ 27140 113.764 78.473 -445.497 
+ 27150 113.803 78.512 -394.080 
+ 27160 59.000 173.433 -394.080 
+ 27170 49.000 190.756 -394.080 
+ 27120 113.764 78.473 -485.261 
+ 27180 113.764 91.229 -485.261 
+ 27190 -640.943 595.953 -2213.640 
+ 27195 -640.943 595.953 -2086.656 
+ 27200 -640.943 595.953 -2018.234 
+ 27205 -640.943 535.953 -2018.234 
+ 27207 -640.943 221.381 -2018.234 
+ 27210 -640.943 65.559 -2018.234 
+ 27215 -640.943 65.559 -1978.297 
+ 27220 -640.943 65.559 -1890.360 
+ 27225 -680.239 65.559 -1890.360 
+ 27230 -731.535 65.559 -1890.360 
+ 27233 -731.535 65.559 -1706.988 
+ 27240 -731.535 65.559 -1490.565 
+ 27239 -731.535 65.559 -1202.141 
+ 27234 -731.535 65.559 -990.588 
+ 27236 -485.535 65.559 -990.588 
+ 27251 -485.535 65.559 -937.788 
+ 27252 -485.535 65.559 -567.788 
+ 27256 -485.535 65.559 -281.788 
+ 27261 -485.535 65.559 4.213 
+
+[page 44]
+ 
+CAESAR II 2016 Ver.8.00.00.5600, (Build 150930) Date: JAN 31, 2017 Time: 9:55 
+Job:: HTF2 
+Licensed To:: SPLM: Edit company name in <system>\company.txt 
+ 
+INPUT LISTING 
+44 
+ 27260 -485.535 65.559 124.213 
+ 27262 -421.023 65.559 124.213 
+ 27265 -56.512 65.559 124.213 
+ 27270 62.261 65.559 124.213 
+ 27280 62.300 456.307 124.213 
+ 27290 62.300 456.307 79.055 
+ 27300 62.300 456.307 55.748 
+ 27310 62.300 456.307 .000 
+ 27320 47.300 430.323 .000 
+ 27330 37.300 413.000 .000 
+ 27290 62.300 456.307 79.055 
+ 27420 62.300 469.063 79.055 
+ 27300 62.300 456.307 55.748 
+ 27430 62.300 468.355 55.748 
+ 27190 -640.943 595.953 -2213.640 
+ 28680 -640.943 595.953 -2252.328 
+ 28690 -640.943 595.953 -2345.828 
+ 28700 -640.943 595.953 -2436.078 
+ 28725 -486.380 595.953 -2436.078 
+ 28730 -486.380 595.953 -2605.358 
+ 28740 -486.380 595.953 -2704.378 
+ 28750 -486.380 595.953 -2748.078 
+ 28775 -651.474 595.953 -2748.078 
+ 28790 -651.474 595.953 -2805.078 
+ 28800 -651.474 595.953 -3110.234 
+ 28810 -651.474 595.953 -3134.964 
+ 28825 -651.474 595.953 -3230.234 
+ 28850 -651.474 314.203 -3230.234 
+ 28860 -651.474 314.203 -3270.797 
+ 28880 -651.474 314.203 -3499.797 
+ 28881 -651.474 314.203 -3528.266 
+ 27010 -601.866 327.763 -3250.380 
+ 29905 -601.866 327.763 -3290.880 
+ 29910 -601.866 327.763 -3374.940 
+ 29925 -601.866 327.763 -3437.380 
+ 29926 -601.866 327.763 -3476.755 
+ 29940 -601.866 327.763 -3500.253 
+ 29943 -601.866 327.763 -3528.191

@@ -1,0 +1,59 @@
+{
+  "id": "1a2cf0187e11fe03",
+  "path": "02 GD LOI/mama/4521-MOM-LOI-039-062-0004-GAR REv.03 Installation, Start-Up, Operation and Maintenance Instructions.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 1207033,
+  "size_human": "1.2 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-MOM-LOI-039-062-0004-GAR REv.03 Installation, Start-Up, Operation and Maintenance Instructions",
+  "doc_code": "4521-MOM-LOI-039-062-0004",
+  "revision": "REv.03",
+  "status": "ok",
+  "text_chars": 50299,
+  "token_estimate": 12574,
+  "chunks": 32,
+  "card_path": ".yeyo-memory/cards/1a2cf0187e11fe03.json",
+  "extracted_path": ".yeyo-memory/extracted/1a2cf0187e11fe03.txt",
+  "metadata": {
+    "pages": 29,
+    "pdf_metadata": {
+      "CreationDate": "D:20170322091009+01'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20170322091229+01'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::324",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 324,
+        "doc_code": "4521-MOM-LOI-039-062-0004",
+        "title": "INSTALATION, START-UP, OPERATION AND MAINTENANCE INSTRUCTIONS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::324",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 324,
+        "doc_code": "4521-MOM-LOI-039-062-0004",
+        "title": "INSTALATION, START-UP, OPERATION AND MAINTENANCE INSTRUCTIONS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:30.360806+00:00"
+}

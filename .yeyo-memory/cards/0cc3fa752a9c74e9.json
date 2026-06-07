@@ -1,0 +1,38 @@
+{
+  "id": "0cc3fa752a9c74e9",
+  "path": "07 Presentado al Condado/0001_Zoning/Aprobado/TC-0122.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 11156102,
+  "size_human": "11 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "TC-0122",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/0cc3fa752a9c74e9.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "anonymous",
+      "CreationDate": "D:201801110732",
+      "Producer": "",
+      "OceScanModel": "TCS400",
+      "OceScanResolution": "300",
+      "OceScanImageLogic": "1",
+      "OceImageTagOrientation": "1"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:52.331107+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:52.354923+00:00"
+}

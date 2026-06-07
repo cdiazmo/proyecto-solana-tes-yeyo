@@ -1,0 +1,71 @@
+{
+  "id": "d7dd199d1fb9cce1",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-61-CS72.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 283717,
+  "size_human": "277 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS72",
+  "doc_code": "4521-ESP-ANC-68-61-CS72",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 9143,
+  "token_estimate": 2285,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/d7dd199d1fb9cce1.json",
+  "extracted_path": ".yeyo-memory/extracted/d7dd199d1fb9cce1.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20101013125925",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-CS72 - Class 150 Carbon Steel"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::100",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 100,
+        "doc_code": "4521-ESP-ANC-68-61-CS72 - Engineering Standards and Practices Material and Installation Standards Class 150 Carbon Steel – Piping System",
+        "title": "",
+        "revision": "3",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::150",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 150,
+        "doc_code": "4521-ESP-ANC-68-61-CS72 - Engineering Standards and Practices Material and Installation Standards Class 150 Carbon Steel – Piping System",
+        "title": "",
+        "revision": "3",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::143",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 143,
+        "doc_code": "4521-ESP-ANC-68-61-CS72 - Engineering Standards and Practices Material and Installation Standards Class 150 Carbon Steel – Piping System",
+        "title": "",
+        "revision": "3",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:24:05.596992+00:00"
+}

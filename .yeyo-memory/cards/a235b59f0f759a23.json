@@ -1,0 +1,59 @@
+{
+  "id": "a235b59f0f759a23",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0007-GAR Rev.0 Radiographic Examination Procedure.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 15629523,
+  "size_human": "15 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0007-GAR Rev.0 Radiographic Examination Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0007",
+  "revision": "Rev.0",
+  "status": "ok",
+  "text_chars": 2451,
+  "token_estimate": 612,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/a235b59f0f759a23.json",
+  "extracted_path": ".yeyo-memory/extracted/a235b59f0f759a23.txt",
+  "metadata": {
+    "pages": 33,
+    "pdf_metadata": {
+      "Author": "pedroalvarez",
+      "CreationDate": "D:20161206093644+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20161206094511+01'00'",
+      "Producer": "Acrobat Distiller 10.1.0 (Windows)",
+      "Title": "Microsoft Word - 4521-INS-LOI-039-062-0007-GAR Rev.0 Radiographic Examination Procedure"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::314",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 314,
+        "doc_code": "4521-INS-LOI-039-062-0007",
+        "title": "RADIOGRAPHIC EXAMINATION PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::314",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 314,
+        "doc_code": "4521-INS-LOI-039-062-0007",
+        "title": "RADIOGRAPHIC EXAMINATION PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:27.671174+00:00"
+}

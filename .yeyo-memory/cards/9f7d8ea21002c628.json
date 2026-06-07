@@ -1,0 +1,35 @@
+{
+  "id": "9f7d8ea21002c628",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-III A- Winter  Discharging - min level @ 1050rpm.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 28590,
+  "size_human": "28 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "AnnexI-III A- Winter Discharging - min level @ 1050rpm",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1885,
+  "token_estimate": 471,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/9f7d8ea21002c628.json",
+  "extracted_path": ".yeyo-memory/extracted/9f7d8ea21002c628.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "",
+      "Creator": "",
+      "Producer": "Qt 4.7.0 (C) 2010 Nokia Corporation and/or its subsidiary(-ies)",
+      "CreationDate": "D:20160805073540"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.746755+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:59.746758+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "683fa1a8fdb71c65",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/HELIO U3 y U4.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 167438,
+  "size_human": "164 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "HELIO U3 y U4",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/683fa1a8fdb71c65.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Title": "SKM_36820111215590",
+      "Creator": "KM_368",
+      "Producer": "KONICA MINOLTA bizhub 368",
+      "CreationDate": "D:20201112155941+01'00'",
+      "ModDate": "D:20201112155941+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:26.725575+00:00"
+}

@@ -1,0 +1,333 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: ABEINSA EPC USA
+Project: Solana TES HEX
+Document: I&C Signal list
+Document: 4521-LIS-AEE-00-70-0001-GAR
+Review: 01
+Date: Mar/27/2017
+Prepared by:
+Manuel Muñoz Arranz
+Reviewed by:
+Jose María Rodríguez León
+Approved by:
+Jose María Rodríguez León
+Signals List
+© This procedure belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express written 
+consent of Abeinsa
+
+[page 2]
+Revision: 01
+Date: Mar/27/2017
+Revision Date Revision Object Prepared Revised Approved
+0 Mar/01/2017 Issue for bid MMA JMRL JMRL
+1 Mar/27/2017 Issue for bid MMA JMRL JMRL
+Edition Sections Status
+ABEINSA 
+ENGINEERING
+Document Code: 4521-LIS-AEE-00-70-0001-GAR
+I&C Signal list
+Revisions Control Sheet
+Preliminary or pending information
+Concepts
+
+[page 3]
+00 01
+Mar/01/2017 Mar/27/2017
+IFB IFB
+MMA MMA
+JMRL JMRL
+JMRL JMRL 
+1.- Change in the signals
+The changes in the signals will be indicate the following way:
+Removed Signals - All file in Red Colour
+Added Signals - All file in Green Colour . 
+Modified Signals - Modified cell in Yellow Colour.
+When any change in a signal come true ( either why it has gotten modified, addition or removed ) update him the revision of the same in the column Rev. 
+2.- Signals Codification
+The codification will be according to the codification system established for the project.
+3.- Maximum number of characters. This maximum number of characters will be considered to described the following concepts:
+* Signal Tag: 18 characters
+* Equipment Description: 22 characters22 characters
+* Signal Description: 22 characters
+These limit values will be reviewed according to the maximum defined by the DCS contractor for each case.
+Modification
+4521-LIS-AEE-00-70-0001-GAR
+Date
+ABEINSA 
+ENGINEERING
+Client: ABEINSA EPC USA Document number: Revision
+General Notes
+Approved
+ I&C Signals List
+Project: Solana TES HEX Document: Completed
+Reviewed
+
+[page 4]
+Equipment Signal Equipment Signal Connection Signal Redund. Card Lower Upper Unit HH H L LL Panel or JB Terminal Control 
+Panel Rack Slot Channel Terminals 
+Base Terminals (+,-)
+1 01 PIT-525120A PI-525120A MS inlet/outlet HEX from cold salt tank Molten salt pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +1,-1 TBD TBD TBD TBD TBD TBD
+2 01 PIT-525120B PI-525120B MS inlet/outlet HEX from cold salt tank Molten salt pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +2,-2 TBD TBD TBD TBD TBD TBD
+3 01 PIT-525120C PI-525120C MS inlet/outlet HEX from cold salt tank Molten salt pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +3,-3 TBD TBD TBD TBD TBD TBD
+4 01 PIT-525110A PI-525110A MS inlet/outlet HEX from hot salt tank Molten salt pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +4,-4 TBD TBD TBD TBD TBD TBD
+5 01 PIT-525110B PI-525110B MS inlet/outlet HEX from hot salt tank Molten salt pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +5,-5 TBD TBD TBD TBD TBD TBD
+6 01 PIT-525110C PI-525110C MS inlet/outlet HEX from hot salt tank Molten salt pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +6,-6 TBD TBD TBD TBD TBD TBD
+7 01 PIT-525139 PI-525139 HTF inlet/outlet HEX from HTF pump suction header HTF pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +7,-7 TBD TBD TBD TBD TBD TBD
+8 01 PIT-525140 PI-525140 TES HEX inlet/outet HTF pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +8,-8 TBD TBD TBD TBD TBD TBD
+9 01 TIT-525108C TI-525108C HTF inlet/outlet HEX from HTF pump suction header HTF temperature TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +9,-9 TBD TBD TBD TBD TBD TBD
+10 01 TIT-525108D TI-525108D HTF inlet/outlet HEX from HTF pump suction header HTF temperature TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +10,-10 TBD TBD TBD TBD TBD TBD
+11 01 PIT-525141 PI-525141 TES HEX inlet/outet HTF pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +11,-11 TBD TBD TBD TBD TBD TBD
+12 01 PIT-525142 PI-525142 HTF inlet/outlet HEX from hot HTF header SF HTF pressure TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +12,-12 TBD TBD TBD TBD TBD TBD
+13 01 TIT-525118C TI-525118C HTF inlet/outlet HEX from hot HTF header SF HTF temperature TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +13,-13 TBD TBD TBD TBD TBD TBD
+14 01 TIT-525118D TI-525118D HTF inlet/outlet HEX from hot HTF header SF HTF temperature TES 5 4521-PLN-AEU-68-71-P271-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-621 +14,-14 TBD TBD TBD TBD TBD TBD
+15 01 PIT-625120A PI-625120A MS inlet/outlet HEX from cold salt tank Molten salt pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +1,-1 TBD TBD TBD TBD TBD TBD
+16 01 PIT-625120B PI-625120B MS inlet/outlet HEX from cold salt tank Molten salt pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +2,-2 TBD TBD TBD TBD TBD TBD
+17 01 PIT-625120C PI-625120C MS inlet/outlet HEX from cold salt tank Molten salt pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +3,-3 TBD TBD TBD TBD TBD TBD
+18 01 PIT-625110A PI-625110A MS inlet/outlet HEX from hot salt tank Molten salt pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +4,-4 TBD TBD TBD TBD TBD TBD
+19 01 PIT-625110B PI-625110B MS inlet/outlet HEX from hot salt tank Molten salt pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +5,-5 TBD TBD TBD TBD TBD TBD
+20 01 PIT-625110C PI-625110C MS inlet/outlet HEX from hot salt tank Molten salt pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +6,-6 TBD TBD TBD TBD TBD TBD
+21 01 PIT-625139 PI-625139 HTF inlet/outlet HEX from HTF pump suction header HTF pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +7,-7 TBD TBD TBD TBD TBD TBD
+22 01 PIT-625140 PI-625140 TES HEX inlet/outet HTF pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +8,-8 TBD TBD TBD TBD TBD TBD
+23 01 TIT-625108C TI-625108C HTF inlet/outlet HEX from HTF pump suction header HTF temperature TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +9,-9 TBD TBD TBD TBD TBD TBD
+24 01 TIT-625108D TI-625108D HTF inlet/outlet HEX from HTF pump suction header HTF temperature TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +10,-10 TBD TBD TBD TBD TBD TBD
+25 01 PIT-625141 PI-625141 TES HEX inlet/outet HTF pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +11,-11 TBD TBD TBD TBD TBD TBD
+26 01 PIT-625142 PI-625142 HTF inlet/outlet HEX from hot HTF header SF HTF pressure TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +12,-12 TBD TBD TBD TBD TBD TBD
+27 01 TIT-625118C TI-625118C HTF inlet/outlet HEX from hot HTF header SF HTF temperature TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +13,-13 TBD TBD TBD TBD TBD TBD
+28 01 TIT-625118D TI-625118D HTF inlet/outlet HEX from hot HTF header SF HTF temperature TES 6 4521-PLN-AEU-68-71-P274-GAR 01 01 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-623 +14,-14 TBD TBD TBD TBD TBD TBD
+29 01 PIT-525501 PI-525501 TES HEX A and B inlet/outet Molten salt pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +1,-1 TBD TBD TBD TBD TBD TBD
+30 01 TIT-525501 TI-525501 TES HEX A and B inlet/outet Molten salt temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +2,-2 TBD TBD TBD TBD TBD TBD
+31 01 PIT-525502 PI-525502 TES HEX B and C inlet/outet Molten salt pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +3,-3 TBD TBD TBD TBD TBD TBD
+32 01 TIT-525502 TI-525502 TES HEX B and C inlet/outet Molten salt temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +4,-4 TBD TBD TBD TBD TBD TBD
+33 01 PIT-525503 PI-525503 TES HEX C and D inlet/outet Molten salt pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +5,-5 TBD TBD TBD TBD TBD TBD
+34 01 TIT-525503 TI-525503 TES HEX C and D inlet/outet Molten salt temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +6,-6 TBD TBD TBD TBD TBD TBD
+35 01 PIT-525504 PI-525504 TES HEX D and E inlet/outet Molten salt pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +7,-7 TBD TBD TBD TBD TBD TBD
+36 01 TIT-525504 TI-525504 TES HEX D and E inlet/outet Molten salt temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +8,-8 TBD TBD TBD TBD TBD TBD
+37 01 PIT-525505 PI-525505 TES HEX E and F inlet/outet Molten salt pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +9,-9 TBD TBD TBD TBD TBD TBD
+38 01 TIT-525505 TI-525505 TES HEX E and F inlet/outet Molten salt temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +10,-10 TBD TBD TBD TBD TBD TBD
+39 01 PIT-525506 PI-525506 TES HEX A and B inlet/outet HTF pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +11,-11 TBD TBD TBD TBD TBD TBD
+40 01 TIT-525506 TI-525506 TES HEX A and B inlet/outet HTF temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +12,-12 TBD TBD TBD TBD TBD TBD
+41 01 PIT-525507 PI-525507 TES HEX B and C inlet/outet HTF pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +13,-13 TBD TBD TBD TBD TBD TBD
+42 01 TIT-525507 TI-525507 TES HEX B and C inlet/outet HTF temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +14,-14 TBD TBD TBD TBD TBD TBD
+43 01 PIT-525508 PI-525508 TES HEX C and D inlet/outet HTF pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +15,-15 TBD TBD TBD TBD TBD TBD
+44 01 TIT-525508 TI-525508 TES HEX C and D inlet/outet HTF temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +16,-16 TBD TBD TBD TBD TBD TBD
+45 01 PIT-525509 PI-525509 TES HEX D and E inlet/outet HTF pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +17,-17 TBD TBD TBD TBD TBD TBD
+46 01 TIT-525509 TI-525509 TES HEX D and E inlet/outet HTF temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +18,-18 TBD TBD TBD TBD TBD TBD
+47 01 PIT-525510 PI-525510 TES HEX E and F inlet/outet HTF pressure TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +19,-19 TBD TBD TBD TBD TBD TBD
+48 01 TIT-525510 TI-525510 TES HEX E and F inlet/outet HTF temperature TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-620 +20,-20 TBD TBD TBD TBD TBD TBD
+49 01 XV-525515 XV-525515 HEX vent to HTF overflow system Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +1,-1 TBD TBD TBD TBD TBD TBD
+50 01 XV-525515 ZIC-525515 HEX vent to HTF overflow system Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +2,-2 TBD TBD TBD TBD TBD TBD
+51 01 XV-525515 ZIO-525515 HEX vent to HTF overflow system Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +1,-1 TBD TBD TBD TBD TBD TBD
+52 01 XV-525516 XV-525516 HEX vent to MS drain back tank Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +2,-2 TBD TBD TBD TBD TBD TBD
+53 01 XV-525516 ZIC-525516 HEX vent to MS drain back tank Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +4,-4 TBD TBD TBD TBD TBD TBD
+54 01 XV-525516 ZIO-525516 HEX vent to MS drain back tank Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +3,-3 TBD TBD TBD TBD TBD TBD
+55 01 XV-525517 XV-525517 HEX vent to MS drain back tank Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +3,-3 TBD TBD TBD TBD TBD TBD
+56 01 XV-525517 ZIC-525517 HEX vent to MS drain back tank Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +6,-6 TBD TBD TBD TBD TBD TBD
+57 01 XV-525517 ZIO-525517 HEX vent to MS drain back tank Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +5,-5 TBD TBD TBD TBD TBD TBD
+58 01 XV-525518 XV-525518 HEX vent to HTF overflow system Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +4,-4 TBD TBD TBD TBD TBD TBD
+59 01 XV-525518 ZIC-525518 HEX vent to HTF overflow system Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +8,-8 TBD TBD TBD TBD TBD TBD
+60 01 XV-525518 ZIO-525518 HEX vent to HTF overflow system Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +7,-7 TBD TBD TBD TBD TBD TBD
+61 01 XV-525519 XV-525519 HEX vent to MS drain back tank Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +5,-5 TBD TBD TBD TBD TBD TBD
+62 01 XV-525519 ZIC-525519 HEX vent to MS drain back tank Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +10,-10 TBD TBD TBD TBD TBD TBD
+63 01 XV-525519 ZIO-525519 HEX vent to MS drain back tank Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +9,-9 TBD TBD TBD TBD TBD TBD
+64 01 XV-525520 XV-525520 HEX vent to MS drain back tank Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +6,-6 TBD TBD TBD TBD TBD TBD
+65 01 XV-525520 ZIC-525520 HEX vent to MS drain back tank Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +12,-12 TBD TBD TBD TBD TBD TBD
+66 01 XV-525520 ZIO-525520 HEX vent to MS drain back tank Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +11,-11 TBD TBD TBD TBD TBD TBD
+67 01 XV-525521 XV-525521 HEX vent to MS drain back tank Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +7,-7 TBD TBD TBD TBD TBD TBD
+68 01 XV-525521 ZIC-525521 HEX vent to MS drain back tank Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +14,-14 TBD TBD TBD TBD TBD TBD
+69 01 XV-525521 ZIO-525521 HEX vent to MS drain back tank Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +13,-13 TBD TBD TBD TBD TBD TBD
+70 01 XV-525522 XV-525522 HEX vent to HTF overflow system Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +8,-8 TBD TBD TBD TBD TBD TBD
+71 01 XV-525522 ZIC-525522 HEX vent to HTF overflow system Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +16,-16 TBD TBD TBD TBD TBD TBD
+72 01 XV-525522 ZIO-525522 HEX vent to HTF overflow system Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +15,-15 TBD TBD TBD TBD TBD TBD
+73 01 XV-525523 XV-525523 HEX vent to MS drain back tank Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +9,-9 TBD TBD TBD TBD TBD TBD
+74 01 XV-525523 ZIC-525523 HEX vent to MS drain back tank Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +18,-18 TBD TBD TBD TBD TBD TBD
+75 01 XV-525523 ZIO-525523 HEX vent to MS drain back tank Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-610 +17,-17 TBD TBD TBD TBD TBD TBD
+76 01 PIT-625501 PI-625501 TES HEX A and B inlet/outet Molten salt pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +1,-1 TBD TBD TBD TBD TBD TBD
+77 01 TIT-625501 TI-625501 TES HEX A and B inlet/outet Molten salt temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +2,-2 TBD TBD TBD TBD TBD TBD
+78 01 PIT-625502 PI-625502 TES HEX B and C inlet/outet Molten salt pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +3,-3 TBD TBD TBD TBD TBD TBD
+79 01 TIT-625502 TI-625502 TES HEX B and C inlet/outet Molten salt temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +4,-4 TBD TBD TBD TBD TBD TBD
+80 01 PIT-625503 PI-625503 TES HEX C and D inlet/outet Molten salt pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +5,-5 TBD TBD TBD TBD TBD TBD
+81 01 TIT-625503 TI-625503 TES HEX C and D inlet/outet Molten salt temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +6,-6 TBD TBD TBD TBD TBD TBD
+82 01 PIT-625504 PI-625504 TES HEX D and E inlet/outet Molten salt pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +7,-7 TBD TBD TBD TBD TBD TBD
+83 01 TIT-625504 TI-625504 TES HEX D and E inlet/outet Molten salt temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +8,-8 TBD TBD TBD TBD TBD TBD
+84 01 PIT-625505 PI-625505 TES HEX E and F inlet/outet Molten salt pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +9,-9 TBD TBD TBD TBD TBD TBD
+85 01 TIT-625505 TI-625505 TES HEX E and F inlet/outet Molten salt temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +10,-10 TBD TBD TBD TBD TBD TBD
+86 01 PIT-625506 PI-625506 TES HEX A and B inlet/outet HTF pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +11,-11 TBD TBD TBD TBD TBD TBD
+87 01 TIT-625506 TI-625506 TES HEX A and B inlet/outet HTF temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +12,-12 TBD TBD TBD TBD TBD TBD
+88 01 PIT-625507 PI-625507 TES HEX B and C inlet/outet HTF pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +13,-13 TBD TBD TBD TBD TBD TBD
+89 01 TIT-625507 TI-625507 TES HEX B and C inlet/outet HTF temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +14,-14 TBD TBD TBD TBD TBD TBD
+90 01 PIT-625508 PI-625508 TES HEX C and D inlet/outet HTF pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +15,-15 TBD TBD TBD TBD TBD TBD
+91 01 TIT-625508 TI-625508 TES HEX C and D inlet/outet HTF temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +16,-16 TBD TBD TBD TBD TBD TBD
+92 01 PIT-625509 PI-625509 TES HEX D and E inlet/outet HTF pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +17,-17 TBD TBD TBD TBD TBD TBD
+93 01 TIT-625509 TI-625509 TES HEX D and E inlet/outet HTF temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +18,-18 TBD TBD TBD TBD TBD TBD
+94 01 PIT-625510 PI-625510 TES HEX E and F inlet/outet HTF pressure TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 14,5 300 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +19,-19 TBD TBD TBD TBD TBD TBD
+95 01 TIT-625510 TI-625510 TES HEX E and F inlet/outet HTF temperature TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-622 +20,-20 TBD TBD TBD TBD TBD TBD
+96 01 XV-625515 XV-625515 HEX vent to HTF overflow system Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +1,-1 TBD TBD TBD TBD TBD TBD
+97 01 XV-625515 ZIC-625515 HEX vent to HTF overflow system Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +2,-2 TBD TBD TBD TBD TBD TBD
+98 01 XV-625515 ZIO-625515 HEX vent to HTF overflow system Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +1,-1 TBD TBD TBD TBD TBD TBD
+99 01 XV-625516 XV-625516 HEX vent to MS drain back tank Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +2,-2 TBD TBD TBD TBD TBD TBD
+100 01 XV-625516 ZIC-625516 HEX vent to MS drain back tank Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +4,-4 TBD TBD TBD TBD TBD TBD
+101 01 XV-625516 ZIO-625516 HEX vent to MS drain back tank Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +3,-3 TBD TBD TBD TBD TBD TBD
+102 01 XV-625517 XV-625517 HEX vent to MS drain back tank Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +3,-3 TBD TBD TBD TBD TBD TBD
+103 01 XV-625517 ZIC-625517 HEX vent to MS drain back tank Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +6,-6 TBD TBD TBD TBD TBD TBD
+104 01 XV-625517 ZIO-625517 HEX vent to MS drain back tank Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +5,-5 TBD TBD TBD TBD TBD TBD
+105 01 XV-625518 XV-625518 HEX vent to HTF overflow system Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +4,-4 TBD TBD TBD TBD TBD TBD
+106 01 XV-625518 ZIC-625518 HEX vent to HTF overflow system Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +8,-8 TBD TBD TBD TBD TBD TBD
+107 01 XV-625518 ZIO-625518 HEX vent to HTF overflow system Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +7,-7 TBD TBD TBD TBD TBD TBD
+108 01 XV-625519 XV-625519 HEX vent to MS drain back tank Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +5,-5 TBD TBD TBD TBD TBD TBD
+109 01 XV-625519 ZIC-625519 HEX vent to MS drain back tank Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +10,-10 TBD TBD TBD TBD TBD TBD
+110 01 XV-625519 ZIO-625519 HEX vent to MS drain back tank Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +9,-9 TBD TBD TBD TBD TBD TBD
+111 01 XV-625520 XV-625520 HEX vent to MS drain back tank Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +6,-6 TBD TBD TBD TBD TBD TBD
+112 01 XV-625520 ZIC-625520 HEX vent to MS drain back tank Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +12,-12 TBD TBD TBD TBD TBD TBD
+113 01 XV-625520 ZIO-625520 HEX vent to MS drain back tank Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +11,-11 TBD TBD TBD TBD TBD TBD
+114 01 XV-625521 XV-625521 HEX vent to MS drain back tank Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +7,-7 TBD TBD TBD TBD TBD TBD
+115 01 XV-625521 ZIC-625521 HEX vent to MS drain back tank Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +14,-14 TBD TBD TBD TBD TBD TBD
+116 01 XV-625521 ZIO-625521 HEX vent to MS drain back tank Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +13,-13 TBD TBD TBD TBD TBD TBD
+117 01 XV-625522 XV-625522 HEX vent to HTF overflow system Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +8,-8 TBD TBD TBD TBD TBD TBD
+118 01 XV-625522 ZIC-625522 HEX vent to HTF overflow system Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +16,-16 TBD TBD TBD TBD TBD TBD
+119 01 XV-625522 ZIO-625522 HEX vent to HTF overflow system Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +15,-15 TBD TBD TBD TBD TBD TBD
+120 01 XV-625523 XV-625523 HEX vent to MS drain back tank Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +9,-9 TBD TBD TBD TBD TBD TBD
+121 01 XV-625523 ZIC-625523 HEX vent to MS drain back tank Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +18,-18 TBD TBD TBD TBD TBD TBD
+122 01 XV-625523 ZIO-625523 HEX vent to MS drain back tank Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-613 +17,-17 TBD TBD TBD TBD TBD TBD
+123 01 PIT-325701 PI-325701 Drain back tank Nitrogen pressure Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +1,-1 TBD TBD TBD TBD TBD TBD
+124 01 TIT-325701 TI-325701 Drain back tank MS temperature Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AI (4 - 20 mA) No 32 800 ºF - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +2,-2 TBD TBD TBD TBD TBD TBD
+125 01 LIT-325701 LI-325701 Drain back tank Level at MS drain back tank Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AI (4 - 20 mA) No 0 100 % - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +3,-3 TBD TBD TBD TBD TBD TBD
+126 01 PIT-325702 PI-325702 MS from drain back tank to cold salt tank Molten salt pressure Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AI (4 - 20 mA) No 0 185,3 psia - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +4,-4 TBD TBD TBD TBD TBD TBD
+127 01 LV-525701 LV-525701 MS drain from TES 5 HEX Train to drain back tank Valve order Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AO (4 - 20 mA) No 0 100 % - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +5,-5 TBD TBD TBD TBD TBD TBD
+128 01 LV-525701 LVI-525701 MS drain from TES 5 HEX Train to drain back tank Valve position Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AI (4 - 20 mA) No 0 100 % - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +6,-6 TBD TBD TBD TBD TBD TBD
+129 01 LV-625701 LV-625701 MS drain from TES 6 HEX Train to drain back tank Valve order Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AO (4 - 20 mA) No 0 100 % - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +7,-7 TBD TBD TBD TBD TBD TBD
+130 01 LV-625701 LVI-625701 MS drain from TES 6 HEX Train to drain back tank Valve position Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires AI (4 - 20 mA) No 0 100 % - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-A1-624 +8,-8 TBD TBD TBD TBD TBD TBD
+131 01 XV-325713 XV-325713 MS drainage from drain back tank Valve order Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-616 +1,-1 TBD TBD TBD TBD TBD TBD
+132 01 XV-325713 ZIC-325713 MS drainage from drain back tank Close limit switch Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-617 +2,-2 TBD TBD TBD TBD TBD TBD
+133 01 XV-325713 ZIO-325713 MS drainage from drain back tank Open limit switch Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-617 +1,-1 TBD TBD TBD TBD TBD TBD
+134 01 XV-325714 XV-325714 MS from drain back tank to cold salt tanks Valve order Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-616 +2,-2 TBD TBD TBD TBD TBD TBD
+135 01 XV-325714 ZIC-325714 MS from drain back tank to cold salt tanks Close limit switch Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-617 +4,-4 TBD TBD TBD TBD TBD TBD
+136 01 XV-325714 ZIO-325714 MS from drain back tank to cold salt tanks Open limit switch Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-617 +3,-3 TBD TBD TBD TBD TBD TBD
+137 01 XV-325715 XV-325715 MS from drain back tank to cold salt tanks Valve order Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-616 +3,-3 TBD TBD TBD TBD TBD TBD
+138 01 XV-325715 ZIC-325715 MS from drain back tank to cold salt tanks Close limit switch Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-617 +6,-6 TBD TBD TBD TBD TBD TBD
+139 01 XV-325715 ZIO-325715 MS from drain back tank to cold salt tanks Open limit switch Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-617 +5,-5 TBD TBD TBD TBD TBD TBD
+140 01 ZSO-525526 ZIO-525526 Open limit switch MS drainage TES HEX Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +5,-5 TBD TBD TBD TBD TBD TBD
+141 01 ZSC-525526 ZIC-525526 Close limit switch MS drainage TES HEX Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +6,-6 TBD TBD TBD TBD TBD TBD
+Mar/01/2017
+IFB
+MMA
+JMRL
+RemarksDCSDescription
+Approved
+ I&C Signals List
+JMRL
+Tag
+Project: Solana TES HEX
+Signal
+Function
+Alarms
+Document Connection Drawing
+Field
+P&ID Sheet P&ID Revision
+Type
+Rev. P&IDZone/System
+00Revision
+Date
+Signal to 
+Fail
+JMRLJMRL
+MMA
+Mar/27/2017
+IFB
+00
+Configuration Control Logic Diagrams Connections
+Modification
+Completed 
+Reviewed
+4521-LIS-AEE-00-70-0001-GAR
+Document:
+ABEINSA 
+ENGINEERING
+Client: ABEINSA EPC USA Document Number:
+Item
+
+[page 5]
+Equipment Signal Equipment Signal Connection Signal Redund. Card Lower Upper Unit HH H L LL Panel or JB Terminal Control 
+Panel Rack Slot Channel Terminals 
+Base Terminals (+,-)
+Mar/01/2017
+IFB
+MMA
+JMRL
+RemarksDCSDescription
+Approved
+ I&C Signals List
+JMRL
+Tag
+Project: Solana TES HEX
+Signal
+Function
+Alarms
+Document Connection Drawing
+Field
+P&ID Sheet P&ID Revision
+Type
+Rev. P&IDZone/System
+00Revision
+Date
+Signal to 
+Fail
+JMRLJMRL
+MMA
+Mar/27/2017
+IFB
+00
+Configuration Control Logic Diagrams Connections
+Modification
+Completed 
+Reviewed
+4521-LIS-AEE-00-70-0001-GAR
+Document:
+ABEINSA 
+ENGINEERING
+Client: ABEINSA EPC USA Document Number:
+Item
+142 01 ZSO-525527 ZIO-525527 Open limit switch MS drainage TES HEX Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +7,-7 TBD TBD TBD TBD TBD TBD
+143 01 ZSC-525527 ZIC-525527 Close limit switch MS drainage TES HEX Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +8,-8 TBD TBD TBD TBD TBD TBD
+144 01 ZSO-525528 ZIO-525528 Open limit switch MS drainage TES HEX Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +9,-9 TBD TBD TBD TBD TBD TBD
+145 01 ZSC-525528 ZIC-525528 Close limit switch MS drainage TES HEX Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +10,-10 TBD TBD TBD TBD TBD TBD
+146 01 ZSO-625526 ZIO-625526 Open limit switch MS drainage TES HEX Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +5,-5 TBD TBD TBD TBD TBD TBD
+147 01 ZSC-625526 ZIC-625526 Close limit switch MS drainage TES HEX Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +6,-6 TBD TBD TBD TBD TBD TBD
+148 01 ZSO-625527 ZIO-625527 Open limit switch MS drainage TES HEX Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +7,-7 TBD TBD TBD TBD TBD TBD
+149 01 ZSC-625527 ZIC-625527 Close limit switch MS drainage TES HEX Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +8,-8 TBD TBD TBD TBD TBD TBD
+150 01 ZSO-625528 ZIO-625528 Open limit switch MS drainage TES HEX Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +9,-9 TBD TBD TBD TBD TBD TBD
+151 01 ZSC-625528 ZIC-625528 Close limit switch MS drainage TES HEX Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +10,-10 TBD TBD TBD TBD TBD TBD
+152 01 XV-525524 XV-525524 HTF high points drainage HEX high points Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +10,-10 TBD TBD TBD TBD TBD TBD
+153 01 ZSO-525524 ZIO-525524 Open limit switch HTF high points drainage HEX high points Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +1,-1 TBD TBD TBD TBD TBD TBD
+154 01 ZSC-525524 ZIC-525524 Close limit switch HTF high points drainage HEX high points Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +2,-2 TBD TBD TBD TBD TBD TBD
+155 01 XV-525525 XV-525525 HTF high points drainage HEX high points Valve order TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-612 +11,-11 TBD TBD TBD TBD TBD TBD
+156 01 ZSO-525525 ZIO-525525 Open limit switch HTF high points drainage HEX high points Open limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +3,-3 TBD TBD TBD TBD TBD TBD
+157 01 ZSC-525525 ZIC-525525 Close limit switch HTF high points drainage HEX high points Close limit switch TES 5 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-611 +4,-4 TBD TBD TBD TBD TBD TBD
+152 01 XV-625524 XV-625524 HTF high points drainage HEX high points Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +10,-10 TBD TBD TBD TBD TBD TBD
+153 01 ZSO-625524 ZIO-625524 Open limit switch HTF high points drainage HEX high points Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +1,-1 TBD TBD TBD TBD TBD TBD
+154 01 ZSC-625524 ZIC-625524 Close limit switch HTF high points drainage HEX high points Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +2,-2 TBD TBD TBD TBD TBD TBD
+155 01 XV-625525 XV-625525 HTF high points drainage HEX high points Valve order TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DO Relay No Close Open - - C - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-615 +11,-11 TBD TBD TBD TBD TBD TBD
+156 01 ZSO-625525 ZIO-625525 Open limit switch HTF high points drainage HEX high points Open limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No opened Opened - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +3,-3 TBD TBD TBD TBD TBD TBD
+157 01 ZSC-625525 ZIC-625525 Close limit switch HTF high points drainage HEX high points Close limit switch TES 6 4521-PLN-AEU-68-71-P278-GAR 01 02 2 wires DI (Relay) No No closed Closed - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-614 +4,-4 TBD TBD TBD TBD TBD TBD
+158 01 FIG-325701 FSL-325701 Low flow switch nitrogen supply to drain back tank pump Flow switch Molten salt drain back tank 4521-PLN-AEU-68-71-P279-GAR 01 02 2 wires DI (Relay) No No low flow Low flow - - I - - - - 4521-PLN-AEE-39-70-0002-GAR IJB-250-D1-617 +7,-7 TBD TBD TBD TBD TBD TBD
+
+[page 6]
+ Panel Tag AI (4 - 20 mA) AO (4 - 20 mA) AI (0 - 10 VDC) AO (0 - 10 VDC) DI (Relay) DO 24 VDC DO Relay DO 110 VAC DO 230 VAC DO Pulse PT-100 TC K Total Signals Deleted
+74 2 0 0 63 0 25 0 0 0 0 0 164
+ABEINSA 
+ENGINEERING
+Client: ABEINSA EPC USA Number of Document: Revision 00 
+4521-LIS-AEE-00-70-0001-GAR
+Date Mar/01/2017 
+Modification IFB 
+Mar/27/2017 
+01 
+IFB 
+JMRL 
+Project: Solana TES HEX Document: Completed MMA MMA 
+ I&C Signals List
+Reviewed JMRL 
+Note 1: That signals deleted at the concern revision will be automatically discount from the total signals although these are steel listed. With this propose the cell corresponding to 
+remarks will be completed as Deleted.
+Note 2: The cells are referenced to hidden columns at the ‘I&C Signals’ sheet to realize the count of signals according to the control panel which belong to.
+Approbed JMRL JMRL

@@ -1,0 +1,33 @@
+{
+  "id": "9d301a6e8cb42bf6",
+  "path": "04 GD Fabricacon LOI TES 3/Legalizacion (UDS)/1950201-UDS-001-00 Oil to Salt HEX.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 233097,
+  "size_human": "228 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-UDS-001-00 Oil to Salt HEX",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 24946,
+  "token_estimate": 6236,
+  "chunks": 16,
+  "card_path": ".yeyo-memory/cards/9d301a6e8cb42bf6.json",
+  "extracted_path": ".yeyo-memory/extracted/9d301a6e8cb42bf6.txt",
+  "metadata": {
+    "pages": 16,
+    "pdf_metadata": {
+      "Author": "Mireia Valdivieso Higuera",
+      "Company": "OHL Industrial",
+      "CreationDate": "D:20191029162939+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "ModDate": "D:20191029162948+01'00'",
+      "Producer": "Adobe PDF Library 15.0",
+      "SourceModified": "D:20191029152912",
+      "Title": "Document Title"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:29.427574+00:00"
+}

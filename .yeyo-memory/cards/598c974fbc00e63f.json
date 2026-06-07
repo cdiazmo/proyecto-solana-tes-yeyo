@@ -1,0 +1,43 @@
+{
+  "id": "598c974fbc00e63f",
+  "path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "xlsm",
+  "size_bytes": 800006,
+  "size_human": "781 KB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "4521-LIS-AEE-00-00-0003 EDL HEX TES",
+  "doc_code": "4521-LIS-AEE-00-00-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 82637,
+  "token_estimate": 20659,
+  "chunks": 53,
+  "card_path": ".yeyo-memory/cards/598c974fbc00e63f.json",
+  "extracted_path": ".yeyo-memory/extracted/598c974fbc00e63f.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "EDL",
+        "rows_seen": 87,
+        "non_empty_rows": 86
+      },
+      {
+        "name": "Sheet1",
+        "rows_seen": 81,
+        "non_empty_rows": 78
+      },
+      {
+        "name": "IDL",
+        "rows_seen": 352,
+        "non_empty_rows": 325
+      },
+      {
+        "name": "Options",
+        "rows_seen": 31,
+        "non_empty_rows": 30
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:16:30.559954+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "b93809cb9e07be8b",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/4521-PLN-DOT-39-63-0916.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 115272,
+  "size_human": "113 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-DOT-39-63-0916",
+  "doc_code": "4521-PLN-DOT-39-63-0916",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b93809cb9e07be8b.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20180823104546-06'00'",
+      "Creator": "Xerox WorkCentre 7556",
+      "ModDate": "D:20180823113501-05'00'",
+      "Producer": "Xerox WorkCentre 7556"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.344283+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/EDL_4_supports.xlsx::ATYP steel struc::17",
+        "index_path": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/EDL_4_supports.xlsx",
+        "index_kind": "edl",
+        "sheet": "ATYP steel struc",
+        "row": 17,
+        "doc_code": "4521-PLN-DOT-39-63-0916",
+        "title": "255-MS-12F-S-001",
+        "revision": "",
+        "status": "",
+        "date": "2018-08-17 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/Soportes atípicos/EDL_4_supports.xlsx::ATYP steel struc::17",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/Soportes atípicos/EDL_4_supports.xlsx",
+        "index_kind": "support-list",
+        "sheet": "ATYP steel struc",
+        "row": 17,
+        "doc_code": "4521-PLN-DOT-39-63-0916",
+        "title": "255-MS-12F-S-001",
+        "revision": "",
+        "status": "",
+        "date": "2018-08-17 00:00:00",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:01.365587+00:00"
+}

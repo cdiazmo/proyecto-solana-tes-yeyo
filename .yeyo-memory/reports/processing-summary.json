@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-05T13:17:00.498194+00:00",
+  "cards": 1,
+  "processed_this_run": 0,
+  "skipped_unchanged": 1,
+  "by_status": {
+    "archive_listed": 1
+  },
+  "by_ext": {
+    "zip": 1
+  },
+  "by_top_dir": {
+    "01 GD AE": {
+      "files": 1,
+      "text_chars": 73,
+      "chunks": 0
+    }
+  }
+}

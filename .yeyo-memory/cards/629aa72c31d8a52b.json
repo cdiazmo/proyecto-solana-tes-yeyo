@@ -1,0 +1,31 @@
+{
+  "id": "629aa72c31d8a52b",
+  "path": "11 Sal de Solana y Corrosion/1 CONTENIDO DE CLORURO DE SAL DE SOLANA/L969414.pdf",
+  "top_dir": "11 Sal de Solana y Corrosion",
+  "ext": "pdf",
+  "size_bytes": 509413,
+  "size_human": "497 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "L969414",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11560,
+  "token_estimate": 2890,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/629aa72c31d8a52b.json",
+  "extracted_path": ".yeyo-memory/extracted/629aa72c31d8a52b.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Creator": "dbAutoTrack PDFWriter for .NET",
+      "CreationDate": "D:20180212160121-06'00'",
+      "ModDate": "D:20180212160121-06'00'",
+      "Title": "ESC Lab Sciences Report",
+      "Author": "ESC Lab Sciences",
+      "Producer": "EARP v2.0.5.12"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:17:45.980245+00:00"
+}

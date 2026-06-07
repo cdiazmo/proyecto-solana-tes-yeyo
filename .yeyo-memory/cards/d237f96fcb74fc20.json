@@ -1,0 +1,30 @@
+{
+  "id": "d237f96fcb74fc20",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS65.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 76384,
+  "size_human": "75 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS65",
+  "doc_code": "4521-ESP-ANC-68-61-CS65",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11523,
+  "token_estimate": 2880,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/d237f96fcb74fc20.json",
+  "extracted_path": ".yeyo-memory/extracted/d237f96fcb74fc20.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20110106103832",
+      "Author": "Information Systems",
+      "Title": "Specification Form - Solana"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:37.034505+00:00"
+}

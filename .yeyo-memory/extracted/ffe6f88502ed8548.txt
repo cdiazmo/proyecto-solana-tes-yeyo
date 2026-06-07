@@ -1,0 +1,1151 @@
+[page 1]
+ABENER TEYMA Page 1 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+Instructions : 
+ 
+1. Initialing (By/Chk’d/App’d) required on cover sh eet only. All other title block information must b e 
+ included on all pages. 
+ 
+2. Revisions are identified in the body of the Spec ification. 
+ 
+ Description of 
+Rev . 
+No. 
+ 
+Date 
+ 
+By 
+ 
+Chk’d 
+ 
+App’d 
+ Revision Including 
+Page Numbers 
+0 02 Nov 2011 TRJ MW JJ Issued for Design 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENER TEYMA Page 2 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+PROJECT SPECIFIC REQUIREMENTS PROJECT SPECIFIC REQUIREMENTS PROJECT SPECIFIC REQUIREMENTS PROJECT SPECIFIC REQUIREMENTS 
+A complete integrated control system based on a Metso DNA DCS will be provided 
+for data acquisition, regulatory control, discrete logic processing, alarms, current 
+trends, historical trends, event logs, reports and historical data archiving. Motors will 
+be controlled using Profibus technology and Smart Starter. All the analog and digital 
+signals will be controlled by the DCS without the use of a separate PLC, with the 
+exception of the turbine generator and other vendor supplied packages where a 
+control system is furnished. A turbine generator serial / Ethernet communications 
+interface shall be provided that will support communications between the Plant 
+Process DCS and the Siemens supplied PCS7 DCS for Turbine Generator control. 
+AMEC I&C design responsibilities include supplying Instrument Index, Instrument 
+Specifications, Loop Diagrams, Installation Details, Location Drawings and Cable 
+Schedule. Additionally, Logic Diagrams and Complex Loop Narratives will be provided 
+to assist in DCS Configuration. 
+ 
+ 
+PROJECT SUMMARY PROJECT SUMMARY PROJECT SUMMARY PROJECT SUMMARY 
+Provide detailed engineering design for a complete integrated Instrumentation & 
+Control System for the following areas: 
+• (2) - 140MW Siemens Turbine Generators, Train 1 and Train 2 - Area 300. 
+• Utilities - Area 400 (includes Cooling Tower Water System and Water and 
+Waste Water Treatment. 
+ 
+DESIGN AND VERIFICATION CODES DESIGN AND VERIFICATION CODES DESIGN AND VERIFICATION CODES DESIGN AND VERIFICATION CODES R DS IN CH 
+The design, equipment, materials and details of installation shall comply with the 
+requirements of the latest revisions of the following standards and codes: 
+• National Electrical Code (NEC) 
+• International Society of Automation (ISA) 
+• Institute Of Electrical and Electronic Engineers (IEEE) 
+• National Electrical Manufacturers Association (NEMA) 
+• National Fire Protection Association (NFPA) 
+• American National Standards Institute (ANSI) 
+• Occupational Safety and Health Administration (OSHA) 
+• Local Codes 
+ 
+ 
+ 
+
+[page 3]
+ABENER TEYMA Page 3 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+CONTROL SYSTEMS CONTROL SYSTEMS CONTROL SYSTEMS CONTROL SYSTEMS 
+ 
+CI DS IN CH 
+DCS System DCS System DCS System DCS System 
+• Manufacturer Metso 
+(Honeywell, Fisher etc.) 
+• System Name DNA 
+(TDC 3000, Envox, IA, etc.) 
+• Existing System N/A 
+(TDC 2000, Provox, etc.) 
+• How Long Installed N/A 
+(Year of Installation) 
+• System Architecture Dwg By Others - Telvent 
+• System Updates N/A 
+(Updates/Changes to System. since install). 
+• System Configuration Printout N/A 
+(DCS Tag List, 
+ Request Copy) 
+• Other Equipment Interfaces TG - Siemens PCS7 System 
+(PLC, Drives, Computers, Gauging, 
+MIS, etc.) 
+• Control Room By Others 
+(Central, Area) 
+• Control Room Computer Floor TBD 
+(Yes/No, Height) 
+• Rack Room In Electrical Rooms 
+(Central, Central Area, Field) 
+• Rack Room Computer Floor TBD 
+(Yes/No, Height) 
+• Computer Floor Access TBD 
+(Ramp/Step) 
+• Operator Stations Required Yes 
+(How many operator stations, obtain layout) 
+• Operator Station Display By Others 
+(Group/Graphic) 
+• Quantity Of Operator Displays By Others 
+(Obtain samples if possible) 
+ 
+ 
+ 
+
+[page 4]
+ABENER TEYMA Page 4 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+• Data Highway Profibus / Ethernet 
+ (Type, Length) 
+• Controller Type By Others 
+(Basic, Ext. Multi Func, PM) 
+• How many controllers required By Others 
+• Redundancy Required Redundant Process Cntlrs 
+(Yes/No, 1: X.X= ?, all controls or critical) 
+• DCS Rack Locations Electric Control Room 
+(Rack Room, Field, etc.) 
+• DCS Rack Type By Others 
+(Access Front/Back, etc.) 
+• How many racks By Others 
+(Quantity) 
+• I/O Redundancy Required No 
+(Yes/No, All I/O, Critical I/O) 
+• Engineering Station (1) - One in Control Room 
+(Stand Alone/Location) 
+• Prints, Loggers, Videos, Copiers By Others 
+(List all-alarm, Report, etc. w/locations) 
+• DCS System Data Loggers By Others 
+(Yes/No, Location, Type, What Recorded) 
+• DCS Furniture for others By Others 
+(Inserts, etc., List All) 
+ 
+PLC System PLC System PLC System PLC System 
+• Manufacturer By Others 
+(Modicon, Allen Bradley, etc.) 
+• System Type/Series By Others 
+(384, 584, PLC-5, etc.) 
+• How many PLC’s required By Others 
+(Quantity) 
+• Existing System N/A 
+(Type, Manufacturer) 
+• How Long Installed N/A 
+(Year Installation) 
+ 
+
+[page 5]
+ABENER TEYMA Page 5 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+ 
+• System Architecture Drawing N/A 
+(Obtain copy if possible) 
+• System Updates N/A 
+(Updates/Changes to System. since install) 
+• Other Equipment Interfaces TBD 
+(DCS, Burner Mgt., MIS, Etc.) 
+• PLC CPU Location By Others 
+(I/O Rack. Rack Room, MCC etc.) 
+• I/O Types (1771, SLC, etc.) By Others 
+• I/O Mounting Method By Others 
+(Cabinet, MCC Cubicle, etc.) 
+• I/O Racks By Others 
+ (Yes/No, Quantity) 
+• I/O Rack Location By Others 
+(Rack Rm, MCC etc.) 
+• HMI Interface Software By Others 
+(Wonderware, RSLogix, etc.) 
+Application Notes: 
+ 
+DCS/PLC POWER SYSTEM DCS/PLC POWER SYSTEM DCS/PLC POWER SYSTEM DCS/PLC POWER SYSTEM CI DS IN CH 
+DCS System DCS System DCS System DCS System 
+• DC Power Supply Mfg Std 
+(Mfg. Std, Others, Special) 
+• Redundant Power Supply Yes 
+(Yes/No) 
+• Battery Back-Up Yes 
+(Yes/No) 
+• Battery Back-Up Location TBD 
+(Give Location) 
+• Uninterruptible Power Supply Yes 
+(Type) 
+• If UPS is used, what is on UPS? TBD 
+ (CPU, Consoles, printers, etc.) 
+ 
+ 
+
+[page 6]
+ABENER TEYMA Page 6 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+ 
+ 
+PLC System PLC System PLC System PLC System 
+• DC Power Supply Mfg Std 
+(Mfg. Std, Others, Special) 
+• Redundant Power Supply Yes 
+(Yes/No) 
+• Battery Back-Up Yes 
+(Yes/No) 
+• Battery Back-Up Location TBD 
+(Give Location) 
+• Uninterruptible Power Supply TBD 
+(Type) 
+• If UPS, what is on UPS? TBD 
+ (CPU, I/O, rack power supplies, etc.) 
+ 
+SYMBOLOGY/NUMBER SYSTEM SYMBOLOGY/NUMBER SYSTEM SYMBOLOGY/NUMBER SYSTEM SYMBOLOGY/NUMBER SYSTEM CI DS IN CH 
+Instrument Symbols ISA 
+(ISA, Special-example) 
+ 
+Loop Numbering System Sequential 
+(Sequential, Special-example) 
+ 
+Instrument Tag Order Function - System or Train - 
+(Area ,Function, Loop) Major EQ# - Index# - 
+Suffix 
+ 
+Field Instrument Tagging Stainless Steel 
+(S.S, Mfg, Std., Special) 
+Engineering Units English 
+ 
+MEASUREMENT/DISPLAY MEASUREMENT/DISPLAY MEASUREMENT/DISPLAY MEASUREMENT/DISPLAY STANDARDS STANDARDS STANDARDS STANDARDS 
+CI DS IN CH 
+LOCAL MEASUREMENT INDICATION LOCAL MEASUREMENT INDICATION LOCAL MEASUREMENT INDICATION LOCAL MEASUREMENT INDICATION On Transmitter 
+(Indicating Xmtr, Not Req’d., Special-example) 
+FLOW FLOW FLOW FLOW 
+Gases (CFM, CFH) 
+• Air SCFM 
+ 
+• Natural Gas SCFM 
+• Other (specify) 
+ 
+
+[page 7]
+ABENER TEYMA Page 7 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+• Press/Temp Compensation TBD 
+ (As required by Application, Yes/No) 
+ 
+LIQUIDS LIQUIDS LIQUIDS LIQUIDS 
+(GPM, (LB/HR, Special) 
+• Acid GPM 
+ 
+• Condensate GPM 
+• Water 
+ Mill GPM 
+ Boiler Feed LB/HR 
+ CBD LB/HR 
+ Chilled GPM 
+ Demineralized GPM 
+• Other (specify) 
+ 
+STEAM STEAM STEAM STEAM LB/HR 
+ (LB/HR) 
+ Press /Temp Compensation TBD 
+(As required by Application, Yes, No) 
+ 
+LEVEL LEVEL LEVEL LEVEL 0-100% 
+(0-100%, Eng. Units) 
+PRESSURE PRESSURE PRESSURE PRESSURE PSIG 
+(PSIG, In WC, PSIA) 
+TEMPERATURE TEMPERATURE TEMPERATURE TEMPERATURE DEG F 
+(Deg F. Deg. C) 
+VACUUM VACUUM VACUUM VACUUM IN HG 
+(In Hg, In WC) 
+DOCUMENTATION DOCUMENTATION DOCUMENTATION DOCUMENTATION 
+A. Instrument Index / Signal I/O List Yes MD DS IN CH 
+B. Loop Sheets Yes MD DS IN CH 
+C. Instrument Specifications Yes MD DS IN CH 
+D. Complex Loop Narrative Yes MD DS IN CH 
+E. SAMA Diagrams Yes MD LD IN DR 
+
+[page 8]
+ABENER TEYMA Page 8 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+F. Interlock Descriptions Yes MD LD IN DR 
+F. DCS I/O Connections (on Loop Diagram) Yes MD DS IN CH 
+G. DCS Architecture Drawings N/A - By Others 
+H. PLC Architecture Drawings N/A 
+I. DCS Equip Pwr, Gnd., Comm Cabling Yes MD DS IN CH 
+J. PLC Communication Cabling Yes MD DS IN CH 
+K. Panel/Cabinet Drawings No CI DS IN DR 
+L. Control/Rack Room Layouts No CI DS IN CH 
+M. Construction Specifications No CI DS IN CH 
+N. Installation Details Yes CI DS IN CH 
+O. Special Documentation (Give Types) N/A 
+ 
+ 
+CONTROL VALVES CONTROL VALVES CONTROL VALVES CONTROL VALVES -- -- SIZING CALCULATIONS W/SPEC. SHEETS PREFERRED SIZING CALCULATIONS W/SPEC. SHEETS PREFERRED SIZING CALCULATIONS W/SPEC. SHEETS PREFERRED SIZING CALCULATIONS W/SPEC. SHEETS PREFERRED . SI DS IN CH 
+Primary Val ve Manufacturer TBD (Client to Bid) 
+(Fisher, Masoneilan, etc) 
+Positioners Smart / Hart 
+(Pneumatic, Electric. Smart, Fieldbus) 
+Current to Pneumatic Converters N/A 
+(Mtd On/Off Valve, Purch w/Valve, Separate.) 
+Tubing on Control Valves 304/316 SS 
+(PVC, Copper, 304/316 SS, Mfg. Std., etc) 
+Tube Fittings on Control Valves 304/316 SS 
+(Mfg. Std., Same Mfg. as Field Tube Fittings, etc.) 
+Control Valve Type vs. Service Application 
+Gases 
+• Air Butterfly / V-Ball 
+ 
+• Natural Gas Globe, V-Ball 
+• Others (specify) N/A 
+Liquids 
+• Acid N/A 
+• Black Liquor N/A 
+• Caustic N/A 
+ 
+• Green Liquor N/A 
+• Water Butterfly / V-Ball 
+ 
+
+[page 9]
+ABENER TEYMA Page 9 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+ Boiler Feed Globe 
+ Chilled Butterfly / V-Ball 
+ Demineralized Butterfly / V-Ball 
+ Raw Butterfly / V-Ball 
+ Treated Butterfly / V-Ball 
+ Steam Condensate Globe 
+ 
+Available Mill Air 
+Pressure (Maximum/Minimum) TBD 
+ 
+ 
+Available Instrument Air 
+Pressure (Maximum/Minimum) TBD 
+ 
+PLEASE NOTE: USE 60 PSIG TO SIZE CONTROL VALVE ACTU ATOR. PLEASE NOTE: USE 60 PSIG TO SIZE CONTROL VALVE ACTU ATOR. PLEASE NOTE: USE 60 PSIG TO SIZE CONTROL VALVE ACTU ATOR. PLEASE NOTE: USE 60 PSIG TO SIZE CONTROL VALVE ACTU ATOR. 
+ 
+ 
+INSTRUMENTS INSTRUMENTS INSTRUMENTS INSTRUMENTS 
+ 
+SI DS IN CH 
+ANALYZERS ANALYZERS ANALYZERS ANALYZERS 
+Conductivity Conductivity Conductivity Conductivity TBD 
+(Manufacturer) 
+• Model No. 
+• Type (In-Line, Sample Chamber 
+ 
+Brightness Brightness Brightness Brightness N/A 
+(Manufacturer) 
+• Model No. 
+• Type 
+(In-Line, Sample Chamber) 
+ 
+Freeness Freeness Freeness Freeness N/A 
+(Manufacturer) 
+• Model No. 
+• Type 
+(In-Line, Sample Chamber) 
+ 
+
+[page 10]
+ABENER TEYMA Page 10 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+ 
+Other Other Other Other N/A 
+(Manufacturer) 
+• Model No. 
+• Type 
+ 
+PH PH PH PH TBD 
+(Manufacturer) 
+• Model No. 
+• Type 
+(In-Line, Sample Chamber) 
+ 
+ANNUNICATORS ANNUNICATORS ANNUNICATORS ANNUNICATORS N/A 
+(Manufacturer) 
+• Model No. 
+• Type 
+(Dual Point, 
+ Relay, Remote Logic) 
+ 
+CAPACITANCE LEVEL DEVICES CAPACITANCE LEVEL DEVICES CAPACITANCE LEVEL DEVICES CAPACITANCE LEVEL DEVICES N/A 
+((Manufacturer E&H, Drexelbrook) 
+• Model No. 
+ 
+CONSISTENCY CONSISTENCY CONSISTENCY CONSISTENCY N/A 
+(Manufacturer) 
+• Model No. 
+• Type 
+(Probe, Blade, Rotating) 
+ 
+CONTROL PANEL/RACKS CONTROL PANEL/RACKS CONTROL PANEL/RACKS CONTROL PANEL/RACKS TBD 
+(Panel, Vendor Name) 
+CONVERTERS CONVERTERS CONVERTERS CONVERTERS 
+Current/Pneumatic, (I/P) Current/Pneumatic, (I/P) Current/Pneumatic, (I/P) Current/Pneumatic, (I/P) N/A 
+• Field 
+(Manufacturer) 
+Model No. 
+Mounting 
+(On Valve, Pipestand) 
+• Rack 
+(Manufacturer) 
+Model No. 
+ 
+ 
+
+[page 11]
+ABENER TEYMA Page 11 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+Pneumatic/Current (P/I) Pneumatic/Current (P/I) Pneumatic/Current (P/I) Pneumatic/Current (P/I) N/A 
+• Field 
+(Manufacturer) 
+Model No. 
+(Series, Cat No. etc.) 
+Mounting 
+(Pipestand, Special) 
+• Rack 
+(Manufacturer) 
+Model No. 
+ 
+Current/Current (I / I) Current/Current (I / I) Current/Current (I / I) Current/Current (I / I) TBD 
+Manufacturer 
+Model No. 
+Mounting 
+ 
+DESUPERHEATERS DESUPERHEATERS DESUPERHEATERS DESUPERHEATERS TBD 
+(Manufacturer) 
+Model No. 
+Type 
+(Mech./Steam Atomization) 
+ 
+FILTER REGULATORS FILTER REGULATORS FILTER REGULATORS FILTER REGULATORS TBD 
+(Manufacturer) 
+Model No. 
+Type 
+(Fixed, Adjustable) 
+Purchased 
+(W/equipment, Contractor, Separate) 
+Pre-piped, loose, etc. 
+ 
+FLOW ELEMENTS, ORIFICES/NOZZLES FLOW ELEMENTS, ORIFICES/NOZZLES FLOW ELEMENTS, ORIFICES/NOZZLES FLOW ELEMENTS, ORIFICES/NOZZLES TBD 
+(Manufacturer) 
+Model No. 
+Type Nozzles 
+(Flg, Weld -In, Pipe Sect.) 
+ 
+FLOW ELEMENTS, MAG. FLOWMETERS FLOW ELEMENTS, MAG. FLOWMETERS FLOW ELEMENTS, MAG. FLOWMETERS FLOW ELEMENTS, MAG. FLOWMETERS TBD 
+(Manufacturer) 
+Model No. 
+Type 
+ (AC, DC) 
+ 
+
+[page 12]
+ABENER TEYMA Page 12 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+Electrode Material As Req’d 
+(316 SS & Platinum, etc.) 
+Cable With Meter 
+(Bulk, w/ meter, contractor) 
+Mounting Remote 
+(Integral, remote) 
+Accessories As Req’d 
+(Grounding rings, End Protectors, etc.) 
+Other features (Smart, Hart, FFb, etc.) Hart 
+ 
+ 
+LIMIT SWITCHES (Valves) LIMIT SWITCHES (Valves) LIMIT SWITCHES (Valves) LIMIT SWITCHES (Valves) TBD 
+(Manufacturer) 
+Model No. 
+Type 
+Purchased With Valve 
+(w/Valve, Separate) 
+Voltage 
+(120 VAC, 24 VDC, etc.) 
+ 
+ 
+MANIFOLDS MANIFOLDS MANIFOLDS MANIFOLDS TBD 
+(Manufacturer) 
+Model No. 
+Purchased 
+(w/Equipment, Contractor, Separate) 
+ 
+ 
+NUCLEAR INSTRUMENTS NUCLEAR INSTRUMENTS NUCLEAR INSTRUMENTS NUCLEAR INSTRUMENTS 
+Level N/A 
+(Manufacturer) 
+Model No. 
+Density N/A 
+(Manufacturer) 
+Model No. 
+Other N/A 
+(Manufacturer) 
+Model No. 
+ 
+ 
+PRESSURE GAUGES PRESSURE GAUGES PRESSURE GAUGES PRESSURE GAUGES TBD 
+(Manufacturer) 
+Model No. 
+Type 
+(4”, 6”, Liquid Filled, etc.) 
+ 
+
+[page 13]
+ABENER TEYMA Page 13 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+ 
+ROTOMETERS ROTOMETERS ROTOMETERS ROTOMETERS TBD 
+(Manufacturer) 
+ Model No. 
+ 
+ 
+SIGNAL CONDITIONERS SIGNAL CONDITIONERS SIGNAL CONDITIONERS SIGNAL CONDITIONERS TBD 
+(Manufacturer) 
+Model No. 
+Type Rack/DIN Rail 
+(Individual, Rack Mtd.) 
+ 
+ 
+SOLENOID VALVES SOLENOID VALVES SOLENOID VALVES SOLENOID VALVES TBD 
+(Manufacturer) 
+Model No. 
+Materials TBD 
+(Brass, Stainless Steel) 
+Purchased With Valve 
+(W/Control Valves, Separate) 
+Voltage 24 VDC 
+(120 VAC, 24 VDC, etc.) 
+ 
+ 
+SPEED SWITCHES / TRANSMITTERS SPEED SWITCHES / TRANSMITTERS SPEED SWITCHES / TRANSMITTERS SPEED SWITCHES / TRANSMITTERS TBD 
+(Manufacturer) 
+Model No. 
+Type Pulse Pick-Up 
+(Pulse Pick-Up, Rotating, etc.) 
+ 
+ 
+SWITCHES SWITCHES SWITCHES SWITCHES 
+Pressure TBD 
+ (Manufacturer) 
+ Model No. 
+ Mounting 
+ (Direct, Remote, etc.) 
+Level 
+ (Manufacturer) TBD 
+ Model No. 
+ Temperature TBD 
+ (Manufacturer) 
+ Model No. 
+ Type 
+ (Bi-Metal, Filled, etc.) 
+ 
+
+[page 14]
+ABENER TEYMA Page 14 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+ 
+SINGLE LOOP CONTROLLERS SINGLE LOOP CONTROLLERS SINGLE LOOP CONTROLLERS SINGLE LOOP CONTROLLERS 
+(Manufacturer) N/A 
+Model No. 
+ 
+ 
+CCTV SYSTEM CCTV SYSTEM CCTV SYSTEM CCTV SYSTEM By Others 
+(Manufacturer) 
+Model No. 
+ 
+ 
+TEMPERATURE SENSORS TEMPERATURE SENSORS TEMPERATURE SENSORS TEMPERATURE SENSORS TBD 
+(Manufacturer) 
+Model No. 
+Type RTD, (TC for Steam) 
+(RTD, Thermocouple) 
+ 
+THERMOMETERS THERMOMETERS THERMOMETERS THERMOMETERS TBD 
+(Manufacturer) 
+Model No. 
+Type 5” Every Angle 
+(Fixed, Adjustable, Size etc.) 
+ 
+TRANSMITTERS TRANSMITTERS TRANSMITTERS TRANSMITTERS -- -- PRESS, DIFF. PRESS, LEVEL PRESS, DIFF. PRESS, LEVEL PRESS, DIFF. PRESS, LEVEL PRESS, DIFF. PRESS, LEVEL TBD 
+(Manufacturer) 
+Model No. 
+Mounted Pipestand 
+(Integral, Pipestand) 
+Smart, FFb, Hart, etc. Hart 
+ 
+ 
+TRANSMITTERS TRANSMITTERS TRANSMITTERS TRANSMITTERS -- -- TEMPERATURE TEMPERATURE TEMPERATURE TEMPERATURE TBD 
+Model No 
+Type RTD (TC for Steam) 
+(RTD, Thermocouple) 
+Mounted Pipestand 
+(Integral, Pipestand) 
+Smart, FFb, Hart, etc. Hart 
+ 
+ 
+TURBINE FLOW METERS TURBINE FLOW METERS TURBINE FLOW METERS TURBINE FLOW METERS TBD 
+(Manufacturer) 
+Model No 
+(Series, Cat No. etc.) 
+Smart, FFb, Hart, etc. 
+ 
+ 
+
+[page 15]
+ABENER TEYMA Page 15 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+VALVES VALVES VALVES VALVES 
+Ball / V Ball / V Ball / V Ball / V-- --Ball Ball Ball Ball TBD 
+(Manufacturer) 
+Model No. 
+Butterfly Butterfly Butterfly Butterfly TBD 
+(Manufacturer) 
+Model No. 
+Globe Globe Globe Globe TBD 
+(Manufacturer) 
+Model No. 
+Knife Gate Knife Gate Knife Gate Knife Gate TBD 
+(Manufacturer) 
+Model No. 
+Special Services Special Services Special Services Special Services TBD 
+(Manufacturer) 
+Model No. 
+(Series Cat No. etc.) 
+Actuators Actuators Actuators Actuators 
+(Manufacturer) Furnished W/Valve 
+Model No. 
+ 
+ 
+VORTEX FLOWMETERS VORTEX FLOWMETERS VORTEX FLOWMETERS VORTEX FLOWMETERS TBD 
+Model No. 
+(Series Cat No. etc.) 
+Smart, FFb, Hart, etc. Hart 
+ 
+WEIGHT WEIGHT WEIGHT WEIGHT 
+(Manufacturer) N/A 
+Model No. 
+ 
+ 
+Installation Installation Installation Installation 
+ 
+CI DS IN CH 
+IMPULSE LINES IMPULSE LINES IMPULSE LINES IMPULSE LINES 304SS 
+(304 SS, 316 SS, Pipe Spec) 
+ 
+
+[page 16]
+ABENER TEYMA Page 16 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+TUBE FITTINGS TUBE FITTINGS TUBE FITTINGS TUBE FITTINGS 
+Manufacturer TBD 
+(Swagelok, Hoke, Parker, etc.) 
+Type Compression 
+(Compression, Flared, Soldered) 
+ 
+ 
+ 
+HEAT TRACING HEAT TRACING HEAT TRACING HEAT TRACING Electric 
+ (Electric, Steam) 
+ Limits 
+ All Outdoor Impulse etc.) 
+ H/T Enclosures 
+(By Contractor, Purchase) 
+Manufacturer TBD 
+(Intertec, O/Brien, etc.) 
+ 
+ 
+INDIVIDUAL AIR SUPPLIES INDIVIDUAL AIR SUPPLIES INDIVIDUAL AIR SUPPLIES INDIVIDUAL AIR SUPPLIES 304 SS 
+ (304 SS, 316 S, Copper, PVC coated) 
+ 
+ 
+INSTRUMENT AIR BRANCH HEADERS INSTRUMENT AIR BRANCH HEADERS INSTRUMENT AIR BRANCH HEADERS INSTRUMENT AIR BRANCH HEADERS 304 SS 
+ (Galv, Aluminum, 304 SS, 316 SS) 
+CONTROL PANELS CONTROL PANELS CONTROL PANELS CONTROL PANELS CI DS IN CH 
+PANEL TERMINAL BLOCKS PANEL TERMINAL BLOCKS PANEL TERMINAL BLOCKS PANEL TERMINAL BLOCKS 
+Fused TBD 
+(Buchanan, A/B, etc.) 
+Non Fused TBD 
+(Buchanan A/B,etc) 
+ 
+PUSHBUTTONS PUSHBUTTONS PUSHBUTTONS PUSHBUTTONS TBD 
+(G.E., A/B, Cutler Hammer, etc.) 
+RELAYS RELAYS RELAYS RELAYS TBD 
+(Potter Brumfield, Square D, etc.) 
+FUSES FUSES FUSES FUSES TBD 
+(Fusetron, etc.) 
+PANEL METERS PANEL METERS PANEL METERS PANEL METERS 
+ (VOLT, AMP, WATT) TBD 
+ (G.E. -2-1/2” Type 250 etc.) 
+ 
+
+[page 17]
+ABENER TEYMA Page 17 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Design Input 
+Design Output 
+Discipline 
+Verif. Method 
+Rev. No. 
+TIMERS TIMERS TIMERS TIMERS N/A 
+Operator Adjusted 
+(ATC, Eagle Signal, etc.) 
+Rear Of Panel 
+(ATC, Potter Brumfield, etc). 
+ 
+PANEL PNEUMATIC TUBING PANEL PNEUMATIC TUBING PANEL PNEUMATIC TUBING PANEL PNEUMATIC TUBING 304 SS 
+(PVC, Tinned Copper, 304 SS, 316 SS etc.) 
+PANEL TUBE FITTINGS PANEL TUBE FITTINGS PANEL TUBE FITTINGS PANEL TUBE FITTINGS TBD 
+(Swagelok, Parker, etc.) 
+PNEUMATIC PNEUMATIC PNEUMATIC PNEUMATIC SHUT SHUT SHUT SHUT -- --OFF VALVES OFF VALVES OFF VALVES OFF VALVES 304 SS 
+(Nupro J Series, Parker CPI V4, etc.) 
+PANEL AIR HEADERS PANEL AIR HEADERS PANEL AIR HEADERS PANEL AIR HEADERS TBD 
+(PVC, Aluminum, 304 SS, 316 SS) 
+ 
+ 
+PANEL FILTER PANEL FILTER PANEL FILTER PANEL FILTER -- --REGULATORS REGULATORS REGULATORS REGULATORS TBD 
+(Parker, Norgren etc.) 
+PANEL NAMEPLATES PANEL NAMEPLATES PANEL NAMEPLATES PANEL NAMEPLATES White/Black Letters 
+(White/Black Letters, Black/White Letters 
+UNION LABEL REQUIRED 
+(Yes/No) 
+ 
+ 
+DESIGN AND VERIFICATION CODES DESIGN AND VERIFICATION CODES DESIGN AND VERIFICATION CODES DESIGN AND VERIFICATION CODES 
+ 
+Design Input Principal Design Output Discipline Verification Method 
+CI = Customer Input DS = Design & Material Standard /Specfctn Ci = Civil Ch = Checking 
+SI = AMEC Input PD = P&ID/P&C/flowsheet St = Struct ural DR = Design Review 
+R = Regulatory Requirement OL = One Line Diagram Ar = Architectural AC = Alternate Calculation 
+G = Geotechnical Consultants LD = Logic Description Me = Mechanical CR = Constructability Review 
+ Input PS = Process Functional Specificatio n Pi = Piping HA = HAZOP Study 
+MD = Manufacturers’ Data SP = Site Plan & Facility Layout Pr = Process CE = Compare to existing 
+ EL = Equipment Layout El = Electrical LT = Lab Tes ting 
+ ES = Equipment Specification In = Instrument & Con trols 
+ He = HVAC 
+Other Design Outputs 
+ SA = Structural & Arch. Dwg. 
+ OT = Other Drawings 
+ CS = Construction Specifications 
+ 
+
+[page 18]
+ABENER TEYMA Page 18 of 18 
+SOLANA AMEC 
+ Document No: 4521-ESP-AGE-00-70-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+Instrument and Controls Design Criteria Project: Solana 
+ Ref.: Issue: 0 Dated : 02 Nov 2011 
+ 
+ 
+ 
+ 
+0 02 Nov 2011 Issued for Design TRJ MW JEN JJ 
+ 
+No. Date Description By Chk'd App'd App'd 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this 
+stamp. 
+Specification Form - Solana (Rev. 3/2011) 
+APPROVED BY: APPROVED BY: APPROVED BY: APPROVED BY: 
+Customer Solana Solar 
+Project Manager Jahan Jalili 
+Department Manager Area or Discipline Leader 
+Civil Civil 
+Structural Structural 
+Architectural Architectural 
+Mechanical Mechanical 
+Piping Piping 
+Process Process 
+Electrical Electrical 
+Control Systems Jamie Neal Control Systems Tim Jam es 
+HVAC HVAC 
+NOTE: Department Manager and Area or Discipline Leader signatures are only required for those disciplines 
+referenced.

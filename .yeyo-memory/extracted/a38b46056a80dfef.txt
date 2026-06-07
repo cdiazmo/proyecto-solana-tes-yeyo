@@ -1,0 +1,244 @@
+[page 1]
+ 
+ 
+ABENER 
+ 
+ 
+Technical Instruction 
+ 
+ 
+ 
+ 
+Title: 
+Oil to Salt Heat Exchanger Operational Limitations 
+Client: ABENER 
+Project: SOLANA SOLAR POWER PLANT 
+ 
+Document No.: 095-16 Operational Limitations 
+Revision: 02 – ONLY FOR OFFER 
+Date: 24/08/2016 
+ 
+Prepared by: 
+Álvaro Bilbao Díez 
+ 
+Reviewed by: 
+Mikel Ezcurra 
+ 
+Approved by: 
+Mikel Ezcurra 
+
+[page 2]
+ABENER 
+Document: 095-16 Operational Limitations 
+Revision: 02 Date: 24/08/2016 
+Page: 2 of 7 
+ 
+INDEX 
+1. Aim ................................................................................................................................ 3 
+2. Design condition ......................................................................................................... 3 
+3. Variation ratio in operation conditions ...................................................................... 3 
+4. Operation area ............................................................................................................. 4 
+5. Others ........................................................................................................................... 7 
+ 
+ 
+
+[page 3]
+ABENER 
+Document: 095-16 Operational Limitations 
+Revision: 02 Date: 24/08/2016 
+Page: 3 of 7 
+ 
+1. Aim 
+ 
+The purpose of this document is to define the operation limitations of the Oil to Salt 
+Heat Exchanger of Solana Thermosolar Power Plant (Arizona, USA). 
+ 
+2. Design condition 
+ 
+Oil side (tube side): 
+ Design 
+Temperature 399 ºC 750.2 ºF 
+Pressure 25 barg 362.6 psig 
+ 
+ 
+Salt side (shell side): 
+ Design 
+Temperature 399 ºC 750.2 ºF 
+Pressure 25 barg 362.6 psig 
+ 
+ 
+3. Variation ratio in operation conditions 
+ 
+Once the Oil to Salt Heat E xchangers is set in operation, the following are the 
+maximum allowable temperature variations allowed: 
+ 
+ Thermal shock +/- 126 ºF (70 ºC), i.e. rapid temperature change for incoming 
+fluids must not be greater than +/- 126 ºF (70 ºC). 
+This thermal shock is measured at the inlet of both sides , considering the 
+following: 
+- Thermal shock HTF side = Temperature from Solar Field/SGS – 
+Temperature at the inlet of the heat exchangers. 
+- Thermal shock Salt side = Temperature from hot/cold salt tank – 
+Temperature at the inlet of the heat exchangers. 
+ 
+ Maximum heating/cooling ramp for incoming fluids must not be greater than 
+18 ºF/min (10 ºC/min). 
+
+[page 4]
+ABENER 
+Document: 095-16 Operational Limitations 
+Revision: 02 Date: 24/08/2016 
+Page: 4 of 7 
+ 
+ 
+4. Operation area 
+ 
+A. Temperatures 
+ 
+There are three different situations to set the equipment into operation: 
+ Initially there is no flow of two fluids 
+When one of the fluids starts to flow, its inlet temperature must not be either 
+higher or lower than 126 ºF (70 ºC) over the temperature of that fluid inside 
+the train. 
+ 
+|ΔT| < 126 ºF 
+ 
+ 
+ 
+ 
+ 
+ 
+In the event of prolonged stand -by of the equipment and in order not to 
+surpass the above limit, the maximum molten salts flow to be run through the 
+equipment shall not exceed the 5% of the design flow. 
+ 
+ Initially there is flow of one fluid 
+When the other fluid starts to flow, its inlet temperature must not be higher or 
+lower than 216 ºF (120 ºC) over the inlet temperature of the other fluid in the 
+train. 
+ 
+ 
+ 
+ 
+ 
+ 
+ΔT 
+<5
+T 
+ T inlet 
+
+[page 5]
+ABENER 
+Document: 095-16 Operational Limitations 
+Revision: 02 Date: 24/08/2016 
+Page: 5 of 7 
+ 
+ 
+|T1 – T4| < 216 ºF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Both fluids in circulation 
+There is not a temperature limitation. Operation temperature of the train has 
+to be between 500 ºF (260 ºC) and 752 ºF ( 400 ºC). If the process works 
+under 500 ºF (260 ºC), there is a risk of salt freezing. 
+ 
+|T1 – T4| > no limitation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T1 
+ T3 
+T4 
+T2 
+TES Train 
+(6 Hex in series) 
+HTF inlet 
+ Salt outlet 
+HTF outlet 
+ Salt inlet 
+T1 
+ T3 
+T4 
+T2 
+TES Train 
+(6 Hex in series) 
+HTF inlet 
+ Salt outlet 
+HTF outlet 
+ Salt inlet 
+
+[page 6]
+ABENER 
+Document: 095-16 Operational Limitations 
+Revision: 02 Date: 24/08/2016 
+Page: 6 of 7 
+ 
+The temperatures of the equipment will be measured with the instruments located 
+upstream considering the operation mode they perform under (Charge or 
+Discharge). 
+ 
+Heat exchanger has always to be filled with salt to avoid a great temperature 
+difference between shell and tube side before starting the operation. 
+ 
+From the temperature limitation p oint of view, which fluid (cold or hot) begins to 
+circulate has no influence. 
+ 
+ 
+ 
+B. Mass flow 
+ 
+It is considered that there is HTF flow when the value is higher than 435.600 lb/hr 
+(55 kg/s) per train. 
+ 
+It is considered that there is SALT flow when the value is higher than 674.600 lb/hr 
+(85 kg/s) per train. 
+ 
+Maximum SALT mass flow allowed of the equipment is 7.284.705 lb/hr (920 kg/s) 
+per train. 
+ 
+Maximum HTF mass flow allowed of the equipment is 4.516.173 lb/hr (570 kg/s) per 
+train. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 7]
+ABENER 
+Document: 095-16 Operational Limitations 
+Revision: 02 Date: 24/08/2016 
+Page: 7 of 7 
+ 
+5. Others 
+ 
+There is no special temperature limitation for the drain with N2, apart for the 18 
+ºF/min (10 ºC/min) temperature ramp. In this case, the ramp will be measured with 
+the average of the drain outlet temperatures. 
+ 
+The above mentioned limitations (sections 3, 4, and 5) will also apply for 
+temperature limits for initial filling, cold start and heat tracing heating ramp. 
+ 
+ 
+There is no limitation for pressure differences between fluids.

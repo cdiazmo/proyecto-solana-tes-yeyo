@@ -1,0 +1,35 @@
+{
+  "id": "e762951097dd47f0",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-V A- .25 Load Charging - min level @ 540rpm.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 29128,
+  "size_human": "28 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "AnnexI-V A- .25 Load Charging - min level @ 540rpm",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2022,
+  "token_estimate": 505,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/e762951097dd47f0.json",
+  "extracted_path": ".yeyo-memory/extracted/e762951097dd47f0.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "",
+      "Creator": "",
+      "Producer": "Qt 4.7.0 (C) 2010 Nokia Corporation and/or its subsidiary(-ies)",
+      "CreationDate": "D:20160805075150"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.978272+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.978274+00:00"
+}

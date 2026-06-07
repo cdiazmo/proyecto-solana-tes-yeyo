@@ -1,0 +1,33 @@
+{
+  "id": "38b26c9b22b50e95",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-ANC-68-71-I250  Insulation & Heat Tracing Spec TES Area.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 4427865,
+  "size_human": "4.2 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-71-I250 Insulation & Heat Tracing Spec TES Area",
+  "doc_code": "4521-ESP-ANC-68-71-I250",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 51984,
+  "token_estimate": 12996,
+  "chunks": 33,
+  "card_path": ".yeyo-memory/cards/38b26c9b22b50e95.json",
+  "extracted_path": ".yeyo-memory/extracted/38b26c9b22b50e95.txt",
+  "metadata": {
+    "pages": 37,
+    "pdf_metadata": {
+      "CreationDate": "D:20120307133027-06'00'",
+      "ModDate": "D:20160906150454+02'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano electrico",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.366868+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:54.366869+00:00"
+}

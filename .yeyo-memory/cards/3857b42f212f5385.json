@@ -1,0 +1,31 @@
+{
+  "id": "3857b42f212f5385",
+  "path": "04 GD Fabricacon LOI TES 3/Planificacion/195 02 01 Planning equipment 20191029.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 297293,
+  "size_human": "290 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "195 02 01 Planning equipment 20191029",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5251,
+  "token_estimate": 1312,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/3857b42f212f5385.json",
+  "extracted_path": ".yeyo-memory/extracted/3857b42f212f5385.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "martaguerreiro",
+      "CreationDate": "D:20191029181840+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20191029181840+01'00'",
+      "Producer": "Acrobat Distiller 17.0 (Windows)",
+      "Title": "- 195 02 01 Solana 2"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:32.768955+00:00"
+}

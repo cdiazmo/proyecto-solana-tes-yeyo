@@ -1,0 +1,64 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_HDD_AEE_00_64_0001-GAR_901 | 0 | 2016-12-16 00:00:00 | TES HTF PSV Datasheet | Abeinsa Engineering
+Submitted Document | _TES HTF PSV Datasheet
+By review TCS data box | \\srv-cpafs2\Grupos-J36\400_ING\AE4521_Solana-HEX\08 Engineering\84 Work doc\M&P\HDD\[4521_HDD_AEE_00_64_0001-GAR_901_Rev00_TES HTF PSV Datasheet.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521_HDD_AEE_00_64_0001-GAR_901_Rev00_TES HTF PSV Datasheet
+4521_HDD_AEE_00_64_0001-GAR | 0 | IFD | 4521-TMT-AEE-AEPC-00xx | 2016-12-21 00:00:00
+Input data | Used
+TES HEX Replacemente P&ID's
+Assumptions:
+-
+-
+Holds:
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521_HDD_AEE_00_64_0001-GAR | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_HDD_AEE_00_64_0001-GAR_901 | 0 | 2016-12-16 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | _TES HTF PSV Datasheet
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

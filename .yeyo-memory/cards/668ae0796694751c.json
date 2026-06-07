@@ -1,0 +1,30 @@
+{
+  "id": "668ae0796694751c",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Motor de la bomba de depósito de drenaje/3-MP-258 Motor.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 382334,
+  "size_human": "373 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "3-MP-258 Motor",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1513,
+  "token_estimate": 378,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/668ae0796694751c.json",
+  "extracted_path": ".yeyo-memory/extracted/668ae0796694751c.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Rafael",
+      "CreationDate": "D:20190109082907-07'00'",
+      "ModDate": "D:20190109082907-07'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": "motor.xls"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:22:18.707309+00:00"
+}

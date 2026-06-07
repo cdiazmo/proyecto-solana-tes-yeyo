@@ -1,0 +1,68 @@
+{
+  "id": "ebdc9f553252b554",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0002_R1Collector RTD  .xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 1064166,
+  "size_human": "1.0 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-57-70-0002 R1Collector RTD",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 88423,
+  "token_estimate": 22105,
+  "chunks": 56,
+  "card_path": ".yeyo-memory/cards/ebdc9f553252b554.json",
+  "extracted_path": ".yeyo-memory/extracted/ebdc9f553252b554.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet ",
+        "rows_seen": 1016,
+        "non_empty_rows": 18
+      },
+      {
+        "name": "Cover Sheet  (2)",
+        "rows_seen": 1016,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet  (3)",
+        "rows_seen": 1016,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet  (4)",
+        "rows_seen": 1016,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index ",
+        "rows_seen": 54,
+        "non_empty_rows": 15
+      },
+      {
+        "name": " colectors RTD Specifications",
+        "rows_seen": 108,
+        "non_empty_rows": 35
+      },
+      {
+        "name": "colectors RTD list",
+        "rows_seen": 2652,
+        "non_empty_rows": 1920
+      },
+      {
+        "name": "colectors RTD data ",
+        "rows_seen": 107,
+        "non_empty_rows": 16
+      },
+      {
+        "name": "Sheet1",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:18.037301+00:00"
+}

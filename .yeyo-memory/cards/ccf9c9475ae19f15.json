@@ -1,0 +1,34 @@
+{
+  "id": "ccf9c9475ae19f15",
+  "path": "13_Documentos de Inspección Final/S2009117-Solana HEX Planing.pdf",
+  "top_dir": "13_Documentos de Inspección Final",
+  "ext": "pdf",
+  "size_bytes": 13529853,
+  "size_human": "13 MB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "S2009117-Solana HEX Planing",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/ccf9c9475ae19f15.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "anonymous",
+      "CreationDate": "D:20180119141614-07'00'",
+      "Creator": "Adobe Acrobat Pro DC 18.9.20050",
+      "ModDate": "D:20180119141614-07'00'",
+      "OceImageTagOrientation": "1",
+      "OceScanImageLogic": "1",
+      "OceScanResolution": "300",
+      "Producer": "Adobe Acrobat Pro DC 18.9.20050",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:21:14.578137+00:00"
+}

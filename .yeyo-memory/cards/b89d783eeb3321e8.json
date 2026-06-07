@@ -1,0 +1,53 @@
+{
+  "id": "b89d783eeb3321e8",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0009_R1 RTD+Transmitter.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 320781,
+  "size_human": "313 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0009 R1 RTD+Transmitter",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 15313,
+  "token_estimate": 3828,
+  "chunks": 10,
+  "card_path": ".yeyo-memory/cards/b89d783eeb3321e8.json",
+  "extracted_path": ".yeyo-memory/extracted/b89d783eeb3321e8.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1013,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 66,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 67,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index ",
+        "rows_seen": 62,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "RTD+Transm. Spec.",
+        "rows_seen": 75,
+        "non_empty_rows": 48
+      },
+      {
+        "name": "RTD+Transm. List ",
+        "rows_seen": 81,
+        "non_empty_rows": 15
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:14.255663+00:00"
+}

@@ -1,0 +1,42 @@
+[sheet Mechanical Equipments List]
+ABENER TEYMA SOLANA | SOLANA 250 MW Solar Power Plant | Job: | Document: | 4521-LIS-AEE-39-61-0002-GAR | ABEINSA ENGINEERING
+Item No.: | No. Req'd:
+Project: | Solana
+Equipment list (TES system) - HEX Replacement | Ref.: | Issue: | Dated:
+0 | 2016-12-15 00:00:00 | RDA | JRL | JRL
+Rev. | Date | By | Chk'd | App'd | Description
+Rev | Name | Item TAG Nº | Equipment Description | P&ID | Manufacturer (Supplier) | Manufacturer Documentation | Material of Construction | Design Conditions Vessels / tank / Exchangers | Vessels / Tank / Exchangers dimensions | Pumps Capacity and size | Electrical / heat power (kW) | Empty Weight (kg) | Anchor Bolt Supply by Vendor (YES/NO) | Site Arrival Date (CONTRACTUAL or PLANNING L3) | Insulation | Coordinates (ITM) | Notes
+Data Sheet / Drawing | Revision Nº | Shell / Casing | Tube / Impeller | Temp. (ºF) | Pressure (Psig) | Diam (mm) | T-T (mm) | Vol (m3) | Flow rated (m3/h) | TDH rated (m) | Thickness (Inch)
+Shell | Tube | Shell | Tube | Reference point | E. (ft) | N. (ft) | EL. (ft)
+0 | Shell&Tube Heat Exchanger (MS-HTF) | 0-MX-251-A | TITAN HMXT-200 Hydrogen Generator 1 | 4521-PLN-AEE-68-71-P278-GAR | Lointek | 4521-HDD-LOI-039-062-0001-GAR | 1 | Carbon Steel | Carbon Steel | 750 | 750 | 320 | 320 | refer datasheets | refer datasheets | refer datasheets | NA | NA | NA | refer to the GA Drawing 4521-PLN-LOI-039-062-0001-GAR | YES | On hold | 12" | On hold | On hold | On hold | On hold
+0 | Shell&Tube Heat Exchanger (MS-HTF) | 0-MX-251-B | 4521-PLN-AEE-68-71-P278-GAR | Lointek | 4521-HDD-LOI-039-062-0001-GAR | 1 | Carbon Steel | Carbon Steel | 750 | 750 | 320 | 320 | refer datasheets | refer datasheets | refer datasheets | NA | NA | NA | YES | On hold | 12" | On hold | On hold | On hold | On hold
+0 | Shell&Tube Heat Exchanger (MS-HTF) | 0-MX-251-C | 4521-PLN-AEE-68-71-P278-GAR | Lointek | 4521-HDD-LOI-039-062-0001-GAR | 1 | Carbon Steel | Carbon Steel | 750 | 750 | 320 | 320 | refer datasheets | refer datasheets | refer datasheets | NA | NA | NA | YES | On hold | 12" | On hold | On hold | On hold | On hold
+0 | Shell&Tube Heat Exchanger (MS-HTF) | 0-MX-251-D | 4521-PLN-AEE-68-71-P278-GAR | Lointek | 4521-HDD-LOI-039-062-0001-GAR | 1 | Carbon Steel | Carbon Steel | 750 | 750 | 320 | 320 | refer datasheets | refer datasheets | refer datasheets | NA | NA | NA | YES | On hold | 12" | On hold | On hold | On hold | On hold
+0 | Shell&Tube Heat Exchanger (MS-HTF) | 0-MX-251-E | 4521-PLN-AEE-68-71-P278-GAR | Lointek | 4521-HDD-LOI-039-062-0001-GAR | 1 | Carbon Steel | Carbon Steel | 750 | 750 | 320 | 320 | refer datasheets | refer datasheets | refer datasheets | NA | NA | NA | YES | On hold | 12" | On hold | On hold | On hold | On hold
+0 | Shell&Tube Heat Exchanger (MS-HTF) | 0-MX-251-F | 4521-PLN-AEE-68-71-P278-GAR | Lointek | 4521-HDD-LOI-039-062-0001-GAR | 1 | Carbon Steel | Carbon Steel | 750 | 750 | 320 | 320 | refer datasheets | refer datasheets | refer datasheets | NA | NA | NA | YES | On hold | 12" | On hold | On hold | On hold | On hold
+0 | MS Drain Back Tank | 00-MT-257 | TITAN HMXT-200 Hydrogen Generator 2 | 4521-PLN-AEE-68-71-P279-GAR | On Hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | NA | NA | NA | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold
+0 | MS Drain Back Tank Pump | 00-MP-257 | HMXT Universal Power Supply 1 | 4521-PLN-AEE-68-71-P279-GAR | On Hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold | On hold
+0 | NOTES: | "0" number prefixed on HEX tags shall be replaced depending on the TES system refered: 1 for TES1 up to 6 for TES6
+"00" number prefixed on equipment tags shall be replaced depending on the TES couple refered: 1 for TES1&TES 2, 2 for TES3&TES4, and 3 for TES5&TES 6
+
+[sheet Line List]
+ABENER | XXXX(X)-AAA-BBB- (CCC)-(DDD-EEE)-YYYY-(ZZZ)_Document title
+00 | 2016-04-12 00:00:00 | IFD | CTO | AMQ | JNM / JAAR | VTM
+Sheet 1 of X | Revision | Date | Purpose | Issued by | Checked by | Reviewed by | Approved by
+ID | KKS Code | P&ID | P&ID Sheet No. | Diameter (Inches) | Pipe specification | Fluid | Line layout | Operating conditions | Design Conditions | Testing pressure | Insulation | Notes
+Level 1 | Level 2
+Area | System Code | System number | Line code | Main | Auxiliary | From | To | Pressure (barg) | T (oC) | Pressure (barg) | T(ºC) | Pressure (g) | Fluid | Thickness | Code
+
+[sheet Valve List]
+ABENER | XXXX(X)-AAA-BBB- (CCC)-(DDD-EEE)-YYYY-(ZZZ)_Document title
+00 | 2016-04-12 00:00:00 | IFD | CTO | AMQ | JNM / JAAR | VTM
+Sheet 1 of X | Revision | Date | Purpose | Issued by | Checked by | Reviewed by | Approved by
+ID | KKS Code | P&ID | P&ID Sheet No. | Piping Class | NPD | Valve Data Sheet | Line / Equipment | Fluid | Catalogue Number | Limit Switch | Lock | Notes | EPC Conde
+Level 1 | Level 2
+Area | System Code | System number | Valve code
+1
+2
+3
+4
+5
+6

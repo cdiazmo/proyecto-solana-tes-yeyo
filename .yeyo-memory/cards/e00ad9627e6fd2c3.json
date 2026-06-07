@@ -1,0 +1,358 @@
+{
+  "id": "e00ad9627e6fd2c3",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-64-0003_R2 Molten Salt Services - Globe Valve On-Off.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 1798220,
+  "size_human": "1.7 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-64-0003 R2 Molten Salt Services - Globe Valve On-Off",
+  "doc_code": "4521-ESP-AGE-39-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 221794,
+  "token_estimate": 55448,
+  "chunks": 141,
+  "card_path": ".yeyo-memory/cards/e00ad9627e6fd2c3.json",
+  "extracted_path": ".yeyo-memory/extracted/e00ad9627e6fd2c3.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1013,
+        "non_empty_rows": 21
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 68,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 68,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index1",
+        "rows_seen": 71,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "Index 2",
+        "rows_seen": 68,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "HV-125603",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-125603 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-225603",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-225603 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-325603",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-325603 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-425603",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-425603 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-525603",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-525603 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-625603",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-625603 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-125703",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV-125703 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-225703",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV-225703 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-325703",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV-325703 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-425703",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-425703 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-525703",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-525703 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV-625703",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "HV-625703 Notes ",
+        "rows_seen": 63,
+        "non_empty_rows": 42
+      },
+      {
+        "name": "HV 1-251-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 1-251-11 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 2-251-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 2-251-11 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 3-251-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 3-251-11 Notes",
+        "rows_seen": 64,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 4-251-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 4-251-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 5-251-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 5-251-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 6-251-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 6-251-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 1-252-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 1-252-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 2-252-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 2-252-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 3-252-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 3-252-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 4-252-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 4-252-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 5-252-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 5-252-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 6-252-11",
+        "rows_seen": 64,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HV 6-252-11 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 1-252-08",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV 1-252-08 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 2-252-08",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV 2-252-08 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 3-252-08",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV 3-252-08 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 4-252-08",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV 4-252-08 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 5-252-08",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV 5-252-08 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 6-252-08",
+        "rows_seen": 64,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "HV 6-252-08 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "HV 255-03",
+        "rows_seen": 64,
+        "non_empty_rows": 50
+      },
+      {
+        "name": "HV 255-03 Notes",
+        "rows_seen": 62,
+        "non_empty_rows": 28
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:09.317851+00:00"
+}

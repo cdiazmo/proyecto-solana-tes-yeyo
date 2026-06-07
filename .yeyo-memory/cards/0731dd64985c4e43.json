@@ -1,0 +1,33 @@
+{
+  "id": "0731dd64985c4e43",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Transmittal RHP18-133.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 92053,
+  "size_human": "90 KB",
+  "mtime_iso": "2026-06-05T06:20:00.000Z",
+  "title": "Transmittal RHP18-133",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 482,
+  "token_estimate": 120,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/0731dd64985c4e43.json",
+  "extracted_path": ".yeyo-memory/extracted/0731dd64985c4e43.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "Transmittal RHP18-133.xlsx",
+      "Author": "Mike Gardner",
+      "Producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "Creator": "Microsoft Excel",
+      "CreationDate": "D:20180419120747Z00'00'",
+      "ModDate": "D:20180419120747Z00'00'",
+      "Keywords": "",
+      "AAPL:Keywords": "[]"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:43.641607+00:00"
+}

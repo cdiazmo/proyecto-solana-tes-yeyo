@@ -1,0 +1,68 @@
+{
+  "id": "4010b1eb2d6519a6",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0007_R0 Temperature Transmitter.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 468301,
+  "size_human": "457 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-74-70-0007 R0 Temperature Transmitter",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 17172,
+  "token_estimate": 4293,
+  "chunks": 11,
+  "card_path": ".yeyo-memory/cards/4010b1eb2d6519a6.json",
+  "extracted_path": ".yeyo-memory/extracted/4010b1eb2d6519a6.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1013,
+        "non_empty_rows": 17
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 72,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Index 1",
+        "rows_seen": 91,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "TT Spec",
+        "rows_seen": 93,
+        "non_empty_rows": 36
+      },
+      {
+        "name": "JB Spec",
+        "rows_seen": 101,
+        "non_empty_rows": 40
+      },
+      {
+        "name": "JB Sketch",
+        "rows_seen": 76,
+        "non_empty_rows": 5
+      },
+      {
+        "name": "TT Sketch",
+        "rows_seen": 73,
+        "non_empty_rows": 5
+      },
+      {
+        "name": "List 1",
+        "rows_seen": 67,
+        "non_empty_rows": 24
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:27.563601+00:00"
+}

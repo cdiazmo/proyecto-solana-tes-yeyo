@@ -1,0 +1,5804 @@
+[page 1]
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+
+[page 2]
+ 
+Document: 4521-INS-LOI-039-062-0010-GAR 
+ 
+Revision: 01 Date: 27/10/2017 
+Page: 2 of 2 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 13/09/2017 Initial issue IU PM DV 
+01 27/10/2017 Updated IU PM DV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+PROCEDIMIENTOS DE SOLDADURA (WPS) 
+ 
+REV : 
+ 
+01 
+ 
+ISSUED BY: 
+ 
+DSOL 
+ 
+1950101-WPS-001 
+ 
+DATE: 18/10/17 Pag 1/32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATIONS 
+PROCEDIMIENTOS DE SOLDADURA 
+(WPS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUSTOMER / CLIENTE : ARIZONA SOLAR ONE 
+JOB / TRABAJO : OIL TO SALT HEAT EXCHANGER
+ 
+LOINTEK REF : 1950101 
+CUSTOMER REF. : 
+PROJECT / PROYECTO : HEX REPLACEMENT TES SOLANA 
+PLANT / PLANTA : 
+ 
+LOCATION / LOCALIDAD : ARIZONA_USA 
+ 
+ 
+ 
+ 
+REVISION 
+ 
+ 
+DATE 
+FECHA 
+ 
+DESCRIPTION 
+DESCRIPCION 
+ 
+Issued / 
+Realizado 
+ 
+Revised / 
+Revisado 
+Accepted / 
+Aceptado 
+00 11/08/17 Initial issue IUD PMH DVL 
+01 18/10/17 Updated IUD PMH DVL 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ObraNº
+Contract Nº 1950101 Rev 01
+Proyecto
+Proyect HEX replacement TES Solana
+Cliente
+Client Arizona Solar One
+Equipo
+Equipment Oil to Salt Heat Exchanger
+W.P.S. REV. P.Q.R. MATERIAL PROCESS PWHT STATUS F.M.
+L-1950101-01 0 LP-0605 P3.3-P3.3 GMAW
+SAW
+610 ±10ºC
+90 min
+B ER90S-G
+EF3/EG
+OP41TTW
+L-1950101-02 0 LP-0543
+LP-0448
+P3.3-P3.3 GTAW
+SAW
+610 ±10ºC
+90 min
+B ER90S-G
+EF3/EG
+OP41TTW
+L-1950101-03 0 LP-0619 P3.3-P1.1 A-GTAW 610 ±10ºC
+90 min
+B ER70S-6
+L-1950101-04 0 LP-0415
+LP-0596
+P3.3-P1.2 GTAW
+FCAW
+610 ±10ºC
+90 min
+B ER80S-G
+E81T-M21AP8-Ni1-H4
+L-1950101-05 0 LP-0596 P3.3-P1.2 FCAW 610 ±10ºC
+90 min
+B E81T-M21AP8-Ni1-H4
+L-1950101-06 0 LP-0448
+LP-0401
+P3.3-P3.3 GTAW
+FCAW
+610 ±10ºC
+90 min
+B ER90S-G
+E90T5-M21A0-GH4
+L-1950101-07 0 LP-0785 P3.3-P1.1 GTAW 610 ±10ºC
+90 min
+B ER70S-6
+L-1950101-08 1 LP-0776 P3.3-P1.1 GTAW
+FCAW
+610 ±10ºC
+90 min
+B ER70S-6
+E71T1-M21AP6-CS2-H4
+L-1950101-09 1 LP-0770 P3-P3 FCAW 610 ±10ºC
+90 min
+B E91T1-G
+L-1950101-10 1 LP-0769 P3.3-P3.3 SAW 610 ±10ºC
+90 min
+B EF3/EG
+OP41TTW
+L-1950101-11 1 LP-0801 P3-S275JR GTAW 610 ±10ºC
+90 min
+B ER70S-6
+L-1950101-12 1 LP-0769 P3.3-P3.3 GMAW
+SAW
+610 ±10ºC
+90 min
+B ER90S-G
+EF3/EG
+OP41TTW
+L-1950101-13 1 LP-0770
+LP-0769
+P3.3-P3.3 GTAW
+SAW
+610 ±10ºC
+90 min
+B ER90S-G
+EF3/EG
+OP41TTW
+L-1950101-14 1 LP-0603 P3.3-P1.2 FCAW 610 ±10ºC
+90 min
+B E81T-M21AP8-Ni1-H4
+L-1950101-15 0 LP-0650 P1.2-P1.2 FCAW NO B E71T1-M21A4-CS1-DH4A: Aprobado / Approved
+B: Enviado a aprobación / Send for approval
+C: PQR sin homologar / PQR without qualification
+DEPARTAMENTO DE SOLDADURA
+Welding Department
+Índice de Procedimientos de Soldadura 
+Welding procedures index
+
+[page 5]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-01 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+20/07/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0605 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GMAW + SAW 
+ 
+TYPE(S) 
+ 
+SEMIAUTOMATIC + MACHINE 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Shell Longitudinal Welds 
+ 
+ 
+ 
+ 
+JointsDesing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+GMAW(1st pass):NO; OTHERS:YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+3 
+ 
+G.Nº. 3 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+16 ÷ 34 * Fillet 16 ÷ 34 ** 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA533 GrB Cl2 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros WITHOUT IMPACT REQUIREMENTS: *5 ÷ 34; **ALL 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GMAW 
+ 
+ 
+SAW 
+ 
+ 
+ 
+ 
+Spec. Nº (SFA) 5.28 5.23 
+Espec. Nº. 
+ 
+AWS No (Class) ER90S-G EF3/EG 
+ 
+F-Nº. 6 6 
+ 
+A-Nº. 10 10 
+ 
+Size of Filler Metals (mm) Ø 1 Ø 4 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - - 
+Metal Depositado 
+ 
+Thickness range - - 
+ Margenespesor 
+ 
+Groove ≤ 6.2 (SHORT ARC≤ 2.2) ≤ 26 
+ Chaflan (SPRAY ≤ 4) 
+ 
+Fillet ALL ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA F9P8-EF3/EG-F3 
+Electrodo-Polvo (Clase) 
+ 
+Flux TradeName NA OP41TTW 
+Marca del Polvo 
+ 
+ConsumableInsert NO NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW404.23: SOLID 
+QW 404.24: NO 
+QW 404.27: NO 
+BOHLER NiMo1-IG 
+QW-404.10: NO 
+QW 404.24: NO 
+QW-404.27: NO 
+QW 404.36: NO 
+OERLIKON OE-SD3 1Ni ½ Mo 
+ 
+ 
+ 
+ 
+
+[page 6]
+ 
+W.P.S. Nº L-1950101-01 
+ 
+Rev. 0 
+ 
+Date 
+ 
+20/07/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+2G (1st & 2nd GMAW) TemperatureRange ºC 610ºC ± 10ºC 
+Posicion del chaflan 1G (SAW) Tem peratura
+ 
+Welding Progression 
+ 
+NA Time Range (mm) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+Posicion del Angulo 
+ 
+NA 
+ 
+ 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+GAS 
+GAS (QW-408)
+ 
+ 
+PreheatTemp. Min. ºC 
+ 
+100 
+ 
+ PercentComposition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) FlowRate/Caudal 
+ 
+InterpassTemp Max. ºC 
+ 
+250 Shielding SG-AC-18(GMAW) 18%CO2+82%Ar 15 ÷ 25 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+PreheatMaintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+Slow cooling under refractory blankets Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE 
+ 
+Polarity 
+ 
+ ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+NA 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE 
+ 
+Volts (Range) 
+ 
+ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SHORT ARC (1st GMAW) 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW SPRAY (2 nd GMAW) 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead 
+ 
+ STRING Contact Tube to Work Distance (mm) 
+ 
+>38 (SAW) 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) 
+ 
+>18 (GMAW) Multiple or SinglePass (per side) 
+ 
+MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning 
+ 
+BRUSH and/or GRIND Multiple or Single Electrodes 
+ 
+SINGLE 
+Limpiezainicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging 
+ 
+NA Travel Speed (Range) (cm/mn) 
+ 
+ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) 
+ 
+NO (SAW) Peening 
+ 
+NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes 
+ 
+NA Closed to out chamber 
+ 
+NA 
+Uso de procesostérmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+ 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 
+ 
+GMAW 
+ 
+BOHLER NiMo 1-IG 1 DCE+ 110 ÷ 120 
+ 
+17 ÷ 18 10 ÷ 15 7.5 ÷ 13.0 
+ 
+2 
+ 
+GMAW 
+ 
+BOHLER NiMo 1-IG 1 DCE+ 210 ÷ 220 
+ 
+28 ÷ 30 10 ÷ 25 14.1 ÷ 18.0 
+3 ÷ N 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 4 DCE+ 420 ÷ 425 
+ 
+27 ÷ 30 65 ÷ 70 9.7 ÷ 11.8 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approvedby 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 7]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-02 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+20/07/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0543 + LP-0448 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW + SAW 
+ 
+TYPE(S) 
+ 
+MANUAL + MACHINE 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Shell - Tubesheet Ci rcumferential Weld 
+ 
+ Tubesheet - Channel Circumferential Weld 
+ 
+ Channel – Nozzle M 
+ 
+ 
+ 
+JointsDesing 
+ 
+ACC/DRAWINGS 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+GTAW: NO; SAW: YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metálico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+3 
+ 
+G.Nº. 3 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+16÷Without limit * Fillet NA 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA533 GrB Cl2; Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado SA508 Gr3 Cl1 Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros WITHOUT IMPACT REQUIREMENTS: * 5÷Without limit 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+ 
+SAW 
+ 
+ 
+ 
+Spec. Nº (SFA) 5.28 5.23 
+Espec. Nº. 
+ 
+AWS No (Class) ER90S-G EF3/EG 
+ 
+F-Nº. 6 6 
+ 
+A-Nº. 10 10 
+ 
+Size of Filler Metals (mm)  2.4 Ø 4 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - - 
+Metal Depositado 
+ 
+Thickness range - - 
+ Margenespesor 
+ 
+Groove ≤ 20 ≤ 200 
+ Chaflán 
+ 
+Fillet ALL ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA F9P8-EF3/EG-F3 
+Electrodo-Polvo (Clase) 
+ 
+Flux TradeName NA OP41TTW 
+Marca del Polvo 
+ 
+ConsumableInsert NO NO 
+Anillos consumibles 
+ 
+ 
+Other 
+Otros 
+QW-404.23: SOLID 
+QW-404.22: NO 
+QW-404.50: NO 
+BOEHLER NiMo1-IG 
+QW-404.10: NO 
+QW 404.24: NO 
+QW-404.27: NO 
+QW 404.36: NO 
+OERLIKON OE-SD3 1Ni ½ Mo 
+ 
+
+[page 8]
+ 
+ 
+W.P.S. Nº L-1950101-02 
+ 
+Rev. 0 
+ 
+Date 
+ 
+20/07/17 
+Fecha 
+ 
+POSITIONS 
+POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+ALL (GTAW) TemperatureRange ºC 610ºC ± 10ºC 
+Posición del chaflán 1G (SAW) Temperatura 
+ 
+Welding Progression 
+ 
+UPHILL (GTAW) Time Range (mm) 90 min 
+Avance del Soldeo NA (SAW) Tiempo 
+ 
+Position(s) of Fillet 
+ 
+ALL 
+ 
+Posición del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+PreheatTemp. Min. ºC 
+ 
+125 (GTAW) 
+ 
+ PercentComposition / Composición en % 
+Temperatura precalentamiento mínima 145 (SAW) Gas (es) (Mixture)/(Mezcla) FlowRate/Caudal 
+ 
+InterpassTemp Max. ºC 
+ 
+300 Shielding Ar (GTAW) 99.99 % 10 ÷ 16 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+PreheatMaintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+Slow cooling under refractory blankets Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+DC * Polarity 
+ 
+ ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWTh 2% ; Ø 2.4; 3.2 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+NA 
+Amp. (Rango) Volt. (Rango) Transferenciapara GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+*Pulsing Current: NO Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead STRING Contact Tube to Work Distance (mm) >38 (SAW) 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >10 (GTAW) Multiple or SinglePass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpiezainicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging ARC AIR &/or GINDING Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz (if necessary) Velocidad (Rango) 
+ 
+Oscilation (mm) NO (SAW) Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ n 
+ 
+GTAW 
+ 
+BOEHLER NiMo1-IG 2.4 DCE- 145 ÷ 220 10 ÷ 14 
+ 
+3.8 ÷ 9 13.0 ÷ 29.4 
+ 
+n+1 ÷ N 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 4 DCE+ 450 ÷ 570 27 ÷ 30 
+ 
+50 ÷ 55 13.3 ÷ 20.5 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+I. URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approvedby 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 9]
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-03 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+20/07/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0619 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW 
+ 
+TYPE(S) 
+ 
+MACHINE 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ 
+ Tube – Tubesheet weld 
+ 
+ 
+ 
+Joints Desing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 to P.Nº. 
+ 
+1 
+ 
+G.Nº. 1 Thickness Range (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA508 Gr3 Cl1 
+ 
+ Base Metal 
+ 
+ Groove 
+ 
+NA 
+ 
+Fillet TUBE: 
+Especificación tipo y grado 
+ 
+ Metal base Chaflan Angulo 1.485 ÷ 1.815 
+ 
+To specification type and SA 210 A1 
+ 
+ Pipe Dia. Range(mm)
+ 
+ Groove 
+ 
+NA 
+ 
+Fillet TUBE: 
+A especificación tipo y grado Rango Dia. Tubo Chaflan Angulo Ø ≥ 14.29 mm 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II-A 
+Composición química y propiedades mecánica Ligament ≥ 4.29 mm 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II-A Ligamento 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+ 
+Spec. Nº (SFA) 5.18 
+Espec. Nº. 
+ 
+AWS No (Class) ER70S-6 
+ 
+F-Nº. 6 
+ 
+A-Nº. 1 
+ 
+Size of Filler Metals (mm)  0.80 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margen espesor 
+ 
+Groove - 
+ Chaflan 
+ 
+Fillet - 
+ Angulo 
+ 
+Electrode-Flux (Class) NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA 
+Marca del Polvo 
+ 
+Consumable Insert NA 
+Anillos consumibles 
+ 
+Other Carbofil 1 
+Otros 
+ 
+
+[page 10]
+ 
+W.P.S. Nº L-1950101-03 
+ 
+Rev. 0 
+ 
+Date 
+ 
+20/07/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+NA Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan 
+ 
+Welding Progression 
+Avance del Sondeo 
+ 
+ 
+CLOCK WISE 
+ 
+Temperatura 
+ 
+Time Range (mm) 
+Tiempo 
+ 
+ 
+90 min 
+ 
+Position(s) of Fillet 
+ 
+5F 
+Posicion del Angulo 
+ 
+ 
+ 
+ 
+ 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+150 
+ 
+ Percent Composition / Composición en % 
+Temperatura precalentamiento minima Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+250 Shielding Ar 
+ 
+99.99% 10 ÷ 16 l/min 
+Temperatura entrepasadas maxima Gas(es) de protección 
+ 
+Preheat Maintenance 
+ 
+YES Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE 
+ 
+Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWCe-2  2.4 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE 
+ 
+Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+NA 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+NA 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+Tube expansion prior to welding 
+Expansionado previo a soldadura 
+ 
+NO 
+ 
+ 
+String or Weave Bead 
+ 
+STRAIGHT Contact Tube to Work Distance (mm) 
+ 
+≤ 6 mm 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) 
+ 
+>10 Multiple or Single Pass (per side) 
+ 
+MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning 
+ 
+BRUSH and/or GRIND Multiple or Single Electrodes 
+ 
+SINGLE 
+Limpieza inicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging 
+Metodo de escarnado de raiz 
+ 
+NA Travel Speed (Range) (cm/mn) 
+Velocidad (Rango) 
+ACC/TABLE 
+ 
+ 
+Oscilation (mm) 
+ 
+NO Peening 
+ 
+NO 
+Oscilacion Martilleado 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/min) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+Heat Input 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1º 
+ 
+GTAW 
+ 
+ER70S-6 0.80 DIRECTA (E-) 75 ÷ 135 
+ 
+9 ÷ 11 
+ 
+7 ÷ 9 4.5 ÷ 12.7 
+ 
+2º 
+ 
+GTAW 
+ 
+ER70S-6 0.80 DIRECTA (E-) 75 ÷ 135 
+ 
+10 ÷ 12 
+ 
+9 ÷ 10 4.5 ÷ 10.8 
+ 
+ 
+Made by 
+ 
+WELDING DPT. 
+ 
+Date 20/07/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Fecha Firma 
+ 
+Checked by WELDING ENGINEER 
+ 
+Date 20/07/17 
+ 
+Signed 
+ 
+Revisado por Fecha Firna P.MIRANDA 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+ 
+
+[page 11]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-04 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+20/07/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0415 + LP-0596 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW + FCAW 
+ 
+TYPE(S) 
+ 
+MANUAL + SEMIAUTOMATIC 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Shell – Nozzle S1 & S2 
+ 
+ Channel – Nozzle T1 & T2 
+ 
+ Channel Head– Partition Plate 
+ 
+ Tubesheet – Partition Plate 
+ 
+Joints Desing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+GTAW: NO; FCAW: YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+1 
+ 
+G.Nº. 2 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+16 ÷ Without limit Fillet NA 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA106 GrC; SA516 Gr70 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+FCAW 
+ 
+Spec. Nº (SFA) 5.28 5.36 
+Espec. Nº. 
+ 
+AWS No (Class) ER80S-G E81T-M21AP8-Ni1-H4 
+ 
+ 
+ 
+F-Nº. 6 6 
+ 
+A-Nº. 2 
+ 
+10 
+ 
+Size of Filler Metals (mm)  2.4  1.2 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - - 
+Metal Depositado 
+ 
+Thickness range - - 
+ Margen espesor 
+ 
+Groove ≤ 8 ≤ 200 
+ Chaflan 
+ 
+Fillet ALL ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA NA 
+Marca del Polvo 
+ 
+Consumable Insert NO NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW-404.22: NO 
+QW-404.23: SOLID 
+QW-404.50: NO 
+QW404.23: FLUX CORED 
+QW-404.24: NO 
+QW-404.27: NA 
+ 
+ UNION IMo BOHLER Ti 60 T-FD SR 
+
+[page 12]
+ 
+ 
+W.P.S. Nº L-1950101-04 
+ 
+Rev. 0 
+ 
+Date 
+ 
+20/07/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+1G Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan Temperatura 
+ 
+ 
+Welding Progression 
+ 
+NA Time Range (min) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+1F 
+ 
+Posicion del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+145 (GTAW) Percent Composition / Composición en % 
+Temperatura precalentamiento mínima 125 (FCAW) Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+300 Shielding SG-A (GTAW) 99.99 % 10 ÷ 16 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección SG-AC-18 (FCAW) (Ar82%+CO218%) 15 ÷ 25 l/min 
+ 
+Preheat Maintenance 
+ 
+NO Trailing 
+ 
+Mantenimiento del precalentamiento Gas protección secundario NO 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing 
+ 
+ 
+Postcalentamiento Gas soporte NO 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+DC * Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWTh 2% ; Ø 2.4; 3.2 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SPRAY (FCAW) 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+*Pulsing Current: NO Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead BOTH Contact Tube to Work Distance (mm) 15 ÷ 25 (FCAW) 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >10 (GTAW); >18 (FCAW) Multiple or Single Pass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpieza inicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging ARC AIR &/or GINDING Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz (if necessary) Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 
+ 
+GTAW 
+ 
+ER80S-G 2.4 DCE- 140 ÷ 200 9 ÷ 10 
+ 
+6 ÷ 10 7.6 ÷ 20.0 
+ 
+2 ÷ N 
+ 
+FCAW 
+ 
+E81T-M21AP8-Ni1-H4 1.2 DCE+ 170 ÷ 245 23 ÷ 27 
+ 
+23 ÷ 30 7.8 ÷ 17.3 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 13]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-05 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+20/07/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0596 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+FCAW 
+ 
+TYPE(S) 
+ 
+SEMIAUTOMATIC 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Shell – Nozzle S1 & S2 
+ 
+ Channel – Nozzle T1 & T2 
+ 
+ 
+ 
+ 
+ 
+ 
+Joints Desing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+1 
+ 
+G.Nº. 2 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+16 ÷ Without limit Fillet NA 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA106 GrC Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+FCAW 
+ 
+Spec. Nº (SFA) 5.36 
+Espec. Nº. 
+ 
+AWS No (Class) E81T-M21AP8-Ni1-H4 
+ 
+ 
+ 
+F-Nº. 6 
+ 
+A-Nº. 10 
+ 
+Size of Filler Metals (mm)  1.2 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margen espesor 
+ 
+Groove ≤ 200 
+ Chaflan 
+ 
+Fillet ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA 
+Marca del Polvo 
+ 
+Consumable Insert NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW404.23: FLUX CORED 
+QW-404.24: NO 
+QW-404.27: NA 
+ 
+ BOHLER Ti 60 T-FD SR 
+ 
+
+[page 14]
+ 
+W.P.S. Nº L-1950101-05 
+ 
+Rev. 0 
+ 
+Date 
+ 
+20/07/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+1G Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan Temperatura 
+ 
+ 
+Welding Progression 
+ 
+NA Time Range (min) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+1F, 2F 
+ 
+Posicion del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+125 
+ 
+ Percent Composition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+300 Shielding 
+Temperatura entrepasadas máxima Gas(es) de protección SG-AC-18 (FCAW) Ar82%+CO218% 15 ÷ 25 l/min 
+ 
+Preheat Maintenance 
+ 
+NO Trailing 
+ 
+Mantenimiento del precalentamiento Gas protección secundario NO 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing 
+ 
+ 
+Postcalentamiento Gas soporte NO 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+NA 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SPRAY 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead BOTH Contact Tube to Work Distance (mm) 15 ÷ 25 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >18 Multiple or Single Pass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpieza inicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging ARC AIR &/or GINDING Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ N 
+ 
+FCAW 
+ 
+E81T-M21AP8-Ni1-H4 1.2 DCE+ 170 ÷ 245 23 ÷ 27 
+ 
+23 ÷ 30 7.8 ÷ 17.3 
+ 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 15]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-06 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+20/07/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0448 + LP-0401 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW + FCAW 
+ 
+TYPE(S) 
+ 
+MANUAL + SEMIAUTOMATIC 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Channel – Nozzle M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joints Desing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+GTAW: NO; FCAW: YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+3 
+ 
+G.Nº. 3 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+16 ÷ Without limit Fillet NA 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA508 Gr3 Cl1 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+FCAW 
+ 
+Spec. Nº (SFA) 5.28 5.36 
+Espec. Nº. 
+ 
+AWS No (Class) ER90S-G E90T5-M21A0-GH4 
+ 
+F-Nº. 6 6 
+ 
+A-Nº. 2 
+ 
+10 
+ 
+Size of Filler Metals (mm)  2.4  1.2 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - - 
+Metal Depositado 
+ 
+Thickness range - - 
+ Margen espesor 
+ 
+Groove ≤ 8 ≤ 200 
+ Chaflan 
+ 
+Fillet ALL ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA NA 
+Marca del Polvo 
+ 
+Consumable Insert NO NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW-404.22: NO 
+QW-404.23: SOLID 
+QW-404.50: NO 
+QW404.23: FLUX CORED 
+QW-404.24: NO 
+QW-404.27: NA 
+ 
+ BOEHLER NiMo1-IG OERLIKON FLUXOFIL 41 
+ 
+
+[page 16]
+ 
+W.P.S. Nº L-1950101-06 
+ 
+Rev. 0 
+ 
+Date 
+ 
+20/07/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+1G Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan Temperatura 
+ 
+ 
+Welding Progression 
+ 
+NA Time Range (min) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+1F 
+ 
+Posicion del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+145 (GTAW, FCAW) 
+ 
+ Percent Composition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+300 Shielding SG-A (GTAW) 99.99 % 10 ÷ 16 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección SG-AC-18 (FCAW) Ar82%+CO218% 15 ÷ 25 l/min 
+ 
+Preheat Maintenance 
+ 
+NO Trailing 
+ 
+Mantenimiento del precalentamiento Gas protección secundario NO 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing 
+ 
+ 
+Postcalentamiento Gas soporte NO 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+DC * Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWTh 2% ; Ø 2.4; 3.2 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SPRAY (FCAW) 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+*Pulsing Current: NO Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead BOTH Contact Tube to Work Distance (mm) 15 ÷ 25 (FCAW) 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >10 (GTAW); >18 (FCAW) Multiple or Single Pass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpieza inicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging ARC AIR &/or GINDING Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz (if necessary) Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 
+ 
+GTAW 
+ 
+ER90S-G 2.4 DCE- 135 ÷ 210 9 ÷ 11 
+ 
+6 ÷ 10 < 13.9 
+ 
+2 ÷ N 
+ 
+FCAW 
+ 
+E90T5-M21A0-GH4 1.2 DCE+ 250 ÷ 300 28 ÷ 30 
+ 
+18 ÷ 35 12.0 ÷ 30.0 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 17]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-07 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+20/07/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0785 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW 
+ 
+TYPE(S) 
+ 
+MANUAL 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Channel Nozzle M - Gasket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joints Desing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+1 
+ 
+G.Nº. 1 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA508 Gr3 Cl1 Base Metal Groove 
+ 
+NA 
+ 
+Fillet P3: 16÷Without limit 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+P1: 8 ÷ 16 
+ 
+ 
+To specification type and grade 
+ 
+SA285 GrC Maximum Pass Thickness ≤ 13mm 
+ 
+Yes No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+Spec. Nº (SFA) 5.18 
+Espec. Nº. 
+ 
+AWS No (Class) ER70S-6 
+ 
+F-Nº. 6 
+ 
+A-Nº. 1 
+ 
+ 
+ 
+Size of Filler Metals (mm)  2.4 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margen espesor 
+ 
+Groove NA 
+ Chaflan 
+ 
+Fillet ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA 
+Marca del Polvo 
+ 
+Consumable Insert NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW-404.22: NO 
+QW-404.23: SOLID 
+QW-404.50: NO 
+ 
+ 
+ 
+
+[page 18]
+ 
+W.P.S. Nº L-1950101-07 
+ 
+Rev. 0 
+ 
+Date 
+ 
+20/07/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+NA Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan Temperatura 
+ 
+ 
+Welding Progression 
+ 
+UPHILL Time Range (min) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+ALL 
+ 
+Posicion del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+100 (P3.3) 
+ 
+ Percent Composition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+300 Shielding SG-A (GTAW) 
+ 
+99.99 % 10 ÷ 16 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+Preheat Maintenance 
+ 
+NO Trailing NO 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+DC * Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWTh 2% ; Ø 2.4; 3.2 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+NA 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+NA 
+*Pulsing Current: NO Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead BOTH Contact Tube to Work Distance (mm) NA 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >10 (GTAW) Multiple or Single Pass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpieza inicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging NA Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ N 
+ 
+GTAW 
+ 
+ER70S-6 2.4 DCE- 140 ÷ 225 9 ÷ 12 
+ 
+6 ÷ 10 7.6 ÷ 27.0 
+ 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+20/07/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 19]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-08 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+1 
+ 
+DATE 
+ 
+17/10/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0776 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW + FCAW 
+ 
+TYPE(S) 
+ 
+MANUAL + SEMIAUTOMATIC 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Channel Nozzle M - Gasket 
+ 
+ Tubesheet – Longitudinal Baffle 
+ 
+ 
+ 
+ 
+Joints Desing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+GTAW: NO; FCAW: YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+1 
+ 
+G.Nº. 1 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA508 Gr3 Cl1 Base Metal Groove P3: 16÷Without limit 
+ 
+Fillet P3:16÷Without limit 
+Especificación tipo y grado Metal base Chaflan P1: 12 ÷ 24 Angulo 
+ 
+P1: 12 ÷ 24 
+ 
+ 
+To specification type and grade 
+ 
+SA285 GrC Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+FCAW 
+ 
+Spec. Nº (SFA) 5.18 5.36 
+Espec. Nº. 
+ 
+AWS No (Class) ER70S-6 E71T1-M21AP6-CS2-H4 
+ 
+F-Nº. 6 6 
+ 
+A-Nº. 1 
+ 
+1 
+ 
+Size of Filler Metals (mm)  2.4  1.2 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - - 
+Metal Depositado 
+ 
+Thickness range - - 
+ Margen espesor 
+ 
+Groove ≤ 8 ≤ 16 
+ Chaflan 
+ 
+Fillet ALL ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA NA 
+Marca del Polvo 
+ 
+Consumable Insert NO NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW-404.22: NO 
+QW-404.23: SOLID 
+QW-404.50: NO 
+QW404.23: FLUX CORED 
+QW-404.24: NO 
+QW-404.27: NA 
+ 
+ 
+
+[page 20]
+ 
+W.P.S. Nº L-1950101-08 
+ 
+Rev. 1 
+ 
+Date 
+ 
+17/10/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+ALL Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan Temperatura 
+ 
+ 
+Welding Progression 
+ 
+3G: UPHILL Time Range (min) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+ALL 
+ 
+Posicion del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+150 (P3.3) 
+ 
+ Percent Composition / Composición en % 
+Temperatura precalentamiento mínima 20 (P1.1) Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+300 Shielding SG-A (GTAW) 99.99 % 10 ÷ 16 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección SG-AC-18 (FCAW) Ar82%+CO218% 15 ÷ 25 l/min 
+ 
+Preheat Maintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+DC * Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWTh 2% ; Ø 2.4; 3.2 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SPRAY (FCAW) 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+*Pulsing Current: NO Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead BOTH Contact Tube to Work Distance (mm) 15 ÷ 25 (FCAW) 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >10 (GTAW); >18 (FCAW) Multiple or Single Pass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpieza inicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging NA Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 
+ 
+GTAW 
+ 
+ER70S-6 2.4 DCE- 125 ÷ 180 10 ÷ 14 
+ 
+6 ÷ 6.3 12.5 ÷ 24.0 
+ 
+2 ÷ N 
+ 
+FCAW 
+ 
+E71T1-M21AP6-CS2-H4 1.2 DCE+ 160 ÷ 190 23 ÷ 25 
+ 
+25 ÷ 30 7.0 ÷ 11.3 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+17/10/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+17/10/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 21]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-09 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+1 
+ 
+DATE 
+ 
+18/10/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0770 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+FCAW 
+ 
+TYPE(S) 
+ 
+SEMIAUTOMATIC 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Shell - Support Paddle 
+ 
+ Support Paddle Longitudinal Weld 
+ 
+ 
+ 
+ 
+ 
+ 
+Joints Desing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+3 
+ 
+G.Nº. 3 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+13 ÷ 26 Fillet 13 ÷ 26 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA533 GrB Cl2 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+FCAW 
+ 
+Spec. Nº (SFA) 5.36 
+Espec. Nº. 
+ 
+AWS No (Class) E91T1-G 
+ 
+F-Nº. 6 
+ 
+A-Nº. 10 
+ 
+Size of Filler Metals (mm)  1.2 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margen espesor 
+ 
+Groove ≤ 18 
+ Chaflan 
+ 
+Fillet ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA 
+Marca del Polvo 
+ 
+Consumable Insert NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW404.23: FLUX CORED 
+QW-404.24: NO 
+QW-404.27: NA 
+ 
+ OUTERSHIELD 91Ni1 HSR 
+ 
+
+[page 22]
+ 
+W.P.S. Nº L-1950101-09 
+ 
+Rev. 1 
+ 
+Date 
+ 
+18/10/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+ALL Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan Temperatura 
+ 
+ 
+Welding Progression 
+ 
+3G: UPHILL Time Range (min) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+ALL 
+ 
+Posicion del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+100 Percent Composition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+250 Shielding SG-AC-18 
+ 
+Ar82%+CO218% 15 ÷ 25 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+Preheat Maintenance 
+ 
+NO Trailing NO 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+NA 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SPRAY 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead BOTH Contact Tube to Work Distance (mm) 15 ÷ 25 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >18 Multiple or Single Pass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH &/or GRIND Multiple or Single Electrodes SINGLE 
+Limpieza inicial y entrepasadas 
+ 
+Nº de electrodos 
+ 
+Method of Back Gouging 
+ARC AIR &/or GRIND Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz (if necessary) Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ N 
+ 
+FCAW 
+ 
+E91T1-G 1.2 DCE+ 165 ÷ 170 22 ÷ 23 
+ 
+16 ÷ 30 7.3 ÷ 14.7 
+ 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 23]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-10 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+1 
+ 
+DATE 
+ 
+18/10/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0769 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+SAW 
+ 
+TYPE(S) 
+ 
+MACHINE 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ 
+ Shell – Support Paddle Weld 
+ 
+ Shell – External Ring Weld 
+ 
+ 
+ 
+ 
+ 
+JointsDesing 
+ 
+ACC/DRAWINGS 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metálico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+3 
+ 
+G.Nº. 3 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+NA Fillet 13 ÷ 26 * 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA533 GrB Cl2 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros WITHOUT IMPACT REQUIREMENTS: * ALL 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+SAW 
+ 
+ 
+ 
+Spec. Nº (SFA) 5.23 
+Espec. Nº. 
+ 
+AWS No (Class) EF3/EG 
+ 
+F-Nº. 6 
+ 
+A-Nº. 10 
+ 
+Size of Filler Metals (mm) Ø 2.4; 4 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margenespesor 
+ 
+Groove NA 
+ Chaflán 
+ 
+Fillet ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) F9P8-EF3/EG-F3 
+Electrodo-Polvo (Clase) 
+ 
+Flux TradeName OP41TTW 
+Marca del Polvo 
+ 
+ConsumableInsert NO 
+Anillos consumibles 
+Other 
+Otros 
+QW-404.10: NO 
+QW 404.24: NO 
+QW-404.27: NO 
+QW 404.36: NO 
+OERLIKON OE-SD3 1Ni ½ Mo
+ 
+
+[page 24]
+ 
+ 
+W.P.S. Nº L-1950101-10 
+ 
+Rev. 1 
+ 
+Date 
+ 
+18/10/17 
+Fecha 
+ 
+POSITIONS 
+POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+NA TemperatureRange ºC 610ºC ± 10ºC 
+Posición del chaflán Temperatura 
+ 
+Welding Progression 
+ 
+NA Time Range (mm) 90 min 
+Avance del Soldeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+1F, 2F 
+ 
+Posición del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+PreheatTemp. Min. ºC 
+ 
+100 
+ 
+ PercentComposition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) FlowRate/Caudal 
+ 
+InterpassTemp Max. ºC 
+ 
+250 Shielding NO 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+PreheatMaintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+Slow cooling under refractory blankets Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE Polarity 
+ 
+ ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+NA 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+NA 
+Amp. (Rango) Volt. (Rango) Transferenciapara GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+NA 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead STRING Contact Tube to Work Distance (mm) >38 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) NA Multiple or SinglePass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpiezainicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging NA Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) NO Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+1 ÷ N or 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 2.4 DCE+ 300 ÷ 350 28 ÷ 30 
+ 
+45 ÷ 70 7.2 ÷ 14.0 
+1 ÷ N 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 4 DCE+ 420 ÷ 525 28 ÷ 29 
+ 
+65 ÷ 70 10.1 ÷ 14.0 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+I. URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approvedby 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 25]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-11 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+1 
+ 
+DATE 
+ 
+18/10/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0801 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW 
+ 
+TYPE(S) 
+ 
+MANUAL 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Channel Head – Handle & Stairs 
+ 
+ Tubesheet – Internal Round 
+ 
+ 
+ 
+ 
+Joints Desing 
+ 
+ACC/ DRAWINGS 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+NC 
+ 
+G.Nº. - ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533GrBCl2 Base Metal Groove P3: 16÷Without limit 
+ 
+Fillet P3:16÷Without limit 
+Especificación tipo y grado Metal base Chaflan P1: 10 ÷ 20 Angulo 
+ 
+P1: 10 ÷ 20
+ 
+ 
+To specification type and grade 
+ 
+SA275JR Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+ 
+ 
+Spec. Nº (SFA) 5.18 
+Espec. Nº. 
+ 
+AWS No (Class) ER70S-6 
+ 
+F-Nº. 6 
+ 
+A-Nº. 1 
+ 
+Size of Filler Metals (mm) 
+ 
+ 2.4 
+ 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margen espesor 
+ 
+Groove ≤ 20 
+ Chaflan 
+ 
+Fillet ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux Trade Name NA 
+Marca del Polvo 
+ 
+Consumable Insert NO 
+Anillos consumibles 
+ 
+Other QW-404.23:SOLID 
+Otros QW-404.22:NO 
+QW-404.50: NO 
+ 
+ 
+ 
+
+[page 26]
+ 
+W.P.S. Nº L-1950101-11 
+ 
+Rev. 1 
+ 
+Date 
+ 
+18/10/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+ALL Temperature Range ºC 610ºC ± 10ºC 
+Posicion del chaflan Temperatura 
+ 
+Welding Progression 
+ 
+3G: UPHILL Time Range (mm) 90 min 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+ALL 
+ 
+Posicion del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+Preheat Temp. Min. ºC 
+ 
+100 (P3.3) 
+ 
+ Percent Composition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) Flow Rate/Caudal 
+ 
+Interpass Temp Max. ºC 
+ 
+300 Shielding SG-A 
+ 
+99.99 % 10 ÷ 16 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+Preheat Maintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+ NO Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+DC * Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWTh 2% ; Ø 2.4; 3.2 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+NA 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+*Pulsing Current: NO Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead STRING Contact Tube to Work Distance (mm) 
+ 
+NA 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >10 mm Multiple or Single Pass (per side) 
+ 
+MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes 
+ 
+SINGLE 
+Limpieza inicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging NA Travel Speed (Range) (cm/mn) 
+ 
+ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening 
+ 
+NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber 
+ 
+NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ N 
+ 
+GTAW 
+ 
+ER70S-6 2.4 DC E- 140 ÷ 230 
+ 
+10 ÷ 14 
+ 
+4 ÷ 8.6 14.6 ÷ 29.4 
+ 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 27]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-12 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+1 
+ 
+DATE 
+ 
+18/10/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0769 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GMAW + SAW 
+ 
+TYPE(S) 
+ 
+SEMIAUTOMATIC + MACHINE 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ Shell Longitudinal Welds 
+ 
+ Shell Circumferential Welds 
+ 
+ Head – Shell Circumferential Weld 
+ 
+JointsDesing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+GMAW(1st pass):NO; OTHERS:YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metalico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+3 
+ 
+G.Nº. 3 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+13 ÷ 26 * Fillet 13 ÷ 26 ** 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA533 GrB Cl2 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros WITHOUT IMPACT REQUIREMENTS: *5 ÷ 26; **ALL 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GMAW 
+ 
+ 
+SAW 
+ 
+ 
+ 
+ 
+Spec. Nº (SFA) 5.28 5.23 
+Espec. Nº. 
+ 
+AWS No (Class) ER90S-G EF3/EG 
+ 
+F-Nº. 6 6 
+ 
+A-Nº. 10 10 
+ 
+Size of Filler Metals (mm) Ø 1 Ø 2.4; 4 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - - 
+Metal Depositado 
+ 
+Thickness range - - 
+ Margenespesor 
+ 
+Groove ≤ 6.2 (SHORT ARC≤ 2.2) ≤ 18 
+ Chaflan (SPRAY ≤ 4) 
+ 
+Fillet ALL ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA F9P8-EF3/EG-F3 
+Electrodo-Polvo (Clase) 
+ 
+Flux TradeName NA OP41TTW 
+Marca del Polvo 
+ 
+ConsumableInsert NO NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW404.23: SOLID 
+QW 404.24: NO 
+QW 404.27: NO 
+BOHLER NiMo1-IG 
+QW-404.10: NO 
+QW 404.24: NO 
+QW-404.27: NO 
+QW 404.36: NO 
+OERLIKON OE-SD3 1Ni ½ Mo 
+ 
+ 
+ 
+ 
+
+[page 28]
+ 
+W.P.S. Nº L-1950101-12 
+ 
+Rev. 1 
+ 
+Date 
+ 
+18/10/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+Longitudinals: 2G (1st & 2nd GMAW) TemperatureRange ºC 610ºC ± 10ºC 
+Posicion del chaflan 
+ 
+Circumferentials 3G (1st GMAW) 
+1G (2nd GMAW) (SAW) 
+Temperatura 
+ 
+Welding Progression 
+ 
+DOWNHILL: 3G (1st GMAW) Time Range (mm) 90 min 
+Avance del Sondeo NA (OTHERS) Tiempo 
+ 
+Position(s) of Fillet 
+Posicion del Angulo 
+ 
+NA 
+ 
+ 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+PreheatTemp. Min. ºC 
+ 
+100 
+ 
+ PercentComposition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) FlowRate/Caudal 
+ 
+InterpassTemp Max. ºC 
+ 
+250 Shielding SG-AC-18(GMAW) 18%CO2+82%Ar 15 ÷ 25 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+PreheatMaintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+Slow cooling under refractory blankets Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE 
+ 
+Polarity 
+ 
+ ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+NA 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE 
+ 
+Volts (Range) 
+ 
+ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SHORT ARC (1ST GMAW) 
+Amp. (Rango) Volt. (Rango) Transferencia para GMAW SPRAY (2 nd GMAW) 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead 
+ 
+ STRING Contact Tube to Work Distance (mm) 
+ 
+>38 (SAW) 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) 
+ 
+>18 (GMAW) Multiple or SinglePass (per side) 
+ 
+MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning 
+ 
+BRUSH and/or GRIND Multiple or Single Electrodes 
+ 
+SINGLE 
+Limpiezainicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging 
+ 
+NA Travel Speed (Range) (cm/mn) 
+ 
+ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) 
+ 
+NO (SAW) Peening 
+ 
+NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes 
+ 
+NA Closed to out chamber 
+ 
+NA 
+Uso de procesostérmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+ 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 
+ 
+GMAW 
+ 
+BOHLER NiMo 1-IG 1 DCE+ 90 ÷ 110 
+ 
+18 ÷ 21 7 ÷ 15 6.5 ÷ 19.8 
+ 
+2 
+ 
+GMAW 
+ 
+BOHLER NiMo 1-IG 1 DCE+ 150 ÷ 155 
+ 
+20 ÷ 23 27 ÷ 30 6.9 ÷ 7.9 
+3 ÷ N or 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 2.4 DCE+ 300 ÷ 350 
+ 
+28 ÷ 30 45 ÷ 70 7.2 ÷ 14.0 
+3 ÷ N 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 4 DCE+ 420 ÷ 525 
+ 
+28 ÷ 29 65 ÷ 70 10.1 ÷ 14.0 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approvedby 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 29]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-13 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+1 
+ 
+DATE 
+ 
+18/10/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0770 + LP-0769 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+GTAW + SAW 
+ 
+TYPE(S) 
+ 
+MANUAL + MACHINE 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ 
+ 
+ Head - Shell Circumferential Weld 
+ 
+ 
+ 
+ 
+ 
+JointsDesing 
+ 
+ACC/DRAWINGS 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+GTAW: NO; SAW: YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metálico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+3 
+ 
+G.Nº. 3 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+13 ÷ 26 * Fillet 13 ÷ 26 ** 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA533 GrB Cl2 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros WITHOUT IMPACT REQUIREMENTS: * 5÷26; **ALL 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+GTAW 
+ 
+ 
+SAW 
+ 
+ 
+ 
+Spec. Nº (SFA) 5.28 5.23 
+Espec. Nº. 
+ 
+AWS No (Class) ER90S-G EF3/EG 
+ 
+F-Nº. 6 6 
+ 
+A-Nº. 10 10 
+ 
+Size of Filler Metals (mm)  2.4 Ø 2.4; 4 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - - 
+Metal Depositado 
+ 
+Thickness range - - 
+ Margenespesor 
+ 
+Groove ≤ 8 ≤ 18 
+ Chaflán 
+ 
+Fillet ALL ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA F9P8-EF3/EG-F3 
+Electrodo-Polvo (Clase) 
+ 
+Flux TradeName NA OP41TTW 
+Marca del Polvo 
+ 
+ConsumableInsert NO NO 
+Anillos consumibles 
+ 
+ 
+Other 
+Otros 
+QW-404.23: SOLID 
+QW-404.22: NO 
+QW-404.50: NO 
+BOEHLER NiMo1-IG 
+QW-404.10: NO 
+QW 404.24: NO 
+QW-404.27: NO 
+QW 404.36: NO 
+OERLIKON OE-SD3 1Ni ½ Mo 
+ 
+
+[page 30]
+ 
+ 
+W.P.S. Nº L-1950101-13 
+ 
+Rev. 1 
+ 
+Date 
+ 
+18/10/17 
+Fecha 
+ 
+POSITIONS 
+POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+ALL (GTAW) TemperatureRange ºC 610ºC ± 10ºC 
+Posición del chaflán 1G (SAW) Temperatura 
+ 
+Welding Progression 
+ 
+UPHILL (GTAW) Time Range (mm) 90 min 
+Avance del Soldeo NA (SAW) Tiempo 
+ 
+Position(s) of Fillet 
+ 
+ALL 
+ 
+Posición del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+PreheatTemp. Min. ºC 
+ 
+100 (GTAW, SAW) 
+ 
+ PercentComposition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) FlowRate/Caudal 
+ 
+InterpassTemp Max. ºC 
+ 
+300 Shielding Ar (GTAW) 99.99 % 10 ÷ 16 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+PreheatMaintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+Slow cooling under refractory blankets Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+DC * Polarity 
+ 
+ ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+EWTh 2% ; Ø 2.4; 3.2 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+NA 
+Amp. (Rango) Volt. (Rango) Transferenciapara GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+*Pulsing Current: NO Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead STRING Contact Tube to Work Distance (mm) >38 (SAW) 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >10 (GTAW) Multiple or SinglePass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpiezainicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging ARC AIR &/or GINDING Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz (if necessary) Velocidad (Rango) 
+ 
+Oscilation (mm) NO (SAW) Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ n 
+ 
+GTAW 
+ 
+BOEHLER NiMo1-IG 2.4 DCE- 130 ÷ 190 10 ÷ 14 
+ 
+4.6 ÷ 9.8 11.6 ÷ 23.7 
+ 
+n+1 ÷ N or 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 2.4 DCE+ 300 ÷ 350 28 ÷ 30 
+ 
+45 ÷ 70 7.2 ÷ 14.0 
+ 
+n+1 ÷ N 
+ 
+SAW 
+ 
+OE-SD3 1Ni ½ Mo 4 DCE+ 420 ÷ 525 28 ÷ 29 
+ 
+65 ÷ 70 10.1 ÷ 14.0 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+I. URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+18/10/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approvedby 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 31]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-14 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+1 
+ 
+DATE 
+ 
+29/09/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0603 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+FCAW 
+ 
+TYPE(S) 
+ 
+SEMIAUTOMATIC 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ 
+ 
+ 
+ Shell – Nameplate Support Weld 
+ 
+ Nozzle M – Davit Support 
+ 
+ 
+ 
+ 
+ 
+JointsDesing 
+ 
+ACC/DRAWINGS 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/Metálico Nonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+3 
+ 
+G.Nº. 
+ 
+3 toP.Nº. 
+ 
+1 
+ 
+G.Nº. 2 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA533 GrB Cl2 Base Metal Groove 
+ 
+P3.3:16÷200* Fillet P3.3:16÷200** 
+Especificación tipo y grado Metal base Chaflan P1.2:1.5÷16 Angulo 
+ 
+P1.2:1.5÷16
+ 
+ 
+To specification type and grade 
+ 
+SA516 Gr70 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros WITHOUT IMPACT REQUIREMENTS: * 5÷200; **ALL 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+FCAW 
+ 
+ 
+ 
+Spec. Nº (SFA) 5.36 
+Espec. Nº. 
+ 
+AWS No (Class) E81T-M21AP8-Ni1-H4   
+ 
+F-Nº. 6 
+ 
+A-Nº. 10 
+ 
+Size of Filler Metals (mm)  1.2 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margenespesor 
+ 
+Groove ≤ 16 
+ Chaflán 
+ 
+Fillet ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux TradeName NA 
+Marca del Polvo 
+ 
+ConsumableInsert NO 
+Anillos consumibles 
+Other 
+Otros 
+QW-404.23: FLUX CORED 
+QW-404.24: NO 
+QW-404.27: NO 
+ 
+
+[page 32]
+ 
+ 
+W.P.S. Nº L-1950101-14 
+ 
+Rev. 1 
+ 
+Date 
+ 
+29/09/17 
+Fecha 
+ 
+POSITIONS 
+POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+1G TemperatureRange ºC 610ºC ± 10ºC 
+Posición del chaflán Temperatura 
+ 
+Welding Progression 
+ 
+NA Time Range (mm) 90 min 
+Avance del Soldeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+1F 
+ 
+Posición del Angulo 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+PreheatTemp. Min. ºC 
+ 
+180 (P3.3) 
+ 
+ PercentComposition / Composición en % 
+Temperatura precalentamiento mínima Gas (es) (Mixture)/(Mezcla) FlowRate/Caudal 
+ 
+InterpassTemp Max. ºC 
+ 
+300 Shielding 
+SG-AC-18 (FCAW) (Ar82%+CO218%) 15 ÷ 25 l/min 
+Temperatura entrepasadas máxima Gas(es) de protección 
+ 
+PreheatMaintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+ NO Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE Polarity 
+ 
+ ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+NA 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SPRAY 
+Amp. (Rango) Volt. (Rango) Transferenciapara GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+- 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead STRING Contact Tube to Work Distance (mm) 15 ÷ 25 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >18 Multiple or SinglePass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpiezainicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging NA Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesos térmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ N 
+ 
+FCAW 
+ 
+E81T-M21AP8-Ni1-H4 1.2 DCE+ 150 ÷ 225 22 ÷ 26 
+ 
+25 ÷ 50 4.0 ÷ 14.0 
+ 
+ 
+ 
+ 
+Made by Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+29/09/17 
+ 
+Signed 
+ 
+I. URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+29/09/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisado por Fecha Firna 
+ 
+Approvedby 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobado por 
+ 
+ Fecha Firma 
+ 
+
+[page 33]
+ 
+ 
+ 
+ 
+ 
+ 
+WELDING PROCEDURE SPECIFICATION 
+ 
+W.P.S.- 
+ 
+ 
+L-1950101-15 
+ESPECIFICACION DEL PROCESO DE SOLDADURA 
+ 
+REVISIONS 
+ 
+0 
+ 
+DATE 
+ 
+29/09/17 
+ 
+SUPPORTING PQR N.(S) 
+ 
+LP-0650 
+REVISIONES FECHA CUBIERTO PQR N.(S) 
+ 
+WELDING PROCESS(ES) 
+ 
+FCAW 
+ 
+TYPE(S) 
+ 
+SEMIAUTOMATIC 
+PROCESO(S) DE SOLDADURA TIPO(S) 
+ 
+JOINTS / UNIONES (QW-402) 
+ Manhole Cover – Davit Support 
+ 
+ Supports 
+ 
+ 
+ 
+ 
+ 
+JointsDesing 
+ 
+ACC/DRAWING 
+Diseño de Junta 
+ 
+Backing (Yes) (No) 
+ 
+YES 
+Soporte (Si) (No) 
+ 
+Backing Material (Type) 
+Material del Soporte  Metal/MetalicoNonfusing Metal/ Metal No Fundible 
+ Nonmetalic/No Metálico Other/Otros (Retainers/Retenes NO) 
+ 
+BASE METALS / METALES BASE (QW-403) 
+ 
+ 
+ 
+P.Nº. 
+ 
+1 
+ 
+G.Nº. 
+ 
+1&2 toP.Nº. 
+ 
+1 
+ 
+G.Nº. 1&2 ThicknessRange (mm) 
+P.Nº. G.Nº. a P.Nº. G.Nº. Rango de espesor 
+ 
+Specification type and grade 
+ 
+SA266 Cl2; SA516 Gr70 Base Metal Groove 
+ 
+NA Fillet ALL 
+Especificación tipo y grado Metal base Chaflan Angulo 
+ 
+ 
+ 
+ 
+To specification type and grade 
+ 
+SA516 Gr70 Maximum Pass Thickness ≤ 13mm Yes  No 
+A especificación tipo y grado Espesor Máximo Pasada ≤ 13mm Yes 
+ 
+No 
+ 
+ 
+Chem. Analysis and Mech. Prop 
+ 
+ASME II A 
+Composición química y propiedades mecánica 
+ 
+To Chem Analysis and Mech. Prop 
+ 
+ASME II A 
+A composición química y propiedades mecánica Other 
+Otros 
+ 
+FILLER METAL 
+METALES DE APORTACION (QW-404) 
+ 
+FCAW 
+ 
+ 
+Spec. Nº (SFA) 5.36 
+Espec. Nº. 
+ 
+AWS No (Class) E71T1-M21A4-CS1-DH4 
+ 
+F-Nº. 6 
+ 
+A-Nº. 1 
+ 
+Size of Filler Metals (mm)  1.2 
+Tamaño material aportación 
+ 
+Deposited Weld Metal - 
+Metal Depositado 
+ 
+Thickness range - 
+ Margenespesor 
+ 
+Groove NA 
+ Chaflan 
+ 
+Fillet ALL 
+ Angulo 
+ 
+Electrode-Flux (Class) NA 
+Electrodo-Polvo (Clase) 
+ 
+Flux TradeName NA 
+Marca del Polvo 
+ 
+ConsumableInsert NO 
+Anillos consumibles 
+ 
+Other 
+Otros 
+QW-404.23: FLUX CORED 
+QW-404.24: NO 
+QW-404.27: NO 
+ 
+ 
+ 
+ 
+
+[page 34]
+ 
+W.P.S. Nº L-1950101-15 
+ 
+Rev. 0 
+ 
+Date 
+ 
+29/09/17 
+Fecha 
+ 
+POSITIONS / POSICIONES (QW-405) 
+ 
+POSTWELD HEAT TREATMENT 
+TRATAMIENTO TERMICO POSTSOLDEO (QW-407) 
+ 
+Position(s) of Groove 
+ 
+ALL TemperatureRange ºC NO 
+Posicion del chaflan Temperatura 
+ 
+Welding Progression 
+ 
+3G:UPHILL TimeRange (mm) NA 
+Avance del Sondeo Tiempo 
+ 
+Position(s) of Fillet 
+ 
+ALL 
+ 
+Posicion del Angulo 
+ 
+ 
+PREHEAT 
+PRECALENTAMIENTO (QW-406) 
+ 
+ 
+GAS 
+GAS (QW-408) 
+ 
+PreheatTemp. Min. ºC 
+ 
+ 
+20 
+ 
+ PercentComposition / Composición en % 
+Temperatura precalentamiento minima Gas (es) (Mixture)/(Mezcla) FlowRate/Caudal 
+ 
+InterpassTemp Max. ºC 
+ 
+300 Shielding C-18 
+ 
+Ar 82% + CO2 18% 15 ÷ 25 l/min 
+Temperatura entrepasadasmaxima Gas(es) de protección 
+ 
+PreheatMaintenance 
+ 
+NO Trailing NO 
+ 
+ 
+Mantenimiento del precalentamiento Gas protección secundario 
+ 
+Postheating (ºC, mm) 
+ 
+NO Backing NO 
+ 
+ 
+Postcalentamiento Gas soporte 
+ 
+ELECTRICAL CHARACTERISTICS 
+CARACTERISTICAS ELECTRICAS (QW-409) 
+ 
+ 
+Current AC or DC 
+ 
+ACC/TABLE Polarity 
+ 
+ACC/TABLE Tungsten Electrode Size and Type (mm) 
+ 
+NA 
+Corriente Polaridad Tipo y diametro de Tungsteno 
+ 
+Amps (Range) 
+ 
+ ACC/TABLE Volts (Range) ACC/TABLE Mode of Metal Transfer for GMAW 
+ 
+SPRAY 
+Amp. (Rango) Volt. (Rango Transferencia para GMAW 
+ 
+ 
+ 
+ 
+ Electrode Wire feed speed range 
+ 
+NA 
+ Velocidad del alambre (mm/mn) 
+ 
+TECHNIQUE / TECNICA (QW-410) 
+ 
+ 
+ 
+ 
+String or Weave Bead STRING Contact Tube to Work Distance (mm) 15 ÷ 25 
+Aportacion recta u oscilante Distancia tubo contacto a trabajo 
+ 
+Orifice or Gas Cup Size (mm) >18 Multiple or SinglePass (per side) MULTIPLE 
+Tamaño de la boquilla de gas Pasadas simples o múltiples (por lado) 
+ 
+Initial and Interpass Cleaning BRUSH and/or GRIND Multiple or Single Electrodes SINGLE 
+Limpiezainicial y entrepasadas Nº de electrodos 
+ 
+Method of Back Gouging GRINDING and/or ARCAIR Travel Speed (Range) (cm/mn) ACC/TABLE 
+Metodo de escarnado de raiz (where necessary) Velocidad (Rango) 
+ 
+Oscilation (mm) NA Peening NO 
+Oscilacion Martilleado 
+ 
+Use of thermal processes NA Closed to out chamber NA 
+Uso de procesostérmicos Cámara cerrada o fuera de cámara 
+ 
+Weld 
+Layer (s) 
+Capas 
+Interlineado 
+ 
+Process 
+Proceso 
+Filler Metal 
+Material de aportacion 
+Current 
+Corriente 
+ 
+ 
+Volt. 
+Travel 
+Speed 
+(cm/mn) 
+Rango 
+Velocidad 
+ 
+Other 
+Otros 
+Heat Input 
+(KJ/cm) 
+ 
+Class 
+(mm) 
+Dia. 
+Type 
+Polar. 
+ 
+Amp. 
+ 
+1 ÷ N 
+ 
+FCAW 
+ 
+E71T1-M21A4-CS1-DH4 1.2 DCE+ 150 ÷ 250 25 ÷ 29 
+ 
+NA NA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Madeby Dpto. 
+ 
+WELDING DPT. 
+ 
+Date 
+ 
+29/09/17 
+ 
+Signed 
+ 
+I.URIARTE 
+Realizado por Dpto. Fecha Firma 
+ 
+Checked by 
+ 
+WELDING ENGINEER 
+ 
+Date 
+ 
+29/09/17 
+ 
+Signed 
+ 
+P. MIRANDA 
+Revisadopor Fecha Firna 
+ 
+Approved by 
+ 
+Date 
+ 
+Signed 
+ 
+Aprobadopor 
+ 
+ Fecha Firma

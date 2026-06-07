@@ -1,0 +1,39 @@
+{
+  "id": "9ddcc118475184b4",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-64-0007_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 100179,
+  "size_human": "98 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-64-0007 R1",
+  "doc_code": "4521-ESP-AGE-39-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 38987,
+  "token_estimate": 9746,
+  "chunks": 25,
+  "card_path": ".yeyo-memory/cards/9ddcc118475184b4.json",
+  "extracted_path": ".yeyo-memory/extracted/9ddcc118475184b4.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20111115164853-06'00'",
+      "ModDate": "D:20111115164853-06'00'",
+      "Title": "4521-ESP-AGE-39-64-0007",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.592361+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:59.592363+00:00"
+}

@@ -1,0 +1,1507 @@
+[page 1]
+ 
+ABENGOA 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ 
+Title 
+VISUAL EXAMINATION PROCEDURE 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 1950201-PIV-001 
+Supplier Code: 1950201-PIV-001 
+Revision: 00 
+Date: 13/12/2019 
+ 
+Prepared by: 
+PAULA PEREZ 
+ 
+ 
+Reviewed by: 
+ENEKO LERMA 
+ 
+ 
+Approved by: 
+JON BARANDA 
+ 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the 
+express written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENGOA 
+Document: 4521-TTT-EEE-AAA-DDD-CCCC-GAR 
+ 
+Revision: 00 Date: 13/12/2019 
+Page: 2 of 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 13/12/19 INITIAL ISSUE P.P.U. E.L.M. J.B.M.. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+VISUAL EXAMINATION 
+GENERAL PROCEDURE 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950201-PIV-001 
+ 
+DATE: 13/12/19 Pag 1/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VISUAL EXAMINATION 
+GENERAL PROCEDURE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUSTOMER / CLIENTE :ATLANTICA YIELD 
+JOB / TRABAJO : ENGINEERING / OIL TO SALT HEAT EXCHANGER 
+LOINTEK REF : 1950201 
+CUSTOMER REF. : 
+PROJECT / PROYECTO : HEX replacement TES Solana 
+PLANT / PLANTA : ARIZONA SOLAR ONE LLC 
+LOCATION / LOCALIDAD : ARIZONA (USA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Revised 
+Revisado 
+Aproved 
+Aprobado 
+00 13/12/19 INITIAL ISSUE PPU ELM JBM 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ 
+ 
+ 
+VISUAL EXAMINATION 
+GENERAL PROCEDURE 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950201-PIV-001 
+ 
+DATE: 13/12/19 Pag 2/19 
+ 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+1. OBJECT 
+2. SCOPE 
+3. CODES 
+4. QUALIFIED PERSONNEL 
+5. NECESSARY EQUIPMENTS AND CONSUMABLES 
+6. PERFORMING THE EXAM 
+7. EVALUATION AND ACCEPTANCE CRITERIA 
+8. EXAMINATION REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 5]
+ 
+ 
+ 
+VISUAL EXAMINATION 
+GENERAL PROCEDURE 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950201-PIV-001 
+ 
+DATE: 13/12/19 Pag 3/19 
+ 
+ 
+ 
+1. OBJECT 
+The purpose of this procedure is to establish the necessary and sufficient 
+conditions for visual examination of weld seams and base materials. 
+ 
+2. SCOPE 
+All those surfaces specified in 1950201-PPI-001. 
+ 
+3. CODES 
+According to General procedure IT-CAL-PIV-01 Rev.06 (Attached) Paragraph 
+3. 
+ 
+4. QUALIFIED PERSONNEL 
+According to ge neral procedure IT-CAL-PIV-01 Rev.06 (attached) paragraph 
+4.0. 
+ 
+5. NECESSARY EQUIPMENTS AND CONSUMABLES 
+According to General procedure IT-CAL-PIV-01 REV.06 (Attached) 
+Paragraph 5.5. 
+ 
+6. PERFORMING THE EXAM 
+According to General procedure IT IT-CAL-PIV-01 RE V.06 (Attached) 
+Paragraph 5. 
+ 
+7. EVALUATION AND ACCEPTANCE CRITERIA 
+According to General procedure IT-CAL-PIV-01 REV.06 (Attached) 
+Paragraph 6. 
+ 
+8. EXAMINATION REPORT 
+According to General procedure IT-CAL-PIV-01 REV.06 (Attached) 
+Paragraph 7. 
+
+[page 6]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+1/21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Rev. & Aprov. 
+Rev. & Aprob. 
+Aproved 
+Aprobado 
+LEVEL III 
+00 21.07.16 INITIAL ISSUED E.L.M E.L.M J.B.M 
+01 22.06.17 COMMENTS ON AUDIT ASME MEX E.L.M E.L.M J.B.M 
+02 13.07.17 REVISED BY LEVEL III ISO 9712 E.L.M E.L.M S.R.S 
+03 02.02.18 Multiple corrections & U pdated To ASME 2017 E.L.M E.L.M J.B.M 
+04 12-03-18 Multiple corrections & TRANSLATION TO 
+SPANISH E.L.M E.L.M J.B.M 
+ 
+ 
+ 
+
+[page 7]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+2/21 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+ 
+ 
+ 
+1.0. OBJECT 
+2.0. SCOPE 
+3.0. CODES 
+4.0. RESPONSIBILITIES AND AUTHORITY 
+5.0. GENERAL REQUIREMENTS 
+6.0. EXECUTION OF EXAMINATION 
+7.0. ACCEPTANCE OR REJECTION CRITERIAS 
+8.0. EXAMINATION REPORT 
+ANNEX I: TRANSLATION TO SPANISH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 8]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+3/21 
+ 
+ 
+ 
+1.0 OBJECT 
+ 
+The object of the present procedure is to establish the necessary and sufficient 
+conditions for visual examination of weld seams and base materials. 
+ 
+ 
+2.0 SCOPE 
+ 
+This Procedure will apply to determine surfac e condition of the part, alignment of 
+mating surfaces, shape, and all welding join ts the same to butt welds than fillet 
+welds. 
+ 
+ 
+3.0 CODES 
+ 
+- ASME Code, Section V – Non Destructive Testing (2017 Edition) 
+- ASME Code, Section VIII Div1 y Div2 – Pressure Vessels (2017 Edition) 
+- ASME Section I, Power Boilers (2017 Edition). 
+- WRITTEN PRACTICE ASME. QCM.PR05 
+- SNT-TC-1A 
+ 
+ 
+4.0 RESPONSIBILITIES AND AUTHORITY 
+ 
+4.1.0 QUALITY MANAGER 
+ 
+He has the authority to det ermine the items that must be checked using this 
+procedure. 
+ 
+ 
+4.2.0 QUALIFIED PERSONNEL 
+ 
+ 
+The personnel who will perform the Visual exam inations must be qualified according to 
+Lointek S.L. Written Practice ASME.QCM.PR05. 
+ 
+It will also be valid that the s ubcontractor will be certified acco rding to their own written 
+practice. If the subcontractor's written practice is approved by the QC Manager 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 9]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+4/21 
+ 
+ 
+ 
+5.0 GENERAL REQUIREMENTS 
+ 
+1. The Inspector performing visual weld ex aminations shall verify that the item 
+correlates with the paperwork and that a ll required previous manufacturing 
+operations and inspections have been successfully completed and signed off. 
+ 
+2. If any necessary stamping to identify ma terial or individual performing welding 
+processes is missing, the Inspector will observe such stamping after validation 
+by company records prior to acceptance. 
+ 
+3. The Inspector will assure that the conditi on of the weld surface an at least 1" on 
+either side of the weld to be exami ned are free of scale, paint, grease, or 
+accumulation of dirt or excessive irregularities that would mask a deficiency. 
+ 
+4. Visual examination personnel shall be examined annually to assure natural or 
+corrected near distance acuity in at least one eye, such that they are capable of 
+reading Jaeger No. 1 letters at a distanc e of not less than 12". Personnel shall 
+also demonstrate the capability of dist inguishing and differentiating contrast 
+between colors or shades of gray. 
+ 
+5. Visual examinations shall be performed to assure correct weld size, length, and 
+location.Measurements may be achieved by using devices such as rulers, 
+templates, gauges, micrometers, im pressions, magnification such as 
+boroscopes or magnifying glass or by comparison with standards such as 
+workmanship samples or photographs, as necessary to evaluate specified 
+physical attributes of welds and weldments prior to verifying the final inspection. 
+ 
+6. Direct visual examinations 
+ 
+Direct visual examinations shall be made when access is sufficient to place the 
+eye within 600 mm of the surface to be examined and at an angle not less than 
+30 degrees to the surface to be examined. Mirrors may be used to improve the 
+angle of vision and aids such as a m agnifying lens may be used to assist 
+examination. 
+ 
+Illumination (Natural or supplemental white light) for the specific part, 
+component, vessel or section thereof being examined is required. 
+The minimum light level shall be 1000 lu x. The light intensity shall be 
+measured/verified with a meter prior to the examination. 
+ 
+Light meters shall be calibrated at leas t once a year or whenever the meter has 
+been repaired. If meters have not been in us e for one year or more, calibration 
+shall be done before being used. 
+ 
+7. Remote Visual Examination 
+ 
+In cases where the welds are not accessi ble for direct visual examination, 
+remote visual examination may be substi tuted for direct examination. Remote 
+visual examination may use visual aids such as mirror, telescopes, boroscopes, 
+fiber optics, cameras, or other suitable instruments. Such systems shall have a 
+resolution capability at least equivalent to that obtainable by direct visual 
+observation. 
+
+[page 10]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+5/21 
+ 
+ 
+ 
+6.0 EXECUTION OF EXAMINATION 
+ 
+6.1 STAGE OF VISUAL EXAMINATION 
+ 
+If there is not a specific customer’s requirement specified in his technical 
+specifications, visual examinations shall be done before post weld heat treatment. 
+ 
+6.2 ZONES SUBJECTED TO VISUAL EXAMINATION 
+ 
+6.2.1 Weld edges 
+ 
+6.2.1.1 Surface finish 
+ 
+6.2.1.2 Irregularities. 
+ 
+6.2.1.3 Fissures, cracks. 
+ 
+6.2.1.4 Joint geometry 
+ 
+6.2.1.5 Alignment and/or weld edges gap (fit-up) 
+ 
+ 
+6.2.2 Weld seams 
+ 
+6.2.2.1 General aspect 
+ 
+6.2.2.2 Reinforcement 
+ 
+6.2.2.3 Undercut. 
+ 
+6.2.2.4 Craters 
+ 
+6.2.2.5 Cracks, fissures, porosity 
+ 
+6.2.2.6 Slag 
+ 
+6.2.2.7 Spatters 
+6.2.2.8 Verification of correct wel der stamp identification mark. (if 
+any necessary) 
+ 
+ 
+6.2.3 Surfaces 
+ 
+6.2.3.1 General aspect (the surf aces shall be reasonably clean, 
+dry and free of slag, scale, ru st, calamine, flux and other 
+type of dirt, oil, grease, paint, etc. 
+ 
+6.2.3.2 Marks of auxiliary equipment 
+ 
+6.2.3.3 Spatters 
+ 
+6.2.3.4 Cracks, fissures, porosity 
+ 
+6.2.3.5 Verification of correct stamp , identification mark 
+ 
+6.2.3.6 Grinded area (Shall be grinded with abrasive paper 
+having a minimum 80 grind size) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 11]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+6/21 
+ 
+ 
+7.0 ACCEPTANCE OR REJECTION CRITERIAS 
+ 
+7.1 The dimensions and surface conditions of welds shall satisfy the characteristics in 
+the Welding Procedure Specifications. 
+ 
+7.2 Welds that are observed to have indicati ons exceeding the criter ia given in Table 1 
+are unacceptable. 
+ 
+ 
+TABLE 1 
+VISUAL EXAMINATION ACCEPTANCE CRITERIA 
+ 
+ 
+ 
+ 
+ 
+Refer to paragraph 7.3 for acceptable 
+undercut. 
+7.4 
+
+[page 12]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+7/21 
+ 
+ 
+ 
+ 
+ 
+7.3 The reduction in thickness shall not reduce t he material of the adjoining surfaces 
+below the minimum required thickness at any point 
+A reduction in thickness due to the welding process is acceptable if the reduction 
+shall not exceed 0.8mm or 10% of the nominal thickness of the adjoining surface , 
+whichever is less. 
+ 
+ 
+7.4 Reinforcement of welds 
+The reinforcement of the welds must have a smooth transition with the adjacent 
+base material. The thickness of weld reinforcement on each face shall not exceed 
+that shown in table 2a&2b. 
+ 
+Table 2a Reinforcement . 
+(ASME VIII Div.1 & Div.2) 
+ 
+ 
+(See fig.1 Categories Joint) 
+ 
+ 
+ 
+ 
+ 
+7.6 
+7.6
+7.5
+
+[page 13]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+8/21 
+ 
+ 
+ 
+ 
+Table 2b Reinforcement (ASME I) 
+ 
+ 
+ 
+ 
+7.5 Concavity due to welding process on the root side of a single welded circumferential 
+butt weld is permitted when the resulting thi ckness of the weld is at least equal to 
+the thickness of the thi nner member of the two sections being joined and the 
+contour of the concavity is smooth. 
+ 
+ 
+7.6 Alignment Tolerance. 
+Alignment of sections at edges to be butt welded shall be such that the maximum 
+offset is not greater than the applicable amount listed in Table3. 
+Any offset within the allowable tolerance provided on Table 3 shall be faired at a 3:1 
+taper over the width of the finished weld, or if necessary, by adding additional weld 
+metal beyond what would otherwise be the edge of the weld. 
+ 
+ 
+ 
+Table 3 Alignment Tolerance 
+ 
+ 
+See fig.1 Categories Joint. 
+ t is the nominal thickness of the thinner section at the joint. 
+ 
+
+[page 14]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+9/21 
+ 
+ 
+ 
+Unacceptable indications shall be removed or reduced to an indication of acceptable 
+size. Whenever an indication is remov ed by chipping or grinding and subsequent 
+repair by welding is not required, the area shall be blended into the surrounding 
+surface so as to avoid notches, crevices, or corners. 
+Where welding is required after removal of indications, the repair shall be rewelded by 
+qualified welders using qualified welding procedures. 
+ 
+ 
+8.0 EXAMINATION REPORT 
+ 
+The result of the exam will be documented with the corresponding report that will 
+include as minimum the following information: 
+ 
+ Job number 
+ Procedure identificacion and revision. 
+ 
+ Drawings 
+ 
+ Identification of the par t or component examined. 
+ Equipment and products 
+ 
+ NDE operator qualifications 
+ 
+ 
+ Date of examination 
+ 
+ Results of the examination 
+ 
+ 
+
+[page 15]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+10/21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1 JOINT CATEGORIES 
+ 
+ 
+ 
+Table 4 
+ 
+ 
+
+[page 16]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEX I: TRANSLATION TO SPANISH
+
+[page 17]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+1/10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCEDIMIENTO DE INSPECCION VISUAL 
+ASME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Rev. & Aprov. 
+Rev. & Aprob. 
+Aproved 
+Aprobado 
+LEVEL III 
+00 21.07.16 INITIAL ISSUED /Emisi on Inicial E.L.M E.L.M J.B.M 
+01 22.06.17 COMMENTS ON AUDIT ASME MEX / 
+Comentarios Auditoria Mex. E.L.M E.L.M J.B.M 
+02 13.07.17 REVISED BY LEVEL III ISO 9712 / Revision por 
+Nivel III ISO 9712 E.L.M E.L.M S.R.S 
+03 02.02.18 Multiple corrections & Updated To ASME 2017 / 
+VariAs correciones y actualizado a Asme 2017 E.L.M E.L.M J.B.M 
+04 12-03-18 Multiple corrections & TRANSLATION TO 
+SPANISH /Varias correcciones y traducción. E.L.M E.L.M J.B.M 
+ 
+ 
+ 
+ 
+
+[page 18]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+2/10 
+ 
+ 
+ 
+ 
+INDICE 
+ 
+1. OBJETO 
+2. CAMPO DE APLICACION 
+3. NORMAS DE REFERENCIA 
+4. RESPONSABILIDA DES Y AUTORIDAD 
+5. REQUERIMIENTOS GENERALES 
+6. EJECUCION DEL EXAMEN 
+7. CRITERIOS DE ACEPTACION 
+8. INFORME FINAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 19]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+3/10 
+ 
+ 
+ 
+1.0 OBJETO 
+ 
+Establecer las condiciones necesarias para la inspección visual de soldaduras y 
+metal base. 
+ 
+ 
+2.0 CAMPO DE APLICACION 
+ 
+Alcanza a las condiciones superficiale s del componente, alineamiento de 
+superficies a unir, forma y soldaduras. 
+ 
+ 
+3.0 NORMAS DE REFERENCIA 
+ 
+Codigo ASME, Seccion V – Ensayos no destructivos (Edicion 2017) 
+Codigo ASME, Seccion VIII Div 1 y 2 – Depósitos a presión (Edicion 2017) 
+Codigo ASME, Seccion I – Construccion de Calderas de Potencia. (2017 Edition) 
+PRACTICA ESCRITA ASME. QCM.PR05 
+SNT-TC-1A (Edicion 2006) 
+ 
+ 
+4.0 RESPONSABILIDADES Y AUTORIDAD 
+ 
+4.1.0 RESPONSABLE DE CALIDAD 
+ 
+Tiene autoridad para determinar las piezas sometidas a la prueba de inspección 
+aplicando este procedimiento. 
+ 
+4.2.0 PERSONAL CUALIFICADO 
+ 
+El personal deberá estar cualificado y ce rtificado de acuerdo con la práctica 
+escrita de Lointek S.L. ASME. QCM.PR05. 
+ 
+También será válido operadores de END certific ados de acuerdo a la práctica escrita del 
+Subcontratista, si la práctica escrita del Subcontratista es aprobada por del Responsable 
+de Calidad de LOINTEK. 
+ 
+ 
+5.0 REQUERIMIENTOS GENERALES 
+ 
+1. El inspector debe verificar que el it em corresponde con la documentación y que 
+las operaciones previament e requeridas e inspecciones se han realizado 
+satisfactoriamente y firmado. 
+ 
+2. Si es necesario realizar / estampar para identificar el material o númerod e 
+soldador, el inspector presenciará la es tampación de dichas marcas tras la 
+validación de registros de la compañía. 
+
+[page 20]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+4/10 
+ 
+ 
+3. El inspector debe asegurarse que las c ondiciones superficiales de la soldadura 
+a examinar y sus zonas adyacentes hasta por lo menos 1” (25,4 mm.), a ambos 
+lados, son correctas. Deberán estar libre de cascarilla, pintura, aceites o 
+cualquier otra materia extraña que pueda interferir con el examen. 
+ 
+4. El personal encargado de r ealizar la inspección visual deberá superar un 
+examen de la vista anualmente, para asegurar una agudeza visual en 
+distancias cortas, natural o corregida. El personal deberá ser capaz de leer el 
+número 1 de la carta Jaeger o una letra de fuente y tamaño similares a una 
+distancia de al menos 12 pulgadas (30, 5 cm.) y también demostrar que es 
+capaz de distinguir y diferenciar el contra ste de colores y los distintos tonos de 
+gris. 
+ 
+5. La inspección visual se realizará para asegurar el correcto tamaño de la 
+soldadura, longitud y localización.Las mediciones se realizarán utilizando 
+aparatos como reglas, plantillas, galgas , micrómetros, moldes, boroscopios, 
+lentes de aumento o por comparación con estándares como muestras de 
+fabricación o fotografías, necesarias para evaluar atributos específicos de las 
+soldaduras antes de realizar la inspección final. 
+ 
+6. Inspección visual directa. 
+Las inspecciones visuales directas deben r ealizarse cuando el acceso es 
+suficiente para situar el ojo a m enos de 600 mm de la superficie a 
+examinar y un ángulo no menor de 30 º a la superficie a examinar. Se 
+pueden usar espejos para mejorar el ángulo de visión y aparatos como 
+lentes de aumento para ayudar en la inspección. 
+ 
+Es necesaria la iluminación (natural o artificial con luz blanca) para la 
+parte específica, componente, equipo o sección a examinar. El mínimo 
+nivel de iluminación será 1000 lux en la superficie de ensayo. 
+ 
+El luxómetro deberá ser calibrado como mí nimo una vez al año o cada vez que 
+se repare. Si el equipo no ha sido us ado en un año o más, se deberá calibrar 
+antes de su uso. 
+ 
+7. Inspección visual remota. 
+ 
+En los casos donde las soldaduras no est án accesibles para realizar una 
+inspección directa, la inspección visual remota sustituirá a la directa. 
+En la inspección visual remota se pueden usar aparatos como espejos, 
+telescopios, boroscopios, fibras ópticas, cámaras u otros instrumentos 
+apropiados. Esos sistemas deben tener una capacidad de resolución al menos 
+equivalente a la resolución obtenida mediante inspección visual directa. 
+ 
+ 
+ 
+6.0 EJECUCION DEL EXAMEN 
+ 
+6.1 ETAPA DE INSPECCION VISUAL 
+ 
+ 
+La inspección visual se realizará antes del tratamiento térmico post soldadura, a no 
+ser que haya requerimientos específicos del cliente. 
+
+[page 21]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+5/10 
+ 
+ 
+ 
+6.2 ZONAS SUJETAS A INSPECCION VISUAL 
+ 
+6.2.1 Bordes a Soldar 
+ 
+6.2.1.1 Acabado superficial 
+ 
+6.2.1.2 Irregularidades 
+ 
+6.2.1.3 Fisuras, grietas 
+6.2.1.4 Geometria de la unión 
+ 
+6.2.1.5 Alineami ento (fit-up) 
+ 
+6.2.2 Cordon de Soldadura 
+ 
+6.2.2.1 Aspectos generales 
+ 
+6.2.2.2 Refuerzos 
+ 
+6.2.2.3 Mordeduras 
+ 
+6.2.2.4 Crateres 
+ 
+6.2.2.5 Grietas, fisuras, poros 
+ 
+6.2.2.6 Escoria 
+ 
+6.2.2.7 Proyecciones 
+ 
+6.2.2.8 Verificación de la dentific ación de la soldadura, si fuera 
+necesario. 
+ 
+ 
+6.2.3 Superficies 
+ 
+6.2.3.1 Aspectos generales (la superficie debe estar 
+razonablemente limpia, seca y libre de escoria, 
+cascarilla, oxido, caramina, flux y otros tipos de suciedad, 
+aceite, grasa, pintura, etc.) 
+ 
+6.2.3.2 Marcas de equipos auxiliaries 
+ 
+6.2.3.3 Proyecciones 
+ 
+6.2.3.4 Grietas, fisuras, poros 
+ 
+6.2.3.5 Verificacion del correcto traspaso de marcas 
+6.2.3.6 Äreas esmeriladas (Se es merilarán con discos abrasivos 
+con tamaño de grano mínimo de 80) 
+ 
+ 
+ 
+7.0 CRITERIOS DE ACEPTACIÓN 
+ 
+7.1 Las dimensiones y las condiciones superficiales deben satisfacer las características 
+indicadas en el Procedimiento de Soldadura (WPS). 
+ 
+7.3 Las soldaduras que presentan indicaciones que excedan el criterio indicado en la 
+Tabla 1 son no aceptables. 
+ 
+ 
+ 
+ 
+
+[page 22]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+6/10 
+ 
+TABLA 1 
+CRITERIOS DE ACEPTACIÓN DE INSPECCION VISUAL 
+Nº  Tipo de Imperfección  Criterios de Aceptación 
+1  Grietas     No permitidas 
+2  Poros 
+Rechupes  No permitidos 
+3  Inclusiones     No permitidas 
+4  Falta de Fusión  No permitidas 
+5  Falta de Penetración  No permitida si se requiere 
+ penetración completa 
+6  Mordedura  Conforme a  Apartado7.3  para la 
+aceptación de la mordedura. 
+7  Refuerzos de Soldadura 
+ 
+Conforme a  apartado7.4. Una transición 
+será requerida. 
+8  Desalineamiento 
+de Junta  --- Conforme  apartado  7.6   para  la 
+aceptación en soldaduras a –tope. 
+ 
+
+[page 23]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+7/10 
+ 
+Nº  Tipo de Imperfección  Criterios de Aceptación 
+9  Apicamiento de 
+Soldaduras Longitudinales    Conforme apartado 7.6  para la aceptación en 
+soldaduras a –tope 
+10  Cebado de Arco   No permitidos (Nota 2) 
+11  Salpicadura   Las salpicaduras deben minimizarse (Nota 2) 
+12  Marcas de Amolado y/o 
+Mecanizado    No permitidas (Nota 2) 
+13  Concavidad de Raiz 
+ 
+Conforme a 7.5 
+NOTAS: 
+ 
+1‐ En esta tabla se usan los siguientes acrónimos: 
+    a‐ Garganta nominal efectiva de soldaduras en ángulo 
+    b‐ Anchura del refuerzo de soldadura 
+    d‐ Diámetro del poro 
+    h‐ Altura de la indicación 
+    t‐ Espesor de la pared o de la chapa 
+2‐ Estas imperfecciones deben ser eliminadas 
+por amolado homogéneo 
+ 
+7.3. La reducción de espesor del material de las superficies adyacentes no será inferior al 
+mínimo de espesor requerido en cualquier punto. 
+ La reducción de espesor durante el proceso de so ldeo es aceptable si la reducción no es mayor 
+de 0,8mm o del 10% del espesor nominal del material base afectado. 
+ 
+7.4 Refuerso de soldaduras. 
+ El refuerzo de las soldaduras debe tener una transición suave con el material base adyacente. El 
+espesor del refuerzo no debera exceder de los valores indicados a continuación (tablas 2a y 2b): 
+ 
+ 
+Table 2a (ASME VIII Div.1 & Div.2) 
+ 
+ 
+(Ver fig-.1 Categorías de unión) 
+ 
+
+[page 24]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+8/10 
+ 
+ 
+ 
+Table 2b (ASME I) 
+ 
+ 
+ 
+7.5 Las imperfecciones de concavidad de raíz en soldaduras realizadas solo desde un lado 
+serán aceptables siempre que se cumplan las dos condiciones siguientes: 
+- Que presenten una fusión completa con los bordes de soldadura adyacentes. 
+- Que el espesor nominal de la soldadura (incluyendo el refuerzo de la misma) no sea inferior 
+al espesor nominal del elemento 
+ 
+ 
+7.6 Tolerancias de Alineación 
+La alineación de las secciones en los bordes a soldar a tope debe ser tal que el 
+desplazamiento máximo no sea mayor que la cantidad indicada en la Tabla 3. 
+Cualquier desviación dentro de la tolerancia permisible proporcionada en la Tabla 3 debe ser 
+preparada a una medida de 3:1 sobre la anchura de la soldadura acabada, o si es necesario, 
+aportando metal de soldadura más allá de lo que de otro modo sería el borde de la soldadura 
+. 
+TABLA 3 
+ 
+Espesor de la Sección 
+(mm) 
+Soldaduras 
+Categoría A 
+Soldaduras 
+Categoría B, C y D 
+t ≤ 13 ¼ t ¼ t 
+13 < t ≤ 19 3 mm ¼ t 
+19 < t ≤ 38 3 mm 5 mm 
+38 < t ≤ 51 3 mm 1/8 t 
+t > 51 El menor entre 1/16 t 
+o 10 mm 
+El menor entre 1/8 t 
+o 19 mm 
+ 
+Ver Figura 1 Categoria Uniones 
+t es el espesor nominal del material base más fino a unir 
+ 
+ 
+ 
+ 
+
+[page 25]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+9/10 
+ 
+ 
+ 
+Las indicaciones no aceptables se deben elimi nar o reducir hasta indicaciones de 
+tamaño aceptable. No siempr e que se eliminen indicaciones mediante escarnado o 
+esmerilado se requiere poste rior reparación mediante so ldadura. El área reparada se 
+igualará a la superficie crcundante, evitando escalones, aristas y esquinas. 
+ 
+ En las reparaciones donde se r equiera soldadura, se realizará utilizando el 
+correspondiente Procedimiento de Reparación (WPS y PQR) previamente aceptado por 
+el contratante. 
+ 
+ 
+ 
+8.0 INFORME FINAL 
+ 
+El resultado del examen se documentará con el correspondiente informe que deberá 
+incluir como mínimo los siguientes datos: 
+ 
+ Número referencia de trabajo / Obra 
+ 
+ Procedimiento y revisión 
+ Plano 
+ 
+ Identificación de la soldadura, parte o componete inspeccionado. 
+ Equipamiento y productos. 
+ Cualificación del operario de END 
+ Fecha de la inspección 
+ 
+ Resultados de la inspección. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 26]
+ 
+ 
+ 
+VISUAL EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+04 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PIV-06 
+ 
+DATE: 12-03-18 Pag 
+10/10 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1CATEGORIAS DE UNIÓN 
+ 
+ 
+ 
+TABLA 4 
+REQUERIMIENTOS DEL PROCEDIMIENTO DE INSPECCIÓN VISUAL 
+ 
+REQUERIMIENTO Variable 
+Esencial 
+Variable
+No 
+Esencial 
+Cambios en la técnica utilizada 
+Técnica Directa o Translucida X 
+Método Directo o Remoto X 
+Utiles para inspección Remota X 
+Requisitos de ejecución del personal, si se requiere X 
+Intensidad de luz (solo disminución) X 
+Configuración de soldadura a examin ar, incluyendo espesor, dimensiones 
+y forma producto de material base (tubería, chapa, etc) X 
+Equipo de iluminación X
+Metodo u herramienta utilizada para la preparación superficial X
+Equipos o Utiles para la técnica Directa X
+Secuencia de Inspección X
+Cualificación del Personal X

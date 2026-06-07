@@ -1,0 +1,30 @@
+{
+  "id": "4ae5b5f27ec526a8",
+  "path": "11 Sal de Solana y Corrosion/4 NOTA TÉCNICA DE ALIA SOBRE CORROSIÓN/AECP2017-A-002_Corrosion of Lointek heat exchangers’ U-tubes due to exposure to molten nitrate salt in Solana powerplant_v00.pdf",
+  "top_dir": "11 Sal de Solana y Corrosion",
+  "ext": "pdf",
+  "size_bytes": 844321,
+  "size_human": "825 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "AECP2017-A-002 Corrosion of Lointek heat exchangers’ U-tubes due to exposure to molten nitrate salt in Solana powerplant v00",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 8229,
+  "token_estimate": 2057,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/4ae5b5f27ec526a8.json",
+  "extracted_path": ".yeyo-memory/extracted/4ae5b5f27ec526a8.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "Author": "cgrellier@sh-ihw.es",
+      "Creator": "Microsoft® Word 2016",
+      "CreationDate": "D:20180302145347+01'00'",
+      "ModDate": "D:20180302145347+01'00'",
+      "Producer": "Microsoft® Word 2016"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:17:46.293568+00:00"
+}

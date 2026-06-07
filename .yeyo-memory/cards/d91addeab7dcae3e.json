@@ -1,0 +1,43 @@
+{
+  "id": "d91addeab7dcae3e",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-68-51-0001-GAR-901_Rev03_Layout_new_exchangers.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 46866,
+  "size_human": "46 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AEE-68-51-0001-GAR-901 Rev03 Layout new exchangers",
+  "doc_code": "4521-PLN-AEE-68-51-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4464,
+  "token_estimate": 1116,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/d91addeab7dcae3e.json",
+  "extracted_path": ".yeyo-memory/extracted/d91addeab7dcae3e.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 181,
+        "non_empty_rows": 172
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:07.701447+00:00"
+}

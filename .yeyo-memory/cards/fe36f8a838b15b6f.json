@@ -1,0 +1,143 @@
+{
+  "id": "fe36f8a838b15b6f",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-00-64-0001B_R5 Engineering Specification - Pres.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 3610172,
+  "size_human": "3.4 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-00-64-0001B R5 Engineering Specification - Pres",
+  "doc_code": "4521-ESP-AGE-00-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 66429,
+  "token_estimate": 16607,
+  "chunks": 42,
+  "card_path": ".yeyo-memory/cards/fe36f8a838b15b6f.json",
+  "extracted_path": ".yeyo-memory/extracted/fe36f8a838b15b6f.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 28
+      },
+      {
+        "name": "Cover Sheet (2)",
+        "rows_seen": 1014,
+        "non_empty_rows": 16
+      },
+      {
+        "name": "Cover Sheet (3)",
+        "rows_seen": 1016,
+        "non_empty_rows": 16
+      },
+      {
+        "name": "Index",
+        "rows_seen": 50,
+        "non_empty_rows": 33
+      },
+      {
+        "name": "p 5",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 6",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 7",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "p 8",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 9",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 10",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 11",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 12",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 13",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 14",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 15",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 16",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 17",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 18",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 19",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 20",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 21",
+        "rows_seen": 67,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 22",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 23",
+        "rows_seen": 1004,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "p 24",
+        "rows_seen": 1004,
+        "non_empty_rows": 59
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:03.473624+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "697b2b5bbac69310",
+  "path": "04 GD Fabricacon LOI TES 3/Lista documentos/4521-LIS-LOI-039-062-0001 REV.01 Document List.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 141281,
+  "size_human": "138 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "4521-LIS-LOI-039-062-0001 REV.01 Document List",
+  "doc_code": "4521-LIS-LOI-039-062-0001",
+  "revision": "REV.01",
+  "status": "ok",
+  "text_chars": 3634,
+  "token_estimate": 908,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/697b2b5bbac69310.json",
+  "extracted_path": ".yeyo-memory/extracted/697b2b5bbac69310.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "martaguerreiro",
+      "CreationDate": "D:20210426165035+02'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20210426165035+02'00'",
+      "Producer": "Acrobat Distiller 17.0 (Windows)",
+      "Title": "4521-LIS-LOI-039-062-0001 REV.01 Document List.xlsx"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::286",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 286,
+        "doc_code": "4521-LIS-LOI-039-062-0001",
+        "title": "DOCUMENT LIST",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-09-28 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::286",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 286,
+        "doc_code": "4521-LIS-LOI-039-062-0001",
+        "title": "DOCUMENT LIST",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-09-28 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:29.528192+00:00"
+}

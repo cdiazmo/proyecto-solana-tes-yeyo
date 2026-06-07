@@ -1,0 +1,111 @@
+{
+  "id": "42ba4f1112bbadc8",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR Rev.01 TWO YEARS OPERATIONAL SPARE PARTS LIST.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 242004,
+  "size_human": "236 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-LIS-LOI-039-062-0007-GAR Rev.01 TWO YEARS OPERATIONAL SPARE PARTS LIST",
+  "doc_code": "4521-LIS-LOI-039-062-0007",
+  "revision": "Rev.01",
+  "status": "ok",
+  "text_chars": 1927,
+  "token_estimate": 481,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/42ba4f1112bbadc8.json",
+  "extracted_path": ".yeyo-memory/extracted/42ba4f1112bbadc8.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "CreationDate": "D:20161201131021+01'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20161201131222+01'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::291",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 291,
+        "doc_code": "4521-LIS-LOI-039-062-0007",
+        "title": "TWO YEARS OPERATIONAL SPARE PARTS LIST",
+        "revision": "01",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx::Document::10",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx",
+        "index_kind": "index-like-workbook",
+        "sheet": "Document",
+        "row": 10,
+        "doc_code": "4521-LIS-LOI-039-062-0007",
+        "title": "",
+        "revision": "",
+        "status": "IFD",
+        "date": "2016-11-28 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx::Document::41",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx",
+        "index_kind": "index-like-workbook",
+        "sheet": "Document",
+        "row": 41,
+        "doc_code": "4521-LIS-LOI-039-062-0007",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "dd/mm/aaaa",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx::Document::55",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx",
+        "index_kind": "index-like-workbook",
+        "sheet": "Document",
+        "row": 55,
+        "doc_code": "4521-LIS-LOI-039-062-0007",
+        "title": "",
+        "revision": "01",
+        "status": "IFD",
+        "date": "2016-12-01 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx::Document::86",
+        "index_path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR -901_Two years operational spare parts list.xlsx",
+        "index_kind": "index-like-workbook",
+        "sheet": "Document",
+        "row": 86,
+        "doc_code": "4521-LIS-LOI-039-062-0007",
+        "title": "",
+        "revision": "01",
+        "status": "",
+        "date": "dd/mm/aaaa",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::291",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 291,
+        "doc_code": "4521-LIS-LOI-039-062-0007",
+        "title": "TWO YEARS OPERATIONAL SPARE PARTS LIST",
+        "revision": "01",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:28.886281+00:00"
+}

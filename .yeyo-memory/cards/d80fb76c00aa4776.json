@@ -1,0 +1,33 @@
+{
+  "id": "d80fb76c00aa4776",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-00-61-PS002V.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 40489,
+  "size_human": "40 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-00-61-PS002V",
+  "doc_code": "4521-ESP-ANC-00-61-PS002V",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11398,
+  "token_estimate": 2849,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/d80fb76c00aa4776.json",
+  "extracted_path": ".yeyo-memory/extracted/d80fb76c00aa4776.txt",
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20111014081932-05'00'",
+      "ModDate": "D:20111014081932-05'00'",
+      "Title": "4521-ESP-ANC-00-61-PS002V",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "rclipc",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:56.435787+00:00"
+}

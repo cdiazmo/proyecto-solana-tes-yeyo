@@ -1,0 +1,29 @@
+{
+  "id": "9629df052a25f050",
+  "path": "04 GD Fabricacon LOI TES 3/Imagenes/20210504 HEX Lointek 3.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 5009950,
+  "size_human": "4.8 MB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "20210504 HEX Lointek 3",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/9629df052a25f050.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 15,
+    "pdf_metadata": {
+      "ModDate": "D:20210505064040+02'00'",
+      "CreationDate": "D:20210505064040+02'00'",
+      "Producer": "Nuance PDF Create",
+      "Creator": "ImageToPDF"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:26.965077+00:00"
+}

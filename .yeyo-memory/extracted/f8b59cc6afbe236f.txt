@@ -1,0 +1,6067 @@
+[page 1]
+Mechanical Calculation OIL TO SALT HEX
+Client: Arizona Solar One
+Proyect: HEX replacement TES Solana
+4521-CAL-LOI-039-062-0001-GAR
+Supplier Code: 195001-CAL-001
+Revisor
+Prepared by:
+5 Pa
+Ivan Sainz de la Maza Sat,
+Reviewed by:
+Alberto Abad A a |
+Approved by:
+Aitor Lopez de Subijana
+This Procedure is owned by Abengpoa. Its total or partial reproduction by any means as well as its distribution to third parties without the
+express written consent of Abengoa is forbidden
+
+[page 2]
+4521-CAL-LOI-039-062-0001-GAR Ne
+
+[page 3]
+.
+tek
+Review Control Sheet
+15/12/2016 _| CLIENT COMMENTS
+
+[page 4]
+NR MECHANICAL CALCULATION REV: ”
+& ISSUED BY: ENG
+lointek 195001-CAL-001 DATE: 15/12/16 PagP
+MECHANICAL CALCULATION
+OIL TO SALT HEX
+CUSTOMER / CLIENTE : ABENER TEYMA
+JOB / TRABAJO : OIL TO SALT HEX
+LOINTEK REF : 195001
+PROJECT / PROYECTO : SOLANA SOLAR POWER PLANT
+PLANT / PLANTA : SOLANA GENERATION STATION
+LOCATION / LOCALIDAD : GILA BEND, ARIZONA, USA
+FECHA DESCRIPCION
+[0 | 09/41/46 _| INITIAL ISSUE
+15/12/16 _| CLIENT COMMENTS
+a GO
+a GO
+a GO
+a
+
+[page 5]
+IDENTIF.: 195001-CAL-001 PAGE 11
+OIL TO SALT HEX DATE: 15/12/16
+REV.:1
+
+MECHANICAL CALCULATION
+
+CONTENTS
+Page Rev
+
+TECHNICAL DATA
+HYDROSTATIC TEST PRESSURE [13 [0 |
+INTERNAL PRESSURE CALCULATIONS [1 [0 |
+EXTERNAL PRESSURE CALCULATIONS [9 [oo |
+TUBESHEET CALCULATION [19 [| o |
+NOZZLES
+MANHOLE COVER
+WIND LOAD CALCULATION: LOWER SUPPORTS AND BOLTS
+SEISMIC LOAD CALCULATION: LOWER SUPPORTS AND BOLTS
+WIND LOAD CALCULATION: MIDSPANS, UPPER SUPPORTS AND BOLTS
+SEISMIC LOAD CALCULATION: MIDSPANS, UPPER SUPPORTS AND BOLTS
+HORIZONTAL VESSEL ANALYSIS: LOWER SUPPORTS AND BOLTS
+HORIZONTAL VESSEL ANALYSIS: MIDSPANS, UPPER SUPPORTS AND BOLTS
+
+[page 6]
+IDENTIF.: 195001-CAL-001 PAGE 1.2
+OIL TO SALT HEX DATE: 15/12/16
+REV.: 1
+MECHANICAL CALCULATION
+TECHNICAL DATA
+ASME VIII Div.2
+84.8424 x 464.17
+[Shel Side Tube Side [i
+750.2 750.2
+457.6 457.6 | psig |
+Corrosion (except tubes) 0.125
+Joint Efficiency eS
+WIND CODE 1 ASCE 7-05 @
+SEISMIC CODE 1 ASCE 7-05 @
+NOTES
+(1) The MAWP is assumed to be the same as the design pressure.
+
+[page 7]
+IDENTIF.: 195001-CAL-001 PAGE 1.3
+OIL TO SALT HEX DATE: 15/12/16
+REV.: 1
+MECHANICAL CALCULATION
+HYDROSTATIC TEST PRESSURE
+Design | Design | Sy | 09*Sy| op 5
+Component Material Side | Pressure | Temp. | (Psi) | (psi) eet °. stis |
+(psig) (°F) room | room (psi) (psi ) design | hydrot
+SA-533 Gr.B Cl2 750,2594 | 69995 | 62995,8 |37501,03 | 37202,25| 1,008 | 0,086 | 0,064
+SA-508 Gr3
+Manhole CLI Channel | 320 _ | 750,2594 | 50009 | 45008,2 | 33300,72 | 26498,44| 1,257 | 0,121 | 0,090
+Nozzles
+(channel) | SA-106 Gr.C 750,2594 | 40001 | 36001,3 | 26701,5 | 14793,88| 1,805
+SA-508 Gr.3
+Tubesheet Cl Channel | 320 _ | 750,2594 | 0009 | 45008,2 | 33300,72 | 26498,44 | 1,257 | 0,121 | 0,084
+SA-210 A-1 750,2594 | 36999 | 33299,3 | 24701,42 | 13894,64| 1,778 | 0,230 | 0.113
+SA-508 Gr3
+Tubesheet Cll Shell 320 _ | 750,2594 | 50009 | 45008,2 |33300,72 | 26498,44| 1,257 | 0,121 | 0,084
+SA-210 A-1 Shell | 320 | 750,2594 | 36999 | 33299,3 |24701,42 | 13894,64| 1,778 | 0,230 | 0,113
+SA-533 GrB
+Shell C12 Shell 320 | 750,2594 | 69995 | 62995,8 | 37501,03 | 37202,25 0,086 | 0,073
+Nozzles
+(shell) SA-106 Gr.C_| Shell 320 _ | 750,2594 | 40001 | 36001,3 | 26701,5 | 14793,88| 1,805 | 0,216 | 0,127
+HYDROSTATIC TEST PRESSURE - 8.2.1
+SIDE CONTROLLING COMPONENT MATERIAL ST/S
+Shell Side Shell SA-533 Gr.B 1,008
+cl2
+Tube Side Channel SA-533 Gr.B 1,008
+ch
+SIDE DESIGN — HYDROSTATIC TEST PRESSURE
+PRESSURE
+(psig ) (psi )
+P 1.25 * MAWP * ST/S
+Shell Side 320 403,2
+Tube Side 320 403,2
+
+[page 8]
+IDENTIF.: 195001-CAL-001 PAGE 1.3
+OIL TO SALT HEX DATE: 15/12/16
+REV.: 1
+MECHANICAL CALCULATION
+SIDE DESIGN PRESSURE HYDROSTATIC TEST PRESSURE
+(bar ) (bar )
+P 1.43 * MAWP
+Shell Side 320 e
+Tube Side 320 ©
+
+[page 9]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+Element Thickness, Pressure, Diameter and Allowable Stress :
+| | Int. Press | Nominal | Total Corr| Element | Allowable |
+From| To | + Liq. Hd | Thickness | Allowance | Diameter | Stress(SE) |
+| | psig | in. | in. | in. | psi |
+10| 20| 322.521 | -. | 0.12500 | 85.8661 | 37195.2 |
+20| 30| 325.845 | wee | 0.12500 | 84.8425 | 37195.2 |
+30| 40| 325.845 | wee | 0.12500 | 84.8425 | 37195.2 |
+40| 50| 325.845 | 0.59055 | 0.12500 | 84.8425 | 37195.2 |
+Element Required Thickness and MAWP :
+| | Design | M.A.W.P. | M.A.P. | Minimum | Required |
+From| To | Pressure | Corroded | New & Cold | Thickness | Thickness |
+| | psig | psig | psig | in. | in. |
+10| 20] 320.000 | 1133.18 | 1363.06 | 0.78740 | 0.31208 |
+20| 30| 320.000 | 636.505 | 757.952 | 0.86614 | 0.49936 |
+30| 40| 320.000 | 398.942 | 518.438 | 0.59055 | 0.49936 |
+40| so| 320.000 | 369.432 | 501.028 | 0.51181 | 0.46075 |
+Summary of Heat Exchanger Maximum Allowable Working Pressures :
+Note:
+For ASME UHX designs, the following values include MAWPs that
+consider the tubesheet, tubes, tube/tubesheet joint etc. These
+values were determined by iteration. Review the tubesheet analysis
+report for more information.
+Shell Side MAWP = 367.642 psig
+Shell Side MAPne = 429.650 psig
+7
+
+[page 10]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+Channel Side MAWP = 364.927 psig
+Channel Side MAPnc = 474.077 psig
+Internal Pressure Calculation Results :
+ASME Code, Section VIII, Division 2, 2015
+Spherical Head From 10 To 20 SA-533 B , Fig. 3.8 Curve at 750 °F
+Spherical Shell Calculation - Section 4.3.5.1
+Computed Minimum Required Thickness [t]:
+= D/2*( exp( 0.5P/(S*E) )-1) + ci + co
+= 86.116/2*(exp( 0.5 * 322.521/(37195.203 *1.000 ))-1) + 0.125 + 0.000
+= 0.1871 + 0.125 + 0.000 = 0.3121 in.
+Computed Maximum Allowable Working Pressure [MAWP]:
+=2*S* E* In( ( 2%t +D) /D) - Pliq
+= 2 * 37195.2 * 1.000 * Ln( ( 2*0.662 + 86.116 )/86.116 ) - 2.521
+= 1135.705 - 2.521 = 1133.1838 psig
+Computed Maximum Allowable Pressure New & Cold [MAPnc]:
+=2*S* E* in( ( 2*t+D) /D)
+= 2 * 37500.000 * 1.000 * Ln( ( 2*0.787 + 85.866 )/85.866 )
+= 1363.0558 psig
+Computed Stress Intensity at Design Pressure [S]:
+= P * D*2 / ( BE( Do*2 - D*2 ) )
+= 322.521 * 86.116%2/( 1.00 ( 87.441%2 - 86.116%2 ) )
+= 10402.379 psi
+Percent Fiber Elongation per Table 6.1
+2
+
+[page 11]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+For Heads formed from Segments (75*tnom/R£) * (1-R£/Ro) 1.363 %
+For one Piece doubly Curved Heads 100*1n(Db/(Df-2t)) 36.475 %
+Where Db is the blank diameter for one piece doubly curved surfaces [Db]:
+= square root( 4 * Head Surface Area / 3.14159 )
+= square root( 4 * 12010.2/3.14159 )
+= 123.660 in.
+Cylindrical Shell From 20 To 30 SA-533 B , Fig. 3.8 Curve at 750 °F
+Cylindrical Shell Calculation - Section 4.3.3.1
+Computed Minimum Required Thickness [t]:
+= 0.5*D*( exp( P/(S*E) )-1)+ci+co
+= 0.5*85.093 *(exp( 325.845/(37195.203 *1.000 ))-1) + 0.125 + 0.000
+= 0.3744 + 0.125 + 0.000 = 0.4994 in. Equation 4.3.1
+Computed Maximum Allowable Working Pressure [MAWP]:
+=S* E* Ln( ( 2*t +D) /D) - Plig
+= 37195.203 * 1.000 * In( ( 2*0.741 + 85.093 )/85.093 ) - 5.845
+= 642.350 - 5.845 = 636.5054 psig
+Computed Maximum Allowable Pressure New & Cold [MAPnc]:
+=S* E* In( ( 24t+D)/D)
+= 37500.000 * 1.000 * Ln( ( 2*0.866 + 84.843 )/84.843 )
+= 757.9516 psig
+Computed Stress Intensity at Design Pressure [S]:
+=P*D/(E(Do-D) )
+= 325.845 * 85.093/( 1.00 ( 86.575 - 85.093 ) )
+= 18705.5703 psi
+3
+
+[page 12]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+Percent Fiber Elongation per Table 6.1
+Cylinders formed from Plate (50*tnom/RE) * (1-R£/Ro) 1.011 %
+Cylindrical Shell From 30 To 40 SA-533 B , Fig. 3.8 Curve at 750 °F
+Cylindrical Shell Calculation - Section 4.3.3.1
+Computed Minimum Required Thickness [t]:
+= 0.5*D*( exp( P/(S*E) )-1)+ci+co
+= 0.5*85.093 *(exp( 325.845/(37195.203 *1.000 ))-1) + 0.125 + 0.000
+= 0.3744 + 0.125 + 0.000 = 0.4994 in. Equation 4.3.1
+Computed Maximum Allowable Working Pressure [MAWP]:
+=S* E* Ln( ( 2*t +D) /D) - Plig
+= 37195.203 * 1.000 * Ln( ( 2*0.466 + 85.093 )/85.093 ) - 5.845
+= 404.787 - 5.845 = 398.9424 psig
+Computed Maximum Allowable Pressure New & Cold [MAPnc]:
+=S* E* in( ( 2%t+D)/D)
+= 37500.000 * 1.000 * Ln( ( 2*0.591 + 84.843 )/84.843 )
+= 518.4380 psig
+Computed Stress Intensity at Design Pressure [S]:
+=P*D/(E(Do-D) )
+= 325.845 * 85.093/( 1.00 ( 86.024 - 85.093 ) )
+= 29778.7676 psi
+Percent Fiber Elongation per Table 6.1
+Cylinders formed from Plate (50*tnom/Rf) * (1-R£/Ro) 0.691 %
+4
+
+[page 13]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+Elliptical Head From 40 To 50 SA-533 B , Fig. 3.8 Curve at 750 °F
+Head Calculation - Section 4.3.6 (and Section 4.3.7 for Ellipsoidal Head)
+Computed Minimum Required Thickness [t]:
+tr = 0.3357 in.
+t =tr+ci+ co
+= 0.3357 + 0.1250 + 0.0000
+= 0.4607 in. - see below for the derivation
+For Elliptical heads: Compute [h, k, r,] per 4.3.7.1 and PTB-3
+h = D/(2*Aspect Ratio)
+= 84.843/(2*2.000 )
+= 21.211 in
+k = D/(2*h)
+= 84.843/(2*21.211 )
+= 2.000
+r= D( 0.5/k - 0.08 ) + ca
+= 84.843 ( 0.5/2.000 - 0.08 ) + 0.125
+= 14.548 in.
+L = D(0.44 * k + 0.02) + ca
+= 84.843 (0.44 *2.000 + 0.02) + 0.125
+= 76.483 in.
+Step 3: Geometric Constants [BetaTh, PhiTh, Rth]
+Equations 4.3.8 to 4.3.11 as appropriate
+t (corroded) and P for the calc.: t = 0.3357 in. P = 325.8451 psig
+BetTh = acos[(0.5 * D - r)/(L - r)]
+5
+
+[page 14]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+= acos[(0.5 * 85.093 - 14.548 )/(76.483 - 14.548 )]
+= 1.1017 radians - Equation 4.3.8
+PhiTh = sqrt(L*t)/r
+= sqrt( 76.483 * 0.336 )/14.548
+= 0.3483 radians - Equation 4.3.9
+PhiTh < BetaTh, Thus:
+Rth = (0.5 *D-r) / cos( BetaTh - PhiTh) +r
+= (0.5 * 85.093 - 14.548 )/cos( 1.102 - 0.348 ) + 14.548
+= 52.9353 in. - Equation 4.3.10
+Step 4: Coefficients: Equations 4.3.12 to 4.3.15 [C1 and C2]:
+x/D > 0.08, Thus:
+Cl = 0.692 * (r/D) + 0.605
+= 0.692 * ( 14.548/85.093 ) + 0.605
+= 0.7233 - Equation 4.3.13
+C2 = 1.46 - 2.6 * ( r/D ) = 1.46 - 2.6 * ( 14.548/85.093 )
+= 1.0155 - Equation 4.3.15
+Step 5: Pressure to produce knuckle elastic buckling [Peth]:
+= Cl * Et * t? / ( C2 * Rth * (0.5 * Rth - r ))
+= 0.723 * 24597198 * 0.3367/
+(1.015 * 52.935 * ( 0.5 * 52.935 - 14.548 ))
+= 3130.16 psig - Equation 4.3.16
+Step 6: Internal Pressure for max stress in knuckle equals yield [Py]:
+C3 = Sy = 55693.602 psi (Not in the creep range - 4.3.6.1(f) )
+Py =c3 *t / (c2 * Rth * (0.5 * Rth/r-1) )
+= 55693.602 *0.336/(1.015 * 52.935 * ( 0.5 * 52.935/14.548 - 1 ))
+= 424.578 psig - Equation 4.3.17
+6
+
+[page 15]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+Step 7: Value of Internal Press. resulting in buckling of knuckle [G and Pck]:
+
+G = Peth/Py = 3130.156/424.578 = 7.372
+
+G > 1, Thus:
+
+Pck = ( ( 0.775086 - 0.20354G? + 0.019274*G? ) /
+
+( 1 + 0.19014G - 0.089534G? + 0.0093965*G? ) )Py
+= ( ( 0.77508*7.372 -0.20354*7.3727+0.019274*7.3729) /
+( 140.19014*7.372 -0.089534*7.3727+0.0093965*7.3723) ) *424.578
+= 775.14 psig - Equation 4.3.19
+
+Step 8: Compute Allowable Pressure base on buckling of knuckle [Pak]:
+
+= Pck/1.5 = 775.14/1.5 = 516.76 psig - Equation 4.3.21
+Step 9: Compute allowable pressure based on rupture of crown [Pac]:
+
+=2*S*E/ (L/t+0.5)
+
+= 2 * 37195.203 * 1.000/(76.483/0.336 + 0.5 )
+
+= 325.85 psig - Equation 4.3.22
+Step 10: Compute final pressure [Pa]:
+
+= min( Pak, Pac ) = min(516.759 , 325.845 )
+
+= 325.85 psig - Equation 4.3.23: (same as original design pressure)
+Allowable pressure in Crown at given thickness [Pac]:
+
+=2*S*E/ (L/t+0.5)
+
+= 2 * 37195.203 * 1.000/(76.483/0.387 + 0.5 )
+
+= 375.277 psig
+Computed Maximum Allowable Pressure [MAWP]:
+
+= MaxPressure - Pliq = 375.2775 - 5.845 = 369.4324 psig
+Computed Maximum Allowable Pressure New and Cold [MAPnc]:
+
+7
+
+[page 16]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Internal Pressure Calculations :
+= 501.0277 psig
+Computed Membrane Stress Intensity at Design Pressure [Sm]:
+= 32295.766 psi
+Required Thickness of Straight Flange = 0.499 in.
+Percent Fiber Elongation per Table 6.1
+For Heads formed from Segments (75*tnom/R£) * (1-R£/Ro) 3.009 %
+For one Piece doubly Curved Heads 100*1n(Db/(Df-2t)) 20.704 %
+Where Db is the blank diameter for one piece doubly curved surfaces [Db]:
+= square root( 4 * Head Surface Area / 3.14159 )
+= square root( 4 * 8553.6/3.14159 )
+= 104.359 in.
+Elements Suitable for Internal Pressure.
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+8
+
+[page 17]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+External Pressure Calculation Results :
+ASME Code, Section VIII, Division 2, 2015
+Spherical Head From Tsht to 20 Ext. Chart: CS-5 at 750 °F
+Maximum External Pressure per Div. 2 Section 4.4
+Elastic Hoop Compressive Membrane Failure Stress [Fhe]:
+= 0.075 * Ey * (t / Ro )
+= 0.075 * 24597198 * ( 0.662/43.720 )
+= 27950.102 psi
+Ratio of Elastic Hoop Compressive Membrane Failure Stress to Yield [Fr]:
+= Fhe / Sy
+= 27950.1 / 55693.6
+= 0.502
+Predicted Buckling Stress [Fic]:
+Since Fr <= 0.55, Fic = Fhe
+= 27950.102 psi
+Allowable Circumferential Compressive Stress [Fha]:
+Since Fr <= 0.55, Fha = Fhe/FS
+= 27950.10/2.035
+= 13733.845 psi
+Allowable External Pressure at the given Thickness [Pa]:
+= 2 * Pha[t/Ro]
+= 2 * 13733.845 [0.662/43.720 ]
+= 416.158 psig
+9
+
+[page 18]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+Cylindrical Shell From 20 to 30 Ext. Chart: CS-5 at 750 °F
+Maximum External Pressure per Div. 2 Section 4.4
+Determine Parameter [Mx]:
+= L / sqrt( Ro * t )
+= 240.158/sqrt( 43.287 * 0.741 )
+= 42.400
+Compute the Factor [Ch]:
+Since Mx > 13 and Mx < 2 * (Do/t)°™4, Ch = 1.12 * Mx?
+= 1.12 * 42.400-+-058
+= 0.0213
+Elastic Hoop Compressive Membrane Failure Stress [Fhe]:
+= 1.6 * Ch * Ey * (t / Do)
+= 1.6 * 0.021 * 24597198 * ( 0.741/86.575 )
+= 7161.130 psi
+Ratio of Elastic Hoop Compressive Membrane Failure Stress to Yield [Fr]:
+= Fhe / Fy
+= 7161.1/55693.6
+= 0.129
+Predicted Buckling Stress [Fic]:
+Since Fr <= 0.552, Fic = Fhe
+= 7161.130 psi
+Compute the Factor of Safety [FS]:
+Since Fic [7161.13 ] < 0.55 * 55693.60 , FS =2
+Allowable Circumferential Compressive Stress [Fha]:
+10
+
+[page 19]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+Since Fr <= 0.552, Fha = Fhe/FS
+= 7161.130/2.000
+= 3580.565 psi
+Allowable External Pressure at the given Thickness [Pa]:
+= 2 * Fha * ( t / Do )
+= 2 * 3580.565 * ( 0.741/86.575 )
+= 61.304 psig
+Cylindrical Shell From 30 to Ring Pext Ext. Chart: CS-5 at 750 °F
+Maximum External Pressure per Div. 2 Section 4.4
+Determine Parameter [Mx]:
+= L / sqrt( Ro * t )
+= 240.158/sqrt( 43.012 * 0.466 )
+= 53.668
+Compute the Factor [Ch]:
+Since Mx > 13 and Mx < 2 * (Do/t)°™4, Ch = 1.12 * Mxt58
+= 1.12 * 53.6681-°58
+= 0.0166
+Elastic Hoop Compressive Membrane Failure Stress [Fhe]:
+= 1.6 * Ch* Ey * (t / Do )
+= 1.6 * 0.017 * 24597198 * ( 0.466/86.024 )
+= 3528.021 psi
+Ratio of Elastic Hoop Compressive Membrane Failure Stress to Yield [Fr]:
+= Fhe / Fy
+= 3528.0/55693.6
+= 0.063
+71
+
+[page 20]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+Predicted Buckling Stress [Fic]:
+Since Fr <= 0.552, Fic = Fhe
+= 3528.021 psi
+Compute the Factor of Safety [FS]:
+Since Fic [3528.02 ] < 0.55 * 55693.60 , FS =2
+Allowable Circumferential Compressive Stress [Fha]:
+Since Fr <= 0.552, Fha = Fhe/FS
+= 3528.021/2.000
+= 1764.011 psi
+Allowable External Pressure at the given Thickness [Pa]:
+= 2 * Fha * ( t / Do )
+= 2 * 1764.011 * ( 0.466/86.024 )
+= 19.093 psig
+Cylindrical Shell From Ring Pext to 40 Ext. Chart: CS-5 at 750 °F
+Maximum External Pressure per Div. 2 Section 4.4
+Determine Parameter [Mx]:
+=L/ sart( Ro * t )
+= 261.007/sqrt( 43.012 * 0.466 )
+= 58.328
+Compute the Factor [Ch]:
+Since Mx > 13 and Mx < 2 * (Do/t)°™, Ch = 1.12 * Mx *8
+= 1.12 * 58.328°1-o58
+= 0.0152
+12
+
+[page 21]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+Elastic Hoop Compressive Membrane Failure Stress [Fhe]:
+= 1.6 * Ch * Ey * (t / Do)
+= 1.6 * 0.015 * 24597198 * ( 0.466/86.024 )
+= 3230.559 psi
+Ratio of Elastic Hoop Compressive Membrane Failure Stress to Yield [Fr]:
+= Fhe / Fy
+= 3230.6/55693.6
+= 0.058
+Predicted Buckling Stress [Fic]:
+Since Fr <= 0.552, Fic = Fhe
+= 3230.559 psi
+Compute the Factor of Safety [FS]:
+Since Fic [3230.56 ] < 0.55 * 55693.60 , FS =2
+Allowable Circumferential Compressive Stress [Fha]:
+Since Fr <= 0.552, Fha = Fhe/FS
+= 3230.559/2.000
+= 1615.280 psi
+Allowable External Pressure at the given Thickness [Pa]:
+= 2 * Fha * (t / Do )
+= 2 * 1615.280 * ( 0.466/86.024 )
+= 17.483 psig
+Elliptical Head From 40 to 50 Ext. Chart: CS-5 at 750 °F
+Maximum External Pressure per Div. 2 Section 4.4
+Elastic Hoop Compressive Membrane Failure Stress [Fhe]:
+13
+
+[page 22]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+= 0.075 * Ey * ( t / Ro )
+= 0.075 * 24597198 * ( 0.387/76.422 )
+= 9337.411 psi
+Ratio of Elastic Hoop Compressive Membrane Failure Stress to Yield [Fr]:
+= Fhe / Sy
+= 9337.4 / 55693.6
+= 0.168
+Predicted Buckling Stress [Fic]:
+Since Fr <= 0.55, Fic = Fhe
+= 9337.411 psi
+Compute the Factor of Safety [FS]:
+Since Fic [9337.41 ] < 0.55 * 55693.60 , FS =2
+Allowable Circumferential Compressive Stress [Fha]:
+Since Fr <= 0.55, Fha = Fhe/FS
+= 9337.41/2.000
+= 4668.706 psi
+Allowable External Pressure at the given Thickness [Pa]:
+= 2 * Fha[t/Ro]
+= 2 * 4668.706 [0.387/76.422 ]
+= 47.261 psig
+Stiffening Ring Calcs for : Ring Pext, SA-533 B
+Local Stiffener Geometry Requirements per [6.4] or [Div. 2 4.4.37]:
+h/t <= 0.375 * sqrt( E/Fy ) [eq 6-6] or [eq 4.4.37]
+6.496/0.866 <= 0.375 * sqrt( 24597198/55694 )
+7.500 <= 7.881 Ok
+14
+
+[page 23]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+
+Effective Length of Shell 6.96 in.
+
+Area (in?) Distance (in.) Area*Dist
+
+Shell: 3.241 0.2328 0.754
+
+Ring : 5.627 3.7136 20.895
+
+Total: 8.867 21.649
+Centroid of Ring plus Shell = 2.441 in.
+
+Inertia Distance A*Dist?
+
+Shell: 0.059 2.2087 15.809
+
+Ring : 19.786 -1.2722 9.106
+
+Total: 19.845 24.915
+Available Moment of Inertia, Ring plus Shell 44.759 int*4
+Determine Parameter [Mx]:
+
+= L / sqrt( Ro * t )
+
+= 250.582/sqrt( 43.012 * 0.466 )
+
+= 55.998
+Compute the Factor [Ch]:
+Since Mx > 13 and Mx < 2 * (Do/t)°, Ch = 1.12 * Mx"?
+
+= 1.12 * 55.998°71058
+
+= 0.0158
+Elastic Hoop Compressive Membrane Failure Stress [Fhe]:
+
+= 1.6 * Ch * Ey * (t / Do )
+
+= 1.6 * 0.016 * 24597198 * ( 0.466/86.024 )
+
+= 3372.924 psi
+Ratio of Elastic Hoop Compressive Membrane Failure Stress to Yield [Fr]:
+
+= Fhe / Fy
+
+= 3372.9/55693.6
+
+= 0.061
+
+15
+
+[page 24]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+Predicted Buckling Stress [Fic]:
+Since Fr <= 0.552, Fic = Fhe
+= 3372.924 psi
+Compute the Factor of Safety [FS]:
+Since Fic [3372.92 ] < 0.55 * 55693.60 , FS =2
+Allowable Circumferential Compressive Stress [Fha]:
+Since Fr <= 0.552, Fha = Fhe/FS
+= 3372.924/2.000
+= 1686.462 psi
+Allowable External Pressure at the given Thickness [Pa]:
+= 2 * Fha * ( t / Do )
+= 2 * 1686.462 * ( 0.466/86.024 )
+= 18.254 psig
+Determine the value of [n]:
+= sqrt( 2 * DoS / (3 * LB * t?5 >) )
+= sqrt( 2 * 86.02475/( 3 * 515.476 * 0.591°° ) )
+= 1.000 Note: Rounded to Nearest Integer Value
+Because n < 2, setn =2
+Required Moment of Inertia for the Ring/Shell Junction [Rir]:
+= 1.5*Fhe*Ls * Rc? * t / (E * (n?-1)) [eq 6-1] or [4.4.30]
+= 1.5*3373*250.582*46.2607*0.591/(24597198* (2. 0007-1) )
+= 17.117 in**4
+Compute the Factor of Safety [FS]:
+Since Fic [21232.82 ] < 0.55 * 55693.60 , FS = 2
+16
+
+[page 25]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+Required Moment of Inertia for the Ring/Shell Junction, Shear [Irs]:
+= 0.184 * Cv * Ms?® * t? * Ls [eq 6-5] or [eq 4.4.43]
+= 0.184 * 0.1994 * 55.998°* * 0.4656? * 250.5824
+= 23.222 in**4
+External Pressure Calculations
+| | Section | Outside | Corroded | Factor | Factor |
+From| To | Length | Diameter | Thickness | A | B |
+| | ft. | in, | in, | | psi |
+10|Tsht | No Calc | 87.4409 | 0.66240 | No Calc | No Calc |
+Tsht| 20| No Cale | 87.4409 | 0.66240 | No Cale | No Cale |
+20| 30| 20.0131 | 86.5748 | 0.74114 | No Cale | No Cale |
+30|Ring| 20.0131 | 86.0236 | 0.46555 | No Calc | No Calc |
+Ring| 40| 21.7506 | 86.0236 | 0.46555 | No Cale | No Cale |
+40| 50| No Calc | 85.8661 | 0.38681 | No Calc | No Cale |
+External Pressure Calculations
+| | External | External | External | External |
+From| To | Actual T. | Required T.|Des. Press. | M.A.W.P. |
+| | in, | in. | psig | psig |
+10|Tsht | 0.78740 | 0.25959 | 14.9972 | 416.158 |
+Tsht| 20| 0.78740 | 0.25959 | 14.9972 | 416.158 |
+20| 30| 0.86614 | 0.54973 | 14.9972 | 61.3044 |
+30|Ring| 0.59055 | 0.54816 | 14.9972 | 19.0933 |
+Ring| 40| 0.59055 | 0.56315 | 14.9972 | 17.4835 |
+40| s5o| 0.51181 | 0.34290 | 14.9972 | 47.2613 |
+Minimum 17.483
+External Pressure Calculations
+17
+
+[page 26]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+External Pressure Calculations :
+| | Actual Len.| Allow. Len.| Ring Inertia | Ring Inertia |
+From| To | Bet. Stiff.| Bet. Stiff.| Required | Available |
+| | ft. | ft. | in**4 | ink*4 |
+10|Tsht | No Calc | No Calc | No Calc | No Calc |
+Tsht| 20| No Cale | No Cale | No Calc | No Cale |
+20| 30| 20.0131 | 75.7297 | No Calc | No Calc |
+30|Ring| 20.0131 | 25.1434 | No Calc | No Calc |
+Ring| 40| 21.7506 | 25.1436 | 23.2216 | 44.7595 |
+40| 50| No Calc | No Cale | No Cale | No Cale |
+Elements Suitable for External Pressure.
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+18
+
+[page 27]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Input Echo, Tubesheet Number 1, Description: tsh
+Shell Data:
+Main Shell Description: From Node 20 to 30
+Shell Maximum Design Pressure Psd, max 320.00 psig
+Shell Maximum Operating Pressure Psox,max 320.00 psig
+Shell Minimum Operating Pressure Psox,min 0.00 psig
+Shell Thickness ts 0.8661 in.
+Shell Internal Corrosion Allowance cas 0.1250 in.
+Shell External Corrosion Allowance caext 0.0000 in.
+Inside Diameter of Shell Ds 84.843 in.
+Shell Temperature for Internal Pressure Ts 750.20 °F
+Shell Material SA-533 B
+Shell Material UNS Number K12539
+Shell Allowable Stress at Temperature Ss 37195.23 psi
+Shell Allowable Stress at Ambient 37500.00 psi
+Channel Description: From Node 10 to 20
+Channel Type: Hemispherical Head
+Channel Maximum Design Pressure Ptd,max 320.00 psig
+Channel Maximum Operating Pressure Ptox, max 320.00 psig
+Channel Minimum Operating Pressure Ptox,min 0.00 psig
+Channel Thickness te 0.7874 in.
+Channel Corrosion Allowance cac 0.1250 in.
+Inside Diameter of Channel De 85.866 in.
+Channel Design Temperature TEMPC 750.20 °F
+Channel Material SA-533 B
+Channel Material UNS Number K12539
+Channel Allowable Stress at Temperature Se 37195.23 psi
+Channel Allowable Stress at Ambient 37500.00 psi
+Tube Data:
+
+19
+
+[page 28]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Number of Tube Holes Nt 7154
+Tube Wall Thickness et 0.0650 in.
+Tube Outside Diameter D 0.6250 in.
+Straight Tube Length (bet. inner tubsht faces) L 457.48 in.
+Design Temperature of the Tubes 750.20 °F
+Tube Material SA-210 A-1
+Tube Material UNS Number K02707
+Is this a Welded Tube No
+Tube Material Specification used smls. tube
+Tube Allowable Stress at Temperature 13890.00 psi
+Tube Allowable Stress At Ambient 24700.00 psi
+Tube Yield Stress At design Temperature syt 25596.80 psi
+Tube Pitch (Center to Center Spacing) P 0.8750 in.
+Tube Layout Pattern Triangular
+Fillet Weld Leg af 0.0000 in.
+Groove Weld Leg ag 0.0650 in.
+Tube-Tubesheet Joint Weld Type Full Strength
+Method for Tube-Tubesheet Jt. Allow. UW-20
+Tube-Tubesheet Joint Classification e
+Radius to Outermost Tube Hole Center ro 41.203 in.
+Largest Center-to-Center Tube Distance ul 3.5039 in.
+Length of Expanded Portion of Tube 1tx 0.0000 in.
+Tube-side pass partition groove depth hg 0.0000 in.
+Tubesheet Data:
+Tubesheet TYPE: U-tube, Integral both sides, Conf. a
+Tubesheet Design Metal Temperature T 750.20 °F
+Tubesheet Material SA-508 3
+
+20
+
+[page 29]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Note: Using 2 * Yield for Discontinuity Stress Allowable (UG-23(e)), Sps.
+
+Make sure that material properties at this temperature are not
+
+time-dependent for Material: SA-508 3
+
+Tubesheet Material UNS Number K12042
+
+Tubesheet Allowable Stress at Temperature s 26496.80 psi
+Tubesheet Allowable Stress at Ambient Tt 33300.00 psi
+Thickness of Tubesheet h 6.6929 in.
+Tubesheet Corr. Allowance (Shell side) cats 0.1250 in.
+Tubesheet Corr. Allowance (Channel side) cate 0.1250 in.
+Tubesheet Outside Diameter A 87.441 in.
+
+Area of the Untubed Lanes AL 290.937 in?
+
+Junction Stress Reduction option Perform Plastic Calculation
+Perform Differential Pressure Design NO
+
+Run Multiple Load Cases YES
+
+Shell Side Min. Design Pressure Psd,min 14.9972 psig
+
+Channel Side Min. Design Pressure Ptd,min 14.9972 psig
+Tubesheet Integral with Both
+
+Tubesheet Extended as Flange No
+ASME TubeSheet Results per Part UHX, 2015
+Elasticity/Expansion Material Properties :
+Shell -TM-1 Material Group A
+
+Elastic Mod. at Design Temperature 750.2 °F 0.24597E+08 psi
+Elastic Mod. at Ambient Temperature 70.0 °F 0.29000E+08 psi
+
+21
+
+[page 30]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Channel -TM-1 Material Group A
+Elastic Mod. at Design Temperature 750.2 °F 0.24597E+08 psi
+Elastic Mod. at Ambient Temperature 70.0 °F 0.29000E+08 psi
+Tubes -TM-1_ Carbon Steels with C<= 0.3%
+Elastic Mod. at Tubsht. Design Temp. 750.2 °F 0.24847E+08 psi
+Elastic Mod. at Ambient Temperature 70.0 °F 0.29400E+08 psi
+TubeSheet -TM-1 Material Group B
+Elastic Mod. at Design Temperature 750.2 °F 0.242498+08 psi
+Elastic Mod. at Ambient Temperature 70.0 °F 0.27800E+08 psi
+Tube Required Thickness under Internal Pressure (Tubeside pressure) :
+Thickness Due to Internal Pressure:
+
+= (P*(D/2-CAE)) / (S*E+0.4*P) per Appendix 1-1 (a) (1)
+
+= (335.00*(0.6250/2-0.000) /(13890.00*1.00+0.4*335.00)
+
+= 0.0075 + 0.0000 = 0.0075 in.
+Tube Required Thickness under External Pressure (Shellside pressure) :
+External Pressure Chart cs-2 at 750.20 °F
+Elastic Modulus for Material 23646618.00 psi
+Results for Max. Allowable External Pressure (Emawp):
+
+TCA oDCcA SLEN D/T L/D Factor A B
+0.0650 0.62 498.68 9.62 50.0000 0.0118976 11845.73
+22
+
+[page 31]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+EMAWP = (2.167/(D/T)-0.0833)*B = 1682.8988 psig
+Results for Reqd Thickness for Ext. Pressure (Tca):
+TCA opcA SLEN D/T L/D Factor A B
+
+0.0201 0.62 498.68 31.04 50.0000 0.0011417 7799.43
+EMAWP = (4*B)/(3*(D/T)) = ( 4 *7799.4282 )/( 3 *31.0393 ) = 335.0342 psig
+Summary of Tube Required Thickness Results:
+Total Required Thickness including Corrosion all. 0.0201 in.
+Allowable Internal Pressure at Corroded thickness 3151.31 psig
+Required Internal Design Pressure 335.00 psig
+Allowable External Pressure at Corroded thickness 1682.90 psig
+Required External Design Pressure 335.00 psig
+Required Thickness due to Shell Side pressure 0.0201 in.
+Detailed Results for load Case D1 corr. (Psd,min + Ptd,max)
+Results for ASME U-tube Tubesheet Calculations for Configuration a,
+Per Edition 2015, Original Thickness :
+Minimum Required Thickness for Shear [HreqS]:
+
+= 1/(4 * Mu) * (Do/(0.8 * S)) * [Ps - Pt] + Cats + Cate
+
+= 1/(4 * 0.286 ) * (83.03 /(0.8 * 26496.80 )) * [-15.00 - 320.00 ] + 0.250
+
+= 1.3982 in.
+UHX-12.5.1 Step 1:
+Compute the Equivalent Outer Tube Limit Circle Diameter [Do]:
+
+= 2+* ro + at
+
+= 2 * 41.2032 + 0.6250 = 83.031 in.
+
+23
+
+[page 32]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Determine the Basic Ligament Efficiency for Shear [mu]:
+= (p - dt) /p
+= (0.875 - 0.625 ) / 0.875 = 0.286
+UHX-12.5.2 Step 2:
+Compute the Ratio [Rhos]:
+= Ds / Do (Configurations a, b, ¢)
+= 85.0925 / 83.0314 = 1.0248
+Compute the Ratio [Rhoc]:
+= De / Do (Configurations a, e, f)
+= 86.1161 / 83.0314 = 1.0372
+Moment on Tubesheet due to Pressures (Ps, Pt) [Mts]:
+= Do?/16 * [(Rhos-1)*(Rhos*+1)* Ps - (Rhoc-1) * (Rhoc*+1) * Pt J]
+= 83.0317/16 * [ (1.025 - 1) * (1.0257 + 1) * -14.997 -
+(1.037 - 1) * (1.0377 + 1) * 320.000 ]
+= -10961.7852 psig*in.?
+UHX-12.5.3 Step 3, Determination of Effective Elastic Properties :
+Compute the Ratio [rho]:
+= 1tx / h = 0.0000 / 6.4429 = 0.0000 ( must be 0 <= rho <= 1 )
+Compute the Effective Tube Hole Diameter [d*]:
+= max( dt - 2tt*( Et/E )( St/s )( rho ), dt - 2tt)
+= max( 0.6250 -2*0.0650 *(24847414 /24248608 )*
+(13889 /26496 )*(0.000 ), 0.6250 -2*0.0650 )
+= 0.6250 in.
+Compute the Effective Tube Pitch [p*]:
+24
+
+[page 33]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+=p / sqrt( 1 - 4 * min( AL * CNV_factor, 4*Do*p)/(Pi * Do?) )
+= 0.8750 / sqrt( 1 - 4 * min( 290.94 *1.000 , 4*83.031 *0.875 )
+(3.141* 83.0317) )
+= 0.8995 in.
+Compute the Effective Ligament Efficiency for Bending [mu*]:
+= (p* - d*) / p* = (0.8995 - 0.6250 ) / 0.8995 = 0.30515
+E*/E and nu* for Triangular pattern from Fig. UHX-11.3.
+h/p = 7.363326 ; mu* = 0.305147
+E*/E = 0.287905 ; nu* = 0.350376 ; E* = 6981298. psi
+Note: As h/p (7.363) is > 2, data values for h/p = 2 were used.
+UHX-12.5.4 Step 4:
+Compute Shell Coefficient [betaS]:
+= (( 12 * (1-nus?))*0.25 )/((Ds + ts) * ts )%
+= (( 12 * (1 - 0.30?) )*0.25 ) / (( 85.0925 + 0.7411 ) * 0.7411 )%
+= 0.2279 1/in.
+Determine Shell Coefficient [ks]:
+= betaS * Es * ts? / ( 6 * (1 - rnus’) )
+= 0.228 * 24597214 * 0.7413 / ( 6 * (1 - 0.3007) )
+= 417997.1250 psig*in.?
+Determine Shell Coefficient [Lambdas]:
+= (6*Ds*ks) /h? * (1 + h*betas + *(h*betas)?/2 )
+= 6* 85.093 * 417997.125/6.443? * ( 1 + 6.443 *0.228 + 1.078 )
+= 2829983.0000 psig
+Determine Shell Coefficient [deltaS]
+25
+
+[page 34]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= Ds?/(4 * Es * Ts) * ( 1 - nus/2 )
+= 85.0937/( 4 * 24597214 * 0.741 ) * (1 - 0.3 /2 )
+= 0.0000844023 in./psi
+Calculate Parameter [OmegaS]:
+= rhos * ks * betaS * deltaS( 1 +h * betas )
+= 1.0248 * 417997.12 * 0.2279 * 0.000084 ( 1 + 6.4429 * 0.2279 )
+= 20.3412 in.?
+Determine Channel Coefficient [betac]:
+= (( 12 * (1 - nuc?) )*0.25 )/((De + te) * te )*0.5
+= (( 12 * (1 - 0.307) )*0.25 )/((86.1161 + 0.6624 ) * 0.6624 )*0.5
+= 0.2398 1/in.
+Determine Channel Coefficient [kc]:
+= betac * Ec * tc? / ( 6 * (1 - rnus?) )
+= 0.240 * 24597214 * 0.6623 / ( 6 * (1 - 0.3007) )
+= 313939.5938 psig*in.?
+Determine Channel Coefficient [Lambdac]:
+= (6*De*ke) /h? * (1 + h*betac + (h*betac)?/2)
+= 6*86.116 *313939.594/ (6.443%) * ( 1 + 6.443 *0.240 + 1.193 )
+= 2267117.0000 psig
+Determine Channel Coefficient [deltaC].:
+= Do?/(4 * Ec * Tc) * ( 1 - nuc )/2
+= 86.1167/( 4 * 24597214 * 0.662 ) * (1 - 0.3 )/2
+= 0.0000398263 in./psi
+Calculate Parameter [OmegaC]:
+= rhoc * ke * Betac * deltaCc( 1 +h * betac )
+= 1.0372 * 313939.59 * 0.2398 * 0.000040 ( 1 + 6.4429 * 0.2398 )
+26
+
+[page 35]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 7.9122 in.?
+UHX-12.5.5 Step 5:
+Diameter ratio [K]:
+= A / Do = 87.4409 / 83.0314 = 1.0531
+Determine Coefficient [F]:
+= (1 - nu*)/E* * ( Lambdas + Lambdac + E * ln(K) )
+= (1 - 0.35 )/6981298 * ( 2829983 + 2267117 +
+24248608 * In(1.05 ) )
+= 0.5911
+UHX-12.5.6 Step 6:
+Moment Acting on Unperforated Tubesheet Rim [M*]
+= Mts + OmegaC * Pt - OmegaS * Ps
+= -10961.785 + 62.604 * 320.000 - 413.765 * -14.997
+= -8124.8052 psig*in.?
+UHX-12.5.7 Step 7:
+Maximum Bending Moment acting on Periphery of Tubesheet [Mp]:
+= ((M*) - Do?/32 * F * (Ps - Pt) ) / (1 + F)
+= ((-8124.81 ) - 83.031?/32 * 0.591 * (-15.00 - 320.00) ) / (1 + 0.59 )
+= 21704.6699 psig*in.”
+Maximum Bending Moment acting on Center of Tubesheet [Mo]:
+= Mp + Do?/64 * (3 + rnu*) (Ps - Pt)
+= 21704.67 + 83.0317/64 * (3 + 0.350 ) (-15.00 - 320.00 )
+= -99199.0156 psig*in.?
+27
+
+[page 36]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Maximum Bending Moment acting on Tubesheet [M]:
+
+= Max( abs (Mp), abs(Mo) )
+
+= Max( abs(21704.670 ), abs(-99199.016) )
+
+= 99199.0156 psig*in.?
+UHX-12.5.8 Results for Step 8:
+Tubesheet Bending Stress at Original Thickness:
+
+=6*M/ ( (mu*) * (h - hg')? )
+
+= 6 * 99199.016 / ( (0.3051 ) * ( 6.4429 - 0.0000 )? )
+
+= 46987.8789 psi
+The Allowable Tubesheet Bending Stress [SigmaAll]:
+
+= 2* S = 2 * 26496.80 = 52993.60 psi
+Tubesheet Bending Stress at Final Thickness [Sigma]:
+
+=6*M/ ( (mu*) * (hb - hg')?
+
+= 6 * 97147.047 / ( (0.3051 ) * ( 6.0123 - 0.0000 )?
+
+= 52842.9023 psi
+Required Tubesheet Thickness, for Bending Stress [HreqB]:
+
+= H + CATS + CATC = 6.0123 + 0.1250 + 0.1250 = 6.2623 in.
+Required Tubesheet Thickness for Given Loadings (includes CA) [Hreq]:
+
+= Max( HreqB, HreqS ) = Max( 6.2623 , 1.3982 ) = 6.2623 in.
+UHX-12.5.9 Step 9:
+
+abs(Ps - Pt) = abs(-15.00 - 320.00 ) = 334.997 psig
+Shear Stress check [Tau_limit]:
+
+= 3.2 * s * MU * h / Do
+
+28
+
+[page 37]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 3.2 * 26496.80 * 0.286 * 6.443 / 83.03 = 1879.81 psig
+Average Shear Stress at the Outer Edge of Perforated Region [Tau]:
+= 1/(4* Mu) * (Do/h) * [Ps - Pt]
+= 1/(4*0.286) *(83.03/6.44) *[-15.00-320.00]psi
+= 3777.54 psi
+UHX-12.5.10 Results for Step 10:
+Axial Shell Membrane Stress [Sigmasm]:
+= Ds? / (4 * ts * (Ds + ts) ) * Ps
+= 85.0925? / (4 * 0.7411 * (85.0925 + 0.7411 ) ) * -14.997
+= -426.752 psi
+Axial Shell Bending Stress [Sigmasb]:
+= 6*ks/ts? * ( betaS * P's + 6*(1 - rnu*) / (E*) *
+Do/h? * (1 + h * betaS/2) * (Mp + Do? / 32 * (Ps - Pt) ))
+= 6*417997.12 /0.741? * [ 0.228 *0.00 + 6*(1 - 0.350 )/6981298 *
+83.031 /6.443% * (1 + 6.443 * 0.228 /2) *(21704.67 + 83.0317/32 *
+(-15.00 - 320.00 )) J
+= -70583.445 psi
+Shell Membrane + Bending Stress [Sigmas]:
+= abs(Sigma_sm) + abs(Sigma_sb) (Should be <= 1.5*Ss)
+= 71010.195 psi (Should be <= 55792.84)
+Axial Channe! Membrane Stress [Sigmacm]:
+= De? / (4 * te * (De + te) ) * Pt
+= 86.1161? / (4 * 0.6624 * (86.1161 + 0.6624 ) ) * 320.000
+= 10321.086 psi
+Axial Channel! Bending Stress [Sigmacb]:
+2g
+
+[page 38]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 6*kc/tc? * [ Betac * (deltac*Pt) - 6*(1 - nu*) / (E*) *
+Do/h? * (1 + h * Betac/2) * (Mp + Do?/32 * (Ps-Pt)) ]
+= 6*313939.59 /0.662? * [ 0.240 * 0.01 - 6*(1 - 0.350 )/6981298 *
+83.031 /6.4433 * (1 + 6.443 * 0.240 /2) *(21704.67 + 83.0317/32 *
+(-15.00 - 320.00 )) ]
+= 79677.367 psi
+Channel Membrane + Bending Stress [Sigmac]:
+= abs(Sigmacm) + abs(Sigmacb) (Should be <= 1.5*Sc)
+= 89998.453 psi (Should be <= 55792.84)
+Step 11, The Cylinder-to-Tubesheet Juncture is Overstressed.
+Performing a simplified Elastic-Plastic calculation
+(option 3 ) to reduce the overstress condition.
+Modify Es and/or Ec and Recompute from Step 4 onwards.
+Es = Es * (1.5 * Ss / Sigmas )%
+= 24597214 * (1.5 * 37195.23 / 71010 )*/?
+Es = 21802926.0 psi
+Ec = Ec * (1.5 * Sc / Sigmac )%
+= 24597214 * ( 1.5 * 37195.23 / 89998.45 )%
+Ec = 19366790.0 psi
+Tubesheet Bending Stress at Original Thk., after Elas-Plas iteration:
+= 6*M/ ( (mu*) * ( h - h'g)?
+= 6 * 101687.859 / ( (0.3051 ) * ( 6.4429 - 0.0000 )?
+= 48166.7734 psi (Should be <= 52993.60)
+Note: Tubesheet is Not overstressed after Elas-Plastic iteration
+30
+
+[page 39]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+
+the design is acceptable. Recomputing tubesheet required thkickness.
+Required Tubesheet Thk., for Bending Stress after Elas-Plas iteration [HreqB]:
+
+= H + CATS + CATC = 6.1032 + 0.1250 + 0.1250 = 6.3532 in.
+Required Tubesheet Thk. after Elas-Plas iteration (includes CA) [Hreq]:
+
+= Max( HreqB, HreqS ) = Max( 6.3532 , 1.3982 ) = 6.3532 in.
+Tube Weld Size Results per UW-20:
+Tube Strength [Ft]:
+
+= 3.1415 * tt * (do -t) * Sa
+
+= 3.1415 * 0.065 * ( 0.625 - 0.065 ) * 13890.00 = 1588.377 lb.
+Fillet Weld Strength, Ff = 0.0
+Groove Weld Strength [Fg]:
+
+= .85 * 3.1415 * ag * (do + 0.67*ag) * Sw (but not > Ft)
+
+= .85 * 3.1415 * 0.065 * (0.625 + 0.67*0.065 ) * 13890.00
+
+= 1588.3766 1b.
+Max. Allow. Tube-Tubesheet Joint load, Lmax
+
+= Ft = 1588.3766 lb.
+Design Strength Ratio [fd]:
+
+= 1.0000
+Weld Strength Factor [fw]:
+
+= Sot / ( Min(Sot, S) ) = 1.0000
+Min Weld Length [ar]:
+
+= ( (0.75 * do)? + 1.76*t*(do - t)* fw * fd) )% - .75 * do
+
+37
+
+[page 40]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 0.0640 in.
+Minimum Required Groove Weld Leg agr 0.0650 in.
+Tube-Tubesheet Jt allowable, 1588.38 is >= tube strength 1588.38 1b.
+Note: This tube-tubesheet joint is a Full Strength joint
+Stress/Force summary for loadcase D1 corr. (Psd,min + Ptd,max):
+
+Stress Description Actual Allowable Pass/Fail
+Tubesheet bend. stress 48166.8 <= 52993.6 psi Ok
+Tubesheet shear stress 3777.5 <= 21197.4 psi ok
+Stress in Shell at Tubesheet 71010.2 <= 111585.7 psi ok
+Stress in Channel at Tubesheet 89998.5 <= 111585.7 psi Ok
+
+Thickness results for loadcase D1 corr. (Psd,min + Ptd,max):
+Thickness (in.) Required Actual P/F |
+
+Tubesheet Thickness : 6.3532 6.6929 Ok |
+
+Tube-Tubesheet Groove Weld Leg : 0.0650 0.0650 Ok |
+Detailed Results for load Case D2 corr. (Psd,max + Ptd,min)
+Results for ASME U-tube Tubesheet Calculations for Configuration a,
+Per Edition 2015, Original Thickness :
+Minimum Required Thickness for Shear [HreqS]:
+
+32
+
+[page 41]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 1/(4 * Mu) * (Do/(0.8 * S)) * [Ps - Pt] + Cats + Cate
+= 1/(4 * 0.286 ) * (83.03 /(0.8 * 26496.80 )) * [320.00 - -15.00 ] + 0.250
+= 1.3982 in.
+UHX-12.5.1 Step 1:
+Compute the Equivalent Outer Tube Limit Circle Diameter [Do]:
+= 2+* ro + dt
+= 2 * 41.2032 + 0.6250 = 83.031 in.
+Determine the Basic Ligament Efficiency for Shear [mu]:
+= (p - dt) /p
+= (0.875 - 0.625 ) / 0.875 = 0.286
+UHX-12.5.2 Step 2:
+Compute the Ratio [Rhos]:
+= Ds / Do (Configurations a, b, ¢)
+= 85.0925 / 83.0314 = 1.0248
+Compute the Ratio [Rhoc]:
+= De / Do (Configurations a, e, f)
+= 86.1161 / 83.0314 = 1.0372
+Moment on Tubesheet due to Pressures (Ps, Pt) [Mts]:
+= Do?/16 * [(Rhos-1)*(Rhos*+1)* Ps - (Rhoc-1) * (Rhoc?+1) * Pt J]
+= 83.031?/16 * [ (1.025 - 1) * (1.025% + 1) * 320.000 -
+(1.037 - 1) * (1.0377 + 1) * -14.997 ]
+= 7515.8843 psig*in.?
+UHX-12.5.3 Step 3, Determination of Effective Elastic Properties :
+3S
+
+[page 42]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Compute the Ratio [rho]:
+= ltx / h = 0.0000 / 6.4429 = 0.0000 ( must be 0 <= rho <= 1 )
+Compute the Effective Tube Hole Diameter [d*]:
+= max( dt - 2tt*( Et/E )( St/s )( rho ), dt - 2tt)
+= max( 0.6250 -2*0.0650 *(24847414 /24248608 )*
+( 13889 /26496 )*(0.000 ), 0.6250 -2*0.0650 )
+= 0.6250 in.
+Compute the Effective Tube Pitch [p*]:
+=p / sqrt( 1 - 4 * min( AL * CNV_factor, 4*Do*p)/(Pi * Do?) )
+= 0.8750 / sqrt( 1 - 4 * min( 290.94 *1.000 , 4*83.031 *0.875 )
+(3.141* 83.031?) )
+= 0.8995 in.
+Compute the Effective Ligament Efficiency for Bending [mu*]:
+= (p* - d*) / p* = (0.8995 - 0.6250 ) / 0.8995 = 0.30515
+E*/E and nu* for Triangular pattern from Fig. UHX-11.3.
+h/p = 7.363326 ; mu* = 0.305147
+E*/E = 0.287905 ; nu* = 0.350376 ; E* = 6981298. psi
+Note: As h/p (7.363) is > 2, data values for h/p = 2 were used.
+UHX-12.5.4 Step 4:
+Compute Shell Coefficient [betaS]:
+= (( 12 * (1-nus?))*0.25 )/((Ds + ts) * ts )%
+= (( 12 * (1 - 0.30?) )*0.25 ) / (( 85.0925 + 0.7411 ) * 0.7411 )%
+= 0.2279 1/in
+Determine Shell Coefficient [ks]:
+34
+
+[page 43]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= betaS * Es * ts? / ( 6 * (1 - rnus*) )
+= 0.228 * 24597214 * 0.7413 / ( 6 * (1 - 0.3007) )
+= 417997.1250 psig*in.?
+Determine Shell Coefficient [Lambdas]:
+= (6*Ds*ks) /h? * (1 + h¥*betaS + *(h*betaS)?/2 )
+= 6* 85.093 * 417997.125/6.443? * ( 1 + 6.443 *0.228 + 1.078 )
+= 2829983.0000 psig
+Determine Shell Coefficient [deltaS]
+= Ds?/(4 * Es * Ts) * ( 1 - nus/2 )
+= 85.0937/( 4 * 24597214 * 0.741 ) * (1 - 0.3 /2 )
+= 0.0000844023 in./psi
+Calculate Parameter [OmegaS]:
+= rhos * ks * betaS * deltaS( 1 +h * betas )
+= 1.0248 * 417997.12 * 0.2279 * 0.000084 ( 1 + 6.4429 * 0.2279 )
+= 20.3412 in.?
+Determine Channel Coefficient [betac]:
+= (( 12 * (1 - nuc?) )*0.25 )/((De + te) * te )*0.5
+= (( 12 * (1 - 0.30?) )*0.25 )/((86.1161 + 0.6624 ) * 0.6624 )*0.5
+= 0.2398 1/in.
+Determine Channel Coefficient [kc]:
+= betac * Ec * te? / ( 6 * (1 - rnus?) )
+= 0.240 * 24597214 * 0.662% / ( 6 * (1 - 0.3007) )
+= 313939.5938 psig*in.?
+Determine Channel Coefficient [Lambdac]:
+= (6*De*kc) /h? * (1 + h*betac + (h*betac)?/2)
+= 6*86.116 *313939.594/ (6.4439) * ( 1 + 6.443 *0.240 + 1.193 )
+35
+
+[page 44]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 2267117.0000 psig
+Determine Channel Coefficient [deltaC]
+= De?/(4 * Ec * Tce) * ( 1 - nuc )/2
+= 86.1167/( 4 * 24597214 * 0.662 ) * (1 - 0.3 )/2
+= 0.0000398263 in./psi
+Calculate Parameter [OmegaC]:
+= rhoc * kc * Betac * deltac( 1 + h * betac )
+= 1.0372 * 313939.59 * 0.2398 * 0.000040 ( 1 + 6.4429 * 0.2398 )
+= 7.9122 in.?
+UHX-12.5.5 Step 5:
+Diameter ratio [K]:
+= A / Do = 87.4409 / 83.0314 = 1.0531
+Determine Coefficient [F]:
+= (1 - nu*)/E* * ( Lambdas + Lambdac + E * 1ln(K) )
+= (1 - 0.35 )/6981298 * ( 2829983 + 2267117 +
+24248608 * In(1.05 ) )
+= 0.5911
+UHX-12.5.6 Step 6:
+Moment Acting on Unperforated Tubesheet Rim [M*]
+= Mts + OmegaC * Pt - OmegaS * Ps
+= 7515.884 + 62.604 * -14.997 - 413.765 * 320.000
+= 888.0327 psig*in.?
+UHX-12.5.7 Step 7:
+36
+
+[page 45]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Maximum Bending Moment acting on Periphery of Tubesheet [Mp]:
+= ((M*) - Do?/32 * F * (Ps - Pt) ) / (1 + F)
+= ((888.03 ) - 83.0317/32 * 0.591 * (320.00 - -15.00 ) ) / (1 + 0.59 )
+= -26253.0938 psig*in.?
+Maximum Bending Moment acting on Center of Tubesheet [Mo]:
+= Mp + Do?/64 * (3 + rnu*) (Ps - Pt)
+= -26253.09 + 83.0317/64 * (3 + 0.350 ) (320.00 - -15.00 )
+= 94650.5938 psig*in.?
+Maximum Bending Moment acting on Tubesheet [M]:
+= Max( abs(Mp), abs(Mo) )
+= Max( abs(-26253.094), abs(94650.594 ) )
+= 94650.5938 psig*in.”
+UHX-12.5.8 Results for Step 8:
+Tubesheet Bending Stress at Original Thickness:
+= 6*M/ ( (mu*) * (h - hg')? )
+= 6 * 94650.594 / ( (0.3051 ) * ( 6.4429 - 0.0000 )? )
+= 44833.4141 psi
+The Allowable Tubesheet Bending Stress [SigmaAll]:
+= 2 * S = 2 * 26496.80 = 52993.60 psi
+Tubesheet Bending Stress at Final Thickness [Sigma]:
+=6*M/ ( (mu*) * ( h - hg")?
+= 6 * 92171.820 / ( (0.3051 ) * ( 5.8581 - 0.0000 )?
+= 52811.8359 psi
+Required Tubesheet Thickness, for Bending Stress [HreqB]:
+= H + CATS + CATC = 5.8581 + 0.1250 + 0.1250 = 6.1081 in.
+37
+
+[page 46]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Required Tubesheet Thickness for Given Loadings (includes CA) [Hreq]:
+= Max( HreqB, HreqS ) = Max( 6.1081 , 1.3982 ) = 6.1081 in.
+UHX-12.5.9 Step 9:
+abs(Ps - Pt) = abs(320.00 - -15.00 ) = 334.997 psig
+Shear Stress check [Tau_limit]:
+= 3.2 * S$ * MU * h / Do
+= 3.2 * 26496.80 * 0.286 * 6.443 / 83.03 = 1879.81 psig
+Average Shear Stress at the Outer Edge of Perforated Region [Tau]:
+= 1/(4* Mu) * (Do/h) * [Ps - Pt]
+= 1/(4*0.286) *(83.03/6.44) *[320.00--15.00] psi
+= 3777.54 psi
+UHX-12.5.10 Results for Step 10:
+Axial Shell Membrane Stress [Sigmasm]:
+= Ds? / (4 * ts * (Ds + ts) ) * Ps
+= 85.0925? / (4 * 0.7411 * (85.0925 + 0.7411 ) ) * 320.000
+= 9105.711 psi
+Axial Shell Bending Stress [Sigmasb]:
+= 6*ks/ts? * ( betaS * P's + 6*(1 - rnu*) / (E*) *
+Do/h? * (1 + h * betaS/2) * (Mp + Do? / 32 * (Ps - Pt) ))
+= 6*417997.12 /0.741? * [ 0.228 *0.03 + 6*(1 - 0.350 )/6981298 *
+83.031 /6.443% * (1 + 6.443 * 0.228 /2) *(-26253.09 + 83.0317/32 *
+(320.00 - -15.00 )) ]
+= 91129.906 psi
+38
+
+[page 47]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Shell Membrane + Bending Stress [Sigmas]:
+= abs(Sigma_sm) + abs(Sigma_sb) (Should be <= 1.5*Ss)
+= 100235.617 psi (Should be <= 55792.84)
+Axial Channel Membrane Stress [Sigmacm]:
+= De? / (4 * te * (De + te) ) * Pt
+= 86.1161? / (4 * 0.6624 * (86.1161 + 0.6624 ) ) * -14.997
+= -483.712 psi
+Axial Channel! Bending Stress [Sigmacb]:
+= 6*kc/tc? * [ Betac * (deltac*Pt) - 6*(1 - nu*) / (E*) *
+Do/h? * (1 + h * Betac/2) * (Mp + Do?/32 * (Ps-Pt)) ]
+= 6*313939.59 /0.6627 * [ 0.240 * 0.00 - 6*(1 - 0.350 )/6981298 *
+83.031 /6.443? * (1 + 6.443 * 0.240 /2) *(-26253.09 + 83.0317/32 *
+(320.00 - -15.00 )) ]
+= -61175.688 psi
+Channel Membrane + Bending Stress [Sigmac]:
+= abs(Sigmacm) + abs(Sigmacb) (Should be <= 1.5*Sc)
+= 61659.398 psi (Should be <= 55792.84)
+Step 11, The Cylinder-to-Tubesheet Juncture is Overstressed.
+Performing a simplified Elastic-Plastic calculation
+(option 3 ) to reduce the overstress condition.
+Modify Es and/or Ec and Recompute from Step 4 onwards.
+Es = Es * (1.5 * Ss / Sigmas )%
+= 24597214 * (1.5 * 37195.23 / 100235 )¥?
+Es = 18351186.0 psi
+39
+
+[page 48]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+
+Ec = Ec * (1.5 * Sc / Sigmac )%
+
+= 24597214 * (1.5 * 37195.23 / 61659.40 )%
+
+Ec = 23397826.0 psi
+Tubesheet Bending Stress at Original Thk., after Elas-Plas iteration:
+
+=6*M/ ( (mu*) * (h - h'g)?
+
+= 6 * 96990.930 / ( (0.3051 ) * ( 6.4429 - 0.0000 )?
+
+= 45941.9648 psi (Should be <= 52993.60)
+Note: Tubesheet is Not overstressed after Elas-Plastic iteration
+
+the design is acceptable. Recomputing tubesheet required thkickness.
+Required Tubesheet Thk., for Bending Stress after Elas-Plas iteration [HreqB]:
+
+= H + CATS + CATC = 5.9468 + 0.1250 + 0.1250 = 6.1968 in.
+Required Tubesheet Thk. after Elas-Plas iteration (includes CA) [Hreq]:
+
+= Max( HreqB, HreqS ) = Max( 6.1968 , 1.3982 ) = 6.1968 in.
+Tube Weld Size Results per UW-20:
+Tube Strength [Ft]:
+
+= 3.1415 * t * (do-t) * Sa
+
+= 3.1415 * 0.065 * ( 0.625 - 0.065 ) * 13890.00 = 1588.377 lb.
+Fillet Weld Strength, Ff = 0.0
+Groove Weld Strength [Fg]:
+
+= .85 * 3.1415 * ag * (do + 0.67*ag) * Sw (but not > Ft)
+
+= .85 * 3.1415 * 0.065 * (0.625 + 0.67*0.065 ) * 13890.00
+
+= 1588.3766 1b.
+Max. Allow. Tube-Tubesheet Joint load, Lmax
+
+40
+
+[page 49]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= Ft = 1588.3766 1b.
+Design Strength Ratio [fd]:
+= 1.0000
+Weld Strength Factor [fw]:
+= Sot / ( Min(Sot, S) ) = 1.0000
+Min Weld Length [ar]:
+= ( (0.75 * do)? + 1.76*t*(do - t)* fw * fd) )% - .75 * do
+= 0.0640 in.
+Minimum Required Groove Weld Leg agr 0.0650 in.
+Tube-Tubesheet Jt allowable, 1588.38 is >= tube strength 1588.38 lb.
+Note: This tube-tubesheet joint is a Full Strength joint
+Stress/Force summary for loadcase D2 corr. (Psd,max + Ptd,min):
+
+Stress Description Actual Allowable Pass/Fail
+Tubesheet bend. stress 45942.0 <= 52993.6 psi Ok
+Tubesheet shear stress 3777.5 <= 21197.4 psi ok
+Stress in Shell at Tubesheet 100235.6 <= 111585.7 psi ok
+Stress in Channel at Tubesheet 61659.4 <= 111585.7 psi ok
+
+Thickness results for loadcase D2 corr. (Psd,max + Ptd,min):
+Thickness (in.) Required Actual P/F |
+Tubesheet Thickness : 6.1968 6.6929 ok |
+41
+
+[page 50]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Tube-Tubesheet Groove Weld Leg : 0.0650 0.0650 ok |
+Detailed Results for load Case D3 corr. (Psd,max + Ptd,max)
+Results for ASME U-tube Tubesheet Calculations for Configuration a,
+Per Edition 2015, Original Thickness :
+Minimum Required Thickness for Shear [HreqS]:
+= 1/(4 * Mu) * (Do/(0.8 * S)) * [Ps - Pt] + Cats + Cate
+= 1/(4 * 0.286 ) * (83.03 /(0.8 * 26496.80 )) * [320.00 - 320.00 ] + 0.250
+= 0.2500 in.
+UHX-12.5.1 Step 1:
+Compute the Equivalent Outer Tube Limit Circle Diameter [Do]:
+=2* ro + dt
+= 2 * 41.2032 + 0.6250 = 83.031 in.
+Determine the Basic Ligament Efficiency for Shear [mu]:
+= (p - dt) /p
+= (0.875 - 0.625 ) / 0.875 = 0.286
+UHX-12.5.2 Step 2:
+Compute the Ratio [Rhos]:
+= Ds / Do (Configurations a, b, ¢)
+= 85.0925 / 83.0314 = 1.0248
+Compute the Ratio [Rhoc]:
+= De / Do (Configurations a, e, f)
+42
+
+[page 51]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 86.1161 / 83.0314 = 1.0372
+Moment on Tubesheet due to Pressures (Ps, Pt) [Mts]:
+= Do?/16 * [(Rhos-1)*(Rhos*+1)* Ps - (Rhoc-1) * (Rhoc*+1) * Pt J]
+= 83.0317/16 * [ (1.025 - 1) * (1.0257 + 1) * 320.000 -
+(1.037 - 1) * (1.0377 + 1) * 320.000 ]
+= -3615.3389 psig*in.”
+UHX-12.5.3 Step 3, Determination of Effective Elastic Properties :
+Compute the Ratio [rho]:
+= ltx / h = 0.0000 / 6.4429 = 0.0000 ( must be 0 <= rho <= 1 )
+Compute the Effective Tube Hole Diameter [d*]:
+= max( dt - 2tt*( Et/E )( St/S )( rho ), dt - 2tt)
+= max( 0.6250 -2*0.0650 *(24847414 /24248608 )*
+(13889 /26496 )*(0.000 ), 0.6250 -2*0.0650 )
+= 0.6250 in.
+Compute the Effective Tube Pitch [p*]:
+=p / sqrt( 1 - 4 * min( AL * CNV_factor, 4*Do*p)/(Pi * Do?) )
+= 0.8750 / sqrt( 1 - 4 * min( 290.94 *1.000 , 4*83.031 *0.875 )
+(3.141* 83.0317) )
+= 0.8995 in.
+Compute the Effective Ligament Efficiency for Bending [mu*]:
+= (p* - d*) / p* = (0.8995 - 0.6250 ) / 0.8995 = 0.30515
+E*/E and nu* for Triangular pattern from Fig. UHX-11.3.
+h/p = 7.363326 ; mu* = 0.305147
+E*/E = 0.287905 ; nu* = 0.350376 ; E* = 6981298. psi
+43
+
+[page 52]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Note: As h/p (7.363) is > 2, data values for h/p = 2 were used
+UHX-12.5.4 Step 4:
+Compute Shell Coefficient [betaS]:
+= (( 12 * (1-nus?))*0.25 )/((Ds + ts) * ts )%
+= (( 12 * (1 - 0.30?) )*o.25 ) / (( 85.0925 + 0.7411 ) * 0.7411 )%
+= 0.2279 1/in.
+Determine Shell Coefficient [ks]:
+= betaS * Es * ts? / ( 6 * (1 - rnus?) )
+= 0.228 * 24597214 * 0.7413 / ( 6 * (1 - 0.3007) )
+= 417997.1250 psig*in.?
+Determine Shell Coefficient [Lambdas]:
+= (6*Ds*ks) /h? * (1 + h*betaS + *(h*betaS)?/2 )
+= 6* 85.093 * 417997.125/6.443? * ( 1 + 6.443 *0.228 + 1.078 )
+= 2829983.0000 psig
+Determine Shell Coefficient [deltaS].
+= Ds?/(4 * Es * Ts) * ( 1 - nus/2 )
+= 85.0937/( 4 * 24597214 * 0.741) * (1 - 0.3 /2 )
+= 0.0000844023 in./psi
+Calculate Parameter [OmegaS]:
+= rhos * ks * betaS * deltaS( 1 +h * betas )
+= 1.0248 * 417997.12 * 0.2279 * 0.000084 ( 1 + 6.4429 * 0.2279 )
+= 20.3412 in.?
+Determine Channel Coefficient [betac]:
+= (( 12 * (1 - nuc?) )*0.25 )/((De + te) * te )*0.5
+= (( 12 * (1 - 0.307) )*0.25 )/((86.1161 + 0.6624 ) * 0.6624 )*0.5
+44
+
+[page 53]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 0.2398 1/in.
+Determine Channel Coefficient [ke]:
+= betac * Ec * te? / ( 6 * (1 - rnus?) )
+= 0.240 * 24597214 * 0.6623 / ( 6 * (1 - 0.3007) )
+= 313939.5938 psig*in.?
+Determine Channel Coefficient [Lambdac]:
+= (6*De*kc) /h? * (1 + h*betac + (h*betac)?/2)
+= 6*86.116 *313939.594/ (6.443%) * ( 1 + 6.443 *0.240 + 1.193 )
+= 2267117.0000 psig
+Determine Channel Coefficient [deltaC].:
+= De?/(4 * Ec * Tc) * (1 - nuc )/2
+= 86.1167/( 4 * 24597214 * 0.662 ) * (1 - 0.3 )/2
+= 0.0000398263 in./psi
+Calculate Parameter [OmegaC]:
+= rhoc * kc * Betac * deltac( 1 +h * betac )
+= 1.0372 * 313939.59 * 0.2398 * 0.000040 ( 1 + 6.4429 * 0.2398 )
+= 7.9122 in.?
+UHX-12.5.5 Step 5:
+Diameter ratio [K]:
+= A / Do = 87.4409 / 83.0314 = 1.0531
+Determine Coefficient [F]:
+= (1 - nu*)/E* * ( Lambdas + Lambdac + E * In(K) )
+= (1 - 0.35 )/6981298 * ( 2829983 + 2267117 +
+24248608 * 1n(1.05 ) )
+= 0.5911
+45
+
+[page 54]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+UHX-12.5.6 Step 6:
+Moment Acting on Unperforated Tubesheet Rim [M*]
+= Mts + OmegaC * Pt - OmegaS * Ps
+= -3615.339 + 62.604 * 320.000 - 413.765 * 320.000
+= -7592.6099 psig*in.”
+UHX-12.5.7 Step 7:
+Maximum Bending Moment acting on Periphery of Tubesheet [Mp]:
+= ((M*) - Do?/32 * F * (Ps - Pt) ) / (1 + F)
+= ((-7592.61 ) - 83.031?/32 * 0.591 * (320.00 - 320.00) ) / (1 + 0.59 )
+= -4772.0723 psig*in.?
+Maximum Bending Moment acting on Center of Tubesheet [Mo]:
+= Mp + Do?/64 * (3 + rnu*) (Ps - Pt)
+= -4772.07 + 83.0317?/64 * (3 + 0.350 ) (320.00 - 320.00 )
+= -4772.0723 psig*in.?
+Maximum Bending Moment acting on Tubesheet [M]:
+= Max( abs (Mp), abs (Mo) )
+= Max( abs(-4772.072 ), abs(-4772.072 ) )
+= 4772.0723 psig*in.?
+UHX-12.5.8 Results for Step 8:
+Tubesheet Bending Stress at Original Thickness:
+= 6*M/ ( (mu*) * (hh - hg')? )
+= 6 * 4772.072 / ( (0.3051 ) * ( 6.4429 - 0.0000 )? )
+= 2260.4009 psi
+46
+
+[page 55]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+The Allowable Tubesheet Bending Stress [SigmaAll]:
+
+= 2* S = 2 * 26496.80 = 52993.60 psi
+Tubesheet Bending Stress at Final Thickness [Sigma]:
+
+=6*M / ( (mu*) * (h - hg')?
+
+= 6 * 278.685 / ( (0.3051 ) * ( 1.3306 - 0.0000 )?
+
+= 58.9243 psi
+Required Tubesheet Thickness, for Bending Stress [HreqB]:
+
+= H + CATS + CATC = 1.3306 + 0.1250 + 0.1250 = 1.5806 in.
+Required Tubesheet Thickness for Given Loadings (includes CA) [Hreq]:
+
+= Max( HregB, HreqS ) = Max( 1.5806 , 0.2500 ) = 1.5806 in.
+UHX-12.5.9 Step 9:
+
+abs(Ps - Pt) = abs(320.00 - 320.00 ) = 0.000 psig
+Shear Stress check [Tau_limit]:
+
+=3.2* S$ * MU*h/ Do
+
+= 3.2 * 26496.80 * 0.286 * 6.443 / 83.03 = 1879.81 psig
+Average Shear Stress at the Outer Edge of Perforated Region [Tau]:
+
+= 1/(4* Mu) * (Do/h) * [Ps - Pt]
+
+= 1/(4*0.286) *(83.03/6.44) *[320.00-320.00] psi
+
+= 0.00 psi
+UHX-12.5.10 Results for Step 10:
+Axial Shell Membrane Stress [Sigmasm]:
+
+= Ds? / (4 * ts * (Ds + ts) ) * Ps
+
+= 85.0925? / (4 * 0.7411 * (85.0925 + 0.7411 ) ) * 320.000
+
+47
+
+[page 56]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+= 9105.711 psi
+Axial Shell Bending Stress [Sigmasb]:
+= 6*ks/ts? * ( betaS * P's + 6*(1 - rnu*) / (E*) *
+Do/h? * (1 + h * betaS/2) * (Mp + Do? / 32 * (Ps - Pt) ))
+= 6*417997.12 /0.741? * [ 0.228 *0.03 + 6*(1 - 0.350 )/6981298 *
+83.031 /6.4433 * (1 + 6.443 * 0.228 /2) *(-4772.07 + 83.0317/32 *
+(320.00 - 320.00 )) J]
+= 21556.746 psi
+Shell Membrane + Bending Stress [Sigmas]:
+= abs(Sigma_sm) + abs(Sigma_sb) (Should be <= 1.5*Ss)
+= 30662.457 psi (Should be <= 55792.84)
+Axial Channel Membrane Stress [Sigmacm]:
+= Do? / (4 * te * (De + tc) ) * Pt
+= 86.1161? / (4 * 0.6624 * (86.1161 + 0.6624 ) ) * 320.000
+= 10321.086 psi
+Axial Channel! Bending Stress [Sigmacb]:
+= 6*kc/tc? * [ Betac * (deltac*Pt) - 6*(1 - nu*) / (E*) *
+Do/h? * (1 + h * Betac/2) * (Mp + Do?/32 * (Ps-Pt)) ]
+= 6*313939.59 /0.6627 * [ 0.240 * 0.01 - 6*(1 - 0.350 )/6981298 *
+83.031 /6.4433 * (1 + 6.443 * 0.240 /2) *(-4772.07 + 83.0317/32 *
+(320.00 - 320.00 )) J]
+= 19411.428 psi
+Channel Membrane + Bending Stress [Sigmac]:
+= abs(Sigmacm) + abs(Sigmacb) (Should be <= 1.5*Sc)
+= 29732.514 psi (Should be <= 55792.84)
+48
+
+[page 57]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Tube Weld Size Results per UW-20:
+Tube Strength [Ft]:
+= 3.1415 * t * (do-t) * Sa
+= 3.1415 * 0.065 * ( 0.625 - 0.065 ) * 13890.00 = 1588.377 lb.
+Fillet Weld Strength, Ff = 0.0
+Groove Weld Strength [Fg]:
+= .85 * 3.1415 * ag * (do + 0.67*ag) * Sw (but not > Ft)
+= .85 * 3.1415 * 0.065 * (0.625 + 0.67*0.065 ) * 13890.00
+= 1588.3766 1b.
+Max. Allow. Tube-Tubesheet Joint load, Lmax
+= Ft = 1588.3766 1b.
+Design Strength Ratio [fd]:
+= 1.0000
+Weld Strength Factor [fw]:
+= Sot / ( Min(Sot, S) ) = 1.0000
+Min Weld Length [ar]:
+= ( (0.75 * do)? + 1.76*t*(do - t)* fw * fd) )%- .75 * do
+= 0.0640 in.
+Minimum Required Groove Weld Leg agr 0.0650 in
+Tube-Tubesheet Jt allowable, 1588.38 is >= tube strength 1588.38 lb.
+Note: This tube-tubesheet joint is a Full Strength joint
+Stress/Force summary for loadcase D3 corr. (Psd,max + Ptd,max):
+49
+
+[page 58]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Stress Description Actual Allowable Pass/Fail
+Tubesheet bend. stress 2260.4 <= 52993.6 psi ok
+Tubesheet shear stress 0.0 <= 21197.4 psi ok
+Stress in Shell at Tubesheet 30662.5 <= 55792.8 psi ok
+Stress in Channel at Tubesheet 29732.5 <= 55792.8 psi ok
+Thickness results for loadcase D3 corr. (Psd,jmax + Ptd,max):
+Thickness (in.) Required Actual P/F |
+Tubesheet Thickness : 1.5806 6.6929 ok |
+Tube-Tubesheet Groove Weld Leg : 0.0650 0.0650 ok |
+U-Tube Tubesheet results per ASME UHX-12 2015
+Results for 6 Load Cases:
+--Reqd. Thk. + CA ---- Tubesheet Stresses Case Pass/
+Case# Tbsht Extnsn Bend Allwd Shear Allwd Type Fail
+Dluc 5.835 ... 42160 52994 3636 21197 Ps+Pt D1 ok
+D2uc 5.689 40225 52994 3636 21197 Ps+Pt D2 ok
+D3uc 1.318 vee 2054 52994 .e. 21197 Ps+Pt D3 ok
+Dic 6.353 ... 48167 52994 3778 21197 Ps+Pt-c Di ok
+D2c 6.197 ... 45942 52994 3778 21197 Ps+Pt-c D2 ok
+D3c 1.581 wee 2260 52994 se. 21197 Ps+Pt-c D3 Ok
+Max: 6.3532 in. 0.909 0.178 (Str. Ratio)
+Load Case Definitions:
+50
+
+[page 59]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+[Ps & Pt]:
+Shell-side and Tube-side Design or Operating Pressures
+derived from Psd,min Ptd,max, Psox,min, Ptox,max etc. per the
+Load Case Tables in Part UHX
+Ic];
+With or Without Corrosion Allowance
+[D1, D2, D3}:
+Design Load Cases using the Maximum and Minimum Design Pressures
+Shell and Channel Stress Summary:
+-- Integral Cyl. Reqd. Thk. Shell Stress Channel Stress Pass
+Case# Shell Channel Stress Allwd Stress Allwd Fail
+Diuc wee see 61134 111586 77201 111586 ok
+D2uc see tee 85538 111586 52882 55793 ok
+D3uc : : 25605 55793 25516 55793 ok
+Dic wee see 71010 111586 89998 111586 ok
+D2c . see 100236 111586 61659 111586 Ok
+D3c bee see 30662 55793 29733 55793 ok
+Max see tee 0.898 0.948
+Summary of Thickness Comparisons for 6 Load Cases:
+Thickness (in.) Required Actual P/F |
+Tubesheet Thickness : 6.3532 6.6929 Ook |
+Tube Thickness : 0.0201 0.0650 Ok |
+Tube-Tubesheet Groove Weld Leg : 0.0650 0.0650 ok |
+51
+
+[page 60]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+ASME TS Calc : tsh
+Given Shell Thickness: 0.8661 in.
+Given Channel Thickness: 0.7874 in.
+Note: This is a full strength Tube to Tubesheet Joint.
+Tubesheet MAWP:
+
+Stress / Force | Tubeside |0 shellside| Shellside |0 tubeside |
+
+Condition | MAWP |Stress Rat. | MAWP |Stress Rat. |
+
+Tubesheet Bending Stress | 364.93 | 0.998 | 396.90 | 1.000 |
+Tubesheet Shear Stress | 1879.80 | 1.000 | 1879.80 | 1.000 |
+Shell Stress (Axial, Junc) | 364.93 | 0.998 | 367.64 | 1.000 |
+Tubesheet-Channel Junction | 364.93 | 0.998 | 367.64 | 0.955 |
+Tube Pressure Stress | 3151.30 | 1.000 | 1682.89 | 1.000 |
+Minimum MAWP | 364.93 | | 367.64 | |
+Tubesheet MAPnc:
+
+Stress / Force | Tubeside |0 shellside| Shellside |0 tubeside |
+
+Condition | MAPnc |Stress Rat. | MAPnc |Stress Rat. |
+Tubesheet Bending Stress | 539.16 | 1.000 | 568.40 | 1.000 |
+Tubesheet Shear Stress | 2454.13 | 1.000 | 2454.13 | 1.000 |
+Shell Stress (Axial, Junc) | 539.16 | 0.873 | 429.56 | 1.000 |
+Tubesheet-Channel Junction | 474.33 | 1.000 | 429.56 | 0.782 |
+Tube Pressure Stress | 5603.83 | 1.000 | 2528.80 | 1.000 |
+Minimum MAPnc | 474.33 | | 429.56 | |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+52
+
+[page 61]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+INPUT VALUES, Nozzle Description: T1 From: 10
+Pressure for Reinforcement Calculations P 320.169 psig
+Temperature for Internal Pressure Temp 750 °F
+Design External Pressure Pext: 15.00 psig
+Temperature for External Pressure Tempex 750 °F
+Shell Material [Impact Tested] SA-533 B
+Shell Allowable Stress at Temperature sv 37195.20 psi
+Shell Allowable Stress At Ambient Sva 37500.00 psi
+Inside Diameter of Hemispherical Head D 85.8661 in.
+Head Finished (Minimum) Thickness t 0.7874 in.
+Head Internal Corrosion Allowance c 0.1250 in.
+Head External Corrosion Allowance co 0.0000 in.
+Type of Element Connected to the Shell : Nozzle
+Material SA-106 Cc
+Material UNS Number KO3501
+Material Specification/Type Smls. pipe
+Allowable Stress at Temperature sn 14788.80 psi
+Allowable Stress At Ambient sna 26700.00 psi
+Diameter Basis (for tr calc only) ID
+Layout Angle 90.00 deg
+Diameter 24.0000 in.
+Size and Thickness Basis Nominal
+Nominal Thickness tn 60
+Corrosion Allowance can 0.1250 in.
+53
+
+[page 62]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+Outside Projection ho 11.8110 in.
+Weld leg size between Nozzle and Pad/Shell Wo 0.3937 in.
+Groove weld depth between Nozzle and Vessel Wgnv 0.7874 in.
+Inside Projection h 0.0000 in.
+Weld leg size, Inside Element to Shell Wi 0.0000 in.
+User Defined Nozzle/Shell Centerline Angle 90.0000 deg.
+The Pressure Design option was Design Pressure + static head.
+Nozzle Sketch (may not represent actual weld type/configuration)
+Ld
+I]
+Ld
+Ld
+—_/I |
+| \ to]
+| Vo]
+| \I_|
+Insert/Set-in Nozzle No Pad, no Inside projection
+Reinforcement CALCULATION, Description: T1
+ASME Code, Section VIII, Div. 2, 2015, Section 4.5.1 - 4.5.14
+Actual Inside Diameter Used in Calculation 22.064 in
+Actual Thickness Used in Calculation 0.968 in.
+Nozzle input data check completed without errors.
+Cylindrical Shell Calculation - Section 4.3.3.1
+54
+
+[page 63]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+Computed Minimum Required Thickness [t]:
+= 0.5*D*( exp( P/(S*E) )-1)+ci+co
+= 0.5*22.314 *(exp( 320.169/(14788.799 *1.000 ))-1) + 0.125 + 0.000
+= 0.2442 + 0.125 + 0.000 = 0.3692 in. Equation 4.3.1
+Computed Maximum Allowable Working Pressure [MAWP]:
+=S* E* In( ( 2*#t +D) /D) - Plig
+= 14788.799 * 1.000 * Ln( ( 2*0.843 + 22.314 )/22.314 ) - 0.000
+= 1077.209 - 0.000 = 1077.2095 psig
+Nozzle Minimum Thickness per Table 4.5.2
+Min. required Nozzle Neck Thickness + c : 0.453 in. 11.515 mm
+Nozzle Calculations per Section 4.5: Internal Pressure Case:
+Nozzle Material Factor [frn]:
+= min[Sn/s, 1]
+= min[14788.8/37195.2 , 1]
+= 0.398
+Thickness of Nozzle [tn]:
+= thickness - corrosion allowance
+= 0.968 - 0.125
+= 0.843 in.
+Shell Diameter to Thickness ratio [D/t]:
+= Di/t
+= 86.116/0.662
+= 130.006 must be less than 400.
+Effective Pressure Radius [Reff]:
+= Di/2 + corrosion allowance
+= 85.866/2 + 0.125
+55
+
+[page 64]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+= 43.058 in.
+Effective Length of Vessel Wall [LR]:
+= min( sqrt( Reff * t ), 2 * Rn )
+= min( sqrt( 43.058 * 0.662 ), 2 * 11.157 )
+= 5.341 in.
+Intermediate value [Cn]:
+= min( (( t + te )/tn)*0.35, 1)
+= min( (( 0.662 + 0.000 )/0.843 )*0.35, 1 )
+= min( 0.919 , 1)
+= 0.919
+Intermediate value [Cp]:
+= 9999999.000
+Effective Nozzle Wall Length Outside the Vessel [LH]:
+= min( t + te + Fp * sqrt( Rn*tn ), Lprl +t )
+= min(0.662+0.000+0.919*sqrt (11.157*0.843) ,11.811+0.662)
+= 3.481 in.
+Effective Vessel Thickness [teff]:
+=t + (( AS * frp) / LR)
+= 0.662+((0.000*1.00) /5.341)
+= 0.662 in.
+Compute Areas A1-A43 (No Pad) or A1-A5 (With Pad) :
+Area Contributed by the Vessel Wall [A1]:
+=t* LR
+= 0.662 * 5.341
+= 3.538 in?
+56
+
+[page 65]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+Area Contributed by the Nozzle Outside the Vessel Wall [A2]:
+= tn * LH
+= 0.843 * 3.481
+= 2.935 in?
+Area Contributed by the Outside Fillet Weld [A41]:
+= 0.5 * Leg41?
+= 0.5 * 0.394?
+= 0.078 in?
+The total area contributed by A1 through A43 [AT]:
+= Al + frn( A2 + A3 ) + A41 + A42 + A43
+= 3.538+0.398(2.935+0.000) +0.078+0.000+0.000
+= 4.782 in?
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / In[1 + tn/Rn J]
+= 0.843/1n[ 1 + 0.843/11.157 ]
+= 11.573 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.662/1In[ 1 + 0.662/43.058 ]
+= 43.388 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+=15*S*E
+= 1.5 * 37195.203 * 1.000
+= 55792.8 psi
+Determine Force acting on the Nozzle [fN]:
+= P * Rxn * LH
+57
+
+[page 66]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+= 320.169 * 11.573 * 3.481
+= 12898.8 lb.
+Determine Force acting on the Shell [fS]:
+= P * Rxs * ( LR + tn )/2
+= 320.169 * 43.388 * ( 5.341 + 0.843 )/2
+= 42949.8 lb.
+Discontinuity Force from Internal Pressure [FY]:
+= (BP * Rxs * Rnc )/2
+= ( 320.169 * 43.388 * 11.157 )/2
+= 77494.1 lb.
+Area Resisting Internal Pressure [Ap]:
+= ( £S + fY + £N )/P
+= ( 42949.8 + 77494.1 + 12898.8 )/320.169
+= 416.5 in?
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/(2 * teff ) )
+= 55792.805/( 2 * 416.476/4.782 - 43.388/(2*0.662 ) )
+= 394.5 psig
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+=2* Ss * [t/Rxs]
+= 2 * 37195.203 * [0.662/43.388 ]
+= 1135.7 psig
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 394.465 , 1135.705 )
+= 394.465 psig
+58
+
+[page 67]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+Average Primary Membrane Stress [SigmaAvg]:
+
+= ( £N + fS + fy ) / AT
+
+= ( 12898.789 + 42949.785 + 77494.141 )/4.782
+
+= 27885.059 psi
+General Primary Membrane Stress [SigmaCirc]:
+
+= P * Rxs / ( 2 * teff )
+
+= 320.169 * 43.388/( 2 * 0.662 )
+
+= 10485.8 psi
+Maximum Local Primary Membrane Stress [PL]:
+
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+
+= max( 2 * 27885.059 - 10485.765 , 10485.765 )
+
+= 45284.4 psi
+Summary of Nozzle Pressure/Stress Results:
+
+Allowed Local Primary Membrane Stress Sallow 55792.80 psi
+Local Primary Membrane Stress PL 45284.35 psi
+Maximum Allowable Working Pressure Pmax 394.47 psig
+Strength of Nozzle Attachment Welds per 4.5.14
+Discontinuity Force Factor [ky]:
+
+= ( Rne + tn) / Rne
+
+= (11.157 + 0.843 )/11.157
+
+= 1.076 For set-in Nozzles
+Weld Length of Nozzle to Shell Weld [Ltau]:
+
+= pi/2 * ( Rn + tn )
+
+= pi/2 * ( 11.157 + 0.843 )
+
+= 18.850 in.
+Weld Throat Dimensions, (0.7071*Leg Dimensions) [L41T, L42T, L43T]:
+
+59
+
+[page 68]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+= 0.278, 0.000, 0.000, in.
+Required Weld Throat Dimensions :
+tc, L41T = 0.278, must be >= min( 0.7 * 0.843 , 0.250 ) Passed
+Weld Load Value [fwelds]:
+= min( fy * ky, 1.5 * Sn( A2 + A3 ), pi/4*P*Rn*2*ky*2 )
+= min(77494*1.08,1.5*14788.8(2.9354+0.000) ,pi/4*320.2*11.16*%2*1.08%2)
+= 36210.227 lb.
+Weld Stress Value [tau]:
+= fwelds/(Ltau(0.49*L41T + 0.6*twl + 0.49*L43T ) )
+= 36210.227/(18.850 (0.49*0.278 + 0.6*0.662 + 0.49*0.000 ) )
+= 3598.412 < or = to 37195.203 Weld Size is OK
+Nozzle Calculations per Section 4.5: External Pressure Case:
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / In[1 + tn/Rn J]
+= 0.843/1n[ 1 + 0.843/11.157 ]
+= 11.573 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.662/1In[ 1 + 0.662/43.058 ]
+= 43.388 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+= Shell Fha Value
+= 13733.845
+= 13733.8 psi
+Determine Force acting on the Nozzle [fN]:
+60
+
+[page 69]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+
+FileName : 195001-CAL-001.00
+
+Nozzle Calcs. : Tl
+= P * Rxn * LH
+= 14.997 * 11.573 * 3.481
+= 604.2 lb.
+
+Determine Force acting on the Shell [fS]:
+= P * Rxs * ( LR + tn )/2
+= 14.997 * 43.388 * ( 5.341 + 0.843 )/2
+= 2011.8 1b.
+
+Discontinuity Force from External Pressure [fY]:
+= ( P * Rxs * Rne )/2
+= ( 14.997 * 43.388 * 11.157 )/2
+= 3630.0 1b.
+
+Area Resisting External Pressure [Ap]:
+= ( 8 + fY + £N )/P
+= ( 2011.8 + 3630.0 + 604.2 )/14.997
+= 416.5 in?
+
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/(2 * teff ) )
+= 13733.845/( 2 * 416.476/4.782 - 43.388/(2*0.662 ) )
+= 97.1 psig
+
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= 2 * Fha * [t/Rxs]
+= 2 * 13733.845 * [0.662/43.388 ]
+= 419.3 psig
+
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 97.101 , 419.344 )
+= 97.101 psig
+
+67
+
+[page 70]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+Average Primary Membrane Stress [SigmaAvg]:
+
+= ( £N + £8 + fy ) / AT
+
+= ( 604.201 + 2011.841 + 3629.958 )/4.782
+
+= 1306.184 psi
+General Primary Membrane Stress [SigmaCirc]:
+
+= P * Rxs / ( 2 * teff )
+
+= 14.997 * 43.388/( 2 * 0.662 )
+
+= 491.2 psi
+Maximum Local Primary Membrane Stress [PL]:
+
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+
+= max( 2 * 1306.184 - 491.171 , 491.171 )
+
+= 2121.2 psi
+Summary of Nozzle Pressure/Stress Results:
+
+Allowed Local Primary Membrane Stress Sallow 13733.84 psi
+Local Primary Membrane Stress PL 2121.20 psi
+Maximum Allowable External Pressure Pmax 97.10 psig
+Input Echo, WRC107/537 Item 1, Description: T1 :
+
+Diameter Basis for Vessel Vbasis ID
+cylindrical or Spherical Vessel cylsph Spherical
+Internal Corrosion Allowance cas 0.1250 in.
+Vessel Diameter Dv 85.866 in
+Vessel Thickness Tv 0.787 in.
+Design Temperature 750.20 °F
+Vessel Material SA-533 B
+Vessel Cold S.I. Allowable sme 37500.00 psi
+Vessel Hot S.I. Allowable Smh 37195.20 psi
+
+62
+
+[page 71]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+
+FileName : 195001-CAL-001.00
+
+Nozzle Calcs. : Tl
+
+Attachment Type Type Round
+
+WRC107 Attachment Classification Holsol Hollow
+
+Diameter Basis for Nozzle Nbasis ID
+
+Corrosion Allowance for Nozzle can 0.1250 in.
+
+Nozzle Diameter Dn 22.064 in.
+
+Nozzle Thickness Tn 0.968 in.
+
+Nozzle Material SA-106 C
+
+Nozzle Cold S.I. Allowable sNme 26700.00 psi
+
+Nozzle Hot S.I. Allowable SNmh 14788.80 psi
+
+Design Internal Pressure Dp 320.169 psig
+
+Include Pressure Thrust No
+
+External Forces and Moments in WRC 107/537 Convention:
+
+Radial Load (sus) PB -5129.0 1b.
+
+Longitudinal Shear (sus) (vl) v1 6276.3 lb.
+
+Circumferential Shear (SUS) (Ve) v2 6276.3 1b.
+
+Circumferential Moment (SUS) (Mc) M1 35721.0 £t.1b.
+
+Longitudinal Moment (sus) (M1) M2 35721.0 ft.1b.
+
+Torsional Moment (sus) Mt 50555.5 ft.1b.
+
+Use Interactive Control No
+
+WRC107 Version Version March 1979
+
+Include Pressure Stress Indices per Div. 2 No
+
+Compute Pressure Stress per WRC-368 No
+
+WRC 107 Stress Calculation for SUStained loads:
+
+Radial Load P -5129.0 1b.
+
+Circumferential Shear (ve) v2 6276.3 lb.
+63
+
+[page 72]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+Longitudinal Shear (VL) V1 6276.3 1b.
+Circumferential Moment (Mc) M1 35721.0 £t.1b.
+Longitudinal Moment (ML) M2 35721.0 ft.l1b.
+Torsional Moment MT 50555.5 ft.1b.
+Dimensionless Param: U = 2.24 TAU = 13.73 RHO = 1.00 ( 0.79)
+Dimensionless Loads for Spherical Shells at Attachment Junction:
+Curves read for 1979 Figure Value Location
+N(x) * T/ P SP 2 0.01120 (A,B,C,D)
+M(x) / SP 2 0.01521 (A,B, C,D)
+N(x) * T * SQORT(Rm * T) / MC SM 2 0.01100 (A,B, C,D)
+M(x) * SQORT(Rm * T ) / MC SM 2 0.01357 (A,B,C,D)
+N(x) # T * SQRT(Rm * T ) / ML SM 2 0.01100 (A,B,C,D)
+M(x) * SORT(Rm * T) / ML SM 2 0.01357 (A,B, C,D)
+Ny) * T/ P SP 2 0.03789 (A,B,C,D)
+M(y) /P SP 2 0.00395 (A,B,C,D)
+N(y) * T * SQRT(Rm * T ) / MC SM 2 0.02922 (A,B,C,D)
+M(y) * SQRT(Rm * T) / MC SM 2 0.00459 = (A,B,C, D)
+N(y) * T * SQRT(Rm * T) / ML SM 2 0.02922 (A,B, C,D)
+M(y) * SQRT(Rm * T ) / ML SM 2 0.00459 (A,B,C,D)
+Stress Concentration Factors Kn = 1.00, Kb = 1.00
+Stresses in the Vessel at the Attachment Junction
+| Stress Values at |
+| ( psi) |
+Type of | |
+Stress Load | Au Al Bu Bl cu cL Du Dl |
+64
+
+[page 73]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+Rad. Memb. P| 130 130 130 130 130 130 130 130|
+Rad. Bend. P | 1066 -1066 1066 -1066 1066 -1066 1066 -1066|
+Rad. Memb. MC | 0 0 0 0 -2004 -2004 2004 2004|
+Rad. Bend. MC | 0 0 0 0 -14838 14838 14838 -14838|
+Rad. Memb. ML | -2004 -2004 2004 2004 0 0 ° |
+Rad. Bend. ML | -14838 14838 14838 -14838 Cy) 0 0 o|
+| |
+Tot. Rad. Str.| -15644 11898 18040 -13769 -15644 11898 18040 -13769|
+Tang. Memb. P| 442 442 442 442 442 442 442 442|
+Tang. Bend. P| 276 -276 276 -276 276 -276 276 -276|
+Tang. Memb. MC | t) 0 0 0 -5324 -5324 5324 5324|
+Tang. Bend. MC | ti} to} 0 0 -5013 5013 5013 -5013|
+Tang. Memb. ML | -5324 -5324 5324 5324 0 to 0 o|
+Tang. Bend. ML | -5013 5013 5013 -5013 0 0 0 o|
+| |
+Tot. Tang. Str | -9618 -145 11057 477 -9618 -145 11057 477|
+Shear vc | 251 251 -251 -251 0 0 0 |
+Shear VL | 0 0 0 0 -251 -251 251 251|
+Shear MT | 1012 1012 1012 1012 1012 1012 1012 1012|
+| |
+Tot. Shear| 1263 1263 760 760 760 760 1263 1263]
+Str. Int. | 15899 12305 18122 14328 15739 12139 18262 14469|
+WRC 107/537 Stress Summations:
+Vessel Stress Summation at Attachment Junction
+Type of Stress Values at |
+Stress Int. (psi ) |
+65
+
+[page 74]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Tl
+
+Location Au Al Bu Bl cu cl Du Dl |
+Rad. Pm (SUS) 10485 10485 10485 10485 10485 10485 10485 10485|
+Rad. Pl (sus) -1873 -1873 2135 2135 -1873 -1873 2135 2135|
+Rad. Q (SUS) -13771 13771 15905 -15905 -13771 13771 15905 -15905|
+Long. Pm (SUS) 10485 10485 10485 10485 10485 10485 10485 10485|
+Long. Pl (SUS) -4881 -4881 5767 5767 -4881 -4881 5767 5767|
+Long. Q (SUS) -4736 4736 5290 -5290 -4736 4736 5290 -5290|
+Shear Pm (SUS) 0 0 0 0 0 0 0 o|
+Shear Pl (sus) 251 251 -251 -251 -251 -251 251 251|
+Shear Q (SUS) 1012. 1012 1012 1012 1012 1012 1012 1012]
+Pm (SUS) 10485 10485 10485 10485 10485 10485 10485 10485|
+Pm+P1 (SUS) 8633 8633 16270 16270 8633 8633 16270 16270|
+Pm+P1+Q (Total) 6534 22515 28608 14328 6215 22431 28747 14469|
+Stress Summation Comparison:
+Type of | Max. S.1. S.I. Allowable | Result |
+Stress Int. | psi | |
+Pm (SUS) | 10485 37195 | Passed |
+Pm+P1 (SUS) | 16270 55792 | Passed |
+Pm+P1+Q (TOTAL) | 28747 112042 | Passed |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+
+66
+
+[page 75]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+INPUT VALUES, Nozzle Description: T2 From: 10
+Pressure for Reinforcement Calculations PB 322.349 psig
+Temperature for Internal Pressure Temp 750 °F
+Design External Pressure Pext 15.00 psig
+Temperature for External Pressure Tempex 750 °F
+Shell Material [Impact Tested] SA-533 B
+Shell Allowable Stress at Temperature sv 37195.20 psi
+Shell Allowable Stress At Ambient Sva 37500.00 psi
+Inside Diameter of Hemispherical Head D 85.8661 in.
+Head Finished (Minimum) Thickness t 0.7874 in
+Head Internal Corrosion Allowance c 0.1250 in.
+Head External Corrosion Allowance co 0.0000 in.
+Type of Element Connected to the Shell : Nozzle
+Material SA-106 C
+Material UNS Number KO3501
+Material Specification/Type smls. pipe
+Allowable Stress at Temperature Sn 14788.80 psi
+Allowable Stress At Ambient sna 26700.00 psi
+Diameter Basis (for tr calc only) ID
+Layout Angle 270.00 deg
+Diameter 24.0000 in.
+Size and Thickness Basis Nominal
+Nominal Thickness tn 60
+Corrosion Allowance can 0.1250 in.
+67
+
+[page 76]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+Outside Projection ho 11.8110 in.
+Weld leg size between Nozzle and Pad/Shell Wo 0.3937 in.
+Groove weld depth between Nozzle and Vessel Wgnv 0.7874 in.
+Inside Projection h 0.0000 in.
+Weld leg size, Inside Element to Shell Wi 0.0000 in
+User Defined Nozzle/Shell Centerline Angle 90.0000 deg.
+The Pressure Design option was Design Pressure + static head.
+Nozzle Sketch (may not represent actual weld type/configuration)
+I]
+Ld
+Ld
+Ld
+—_/I |
+| \ to]
+| \ iI
+rs |
+Insert/Set-in Nozzle No Pad, no Inside projection
+Reinforcement CALCULATION, Description: T2
+ASME Code, Section VIII, Div. 2, 2015, Section 4.5.1 - 4.5.14
+Actual Inside Diameter Used in Calculation 22.064 in.
+Actual Thickness Used in Calculation 0.968 in.
+Nozzle input data check completed without errors.
+Cylindrical Shell Calculation - Section 4.3.3.1
+68
+
+[page 77]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+Computed Minimum Required Thickness [t]:
+= 0.5*D*( exp( P/(S*E) )-1)+ci+co
+= 0.5*22.314 *(exp( 322.349/(14788.799 *1.000 ))-1) + 0.125 + 0.000
+= 0.2459 + 0.125 + 0.000 = 0.3709 in. Equation 4.3.1
+Computed Maximum Allowable Working Pressure [MAWP]:
+=S* E* Ln( ( 2*t +D) /D) - Pligq
+= 14788.799 * 1.000 * Ln( ( 2*0.843 + 22.314 )/22.314 ) - 0.000
+= 1077.209 - 0.000 = 1077.2095 psig
+Nozzle Minimum Thickness per Table 4.5.2
+Min. required Nozzle Neck Thickness + ¢ : 0.453 in. 11.515 mm
+Nozzle Calculations per Section 4.5: Internal Pressure Case:
+Nozzle Material Factor [frn]:
+= min[sn/s, 1]
+= min[14788.8/37195.2 , 1]
+= 0.398
+Thickness of Nozzle [tn]:
+= thickness - corrosion allowance
+= 0.968 - 0.125
+= 0.843 in.
+Shell Diameter to Thickness ratio [D/t]:
+= Di/t
+= 86.116/0.662
+= 130.006 must be less than 400.
+Effective Pressure Radius [Reff]:
+= Di/2 + corrosion allowance
+69
+
+[page 78]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+= 85.866/2 + 0.125
+= 43.058 in.
+Effective Length of Vessel Wall [LR]:
+= min( sqrt( Reff * t ), 2 * Rn)
+= min( sqrt( 43.058 * 0.662 ), 2 * 11.157 )
+= 5.341 in.
+Intermediate value [Cn]:
+= min( (( t + te )/tn)*0.35, 1)
+= min( (( 0.662 + 0.000 )/0.843 )*0.35, 1)
+= min( 0.919, 1)
+= 0.919
+Intermediate value [Cp]:
+= 9999999.000
+Effective Nozzle Wall Length Outside the Vessel [LH]:
+= min( t + te + Fp * sqrt( Rn*tn ), Lprl +t )
+= min(0.662+0.000+0.919*sqrt (11.157*0.843) ,11.811+0.662)
+= 3.481 in.
+Effective Vessel Thickness [teff]:
+=t + (( AS * frp ) / LR)
+= 0.662+((0.000*1.00)/5.341)
+= 0.662 in.
+Compute Areas A1-A43 (No Pad) or A1-A5 (With Pad) :
+Area Contributed by the Vessel Wall [A1]:
+=t* LR
+= 0.662 * 5.341
+= 3.538 in*
+70
+
+[page 79]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+Area Contributed by the Nozzle Outside the Vessel Wall [A2]:
+= tn * LH
+= 0.843 * 3.481
+= 2.935 in?
+Area Contributed by the Outside Fillet Weld [A41]:
+= 0.5 * Leg4l?
+= 0.5 * 0.394?
+= 0.078 in?
+The total area contributed by A1 through A43 [AT]:
+= Al + frn( A2 + A3 ) + A41 + A42 + A43
+= 3.538+0.398(2.935+0.000) +0.078+0.000+0.000
+= 4.782 in?
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / ln[1 + tn/Rn ]
+= 0.843/In[ 1 + 0.843/11.157 ]
+= 11.573 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.662/1n[ 1 + 0.662/43.058 ]
+= 43.388 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+=1.5*S*E
+= 1.5 * 37195.203 * 1.000
+= 55792.8 psi
+Determine Force acting on the Nozzle [fN]:
+71
+
+[page 80]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+
+FileName : 195001-CAL-001.00
+
+Nozzle Calcs. : T2
+= P * Rxn * LH
+= 322.349 * 11.573 * 3.481
+= 12986.6 lb.
+
+Determine Force acting on the Shell [fS]:
+= P * Rxs * ( LR + tn )/2
+= 322.349 * 43.388 * (5.341 + 0.843 )/2
+= 43242.3 1b.
+
+Discontinuity Force from Internal Pressure [FY]:
+= ( P * Rxs * Rne )/2
+= ( 322.349 * 43.388 * 11.157 )/2
+= 78021.9 lb.
+
+Area Resisting Internal Pressure [Ap]:
+= ( 8 + fY + £N )/P
+= ( 43242.3 + 78021.9 + 12986.6 )/322.349
+= 416.5 in?
+
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/(2 * teff ) )
+= 55792.805/( 2 * 416.476/4.782 - 43.388/(2*0.662 ) )
+= 394.5 psig
+
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= 2* S * [t/Rxs]
+= 2 * 37195.203 * [0.662/43.388 ]
+= 1135.7 psig
+
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 394.465 , 1135.705 )
+= 394.465 psig
+
+72
+
+[page 81]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+Average Primary Membrane Stress [SigmaAvg]:
+
+= ( £N + £8 + fy ) / AT
+
+= ( 12986.634 + 43242.289 + 78021.898 )/4.782
+
+= 28074.961 psi
+General Primary Membrane Stress [SigmaCirc]:
+
+= P* Rxs / ( 2 * teff )
+
+= 322.349 * 43.388/( 2 * 0.662 )
+
+= 10557.2 psi
+Maximum Local Primary Membrane Stress [PL]:
+
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+
+= max( 2 * 28074.961 - 10557.176 , 10557.176 )
+
+= 45592.7 psi
+Summary of Nozzle Pressure/Stress Results:
+
+Allowed Local Primary Membrane Stress Sallow 55792.80 psi
+Local Primary Membrane Stress PL 45592.75 psi
+Maximum Allowable Working Pressure Pmax 394.47 psig
+Strength of Nozzle Attachment Welds per 4.5.14
+Discontinuity Force Factor [ky]:
+
+= ( Rnc + tn) / Rne
+
+= (11.157 + 0.843 )/11.157
+
+= 1.076 For set-in Nozzles
+Weld Length of Nozzle to Shell Weld [Ltau]:
+
+= pi/2 * ( Rn + tn)
+
+= pi/2 * ( 11.157 + 0.843 )
+
+= 18.850 in.
+
+73
+
+[page 82]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+Weld Throat Dimensions, (0.7071*Leg Dimensions) [L41T, L42T, L43T]:
+= 0.278, 0.000, 0.000, in.
+Required Weld Throat Dimensions :
+te, L41T = 0.278, must be >= min( 0.7 * 0.843 , 0.250 ) Passed
+Weld Load Value [fwelds]:
+= min( fy * ky, 1.5 * Sn( A2 + A3 ), pi/4*P*Rn*2*ky*2 )
+= min(78022*1.08,1.5*14788.8(2.935+0.000) ,pi/4*322.3*11.16*2*1.08%2)
+= 36456.828 1b.
+Weld Stress Value [tau]:
+= fwelds/(Ltau(0.49*L41T + 0.6*twl + 0.49*L43T ) )
+= 36456.828/ (18.850 (0.49*0.278 + 0.6*0.662 + 0.49*0.000 ) )
+= 3622.918 < or = to 37195.203 Weld Size is OK
+Nozzle Calculations per Section 4.5: External Pressure Case:
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / In[1 + tn/Rn ]
+= 0.843/1n[ 1 + 0.843/11.157 ]
+= 11.573 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.662/1n[ 1 + 0.662/43.058 ]
+= 43.388 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+= Shell Fha Value
+= 13733.845
+= 13733.8 psi
+74
+
+[page 83]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+
+FileName : 195001-CAL-001.00
+
+Nozzle Calcs. : T2
+
+Determine Force acting on the Nozzle [fN].
+= P * Rxn * LH
+= 14.997 * 11.573 * 3.481
+= 604.2 lb.
+
+Determine Force acting on the Shell [fS]:
+= P * Rxs * ( LR + tn )/2
+= 14.997 * 43.388 * ( 5.341 + 0.843 )/2
+= 2011.8 1b.
+
+Discontinuity Force from External Pressure [fY]:
+= ( P * Rxs * Rnc )/2
+= (14.997 * 43.388 * 11.157 )/2
+= 3630.0 1b.
+
+Area Resisting External Pressure [Ap]:
+= ( £S + £Y + £N )/P
+= ( 2011.8 + 3630.0 + 604.2 )/14.997
+= 416.5 in?
+
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/(2 * teff ) )
+= 13733.845/( 2 * 416.476/4.782 - 43.388/(2*0.662 ) )
+= 97.1 psig
+
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= 2 * Fha * [t/Rxs]
+= 2 * 13733.845 * [0.662/43.388 ]
+= 419.3 psig
+
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 97.101 , 419.344 )
+
+75
+
+[page 84]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+
+= 97.101 psig
+Average Primary Membrane Stress [SigmaAvg]:
+
+= ( f£N + fS + fY ) / AT
+
+= ( 604.201 + 2011.841 + 3629.958 )/4.782
+
+= 1306.184 psi
+General Primary Membrane Stress [SigmaCirc]:
+
+=P +*Rxs / (2 * teff )
+
+= 14.997 * 43.388/( 2 * 0.662 )
+
+= 491.2 psi
+Maximum Local Primary Membrane Stress [PL]:
+
+= max( 2 * SigmaAvg - SigmaCire, SigmaCire )
+
+= max( 2 * 1306,.184 - 491.171 , 491.171 )
+
+= 2121.2 psi
+Summary of Nozzle Pressure/Stress Results:
+
+Allowed Local Primary Membrane Stress Sallow 13733.84 psi
+Local Primary Membrane Stress PL 2121.20 psi
+Maximum Allowable External Pressure Pmax 97.10 psig
+Input Echo, WRC107/537 Item 1, Description: T2 H
+
+Diameter Basis for Vessel Vbasis ID
+Cylindrical or Spherical vessel cylsph Spherical
+Internal Corrosion Allowance Cas 0.1250 in
+Vessel Diameter Dv 85.866 in.
+Vessel Thickness Tv 0.787 in.
+Design Temperature 750.20 °F
+Vessel Material SA-533 B
+Vessel Cold S.I. Allowable sme 37500.00 psi
+
+76
+
+[page 85]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+
+FileName : 195001-CAL-001.00
+
+Nozzle Calcs. : T2
+
+Vessel Hot S.I. Allowable Smh 37195.20 psi
+
+Attachment Type Type Round
+
+WRC107 Attachment Classification Holsol Hollow
+
+Diameter Basis for Nozzle Nbasis ID
+
+Corrosion Allowance for Nozzle can 0.1250 in.
+
+Nozzle Diameter Dn 22.064 in.
+
+Nozzle Thickness Tn 0.968 in.
+
+Nozzle Material SA-106 C
+
+Nozzle Cold S.I. Allowable sNme 26700.00 psi
+
+Nozzle Hot §.I. Allowable SNmh 14788.80 psi
+
+Design Internal Pressure Dp 322.349 psig
+
+Include Pressure Thrust No
+
+External Forces and Moments in WRC 107/537 Convention:
+
+Radial Load (sus) P -5129.0 Ib.
+
+Longitudinal Shear (sus) (vl) vi 6276.3 1b.
+
+Circumferential Shear (SUS) (ve) v2 6276.3 1b.
+
+Circumferential Moment (SUS) (Mc) M1 35721.0 £t.1b.
+
+Longitudinal Moment (sus) (M1) M2 35721.0 £t.1b.
+
+Torsional Moment (sus) Mt 50555.5 ft.1b.
+
+Use Interactive Control No
+
+WRC1O7 Version Version March 1979
+
+Include Pressure Stress Indices per Div. 2 No
+
+Compute Pressure Stress per WRC-368 No
+
+WRC 107 Stress Calculation for SUStained loads:
+
+Radial Load P -5129.0 lb.
+77
+
+[page 86]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+Circumferential Shear (ve) v2 6276.3 1b.
+Longitudinal Shear (VL) v1 6276.3 1b.
+Circumferential Moment (MC) M1 35721.0 ft.1b.
+Longitudinal Moment (ML) M2 35721.0 ft.1b.
+Torsional Moment MT 50555.5 ft.1b.
+Dimensionless Param: U = 2.24 TAU = 13.73 RHO = 1.00 ( 0.79)
+Dimensionless Loads for Spherical Shells at Attachment Junction:
+Curves read for 1979 Figure Value Location
+N(x) * T/ P SP 2 0.01120 (A,B, C,D)
+M(x) /P SP 2 0.01521 (A,B,C,D)
+N(x) * T * SQRT(Rm * T ) / MC SM 2 0.01100 (A,B,C,D)
+M(x) * SQRT(Rm * T ) / MC SM 2 0.01357 (A,B, C,D)
+N(x) * T * SQRT(Rm * T) / ML SM 2 0.01100 (A,B,C,D)
+M(x) * SQRT(Rm * T) / ML SM 2 0.01357 (A,B,C,D)
+N(y) * T/ P SP 2 0.03789 (A,B,C,D)
+M(y) /P SP 2 0.00395 (A,B,C,D)
+N(y) * T * SQRT(Rm * T) / MC SM 2 0.02922 (A,B, C,D)
+M(y) * SORT(Rm * T) / MC SM 2 0.00459 (A,B, C,D)
+N(y) * T * SQRT(Rm * T ) / ML SM 2 0.02922 (A,B,C,D)
+M(y) * SORT(Rm * T ) / ML SM 2 0.00459 (A,B, C,D)
+Stress Concentration Factors Kn = 1.00, Kb = 1.00
+Stresses in the Vessel at the Attachment Junction
+| Stress Values at |
+| ( psi) |
+Type of | |
+78
+
+[page 87]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+Stress Load | Au Al Bu Bl cu cl Du Dl |
+Rad. Memb. P | 130 130 130 130 130 130 130 130|
+Rad. Bend. P | 1066 -1066 1066 -1066 1066 -1066 1066 -1066|
+Rad. Memb. MC | 0 0 0 0 -2004 -2004 2004 2004|
+Rad. Bend. MC | 0 0 0 0 -14838 14838 14838 -14838|
+Rad. Memb. ML | -2004 -2004 2004 2004 0 0 0 o|
+Rad. Bend. ML | -14838 14838 14838 -14838 0 0 0 o|
+| |
+Tot. Rad. Str.| -15644 11898 18040 -13769 -15644 11898 18040 -13769|
+Tang. Memb. P| 442 442 442 442 442 442 442 442|
+Tang. Bend. P| 276 -276 276 © -276 276 © -276 276 = -276|
+Tang. Memb. MC | 0 to} 0 0 -5324 -5324 5324 5324 |
+Tang. Bend. MC | 0 0 to 0 -5013 5013 5013 -5013|
+Tang. Memb. ML | -5324 -5324 5324 5324 0 0 0 o|
+Tang. Bend. ML | -5013 5013 5013 -5013 to) 0 0 o|
+| |
+Tot. Tang. Str.| -9618 -145 11057 477-9618 -145 11057 477|
+Shear vc | 251 251 -251 -251 to 0 0 o|
+Shear VL | 0 0 0 0 -251 -251 251 251|
+Shear MT | 1012 1012 1012 1012 1012 1012 1012 1012]
+| |
+Tot. Shear| 1263 1263 760 760 760 760 1263 1263|
+Str. Int. | 15899 12305 18122 14328 15739 12139 18262 14469]
+WRC 107/537 Stress Summations:
+Vessel Stress Summation at Attachment Junction
+Type of Stress Values at |
+79
+
+[page 88]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : T2
+
+Stress Int. (psi ) |
+
+Location Au Al Bu Bl cu el Du Dl |
+Rad. Pm (SUS) 10557 10557 10557 10557 10557 10557 10557 10557|
+Rad. Pl (SUS) -1873 -1873 2135 2135 -1873 -1873 2135 2135|
+Rad. Q (sUS) -13771 13771 15905 -15905 -13771 13771 15905 -15905|
+Long. Pm (SUS) 10557 10557 10557 10557 10557 10557 10557 10557|
+Long. Pl (SUS) -4881 -4881 5767 5767 -4881 -4881 5767 5767 |
+Long. Q (SUS) -4736 4736 5290 -5290 -4736 4736 5290 -5290|
+Shear Pm (SUS) 0 0 0 0 0 0 0 o|
+Shear Pl (SUS) 251 251-251 -251 -251 -251 251 251|
+Shear Q (SUS) 1012. 1012 «1012/1012, 1012, 1012.) 1012S 1012]
+Pm (SUS) 10557 10557 10557 10557 10557 10557 10557 10557|
+Pm+P1 (SUS) 8704 8704 16342 16342 8704 8704 16342 16342|
+Pm+P1+Q (Total) 6534 22586 28679 14328 6215 22503 28819 14469|
+Stress Summation Comparison:
+Type of | Max. S.I. S.I. Allowable | Result |
+Stress Int. | psi | |
+Pm (SUS) | 10557 37195 | Passed |
+Pm+P1 (SUS) | 16342 55792 | Passed |
+Pm+P1+Q (TOTAL) | 28819 112042 | Passed |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+
+80
+
+[page 89]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+INPUT VALUES, Nozzle Description: MH From: 10
+Pressure for Reinforcement Calculations P 321.259 psig
+Temperature for Internal Pressure Temp 750 °F
+Design External Pressure Pext: 15.00 psig
+Temperature for External Pressure Tempex 750 °F
+Shell Material [Impact Tested] SA-533 B
+Shell Allowable Stress at Temperature sv 37195.20 psi
+Shell Allowable Stress At Ambient Sva 37500.00 psi
+Inside Diameter of Hemispherical Head D 85.8661 in.
+Head Finished (Minimum) Thickness t 0.7874 in.
+Head Internal Corrosion Allowance c 0.1250 in.
+Head External Corrosion Allowance co 0.0000 in.
+Type of Element Connected to the Shell : Nozzle
+Material SA-508 3
+Material UNS Number K12042
+Material Specification/Type Forgings
+Allowable Stress at Temperature sn 26496.80 psi
+Allowable Stress At Ambient sna 33300.00 psi
+Diameter Basis (for tr calc only) ID
+Layout Angle 0.00 deg
+Diameter 24.0000 in.
+Size and Thickness Basis Actual
+Actual Thickness tn 2.9921 in.
+Corrosion Allowance can 0.1250 in.
+81
+
+[page 90]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+Outside Projection ho 3.1496 in.
+Weld leg size between Nozzle and Pad/Shell Wo 0.3937 in.
+Groove weld depth between Nozzle and Vessel Wgnv 0.7874 in.
+Inside Projection h 0.0000 in.
+Weld leg size, Inside Element to Shell Wi 0.0000 in.
+User Defined Nozzle/Shell Centerline Angle 90.0000 deg.
+The Pressure Design option was Design Pressure + static head.
+Nozzle Sketch (may not represent actual weld type/configuration)
+Ld
+I]
+Ld
+Ld
+—_/I |
+| \ to]
+| Vo]
+| \I_|
+Insert/Set-in Nozzle No Pad, no Inside projection
+Reinforcement CALCULATION, Description: MH
+ASME Code, Section VIII, Div. 2, 2015, Section 4.5.1 - 4.5.14
+Actual Inside Diameter Used in Calculation 24.000 in
+Actual Thickness Used in Calculation 2.992 in.
+Nozzle input data check completed without errors.
+Cylindrical Shell Calculation - Section 4.3.3.1
+82
+
+[page 91]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+Computed Minimum Required Thickness [t]:
+= 0.5*D*( exp( P/(S*E) )-1)+ci+co
+= 0.5*24.250 *(exp( 321.259/(26496.799 *1.000 ))-1) + 0.125 + 0.000
+= 0.1479 + 0.125 + 0.000 = 0.2729 in. Equation 4.3.1
+Computed Maximum Allowable Working Pressure [MAWP]:
+=S* E* In( ( 2% +D) /D) - Plig
+= 26496.799 * 1.000 * Ln( ( 2*2.867 + 24.250 )/24.250 ) - 0.000
+= 5624.097 - 0.000 = 5624.0972 psig
+Nozzle Minimum Thickness per Table 4.5.2
+Min. required Nozzle Neck Thickness + c : 0.453 in. 11.515 mm
+Nozzle Calculations per Section 4.5: Internal Pressure Case:
+Nozzle Material Factor [frn]:
+= min[Sn/s, 1]
+= min[26496.8/37195.2 , 1]
+= 0.712
+Thickness of Nozzle [tn]:
+= thickness - corrosion allowance
+= 2.992 - 0.125
+= 2.867 in.
+Shell Diameter to Thickness ratio [D/t]:
+= Di/t
+= 86.116/0.662
+= 130.006 must be less than 400.
+Effective Pressure Radius [Reff]:
+= Di/2 + corrosion allowance
+= 85.866/2 + 0.125
+83
+
+[page 92]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+= 43.058 in.
+Effective Length of Vessel Wall [LR]:
+= min( sqrt( Reff * t ), 2 * Rn )
+= min( sqrt( 43.058 * 0.662), 2 * 12.125 )
+= 5.341 in.
+Intermediate value [Cn]:
+= min( (( t + te )/tn)*0.35, 1)
+= min( (( 0.662 + 0.000 )/2.867 )*0.35, 1 )
+= min( 0.599 , 1)
+= 0.599
+Intermediate value [Cp]:
+= 9999999.000
+Effective Nozzle Wall Length Outside the Vessel [LH]:
+= min( t + te + Fp * sqrt( Rn*tn ), Lprl +t )
+= min(0.662+0.000+0.599*sqrt (12.125*2.867) ,3.150+0.662)
+= 3.812 in.
+Effective Vessel Thickness [teff]:
+=t + (( AS * frp) / LR)
+= 0.662+((0.000*1.00) /5.341)
+= 0.662 in.
+Compute Areas A1-A43 (No Pad) or A1-A5 (With Pad) :
+Area Contributed by the Vessel Wall [A1]:
+=t* LR
+= 0.662 * 5.341
+= 3.538 in?
+84
+
+[page 93]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+Area Contributed by the Nozzle Outside the Vessel Wall [A2]:
+= tn * LH
+= 2.867 * 3.812
+= 10.930 in?
+Area Contributed by the Outside Fillet Weld [A41]:
+= 0.5 * Leg41?
+= 0.5 * 0.394?
+= 0.078 in?
+The total area contributed by A1 through A43 [AT]:
+= Al + frn( A2 + A3 ) + A41 + A42 + A43
+= 3.538+0.712(10.930+0.000)+0.078+0.000+0.000
+= 11.401 in?
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / In[1 + tn/Rn J]
+= 2.867/ln[ 1 + 2.867/12.125 ]
+= 13.508 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.662/1In[ 1 + 0.662/43.058 ]
+= 43.388 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+=15*S*E
+= 1.5 * 37195.203 * 1.000
+= 55792.8 psi
+Determine Force acting on the Nozzle [fN]:
+= P * Rxn * LH
+85
+
+[page 94]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+= 321.259 * 13.508 * 3.812
+= 16542.3 lb.
+Determine Force acting on the Shell [fS]:
+= P * Rxs * ( LR + tn )/2
+= 321.259 * 43.388 * ( 5.341 + 2.867 )/2
+= 57203.1 1b.
+Discontinuity Force from Internal Pressure [FY]:
+= (BP * Rxs * Rnc )/2
+= ( 321.259 * 43.388 * 12.125 )/2
+= 84504.4 lb.
+Area Resisting Internal Pressure [Ap]:
+= ( £S + fY + £N )/P
+= ( 57203.1 + 84504.4 + 16542.3 )/321.259
+= 492.6 in?
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/(2 * teff ) )
+= 55792.805/( 2 * 492.593/11.401 - 43.388/(2*0.662 ) )
+= 1039.7 psig
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+=2* Ss * [t/Rxs]
+= 2 * 37195.203 * [0.662/43.388 ]
+= 1135.7 psig
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 1039.714 , 1135.705 )
+= 1039.714 psig
+86
+
+[page 95]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+Average Primary Membrane Stress [SigmaAvg]:
+
+= ( £N + fS + fy ) / AT
+
+= ( 16542.318 + 57203.066 + 84504.445 )/11.401
+
+= 13880.379 psi
+General Primary Membrane Stress [SigmaCirc]:
+
+= P * Rxs / ( 2 * teff )
+
+= 321.259 * 43.388/( 2 * 0.662 )
+
+= 10521.5 psi
+Maximum Local Primary Membrane Stress [PL]:
+
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+
+= max( 2 * 13880.379 - 10521.471 , 10521.471 )
+
+= 17239.3 psi
+Summary of Nozzle Pressure/Stress Results:
+
+Allowed Local Primary Membrane Stress Sallow 55792.80 psi
+Local Primary Membrane Stress PL 17239.29 psi
+Maximum Allowable Working Pressure Pmax 1039.71 psig
+Strength of Nozzle Attachment Welds per 4.5.14
+Discontinuity Force Factor [ky]:
+
+= ( Rne + tn) / Rne
+
+= (12.125 + 2.867 )/12.125
+
+= 1.236 For set-in Nozzles
+Weld Length of Nozzle to Shell Weld [Ltau]:
+
+= pi/2 * ( Rn + tn)
+
+= pi/2 * ( 12.125 + 2.867 )
+
+= 23.550 in.
+Weld Throat Dimensions, (0.7071*Leg Dimensions) [L41T, L42T, L43T]:
+
+87
+
+[page 96]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+= 0.278, 0.000, 0.000, in.
+Required Weld Throat Dimensions :
+tc, L41T = 0.278, must be >= min( 0.7 * 2.867 , 0.250 ) Passed
+Weld Load Value [fwelds]:
+= min( fy * ky, 1.5 * Sn( A2 + A3 ), pi/4*P*Rn*2*ky*2 )
+= min (84504*1.24,1.5*26496.8(10.930+0.000) ,pi/4*321.3*12.12*2*1.24%2)
+= 56711.551 lb.
+Weld Stress Value [tau]:
+= fwelds/(Ltau(0.49*L41T + 0.6*twl + 0.49*L43T ) )
+= 56711.551/ (23.550 (0.49*0.278 + 0.6*0.662 + 0.49*0.000 ) )
+= 4510.962 < or = to 37195.203 Weld Size is OK
+Nozzle Calculations per Section 4.5: External Pressure Case:
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / In[1 + tn/Rn J]
+= 2.867/ln[ 1 + 2.867/12.125 ]
+= 13.508 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.662/1In[ 1 + 0.662/43.058 ]
+= 43.388 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+= Shell Fha Value
+= 13733.845
+= 13733.8 psi
+Determine Force acting on the Nozzle [fN]:
+88
+
+[page 97]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+
+FileName : 195001-CAL-001.00
+
+Nozzle Calcs. : MH
+= P * Rxn * LH
+= 14.997 * 13.508 * 3.812
+= 772.2 lb.
+
+Determine Force acting on the Shell [fS]:
+= P * Rxs * ( LR + tn )/2
+= 14.997 * 43.388 * ( 5.341 + 2.867 )/2
+= 2670.4 1b.
+
+Discontinuity Force from External Pressure [fY]:
+= ( P * Rxs * Rne )/2
+= ( 14.997 * 43.388 * 12.125 )/2
+= 3944.9 lb.
+
+Area Resisting External Pressure [Ap]:
+= ( 8 + fY + £N )/P
+= ( 2670.4 + 3944.9 + 772.2 )/14.997
+= 492.6 in?
+
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/(2 * teff ) )
+= 13733.845/( 2 * 492.593/11.401 - 43.388/(2*0.662 ) )
+= 255.9 psig
+
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= 2 * Fha * [t/Rxs]
+= 2 * 13733.845 * [0.662/43.388 ]
+= 419.3 psig
+
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 255.934 , 419.344 )
+= 255.934 psig
+
+89
+
+[page 98]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : MH
+Average Primary Membrane Stress [SigmaAvg]:
+
+= ( £N + £8 + fy ) / AT
+
+= ( 772.241 + 2670.396 + 3944.899 )/11.401
+
+= 647.974 psi
+General Primary Membrane Stress [SigmaCirc]:
+
+= P* Rxs / ( 2 * teff )
+
+= 14.997 * 43.388/( 2 * 0.662 )
+
+= 491.2 psi
+Maximum Local Primary Membrane Stress [PL]:
+
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+
+= max( 2 * 647.974 - 491.171 , 491.171 )
+
+= 804.8 psi
+Summary of Nozzle Pressure/Stress Results:
+
+Allowed Local Primary Membrane Stress Sallow 13733.84 psi
+Local Primary Membrane Stress PL 804.78 psi
+Maximum Allowable External Pressure Pmax 255.93 psig
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+
+90
+
+[page 99]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+INPUT VALUES, Nozzle Description: S1 From: 20
+Pressure for Reinforcement Calculations P 325.836 psig
+Temperature for Internal Pressure Temp 750 °F
+Design External Pressure Pext: 15.00 psig
+Temperature for External Pressure Tempex 750 °F
+Shell Material [Impact Tested] SA-533 B
+Shell Allowable Stress at Temperature sv 37195.20 psi
+Shell Allowable Stress At Ambient Sva 37500.00 psi
+Inside Diameter of Cylindrical shell D 84.8425 in.
+Design Length of Section L 240.1575 in.
+Shell Finished (Minimum) Thickness t 0.8661 in.
+Shell Internal Corrosion Allowance c 0.1250 in.
+Shell External Corrosion Allowance co 0.0000 in.
+Note : User defined Limit(s) of Reinforcement specified below:
+Physical Maximum for Diameter Limit Dmax 37.7953 in.
+Type of Element Connected to the Shell : Nozzle
+Material {Impact Tested] SA-106 C
+Material UNS Number 03501
+Material Specification/Type smls. pipe
+Allowable Stress at Temperature sn 14788.80 psi
+Allowable Stress At Ambient sna 26700.00 psi
+Diameter Basis (for tr calc only) ID
+Layout Angle 270.00 deg
+Diameter 24.0000 in.
+Size and Thickness Basis Nominal
+
+97
+
+[page 100]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+Nominal Thickness tn 120
+Corrosion Allowance can 0.1250 in.
+Outside Projection ho 11.8110 in.
+Weld leg size between Nozzle and Pad/Shell Wo 0.3937) in
+Groove weld depth between Nozzle and Vessel Wgnv 0.8661 in.
+Inside Projection h 0.0000 in.
+Weld leg size, Inside Element to Shell Wi 0.0000 in.
+User Defined Nozzle/Shell Centerline Angle 90.0000 deg.
+The Pressure Design option was Design Pressure + static head.
+Nozzle Sketch (may not represent actual weld type/configuration)
+Ld
+Ld
+Ld
+I]
+—_/I |
+| \ to]
+| V1 |
+| NI_I
+Insert/Set-in Nozzle No Pad, no Inside projection
+Reinforcement CALCULATION, Description: S1
+ASME Code, Section VIII, Div. 2, 2015, Section 4.5.1 - 4.5.14
+Actual Inside Diameter Used in Calculation 20.376 in.
+Actual Thickness Used in Calculation 1.812 in.
+92
+
+[page 101]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+Nozzle input data check completed without errors.
+Cylindrical Shell Calculation - Section 4.3.3.1
+Computed Minimum Required Thickness [t]:
+= 0.5*D*( exp( P/(S*E) )-1)+ci+co
+= 0.5*20.626 *(exp( 325.836/(14788.799 *1.000 ))-1) + 0.125 + 0.000
+= 0.2297 + 0.125 + 0.000 = 0.3547 in. Equation 4.3.1
+Computed Maximum Allowable Working Pressure [MAWP]:
+=S* E* In( ( 2*t +D) /D) - Plig
+= 14788.799 * 1.000 * Ln( ( 2*1.687 + 20.626 )/20.626 ) - 0.000
+= 2240.524 - 0.000 = 2240.5237 psig
+Nozzle Minimum Thickness per Table 4.5.2
+Min. required Nozzle Neck Thickness + c : 0.453 in, 11.515 mm
+Nozzle Calculations per Section 4.5: Internal Pressure Case:
+Nozzle Material Factor [frn]:
+= min[sn/s, 1]
+= min[14788.8/37195.2 , 1]
+= 0.398
+Thickness of Nozzle [tn]:
+= thickness - corrosion allowance
+= 1.812 - 0.125
+= 1.687 in.
+Shell Diameter to Thickness ratio [D/t]:
+= Di/t
+= 85.093/0.741
+= 114.813 must be less than 400.
+93
+
+[page 102]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+Effective Pressure Radius [Reff]:
+= Di/2 + corrosion allowance
+= 84.843/2 + 0.125
+= 42.546 in.
+Effective Length of Vessel! Wall [LR],
+= min( sqrt( Reff * t ), 2 * Rn )
+= min( sqrt( 42.546 * 0.741 ), 2 * 10.313 )
+= 5.615 in.
+Thickness Limit Candidate [LH1]:
+= min[{1.5t,te] + sqrt( Rn * tn )
+= min[1.5*0.741 , 0.000 ] + sqrt( 10.313 * 1.687 )
+= 4.171 in.
+Thickness Limit Candidate [LH2]:
+= Lpri
+= 11.811
+= 11.811 in.
+Thickness Limit Candidate [LH3]:
+= 8( t + te)
+= 8( 0.741 + 0.000 )
+= 5.929 in.
+Effective Nozzle Wall Length Outside the Vessel [LH]:
+= min[ LH1, LH2, LH3 ] +t for set-in nozzles
+= min[ 4.171 , 11.811 , 5.929 ) + 0.741
+= 4.912 in.
+Effective Vessel Thickness [teff]:
+= t+ (( AS * frp) / LR)
+94
+
+[page 103]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+= 0.741+((0.000*1.00)/5.615)
+= 0.741 in.
+Determine Parameter [Lamda]:
+= min( 12, ( 2*Rn + tn )/( sqrt( ( Di + teff ) * teff )) )
+= min( 12, (2*10.31 + 1.687 )/( sqrt((85.09 + 0.741 ) * 0.741 )) )
+= 2.798
+Compute Areas A1-A43 (No Pad) or A1-A5 (With Pad) :
+Area Contributed by the Vessel Wall [A1]:
+= t * LR * max( (Lamda/5)°*, 1 )
+= 0.741 * 5.615 * max( (2.798/5)°", 1 )
+= 4.162 in?
+Area Contributed by the Nozzle Outside the Vessel Wall [A2]:
+= tn * LH
+= 1.687 * 4,912
+= 8.287 in?
+Area Contributed by the Outside Fillet Weld [A41]:
+= 0.5 * Leg41*
+= 0.5 * 0.394?
+= 0.078 in?
+The total area contributed by A1 through A43 [AT]:
+= Al + frn( A2 + A3 ) + A41 + A42 + A43
+= 4.162+0.398(8.287+0.000) +0.078+0.000+0.000
+= 7.534 in?
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / In[1 + tn/Rn ]
+95
+
+[page 104]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+= 1.687/1n[ 1 + 1.687/10.313 ]
+= 11.135 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.741/ln[ 1 + 0.741/42.546 J
+= 42.916 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+=15*S*E
+= 1.5 * 37195.203 * 1.000
+= 55792.8 psi
+Determine Force acting on the Nozzle [fN]:
+= P * Rxn * LH
+= 325.836 * 11.135 * 4.912
+= 17822.9 lb.
+Determine Force acting on the Shell [fS]:
+= P * Rxs( LR + tn )
+= 325.836 * 42.916 ( 5.615 + 1.687 )
+= 102113.2 lb.
+Discontinuity Force from Internal Pressure [FY]:
+= P * Rxs * Rnc
+= 325.836 * 42.916 * 10.313
+= 144211.8 lb.
+Area Resisting Internal Pressure [Ap]:
+= ( fS + fy + £N )/P
+= ( 102113.2 + 144211.8 + 17822.9 )/325.836
+= 810.7 in?
+96
+
+[page 105]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/teff )
+= 55792.805/( 2 * 810.676/7.534 - 42.916/0.741 )
+= 354.7 psig
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= S[t/Rxs]
+= 37195.203 [0.741/42.916 ]
+= 642.4 psig
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 354.703 , 642.350 )
+= 354.703 psig
+Average Primary Membrane Stress [SigmaAvg]:
+= ( £N + £8 + f¥ ) / AT
+= ( 17822.859 + 102113.219 + 144211.828 )/7.534
+= 35059.848 psi
+General Primary Membrane Stress [SigmaCirc]:
+= P * Rxs / teff
+= 325.836 * 42.916/0.741
+= 18867.5 psi
+Maximum Local Primary Membrane Stress [PL]:
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+= max( 2 * 35059.848 - 18867.510 , 18867.510 )
+= 51252.2 psi
+Summary of Nozzle Pressure/Stress Results:
+Allowed Local Primary Membrane Stress Sallow 55792.80 psi
+Local Primary Membrane Stress PL 51252.19 psi
+9
+
+[page 106]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+Maximum Allowable Working Pressure Pmax 354.70 psig
+Strength of Nozzle Attachment Welds per 4.5.14
+Discontinuity Force Factor [ky]:
+= ( Rnc + tn ) / Rnc
+= ( 10.313 + 1.687 )/10.313
+= 1.164 For set-in Nozzles
+Weld Length of Nozzle to Shell Weld [Ltau]:
+= pi/2 * ( Rn + tn)
+= pi/2 * ( 10.313 + 1.687 )
+= 18.850 in.
+Weld Throat Dimensions, (0.7071*Leg Dimensions) [L41T, L42T, L43T]:
+= 0.278, 0.000, 0.000, in.
+Required Weld Throat Dimensions :
+tc, L41T = 0.278, must be >= min( 0.7 * 1.687 , 0.250 ) Passed
+Weld Load Value [fwelds]:
+= min( fy * ky, 1.5 * Sn( A2 + A3 ), pi/4*P*Rn*2*ky*2 )
+= min (144212*1.16,1.5*14788.8(8.287+0.000) ,pi/4*325.8*10.31*2*1.16%2)
+= 36851.234 1b.
+Weld Stress Value [tau]:
+= fwelds/(Ltau(0.49*L41T + 0.6*twl + 0.49*L43T ) )
+= 36851.234/ (18.850 (0.49*0.278 + 0.6*0.741 + 0.49*0.000 ) )
+= 3364.375 < or = to 37195.203 Weld Size is OK
+Nozzle Calculations per Section 4.5: External Pressure Case:
+Nozzle Radius for Force Calculation [Rxn]:
+98
+
+[page 107]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+= tn / In[1 + tn/Rn ]
+= 1.687/1In[ 1 + 1.687/10.313 ]
+= 11.135 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.741/1n[ 1 + 0.741/42.546 ]
+= 42.916 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+= Shell Fha Value
+= 3580.565
+= 3580.6 psi
+Determine Force acting on the Nozzle [fN]:
+= P * Rxn * LH
+= 14.997 * 11.135 * 4.912
+= 820.3 lb.
+Determine Force acting on the Shell [fS]:
+= P * Rxs( LR + tn )
+= 14.997 * 42.916 ( 5.615 + 1.687 )
+= 4700.0 lb.
+Discontinuity Force from External Pressure [fY]:
+= P * Rxs * Rnc
+= 14.997 * 42.916 * 10.313
+= 6637.6 1b.
+Area Resisting External Pressure [Ap]:
+= ( fS8 + fY + £N )/P
+= (4700.0 + 6637.6 + 820.3 )/14.997
+= 810.7 in®
+99
+
+[page 108]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/teff )
+= 3580.565/( 2 * 810.676/7.534 - 42.916/0.741 )
+= 22.8 psig
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= min( Shell Fha, Nozzle Fha ) * [t/Rxs]
+= 3580.565 [0.741/42.916 ]
+= 61.8 psig
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 22.763 , 61.835 )
+= 22.763 psig
+Average Primary Membrane Stress [SigmaAvg]:
+= ( £N + fS + fy ) / AT
+= ( 820.331 + 4699.957 + 6637.625 )/7.534
+= 1613.697 psi
+General Primary Membrane Stress [SigmaCirc]:
+=P * Rxs / teff
+= 14.997 * 42.916/0.741
+= 868.4 psi
+Maximum Local Primary Membrane Stress [PL]:
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+= max( 2 * 1613.697 - 868.413 , 868.413 )
+= 2359.0 psi
+Summary of Nozzle Pressure/Stress Results:
+Allowed Local Primary Membrane Stress Sallow 3580.56 psi
+700
+
+[page 109]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Sl
+Local Primary Membrane Stress PL 2358.98 psi
+Maximum Allowable External Pressure Pmax 22.76 psig
+Input Echo, WRC107/537 Item 1, Description: $1 :
+Diameter Basis for Vessel Vbasis ID
+Cylindrical or Spherical vessel cylsph Cylindrical
+Internal Corrosion Allowance cas 0.1250 in.
+Vessel Diameter Dv 84.843 in.
+Vessel Thickness Tv 0.866 in.
+Design Temperature 750.20 °F
+vessel Material SA-533 B
+vessel Cold S.I. Allowable sme 37500.00 psi
+Vessel Hot S.I. Allowable Smh 37195.20 psi
+Attachment Type Type Round
+Diameter Basis for Nozzle Nbasis ID
+Corrosion Allowance for Nozzle can 0.1250 in
+Nozzle Diameter Dn 20.376 in.
+Nozzle Thickness Tn 1.812 in.
+Nozzle Material SA-106 C
+Nozzle Cold S.I. Allowable sNme 26700.00 psi
+Nozzle Hot §.I. Allowable sNmh 14788.80 psi
+Design Internal Pressure Dp 325.836 psig
+Include Pressure Thrust No
+External Forces and Moments in WRC 107/537 Convention:
+Radial Load (sus) PB -5129.0 1b.
+Longitudinal Shear (sus) v1 6276.3 lb.
+Circumferential Shear (SUS) Ve 6276.3 1b.
+107
+
+[page 110]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Sl
+Circumferential Moment (SUS) Mc 35721.0 £t.1b.
+Longitudinal Moment (sus) M1 35721.0 £t.1b.
+Torsional Moment (sus) Mt 50555.5 ft.lb.
+Use Interactive Control No
+WRC107 Version Version March 1979
+Include Pressure Stress Indices per Div. 2 No
+Compute Pressure Stress per WRC-368 No
+WRC 107 Stress Calculation for SUStained loads:
+Radial Load P -5129.0 1b.
+Circumferential Shear ve 6276.3 1b.
+Longitudinal Shear VL 6276.3 lb.
+Circumferential Moment Mc 35721.0 £t.1b.
+Longitudinal Moment ML 35721.0 £t.1b.
+Torsional Moment MT 50555.5 ft.lb.
+Dimensionless Parameters used : Gamma = 57.91
+Dimensionless Loads for Cylindrical Shells at Attachment Junction:
+Curves read for 1979 Beta Figure Value Location
+N(PHI) / ( P/Rm ) 0.245 4c 6.633. (A,B)
+N(PHI) / ( P/Rm ) 0.245 3¢ 3.273 (c,D)
+M(PHI) / ( P ) 0.245 2c1 0.018 (A,B)
+M(PHI) / ( PB ) 0.245 1c 0.066 (C,D)
+N(PHI) / ( MC/(Rm**2 * Beta) ) 0.245 3A 2.021 (A,B,C,D)
+M(PHI) / ( MC/(Rm * Beta) ) 0.245 1A 0.062 (A,B,C,D)
+N(PHI) / ( ML/(Rm**2 * Beta) ) 0.245 3B 4.465 (A,B,C,D)
+M(PHI) / ( ML/ (Rm * Beta) ) 0.245 1B 0.013 (A,B,C,D)
+102
+
+[page 111]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Sl
+N(x) / ( P/Rm ) 0.245 3c 3.273. (A,B)
+N(x) / ( P/Rm ) 0.245 4c 6.633 (C,D)
+M(x) /(P) 0.245 1cl1 0.043 (A,B)
+M(x) /(P) 0.245 2c 0.034 (c,D)
+N(x) / ( MC/(Rm**2 * Beta) ) 0.245 4A 5.210 (A,B,C,D)
+M(x) / ( MC/(Rm * Beta) ) 0.245 2A 0.026 (A,B,C,D)
+N(x) / ( ML/(Rm*#*2 * Beta) ) 0.245 4B 2.172 (A,B,C,D)
+M(x) / ( ML/ (Rm * Beta) ) 0.245 2B 0.019 (A,B,C,D)
+Stress Concentration Factors Kn = 1.00, Kb = 1.00
+Stresses in the Vessel at the Attachment Junction
+| Stress Values at |
+| ( psi) |
+Type of | |
+Stress Load | Au Al Bu Bl cu cl Du Dl |
+Cire. Memb. P | 1069 1069 1069 1069 527 527 527 527|
+Circ. Bend. P | 1018 -1018 1018 -1018 3702 -3702 3702 -3702|
+Circ. Memb. MC | 0 to 0 0 -2594 -2594 2594 2594|
+Cire. Bend. MC | 0 0 0 0 -27689 27689 27689 -27689|
+Circ. Memb. ML | -5730 -5730 5730 5730 0 0 0 o|
+Circ. Bend. ML | -5982 5982 5982 -5982 0 0 0 |
+| |
+Tot. Cire. Str.| -9625 304 13800 -201 -26053 21920 34513 -28269|
+Long. Memb. P| 527 527 527 527 1069 1069 1069 1069|
+Long. Bend. P | 2393 -2393 2393 -2393 1913 -1913 1913 -1913|
+Long. Memb. MC | 0 to} 0 0 -6686 -6686 6686 6686 |
+Long. Bend. MC | 0 0 0 0 -11661 11661 11661 -11661|
+103
+
+[page 112]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : Sl
+Long. Memb. ML | -2787 -2787 2787 2787 to 0 0 o|
+Long. Bend. ML | -8611 8611 8611 -8611 0 0 0 |
+| |
+Tot. Long. Str.| -8478 3957 14321 -7689 -15364 4130 21330 -5818|
+Shear vc | 224 224 -224 -224 0 0 0 o|
+Shear VL | 0 0 0 0 -224 -224 224 224|
+Shear MT | 904 904 904 904 904 904 904 904|
+| |
+Tot. Shear| 1129 1129 680 680 680 680 1129 1129|
+Str. Int. | 10318 4295 14789 7751 26096 21946 34609 28326|
+WRC 107/537 Stress Summations:
+Vessel Stress Summation at Attachment Junction
+Type of Stress Values at |
+Stress Int. (psi ) |
+Location Au Al Bu Bl cu cl Du Dl |
+Circ. Pm (SUS) 18867 18867 18867 18867 18867 18867 18867 18867|
+Circ. Pl (SUS) -4660 -4660 6799 6799 -2066 -2066 3121 3121]
+Cire. Q (SUS) -4964 4964 7000 -7000 -23987 23987 31391 -31391|
+Long. Pm (SUS) 9271 9271 9271 9271 9271 9271 9271 9271]
+Long. Pl (SUS) -2260 -2260 3315 3315 -5616 -5616 7756 7756|
+Long. Q (SUS) -6217 6217 11005 -11005 -9747 9747 13574 -13574|
+Shear Pm (SUS) 0 0 0 0 0 0 0 o|
+Shear Pl (sus) 224 224 -224 -224 -224 -224 224 224|
+Shear Q (SUS) 904 904 904 904 904 904 904 904|
+Pm (SUS) 18867 18867 18867 18867 18867 18867 18867 18867|
+104
+
+[page 113]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S1
+Pm+P1 (SUS) 14213 14213 25671 25671 16804 16804 21999 21999|
+Pm+P1+Q (Total) 9390 19378 32719 18693 7511 40805 53437 13052|
+Stress Summation Comparison:
+Type of | Max. S.I. S.I. Allowable | Result |
+Stress Int. | psi | |
+Pm (SUS) | 18867 37195 | Passed |
+Pm+P1 (SUS) | 25671 55792 | Passed |
+Pm+P1+Q (TOTAL) | 53437 112042 | Passed |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+
+105
+
+[page 114]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+INPUT VALUES, Nozzle Description: S2 From: 20
+Pressure for Reinforcement Calculations P 320.000 psig
+Temperature for Internal Pressure Temp 750 °F
+Design External Pressure Pext 15.00 psig
+Temperature for External Pressure Tempex 750 °F
+Shell Material [Impact Tested] SA-533 B
+Shell Allowable Stress at Temperature sv 37195.20 psi
+Shell Allowable Stress At Ambient Sva 37500.00 psi
+Inside Diameter of Cylindrical Shell D 84.8425 in.
+Design Length of Section L 240.1575 in.
+Shell Finished (Minimum) Thickness t 0.8661 in.
+Shell Internal Corrosion Allowance c 0.1250 in.
+Shell External Corrosion Allowance co 0.0000 in.
+Note : User defined Limit(s) of Reinforcement specified below:
+Physical Maximum for Diameter Limit Dmax 37.7953 in.
+Type of Element Connected to the Shell : Nozzle
+Material [Impact Tested] SA-106 C
+Material UNS Number KO3501
+Material Specification/Type smls. pipe
+Allowable Stress at Temperature sn 14788.80 psi
+Allowable Stress At Ambient sna 26700.00 psi
+Diameter Basis (for tr calc only) ID
+Layout Angle 90.00 deg
+Diameter 24.0000 in.
+Size and Thickness Basis Nominal
+106
+
+[page 115]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Nominal Thickness tn 120
+Corrosion Allowance can 0.1250 in.
+Outside Projection ho 11.8110 in
+Weld leg size between Nozzle and Pad/Shell Wo 0.3937 in.
+Groove weld depth between Nozzle and Vessel Wgnv 0.8661 in.
+Inside Projection h 0.0000 in.
+Weld leg size, Inside Element to Shell Wi 0.0000 in.
+User Defined Nozzle/Shell Centerline Angle 90.0000 deg.
+The Pressure Design option was Design Pressure + static head.
+Nozzle Sketch (may not represent actual weld type/configuration)
+Ld
+Ld
+Ld
+I]
+—__/I |
+| \ 1 |
+| Vo]
+no
+Insert/Set-in Nozzle No Pad, no Inside projection
+Reinforcement CALCULATION, Description: $2
+ASME Code, Section VIII, Div. 2, 2015, Section 4.5.1 - 4.5.14
+Actual Inside Diameter Used in Calculation 20.376 in.
+Actual Thickness Used in Calculation 1.812 in.
+107
+
+[page 116]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Nozzle input data check completed without errors.
+Cylindrical Shell Calculation - Section 4.3.3.1
+Computed Minimum Required Thickness [t]:
+= 0.5*D*( exp( P/(S*E) )-1)+ci+co
+= 0.5*20.626 *(exp( 320.000/(14788.799 *1.000 ))-1) + 0.125 + 0.000
+= 0.2256 + 0.125 + 0.000 = 0.3506 in. Equation 4.3.1
+Computed Maximum Allowable Working Pressure [MAWP]:
+=S* E* Ln( ( 2*t +D) /D) - Plig
+= 14788.799 * 1.000 * Ln( ( 2*1.687 + 20.626 )/20.626 ) - 0.000
+= 2240.524 - 0.000 = 2240.5237 psig
+Nozzle Minimum Thickness per Table 4.5.2
+Min. required Nozzle Neck Thickness +c : 0.453 in. 11.515 mm
+Nozzle Calculations per Section 4.5: Internal Pressure Case:
+Nozzle Material Factor [frn]:
+= min[Sn/s, 1]
+= min[14788.8/37195.2 , 1]
+= 0.398
+Thickness of Nozzle [tn]:
+= thickness - corrosion allowance
+= 1.812 - 0.125
+= 1.687 in.
+Shell Diameter to Thickness ratio [D/t]:
+= Di/t
+= 85.093/0.741
+108
+
+[page 117]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+= 114.813 must be less than 400.
+Effective Pressure Radius [Reff]:
+= Di/2 + corrosion allowance
+= 84.843/2 + 0.125
+= 42.546 in.
+Effective Length of Vessel Wall [LR]:
+= min( sqrt( Reff * t ), 2 * Rn )
+= min( sqrt( 42.546 * 0.741 ), 2 * 10.313 )
+= 5.615 in.
+Thickness Limit Candidate [LH1]:
+= min[1.5t,te] + sqrt( Rn * tn )
+= min[1.5*0.741 , 0.000 ] + sqrt( 10.313 * 1.687 )
+= 4,171 in.
+Thickness Limit Candidate [LH2]:
+= Lprl
+= 11.811
+= 11.811 in.
+Thickness Limit Candidate [LH3]:
+= 8( t + te)
+= 8( 0.741 + 0.000 )
+= 5.929 in.
+Effective Nozzle Wall Length Outside the Vessel [LH]:
+= min[ LH1, LH2, LH3 ] +t for set-in nozzles
+= min[ 4.171 , 11.811 , 5.929 ) + 0.741
+= 4,912 in.
+Effective Vessel Thickness [teff]:
+109
+
+[page 118]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+= t+ (( AS * frp) / LR)
+= 0.741+((0.000*1.00) /5.615)
+= 0.741 in.
+Determine Parameter [Lamdal
+= min( 12, ( 2*Rn + tn )/( sqrt( ( Di + teff ) * teff )) )
+= min( 12, (2*10.31 + 1.687 )/( sqrt((85.09 + 0.741 ) * 0.741 )) )
+= 2.798
+Compute Areas A1-A43 (No Pad) or A1-A5 (With Pad) :
+Area Contributed by the Vessel Wall [A1]:
+= t * LR * max( (Lamda/5)°*, 1 )
+= 0.741 * 5.615 * max( (2.798/5)°*5, 1 )
+= 4.162 in?
+Area Contributed by the Nozzle Outside the Vessel Wall [A2]:
+= tn * LH
+= 1.687 * 4.912
+= 8.287 in?
+Area Contributed by the Outside Fillet Weld [A41]:
+= 0.5 * Leg41?
+= 0.5 * 0.394?
+= 0.078 in?
+The total area contributed by A1 through A43. [AT]:
+= Al + frn( A2 + A3 ) + A41 + A42 + A43
+= 4,162+0.398(8.287+0.000) +0.078+0.000+0.000
+= 7.534 in?
+Nozzle Radius for Force Calculation [Rxn]:
+710
+
+[page 119]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+= tn / In{1 + tn/Rn ]
+= 1.687/1n[ 1 + 1.687/10.313 ]
+= 11.135 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.741/In[ 1 + 0.741/42.546 ]
+= 42.916 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+=15*S*E
+= 1.5 * 37195.203 * 1.000
+= 55792.8 psi
+Determine Force acting on the Nozzle [fN].
+= P * Rxn * LH
+= 320.000 * 11.135 * 4.912
+= 17503.6 lb.
+Determine Force acting on the Shell [fS]:
+= P * Rxs( LR + tn )
+= 320.000 * 42.916 ( 5.615 + 1.687 )
+= 100284.1 lb.
+Discontinuity Force from Internal Pressure [fY]:
+= P * Rxs * Rnc
+= 320.000 * 42.916 * 10.313
+= 141628.7 lb.
+Area Resisting Internal Pressure [Ap]:
+= ( £8 + f£Y + £N )/P
+= ( 100284.1 + 141628.7 + 17503.6 )/320.000
+= 810.7 in?
+117
+
+[page 120]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/teff )
+= 55792.805/( 2 * 810.676/7.534 - 42.916/0.741 )
+= 354.7 psig
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= S[t/Rxs]
+= 37195.203 [0.741/42.916 ]
+= 642.4 psig
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 354.703 , 642.350 )
+= 354.703 psig
+Average Primary Membrane Stress [SigmaAvg]:
+= ( £N + fS + fy ) / AT
+= ( 17503.613 + 100284.141 + 141628.672 )/7.534
+= 34431.848 psi
+General Primary Membrane Stress [SigmaCirc]:
+= P * Rxs / teff
+= 320.000 * 42.916/0.741
+= 18529.6 psi
+Maximum Local Primary Membrane Stress [PL]:
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+= max( 2 * 34431.848 - 18529.551 , 18529.551 )
+= 50334.1 psi
+Summary of Nozzle Pressure/Stress Results:
+Allowed Local Primary Membrane Stress Sallow 55792.80 psi
+712
+
+[page 121]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Local Primary Membrane Stress PL 50334.14 psi
+Maximum Allowable Working Pressure Pmax 354.70 psig
+Strength of Nozzle Attachment Welds per 4.5.14
+Discontinuity Force Factor [ky]:
+
+= (Rnc + tn) / Rne
+
+= (10.313 + 1.687 )/10.313
+
+= 1.164 For set-in Nozzles
+Weld Length of Nozzle to Shell Weld [Ltau]:
+
+= pi/2 * ( Rn + tn )
+
+= pi/2 * ( 10.313 + 1.687 )
+
+= 18.850 in.
+Weld Throat Dimensions, (0.7071*Leg Dimensions) [L41T, L42T, L43T]:
+
+= 0.278, 0.000, 0.000, in.
+Required Weld Throat Dimensions :
+
+te, L41T = 0.278, must be >= min( 0.7 * 1.687 , 0.250 ) Passed
+Weld Load Value [fwelds]:
+
+= min( fy * ky, 1.5 * Sn( A2 + A3 ), pi/4*P*Rn*2*ky*2 )
+
+= min (141629*1.16,1.5*14788.8(8.287+0.000) ,pi/4*320.0*10.31*2*1.16%2)
+
+= 36191.148 lb.
+Weld Stress Value [tau]:
+
+= fwelds/(Ltau(0.49*L41T + 0.6*twl + 0.49*L43T ) )
+
+= 36191.148/(18.850 (0.49*0.278 + 0.6*0.741 + 0.49*0.000 ) )
+
+= 3304.112 < or = to 37195.203 Weld Size is OK
+Nozzle Calculations per Section 4.5: External Pressure Case:
+
+113
+
+[page 122]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Nozzle Radius for Force Calculation [Rxn]:
+= tn / ln[1 + tn/Rn J
+= 1.687/In[ 1 + 1.687/10.313 ]
+= 11.135 in.
+Shell Radius for Force Calculation [Rxs]:
+= teff / In[ 1 + teff/Reff ]
+= 0.741/ln[ 1 + 0.741/42.546 ]
+= 42.916 in.
+Allowable Local Primary Membrane Stress [Sallow]:
+= Shell Fha Value
+= 3580.565
+= 3580.6 psi
+Determine Force acting on the Nozzle [fN]:
+= P * Rxn * LH
+= 14.997 * 11.135 * 4.912
+= 820.3 lb.
+Determine Force acting on the Shell [fS]:
+= P * Rxs( LR + tn )
+= 14.997 * 42.916 ( 5.615 + 1.687 )
+= 4700.0 1b.
+Discontinuity Force from External Pressure [fY]:
+= P * Rxs * Rnc
+= 14.997 * 42.916 * 10.313
+= 6637.6 lb.
+Area Resisting External Pressure [Ap]:
+= ( fS + fy + £N )/P
+= ( 4700.0 + 6637.6 + 820.3 )/14.997
+114
+
+[page 123]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+= 810.7 in?
+Maximum Allowable Working Pressure Candidate [Pmax1]:
+= Sallow /( 2 * Ap/AT - Rxs/teff )
+= 3580.565/( 2 * 810.676/7.534 - 42.916/0.741 )
+= 22.8 psig
+Maximum Allowable Working Pressure Candidate [Pmax2]:
+= min( Shell Fha, Nozzle Fha ) * [t/Rxs]
+= 3580.565 [0.741/42.916 ]
+= 61.8 psig
+Maximum Allowable Working Pressure [Pmax]:
+= min( Pmaxl, Pmax2 )
+= min( 22.763 , 61.835 )
+= 22.763 psig
+Average Primary Membrane Stress [SigmaAvg]:
+= (£N + fS + fy ) / AT
+= ( 820.331 + 4699.957 + 6637.625 )/7.534
+= 1613.697 psi
+General Primary Membrane Stress [SigmaCirc]:
+=P * Rxs / teff
+= 14.997 * 42.916/0.741
+= 868.4 psi
+Maximum Local Primary Membrane Stress [PL]:
+= max( 2 * SigmaAvg - SigmaCirc, SigmaCirc )
+= max( 2 * 1613.697 - 868.413 , 868.413 )
+= 2359.0 psi
+Summary of Nozzle Pressure/Stress Results:
+715
+
+[page 124]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Allowed Local Primary Membrane Stress Sallow 3580.56 psi
+Local Primary Membrane Stress PL 2358.98 psi
+Maximum Allowable External Pressure Pmax 22.76 psig
+Input Echo, WRC107/537 Item 1, Description: S2 :
+Diameter Basis for Vessel Vbasis ID
+cylindrical or Spherical vessel cylsph cylindrical
+Internal Corrosion Allowance Cas 0.1250 in.
+Vessel Diameter Dv 84.843 in.
+Vessel Thickness Tv 0.866 in.
+Design Temperature 750.20 °F
+Vessel Material SA-533 B
+Vessel Cold S.I. Allowable Sme 37500.00 psi
+Vessel Hot S.I. Allowable Smh 37195.20 psi
+Attachment Type Type Round
+Diameter Basis for Nozzle Nbasis ID
+Corrosion Allowance for Nozzle can 0.1250 in.
+Nozzle Diameter Dn 20.376 in.
+Nozzle Thickness Tn 1.812 in.
+Nozzle Material SA-106 C
+Nozzle Cold S.I. Allowable SNmc 26700.00 psi
+Nozzle Hot S.I. Allowable sNmh 14788.80 psi
+Design Internal Pressure Dp 320.000 psig
+Include Pressure Thrust No
+External Forces and Moments in WRC 107/537 Convention:
+Radial Load (sus) P -5129.0 1b.
+Longitudinal Shear (sus) v1 6276.3 lb.
+116
+
+[page 125]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Circumferential Shear (SUS) Ve 6276.3 1b.
+Circumferential Moment (sUS) Mc 35721.0 ft.1b.
+Longitudinal Moment (sus) M1 35721.0 £t.1b.
+Torsional Moment (sus) Mt 50555.5 ft.1b.
+Use Interactive Control No
+WRC107 Version Version March 1979
+Include Pressure Stress Indices per Div. 2 No
+Compute Pressure Stress per WRC-368 No
+WRC 107 Stress Calculation for SUStained loads:
+Radial Load P -5129.0 1b.
+Circumferential Shear ve 6276.3 lb.
+Longitudinal Shear VL 6276.3 1b.
+Circumferential Moment Mc 35721.0 ft.1b.
+Longitudinal Moment ML 35721.0 ft.1b.
+Torsional Moment MT 50555.5 ft.1b.
+Dimensionless Parameters used Gamma = 57.91
+Dimensionless Loads for Cylindrical Shells at Attachment Junction:
+Curves read for 1979 Beta Figure Value Location
+N(PHI) / ( P/Rm ) 0.245 4c 6.633 (A,B)
+N(PHI) / ( P/Rm ) 0.245 3c 3.273 (c,D)
+M(PHI) / ( PB) 0.245 2c 0.018 (A,B)
+M(PHI) / ( PB ) 0.245 1c 0.066 (C,D)
+N(PHI) / ( MC/(Rm**2 * Beta) ) 0.245 3A 2.021 (A,B,C,D)
+M(PHI) / ( MC/ (Rm * Beta) ) 0.245 1A 0.062 (A,B,C,D)
+N(PHI) / ( ML/(Rm**2 * Beta) ) 0.245 3B 4.465 (A,B,C,D)
+117
+
+[page 126]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+M(PHI) / ( ML/(Rm * Beta) ) 0.245 1B 0.013. (A,B,C,D)
+N(x) / ( P/Rm ) 0.245 3c 3.273 (A,B)
+N(x) / ( P/Rm ) 0.245 4c 6.633 (c,D)
+M(x) / (PB) 0.245 1cl1 0.043 (A,B)
+M(x) /(P) 0.245 2c 0.034 (c,D)
+N(x) / ( MC/(Rm**2 * Beta) ) 0.245 4A 5.210 (A,B,C,D)
+M(x) / ( MC/ (Rm * Beta) ) 0.245 2A 0.026 (A,B,C,D)
+N(x) / ( ML/(Rm**2 * Beta) ) 0.245 4B 2.172 (A,B,C,D)
+M(x) / ( ML/ (Rm * Beta) ) 0.245 2B 0.019 (A,B,C,D)
+Stress Concentration Factors Kn = 1.00, Kb = 1.00
+Stresses in the Vessel at the Attachment Junction
+| Stress Values at |
+| ( psi) |
+Type of | |
+Stress Load| Au Al Bu Bl cu cl Du Dil |
+Circ. Memb. P | 1069 1069 1069 1069 527 527 527 527|
+Circ. Bend. P| 1018 -1018 1018 -1018 3702 -3702 3702 -3702|
+Cire. Memb. Mc | 0 (7 0 0 -2594 -2594 2594 2594|
+Circ. Bend. MC | 0 0 0 0 -27689 27689 27689 -27689|
+Cire. Memb. ML | -5730 -5730 5730 5730 fo} io} to} 0|
+Circ. Bend. ML | -5982 5982 5982 -5982 to 0 0 0|
+| |
+Tot. Cire. str.| -9625 304 13800 -201 -26053 21920 34513 -28269|
+Long. Memb. P| 527 527 527 527 1069 1069 1069 1069|
+Long. Bend. P | 2393 -2393 2393 -2393 1913-1913 1913 -1913|
+Long. Memb. MC | t) 0 0 0 -6686 -6686 6686 6686|
+118
+
+[page 127]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Long. Bend. MC | 0 0 0 0 -11661 11661 11661 -11661|
+Long. Memb. ML | -2787 -2787 2787 2787 0 tv 0 o|
+Long. Bend. ML | -8611 8611 8611 -8611 to 0 0 o|
+| |
+Tot. Long. Str.| -8478 3957 14321 -7689 -15364 4130 21330 -5818|
+Shear vc | 224 224 -224 -224 0 0 0 |
+Shear VL | 0 0 0 0 -224 -224 224 224|
+Shear MT | 904 904 904 904 904 904 904 904|
+| |
+Tot. Shear| 1129 1129 680 680 680 680 1129 1129]
+Str. Int. | 10318 4295 14789 7751 26096 21946 34609 28326|
+WRC 107/537 Stress Summations:
+Vessel Stress Summation at Attachment Junction
+Type of Stress Values at |
+Stress Int. (psi ) |
+Location Au Al Bu Bl cu el Du Dl |
+Circ. Pm (SUS) 18529 18529 18529 18529 18529 18529 18529 18529|
+Cire. Pl (sus) -4660 -4660 6799 6799 -2066 -2066 3121 3121|
+Cire. Q (sus) -4964 4964 7000 -7000 -23987 23987 31391 -31391|
+Long. Pm (SUS) 9105 9105 9105 9105 9105 9105 9105 9105|
+Long. Pl (SUS) -2260 -2260 3315 3315 -5616 -5616 7756 7756|
+Long. Q (SUS) -6217 6217 11005 -11005 -9747 9747 13574 -13574|
+Shear Pm (SUS) 0 0 0 0 0 0 0 0|
+Shear Pl (SUS) 224 224 -224 -224 -224 -224 224 224|
+Shear Q (SUS) 904 904 904 904 904 904 904 904 |
+719
+
+[page 128]
+PV Elite 2016 Licensee: INGENIERIA Y TECNICAS DE MONTAJE LOINTEK S.L.
+FileName : 195001-CAL-001.00
+Nozzle Calcs. : S2
+Pm (SUS) 18529 18529 18529 18529 18529 18529 18529 18529|
+Pm+P1 (SUS) 13876 13876 25333 25333 16467 16467 21662 21662|
+Pm+P1+Q (Total) 9055 19046 32382 18355 7820 40467 53099 13221|
+Stress Summation Comparison:
+Type of | Max. S.1. S.I. Allowable | Result |
+Stress Int | psi | |
+Pm (SUS) | 18529 37195 | Passed |
+Pm+P1 (SUS) | 25333 55792 | Passed |
+Pm+P1+Q (TOTAL) | 53099 112042 | Passed |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+
+120
+
+[page 129]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.00 MH cover
+Flg Cale [Int P] : FLANGE
+Flange Input Data Values Description: FLANGE :
+Item: Node 20 to 30
+Description of Flange Geometry (Type) Blind
+Design Pressure P 320.00 psig
+Design Temperature 750 °F
+Internal Corrosion Allowance ci 0.0787 in.
+External Corrosion Allowance ce 0.0000 in.
+Use Corrosion Allowance in Thickness Calcs. Yes
+Flange Outside Diameter A 30.000 in.
+Flange Thickness t 2.5591 in.
+Flange Material SA-266 2
+Flange Material UNS number KO3506
+Flange Allowable Stress At Temperature Sfo 14793.33 psi
+Flange Allowable Stress At Ambient Sfa 24002.90 psi
+Bolt Material SA-193 B7
+Bolt Allowable Stress At Temperature Sb 23596.81 psi
+Bolt Allowable Stress At Ambient Sa 25003.62 psi
+Diameter of the Load Reaction, Long Span D 0.000 in.
+Diameter of the Load Reaction, Short Span d 0.000 in.
+Perimeter along the Center of the Bolts L 89.053 in.
+Diameter of Bolt Circle c 28.347 in.
+Nominal Bolt Diameter a 0.7500 in.
+Type of Threads TEMA Thread Series
+Number of Bolts 36
+
+127
+
+[page 130]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.00 MH cover
+Flg Calc [Int P] : FLANGE
+
+Flange Face Outside Diameter Fod 27.165 in.
+Flange Face Inside Diameter Fid 24.016 in.
+Flange Facing Sketch 1, Code Sketch la
+
+Gasket Outside Diameter Go 26.142 in.
+Gasket Inside Diameter Gi 24.961 in
+Gasket Factor m 0.0000
+
+Gasket Design Seating Stress y 0.00 psi
+Column for Gasket Seating 2, Code Column II
+
+Gasket Thickness tg 0.5906 in.
+ASME Code, Section VIII, Division 2, 2015
+
+Gasket Contact Width, N = (Go - Gi) / 2 0.591 in.
+Basic Gasket Width, bo =N/ 2 0.295 in.
+Effective Gasket Width, b = sqrt(bo) / 2 0.272 in.
+Gasket Reaction Diameter, G = Go -2*b 25.598 in.
+Basic Flange and Bolt Loads:
+Hydrostatic End Load due to Pressure [H]:
+
+= 0.785 * G * Peq
+
+= 0.785 * 25.5983? * 320.000
+
+= 164688.188 lb.
+Contact Load on Gasket Surfaces [Hp]:
+
+=2*b* Pi*G*m* PD
+
+= 2 * 0.2717 * 3.1416 * 25.5983 * 0.0000 * 320.00
+
+= 0.000 lb.
+Design Bolt Load for the Operating Condition [Wo]:
+
+= max( H + Hp + H'p, 0 )
+
+122
+
+[page 131]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.00 MH cover
+Flg Calc [Int P] : FLANGE
+= max( 164688 +0 +0, 0)
+= 164688.188 1b.
+Design Bolt Load for the Gasket Seating Condition [Wg]:
+=y*b* Pi*G + yPart * bPart * lp
+= 0.00*0.2717*3.141*25.598+0.00*0.0000*0.00
+= 0.000 lb.
+Required Bolt Area [Am]:
+= Max of (Wo + Fa + 4Me/G)/Sb, Wg/Sa
+= Max of (164688 + 0 + 4*0/25.60 )/23597 , 0/25004
+= 6.979 in?
+ASME Maximum Circumferential Spacing between Bolts per App. 2 eq. (3) [Bsmax]:
+= 2a + 6t/(m + 0.5)
+= 2 * 0.750 + 6 * 2.480/(0.00 + 0.5)
+= 31.264 in.
+Actual Circumferential Bolt Spacing [Bs]:
+= ¢ * sin( pi /n)
+= 28.347 * sin( 3.142/36 )
+= 2.471 in
+ASME Moment Multiplier for Bolt Spacing per App. 2 eq. (7) [Bsc]:
+= max( sqrt( Bs/( 2a +t )), 1)
+= max( sqrt( 2.471/( 2 * 0.750 + 2.480 )), 1 )
+= 1.0000
+Bolting Information for TEMA Imperial Thread Series (Non Mandatory):
+Minimum Actual Maximum
+Bolt Area, in? 6.979 10.872
+Radial distance bet. bolts and the edge 0.812 0.827
+123
+
+[page 132]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.00 MH cover
+Flg Calc [Int P] : FLANGE
+Circumferential spacing between bolts 1.750 2.471 31.264
+Flange Design Bolt Load, Gasket Seating [W]:
+= Sa * ( Am + Ab) / 2
+= 25003.62 * ( 6.9793 + 10.8720 )/2
+= 223173.08 lb
+Gasket Load for the Operating Condition [HG]:
+= Wo
+= 164688.19 lb
+Moment Arm Calculations:
+Distance to Gasket Load Reaction [hg]:
+=(C-G)/2
+= ( 28.3465 - 25.5983 )/2
+= 1.3741 in.
+Tangential Flange Stress, Flat Head (UG-34), Operating [STo]:
+= 1.9 * Wml * hG * Bsc/(t? * G) + C * Z * Peg * G*/t?
+= 1.9*164688*1.3741*1.0000/(2.48037*25.5983) +
+0.30*1.0000*320.00*25.59837/2.4803?
+= 12955.63 psi
+Tangential Flange Stress, Flat Head (UG-34), Seating [STa]:
+= 1.9 * W* hG * Bsc/ (t? * G)
+= 1.9*223173*1.3741*1.000/(2.48037*25.5983)
+= 3699.86 psi
+Bolt Stress, Operating [BSo]:
+= ( Wm1 / Ab )
+= (164688/10.8720)
+= 15147.92 psi
+Bolt Stress, Seating [BSa]:
+124
+
+[page 133]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.00 MH cover
+Flg Calc [Int P] : FLANGE
+= ( Wm2 / Ab )
+= (0/10.8720)
+= 0.00 psi
+Flange Stress Analysis Results: psi
+Operating | Gasket Seating |
+Actual Allowed | Actual Allowed |
+Tangential Flange 12956. | 14793. | 3700. | 24003. |
+Bolting 15148. | 23597. | o.| 25004. |
+Reqd. Blind Flange Thickness at Center 2.400 in.
+Reqd. Blind Flange Thickness at Gasket 1.144 in.
+Estimated M.A.W.P. ( Operating ) 365.4 psig
+Estimated Finished Weight of Flange at given Thk. 506.5 1bm
+Estimated Unfinished Weight of Forging at given Thk 506.5 1bm
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+125
+
+[page 134]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Wind Load Calculation :
+Input Values:
+Wind Design Code ASCE-7 98/02/05/IBC-03/STS-1
+Wind Load Reduction Scale Factor 1.0
+Basic Wind Speed (v] 90.002 mile/hr
+Surface Roughness Category C: Open Terrain
+Importance Factor 1.15
+Type of Surface Very Rough (D~/D = 0.08)
+Base Elevation 32.808 ft.
+Percent Wind for Hydrotest 33.0
+Using User defined Wind Press. Vs Elev. N
+Height of Hill or Escarpment H or Hh 0.0000 ft.
+Distance Upwind of Crest Lh 0.0000 £t.
+Distance from Crest to the Vessel x 0.0000 ft.
+Type of Terrain ( Hill, Escarpment ) Flat
+Damping Factor (Beta) for Wind (Ope) 0.0100
+Damping Factor (Beta) for Wind (Empty) 0.0000
+Damping Factor (Beta) for Wind (Filled) 0.0000
+Wind Analysis Results
+Static Gust-Effect Factor, Operating Case [G]:
+= min(0.85, 0.925((1 + 1.7 * gQ * Izbar * Q )/( 1 + 1.7 * gV * Izbar)))
+= min(0.85,0.925((1+1.7*3.400*0.218*0.938) /(1+1.7*3.400*0.218)))
+= min(0.85, 0.893 )
+= 0.850
+Natural Frequency of Vessel (Operating) 33.000 Hz
+Natural Frequency of Vessel (Empty) 33.000 Hz
+Natural Frequency of Vessel (Test) 33.000 Hz
+126
+
+[page 135]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Wind Load Calculation :
+
+User Entered Importance Factor is 1.150
+Force Coefficient [cf] 0.970
+Structure Height to Diameter ratio 6.112
+This is classified as a rigid structure. Static analysis performed.
+Sample Calculation for the First Element
+Value of [Alpha] and [Zg]:
+
+Exposure Category: C from Table Cé-2
+
+Alpha = 9.500 : Zg = 900.000 ft.
+Effective Height [z]:
+
+= Centroid Height + Vessel Base Elevation
+
+= 11.158 + 32.808 = 43.967 ft.
+Velocity Pressure coefficient evaluated at height z [Kz]:
+
+Because z (43.967 ft.) > 15 ft.
+
+= 2.01 * (2 / Zg ) ?/ MPhe
+
+= 2.01 * ( 43.967/900.000 )2/%-5°°
+
+= 1.065
+Type of Hill: No Hill
+Wind Directionality Factor [Kd]:
+
+= 0.95 per [6-6 ASCE-7 98] [6-4 ASCE-7 02/05]
+As there is No Hill Present: [Kzt]:
+
+Kl = 0, K2 = 0, K3 = 0
+Topographical Factor [Kzt]:
+
+= (1+ Kl * K2 * K3 )?
+
+127
+
+[page 136]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Wind Load Calculation :
+
+= (1 + 0.000 * 0.000 * 0.000 )?
+
+= 1.0000
+Velocity Pressure evaluated at height z, Imperial Units [qz]:
+
+= 0.00256 * Kz * Kzt * Kd * I * Vr(mph)?
+
+= 0.00256 * 1.065 * 1.000 * 0.950 * 1.150 * 90.002?
+
+= 24.1 psf
+Force on the first element [F]:
+
+= qz * G * Cf * WindArea
+
+= 24.118 * 0.850 * 0.970 * 5.624
+
+= 111.9 1b.
+
+Element Hgt (z) KL K2 K3 Kz Kzt qz
+
+ft. psf
+
+Node 10 to 20 44.0 0.000 0.000 0.000 1.065 1.000 24.118
+Node 20 to 30 44.0 0.000 0.000 0.000 1.065 1.000 24.118
+Node 30 to 40 44.0 0.000 0.000 0.000 1.065 1.000 24.118
+Node 40 to 50 44.0 0.000 0.000 0.000 1.065 1.000 24.118
+Wind Loads on Masses/Equipment/Piping
+
+ID Wind Area Elevation Pressure Force
+
+in? ft. psf lb.
+FIXED WEIGHT 49376.43 35.56 24.12 8269.75
+SLIDING WEIGH 49084.41 65.09 24.12 8220.84
+128
+
+[page 137]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Wind Load Calculation :
+Wind Load Calculation
+| | Wind | Wind | Wind | Wind | Element |
+From| To | Height | Diameter | Area | Pressure | Wind Load |
+| | ft. | ft. | in? | psf | lb. |
+10| 20| 43.9665 | 10.0827 | 809.790 | 24.1177 | 111.871 |
+20| 30] 43.9665 | 8.65748 | 4499.16 | 24.1177 | 621.553 |
+30| 40] 43.9665 | 8.60236 | 46330.8 | 24.1177 | 22891.1 |
+40| 50| 43.9665 | 8.58661 | 1667.78 | 24.1177 | 230.401 |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+129
+
+[page 138]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Earthquake Load Calculation :
+Earthquake Load Calculation
+Input Values:
+Seismic Design Code ASCE 7-2005
+Seismic Load Reduction Scale Factor 1.0
+Importance Factor 1.250
+Table Value Fa 1.600
+Table Value Fv 2.400
+Short Period Acceleration value Ss 0.230
+Long Period Acceleration Value Sl 0.088
+Moment Reduction Factor Tau 1.000
+Force Modification Factor R 3.000
+Site Class D
+Component Elevation Ratio z/h 0.000
+Amplification Factor Ap 0.000
+Force Factor 0.000
+Consider Vertical Acceleration No
+Minimum Acceleration Multiplier 0.000
+User Value of Sds (used if > 0 ) 0.245
+Seismic Analysis Results:
+Sms = Fa * Ss = 1.600 * 0.230 = 0.368
+Sml = Fv * S1 = 2.400 * 0.088 = 0.211
+Sds = 2/3 * Sms = 2/3 * 0.368 = 0.245
+Sds = Max( 0.8*Sds, SdsUser )
+= Max( 0.196 , 0.245 )
+= 0.245
+Sd1 = 2/3 * Sm1 = 2/3 * 0.211 = 0.141
+130
+
+[page 139]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Earthquake Load Calculation :
+Sdl = Max( 0.8*Sd1, SdlUser )
+= Max( 0.113 , 0.142 )
+= 0.142
+Check Approximate Fundamental Period from 12.8-7 [Ta]:
+= Ct * hn* where Ct = 0.020, x = 0.75 and hn = Structural Height (ft.)
+= 0.020 * ( 14.8015° 5)
+= 0.151 seconds
+The Coefficient Cu from Table 12.8-1 is : 1.700
+Fundamental Period (1/Frequency) [T]:
+= ( 1/Natural Frequency ) = ( 1/33.000 )
+= 0.030
+Check the Value of T which is the smaller of Cu*Ta and T:
+= Minimum Value of (1.700 * 0.151 , 0.030 ) per 12.8.2
+= 0.030
+As the time period is < 0.06 second, use section 15.4.2.
+Compute the Base Shear per equation 15.4-5, [V]:
+= 0.3 * Sds *W*T
+= 0.3 * 0.245 * 764638 * 1.25
+= 70251.125 1b
+Earthquake Load Calculation
+| | Earthquake | Earthquake | Element |
+From| To | Height | Weight | Ope Load |
+| | ft. | lb. | lb |
+137
+
+[page 140]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Earthquake Load Calculation :
+10| 20| 3.64337 | 127440. | 12005.8 |
+20| 30] 3.53510 | 127440. | 11649.1 |
+30|Sadl| 3.53510 | 127440. | 11649.1 |
+Sadl| 40| 3.53510 | 127440. | 11649.1 |
+30| 40] 3.53510 | 127440. | 11649.1 |
+40| 50] 3.53510 | 127440. | 11649.1 |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+132
+
+[page 141]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, Upper supports and bolts
+Wind Load Calculation :
+Input Values:
+Wind Design Code ASCE-7 98/02/05/IBC-03/STS-1
+Wind Load Reduction Scale Factor 1.0
+Basic Wind Speed (v] 90.002 mile/hr
+Surface Roughness Category C: Open Terrain
+Importance Factor 1.15
+Type of Surface Very Rough (D~/D = 0.08)
+Base Elevation 32.808 ft.
+Percent Wind for Hydrotest 33.0
+Using User defined Wind Press. Vs Elev. N
+Height of Hill or Escarpment H or Hh 0.0000 ft.
+Distance Upwind of Crest Lh 0.0000 £t.
+Distance from Crest to the Vessel x 0.0000 ft.
+Type of Terrain ( Hill, Escarpment ) Flat
+Damping Factor (Beta) for Wind (Ope) 0.0100
+Damping Factor (Beta) for Wind (Empty) 0.0000
+Damping Factor (Beta) for Wind (Filled) 0.0000
+Wind Analysis Results
+Static Gust-Effect Factor, Operating Case [G]:
+= min(0.85, 0.925((1 + 1.7 * gQ * Izbar * Q )/( 1 + 1.7 * gV * Izbar)))
+= min(0.85,0.925((1+1.7*3.400*0.218*0.938) /(1+1.7*3.400*0.218)))
+= min(0.85, 0.893 )
+= 0.850
+Natural Frequency of Vessel (Operating) 33.000 Hz
+Natural Frequency of Vessel (Empty) 33.000 Hz
+Natural Frequency of Vessel (Test) 33.000 Hz
+133
+
+[page 142]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, Upper supports and bolts
+Wind Load Calculation :
+
+User Entered Importance Factor is 1.150
+Force Coefficient [cf] 0.970
+Structure Height to Diameter ratio 6.112
+This is classified as a rigid structure. Static analysis performed.
+Sample Calculation for the First Element
+Value of [Alpha] and [Zg]:
+
+Exposure Category: C from Table Cé-2
+
+Alpha = 9.500 : Zg = 900.000 ft.
+Effective Height [z]:
+
+= Centroid Height + Vessel Base Elevation
+
+= 5.509 + 32.808 = 38.317 ft.
+Velocity Pressure coefficient evaluated at height z [Kz]:
+
+Because z (38.317 ft.) > 15 ft.
+
+= 2.01 * (2 / Zg ) ?/ MPhe
+
+= 2.01 * ( 38.317/900.000 )2/*-5°°
+
+= 1.034
+Type of Hill: No Hill
+Wind Directionality Factor [Kd]:
+
+= 0.95 per [6-6 ASCE-7 98] [6-4 ASCE-7 02/05]
+As there is No Hill Present: [Kzt]:
+
+Kl = 0, K2 = 0, K3 = 0
+Topographical Factor [Kzt]:
+
+= (1+ Kl * K2 * K3 )?
+
+134
+
+[page 143]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, Upper supports and bolts
+Wind Load Calculation :
+
+= (1 + 0.000 * 0.000 * 0.000 )?
+
+= 1.0000
+Velocity Pressure evaluated at height z, Imperial Units [qz]:
+
+= 0.00256 * Kz * Kzt * Kd * I * Vr(mph)?
+
+= 0.00256 * 1.034 * 1.000 * 0.950 * 1.150 * 90.002?
+
+= 23.4 psf
+Force on the first element [F]:
+
+= qz * G * Cf * WindArea
+
+= 23.429 * 0.850 * 0.970 * 5.624
+
+= 108.7 1b.
+
+Element Hgt (z) KL K2 K3 Kz Kzt qz
+
+ft. psf
+
+Node 10 to 20 38.3 0.000 0.000 0.000 1.034 1.000 23.429
+Node 20 to 30 38.3 0.000 0.000 0.000 1.034 1.000 23.429
+Node 30 to 40 38.3 0.000 0.000 0.000 1.034 1.000 23.429
+Node 40 to 50 38.3 0.000 0.000 0.000 1.034 1.000 23.429
+Wind Loads on Masses/Equipment/Piping
+
+ID Wind Area Elevation Pressure Force
+
+in? ft. psf lb.
+FIXED WEIGHT 14657.40 35.56 23.43 2384.81
+SLIDING WEIGH 14657.37 65.09 23.43 2384.81
+135
+
+[page 144]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, Upper supports and bolts
+Wind Load Calculation :
+Wind Load Calculation
+| | Wind | Wind | Wind | Wind | Element |
+From| To | Height | Diameter | Area | Pressure | Wind Load |
+| | ft. | ft. | in? | psf | lb. |
+10| 20| 38.3169 | 10.0827 | 809.790 | 23.4293 | 108.678 |
+20| 30] 38.3169 | 8.65748 | 4499.16 | 23.4293 | 603.813 |
+30| 40] 38.3169 | 8.60236 | 46330.8 | 23.4293 | 10987.5 |
+40| 50| 38.3169 | 8.58661 | 1667.78 | 23.4293 | 223.825 |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+136
+
+[page 145]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, Upper supports and bolts
+Earthquake Load Calculation :
+Earthquake Load Calculation
+Input Values:
+Seismic Design Code ASCE 7-2005
+Seismic Load Reduction Scale Factor 1.0
+Importance Factor 1.250
+Table Value Fa 1.600
+Table Value Fv 2.400
+Short Period Acceleration value Ss 0.230
+Long Period Acceleration Value Sl 0.088
+Moment Reduction Factor Tau 1.000
+Force Modification Factor R 3.000
+Site Class D
+Component Elevation Ratio z/h 0.000
+Amplification Factor Ap 0.000
+Force Factor 0.000
+Consider Vertical Acceleration No
+Minimum Acceleration Multiplier 0.000
+User Value of Sds (used if > 0 ) 0.245
+Seismic Analysis Results:
+Sms = Fa * Ss = 1.600 * 0.230 = 0.368
+Sml = Fv * S1 = 2.400 * 0.088 = 0.211
+Sds = 2/3 * Sms = 2/3 * 0.368 = 0.245
+Sds = Max( 0.8*Sds, SdsUser )
+= Max( 0.196 , 0.245 )
+= 0.245
+Sd1 = 2/3 * Sm1 = 2/3 * 0.211 = 0.141
+137
+
+[page 146]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, Upper supports and bolts
+Earthquake Load Calculation :
+Sdl = Max( 0.8*Sd1, SdlUser )
+= Max( 0.113 , 0.142 )
+= 0.142
+Check Approximate Fundamental Period from 12.8-7 [Ta]:
+= Ct * hn* where Ct = 0.020, x = 0.75 and hn = Structural Height (ft.)
+= 0.020 * ( 9,1519°75)
+= 0.105 seconds
+The Coefficient Cu from Table 12.8-1 is : 1.700
+Fundamental Period (1/Frequency) [T]:
+= ( 1/Natural Frequency ) = ( 1/33.000 )
+= 0.030
+Check the Value of T which is the smaller of Cu*Ta and T:
+= Minimum Value of (1.700 * 0.105 , 0.030 ) per 12.8.2
+= 0.030
+As the time period is < 0.06 second, use section 15.4.2.
+Compute the Base Shear per equation 15.4-5, [V]:
+= 0.3 * Sds *W*T
+= 0.3 * 0.245 * 382320 * 1.25
+= 35125.629 lb
+Earthquake Load Calculation
+| | Earthquake | Earthquake | Element |
+From| To | Height | Weight | Ope Load |
+| | ft. | lb. | lb |
+138
+
+[page 147]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, Upper supports and bolts
+Earthquake Load Calculation :
+10| 20| 3.64337 | 63720.0 | 6002.93 |
+20| 30] 3.53510 | 63720.0 | 5824.54 |
+30|Sadl| 3.53510 | 63720.0 | 5824.54 |
+Sadl| 40| 3.53510 | 63720.0 | 5824.54 |
+30| 40] 3.53510 | 63720.0 | 5824.54 |
+40| 50] 3.53510 | 63720.0 | 5824.54 |
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+139
+
+[page 148]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+ASME Horizontal Vessel Analysis: Stresses for the Left Saddle
+(per ASME Sec. VIII Div. 2 based on the Zick method.)
+Horizontal Vessel Stress Calculations : Operating Case
+Input and Calculated Values:
+Vessel Mean Radius Rm 42.78 in.
+Stiffened Vessel Length per 4.15.6 L 41.73 ft.
+Distance from Saddle to Vessel tangent a 76.38 in.
+Saddle Width b 27.56 in
+Wear Plate Width bil 34.65 in.
+Wear Plate Thickness tr 0.5906 in.
+Wear Plate Allowable Stress Sr 37195.20 psi
+Shell Allowable Stress used in Calculation 37195.20 psi
+Head Allowable Stress used in Calculation 37195.20 psi
+Circumferential Efficiency in Plane of Saddle 1.00
+Circumferential Efficiency at Mid-span 1.00
+Saddle Force Q, Operating Case 588561.62 lb.
+Horizontal Vessel Analysis Results: Actual Allowable
+Long. Stress at Top of Saddles 16861.96 37195.20 psi
+Long. Stress at Bottom of Saddles 12542.52 37195.20 psi
+Tangential Shear in Shell 6537.46 29756.16 psi
+circ. Compressive Stress in Shell 981.10 37195.20 psi
+140
+
+[page 149]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Stiffener Circ. Stress at Shell 7565.95 46494.00 psi
+Stiffener Circ. Stress at Tip 7735.28 18486.00 psi
+Intermediate Results: Saddle Reaction Q due to Wind or Seismic
+Saddle Reaction Force due to Wind Ft [Fwt]:
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B/E
+= 3.00 * ( 23854.9/2 + 0 ) * 133.8976/84.8261
+= 56482.4 lb.
+Saddle Reaction Force due to Wind FI or Friction [Fwl]:
+= max( Fl, Friction Load, Sum of X Forces) * B / Ls
+= max( 1168.10 , 100137.99 , 0 ) * 133.8976/354.3307
+= 37841.0 1b.
+Saddle Reaction Force due to Earthquake FI or Friction [Fs]:
+= max( Fl, Friction Force, Sum of X Forces ) * B / Ls
+= max( 70251.12 , 100137.99 , 0 ) * 133.8976/354.3307
+= 37841.0 1b
+Saddle Reaction Force due to Earthquake Ft [Fst]:
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B/E
+= 3.00 * ( 70251/2 + 0 ) * 133.8976/84.8261
+= 166336.6 lb.
+Load Combination Results for Q + Wind or Seismic [Q]:
+= Saddle Load + Max( Fwl, Fwt, Fsl, Fst )
+= 422225 + Max( 37841 , 56482 , 37841 , 166337 )
+= 588561.6 lb.
+Summary of Loads at the base of this Saddle:
+Vertical Load (including saddle weight) 595487.19 1b
+147
+
+[page 150]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+Transverse Shear Load Saddle 35125.56 1b.
+Longitudinal Shear Load Saddle 100137.99 1b.
+Formulas and Substitutions for Horizontal Vessel Analysis:
+Note: Wear Plate is Welded to the Shell, k = 0.1
+The Computed K values from Table 4.15.1:
+
+Kl = 0.1928 K2 = 0.6753 K3 = 0.3573 K4 = 0.2530
+KS = 0.6451 Ké = 0.0238 K7 = 0.0238 K8 = 0.2773
+K9 = 0.1838 K10 = 0.0242 K1* = 0.3280 Kép = 0.0174
+K7p = 0.0174
+The suffix ‘p' denotes the values for a wear plate if it exists.
+Note: Dimension a is greater than or equal to Rm /2
+Moment per Equation 4.15.3 [M1]:
+
+= -Q*a [1 - (1- a/L + (R?-h2?)/(2a*L)) / (1+ (4h2) /3L)]
+
+= ~588562*6.36[1-(1-6.36/41.73+(3.5657-0.0007) /
+
+(2*6 .36*41.73)) / (1+ (4*0.00) /(3*41.73))]
+
+= -481721.4 ft.1b.
+Longitudinal Stress at Top of Shell at Support (4.15.8) [Sigma3]:
+
+= P * Rm/(2t) - M1/(pi * Rm? * t)
+
+= 320.000 * 42.779/(2 * 0.466 ) - -5780657.0/(pi * 42.87 * 0.466 )
+
+= 16861.96 psi
+Longitudinal Stress at bottom of Shell at Support (4.15.9) [Sigma4]:
+
+= P * Rm/(2t) + M1/(pi*Rm’t)
+
+= 320.000 * 42.779/(2*0.466 ) + -5780657.0/ (pi*42.87*0.466 )
+
+= 12542.52 psi
+
+142
+
+[page 151]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Maximum Shear Force in the Saddle (4.15.5) [T]:
+= Q(L-2a) / (L+ (4*h2/3))
+= 588562 ( 41.73 - 2 * 6.36 )/(41.73 + ( 4 * 0.00/3))
+= 409031.8 1b.
+Shear Stress in the shell with a single ring (4.15.13) [tau1]:
+=T/ (pi * Rm* t )
+= 409031.84/( pi * 42.7790 * 0.4656 )
+= 6537.46 psi
+Decay Length (4.15.22) [x1,x2]:
+= 0.78 * sqrt( Rm * t )
+= 0.78 * sqrt( 42.779 * 0.466 )
+= 3.481 in.
+Circ. Stress in shell wiring in Plane of Saddle (4.15.32) [sigma6*]:
+= -K5 * Q* k/A
+= -0.645 * 588562 * 0.1/38.70
+= -981.10 psi
+Note: Single Ring in Plane of Saddle Outside the Shell.
+Circ. + Bending Stress in shell w/ring in Plane of Saddle (4.15.35) [sigma8*]
+= -K8 * Q/A + Ke * Q * Rm * cl/T
+= -0.2773*588562/38.70+0.0238*588562*42.78*7.64/388.10
+= 7565.95 psi
+Circ. + Bending Stress in ring wiring in Plane of Saddle (4.15.36) [sigma9*]:
+= -K8 * Q/A - Ké * Q * Rm * c2/T
+= -0.2773*588562/38.70-0.0238*588562*42.78*2.28/388.10
+= -7735.28 psi
+143
+
+[page 152]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Free Un-Restrained Thermal Expansion between the Saddles [Exp]:
+
+= Alpha * Ls * ( Design Temperature - Ambient Temperature )
+
+= 0.800H-05 * 354.331 * ( 750.2 - 70.0 )
+
+= 1.928 in.
+Results for Vessel Ribs, Web and Base:
+
+Baseplate Length Bplen 104.9213 in.
+Baseplate Thickness Bpthk 2.7559 in.
+Baseplate Width Bpwid 27.5591 in.
+Number of Ribs ( inc. outside ribs ) Nribs 9
+
+Rib Thickness Ribtk 0.9843 in.
+Web Thickness Webtk 0.9843 in.
+Web Location Webloc Center
+Moment of Inertia of Saddle - Lateral Direction
+
+Y A AY Io
+
+Shell 0.2328 19.3616 4.5069 1.3988
+Wearplate 0.7608 20.4600 15.5665 12.4381
+
+Web 10.0064 17.6187 176.2997 2234.5894
+BasePlate 20.3346 75.9502 1544.4196 31453.2949
+
+Totals 31.3346 133.3905 1740.7927 33701.7227
+
+Value Cl = Sumof (Ay) /Sumof (A) = 13.0504 in.
+Value I = Sumof(Io) - C1*Sumof (Ay) = 10983.7617 in**4
+Value As = Sumof(A) - Ashell = 114.0289 in?
+
+Kl = (1+Cos (beta) -.5*Sin(beta)? ) /(pi-beta+Sin(beta) *Cos(beta)) = 0.2884
+Fh = Kl * Q = 0.2884 * 588562 = 0.2E+06 lb.
+
+144
+
+[page 153]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+Tension Stress, St = ( Fh/As ) = 1488.7690 psi
+Allowed Stress, Sa = 0.6 * Yield Str = 22800.0000 psi
+
+d = B8 - R*Sin(theta) / theta = 34.9635 in.
+Bending Moment, M = Fh * d = 494624.8438 ft.1b.
+Bending Stress, Sb = (M* C1 /I ) = 7052.2603 psi
+Allowed Stress, Sa = 2/3 * Yield Str = 25333.3340 psi
+Minimum Thickness of Baseplate per Moss :
+
+= (3 * ( Q+ Saddle_Wt ) * BasePlateWidth / ( 4 * BasePlateLength *
+
+Allstress ))%
+
+= (3 * (588562 + 6926 ) * 27.56/( 4 * 104.921 * 25333.334 ))%
+
+= 2.152 in
+Calculation of Axial Load, Intermediate Values and Compressive Stress
+Effective Baseplate Length [e]:
+
+= ( Bplen - Clearance ) / ( Nribs - 1)
+
+= ( 104.9213 - 1.0 )/( 9 - 1) = 12.9902 in
+Baseplate Pressure Area [Ap]:
+
+=e * Bpwid / 2
+
+= 12.9902 * 27.5591/2 = 178.9982 in?
+Axial Load [P]:
+
+= Ap * Bp
+
+= 179.0 * 203.55 = 36434.5 lb.
+Area of the Rib and Web [Ar]:
+
+= ( Bpwid - Clearance - Webtk ) * Ribtk + e/2 * Webtk
+
+= ( 27.559 - 1.0 - 0.984 ) * 0.984 + 12.9902/2 * 0.984
+
+145
+
+[page 154]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+= 31.565 in?
+Compressive Stress [Sc]:
+
+= P/Ar
+
+= 36434.5/31.5648 = 1154.2748 psi
+Check of Outside Ribs:
+Inertia of Saddle, Outer Ribs - Longitudinal Direction
+
+Y A AY Ay? Io
+
+Rib 13.7795 25.6642 353.6402 0.0000 1625.0360
+Web 13.7795 6.3928 88.0897 0.0000 1.0322
+Values 13.7795 32.0570 441.7299 0.0000 1626.0682
+Bending Moment [Rm]:
+
+= Fl /( 2 * Bplen) *e* rl / 2
+
+= 100138.0/( 2 * 104.92 ) * 12.990 * 58.64/2
+
+= 15147.371 ft.1b.
+
+KL/R < Cc ( 8.1707 < 122.7359 ) per AISC E2-1
+
+Sca = (1-(Klxr)?/(2*Cc?)) *Fy/ (5/3+3* (K1r) / (8*Cc) - (K1r) / (8*Cc?)
+
+Sca = ( 1-( 8.17 )?/(2 * 122.747 )) * 38000/
+
+( 5/3+3*(8.17 )/(8* 122.74 )-( 8.173) /(8*122.749)
+
+Sca = 22414.24 psi
+AISC Unity Check on Outside Ribs ( must be <= 1.0 )
+
+Check = Sc/Sca + (Rm/Z)/Sba
+
+Check = 1154.27/22414.24 + (181768.45/118.006 )/25333.33
+
+Check = 0.11
+Check of Inside Ribs
+Inertia of Saddle, Inner Ribs - Axial Direction
+
+146
+
+[page 155]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+Y A AY Ay? Io
+Rib 13.2795 25.1721 334.2729 0.0000 1536.6073
+Web 13.2795 12.7856 169.7866 0.0000 1.0322
+Values 13.2795 37.9576 504.0595 0.0000 1537.6395
+KL/R < Cc ( 7.0234 < 122.7359 ) per AISC E2-1
+Sea = (1-(Klr)?/(2*Cc?) ) *Fy/ (5/3+3* (Klr) /(8*Cc) - (K1lr) / (8*Cc3)
+Seca = ( 1-( 7.02 )?/(2 * 122.747 )) * 38000/
+
+( 5/34+3*(7.02 )/(8* 122.74 )-( 7.023) /(8*122.74%)
+Sca = 22473.63 psi
+AISC Unity Check on Inside Ribs ( must be <= 1.0 )
+Check = Sc/Sca + (Rm/Z)/Sba
+Check = 1919.75/22473.63 + ( 277106.91/115.790 )/25333.33
+Check = 0.18
+Input Data for Base Plate Bolting Calculations:
+Total Number of Bolts per BasePlate Nbolts 12
+Total Number of Bolts in Tension/Baseplate Nbt 6
+Bolt Material Specification SA-193 B7
+Bolt Allowable Stress Stba 25000.00 psi
+Bolt Corrosion Allowance Boa 0.0590 in
+Distance from Bolts to Edge Edgedis 7.6770 in.
+Nominal Bolt Diameter Bnd 1.8898 in.
+Thread Series Series TEMA Metric
+BasePlate Allowable Stress s 25299.90 psi
+Area Available in a Single Bolt BltArea 1.7908 in?
+Saddle Load 90 (Weight) Qo 429150.6 Ib.
+Saddle Load QL (Wind/Seismic contribution) QL 37841.0 1b.
+Maximum Transverse Force Ft 35125.6 lb.
+147
+
+[page 156]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+Maximum Longitudinal Force Fl 100646.2 lb.
+Saddle Bolted to Steel Foundation No
+Bolt Area Calculation per Dennis R. Moss
+Bolt Area Requirement Due to Longitudinal Load [Bltarear!]:
+
+= 0.0 (QO > QL --> No Uplift in Longitudinal direction)
+Bolt Area due to Shear Load [Bltarears]:
+
+= Fl / (Stba * Nbolts)
+
+= 100646.24/(25000.00 * 12.00 )
+
+= 0.3355 in*
+Bolt Area due to Transverse Load
+Moment on Baseplate Due to Transverse Load [Rmom]:
+
+= B * Ft + Sum of X Moments
+
+= 11.16 * 35125.56 + 0.00
+
+= 391935.84 ft.1b
+Eccentricity (e):
+
+= Rmom / QO
+
+= 4703230/429150.56
+
+= 10.96 in. < Bplen/é --> No Uplift in Transverse direction
+Bolt Area due to Transverse Load [Blitareart]:
+
+= 0 (No Uplift)
+Required Area of a Single Bolt [Bltarear]:
+
+= max[Bltarearl, Bltarears, Bltareart]
+
+= max[0.0000 , 0.3355 , 0.0000 }
+
+= 0.3355 in?
+
+148
+
+[page 157]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+ASME Horizontal Vessel Analysis: Stresses for the Right Saddle
+(per ASME Sec. VIII Div. 2 based on the Zick method.)
+Input and Calculated Values:
+Vessel Mean Radius Rm 42.78 in.
+Stiffened Vessel Length per 4.15.6 L 41.73 ft.
+Distance from Saddle to Vessel tangent a 76.38 in.
+Saddle Width b 19.69 in
+Wear Plate Width bl 26.77 in.
+Wear Plate Thickness tr 0.5906 in.
+Wear Plate Allowable Stress Sr 37195.20 psi
+Inside Depth of Head h2 1.78 ft
+Shell Allowable Stress used in Calculation 37195.20 psi
+Head Allowable Stress used in Calculation 37195.20 psi
+Circumferential Efficiency in Plane of Saddle 1.00
+Circumferential Efficiency at Mid-Span 1.00
+Saddle Force Q, Operating Case 496498.75 1b.
+Horizontal Vessel Analysis Results Actual Allowable
+Long. Stress at Top of Saddles 17267.54 37195.20 psi
+Long. Stress at Bottom of Saddles 12136.94 37195.20 psi
+Tangential Shear in Shell 5218.43 29756.16 psi
+149
+
+[page 158]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+circ. Compressive Stress in Shell 1034.90 37195.20 psi
+Stiffener Circ. Stress at Shell 5737.33 46494.00 psi
+Stiffener Circ. Stress at Tip 8313.21 18486.00 psi
+Intermediate Results: Saddle Reaction Q due to Wind or Seismic
+Saddle Reaction Force due to Wind Ft [Fwt]:
+
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B / E
+
+= 3.00 * ( 23854.9/2 + 0 ) * 133.8976/84.8261
+
+= 56482.4 lb.
+Saddle Reaction Force due to Wind Fl or Friction [Fw]:
+
+= max( Fl, Friction Load, Sum of X Forces) * B / Ls
+
+= max( 1168.10 , 100646.23 , 0 ) * 133.8976/354.3307
+
+= 38033.1 1b.
+Saddle Reaction Force due to Earthquake FI or Friction [Fs]:
+
+= max( Fl, Friction Force, Sum of X Forces ) * B / Ls
+
+= max( 70251.12 , 100646.23 , 0 ) * 133.8976/354.3307
+
+= 38033.1 1b.
+Saddle Reaction Force due to Earthquake Ft [Fst]:
+
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B/E
+
+= 3.00 * ( 70251/2 + 0 ) * 133.8976/84.8261
+
+= 166336.6 1b.
+Load Combination Results for Q + Wind or Seismic [Q]:
+
+= Saddle Load + Max( Fwl, Fwt, Fsl, Fst )
+
+= 330162 + Max( 38033 , 56482 , 38033 , 166337 )
+
+= 496498.8 1b.
+
+150
+
+[page 159]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Summary of Loads at the base of this Saddle:
+
+Vertical Load (including saddle weight) 501824.06 lb.
+Transverse Shear Load Saddle 35125.56 lb.
+Longitudinal Shear Load Saddle 100646.24 Ib.
+Formulas and Substitutions for Horizontal Vessel Analysis:
+Note: Wear Plate is Welded to the Shell, k = 0.1
+The Computed K values from Table 4.15.1:
+
+Kl = 0.1928 K2 = 0.6753 K3 = 0.3573 K4 = 0.2530
+KS = 0.6451 K6 = 0.0238 K7 = 0.0238 K8 = 0.2773
+Ko = 0.1838 K10 = 0.0242 K1* = 0.3280 Kép = 0.0174
+K7p = 0.0174
+The suffix 'p' denotes the values for a wear plate if it exists.
+Note: Dimension a is greater than or equal to Rm / 2.
+Moment per Equation 4.15.3 [M1]:
+
+= -Q*a [1 - (1- a/L + (R?-h2?) /(2a*L)) / (1+ (4h2) /3L)]
+
+= -496499*6.36[1-(1-6.36/41.73+(3.5657-1.7787) /
+
+(2*6 .36*41.73)) / (1+ (4*1.78) / (3*41.73))]
+
+= -572184.7 ft.1b.
+Longitudinal Stress at Top of Shell at Support (4.15.8) [Sigma3]:
+
+= P * Rm/(2t) - M1/(pi * Rm? * t)
+
+= 320.000 * 42.779/(2 * 0.466 ) - -6866216.0/(pi * 42.87 * 0.466 )
+
+= 17267.54 psi
+Longitudinal Stress at bottom of Shell at Support (4.15.9) [Sigma4]:
+
+= P * Rm/(2t) + M1/(pi*Rm’t)
+
+157
+
+[page 160]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+= 320.000 * 42.779/(2*0.466 ) + -6866216.0/(pi*42.87*0.466 )
+= 12136.94 psi
+Maximum Shear Force in the Saddle (4.15.5) [T]:
+= Q(L-2a) / (L+(4*h2/3))
+= 496499 ( 41.73 - 2 * 6.36 )/(41.73 + ( 4 * 1.78/3))
+= 326503.8 1b
+Shear Stress in the shell with a single ring (4.15.13) [tau1]:
+=T/ (pi* Rm*t)
+= 326503.81/( pi * 42.7790 * 0.4656 )
+= 5218.43 psi
+Decay Length (4.15.22) [x1,x2]:
+= 0.78 * sqrt( Rm * t )
+= 0.78 * sqrt( 42.779 * 0.466 )
+= 3.481 in.
+Circ. Stress in shell wiring in Plane of Saddle (4.15.32) [sigma6*]:
+= -K5 *Q* k/A
+= -0.645 * 496499 * 0.1/30.95
+= -1034.90 psi
+Note: Single Ring in Plane of Saddle Outside the Shell.
+Circ. + Bending Stress in shell w/ring in Plane of Saddle (4.15.35) [sigma8*]
+= -K8 * Q/A + Ké * Q * Rm * cl1/I
+= -0.2773*496499/30.95+0.0238*496499*42.78*7.19/356.53
+= 5737.33 psi
+Circ. + Bending Stress in ring w/ring in Plane of Saddle (4.15.36) [sigma9*]:
+= -K8 * Q/A - K6 * Q * Rm * c2/T
+152
+
+[page 161]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+= -0.2773*496499/30.95-0.0238*496499*42.78*2.73/356.53
+= -8313.21 psi
+
+Results for Vessel Ribs, Web and Base
+Baseplate Length Bplen 104.9213 in.
+Baseplate Thickness Bpthk 2.7559 in.
+Baseplate Width Bpwid 19.6850 in.
+Number of Ribs ( inc. outside ribs ) Nribs 9
+Rib Thickness Ribtk 0.9843 in.
+Web Thickness Webtk 0.9843 in
+Web Location Webloc Center
+Moment of Inertia of Saddle - Lateral Direction
+
+y EN AY Io
+Shell 0.2328 15.6958 3.6536 1.1340
+Wearplate 0.7608 15.8100 12.0287 9.6112
+Web 10.0064 17.6187 176.2997 2234.5894
+BasePlate 20.3346 54.2501 1103.1569 22466.6406
+Totals 31.3346 103.3747 1295.1388 24711.9746
+Value Cl = Sumof (Ay) /Sumof (A) = 12.5286 in.
+Value I = Sumof(Io) - C1*Sumof (Ay) = 8485.7129 in**4
+Value As = Sumof(A) - Ashell = 87.6788 in?
+Kl = (1+Cos (beta) -.5*Sin(beta)? )/(pi-beta+Sin(beta)*Cos(beta)) = 0.2884
+Fh = Kl * Q = 0.2884 * 496498.750 = 0.1E+06 lb.
+Tension Stress, St = ( Fh/As ) = 1633.3286 psi
+Allowed Stress, Sa = 0.6 * Yield Str = 22800.0000 psi
+
+153
+
+[page 162]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+d = B - R*Sin(theta) / theta = 34.9635 in.
+Bending Moment, M = Fh * d = 417255.5312 f£t.1b.
+Bending Stress, Sb = (M* C1 /TI ) = 7392.5996 psi
+Allowed Stress, Sa = 2/3 * Yield Str = 25333.3340 psi
+Minimum Thickness of Baseplate per Moss :
+
+= (3 * (Q+ Saddle Wt ) * BasePlateWidth / ( 4 * BasePlateLength *
+
+AllStress ))%
+
+= (3 * (496499 + 5325 ) * 19.69/( 4 * 104.921 * 25333.334 ))%
+
+= 1.670 in.
+Calculation of Axial Load, Intermediate Values and Compressive Stress
+Effective Baseplate Length [e]:
+
+= ( Bplen - Clearance ) / ( Nribs - 1)
+
+= ( 104.9213 - 1.0 )/( 9 - 1) = 12.9902 in.
+Baseplate Pressure Area [Ap]:
+
+=e * Bpwid / 2
+
+= 12.9902 * 19.6850/2 = 127.8559 in?
+Axial Load [P]:
+
+= Ap * Bp
+
+= 127.9 * 240.39 = 30735.4 1b.
+Area of the Rib and Web [Ar]:
+
+= ( Bpwid - Clearance - Webtk ) * Ribtk + e/2 * Webtk
+
+= (19.685 - 1.0 - 0.984 ) * 0.984 + 12.9902/2 * 0.984
+
+= 23.815 in?
+
+154
+
+[page 163]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Compressive Stress [Sc]:
+
+= P/Ar
+
+= 30735.4/23.8148 = 1290.6000 psi
+Check of Outside Ribs:
+Inertia of Saddle, Outer Ribs - Longitudinal Direction
+
+Y A AY Ay? Io
+
+Rib 9.8425 17.9142 176.3205 0.0000 579.1794
+Web 9.8425 6.3928 62.9212 0.0000 1.0322
+Values 9.8425 24.3070 239.2417 0.0000 580.2116
+Bending Moment [Rm]:
+
+= Fl /( 2 * Bplen) *e* rl / 2
+
+= 100646.2/( 2 * 104.92 ) * 12.990 * 58.64/2
+
+= 15224.250 ft.1b.
+
+KL/R < Cc ( 11.8812 < 122.7359 ) per AISC E2-1
+
+Sca = (1-(Klr)?/(2*Cc?)) *Fy/ (5/3+3* (K1r) / (8*Cc) - (K1r) / (8*Cc%)
+
+Sca = ( 1-( 11.88 )?/(2 * 122.747 )) * 38000/
+
+( 5/3+3* (11.88 )/(8* 122.74 )-( 11.88%) /(8*122.743)
+
+Sca = 22210.92 psi
+AISC Unity Check on Outside Ribs ( must be <= 1.0 )
+
+Check = Sc/Sca + (Rm/Z) /Sba
+
+Check = 1290.60/22210.92 + (182691.00/58.949 )/25333.33
+
+Check = 0.18
+Check of Inside Ribs
+Inertia of Saddle, Inner Ribs - Axial Direction
+
+Y A AY Ay? Io
+Rib 9.3425 17.4220 162.7657 0.0000 535.0657
+155
+
+[page 164]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Web 9.3425 12.7856 119.4496 0.0000 1.0322
+Values 9.3425 30.2076 282.2153 0.0000 536.0979
+KL/R < Ce ( 10.6112 < 122.7359 ) per AISC E2-1
+Sca = (1-(Klxr)?/(2*Cc?)) *Fy/ (5/3+3* (K1r) / (8*Cc) - (K1 x) / (8*Cc%)
+Sca = ( 1-( 10.61 )?/(2 * 122.747 )) * 38000/
+
+( 5/3+3* (10.61 )/(8* 122.74 )-( 10.61%) /(8*122.743)
+Sca = 22282.42 psi
+AISC Unity Check on Inside Ribs ( must be <= 1.0 )
+Check = Sc/Sca + (Rm/Z)/Sba
+Check = 2034.94/22282.42 + ( 278513.34/57.383 )/25333.33
+Check = 0.28
+Input Data for Base Plate Bolting Calculations:
+Total Number of Bolts per BasePlate Nbolts 8
+Total Number of Bolts in Tension/Baseplate Nbt 4
+Bolt Material Specification SA-193 B7
+Bolt Allowable Stress Stba 25000.00 psi
+Bolt Corrosion Allowance Bea 0.0590 in.
+Distance from Bolts to Edge Edgedis 7.6770 in
+Nominal Bolt Diameter Bnd 1.8898 in.
+Thread Series Series TEMA Metric
+BasePlate Allowable Stress s 25299.90 psi
+Area Available in a Single Bolt BltArea 1.7908 in?
+Saddle Load 90 (Weight) Qo 335487.4 Ib.
+Saddle Load QL (Wind/Seismic contribution) QL 38033.1 Ib.
+Maximum Transverse Force Ft 35125.6 1b
+Maximum Longitudinal Force Fl 100646.2 1b.
+Saddle Bolted to Steel Foundation No
+
+156
+
+[page 165]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Lower supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Bolt Area Calculation per Dennis R. Moss
+Bolt Area Requirement Due to Longitudinal Load [Bltarearl]:
+= 0.0 (QO > QL --> No Uplift in Longitudinal direction)
+Bolt Area due to Shear Load [Bltarears]:
+= Fl / (Stba * Nbolts)
+= 100646.24/(25000.00 * 8.00 )
+= 0.5032 in?
+Bolt Area due to Transverse Load
+Moment on Baseplate Due to Transverse Load [Rmom]:
+= B * Ft + Sum of X Moments
+= 11.16 * 35125.56 + 0.00
+= 391935.84 ft.1b.
+Eccentricity (e):
+= Rmom / QO
+= 4703230/335487.44
+= 14.02 in. < Bplen/6 --> No Uplift in Transverse direction
+Bolt Area due to Transverse Load [Bltareart]:
+= 0 (No Uplift)
+Required Area of a Single Bolt [Bltarear]:
+= max[Bltarearl, Bltarears, Bltareart]
+= max[0.0000 , 0.5032 , 0.0000 }
+= 0.5032 in®
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+157
+
+[page 166]
+PV Elite 2016 Licensee: LOINTEK
+
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+
+Horizontal Vessel Analysis (Ope.) :
+
+ASME Horizontal Vessel Analysis: Stresses for the Left Saddle
+
+(per ASME Sec. VIII Div. 2 based on the Zick method.)
+
+Horizontal Vessel Stress Calculations : Operating Case
+
+Input and Calculated Values:
+
+Vessel Mean Radius Rm 42.78 in.
+
+Stiffened Vessel Length per 4.15.6 L 41.73 ft.
+
+Distance from Saddle to Vessel tangent a 76.38 in.
+
+Saddle Width b 27.56 in
+
+Saddle Bearing Angle theta 120.00 degrees
+
+Wear Plate Width bl 34.65 in.
+
+Wear Plate Bearing Angle thetal 140.00 degrees
+
+Wear Plate Thickness tr 0.5906 in.
+
+Wear Plate Allowable Stress sr 37195.20 psi
+
+Shell Allowable Stress used in Calculation 37195.20 psi
+
+Head Allowable Stress used in Calculation 37195.20 psi
+
+Circumferential Efficiency in Plane of Saddle 1.00
+
+Circumferential Efficiency at Mid-Span 1.00
+
+Saddle Force Q, Operating Case 254818.47 1b.
+
+Horizontal Vessel Analysis Results Actual Allowable
+
+Long. Stress at Top of Midspan 9880.57 37195.20 psi
+
+Long. Stress at Bottom of Midspan 19523.91 37195.20 psi
+
+Long. Stress at Top of Saddles 23472.94 37195.20 psi
+
+Long. Stress at Bottom of Saddles 9840.98 37195.20 psi
+158
+
+[page 167]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+Tangential Shear in Shell 10409.77 29756.16 psi
+Circ. Stress at Horn of Saddle 19859.48 46494.00 psi
+circ. Compressive Stress in Shell 1205.43 37195.20 psi
+Intermediate Results: Saddle Reaction Q due to Wind or Seismic
+Saddle Reaction Force due to Wind Ft [Fwt]:
+
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B / E
+
+= 3.00 * ( 11923.8/2 + 0 ) * 66.1024/78.3465
+
+= 15090.5 1b.
+Saddle Reaction Force due to Wind Fl or Friction [Fw]:
+
+= max( Fl, Friction Load, Sum of X Forces) * B / Ls
+
+= max( 1134.76 , 50068.97 , 0 ) * 66.1024/354.3307
+
+= 9340.6 lb.
+Saddle Reaction Force due to Earthquake FI or Friction [Fs]:
+
+= max( Fl, Friction Force, Sum of X Forces ) * B / Ls
+
+= max( 35125.63 , 50068.97 , 0 ) * 66,.1024/354.3307
+
+= 9340.6 1b.
+Saddle Reaction Force due to Earthquake Ft [Fst]:
+
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B/E
+
+= 3.00 * ( 35126/2 + 0) * 66.1024/78.3465
+
+= 44454.2 1b.
+Load Combination Results for Q + Wind or Seismic [Q]:
+
+= Saddle Load + Max( Fwl, Fwt, Fsl, Fst )
+
+= 210364 + Max( 9341 , 15091 , 9341 , 44454 )
+
+= 254818.5 1b.
+
+159
+
+[page 168]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Summary of Loads at the base of this Saddle:
+
+Vertical Load (including saddle weight) 259029.39 1b.
+Transverse Shear Load Saddle 17562.81 Ib.
+Longitudinal Shear Load Saddle 50068.97 1b.
+Formulas and Substitutions for Horizontal Vessel Analysis:
+Note: Wear Plate is Welded to the Shell, k = 0.1
+The Computed K values from Table 4.15.1:
+
+Kl = 0.1066 K2 9 = 1.1707 K3 = 0.8799 K4 = 0.4011
+KS = 0.7603 K6 = 0.0529 K7 = 0.0529 KB = 0.3405
+K9 = 0.2711 K10 = 0.0581 K1* = 0.1923 Kép = 0.0379
+K7p = 0.0379
+The suffix 'p' denotes the values for a wear plate if it exists.
+Note: Dimension a is greater than or equal to Rm / 2.
+Moment per Equation 4.15.3 [M1]:
+
+= -Q*a [1 - (1- a/L + (R?-h2?) /(2a*L)) / (1+ (4h2) /3L)]
+
+= -254818*6.36[1-(1-6.36/41.73+(3.5657-0.0007) /
+
+(2*6 .36*41.73)) / (1+ (4*0.00) / (3*41.73))]
+
+= -208561.9 ft.1b.
+Moment per Equation 4.15.4 [M2]:
+
+= Q*L/4 (1+2 (R?-h2?) / (L?)) /(1+(4h2) /( 3L)) -4a/L
+
+= 254818*41.7/4 (1+2(3.565?-0.0007) / (41.737) ) / (1+(4*0.000) /
+
+(3*41.732)) -4*6.36/41.73
+
+= 1075462.9 ft.1b.
+
+Longitudinal Stress at Top of Shell (4.15.6) [Sigma‘]:
+160
+
+[page 169]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+= P * Rm/(2t) - M2/(pi*Rm’t)
+= 320.000 * 42.779/(2*0.466 ) - 12905554/(pi*42.87*0.466 )
+= 9880.57 psi
+Longitudinal Stress at Bottom of Shell (4.15.7) [Sigma2]:
+= P * Rm/(2t) + M2/(pi * Rm * t)
+= 320.000 * 42.779/(2 * 0.466 ) + 12905554/(pi * 42.87 * 0.466 )
+= 19523.91 psi
+Longitudinal Stress at Top of Shell at Support (4.15.10) [Sigma*3]:
+= P * Rm/(2t) - M1/(K1*pi*Rm’t)
+= 320.000*42.779/(2*0.466) --2502742.2/(0.1066*pi*42.87*0.466)
+= 23472.94 psi
+Longitudinal Stress at Bottom of Shell at Support (4.15.11) [Sigma*4]:
+= P * Rm/(2t) + M1/(K1* * pi * Rm * t)
+= 320.000*42.779/(2*0.466) +-2502742.2/(0.1923*pi*42.87*0.466)
+= 9840.98 psi
+Maximum Shear Force in the Saddle (4.15.5) [T]:
+= Q(L-2a) / (L+(4*h2/3) )
+= 254818 ( 41.73 - 2 * 6.36 )/(41.73 + ( 4 * 0.00/3))
+= 177090.8 1b.
+Shear Stress in the shell no rings, not stiffened (4.15.14) [tau2]:
+= K2* T/ ( Rm* t )
+= 1.1707 * 177090.83/( 42.7790 * 0.4656 )
+= 10409.77 psi
+Decay Length (4.15.22) [x1,x2]:
+= 0.78 * sqrt( Rm * t )
+= 0.78 * sqrt( 42.779 * 0.466 )
+167
+
+[page 170]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+= 3.481 in.
+Circumferential Stress in shell, no rings (4.15.23) [sigma6]:
+= -K5*Q*k/(t* (b+ X1 + X2) )
+= -0.7603 * 254818 * 0.1/( 0.466 * ( 27.56 + 3.48 + 3.48 ) )
+= -1205.43 psi
+Effective reinforcing plate width (4.15.1) [B1]:
+= min( b + 1.56 * sqrt( Rm* t ), 2a )
+= min( 27.56 + 1.56 * sqrt( 42.779 * 0.466 ), 2 * 76.378 )
+= 34.52 in.
+Wear Plate/Shell Stress ratio (4.15.29) [eta]:
+= min( Sr/s, 1 )
+= min( 37195.203/37195.203 , 1 )
+= 1.0000
+Circumferential Stress at wear plate (4.15.26) [sigma6,r]:
+= -K5 *Q*k / (Bl( t +eta* tr) )
+= -0.7603 * 254818 * 0.1/( 34.521 ( 0.466 + 1.000 * 0.591 ) )
+= -531.38 psi
+Circ. Comp. Stress at Horn of Saddle, L>=8Rm (4.15.27) [sigma7,r]:
+= -Q/(4(t+eta*tr)b1) - 3*K7*Q/(2(t+eta*tr)?)
+= -254818/(4(0.466 + 1.000 * 0.591 )34.521 ) -
+3 * 0.053 * 254818/(2(0.466 + 1.000 * 0.591 )?)
+= -19859.48 psi
+Free Un-Restrained Thermal Expansion between the Saddles [Exp]:
+= Alpha * Ls * ( Design Temperature - Ambient Temperature )
+= 0.800E-05 * 354.331 * ( 750.2 - 70.0 )
+= 1.928 in.
+162
+
+[page 171]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Results for Vessel Ribs, Web and Base:
+Baseplate Length Bplen 78.3465 in.
+Baseplate Thickness Bpthk 1.9685 in.
+Baseplate Width Bpwid 27.5591 in
+Number of Ribs ( inc. outside ribs ) Nribs 7
+Rib Thickness Ribtk 0.9843 in.
+Web Thickness Webtk 0.9843 in.
+Web Location Webloc Center
+Moment of Inertia of Saddle - Lateral Direction
+
+Y A AY Io
+Shell 0.2328 19.3616 4.5069 1.3988
+Wearplate 0.7608 20.4600 15.5665 12.4381
+Web 10.4001 18.3937 191.2962 2524.8191
+BasePlate 20.7283 54.2501 1124.5151 23326.8594
+Totals 32.1220 112.4654 1335.8848 25865.5156
+Value Cl = Sumof (Ay) /Sumof (A) = 11.8782 in.
+Value I = Sumof(Io) - C1*Sumof (Ay) = 9997.6348 in**4
+Value As = Sumof(A) - Ashell = 93.1038 in?
+Kl = (1+Cos (beta) -.5*Sin(beta)? )/(pi-beta+Sin (beta) *Cos(beta)) = 0.2035
+Fh = Kl * Q = 0.2035 * 254818.469 = 51861.0820 lb.
+Tension Stress, St = ( Fh/As ) = 557.0240 psi
+Allowed Stress, Sa = 0.6 * Yield Str = 22800.0000 psi
+d = 8B - R*Sin(theta) / theta = 29.0734 in.
+Bending Moment, M = Fh * d = 125648.0938 f£t.1b.
+
+163
+
+[page 172]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Bending Stress, Sb = (M* C1 /TI ) = 1791.3885 psi
+Allowed Stress, Sa = 2/3 * Yield Str = 25333.3340 psi
+Minimum Thickness of Baseplate per Moss :
+= (3 * ( Q+ Saddle Wt ) * BasePlateWidth / ( 4 * BasePlateLength *
+Allstress ))%
+= (3 * (254818 + 4211 ) * 27.56/( 4 * 78.346 * 25333.334 ))%
+= 1.642 in.
+Calculation of Axial Load, Intermediate Values and Compressive Stress
+Effective Baseplate Length [e]:
+= ( Bplen - Clearance ) / ( Nribs - 1)
+= ( 78.3465 - 1.0 )/( 7 - 1) = 12.8911 in.
+Baseplate Pressure Area [Ap]:
+=e * Bpwid / 2
+= 12.8911 * 27.5591/2 = 177.6329 in?
+Axial Load [P]:
+= Ap * Bp
+= 177.6 * 118.02 = 20963.8 lb.
+Area of the Rib and Web [Ar]:
+= ( Bpwid - Clearance - Webtk ) * Ribtk + e/2 * Webtk
+= ( 27.559 - 1.0 - 0.984 ) * 0.984 + 12.8911/2 * 0.984
+= 31.516 in?
+Compressive Stress [Sc]:
+= P/Ar
+= 20963.8/31.5161 = 665.1789 psi
+164
+
+[page 173]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Check of Outside Ribs:
+Inertia of Saddle, Outer Ribs - Longitudinal Direction
+Y A AY Ay? Io
+
+Rib 13.7795 25.6642 353.6402 0.0000 1625.0360
+Web 13.7795 6.3440 87.4178 0.0000 1.0243
+Values 13.7795 32.0082 441.0580 0.0000 1626.0603
+Bending Moment [Rm]:
+
+= Fl /( 2 * Bplen) *e* rl / 2
+
+= 50069.0/( 2 * 78.35 ) * 12.891 * 42.75/2
+
+= 7337.756 £t.1b.
+
+KL/R < Ce ( 5.9520 < 122.7359 ) per AISC E2-1
+
+Sea = (1-(Klr)?/(2*Cc*)) *Fy/ (5/3+3* (K1r) / (8*Cc) - (K1r?) / (8*Cc?)
+
+Sca = ( 1-( 5.95 )*/(2 * 122.747 )) * 38000/
+
+( 5/3+3*(5.95 )/(8* 122.74 )-( 5.95%) /(8*122.743)
+
+Sca = 22527.58 psi
+AISC Unity Check on Outside Ribs ( must be <= 1.0 )
+
+Check = Sc/Sca + (Rm/Z)/Sba
+
+Check = 665.18/22527.58 + (88053.08/118.006 )/25333.33
+
+Check = 0.06
+Check of Inside Ribs
+Inertia of Saddle, Inner Ribs - Axial Direction
+
+Yy A AY Ay? Io
+Rib 13.2795 25.1721 334.2729 0.0000 1536.6073
+Web 13.2795 12.6881 168.4915 0.0000 1.0243
+Values 13.2795 37.8601 502.7645 0.0000 1537.6316
+165
+
+[page 174]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+KL/R < Cc ( 4.5656 < 122.7359 ) per AISC E2-1
+Sca = (1-(Klxr)?/(2*Cc?)) *Fy/ (5/3+3* (K1r) / (8*Cc) - (K1r¥) / (8*Cc%)
+Sca = ( 1-( 4.57 )#/(2 * 122.747 )) * 38000/
+
+( 5/3+3* (4.57 )/(8* 122.74 )-( 4.57%) /(8*122.74%)
+Sca = 22595.20 psi
+AISC Unity Check on Inside Ribs ( must be <= 1.0 )
+Check = Sc/Sca + (Rm/Z) /Sba
+Check = 1107.44/22595.20 + ( 119849.84/115.790 )/25333.33
+Check = 0.09
+Input Data for Base Plate Bolting Calculations:
+Total Number of Bolts per BasePlate Nbolts 12
+Total Number of Bolts in Tension/Baseplate Nbt 6
+Bolt Material Specification SA-193 B7
+Bolt Allowable Stress Stba 25000.00 psi
+Bolt Corrosion Allowance Bea 0.0590 in.
+Distance from Bolts to Edge Edgedis 7.6770 in
+Nominal Bolt Diameter Bnd 1.8898 in.
+Thread Series Series TEMA Metric
+BasePlate Allowable Stress s 25299.90 psi
+Area Available in a Single Bolt BltArea 1.7908 in?
+Saddle Load QO (Weight) Qo 214575.2 Ib.
+Saddle Load QL (Wind/Seismic contribution) QL 9340.6 1b.
+Maximum Transverse Force Ft 17562.8 1b
+Maximum Longitudinal Force Fl 50323.4 Ib.
+Saddle Bolted to Steel Foundation No
+Bolt Area Calculation per Dennis R. Moss
+
+166
+
+[page 175]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Bolt Area Requirement Due to Longitudinal Load [Bltarearl]:
+
+= 0.0 (QO > QL --> No Uplift in Longitudinal direction)
+Bolt Area due to Shear Load [Bitarears]:
+
+= Fl / (Stba * Nbolts)
+
+= 50323.38/(25000.00 * 12.00 )
+
+= 0.1677 in?
+Bolt Area due to Transverse Load
+Moment on Baseplate Due to Transverse Load [Rmom]:
+
+= B * Ft + Sum of X Moments
+
+= 5.51 * 17562.81 + 0.00
+
+= 96745.28 ft.1b.
+Eccentricity (e):
+
+= Rmom / QO
+
+= 1160943/214575.17
+
+= 5.41 in. < Bplen/é --> No Uplift in Transverse direction
+Bolt Area due to Transverse Load [Bltareart]:
+
+= 0 (No Uplift)
+Required Area of a Single Bolt [Bltarear]:
+
+= max[Bltarearl, Bltarears, Bltareart]
+
+= max[0.0000 , 0.1677 , 0.0000 ]
+
+= 0.1677 in?
+ASME Horizontal Vessel Analysis: Stresses for the Right Saddle
+
+(per ASME Sec. VIII Div. 2 based on the Zick method.)
+
+167
+
+[page 176]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Input and Calculated Values:
+Vessel Mean Radius Rm 42.78 in.
+Stiffened Vessel Length per 4.15.6 L 41.73 ft.
+Distance from Saddle to Vessel tangent a 76.38 in.
+Saddle Width b 19.69 in.
+Saddle Bearing Angle theta 120.00 degrees
+Wear Plate Width bl 26.77 in.
+Wear Plate Bearing Angle thetal 140.00 degrees
+Wear Plate Thickness tr 0.5906 in.
+Wear Plate Allowable Stress Sr 37195.20 psi
+Inside Depth of Head h2 1.78 ft.
+Shell Allowable Stress used in Calculation 37195.20 psi
+Head Allowable Stress used in Calculation 37195.20 psi
+Circumferential Efficiency in Plane of Saddle 1.00
+Circumferential Efficiency at Mid-span 1.00
+Saddle Force Q, Operating Case 208956.03 1b.
+Horizontal Vessel Analysis Results: Actual Allowable
+Long. Stress at Top of Midspan 11314.99 37195.20 psi
+Long. Stress at Bottom of Midspan 18089.49 37195.20 psi
+Long. Stress at Top of Saddles 24829.04 37195.20 psi
+Long. Stress at Bottom of Saddles 9089.34 37195.20 psi
+Tangential Shear in Shell 8077.37 29756.16 psi
+Circ. Stress at Horn of Saddle 16708 .56 46494.00 psi
+168
+
+[page 177]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+circ. Compressive Stress in Shell 1280.57 37195.20 psi
+Intermediate Results: Saddle Reaction Q due to Wind or Seismic
+Saddle Reaction Force due to Wind Ft [Fwt]:
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B / E
+= 3.00 * ( 11923.8/2 + 0 ) * 66.1024/78.3465
+= 15090.5 lb.
+Saddle Reaction Force due to Wind Fl or Friction [Fwl]:
+= max( Fl, Friction Load, Sum of X Forces) * B / Ls
+= max( 1134.76 , 50323.38 , 0 ) * 66.1024/354.3307
+= 9388.1 1b.
+Saddle Reaction Force due to Earthquake FI or Friction [Fsl]:
+= max( Fl, Friction Force, Sum of X Forces ) * B / Ls
+= max( 35125.63 , 50323.38 , 0 ) * 66.1024/354.3307
+= 9388.1 lb
+Saddle Reaction Force due to Earthquake Ft [Fst]:
+= Ftr * ( Ft/Num of Saddles + Z Force Load ) * B / E
+= 3.00 * ( 35126/2 + 0) * 66.1024/78.3465
+= 44454.2 lb.
+Load Combination Results for Q + Wind or Seismic [Q]:
+= Saddle Load + Max( Fwl, Fwt, Fsl, Fst )
+= 164502 + Max( 9388 , 15091 , 9388 , 44454 )
+= 208956.0 1b.
+Summary of Loads at the base of this Saddle:
+Vertical Load (including saddle weight) 212198.81 1b.
+Transverse Shear Load Saddle 17562.81 lb
+169
+
+[page 178]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+Longitudinal Shear Load Saddle 50323.38 Ib.
+Formulas and Substitutions for Horizontal Vessel Analysis:
+Note: Wear Plate is Welded to the Shell, k = 0.1
+The Computed K values from Table 4.15.1:
+
+Kl = 0.1066 K2 = 1.1707 K3 = 0.8799 K4 = 0.4011
+K5 = 0.7603 K6 = 0.0529 K7 = 0.0529 K8 = 0.3405
+K9 = 0.2711 K10 = 0.0581 K1* = 0.1923 Kép = 0.0379
+K7p = 0.0379
+The suffix 'p' denotes the values for a wear plate if it exists.
+Note: Dimension a is greater than or equal to Rm / 2.
+Moment per Equation 4.15.3 [M1]:
+
+= -Q*ta [1 - (1- a/L + (R?-h2?) /(2a*L)) /(1+(4h2) /3L) ]
+
+= -208956*6.36[1-(1-6.36/41.73+(3.5657-1. 7787) /
+
+(2*6 .36*41.73)) / (1+ (4*1.78) / (3*41.73))]
+
+= -240809.1 ft.1b.
+Moment per Equation 4.15.4 [M2]:
+
+= Q*L/4 (1+2 (R?-h2?) / (L?)) /(1+(4h2)/( 3L)) -4a/L
+
+= 208956*41.7/4(1+2(3.565?-1.7787) / (41.737) ) / (1+ (4*1.778) /
+
+(3*41.732)) -4*6.36/41.73
+
+= 755519.0 ft.1b.
+Longitudinal Stress at Top of Shell (4.15.6) [Sigma‘]:
+
+= P * Rm/(2t) - M2/(pi*Rm’t)
+
+= 320.000 * 42.779/(2*0.466 ) - 9066228/(pi*42.87*0.466 )
+
+= 11314.99 psi
+
+170
+
+[page 179]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Longitudinal Stress at Bottom of Shell (4.15.7) [Sigma2]:
+= P * Rm/(2t) + M2/(pi * Rm * t)
+= 320.000 * 42.779/(2 * 0.466 ) + 9066228/(pi * 42.87 * 0.466 )
+= 18089.49 psi
+Longitudinal Stress at Top of Shell at Support (4.15.10) [Sigma*3]:
+= P * Rm/(2t) - M1/(K1*pi*Rm’t)
+= 320.000*42.779/(2*0.466) --2889709.8/(0.1066*pi*42.87*0.466)
+= 24829.04 psi
+Longitudinal Stress at Bottom of Shell at Support (4.15.11) [Sigma*4]:
+= P * Rm/(2t) + M1/(K1* * pi * Rm? * t)
+= 320.000*42.779/(2*0.466) +-2889709.8/(0.1923*pi*42.87*0.466)
+= 9089.34 psi
+Maximum Shear Force in the Saddle (4.15.5) [T]:
+= Q(L-2a) / (L+ (4*h2/3))
+= 208956 ( 41.73 - 2 * 6.36 )/(41.73 + ( 4 * 1.78/3))
+= 137412.1 1b.
+Shear Stress in the shell no rings, not stiffened (4.15.14) [tau2]:
+= K2* T/ (Rm*t )
+= 1.1707 * 137412.11/( 42.7790 * 0.4656 )
+= 8077.37 psi
+Decay Length (4.15.22) [x1,x2]:
+= 0.78 * sqrt( Rm * t )
+= 0.78 * sqrt( 42.779 * 0.466 )
+= 3.481 in.
+Circumferential Stress in shell, no rings (4.15.23) [sigma6]:
+177
+
+[page 180]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+= -K5*Q*k/(t* (b+ X1 + X2) )
+
+= -0.7603 * 208956 * 0.1/( 0.466 * ( 19.69 + 3.48 + 3.48) )
+
+= -1280.57 psi
+Effective reinforcing plate width (4.15.1) [B1]:
+
+= min( b + 1.56 * sqrt( Rm* t ), 2a )
+
+= min( 19.69 + 1.56 * sqrt( 42.779 * 0.466 ), 2 * 76.378 )
+
+= 26.65 in
+Wear Plate/Shell Stress ratio (4.15.29) [eta]
+
+= min( Sr/s, 1 )
+
+= min( 37195.203/37195.203 , 1 )
+
+= 1.0000
+Circumferential Stress at wear plate (4.15.26) [sigma6,r]:
+
+= -K5 *Q*k / ( Bl( t+ eta* tr) )
+
+= -0.7603 * 208956 * 0.1/( 26.647 ( 0.466 + 1.000 * 0.591 ) )
+
+= -564.50 psi
+Circ. Comp. Stress at Horn of Saddle, L>=8Rm (4.15.27) [sigma7,r]:
+
+= -O/(4(t+eta*tr)b1) - 3*K7*Q/(2(t+eta*tr)?)
+
+= -208956/(4(0.466 + 1.000 * 0.591 )26.647 ) -
+
+3. * 0.053 * 208956/(2(0.466 + 1.000 * 0.591 )?)
+
+= -16708.56 psi
+Results for Vessel Ribs, Web and Base
+
+Baseplate Length Bplen 78.3465 in.
+Baseplate Thickness Bpthk 1.9685 in.
+Baseplate Width Bpwid 19.6850 in.
+Number of Ribs ( inc. outside ribs ) Nribs 7
+
+Rib Thickness Ribtk 0.9843 in.
+
+172
+
+[page 181]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Web Thickness Webtk 0.9843 in.
+Web Location Webloc Center
+Moment of Inertia of Saddle - Lateral Direction
+
+Y A AY Io
+Shell 0.2328 15.6958 3.6536 1.1340
+Wearplate 0.7608 15.8100 12.0287 9.6112
+Web 10.4001 18.3937 191.2962 2524.8191
+BasePlate 20.7283 38.7501 803.2250 16662.0410
+Totals 32.1220 88.6496 1010.2036 19197.6055
+Value Cl = Sumof (Ay) /Sumof (A) = 11.3955 in.
+Value I = Sumof(Io) - C1*Sumof (Ay) = 7685.8682 in**4
+Value As = Sumof(A) - Ashell = 72.9538 in?
+Kl = (1+Cos (beta) -.5*Sin(beta)? )/(pi-beta+Sin(beta) *Cos(beta)) = 0.2035
+Fh = Kl * Q = 0.2035 * 208956.031 = 42527.0820 lb.
+Tension Stress, St = ( Fh/As ) = 582.9316 psi
+Allowed Stress, Sa = 0.6 * Yield Str = 22800.0000 psi
+d = B - R*Sin(theta) / theta = 29.0734 in.
+Bending Moment, M = Fh * d = 103033.8438 f£t.lb.
+Bending Stress, Sb = (M* C1 /1I ) = 1833.1591 psi
+Allowed Stress, Sa = 2/3 * Yield Str = 25333.3340 psi
+Minimum Thickness of Baseplate per Moss :
+
+= (3 * (Q+ Saddle Wt ) * BasePlateWidth / ( 4 * BasePlateLength *
+Allstress ))%
+173
+
+[page 182]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+
+= (3 * (208956 + 3243 ) * 19.69/( 4 * 78.346 * 25333.334 ))%
+
+= 1.256 in.
+Calculation of Axial Load, Intermediate Values and Compressive Stress
+Effective Baseplate Length [e]:
+
+= ( Bplen - Clearance ) / ( Nribs - 1)
+
+= ( 78.3465 - 1.0 )/( 7 - 1) = 12.8911 in.
+Baseplate Pressure Area [Ap]:
+
+=e * Bpwid / 2
+
+= 12.8911 * 19.6850/2 = 126.8807 in?
+Axial Load [P]:
+
+= Ap * Bp
+
+= 126.9 * 135.49 = 17190.7 lb.
+Area of the Rib and Web [Ar]:
+
+= ( Bpwid - Clearance - Webtk ) * Ribtk + e/2 * Webtk
+
+= (19.685 - 1.0 - 0.984 ) * 0.984 + 12.8911/2 * 0.984
+
+= 23.766 in?
+Compressive Stress [Sc]:
+
+= P/Ar
+
+= 17190.7/23.7661 = 723.3315 psi
+Check of Outside Ribs:
+Inertia of Saddle, Outer Ribs - Longitudinal Direction
+
+Y A AY Ay? Io
+Rib 9.8425 17.9142 176.3205 0.0000 579.1794
+Web 9.8425 6.3440 62.4413 0.0000 1.0243
+Values 9.8425 24.2582 238.7617 0.0000 580.2037
+174
+
+[page 183]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Bending Moment [Rm]:
+= Fl /( 2 * Bplen) * e * rl / 2
+= 50323.4/( 2 * 78.35 ) * 12.891 * 42.75/2
+= 7375.042 ft.1b.
+KL/R < Cc ( 8.6528 < 122.7359 ) per AISC E2-1
+Seca = (1-(Klr)?/(2*Cc?)) *Fy/ (5/343* (K1x) / (8*Cc) - (K1r3) / (8*Cc3)
+Sca = ( 1-( 8.65 )?/(2 * 122.747 )) * 38000/
+( 5/3+3*(8.65 )/(8* 122.74 )-( 8.65%) /(8*122.74%)
+Sca = 22388.79 psi
+AISC Unity Check on Outside Ribs ( must be <= 1.0 )
+Check = Sc/Sca + (Rm/Z)/Sba
+Check = 723.33/22388.79 + (88500.50/58.949 ) /25333.33
+Check = 0.09
+Check of Inside Ribs
+Inertia of Saddle, Inner Ribs - Axial Direction
+Y A AY Ay? Io
+Rib 9.3425 17.4220 162.7657 0.0000 535.0657
+Web 9.3425 12.6881 118.5385 0.0000 1.0243
+Values 9.3425 30.1101 281.3042 0.0000 536.0900
+KL/R < Ce ( 6.8955 < 122.7359 ) per AISC E2-1
+Sea = (1-(Klr)?/(2*Cc?) ) *Fy/ (5/34+3* (Klr) / (8*Cc) - (K1lr) / (8*Cc3)
+Sca = ( 1-( 6.90 )?/(2 * 122.747 )) * 38000/
+( 5/3+3* (6.90 )/(8* 122.74 )-( 6.907) /(8*122.74)
+Sca = 22480.15 psi
+175
+
+[page 184]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+AISC Unity Check on Inside Ribs ( must be <= 1.0 )
+
+Check = Sc/Sca + (Rm/Z)/Sba
+
+Check = 1141.86/22480.15 + ( 120458.84/57.382 )/25333.33
+
+Check = 0.13
+Input Data for Base Plate Bolting Calculations:
+
+Total Number of Bolts per BasePlate Nbolts 8
+Total Number of Bolts in Tension/Baseplate Nbt 4
+
+Bolt Material Specification SA-193 B7
+Bolt Allowable Stress Stba 25000.00 psi
+Bolt Corrosion Allowance Bea 0.0590 in.
+Distance from Bolts to Edge Edgedis 7.6770 in
+Nominal Bolt Diameter Bnd 1.8898 in.
+Thread Series Series TEMA Metric
+BasePlate Allowable Stress s 25299.90 psi
+Area Available in a Single Bolt BltArea 1.7908 in?
+Saddle Load QO (Weight) Qo 167744.6 lb.
+Saddle Load QL (Wind/Seismic contribution) QL 9388.1 lb.
+Maximum Transverse Force Ft 17562.8 1b
+Maximum Longitudinal Force Fl 50323.4 Ib.
+Saddle Bolted to Steel Foundation No
+Bolt Area Calculation per Dennis R. Moss
+Bolt Area Requirement Due to Longitudinal Load [Bltarear!]:
+
+= 0.0 (QO > QL --> No Uplift in Longitudinal direction)
+Bolt Area due to Shear Load [Bltarears]:
+
+= Fl / (Stba * Nbolts)
+
+= 50323.38/(25000.00 * 8.00 )
+
+= 0.2516 in*
+
+176
+
+[page 185]
+PV Elite 2016 Licensee: LOINTEK
+FileName : 195001-CAL-001.01_HVA_Midspans, upper supports and bolts
+Horizontal Vessel Analysis (Ope.) :
+Bolt Area due to Transverse Load
+Moment on Baseplate Due to Transverse Load [Rmom]:
+= B * Ft + Sum of X Moments
+= 5.51 * 17562.81 + 0.00
+= 96745.28 £t.1b.
+Eccentricity (e):
+= Rmom / QO
+= 1160943/167744.59
+= 6.92 in. < Bplen/é --> No Uplift in Transverse direction
+Bolt Area due to Transverse Load [Blitareart]:
+= 0 (No Uplift)
+Required Area of a Single Bolt [Bltarear]:
+= max[Bltarearl, Bltarears, Bltareart]
+= max[0.0000 , 0.2516 , 0.0000 }
+= 0.2516 in?
+PV Elite is a trademark of Intergraph CADWorx & Analysis Solutions, Inc. 2016
+177

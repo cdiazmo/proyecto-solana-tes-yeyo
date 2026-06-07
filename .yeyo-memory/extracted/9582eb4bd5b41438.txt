@@ -1,0 +1,716 @@
+[page 1]
+ABENER TEYMA 
+ SOLANA Abeinsa Engineering 
+ 
+ 
+Hydraulic Calculation Report 
+ 
+Title: 
+TES main pumps hydraulic calculation report 
+Client: Arizona Solar One 
+Project: HEX replacement TES Solana 
+ 
+ 
+Document No. : 4521-CAL-AEE-58-11-0002-GAR 
+Revision : 02 
+Purpose: IFD 
+Date : 16/12/2016 
+ 
+Prepared by: 
+Pedro Moreira Gomes - Process Engineer Electronic S ignature 
+ 
+Reviewed by: 
+Jesús Manuel Jimenez García – Head of Process Division Electronic Signature 
+ 
+Approved by: 
+José Maria Rodriguez León - Project Manager Electro nic Signature 
+ 
+This document is property of Abener Teyma Solana. I ts total or partial reproduction is strictly forbid den by any means, as 
+well as its distribution to third parties without the express written consent of Abener Teyma Solana. 
+ 
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential informati on, legal requirements or 
+local regulations and/or contractual requirements o f the client), there was a need to modify the requi rements included in 
+this procedure, these changes must be properly docu mented in the quality, environment and health and s afety plan of the 
+project, prior approval from the company headquarters management system department. 
+ 
+The original one of this document is approved and filed in document management system application 
+ 
+
+[page 2]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 2 of 14 
+ 
+Revision Control Sheet 
+ 
+Revision Date Reason for the 
+revision 
+Prepared 
+by 
+Reviewed 
+by 
+Approved 
+by 
+00 27/09/2016 First edition PMG JMJG PGA 
+01 24/10/2016 Updated Version – 
+HTF circuit added PMG JMJG JMRL 
+02 15/12/2016 
+Latest pipe routing, 
+including the MS 
+jumper and Lointek’s 
+H&MB. 
+PMG JMJG JMRL 
+ 
+ 
+Preliminary or pending Information 
+Edition Sections Concepts Status 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 3 of 14 
+ 
+ 
+Table of Contents 
+ 
+ Purpose and scope ................................................................................................... 4 1. 
+ Molten Salts Circuit Description & Considerations ..................................................... 5 2. 
+2.1. System description ............................................................................................... 5 
+2.2. Hypothesis and Assumptions ............................................................................... 5 
+ HTF Circuit Description & Considerations .................................................................. 6 3. 
+3.1. System Description .............................................................................................. 6 
+3.2. Hypothesis and Assumptions ............................................................................... 6 
+ Simulation results ..................................................................................................... 7 4. 
+4.1. Molten Salts Circuit ............................................................................................. 7 
+4.1.1. Case A: Pump running at its optimum speed ................................................................................ 7 
+4.1.2. Case B: Pump running at its maximum speed ............................................................................... 8 
+4.1.3. Case C: Determining the maximum allowed flow through the system .......................................... 9 
+4.2. HTF Circuit ........................................................................................................ 10 
+4.2.1. TES Charging .............................................................................................................................. 10 
+4.2.2. TES Discharging .......................................................................................................................... 10 
+ Conclusions ............................................................................................................ 11 5. 
+ Reference documents ............................................................................................. 11 6. 
+List of Annexes ........................................................................................................... 13 
+ 
+
+[page 4]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 4 of 14 
+ 
+ Purpose and scope 1. 
+This document is intended to evaluate the implicati ons of replacing the existing 
+TES System plate heat exchangers, for a new set of heat exchangers of the tube 
+and shell based on Lointek’s H&MB 4521-CAL-LOI-039-062-0002-GAR. 
+ 
+The new proposed heat exchangers will have differen t pressure drops and will be 
+located at a different location and at heights of t he existing ones. To evaluate the 
+consequences of installing this equipment on the Mo lten Salts and Heat Transfer 
+(HTF) circuits, a set of hydraulic calculations wer e simulated using Pipeflo ®.The 
+considered cases were the following: 
+ 
+For the Molten Salts Circuit: 
+ 
+• Summer Charging & Steam Generation 
+• Summer Charging Only 
+• Summer Discharging & Steam Generation 
+• Winter Discharging Only 
+• Max Charging & Steam Generation 
+• Max Charging Only 
+• 25% Charging & Steam Generation 
+• 25% Charging Only 
+• Design Charge Operation with Interchangeability (*) 
+• Design Discharge Operation with Interchangeability (*) 
+ 
+(*) The interchangeability operation modes are new operation modes. The 
+interchangeability concept consist of having one(1) or two (2) plate heat 
+exchangers decommissioned and that there is only a single Tube & Shell HEX for 
+one(1) or two (2) TES systems. 
+For simulation purposes the studied “Interchangeability” operation is the one 
+where the mass flow with the maximum considered mass flow and longest piping 
+network for the charge and discharge operations. 
+ 
+For the HTF Circuit: 
+• Summer Charging 
+• Summer Discharging 
+• Winter Discharging 
+• Max Charging 
+• 25% Charging 
+
+[page 5]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 5 of 14 
+ 
+ Molten Salts Circuit Description & Considerations 2. 
+2.1. System description 
+The plant includes 6 identical and independent molt en salts circuits. For simulation 
+purposes the following equipment where considered: 
+ 
+• One (1) hot salts tank (1/../6 -MT-252) 
+• One (2) cold salts tank (1/../6 -MT-251) 
+• One (1) HTF-to-Salt Heat Exchanger (1/../6 -MX-251) 
+• One (1) hot salts pump (1/../6 -MP-252) 
+• One (1) cold salts pump (1/../6 -MP-251) 
+ 
+Because there are no differences in terms of geomet ry and equipment 
+performance, the molten salts circuit was simulated for a single set of tanks for the 
+different operating modes. 
+ 
+2.2. 
+ Hypothesis and Assumptions 
+The following assumptions have been considered for the calculations: 
+ 
+• Pipes length and fittings details based on the 3D l atest Model and P&IDs 
+collection. 
+• Salts tanks operating pressure: 14.5 psia. 
+• Cold molten salts temperature: 
+o Charge mode : 556 °F 
+o Discharge mode: 556 °F and 564 °F for the Normal and Winter 
+Discharge modes, respectively. 
+• Hot molten salts temperature: 730 °F. 
+• Pumps suction height : 1 ft 
+• Heat Exchanger Inlet nozzle height: 
+o Discharge mode: 37,49 ft 
+o Charge mode: 16,67 ft 
+• Heat Exchanger Outlet nozzle height: 
+o Discharge mode: 16,67 ft 
+o Charge mode: 37,49 ft 
+• Heat Exchanger pressure drop: based on the vendor’s Heat & Mass Balances 
+• Pumps performance curve: as specified in its datasheet. 
+• Control valve’s Cv based on vendor’s datasheet 
+
+[page 6]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 6 of 14 
+ 
+ HTF Circuit Description & Considerations 3. 
+3.1. System Description 
+The HTF circuit is a closed circuit where its backp ressure is ensured by the 
+expansion tank. 
+It is composed of 10 identical main pumps (2 of whi ch in standby) that send the 
+cold HTF to the solar field and through 6 identical HTF-to-Salts heat exchangers 
+and afterwards two steam generators. 
+ 
+For simulation purposes the following equipment where considered: 
+ 
+• Ten (10) HTF Far Field Pumps (MP-200 A/B/C/D/E/F/G/ H/J/K) - 8 running and 
+2 spare 
+• Pumps suction pressure: 172 psia (set by the expansion tank) 
+• Six (6) HTF-to-Salt Heat Exchanger (1/../6 -MX-251) 
+• Two (2) identical steam generators in parallel 
+3.2. Hypothesis and Assumptions 
+The following assumptions have been considered for the calculations: 
+ 
+• Pipes length and fittings details based on the late st 3D Model and P&IDs 
+collection 
+• Cold HTF Temperature: based on the Oil-To-Salt Heat Exchangers datasheet 
+operation modes, ranging from 545 °F to 598°F. 
+• Hot HTF temperature: based on the Oil-To-Salt Heat Exchangers datasheet 
+operation modes, ranging from 718 °F to 738°F. 
+• Pumps performance curve: as specified in its datasheet. 
+• The solar field has been designed as a single block with an induced pressure 
+drop according to the general PFD information 
+o For the TES Discharge Operation it is considered that the solar field is 
+bypassed by the main pumps and the HTF goes straigh t to the TES 
+HEX and afterwards to the steam generators 
+• Pumps suction pressure: 172 psia. 
+• Heat Exchanger Inlet nozzle height: 
+o Discharge mode: 37,49 ft 
+o Charge mode: 16,67 ft 
+• Heat Exchanger Outlet nozzle height: 
+o Discharge mode: 16, 67 ft 
+o Charge mode: 37,49 ft 
+
+[page 7]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 7 of 14 
+ 
+• Temporary strainers at the main pumps suction removed. 
+• Heat Exchanger pressure drop: based on the vendor’s Heat & Mass Balances 
+• Operating flows as indicated on the initial heat exchangers datasheets. 
+• Far field pumps operation considerations: 
+- 8 out of 10 running (2 spare) The pumps are equipped with a VFD 
+For all considered cases its speeds were adjusted s o that the control 
+valves on the TES circuit (on the HTF side) are ful ly open and the Steam 
+Generator (when performing) operating according to the 
+manufacturer’s operation mode PFD. 
+ Simulation results 4. 
+4.1. Molten Salts Circuit 
+For each of the molten salts circuit, three scenarios were considered: 
+ 
+- Case A: the pump is set at its optimum speed setting the desired mass flow; 
+and the control valve on the receiving tank is at i ts maximum opening 
+percentage. 
+ 
+-
+ Case B: the pump is running at its maximum speed (1 132 rpm) and the 
+control valve on the receiving tank regulates the m ass flow by adjusting its 
+opening percentage. 
+ 
+-
+ Case C: the pump is running at its maximum speed an d the control valve 
+on the receiving tank is 100 % open. This scenario allows knowing what 
+the circuit’s hydraulic limit is. 
+ 
+For more details concerning the Molten Salts circui t and the overall process data 
+check the sections Annex I, Annex II and Annex III of this document. 
+4.1.1. 
+ Case A: Pump running at its optimum speed 
+The table below compiles the pump’s performance and the control’s valve opening 
+percentage. 
+ 
+ 
+Operation Case Pump 
+Speed 
+(rpm) 
+Pump 
+Height 
+(ft) 
+Mass Flow 
+(lb/h) 
+Control 
+Valve 
+Opening 
+(%) 
+Control 
+Valve 
+Pressure 
+Drop (psi) 
+
+[page 8]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 8 of 14 
+ 
+Operation Case Pump 
+Speed 
+(rpm) 
+Pump 
+Height 
+(ft) 
+Mass Flow 
+(lb/h) 
+Control 
+Valve 
+Opening 
+(%) 
+Control 
+Valve 
+Pressure 
+Drop (psi) 
+25% Load 685 68.3 1,659,040 59 11.86 
+Max Charge 1088 154.0 6,622,460 96 10.22 
+Summer Charge 962 124.7 5,079,990 89 10.64 
+Nominal Discharge 
+Discharge 1109 159.5 6,604,020 94.5 11.04 
+Winter Discharge 1109 159.4 6,620,490 95 10.67 
+Max charge with 
+interchangeability 1089 154.3 6,622,460 97 9.50 
+Winter charge with 
+interchangeability 1111 160.1 6,620,490 95.5 10.27 
+The results show that the pump is capable of delive ring the necessary mass flow 
+without reaching its maximum speed (1132 rpm). Both the pump and the installed 
+valve are suited for the new equipment. 
+4.1.2. 
+ Case B: Pump running at its maximum speed 
+The table below compiles the pump’s performance and the control’s valve opening 
+percentage. 
+ 
+Operation Case Pump 
+Speed 
+(rpm) 
+Pump 
+Height 
+(ft) 
+Mass Flow 
+(lb/h) 
+Control 
+Valve 
+Opening 
+(%) 
+Control 
+Valve 
+Pressure 
+Drop (psi) 
+25% Load 812 ** 97.0 1,659,040 44.64 35.59 
+Max Charge 1132 168.6 6,622,460 86.03 22.29 
+Summer Charge 1060 ** 154.5 5,079,990 73.39 35.31 
+Nominal Discharge 
+Discharge 1132 167.4 6,604,020 89.10 17.32 
+Winter Discharge 1132 167.2 6,620,490 89.51 16.95 
+Max charge with 
+interchangeability 1132 168.6 6,622,460 86.63 21.34 
+Winter charge with 
+interchangeability 1132 167.2 6,620,490 90.27 16.00 
+
+[page 9]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 9 of 14 
+ 
+ 
+Though from a performance perspective this is the m ost inefficient operating 
+method, the control valve is capable of delivering the required mass flow within an 
+opening percentage below the 90% opening. Both the pump and the installed 
+valve are suited for the new equipment. 
+ 
+** for higher speeds there is chocked flow across the control valve. 
+4.1.3. 
+ Case C: Determining the maximum allowed flow through the system 
+For this case the pump speed is set at its maximum speed and the valve’s opening 
+percentage set at its maximum opening; whilst preve nting the pump from 
+reaching its run out operating point. 
+ 
+To understand the real overdesign factor allowed by the system, the simulation 
+was done using the same operating conditions of the most demanding operating 
+modes for the charge and discharge operations. 
+ 
+For the charge operation the MS operating conditions are the same as in the “Max 
+Charge Mode”; and for the discharge operation the r eference operation mode is 
+the “Winter Discharge” scenario. 
+ 
+• Charge Operation 
+ 
+ Mass flow 
+ 
+(lb/h) 
+Pump speed 
+ 
+(rpm) 
+Control Valve 
+Opening 
+(%) 
+Overdesign 
+Factor 
+(-) 
+Max Charge Mode 6,622,460 1132 86.03 
+Charge Operation 
+Limit 
+7,189,389 1132 100 1.09 
+ 
+For the discharge operation there is a 9% overdesig n factor, when comparing it to 
+the allowed flow with the Max Charge Mode operation mode. 
+ 
+• Discharge Operation 
+ 
+ Mass flow 
+ 
+(lb/h) 
+Pump speed 
+ 
+(rpm) 
+Control Valve 
+Opening 
+(%) 
+Overdesign 
+Factor 
+(-) 
+Winter Discharge 
+Mode 
+6,620,490 1132 89.51 
+Charge Operation 
+Limit 6,890,290 1132 96% 1,04 
+ 
+
+[page 10]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 10 of 14 
+ 
+For the discharge operation there is a 4% overdesig n, when comparing it to the 
+allowed flow with the Winter Discharge Mode operation mode. 
+ 
+4.2. 
+ HTF Circuit 
+This section compiles the basic information for the HTF circuit’s main pumps and 
+heat exchangers. 
+Because both the pumps and heat exchangers have ide ntical performances, the 
+tables below only show the process data for a single HEX and pump. 
+ 
+For more details about each element check Annex IV and Annex V of this 
+document. 
+4.2.1. 
+ TES Charging 
+ 
+Operation Case Pump 
+Speed 
+ 
+ 
+(rpm) 
+Pump 
+Head 
+ 
+ 
+(ft) 
+Pump 
+Volumetric 
+Flow 
+ 
+(gpm) 
+Mass Flow 
+Across 
+Heat 
+Exchanger 
+(lb/h) 
+HEX Inlet 
+Pressure 
+ 
+ 
+(psia) 
+HEX Outlet 
+Pressure 
+ 
+ 
+(psia) 
+HEX 
+Pressure 
+Drop 
+ 
+ (psi) 
+Max Charging & 
+Steam Generation 1712 915,9 13912 4,106x10 6 288 184,6 50,77 
+Max Charging 
+Only 1306 592,6 7481 4,106x10 6 228 184,6 50,77 
+Summer Charging 
+& Steam 
+Generation 
+1305 568,9 8868 3,102x10 6 200,8 178,2 30 
+Summer Charging 
+Only 1077 408,6 5653 3,102x10 6 200,8 178,2 30 
+25% Charging & 
+Steam Generation 606 133,7 2421 1,002x10 6 167,2 170,6 4 
+25% Charging 
+Only 532 104,3 1826 1,002x10 6 167,2 170,6 4 
+ 
+4.2.2. 
+ TES Discharging 
+The table below compiles the pump’s performance and the control’s valve opening 
+percentage. 
+ 
+
+[page 11]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 11 of 14 
+ 
+Operation Case Pump 
+Speed 
+ 
+ 
+(rpm) 
+Pump 
+Head 
+ 
+ 
+(ft) 
+Pump 
+Volumetric 
+Flow 
+ 
+(gpm) 
+Mass Flow 
+Across 
+Heat 
+Exchanger 
+(lb/h) 
+HEX Inlet 
+Pressure 
+ 
+ 
+(psia) 
+HEX Outlet 
+Pressure 
+ 
+ 
+(psia) 
+HEX 
+Pressure 
+Drop 
+ 
+ (psi) 
+Nominal Discharge 1064 375,1 7440 4,083x10 6 287,9 229,1 50,22 
+Winter Discharge 1063 374,9 7438 1,002x10 6 287,8 229,1 50,19 
+The results show that the pump is capable of delive ring the necessary mass flow 
+without reaching its maximum speed (1802 rpm) for b oth the charge & discharge 
+operations. 
+ Conclusions 5. 
+The current pumps for Molten Salts and HTF as well as the installed control valves 
+are capable of handling the Lointek’s heat exchangers for all the considered 
+operation modes. 
+ Reference documents 6. 
+• 3D Model (25-11-2016) 
+• Specification for Oil-to-Salt Heat Exchanger 4521-E SP-ANC-39-62-0002, 
+Rev 02 
+• Main Salt Pump Performance Curve 0018H-3414-56 
+• Lointek Process Flow Conditions / Heat & Mass Balan ces – 4521-CAL-LOI-
+039-062-0002-GAR 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P251 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P253 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P261 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P263 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P264 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P266 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P267 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P269 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P270 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P272 
+• Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P273 
+
+[page 12]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 12 of 14 
+ 
+• Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P275 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P252 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P262 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P265 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P268 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P271 
+• HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P274 
+• Control Valve s (Flowserve’s datasheets) 
+• Steam Generator Process Data – 4521-CAL-FWE-21-62-0006 
+ 
+
+[page 13]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 13 of 14 
+ 
+List of Annexes 
+ 
+Annex I 
+ 
+Annex I encloses the results provided by Pipe-Flo s oftware scheme report for each 
+of calculated cases for the Molten Salts circuit considered in Case A. 
+ 
+• Annex I-A- Summer Charge @ 962 rpm 
+• Annex I-B- Discharging @ 1109 rpm 
+• Annex I-C- Winter Discharging @ 1109 rpm 
+• Annex I-D- Max Charging @ 1088 rpm 
+• Annex I-E- 25% Load Charging @ 685 rpm 
+• Annex I-F- Max Charging with Interchangeability @ 1089 rpm 
+• Annex I-G- Winter Discharging with Interchangeability @ 1111 rpm 
+ 
+Annex II 
+ 
+Annex II encloses the results provided by Pipe-Flo software scheme report for each 
+of calculated cases for the Molten Salts circuit considered in Case B. 
+ 
+• Annex II-A- Summer Charge @ 1060 rpm 
+• Annex II-B- Discharging @ 1132 rpm 
+• Annex II-C- Winter Discharging @ 1132 rpm 
+• Annex II-D- Max Charging @ 1132 rpm 
+• Annex II-E- 25% Load Charging @ 812 rpm 
+• Annex II-F- Max Charging with Interchangeability @ 1132 rpm 
+• Annex II-G- Winter Discharging with Interchangeability @ 1132 rpm 
+ 
+Annex III 
+ 
+Annex III encloses the results provided by Pipe-Flo software scheme report for each 
+of calculated cases for the Molten Salts circuit considered in Case C. 
+ 
+• Annex III-A- Charge Mode – Design Flow - max level @ 1132 rpm 
+
+[page 14]
+ABENER TEYMA 
+SOLANA 
+Document: 4521-CAL-AEE-58-11-0002-GAR 
+Revision: 02 Date: 16/12/2016 ABENGOA 
+Abeinsa 
+Engineering Purpose: IFD Page: 14 of 14 
+ 
+• Annex III-B- Discharge Mode – Design Flow - max level @ 1132 rpm 
+Annex IV 
+ 
+Annex IV encloses the results provided by the Pipe-Flo software scheme report for 
+the HTF circuit for the TES Charge operation mode: 
+ 
+• Annex IV – A – Max Charging + Steam Generation 
+• Annex IV – B – Max Charging Only 
+• Annex IV – C – Summer Charging + Steam Generation 
+• Annex IV – D – Summer Charging Only 
+• Annex IV – E – 25 % Charging + Steam Generation 
+• Annex IV – F – 25% Charging Only 
+ 
+Annex V 
+ 
+Annex IV encloses the results provided by the Pipe-Flo software scheme report for 
+the HTF circuit for the TES Discharge operation mode: 
+ 
+• Annex V – A – Winter Discharge 
+• Annex V – B – Nominal Discharge 
+
+[page 15]
+□
+□
+/1 /2 /2 /3 /4 □/5□
+□
+
+[page 23]
+□
+□
+/1 /2 /2 /3 /4 □/5/5□
+□
+
+[page 31]
+□
+□
+/1 /2 /2 /3 /4 □/5/5/5□
+□
+
+[page 34]
+□
+□
+/1 /2 /2 /3 /4 □/5/6□
+□
+
+[page 41]
+□
+□
+/1 /2 /2 /3 /4 □/5□
+□

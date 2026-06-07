@@ -1,0 +1,109 @@
+{
+  "id": "e65260cd07358760",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 885907,
+  "size_human": "865 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AGE-75-54-0005-GAR Rev00 TES Platform proposal reinf",
+  "doc_code": "4521-PLN-AGE-75-54-0005",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 188,
+  "token_estimate": 47,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/e65260cd07358760.json",
+  "extracted_path": ".yeyo-memory/extracted/e65260cd07358760.txt",
+  "metadata": {
+    "archive_entries": 4,
+    "archive_sample": [
+      "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf.dwg",
+      "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf.pdf",
+      "PlotCfgs\\AEN_Pen assignments.ctb",
+      "PlotCfgs\\DWG To PDF.pc3"
+    ],
+    "archive_total_uncompressed_bytes": 1003912,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::21",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 21,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::21",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 21,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::24",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 24,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::25",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 25,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::25",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 25,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::21",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 21,
+        "doc_code": "4521-PLN-AGE-75-54-0005-GAR-Rev00-TES-Platform-proposal-reinf",
+        "title": "",
+        "revision": "4521-PLN-AGE-75-54-0005-GAR_Rev00_TES_Platform_proposal_reinf",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:08.077792+00:00"
+}

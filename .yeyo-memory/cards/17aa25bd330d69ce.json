@@ -1,0 +1,213 @@
+{
+  "id": "17aa25bd330d69ce",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0019_R3 Temperature Transmitter.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 965590,
+  "size_human": "943 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0019 R3 Temperature Transmitter",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 138054,
+  "token_estimate": 34513,
+  "chunks": 88,
+  "card_path": ".yeyo-memory/cards/17aa25bd330d69ce.json",
+  "extracted_path": ".yeyo-memory/extracted/17aa25bd330d69ce.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1013,
+        "non_empty_rows": 33
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 72,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "Index 1",
+        "rows_seen": 91,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "Index 2",
+        "rows_seen": 62,
+        "non_empty_rows": 26
+      },
+      {
+        "name": "TT Spec",
+        "rows_seen": 93,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "JB Spec",
+        "rows_seen": 101,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "Hoja1",
+        "rows_seen": 109,
+        "non_empty_rows": 17
+      },
+      {
+        "name": "JB Sketch",
+        "rows_seen": 76,
+        "non_empty_rows": 8
+      },
+      {
+        "name": "TT Sketch",
+        "rows_seen": 73,
+        "non_empty_rows": 8
+      },
+      {
+        "name": "List 1 TES1",
+        "rows_seen": 77,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "List 2",
+        "rows_seen": 77,
+        "non_empty_rows": 67
+      },
+      {
+        "name": "List 3",
+        "rows_seen": 77,
+        "non_empty_rows": 62
+      },
+      {
+        "name": "List 4",
+        "rows_seen": 77,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "List 5",
+        "rows_seen": 77,
+        "non_empty_rows": 62
+      },
+      {
+        "name": "List 6",
+        "rows_seen": 77,
+        "non_empty_rows": 67
+      },
+      {
+        "name": "List 7",
+        "rows_seen": 78,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "List 8",
+        "rows_seen": 79,
+        "non_empty_rows": 70
+      },
+      {
+        "name": "List 9",
+        "rows_seen": 75,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "List 10 TES2",
+        "rows_seen": 80,
+        "non_empty_rows": 71
+      },
+      {
+        "name": "List 11",
+        "rows_seen": 79,
+        "non_empty_rows": 70
+      },
+      {
+        "name": "List 12",
+        "rows_seen": 77,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "List 13 TES3",
+        "rows_seen": 80,
+        "non_empty_rows": 71
+      },
+      {
+        "name": "List 14",
+        "rows_seen": 79,
+        "non_empty_rows": 70
+      },
+      {
+        "name": "List 15",
+        "rows_seen": 76,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "List 16 TES4",
+        "rows_seen": 80,
+        "non_empty_rows": 71
+      },
+      {
+        "name": "List 17",
+        "rows_seen": 79,
+        "non_empty_rows": 70
+      },
+      {
+        "name": "List 18",
+        "rows_seen": 77,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "List 19 TES5",
+        "rows_seen": 80,
+        "non_empty_rows": 71
+      },
+      {
+        "name": "List 20",
+        "rows_seen": 79,
+        "non_empty_rows": 70
+      },
+      {
+        "name": "List 21",
+        "rows_seen": 77,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "List 22 TES6",
+        "rows_seen": 80,
+        "non_empty_rows": 72
+      },
+      {
+        "name": "List 23",
+        "rows_seen": 79,
+        "non_empty_rows": 71
+      },
+      {
+        "name": "List 24",
+        "rows_seen": 79,
+        "non_empty_rows": 71
+      },
+      {
+        "name": "List 25HTF",
+        "rows_seen": 77,
+        "non_empty_rows": 39
+      },
+      {
+        "name": "List 26 HTF",
+        "rows_seen": 77,
+        "non_empty_rows": 49
+      },
+      {
+        "name": "List 27",
+        "rows_seen": 67,
+        "non_empty_rows": 43
+      },
+      {
+        "name": "List 28",
+        "rows_seen": 58,
+        "non_empty_rows": 39
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:15.856743+00:00"
+}

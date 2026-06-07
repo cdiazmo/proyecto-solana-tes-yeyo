@@ -1,0 +1,39 @@
+{
+  "id": "e04bf755e93f5ac4",
+  "path": "01 GD AE/C&S/Plataforma de acero TES/4521-PLN-AGE-58-54-2016.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 594218,
+  "size_human": "580 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AGE-58-54-2016",
+  "doc_code": "4521-PLN-AGE-58-54-2016",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/e04bf755e93f5ac4.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120201172409+01'00'",
+      "ModDate": "D:20120201172409+01'00'",
+      "Title": "H:\\400 Direccion de Ingenieria\\420 Proyectos\\AG1008_Solana (USA)\\6_Doc_en curso\\Civil_Structural_Architectural\\58.Thermal Oil S",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "agmmsi",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.627045+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.648631+00:00"
+}

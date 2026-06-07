@@ -1,0 +1,107 @@
+{
+  "id": "c92eb006c3a6dfa0",
+  "path": "01 GD AE/Tuberia/LIS/4521-LIS-AEE-58-63-0001_rev00_HTF System support list.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 462438,
+  "size_human": "452 KB",
+  "mtime_iso": "2026-06-05T06:22:00.000Z",
+  "title": "4521-LIS-AEE-58-63-0001 rev00 HTF System support list",
+  "doc_code": "4521-LIS-AEE-58-63-",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 104,
+  "token_estimate": 26,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/c92eb006c3a6dfa0.json",
+  "extracted_path": ".yeyo-memory/extracted/c92eb006c3a6dfa0.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-LIS-AEE-58-63-0001 HTF System support list.pdf",
+      "4521-LIS-AEE-58-63-0001 HTF System support list.xlsx"
+    ],
+    "archive_total_uncompressed_bytes": 512832,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::117",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 117,
+        "doc_code": "4521-LIS-AEE-58-63-0001-rev03-HTF System support list",
+        "title": "",
+        "revision": "4521-LIS-AEE-58-63-0001_rev03_HTF System support list",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::117",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 117,
+        "doc_code": "4521-LIS-AEE-58-63-0001-rev03-HTF System support list",
+        "title": "",
+        "revision": "4521-LIS-AEE-58-63-0001_rev03_HTF System support list",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::138",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 138,
+        "doc_code": "4521-LIS-AEE-58-63-0001-rev03-HTF System support list",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::200",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 200,
+        "doc_code": "4521-LIS-AEE-58-63-0001-rev04-HTF System support list",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::193",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 193,
+        "doc_code": "4521-LIS-AEE-58-63-0001-rev04-HTF System support list",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::119",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 119,
+        "doc_code": "4521-LIS-AEE-58-63-0001-rev03-HTF System support list",
+        "title": "",
+        "revision": "4521-LIS-AEE-58-63-0001_rev03_HTF System support list",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:31.561170+00:00"
+}

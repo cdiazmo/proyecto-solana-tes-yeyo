@@ -1,0 +1,120 @@
+{
+  "id": "b0dc4e82920ab60f",
+  "path": "12 As Built TES 6/03_C&S/03_LIS/4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found.zip",
+  "top_dir": "12 As Built TES 6",
+  "ext": "zip",
+  "size_bytes": 471186,
+  "size_human": "460 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-LIS-AEE-75-52-0006-GAR Rev01 Exchangers Pipe Support found",
+  "doc_code": "4521-LIS-AEE-75-52-0006",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 135,
+  "token_estimate": 33,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/b0dc4e82920ab60f.json",
+  "extracted_path": ".yeyo-memory/extracted/b0dc4e82920ab60f.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found.pdf",
+      "4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found.doc"
+    ],
+    "archive_total_uncompressed_bytes": 1671915,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::18",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 18,
+        "doc_code": "4521-LIS-AEE-75-52-0006-GAR",
+        "title": "Piping foundation IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-17 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::24",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 24,
+        "doc_code": "4521-LIS-AEE-75-52-0006-GAR-Rev01-Exchangers-Pipe-Support-found",
+        "title": "",
+        "revision": "4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::18",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 18,
+        "doc_code": "4521-LIS-AEE-75-52-0006-GAR",
+        "title": "Piping foundation IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-17 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::12",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 12,
+        "doc_code": "4521-LIS-AEE-75-52-0006-GAR",
+        "title": "Exchangers_Pipe_Support_found",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::24",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 24,
+        "doc_code": "4521-LIS-AEE-75-52-0006-GAR-Rev01-Exchangers-Pipe-Support-found",
+        "title": "",
+        "revision": "4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::64",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 64,
+        "doc_code": "4521-LIS-AEE-75-52-0006-GAR-Rev01-Exchangers-Pipe-Support-found",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::24",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 24,
+        "doc_code": "4521-LIS-AEE-75-52-0006-GAR-Rev01-Exchangers-Pipe-Support-found",
+        "title": "",
+        "revision": "4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:19:36.106563+00:00"
+}

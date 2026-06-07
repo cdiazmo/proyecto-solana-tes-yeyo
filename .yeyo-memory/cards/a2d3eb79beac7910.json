@@ -1,0 +1,36 @@
+{
+  "id": "a2d3eb79beac7910",
+  "path": "05 GD Fabricación Tecnica de Compra/Deposito drenaje/18-067 Rev.A.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 722268,
+  "size_human": "705 KB",
+  "mtime_iso": "2026-06-05T06:20:00.000Z",
+  "title": "18-067 Rev.A",
+  "doc_code": null,
+  "revision": "Rev.A",
+  "status": "ok",
+  "text_chars": 7127,
+  "token_estimate": 1781,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/a2d3eb79beac7910.json",
+  "extracted_path": ".yeyo-memory/extracted/a2d3eb79beac7910.txt",
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "CreationDate": "D:20180721130200-07'00'",
+      "Creator": "AutoCAD 2018 - English 2018 (22.0s (LMS Tech))",
+      "ModDate": "D:20180721130200-07'00'",
+      "Producer": "pdfplot14.hdi 14.00.049.000",
+      "Title": "Layout1"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Tanque / drain back tank",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.862545+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:59.862547+00:00"
+}

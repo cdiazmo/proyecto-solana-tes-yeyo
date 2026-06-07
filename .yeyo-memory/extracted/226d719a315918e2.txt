@@ -1,0 +1,135 @@
+[page 1]
+252-MS-03A-CS31-24"-2
+Flow: 5326 gpm
+Vel: 4.25 ft/s
+252-MS-04A-CS31-24"-2
+Flow: 5495 gpm
+Vel: 4.385 ft/s
+253-MS-01A-CS31-20"-1
+Flow: 5495 gpm
+Vel: 6.342 ft/s
+Branch 1
+Flow: 5495 gpm
+Vel: 4.385 ft/s
+Tramo 427
+Flow: 470.8 gpm
+Vel: 45.01 ft/s
+253-MS-01A-CS31-20"-2
+Flow: 5495 gpm
+Vel: 6.342 ft/s
+Pump Discharge 18''
+Flow: 5326 gpm
+Vel: 8.366 ft/s
+251-MS-01A-CS31-20"-1
+Flow: 5326 gpm
+Vel: 6.147 ft/s
+251-MS-01A-CS31-20"-2
+Flow: 5326 gpm
+Vel: 6.147 ft/s
+251-MS-01A-CS31-20"-3
+Flow: 5326 gpm
+Vel: 6.147 ft/s 253-MS-01F-CS31-20"13
+Flow: 5495 gpm
+Vel: 6.342 ft/s
+Ring Inlet Line 24''
+Flow: 5495 gpm
+Vel: 4.385 ft/s
+252-MS-03A-CS31-24"-3
+Flow: 5326 gpm
+Vel: 4.25 ft/s
+252-MS-04A-CS31-24"-4
+Flow: 5495 gpm
+Vel: 4.385 ft/s
+Cold salt tank
+Set P: 14.5 psi a
+Level: 3.412 ft
+El: 46.36 ft
+P: 57.62 psi a FIT 125105
+dP: 0 psi
+1-MX-251
+dP: 37.6 psi
+Pin: 83.46 psi a
+Pout: 21.48 psi a
+El: 12.47 ft
+P: 39.12 psi a
+FIT.2
+dP: 0 psi
+FV 1-252-21
+Flow: 5495 gpm
+dP: 5.808 psi
+Position: 96.24 %
+El: 46.59 ft
+P: 52.11 psi a
+El: 6.562 ft
+P: 83.47 psi aEl: 6.562 ft
+P: 84.52 psi a
+El: 48.95 ft
+P: 9.543 psi a
+1-MP-251
+TH: 94.66 ft
+NPSHa: 20.95 ft
+Psuct: 17.31 psi a
+Pdisch: 95.49 psi a
+Speed: 850 rpm
+Eff: 77.3 %
+El: 40.88 ft
+P: 17.55 psi a El: 1.64 ft
+P: 40.8 psi a El: 1.64 ft
+P: 40.79 psi a
+Hot Salt Tank 1-MT-252
+Set P: 14.5 psi a
+Level: 32.81 ft
+El: 36.52 ft
+P: 65.8 psi a
+FV 1-251-05
+Flow: 5326 gpm
+dP: 4.415 psi
+Position: 100 % El: 48.95 ft
+P: 3.272 psi a
+El: 32.81 ft
+P: 15.92 psi a
+El: 46.59 ft
+P: 52.08 psi a
+El: 12.47 ft
+P: 40.06 psi a
+ 17 codos y 130 metros 24'' -->107 m y 15 codos
+Summer Charge @ 850 rpm.pipe
+bar g
+Lineup:
+Power:
+summer charging-nivel max
+psi a
+Program Version:
+Maximum Iterations:
+File Name:
+Velocity:
+Drawn by:
+Density:
+Flow rate:
+cP
+Company:
+Calculation Method:
+Elevation:
+lb/ft³
+0.01
+12.1.21778
+Project Information
+Viscosity:
+2100
+14.5
+m/s
+viernes, agosto 05, 2016 09:57 AM
+PIPE-FLO Professional 12
+Print Date:
+Temperature:
+Size:
+Project:
+Laminar Cutoff Re:
+Atmospheric Pressure:
+Pressure:
+ºF
+Units Used
+100
+Darcy-Weisbach
+Iteration Tolerance:
+Length:

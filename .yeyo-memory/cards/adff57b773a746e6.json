@@ -1,0 +1,35 @@
+{
+  "id": "adff57b773a746e6",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201-DWG-120.00 PRODUCTION TEST DRAWING.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 751461,
+  "size_human": "734 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1950201-DWG-120.00 PRODUCTION TEST DRAWING",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/adff57b773a746e6.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20200430091434+02'00'",
+      "ModDate": "D:20200430091434+02'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.647991+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:00.671488+00:00"
+}

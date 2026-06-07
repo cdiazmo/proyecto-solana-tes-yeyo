@@ -1,0 +1,37 @@
+{
+  "id": "8d0ec7db048e1131",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-MS-13F-CS31-24_Sht_1_R3.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 142416,
+  "size_human": "139 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "252-MS-13F-CS31-24 Sht 1 R3",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/8d0ec7db048e1131.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "smwpdrafting",
+      "CreationDate": "D:20190916125358-05'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20200409110020-07'00'",
+      "Producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "Title": "F:\\AS BUILT TURN IN\\COMPLETE DWG\\252-MS-13F-CS31-24_rev03_Sht_1 (1) Model (1)"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.752978+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:58.774605+00:00"
+}

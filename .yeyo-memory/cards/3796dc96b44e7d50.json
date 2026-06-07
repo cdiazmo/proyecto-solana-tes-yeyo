@@ -1,0 +1,30 @@
+{
+  "id": "3796dc96b44e7d50",
+  "path": "03 GD Fabricacion LOI TES 6/WPS Y PQR/Cualificación de soldadores.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 2409465,
+  "size_human": "2.3 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "Cualificación de soldadores",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/3796dc96b44e7d50.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 24,
+    "pdf_metadata": {
+      "Title": "SKM_36818012316200",
+      "Creator": "KM_368",
+      "Producer": "KONICA MINOLTA bizhub 368",
+      "CreationDate": "D:20180123162023+01'00'",
+      "ModDate": "D:20180123162023+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:08.608720+00:00"
+}

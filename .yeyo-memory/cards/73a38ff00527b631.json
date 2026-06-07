@@ -1,0 +1,32 @@
+{
+  "id": "73a38ff00527b631",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Ensival/ALTERNATIVE PROPOSAL_80VNY65-20-3R_EMI1602682.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 180812,
+  "size_human": "177 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "ALTERNATIVE PROPOSAL 80VNY65-20-3R EMI1602682",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2708,
+  "token_estimate": 677,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/73a38ff00527b631.json",
+  "extracted_path": ".yeyo-memory/extracted/73a38ff00527b631.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "JC Bouricet",
+      "CreationDate": "D:20161017093203+02'00'",
+      "Creator": "Adobe Acrobat 10.0.0",
+      "ModDate": "D:20161017093203+02'00'",
+      "Producer": "Adobe Acrobat 10.0.0",
+      "Subject": "Tracé courbes",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:11:56.668025+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c386b3b339684bc1",
+  "path": "01 GD AE/Tuberia/PLN/4521-PLN-AEE-75-63-0001_rev01_General typical support standard.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 7586914,
+  "size_human": "7.2 MB",
+  "mtime_iso": "2026-06-05T06:22:00.000Z",
+  "title": "4521-PLN-AEE-75-63-0001 rev01 General typical support standard",
+  "doc_code": "4521-PLN-AEE-75-63-",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 723,
+  "token_estimate": 180,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/c386b3b339684bc1.json",
+  "extracted_path": ".yeyo-memory/extracted/c386b3b339684bc1.txt",
+  "metadata": {
+    "archive_entries": 17,
+    "archive_sample": [
+      "0354-PLN-AEE-000-063-0001_001_Cover.dwg",
+      "0354-PLN-AEE-000-063-0001_002_General_Notes.dwg",
+      "0354-PLN-AEE-000-063-0001_003_Index.dwg",
+      "0354-PLN-AEE-000-063-0001_004_Orientation Detail 1.dwg",
+      "0354-PLN-AEE-000-063-0001_005_Orientation Detail 2.dwg",
+      "0354-PLN-AEE-000-063-0001_006_P01.dwg",
+      "0354-PLN-AEE-000-063-0001_007_P02.dwg",
+      "0354-PLN-AEE-000-063-0001_008_P03.dwg",
+      "0354-PLN-AEE-000-063-0001_009_P10.dwg",
+      "0354-PLN-AEE-000-063-0001_010_P11.dwg",
+      "0354-PLN-AEE-000-063-0001_011_P12.dwg",
+      "0354-PLN-AEE-000-063-0001_012_P13.dwg",
+      "0354-PLN-AEE-000-063-0001_013_T01.dwg",
+      "0354-PLN-AEE-000-063-0001_015_H01.dwg",
+      "0354-PLN-AEE-000-063-0001_016_S01.dwg",
+      "0354-PLN-AEE-000-063-0001_017_S02.dwg",
+      "4521-PLN-AEE-75-63-0001_Rev_01_General typical support standard.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 14043773
+  },
+  "processed_at": "2026-06-05T09:12:31.943249+00:00"
+}

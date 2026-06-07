@@ -1,0 +1,35 @@
+{
+  "id": "324cc4b5247bafd1",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/Annex II.II (Summer Discharge).pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 42404,
+  "size_human": "41 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "Annex II.II (Summer Discharge)",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4445,
+  "token_estimate": 1111,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/324cc4b5247bafd1.json",
+  "extracted_path": ".yeyo-memory/extracted/324cc4b5247bafd1.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "",
+      "Creator": "",
+      "Producer": "Qt 4.7.0 (C) 2010 Nokia Corporation and/or its subsidiary(-ies)",
+      "CreationDate": "D:20160505102353"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.092179+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:54.092181+00:00"
+}

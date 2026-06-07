@@ -1,0 +1,39 @@
+{
+  "id": "4d5dbf2b825f091e",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-ANC-00-70-N003.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 1251917,
+  "size_human": "1.2 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-ANC-00-70-N003",
+  "doc_code": "4521-PLN-ANC-00-70-N003",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/4d5dbf2b825f091e.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20130221151422-07'00'",
+      "ModDate": "D:20130221151422-07'00'",
+      "Title": "\\\\GILSOLFN01\\Groups\\AGE\\01 NtP Deliveries\\P&IDs\\P&IDs_FROM AEPC_2013_02_01\\P&IDs Rev FEB-2013\\4521-PLN-ANC-00-70-N003-Rev11 Pre",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "agdamm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.455440+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:55.478024+00:00"
+}

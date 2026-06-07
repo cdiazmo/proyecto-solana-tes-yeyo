@@ -1,0 +1,143 @@
+{
+  "id": "94424d0d688cd95b",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0332.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 245432,
+  "size_human": "240 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-DOT-75-63-0332",
+  "doc_code": "4521-PLN-DOT-75-63-0332",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2416,
+  "token_estimate": 604,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/94424d0d688cd95b.json",
+  "extracted_path": ".yeyo-memory/extracted/94424d0d688cd95b.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20180830133115Z",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20180831121637-05'00'",
+      "Producer": "pdfplot11.hdi 11.0.204.0",
+      "Title": "2"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Soporte de tuberia MS",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.117721+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/LIS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::207",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/LIS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 207,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/LIS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::208",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/LIS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 208,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::207",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 207,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::208",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 208,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::207",
+        "index_path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 207,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::208",
+        "index_path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 208,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/05_Pipe Supports/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::207",
+        "index_path": "12 As Built TES 6/05_Pipe Supports/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 207,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/05_Pipe Supports/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx::Typical Supports::208",
+        "index_path": "12 As Built TES 6/05_Pipe Supports/4521-LIS-AEE-75-63-0001 MS System support list_rev04.xlsx",
+        "index_kind": "support-list",
+        "sheet": "Typical Supports",
+        "row": 208,
+        "doc_code": "4521-PLN-DOT-75-63-0332",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:59.117722+00:00"
+}

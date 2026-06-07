@@ -1,0 +1,38 @@
+{
+  "id": "d4a0f9e29a27ed60",
+  "path": "07 Presentado al Condado/003 Planning distribucion/4521-PLN-AEE-00-00-0100-REV01.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 1119987,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "4521-PLN-AEE-00-00-0100-REV01",
+  "doc_code": "4521-PLN-AEE-00-00-0100",
+  "revision": "REV01",
+  "status": "ok",
+  "text_chars": 5226,
+  "token_estimate": 1306,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/d4a0f9e29a27ed60.json",
+  "extracted_path": ".yeyo-memory/extracted/d4a0f9e29a27ed60.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180404161142-05'00'",
+      "Creator": "AutoCAD 2017 - English 2017 (21.0s (LMS Tech))",
+      "ModDate": "D:20180404161242-05'00'",
+      "Producer": "Acrobat Distiller 18.0 (Windows)",
+      "Title": "S3.2"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.748624+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.748626+00:00"
+}

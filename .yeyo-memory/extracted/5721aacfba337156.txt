@@ -1,0 +1,1374 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: ABEINSA EPC USA
+Project: HEX Replacement
+Document: Control cables list
+Document:
+Review:
+Date:
+Prepared by:
+Manuel Muñoz Arranz
+Reviewed by:
+Jose María Rodríguez León
+Approved by:
+Jose María Rodríguez León
+© This procedure belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express 
+written consent of Abeinsa
+00
+Mar/27/2017
+List
+4521-LIS-AEE-39-70-0016-GAR
+
+[page 2]
+Revision: 00
+Date: Mar/27/2017
+Revision Date Revision Object Prepared Revised Approved
+0 Mar/27/2017 Issue for bid MMA JMRL JMRL
+Edition Sections Status
+ABEINSA 
+ENGINEERING
+Document Code: 4521-LIS-AEE-39-70-0016-GAR
+Control cables list
+Revisions Control Sheet
+Preliminary or pending information
+Concepts
+
+[page 3]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Revision/Date 0 / Mar/27/2017
+Cable length (ft)
+0 PIT-5-255-01
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-01
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-02
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-02 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-02
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-02 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-03
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-03 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +5,-5 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-03
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-03 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-04
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-04 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +7,-7 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-04
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-04 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-05
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-05 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +9,-9 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-05
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-05 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-06
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-06 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +11,-11 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-06
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-06 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +12,-12 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-07
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-07 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +13,-13 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-07
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-07 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +14,-14 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-08
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-08 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +15,-15 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-08
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-08 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +16,-16 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-09
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-09 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +17,-17 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-09
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-09 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +18,-18 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 PIT-5-255-10
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-255-10 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +19,-19 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 TIT-5-255-10
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-255-10 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-620 +20,-20 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 160
+0 IJB-250-A1-620
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-A1-620 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 2 1030
+0 PIT-5-251-20A
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-20A 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-20B
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-20B 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Termination IJB Wiring diagram
+I&C Cable Routing
+Remarks
+Routing
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Project:
+To
+Document: Control cable list 4521-LIS-AEE-39-70-0016-GAR
+Solana power plant
+Rev. Cable Tag Cable type From Layout Drawing
+Drawing
+Location: Gila Bend, AZ
+ABEINSA 
+ENGINEERING
+Conduit
+Conduit
+Conduit
+T-IC01, T-IC05
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Sheet 3 of 10 
+
+[page 4]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Revision/Date 0 / Mar/27/2017
+Cable length (ft)
+Termination IJB Wiring diagram
+I&C Cable Routing
+Remarks
+Routing
+Project:
+To
+Document: Control cable list 4521-LIS-AEE-39-70-0016-GAR
+Solana power plant
+Rev. Cable Tag Cable type From Layout Drawing
+Drawing
+Location: Gila Bend, AZ
+ABEINSA 
+ENGINEERING
+0 PIT-5-251-20C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-20C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-10A
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-10A 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-10B
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-10B 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +5,-5 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-10C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-10C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-39
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-39 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +7,-7 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-40
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-40 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 TIT-5-251-08C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-251-08C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +9,-9 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 TIT-5-251-08D
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-251-08D 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-41
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-41 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +11,-11 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 PIT-5-251-42
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-5-251-42 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +12,-12 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 TIT-5-251-18C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-251-18C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +13,-13 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 TIT-5-251-18D
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-5-251-18D 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-621 +14,-14 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 160
+0 IJB-250-A1-621
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-A1-621 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 3 600
+0 ZS-5-255-15
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-15 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +1,-1; +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-16
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-16 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +3,-3; +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-17
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-17 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +5,-5;+6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-18
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-18 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +7,-7;+8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-19
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-19 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +9,-9;+10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-20
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-20 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +11,-11;+12,-12 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-21
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-21 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +13,-13;+14,-14 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-22
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-22 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +15,-15;+16,-16 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 ZS-5-255-23
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-23 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-610 +17,-17;+18,-18 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 160
+0 IJB-250-D1-610
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-610 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 4 1030 4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+T-IC05
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+T-IC01, T-IC05
+Conduit
+Conduit
+Sheet 4 of 10 
+
+[page 5]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Revision/Date 0 / Mar/27/2017
+Cable length (ft)
+Termination IJB Wiring diagram
+I&C Cable Routing
+Remarks
+Routing
+Project:
+To
+Document: Control cable list 4521-LIS-AEE-39-70-0016-GAR
+Solana power plant
+Rev. Cable Tag Cable type From Layout Drawing
+Drawing
+Location: Gila Bend, AZ
+ABEINSA 
+ENGINEERING
+0 ZS-5-255-24
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-24 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-611 +1,-1; +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 5 160
+0 ZS-5-255-25
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-25 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-611 +3,-3; +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 5 160
+0 ZS-5-255-26
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-26 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-611 +5,-5;+6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 5 160
+0 ZS-5-255-27
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-27 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-611 +7,-7;+8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 5 160
+0 ZS-5-255-28
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-5-255-28 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-611 +9,-9;+10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 5 160
+0 IJB-250-D1-611
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-611 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 5 1030
+0 XV-5-255-15
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-15 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-16
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-16 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-17
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-17 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-18
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-18 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-19
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-19 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +5,-5 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-20
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-20 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-21
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-21 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +7,-7 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-22
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-22 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-23
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-23 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +9,-9 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-24
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-24 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 XV-5-255-25
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-5-255-25 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-612 +11,-11 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 160
+0 IJB-250-D1-612
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-612 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 6 1030
+0 PIT-6-255-01
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-01
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-02
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-02 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-02
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-02 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-03
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-03 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +5,-5 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+T-IC01, T-IC05
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+T-IC01, T-IC05
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Sheet 5 of 10 
+
+[page 6]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Revision/Date 0 / Mar/27/2017
+Cable length (ft)
+Termination IJB Wiring diagram
+I&C Cable Routing
+Remarks
+Routing
+Project:
+To
+Document: Control cable list 4521-LIS-AEE-39-70-0016-GAR
+Solana power plant
+Rev. Cable Tag Cable type From Layout Drawing
+Drawing
+Location: Gila Bend, AZ
+ABEINSA 
+ENGINEERING
+0 TIT-6-255-03
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-03 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-04
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-04 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +7,-7 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-04
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-04 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-05
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-05 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +9,-9 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-05
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-05 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-06
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-06 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +11,-11 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-06
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-06 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +12,-12 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-07
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-07 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +13,-13 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-07
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-07 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +14,-14 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-08
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-08 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +15,-15 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-08
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-08 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +16,-16 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-09
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-09 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +17,-17 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-09
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-09 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +18,-18 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 PIT-6-255-10
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-255-10 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +19,-19 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 TIT-6-255-10
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-255-10 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-622 +20,-20 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 160
+0 IJB-250-A1-622
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-A1-622 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 7 1030
+0 PIT-6-251-20A
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-20A 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-20B
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-20B 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-20C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-20C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-10A
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-10A 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-10B
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-10B 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +5,-5 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-10C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-10C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-39
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-39 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +7,-7 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+T-IC03, T-IC04, T-IC06
+Sheet 6 of 10 
+
+[page 7]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Revision/Date 0 / Mar/27/2017
+Cable length (ft)
+Termination IJB Wiring diagram
+I&C Cable Routing
+Remarks
+Routing
+Project:
+To
+Document: Control cable list 4521-LIS-AEE-39-70-0016-GAR
+Solana power plant
+Rev. Cable Tag Cable type From Layout Drawing
+Drawing
+Location: Gila Bend, AZ
+ABEINSA 
+ENGINEERING
+0 PIT-6-251-40
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-40 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 TIT-6-251-08C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-251-08C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +9,-9 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 TIT-6-251-08D
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-251-08D 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-41
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-42 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +11,-11 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 PIT-6-251-42
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-6-251-42 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +12,-12 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 TIT-6-251-18C
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-251-18C 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +13,-13 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 TIT-6-251-18D
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-6-251-18D 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-623 +14,-14 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 160
+0 IJB-250-A1-623
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-A1-623 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 8 720
+0 ZS-6-255-15
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-15 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +1,-1; +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-16
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-16 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +3,-3; +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-17
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-17 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +5,-5;+6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-18
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-18 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +7,-7;+8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-19
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-19 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +9,-9;+10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-20
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-20 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +11,-11;+12,-12 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-21
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-21 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +13,-13;+14,-14 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-22
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-22 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +15,-15;+16,-16 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 ZS-6-255-23
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-23 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-613 +17,-17;+18,-18 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 160
+0 IJB-250-D1-613
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-613 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 9 1030
+0 ZS-6-255-24
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-24 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-614 +1,-1; +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 10 160
+0 ZS-6-255-25
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-25 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-614 +3,-3; +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 10 160
+0 ZS-6-255-26
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-26 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-614 +5,-5;+6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 10 160
+0 ZS-6-255-27
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-27 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-614 +7,-7;+8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 10 160
+0 ZS-6-255-28
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+XV-6-255-28 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-614 +9,-9;+10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 10 160
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+T-IC04, T-IC06
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+T-IC03, T-IC04, T-IC06
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+Sheet 7 of 10 
+
+[page 8]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Revision/Date 0 / Mar/27/2017
+Cable length (ft)
+Termination IJB Wiring diagram
+I&C Cable Routing
+Remarks
+Routing
+Project:
+To
+Document: Control cable list 4521-LIS-AEE-39-70-0016-GAR
+Solana power plant
+Rev. Cable Tag Cable type From Layout Drawing
+Drawing
+Location: Gila Bend, AZ
+ABEINSA 
+ENGINEERING
+0 IJB-250-D1-614
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-614 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 10 1030
+0 XV-6-255-15
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-15 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-16
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-16 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-17
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-17 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-18
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-18 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-19
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-19 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +5,-5 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-20
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-20 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-21
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-21 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +7,-7 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-22
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-22 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-23
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-23 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +9,-9 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-24
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-24 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +10,-10 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 XV-6-255-25
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-6-255-25 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-615 +11,-11 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 160
+0 IJB-250-D1-615
+24PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-615 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 11 1030
+0 XV-3-257-13
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-3-257-13 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-616 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 12 160
+0 XV-3-257-14
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-3-257-14 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-616 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 12 160
+0 XV-3-257-15
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+XV-3-257-15 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-616 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 12 160
+0 IJB-250-D1-616
+12PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-616 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 12 1180
+0 PIT-3-257-01
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-3-257-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-624 +1,-1 4521-PLN-AEE-39-70-0002-
+GAR Sheet 13 160
+0 TIT-3-257-01
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+TIT-3-257-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-624 +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 13 160
+0 LIT-3-257-01
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+LIT-3-257-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-624 +3,-3 4521-PLN-AEE-39-70-0002-
+GAR Sheet 13 160
+0 PIT-3-257-02
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+PIT-3-257-02 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-624 +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 13 160
+0 LV-5-257-01
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+PV-6-257-01 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-624 +5,-5;+6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 13 160
+0 LV-6-257-01
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+PV-6-257-03 4521-PLN-AGE-39-72-0013-GAR IJB-250-A1-624 +7,-7;+8,-8 4521-PLN-AEE-39-70-0002-
+GAR Sheet 13 160
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+T-IC02, T-IC03, T-IC04, T-IC06
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit
+Conduit
+Conduit
+T-IC03, T-IC04, T-IC06
+Conduit
+Conduit
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+T-IC03, T-IC04, T-IC06
+Conduit
+Conduit
+Conduit
+Conduit
+Sheet 8 of 10 
+
+[page 9]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Revision/Date 0 / Mar/27/2017
+Cable length (ft)
+Termination IJB Wiring diagram
+I&C Cable Routing
+Remarks
+Routing
+Project:
+To
+Document: Control cable list 4521-LIS-AEE-39-70-0016-GAR
+Solana power plant
+Rev. Cable Tag Cable type From Layout Drawing
+Drawing
+Location: Gila Bend, AZ
+ABEINSA 
+ENGINEERING
+0 IJB-250-A1-624
+12PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-A1-624 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 13 1180
+0 ZS-3-257-13
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+ZS-3-257-13 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-617 +1,-1; +2,-2 4521-PLN-AEE-39-70-0002-
+GAR Sheet 14 160
+0 ZS-3-257-14
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+ZS-3-257-14 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-617 +3,-3; +4,-4 4521-PLN-AEE-39-70-0002-
+GAR Sheet 14 160
+0 ZS-3-257-15
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+ZS-3-257-15 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-617 +5,-5;+6,-6 4521-PLN-AEE-39-70-0002-
+GAR Sheet 14 160
+0 FSL-3-257-1
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+FIG-3-257-1 4521-PLN-AGE-39-72-0013-GAR IJB-250-D1-617 +7,-7 4521-PLN-AEE-39-70-0002-
+GAR Sheet 14 160
+0 IJB-250-D1-617
+12PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+IJB-250-D1-617 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - 4521-PLN-AEE-39-70-0002-
+GAR Sheet 14 1180
+0 3-MP-258-1
+2PR / #16AWG + SH + OVERALL,
+Insulation voltage 300 V, 
+type ITC, sunlight resistant
+Elect build 32
+CCM 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - - 160
+0 3-MP-258-2
+1PR / #16AWG+SH,
+Insulation voltage 300 V,
+type ITC, sunlight resistant
+Elect build 32
+CCM 4521-PLN-AGE-39-72-0013-GAR Elect build 32
+Controller R-32-2012 - - 160
+T-IC02, T-IC03, T-IC04, T-IC06
+Inside electrical building
+Inside electrical building
+4521-PLN-AEE-39-70-0001-GAR
+Conduit
+Conduit 4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+4521-PLN-AEE-39-70-0001-GAR
+Start/stop order at electrical cabinet
+Reverse detection
+Conduit
+Conduit
+T-IC02, T-IC03, T-IC04, T-IC06
+Sheet 9 of 10 
+
+[page 10]
+Approved JMRL
+Checked JMRL
+Designed MMA
+Rev./Date 0 / Mar/27/2017
+Rev. Cable Type Cond.xSec. nº Cables Connections Total (feet) Data Sheet
+0 1PR / #16AWG+SH 300V 1/PR #16 AWG 99 198 15840 4521-ESP-AGE-00-35-0001
+0 2PR / #16AWG + SH + OVERALL 300V 2/PR #16 AWG 34 136 5440 4521-ESP-AGE-00-35-0001
+0 24PR / #16AWG + SH + OVERALL 300V 24/PR #16 AWG 10 480 9560 4521-ESP-AGE-00-35-0001
+0 12PR / #16AWG + SH + OVERALL 300V 12/PR #16 AWG 3 72 3540 4521-ESP-AGE-00-35-0001
+(1) To be defined
+ABEINSA ENGINEERING
+ABENER TEYMA
+SOLANA
+Document: Control Cable list. HEX Replacement 4521-LIS-AEE-39-70-0016-GAR
+Project: Solana power plant
+Location: Gila Bend, AZ
+Sheet 10 of 10

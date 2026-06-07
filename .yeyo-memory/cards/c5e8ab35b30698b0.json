@@ -1,0 +1,31 @@
+{
+  "id": "c5e8ab35b30698b0",
+  "path": "04 GD Fabricacon LOI TES 3/Plan calidad y ITP/1950201-PPC-001_Rev00.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 254025,
+  "size_human": "248 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PPC-001 Rev00",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11021,
+  "token_estimate": 2755,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/c5e8ab35b30698b0.json",
+  "extracted_path": ".yeyo-memory/extracted/c5e8ab35b30698b0.txt",
+  "metadata": {
+    "pages": 11,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20191209153508+01'00'",
+      "Creator": "Adobe Acrobat Pro 2017 17.11.30152",
+      "ModDate": "D:20191209153508+01'00'",
+      "Producer": "Adobe Acrobat Pro 2017 17.11.30152",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:32.059027+00:00"
+}

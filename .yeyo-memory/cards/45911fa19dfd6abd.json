@@ -1,0 +1,107 @@
+{
+  "id": "45911fa19dfd6abd",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AEE-27-31-0001-GAR_R00_New Consumer Layout.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 8160672,
+  "size_human": "7.8 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AEE-27-31-0001-GAR R00 New Consumer Layout",
+  "doc_code": "4521-PLN-AEE-27-31-0001",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 71,
+  "token_estimate": 17,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/45911fa19dfd6abd.json",
+  "extracted_path": ".yeyo-memory/extracted/45911fa19dfd6abd.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-PLN-AEE-27-31-0001-GAR_R00.dwg",
+      "4521-PLN-AEE-27-31-0001-GAR_R00.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 10813101,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::42",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 42,
+        "doc_code": "4521-PLN-AEE-27-31-0001-GAR",
+        "title": "Cable electrical routing",
+        "revision": "",
+        "status": "",
+        "date": "2017-02-07 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::36",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 36,
+        "doc_code": "4521-PLN-AEE-27-31-0001-GAR-R00-New Consumer Layout",
+        "title": "",
+        "revision": "4521-PLN-AEE-27-31-0001-GAR_R00_New Consumer Layout",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::42",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 42,
+        "doc_code": "4521-PLN-AEE-27-31-0001-GAR",
+        "title": "Cable electrical routing",
+        "revision": "",
+        "status": "",
+        "date": "2017-02-07 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::36",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 36,
+        "doc_code": "4521-PLN-AEE-27-31-0001-GAR",
+        "title": "New Consumer Layout",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "ELE"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::36",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 36,
+        "doc_code": "4521-PLN-AEE-27-31-0001-GAR-R00-New Consumer Layout",
+        "title": "",
+        "revision": "4521-PLN-AEE-27-31-0001-GAR_R00_New Consumer Layout",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::36",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 36,
+        "doc_code": "4521-PLN-AEE-27-31-0001-GAR-R00-New Consumer Layout",
+        "title": "",
+        "revision": "4521-PLN-AEE-27-31-0001-GAR_R00_New Consumer Layout",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:58.371851+00:00"
+}

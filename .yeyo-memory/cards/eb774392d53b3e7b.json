@@ -1,0 +1,30 @@
+{
+  "id": "eb774392d53b3e7b",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS93.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 115380,
+  "size_human": "113 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS93",
+  "doc_code": "4521-ESP-ANC-68-61-CS93",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5452,
+  "token_estimate": 1363,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/eb774392d53b3e7b.json",
+  "extracted_path": ".yeyo-memory/extracted/eb774392d53b3e7b.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20101118125635",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-CS93 - Full Vacuum 150 CS"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:37.965831+00:00"
+}

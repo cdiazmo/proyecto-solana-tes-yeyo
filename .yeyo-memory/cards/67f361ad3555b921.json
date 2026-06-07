@@ -1,0 +1,39 @@
+{
+  "id": "67f361ad3555b921",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-64-0001_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 126871,
+  "size_human": "124 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-74-64-0001 R1",
+  "doc_code": "4521-ESP-AGE-74-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 73828,
+  "token_estimate": 18457,
+  "chunks": 47,
+  "card_path": ".yeyo-memory/cards/67f361ad3555b921.json",
+  "extracted_path": ".yeyo-memory/extracted/67f361ad3555b921.txt",
+  "metadata": {
+    "pages": 21,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120619112022-05'00'",
+      "ModDate": "D:20120619112022-05'00'",
+      "Title": "4521-ESP-AGE-74-64-0001 Gate control valves Specifications",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:56.982133+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:56.982135+00:00"
+}

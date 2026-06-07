@@ -1,0 +1,33 @@
+{
+  "id": "8ad8694865601082",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/TMT-DOT-0022 - RFI-015 Remaining Suports Transmittal 12-5-2018.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 28751,
+  "size_human": "28 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "TMT-DOT-0022 - RFI-015 Remaining Suports Transmittal 12-5-2018",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1376,
+  "token_estimate": 344,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/8ad8694865601082.json",
+  "extracted_path": ".yeyo-memory/extracted/8ad8694865601082.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "PDFCreator 2.5.1.5",
+      "CreationDate": "D:20181205090940-07'00'",
+      "ModDate": "D:20181205090940-07'00'",
+      "Title": "4521-TMT-DOT-0022",
+      "Author": "aybj",
+      "Subject": "TMT-DOT-0022 - RFI-015 Remaining Suports Transmittal 12-5-2018",
+      "Keywords": "",
+      "Creator": "PDFCreator 2.5.1.5"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:22:33.925322+00:00"
+}

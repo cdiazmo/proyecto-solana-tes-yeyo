@@ -1,0 +1,87 @@
+{
+  "id": "9114c20d0b9066ab",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-58-61-PS002.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 133874,
+  "size_human": "131 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-ESP-ANC-58-61-PS002",
+  "doc_code": "4521-ESP-ANC-58-61-PS002",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 21564,
+  "token_estimate": 5391,
+  "chunks": 14,
+  "card_path": ".yeyo-memory/cards/9114c20d0b9066ab.json",
+  "extracted_path": ".yeyo-memory/extracted/9114c20d0b9066ab.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120418125521-05'00'",
+      "ModDate": "D:20120418125521-05'00'",
+      "Title": "4521-ESP-ANC-58-61-PS002",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgbsch",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::126",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 126,
+        "doc_code": "4521-ESP-ANC-58-61-PS002 (Engineering Standards and Practices Material and Installation Standards HTF Area Piping Installation Subcontract)",
+        "title": "",
+        "revision": "4521-ESP-ANC-58-61-PS002 (Engineering Standards and Practices Material and Installation Standards HTF Area Piping Installation Subcontract)",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::102",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 102,
+        "doc_code": "4521-ESP-ANC-58-61-PS002 - Engineering Standards and Practices Material and Installation Standards HTF Area Piping Installation Subcontract",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::152",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 152,
+        "doc_code": "4521-ESP-ANC-58-61-PS002 - Engineering Standards and Practices Material and Installation Standards HTF Area Piping Installation Subcontract",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::145",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 145,
+        "doc_code": "4521-ESP-ANC-58-61-PS002 - Engineering Standards and Practices Material and Installation Standards HTF Area Piping Installation Subcontract",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:24:04.811182+00:00"
+}

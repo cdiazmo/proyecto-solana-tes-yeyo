@@ -1,0 +1,30 @@
+{
+  "id": "8d0f5ad66cbf4715",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-PL34.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 103867,
+  "size_human": "101 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-PL34",
+  "doc_code": "4521-ESP-ANC-68-61-PL34",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3618,
+  "token_estimate": 904,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/8d0f5ad66cbf4715.json",
+  "extracted_path": ".yeyo-memory/extracted/8d0f5ad66cbf4715.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20101118125536",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-PL34 - Fiberglass"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.422006+00:00"
+}

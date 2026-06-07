@@ -1,0 +1,1281 @@
+[page 1]
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ 
+ 
+Title 
+Ultrasonic Examination Procedure 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-INS-LOI-039-062-0007-GAR 
+Supplier Code: 1950101-PUS-001 
+Revision: 00 
+Date: 30/10/2017 
+ 
+Prepared by: 
+ Eneko Lerma Maldonado 
+ 
+ 
+Reviewed by: 
+Eneko Lerma Maldonado 
+ 
+ 
+Approved by: 
+Jon Baranda Merino 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Document: 4521-INS-LOI-039-062-0007-GAR 
+ 
+Revision: 00 Date: 30/10/2017 
+Page: 2 of 2 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 30/10/2017 Initial issue E.L.M. E.L.M. J.B.M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+1/16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Rev. & Aprov. 
+Rev. & Aprob. 
+Aproved 
+Aprobado 
+LEVEL III 
+00 30/10/17 INITIAL ISSUED E.L.M E.L.M J.B.M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+2/16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+1.0. OBJECT 
+2.0. SCOPE 
+3.0. CODES 
+4.0. RESPONSIBILITIES AND AUTHORITY 
+5.0. EQUIPMENT 
+6.0. SURFACE PREPARATION 
+7.0. ULTRASONIC EQUI PMENT CALIBRATION 
+8.0. CALIBRATION 
+9.0. EXAMINATION 
+10.0. ACCEPT/REJECT CRITERIA 
+11.0. FINAL REPORT 
+APPENDIX 1: FIGURES/ BLOCK CALIBRATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 5]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+3/16 
+ 
+ 
+ 
+1.0 OBJECT 
+ 
+This procedure provides general requirem ents for ultrasounds inspection of full 
+penetration welds of materials with thickness bigger than 8 mm. 
+ 
+ 
+2.0 SCOPE 
+ 
+As specified in the particular Inspection Program of the component. 
+ 
+ 
+3.0 CODES 
+ 
+ASME Code, Section V – Non Destructive Examination (2015 Edition). 
+ASME Code, Section VIII Div 1 y 2 – Pressure Vessels (2015 Edition). 
+ASME Section I, Power Boilers (2015 Edition). 
+ASME B 31.1 Power Piping (2014 Edition) 
+WRITTEN PRACTICE ASME. QCM.PR05 
+SNT-TC-1A (2006 Edition) 
+ 
+4.0 RESPONSIBILITIES AND AUTHORITY 
+ 
+4.1.0 QUALITY MANAGER 
+ 
+He has the authority to det ermine the items that must be checked using this 
+procedure. 
+ 
+4.2.0 QUALIFIED PERSONNEL 
+ 
+The personnel who will perform the ultras onic examinations must be qualified 
+according to Lointek S.L. Written Practi ce ASME.QCM.PR05. In those cases where 
+the tests are required to meet the EC Pressure Equi pment Directive, personnel 
+must be qualified as per ISO 9712/2012 (EN-473) specifies. 
+ 
+It will also be valid that the subcontractor will be certified according to their own 
+written practice. If the subcontractor's written practice is approved by the QC 
+Manager. 
+ 
+ 
+The results must be interpreted by a Level II or III qualified and certified personnel. 
+ 
+A Change of a requirement in Table 1 (attac hed) identified as an essential variable 
+shall require requalification of the written procedure by demonstration. 
+ 
+All changes off essential or non essential va riables from those specified within this 
+written procedure shall require revision of the written procedure. 
+
+[page 6]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+4/16 
+ 
+ 
+ 
+5.0 EQUIPMENT 
+ 
+5.1.0 ULTRASONIC EXAM INATION EQUIPMENT 
+ 
+This examination shall be conducted wit h a pulse-echo ultrasonic examination 
+equipment capable of operation at frequencies over the range of at least 1 MHz to 5 
+MHz. The equipment will have a control that allows to vary the sensibility of the 
+exam in steps of 1 or 2 dB. 
+ 
+5.2.0 SEARCH UNITS 
+ 
+The transducers will be strai ght beam transducers or angl e beam transducers. The 
+testing frequencies will be between 1 and 5 Mhz. The angles of the transducers will 
+be between 45º and 70º depending on the thickness. 
+ 
+5.3.0 CABLES 
+ 
+The cables will be coaxial type from 70 to 75 Ω of characteristic impedance. 
+ 
+5.4.0 COUPLANT 
+ 
+The couplant used must assure the qua lity of the exami nation and not be 
+aggressive with the surface of the piece. 
+ 
+The same type of couplant will be used during calibration and examination. 
+ 
+5.5.0 CALIBRATION BLOCKS 
+ 
+5.5.1 Calibration in distances 
+ 
+For the calibration in distances and to det ermine the actual exit point of the 
+ultrasonic beam and actual angl e of the transducer, it will be used the blocks V1 
+and/or 2 of the IIW. (Figure 1B App.1) 
+ 
+5.5.2 Calibration in sensitivity 
+ 
+5.5.2.1 Similar and Dissimilar Metal Welds. 
+ 
+For the calibration in sens itivity it will be used a blo ck with holes and drills whose 
+disposition and dimensions are the indicated in the Figure 1A (See to Appendix 1) 
+ 
+The material to build the block has to be produced by the same method according 
+to the same specification or equivalent group of No. P that the material to test For 
+this purpose the materials P-No. 1, 3, 4, 5A through 5C, and 15A through 15F are 
+considered equivalent. For calibration blocks of welds between dissimilar materials, 
+the selection shall be based on the material side where the examination shall be 
+performed. If the examination is performed from both sides, the calibration reflectors 
+will be performed in both materials. For welds between two or more different 
+thickness, the thickness of calibration block shall be determined by the medium 
+thickness of the weld. 
+ 
+
+[page 7]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+5/16 
+ 
+ 
+ 
+The heat treatment of the calibration block shall be at least the minimum 
+tempering requested by the material specification for the type and grade. 
+ 
+5.5.2.2 Cladding 
+ 
+When the component to be examined is cladded, the material to fabricate the 
+block shall be from one of the following: 
+ 
+ Nozzle dropout from component 
+ A component prolongation 
+ The same material specification, product form and heat treatment. 
+ 
+The block shall be cladded by the same met hod as used to clad the component to 
+be examined. Where the machine method is impracticable, the deposition of clad 
+may be by the manual method. 
+If the block contains welds others than cladding, and the component weld at 
+the time of the examination has been heat treatment , shall receive the same 
+heat treatment. 
+ 
+5.5.2.3 General 
+ 
+The finishing of the calibration block su rfaces shall be representative of the 
+superficial finishing of the component to be examined. 
+ 
+Before the block manufacturing, the ma terial shall be examined at 100% with 
+straight beam transducer and the zones c ontaining indications exceeding of the 
+remaining reflection echo of the opposite surface will be excluded. 
+ 
+The configuration of the calibration block and dimensions will be the indicated in 
+Figure 1A , with the following particularities: 
+ 
+For components whose diameter of the examination surface is higher than 500 mm, 
+the calibration block may be plane or with curvature equal or approximate to the 
+component curvature. 
+ 
+For components with diameter of 500 mm or less a curved block shall be used. In 
+the way that the curvature shape of t he component to be examined is inside the 
+range from 0,9 to 1,5 times the diameter of the calibration block. 
+ 
+ 
+6.0 SURFACE PREPARATION 
+ 
+6.1.0 BASE MATERIAL 
+ 
+The base material on each side of the weld shall be free of weld spatter, surface 
+irregularities or foreign material that might interfere with the examination. 
+ 
+ 
+ 
+ 
+ 
+
+[page 8]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+6/16 
+ 
+ 
+ 
+6.2.0 WELD MATERIAL 
+ 
+Where the weld surface finishing does not allow a correct examination, the weld 
+shall be prepared as needed to permit exam ination. It can be necessary the 
+grinding of the weld overthickness. 
+ 
+6.3.0 TEMPERATURE 
+ 
+For contact examination, t he temperature differential bet ween the calibration block 
+and the examination block and examination surfaces shall be within 25ºF (14ºC). 
+ 
+7.0 ULTRASONIC EQUIPMENT CALIBRATION 
+ 
+The ultrasonic equipment shall be calibrated at least once a year or prior to first use. 
+ 
+The calibration will be made to check: 
+ 
+• Screen height linearity according to ASME V 2015 Art.4 Appendix. I 
+ 
+• Amplitude control Linearity according to ASME V 2015 Art.4 Appendix.II. 
+ 
+ 
+8.0 CALIBRATION 
+ 
+8.1.0 STRAIGHT BEAM CALIBRATION 
+ 
+8.1.1 Calibration in distance 
+ 
+The time base will be adjusted by the calibrati on block indicated in figure 1B (IIW: 
+V1/V2). 
+ 
+8.1.2 Calibration in sensitivity (DAC) 
+ 
+For the calibration in sensitiv ity and in order to obtain t he amplitude distance curve 
+(DAC), wil be used the basic calibration block (Figure 1A). 
+ 
+Calibration will be performed as follows: 
+ 
+Position the search unit for the maximum i ndication from the 1/4T SDH (side drilled 
+hole), wich gives the highest indication. Adju st the gain control to 80% ±5% of full 
+screen height (FSH). This is the primary reference level. 
+The search unit shall then be manipulated, without changing instrument settings, to 
+obtain the maximum responses from the other holes (1/2T and 3/4T) to generate a 
+distance-amplitude curve.This is the curve reference. (DAC) 
+ 
+ 
+ 
+ 
+ 
+
+[page 9]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+7/16 
+ 
+8.2.0 ANGLE BEAM CALIBRATIONS 
+ 
+8.2.1 Calibration in distance 
+ 
+The time base will be adjusted by the calibrati on block indicated in figure 1B (IIW: 
+V1/V2). 
+ 
+ 
+8.2.2 Calibration in sensitivity (DAC) 
+ 
+For the calibration in sensitivity and in or der to obtain the amplitude distance curve 
+(DAC), wil be used the basic calibration block (Figure 1A). 
+ 
+Calibration will be performed as follows: 
+ 
+Position the search unit for the maximum i ndication from the 1/4T SDH (side drilled 
+hole), wich gives the highest indication. Adju st the gain control to 80% ±5% of full 
+screen height (FSH). This is the primary reference level. 
+The search unit shall then be manipulated, without changing instrument settings, to 
+obtain the maximum responses from the other holes (1/2T and 3/4T ) to generate a 
+distance-amplitude curve.This is the curve reference. (DAC) 
+ 
+No point on the DAC curve shall be le ss than 20% of full screen height. When any 
+portion of the DAC curve will be fall below 20% FSH , a split DAC shall be used, 
+The first calibration on th second DAC shall start at 80% ±5% FSH. 
+ 
+ 
+8.3.0 CALIBRATION FREQUENCY 
+ 
+The calibration in distances and sensibilities will be performed: 
+- At the beginning of the examination. 
+- When there is a change in the transducers, wire or equipment. 
+- When some of these variables change: type of material and/or thickness. 
+The calibration will be checked: 
+- At-the end of each test or sequence of similar tests. 
+- Every four examination hours. 
+- When the operator changes. 
+- Always that it is suspected that it is not correctly calibrated. 
+ 
+This checking of the calibration shall be per formed on, at least, one of the reflectors 
+of the calibration block. 
+ 
+In the cases of some point of distance- amplitude curve (DAC) has diminished more 
+than 20% or 2 dB, all the ex amination performed since the checking or previous 
+calibration will be considered as null, they must be repeated with a new calibration. 
+
+[page 10]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+8/16 
+ 
+ 
+If the point of the curve (DAC) has incr eased more than 20% or 2 dB the recorded 
+indications since the checking or previous calibration will be cancelled, re-examined 
+and recorded according to a new calibration. 
+ 
+If a point of the curve (DAC) has changed mo re than 10% in the base line of times, 
+the calibration will be corrected. In case of noting some indication in the record 
+sheets, these will be cancelled and the record will be repeated after the re-
+examination with the new calibration. 
+ 
+ 
+9.0 EXAMINATION 
+ 
+9.1.0 GENERAL 
+ 
+The moving speed of the transducer shall not be higher than 150 mm/sec. 
+ 
+Each pass of the transducer shall overlap a minimum of 10% of the dimension of 
+the active element perpendicular to the direction of seam. 
+ 
+The evaluation and record shall be performed according to the primary reference 
+level. 
+ 
+The exploration will be performed as a minimum of 6 dB higher than the reference 
+level gain setting. 
+ 
+When reflector signal-to-noise ratio precludes effective indicator evaluation and 
+characterization, a split DAC should not to be used. 
+ 
+When this procedure is used to qualify a welder, the method will be according to the 
+standard QW-191.2. 
+ 
+ 
+9.2.0 STRAIGHT BEAM EXAMINATION 
+ 
+Independently of the weld ex amination, it will be perfo rmed an exploration with 
+straight beam of all the adjacent base material, in order to detect reflectors that 
+could affect the interpretation of angle beam results. The location and areas of 
+these reflectors will be registered, but not used as acceptance or rejection. 
+ 
+The welds in angle (Figure 3), whose surface S3 will be accessible and will be 
+examined with normal transducer. 
+ 
+ 
+9.3.0 ANGLE BEAM EXAMINATION 
+ 
+The volume to examine will be the correspondi ng to the weld plus 12 mm to each 
+side. 
+ 
+
+[page 11]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+9/16 
+ 
+The examination will be perform ed in two directions that permit the reflectors 
+detection with parallel and transverse direction to the weld, and two senses for each 
+direction when it will be possible. 
+ 
+The angle of the transducer will be determined by the exam ination direction, as 
+established in the following paragr aphs and depending on the geometry and 
+dimensions of the weld, as indicated in the Figures 2 and 3. 
+ 
+ 
+Preferably the maximum dimensions of transducer will be used, whenever they will 
+be compatible with a good coup ling and that permit to use the same angle that if 
+they would be of smaller dimension based on the priorities established in the 
+corresponding figure. 
+ 
+ 
+9.3.1 PARALLEL EXPLORATION TO THE WELD 
+ 
+For the reflectors detection with transverse direction to the weld. 
+The angle beam shall be directed essentially parallel to the weld axis. The search 
+unit shall be manipulated so that the angle beam passes through the required 
+volumes of weld and adjacent base meta l specified by the referencing Code 
+Section. The scanning shall be performed at a gain setting at least two times the 
+primary reference level. Evaluation sha ll be performed with res pect to the primary 
+reference level. The search unit sha ll be rotated 180 deg. and the examination 
+repeated. 
+ 
+ 
+9.3.2 PERPENDICULAR EXPLORATION TO THE WELD 
+ 
+For the reflectors detection with parallel direction to the weld. 
+The angle beam shall be directed at approximat e right angles to the weld axis from 
+two directions where possible. The sear ch until shall be manipulated so that the 
+ultrasonic energy passes through the required volumes of weld and 
+adjacent base metal. The scanning shall be performed at a gain setting at least two 
+times the primary reference level. Evaluat ion shall be performed with respect to the 
+primary reference level. 
+ 
+ 
+10.0 ACCEPT / REJECT CRITERIA 
+ 
+All the discontinuities that produce a greater extent of the 20% of the reference level 
+will be investigated by the operator with the purpose of determining the form, 
+identity and location of such discontinuities to make the evaluation according to the 
+established criteria. 
+They will be unacceptable the following discontinuities : 
+- All those which will be interpreted as cracks, lack of fusion or incomplete 
+breakthrough, i ndependently of the length and extent. 
+- All the other types of linear discont inuities whose extent exceed of the 
+reference level and their length exceed of: 
+ 
+• 6 mm for thickness (t) up to 19 mm. 
+• 1/3t for 19 < t < 57 
+
+[page 12]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+10/16 
+ 
+• 19mm for t > 57 mm. 
+ 
+In the case of different thickness weld s the considered thickness will be the smaller 
+of them. 
+ 
+The acceptance criteria for welders or we lding operators who qua lify on test welds, 
+must be according to QW-191.2.3. 
+ 
+The acceptance criteria for welders or welding operators who qualify on production 
+welds, must be according to QW-191.2.4. 
+ 
+ 
+11.0 FINAL REPORT 
+ 
+The result of the exam will be documented with the co rresponding report that will 
+include as minimum the following data: 
+ 
+ Job number 
+ 
+ Drawings 
+ 
+ Description of the piece or volume scanned 
+ 
+ Equipment and products 
+ 
+ Ultrasonic instrument identification (i ncluding manufacturer´s serial number). 
+ 
+ Search unit identification (including m anufacturer´s serial number, frecuency, 
+and size) 
+ 
+ Beam angles used 
+ 
+ Couplant used, brand name or type 
+ 
+ Search unit cable used, type and length 
+ 
+ Special equipment when used 
+ 
+ Procedure and revision 
+ 
+ NDE operator qualifications 
+ 
+ Map or record of indications 
+ 
+ Material and thickness 
+ 
+ Calibration Block Identification 
+ 
+ Date of examination 
+ 
+ Evaluation 
+ 
+ Acceptance criteria 
+ 
+Beside this, all the reflectors that produc e a response equal to or greater than 50% 
+of the reference level must to be recor ded. This record shall include: position, 
+response level, size, depth and evaluation. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 13]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+11/16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX 1 
+ 
+(FIGURES/ BLOCK CALIBRATION) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 14]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+12/16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1A 
+
+[page 15]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+13/16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE 1B (IIW BLOCK) 
+
+[page 16]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+14/16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 17]
+ 
+ 
+ 
+ULTRASONIC EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PUS-01 
+ 
+DATE: 30.10.17 Pag 
+15/16 
+ 
+ 
+ 
+ 
+ 
+
+[page 18]
+ 
+ 
+ 
+ULTRASONIC TESTING PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+06 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PUS-01 
+ 
+DATE: 14.06.17 Pag 
+16/16 
+ 
+ 
+Table:1 REQUIREMENTS OF AN ULTRASONIC EXAMINATION PROCEDURE/ 
+REQUISITOS DE PROCEDIMIENTO DE EXAMEN DE ULTRASONIDOS 
+R E Q U I R E M E N T / REQUISITO ESSENTIAL 
+Variable 
+NONESSENTIAL 
+variable 
+PARAGRAPH 
+ 
+Weld Configuration to be examined, including thickness dimensions and base material product form (pipe, plate, etc.) 
+Configuración de soldadura a examiner, incluyendo espesor, dimensiones y forma producto de material base (tubería, chapa, etc) X X 9 
+Personnel qualification requirements 
+Re
+quisitos de homologación de personal X 4.2.0 
+Personnel performance requirements, when required 
+Requisitos de ejecución del personal, si se requiere X NA 
+The surfaces from which the examination shall be performed 
+Las superficies desde las que se realizará el examen X 9 
+Surface condition (examination surface, calibration block) 
+Condición de la superficie (superficie de examen, bloque de calibración) X 6 
+Couplant : brand name or type 
+Aco
+ple: marca o tipo X 5.4.0 
+Technique(s) (straight beam, angle beam, contact, and/or inmersion) 
+Técnica(s) (haz recto, haz angular, contacto, y/o inmersión) X 9 
+Angle(s) and mode(s) of wave propagation in the material 
+Angulo(s) y modo(s) de propagación de onda en el material X 9 and 5 
+Search unit type(s), frequency(ies), and element size(s)/shape(s) 
+Tipo(s) de palpador, frecuencia(s), y tamaño(s)/forma(s) del element X 5 
+Special search units, wedges, shoes, or saddles, when used 
+Palpadores especiales, wedges, zapatas o asientos, si se usan X NA 
+Ultrasonic instrument(s) 
+Instrumento(s) de ultrasonidos X 5 
+Calibration [calibration block(s) and technique(s)] 
+Calibración [bloque(s) de calibración y técnica(s)] X 7 & 8 
+Directions and extent of scanning 
+Direcciones y alcance de la exploración X 9 
+Automatic alarm and/or recording equipment, when applicable 
+Alarma automatica y/o equipo de registro, si es applicable X NA 
+Scanning (manual vs. automatic) 
+Exploración (manual vs automática) X 9 
+Method of discriminating geometric from flaw indications 
+Método de discriminación geométrica a partir de indicaciones de defecto X 10 
+Method for sizing indications 
+Método para dimensionar indicaciones X 10 
+Computer enhanced data adquisition, when used 
+Adquisición de datos ligados al ordenador, si se usa X NA 
+Records, including minimum calibration data to be recorded (e.g., instrument settings) 
+Registros, incluyendo datos mínimos de calibración a registrar (p.ej. ajustes de instrumento) X 11 
+Scan overlap (decrease only) 
+Solape de exploración (solo descenso) X 9 
+ 
+
+[page 19]
+FIT-PUS-03 
+INFORME DE INSPECCIÓN POR ULTRASONIDOS 
+ 
+ULTRASONIC EXAMINATION REPORT 
+ 
+Nº Informe 
+Report No 
+ 
+ 
+Cliente 
+Customer Proyecto 
+Project Obra 
+Contract. 
+Plano Nº 
+Dwg No: Proc.Ensayo 
+Ex.Procedure 
+ITEM/Unidad 
+Item/Unit 
+ 
+ 
+Norma 
+Code Nivel / Criterio Aceptación 
+Acceptance Critena / Level Pagina 
+Page 
+Descripción de la Zona Examinada 
+Description of the examined area 
+% Examen 
+% Exam Material 
+Material Espesor 
+Thickness Trat.Térmico 
+Heat treatment 
+  Sin TT/Not HT 
+  Antes/Before 
+  Despues/After
+Estado Superficial 
+Surface Condition  Bruto/As made  Amolado/Grinded  Mecanizado/ Machined 
+ X Uniones Soldadas / Welded Joints: 
+ According To Welding Map. 
+ Chapas 
+ Plates 
+ Piezas forjadas 
+ Forging 
+ Otros 
+ Other 
+ 
+Equipo de Ensayo 
+Inspection Equipment
+EQUIPO / MODELO 
+Equipment / Model IDENT. INTERNA 
+Internal Ident. 
+MEDIO 
+ACOPLANTE 
+Coupler 
+COLA CELULOSICA 
+Cellulose glue 
+BLOQUE DE CALIBRACION 
+Calibration Block V1 y B.B.C 
+TIPO CABLE Y LONGITUD / Cable Type & lenght : 
+TIPO DE PALPADOR 
+Transducer Type 
+ANGULO (º) 
+Angle
+DIAMETRO (mm) 
+Diameter
+FRECUENCIA (MHz) 
+Frecuency 
+ 
+ 
+ 
+ 
+Calibración del Equipo 
+Equipment Calibration
+TIPO DE PALPADOR 
+Transducer Type 
+REFLECTOR. CALIBRA (mm)
+Calibrat. Reflector
+SEN. MAX. (%) 
+Max. Sensibility 
+CAMPO DE AJUSTE (mm) 
+Range 
+GANANCIA (dB)
+Gain 
+ 
+ 
+ 
+ 
+Identificación 
+Identification 
+ 
+ 
+ 
+ 
+Observaciones/ Comments 
+ 
+ 
+ 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted
+ RECHAZADO 
+Rejected 
+ 
+INSPECTOR / NIVEL 
+Inspector / Level 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+REVISADO / NIVEL 
+Reviewed / Level
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ 
+
+[page 20]
+FIT-PUS-03 
+ 
+INFORME DE INSPECCIÓN POR ULTRASONIDOS 
+ 
+ULTRASONIC EXAMINATION REPORT 
+ 
+Nº Informe 
+Report No 
+ 
+ 
+Cliente 
+Customer Proyecto 
+Project Obra 
+Contract. 
+Plano Nº 
+Dwg No: Proc.Ensayo 
+Ex.Procedure 
+ITEM/Unidad 
+Item/Unit 
+ 
+ 
+Norma 
+Code Nivel / Criterio Aceptación 
+Acceptance Critena / Level Pagina 
+Page 
+Croquis de la situación de las indicaciones registrables y/o observaciones 
+Sketch of recordable indications situation and/or comments
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indicaciones Observadas 
+Observed Indications
+Nº de Identificacion 
+Identification Nº 1 2 3 4 5 6 7 8 9 10 
+Posición Palpador 
+Probe Position 
+Tipo de Defecto 
+Type of defect 
+Dist. al origen (mm) 
+Distance ref. point 
+Long. Defecto (mm) 
+Defect length 
+Profundidad (mm) 
+Depth 
+Eco del Defecto 
+Defect echo 
+Eco de Fondo 
+Back echo 
+Aceptado/Rechazado 
+Accepted / Rejected 
+La evaluación ha sido realizada de acuerdo con el procedimiento indicado 
+The evaluation has been performed in accordance with indicated procedure 
+RESULTADO 
+Results 
+ACEPTADO 
+Accepted
+ RECHAZADO 
+Rejected 
+ 
+INSPECTOR / NIVEL 
+Inspector / Level 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+REVISADO / NIVEL 
+Reviewed / Level
+ 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date 
+ACEPTADO CLIENTE 
+Accepted Customer 
+ 
+ 
+ 
+ 
+FIRMA y FECHA 
+Sign & Date

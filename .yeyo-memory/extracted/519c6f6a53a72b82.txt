@@ -1,0 +1,775 @@
+[page 1]
+ 
+ABENGOA 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+INSPECTION POINTS PROGRAM 
+ 
+Title 
+INSPECTION POINTS PROGRAM 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 1950201-PPI-001 
+Supplier Code: 1950201-PPI-001 
+Revision: 00 
+Date: 11/12/2019 
+ 
+Prepared by: 
+PAULA PEREZ 
+ 
+ 
+Reviewed by: 
+PEDRO ALVAREZ 
+ 
+ 
+ 
+Approved by: 
+PEDRO ALVAREZ 
+ 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the 
+express written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENGOA 
+Document: 4521-TTT-EEE-AAA-DDD-CCCC-GAR 
+ 
+Revision: 00 Date: 11/12/2019 
+Page: 2 of 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 11/12/19 INITIAL ISSUE P.P.U. P.A.P. P.A.P. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA PUNTOS DE INSPECCIÓN 
+ 
+REV : 
+ 
+00 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950201-PPI-01 
+ 
+DATE: 11.12.19 Pag 1/8 
+ 
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA PUNTOS DE INSPECCION 
+ 
+ 
+CUSTOMER / CLIENTE :ATLANTICA YIELD 
+JOB / TRABAJO : ENGINEERING / OIL TO SALT HEAT EXCHANGER 
+LOINTEK REF : 1950201 
+CUSTOMER REF. : 
+PROJECT / PROYECTO : HEX replacement TES Solana 
+PLANT / PLANTA : ARIZONA SOLAR ONE LLC 
+LOCATION / LOCALIDAD : ARIZONA ( USA) 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+ 
+ 
+DATE 
+FECHA 
+ 
+DESCRIPTION 
+DESCRIPCION 
+ 
+Issued / 
+Realizado 
+ 
+Revised / 
+Revisado 
+Accepted / 
+Aceptado 
+00 11/12/2019 INITIAL ISSUE P.P.U. P.A.P. P.A.P 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTES / NOTAS 
+ 
+AQ Chemical Analysis 
+Analisis Quimico 
+HT Hydro Test 
+Prueba Hidraulica 
+DC Dimensional Control 
+Control Dimensional 
+NT Pneumatic Test 
+Prueba Neumatica 
+D Manufacturing Dossier 
+Dossier de Fabricacion 
+MT Magnetic Particle Test 
+Exam. Part Magneticas 
+MDT Mechanical Test 
+Ensayos Mecánicos 
+PT Dye Penetrant Test 
+Examen L. Penetrantes 
+NDT Non Destructive Tests 
+Ensayos No Destructivos 
+RT Radiographic Tests 
+Examen Radiografico 
+WPS Welding Prodedure Spec. 
+Procedimento Soldadura 
+UT Ultrasonic Test Exam. 
+Ultrasonico 
+DR Document Review 
+Revisión de documentación 
+ToFD Ultrasonic ToFD 
+Ultrasonidos ToFD 
+TM Mark Transfer. 
+Traspaso de Marcas. 
+PA Ultrasonic Phased Array 
+Ultrasonidos Phased Array 
+MPS Purchasing Specification 
+Especificacion de Compra 
+VI Visual Inspection 
+Inspeccion Visual 
+PR Procurement Requisition 
+Requisición de Compra 
+FC Ferrite Control 
+Control de Ferrita 
+PMI Positive Material Ident. 
+Identificacion Positiva Mat. 
+W Witness Point 
+Punto de Inspeccion 
+HS Hardness Survey. 
+Muestreo de Durezas. 
+R Review Point 
+Punto de revisión 
+A Approvals. 
+Aprobaciones. 
+ M Monitoring point 
+Punto Inspeccion Aleatorio 
+LT Helium Leak Test 
+Prueba fugas con Helio 
+H Hold Point 
+Punto de Espera 
+ 
+ 
+CLIENT / CLIENTE 
+ 
+APPROVAL / APROBACION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(STAMPS) / (SELLOS) 
+ 
+PROJECT MANAGER SIGNATURE AUTHORIZED INSPECTOR SIGNATURE 
+ Firma del Jefe de Proyecto Firma del Inspector Autorizado 
+ 
+COPY TO: QUALITY / PREPARATION / WELDING / PROJECT MANAGER 
+ 
+
+[page 4]
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+1950201-PPI-01_Rev00 
+CUSTOMER: ATLANTICA YIELD 
+ 
+ITEM: 
+LOINTEK REF: 
+1950201 
+SHEE
+T 
+2 OF 8 
+Rev O.Nº DESCRIPTION REP. MET. PROCEDURE LOINTEK ATLANTICA 
+YIELD A.I. 
+ 
+ 1 DOCUMENTATION 
+Documentación 
+ 
+ 
+ 1.1 MECHANICAL CALCULATIONS 
+Cálculos Mecánicos 
+- DR 1950201-CAL-001 H 
+ 
+ 1.2 DRAWINGS 
+Planos 
+D DR 1950201-DWG-XXX 
+ 
+H 
+ 
+ 1.3 WELDING PRODEDURES (WPS) 
+Procedimientos de Soldadura (WPS) 
+D DR 1950201-WPS-001 
+ASME IX 
+H 
+ 
+ 1.4 PROCEDURE QUALIFICATION RECORDS (PQR) 
+Certificación de Procedimientos de Soldadura (PQR) 
+D DR 1950201-PQR-001 
+ASME IX 
+H 
+ 
+ 1.5 MANUFACTURING PROCEDURES 
+Procedimientos de Fabricación 
+D DR ASME VIII Div 2 H 
+ 
+ 1.6 INSPECTION AND TEST PROCEDURES 
+Procedimientos de Inspección y Pruebas 
+D DR ASME V 
+ASME VIII Div 2 
+H 
+ 
+ 1.7 NDE OPERATOR QUALIFICATION 
+Cualificación de Operadores END 
+D DR SNT-TC-1A H 
+ 
+ 2 MATERIAL RECEPTION 
+Recepción del Material 
+ 
+ 
+ 2.1 TUBES FOR BUNDLE 
+Tubos del Haz 
+D DR/VI ASME II PART-A 
+MPS 
+H 
+ 
+ 2.2 FORGING FOR TUBESHEET 
+Forja para Placa Tubular 
+D DR/VI ASME II PART-A 
+MPS 
+H 
+ 
+ 2.3 FORGING FOR NOZZLES OF SHELL 
+Forja para Conexiones de Cuerpo 
+D DR/VI ASME II PART-A 
+MPS 
+H 
+ 
+ 2.4 FORGING FOR NOZZLES OF CHANNEL 
+Forja para Conexiones de la Cámara 
+D DR/VI 
+ 
+ASME II PART-A 
+MPS 
+H 
+
+[page 5]
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+1950201-PPI-01_Rev00 
+CUSTOMER: ATLANTICA YIELD 
+ 
+ITEM: 
+LOINTEK REF: 
+1950201 
+SHEE
+T 
+3 OF 8 
+Rev O.Nº DESCRIPTION REP. MET. PROCEDURE LOINTEK ATLANTICA 
+YIELD A.I. 
+ 
+ 
+ 2.5 HEAD FOR SHELL SIDE 
+Fondo del Cuerpo 
+D DR/VI 
+ 
+ASME II PART-A 
+MPS 
+H 
+ 
+ 
+ 2.6 HEAD FOR CHANNEL SIDE 
+Fondo de la Cámara 
+D DR/VI 
+ 
+ASME II PART-A 
+MPS 
+H 
+ 
+ 2.7 PLATES FOR SHELL SIDE 
+Chapas para Virolas de Lado Cuerpo 
+D DR/VI 
+ 
+ASME II PART-A 
+MPS 
+H 
+ 
+ 2.8 BOLTS FOR PRESSURE PARTS 
+Pernos para Partes a Presión 
+D DR/VI ASME II 
+PART-A 
+H 
+ 
+ 2.9 WELDING MATERIAL 
+Material de Soldadura 
+D DR/VI ASME II 
+PART-C 
+H 
+ 
+ 2.10 INTERNALS, BAFFLES 
+Internos, Baffles 
+D DR/VI ASME II 
+PART-A 
+H 
+ 
+ 3 MATERIAL PREPARATION 
+Preparación de Materiales 
+ 
+ 
+ 3.1 LAYOUT AND CUTTING, MARK TRANSFER 
+Trazado y Corte, Traspaso de Marcas 
+- VI/TM IT-CAL-PMM-01 
+ 
+H 
+ 
+ 3.2 DIMENSIONAL CONTROL FORGED AND FORMED PARTS 
+Control Dimensional Partes Forjadas y Conformadas 
+- DC ACC. DWG H 
+ 
+ 3.3 DIMENSIONAL CONTROL OF BAFFLE DRILLING 
+Control Dimensional del Taladrado de Baffles 
+- DC ACC. DWG H 
+ 
+ 3.4 EDGE PREPARATION BEFORE WELDING 
+Preparación de Bordes antes de Soldar 
+- DC/VI 
+100% 
+ACC. DWG H 
+ 
+ 3.5 BEVELS INSPECTION 
+Inspección de Bordes 
+D PT 
+100% 
+1950201-PLP-01 H 
+ 
+ 
+
+[page 6]
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+1950201-PPI-01_Rev00 
+CUSTOMER: ATLANTICA YIELD 
+ 
+ITEM: 
+LOINTEK REF: 
+1950201 
+SHEE
+T 
+4 OF 8 
+Rev O.Nº DESCRIPTION REP. MET. PROCEDURE LOINTEK ATLANTICA 
+YIELD A.I. 
+ 
+ 4 SHELL MANUFACTURING 
+Fabricación del Cuerpo 
+ 
+ 
+ 4.1 COURSES AND HEAD DIMENSIONAL CONTROL 
+Control Dimensional de Virolas y Fondo 
+- DC/VI ACC. DWG H 
+ 
+ 4.2 FITTING UP LONG., CIRCUM. AND HEAD TO SHELL WELD SEAMS 
+Alineamiento de las Costuras Long., Circunf. y del Fondo al Cuerpo 
+- DC/VI ACC. DWG H 
+ 
+ 4.3 LONG. / CIRCUNF. WELDING (PARAMETERS CHECKING) 
+Soldaduras Long. y Circunf. (Comprobación de Parámetros) 
+- VI 1950201-WPS-001 H 
+ 
+ 4.4 VOLUMETRIC INSPECTION OF LONG. & CIRCUM. WELDS 
+Inspección Volumétrica de Soldaduras Long. y Circunf. 
+D RT 
+100% 
+1950201-PRX-01 H 
+ 
+ 4.5 OPENING OF BORES 
+Apertura de Agujeros 
+- DC/VI ACC. DWG H 
+ 
+ 4.6 NOZZLE TO SHELL ATTACHMENT (PARAMETERS CHECKING) 
+Soldadura de Tubuladuras a Cuerpo (Comprobación de Parámetros) 
+- VI 1950201-WPS-001 H 
+ 
+ 4.7 VOLUMETRIC INSPECTION; PROCESS NOZZLES TO SHELL ATTACHMENT 
+Inspección Volumétrica; Soldadura Tubuladuras de Proceso a Cuerpo 
+D UT 
+100% 
+1950201-PUS-01 H 
+ 
+ 5 CHANNEL MANUFACTURING 
+Fabricación de la Cámara 
+ 
+ 
+ 5.1 HEAD DIMENSIONAL CONTROL 
+Control Dimensional del Fondo 
+- DC/VI ACC. DWG H 
+ 
+ 5.2 OPENING OF BORES 
+Apertura de Agujeros 
+- DC/VI ACC. DWG H 
+ 
+ 5.3 NOZZLE TO HEAD ATTACHMENT (PARAMETERS CHECKING) 
+Soldadura de Tubuladuras a Fondo (Comprobación de Parámetros) 
+- VI 1950201-WPS-001 H 
+ 
+ 
+
+[page 7]
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+1950201-PPI-01_Rev00 
+CUSTOMER: ATLANTICA YIELD 
+ 
+ITEM: 
+LOINTEK REF: 
+1950201 
+SHEE
+T 
+5 OF 8 
+Rev O.Nº DESCRIPTION REP. MET. PROCEDURE LOINTEK ATLANTICA 
+YIELD A.I. 
+ 
+ 5.4 VOLUMETRIC INSPECT.; PROCESS NOZZLES TO HEAD ATTACHMENT 
+Inspección Volumétrica; Soldaduras de Tubuladuras de Proceso a fondo 
+D UT 
+100% 
+1950201-PUS-01 H 
+ 
+ 6 NON PRESSURE PARTS AND REMOVABLE WELDS 
+Soldaduras de Partes No a Presión y Temporales 
+ 
+ 
+ 6.1 DIMENSIONAL CHECK 
+Control Dimensional 
+- DC/VI ACC. DWG H 
+ 
+ 6.2 DIMENSIONAL CHECK OF BUNDLE SUPPORTS AND GUIDES 
+Control Dimensional de los Soportes y Guías del Haz 
+- DC/VI ACC. DWG H 
+ 
+ 6.3 WELDING PARAMETERS CHECKING 
+Comprobación de los Parámetros de Soldeo 
+- VI 1950101-WPS-001 H 
+ 
+ 6.4 SURFACE INSPECTION OF PRESSURE-BOUNDARY ATTACHMENT WELDS 
+Inspección Superficial a las Soldaduras a Barrera de Presión 
+D PT 
+100% 
+1950201-PLP-01 H 
+ 
+ 6.5 AREAS AFTER REMOVAL OF TEMPORARY ATTACHMENTS 
+Áreas Afectadas por Soldadura de Añadidos Temporales 
+D PT 
+100% 
+1950201-PLP-01 H 
+ 
+ 7 BUNDLE MANUFACTURING 
+Fabricación del Haz Tubular 
+ 
+ 
+ 7.1 DIMENSIONAL CONTROL OF BUNDLE SUPPORT 
+Control Dimensional del Esqueleto del Haz 
+- DC/VI ACC. DWG H 
+ 
+ 7.2 TUBE TO TUBESHEET WELDING (PARAMETERS CHECKING) 
+Soldadura Tubo a Placa (Comprobación de Parámetros) 
+- VI 1950201-WPS-001 H 
+ 
+ 7.3 SURFACE INSPECTION. 
+Inspección Superficial. 
+D PT 
+100% 
+1950201-PLP-01 H 
+ 
+ 7.4 DIMENSIONAL CONTROL OF IMPINGEMENT PLATES 
+Control Dimensional de Chapas de Choque 
+- DC/VI ACC. DWG H 
+ 
+ 7.5 IMPINGEMENT PLATES WELDING (PARAMETERS CHECKING) 
+Soldadura Chapas de Choque (Comprobación de Parámetros) 
+- VI 1950201-WPS-001 H 
+
+[page 8]
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+1950201-PPI-01_Rev00 
+CUSTOMER: ATLANTICA YIELD 
+ 
+ITEM: 
+LOINTEK REF: 
+1950201 
+SHEE
+T 
+6 OF 8 
+Rev O.Nº DESCRIPTION REP. MET. PROCEDURE LOINTEK ATLANTICA 
+YIELD A.I. 
+ 
+ 7.6 VISUAL INSPECTION OF IMPINGEMENT PLATES 
+Inspección Visual Soldaduras de Chapas de Choque 
+- VI 
+100% 
+ACC. DWG H 
+ 
+ 8 FINAL ASSEMBLY 
+Montaje Final 
+ 
+ 
+ 8.1 BUNDLE INSERTION, CHECK OF BUNDLE AND SUPPORT 
+GUIDANCE 
+Inserción del haz, Comprobación del Haz y de los Soportes Guías 
+- DC/VI ACC. DWG H 
+ 
+ 8.2 FITTING UP AND DIMENSIONAL CHECK OF FINAL GIRTH SEAM 
+Alineamiento y Control Dimensional de la Costura de Cierre 
+- DC/VI ACC. DWG H 
+ 
+ 8.3 WELDING OF BUNDLE TO SHELL (PARAMETERS CHECKING) 
+Soldadura del Haz al Cuerpo (Comprobación de Parámetros) 
+- VI 1950201-WPS-001 H 
+ 
+ 8.4 VOLUMETRIC INSPECTION OF FINAL GIRTH SEAM 
+Inspección Volumétrica de la Costura de Cierre 
+D UT 
+100% 
+1950201-PUS-01 H 
+ 
+ 8.5 HELIUM LEAK TEST TUBE TO TUBESHEET JOINT 
+Prueba de Estanqueidad Unión Tubo a Placa Tubular 
+D LT 1950201-PFH-001 
+ 
+H 
+ 
+ 8.6 DIMENSIONAL CONTROL OF PARTITION PLATES 
+Control Dimensional de Chapas de Partición 
+- DC/VI ACC. DWG H 
+ 
+ 8.7 PARTITION PLATES WELDING (PARAMETERS CHECKING) 
+Soldadura Chapas de Partición (Comprobación de Parámetros) 
+- VI 1950201-WPS-001 H 
+ 
+ 8.8 SURFACE INSPECTION OF PARTITION PLATES 
+Inspección Superficial Soldaduras de Chapas de Partición 
+D PT 
+100% 
+1950201-PLP-01 H 
+ 
+ 8.9 FITTING UP AND DIMENSIONAL CHECK OF CHANNEL TO TS SEAM 
+Alineamiento y Control Dimensional, Cámara a Placa Tubular 
+- DC/VI ACC. DWG 
+ 
+H 
+ 
+ 8.10 CHANNEL TO TUBESHEET WELDING (PARAMETERS CHECKING) 
+Soldadura de la Cámara a la Placa Tubular (Control de Parámetros) 
+- VI 1950201-WPS-001 H 
+ 
+ 8.11 VOLUMETRIC INSPECTION OF FINAL GIRTH SEAM 
+Inspección Volumétrica de la Costura de Cierre 
+D UT 
+100% 
+1950201-PUS-01 H 
+
+[page 9]
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+1950201-PPI-01_Rev00 
+CUSTOMER: ATLANTICA YIELD 
+ 
+ITEM: 
+LOINTEK REF: 
+1950201 
+SHEE
+T 
+7 OF 8 
+Rev O.Nº DESCRIPTION REP. MET. PROCEDURE LOINTEK ATLANTICA 
+YIELD A.I. 
+ 
+ 9 POSTWELD HEAT TREATMENT 
+Tratamiento Térmico Post-Soldadura 
+ 
+ 
+ 9.1 GENERAL INSPECTION BEFORE PWHT 
+Inspección General antes del PWHT 
+- DC/VI ACC. DWG H 
+ 
+ 9.2 POSTWELD HEAT TREATMENT / CHART REVIEW 
+Tratamiento Térmico Post-Soldadura / Revisión de Grafico 
+D VI 1950201-PTT-001 
+ACC. DWG 
+H 
+ 
+ 10 INSPECTIONS AFTER PWHT 
+Inspecciones después del Tratamiento Térmico Post-Soldadura 
+ 
+ 
+ 10.1 HARDNESS SURVEY 
+Toma de Durezas 
+- HS 1950201-PDE-01 H 
+ 
+ 10.2 SUPERFICIAL INSPECTION OFF BUTT WELDS & ATTACHMENTS 
+Inspección Superficial de Todas las soldaduras a tope y externos, 
+D MT 
+100% 
+1950201-PPM-01 H 
+ 
+ 11 HYDROSTATIC TEST 
+Prueba Hidráulica 
+ 
+ 
+ 11.1 SHELL SIDE HYDROSTATIC TEST 
+Prueba Hidrostática Lado Cuerpo 
+D HT 1950201-PPH-001 
+ACC. DWG 
+H 
+ 
+ 11.2 TUBES SIDE HYDROSTATIC TEST (CHANNEL) 
+Prueba Hidrostática Lado Tubos (Cámara) 
+D HT 1950201-PPH-001 
+ACC. DWG 
+H 
+ 
+ 12 INSPECTIONS AFTER HYDROSTATIC TEST 
+Inspecciones después de Prueba Hidraúlica 
+ 
+ 
+ 12.2 SUPERFICIAL INSPECTION OFF BUTT WELDS & ATTACHMENTS. 
+Inspección Superficial de Todas las soldaduras a tope y externos. 
+ 
+D MT 
+100% 
+1950201-PPM-01 H 
+ 13 FINAL TESTING 
+Ensayos Finales 
+ 
+ 
+ 13.1 VISUAL INSPECTION AND DIMENSIONAL CHECK 
+Inspección visual y Control Dimensional 
+D DC/VI ACC. DWG H 
+
+[page 10]
+ 
+ 
+INSPECTION POINTS PROGRAM 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+1950201-PPI-01_Rev00 
+CUSTOMER: ATLANTICA YIELD 
+ 
+ITEM: 
+LOINTEK REF: 
+1950201 
+SHEE
+T 
+8 OF 8 
+Rev O.Nº DESCRIPTION REP. MET. PROCEDURE LOINTEK ATLANTICA 
+YIELD A.I. 
+ 
+ 14 FINAL WORKS 
+Trabajos Finales 
+ 
+ 
+ 14.1 SURFACE PREPARATION SANDBLASTING, PRIMING AND PAINTING 
+Preparación de Superficies Chorreado, Imprimado Y Pintura Final 
+D VI 1950201-PPS-001 H 
+ 
+ 14.2 PREPARATION FOR TRANSPORT AND N2 FILLING 
+Acondicionamiento para Transporte y llenado con N2 
+- VI ACC. DWG H 
+ 
+ 15 FINAL DOCUMENTS 
+Documentación Final 
+ 
+ 
+ 15.1 MANUFACTURING DATA REPORT 
+Dossier de Fabricación 
+D DR 1950201-MDR-001 H 
+ 
+ 15.2 DATA REPORT 
+Informe de datos del fabricante 
+D DR --- H 
+ 
+ 15.3 NATIONAL BOARD REGISTER 
+Registro en el National Board 
+D DR --- H 
+ 
+ 15.4 NAME PLATE CHECK 
+Comprobación Placa Características 
+D VI 1950201-DWG-00x H 
+ 
+ 15.5 NATIONAL BOARD AND CODE STAMPING 
+Estampado del sello NB y U2 
+D VI --- H 
+ 
+ 15.6 DELIVERY AUTHORIZATION 
+Autorización de Envío 
+D DR - H

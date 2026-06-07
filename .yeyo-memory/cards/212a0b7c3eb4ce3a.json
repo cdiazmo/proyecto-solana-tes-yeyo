@@ -1,0 +1,30 @@
+{
+  "id": "212a0b7c3eb4ce3a",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-PL11.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 106465,
+  "size_human": "104 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-PL11",
+  "doc_code": "4521-ESP-ANC-68-61-PL11",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3981,
+  "token_estimate": 995,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/212a0b7c3eb4ce3a.json",
+  "extracted_path": ".yeyo-memory/extracted/212a0b7c3eb4ce3a.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20101013130209",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-PL11 - PVC"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.233692+00:00"
+}

@@ -1,0 +1,578 @@
+[page 1]
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+Procedure 
+ 
+Title 
+Hydraulic Test Procedure OIL TO SALT HEX 
+Client: Arizona Solar One LLC 
+Proyect: Solana Generation Station 
+ 
+Document code: TD-INS-SLN-008 
+Supplier Code: 1950201-PPH-001-00_Hydraulic Test Procedure 
+Revision: 00 
+Date: 08/05/2020 
+ 
+Prepared by: 
+Iñigo Meca 08/05/2020 
+ 
+Reviewed by: 
+Ruben Macho 08/05/2020 
+ 
+Approved by: 
+Alberto Abad 08/05/2020 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the express 
+written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+ 
+ 
+HYDRAULIC TEST PROCEDURE 
+PROCEDIMIENTO DE PRUEBA HIDRAULICA 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+IMA 
+ 
+1950201-PPH-001 
+ 
+DATE: 08-05-20 Pag 1/7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMPANY STANDARD 
+NORMA DE FABRICA 
+ 
+ 
+ 
+ 
+ 
+ 
+HYDRAULIC TEST 
+PROCEDURE 
+ 
+PROCEDIMIENTO DE 
+PRUEBA HIDRÁULICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+ 
+ 
+DATE 
+FECHA 
+ 
+DESCRIPTION 
+DESCRIPCION 
+ 
+Prepar. By 
+Dept. Eng./ 
+Ing. 
+ 
+Aprov. By 
+Dept. Eng./ 
+Ing. 
+ 
+Aprov. By 
+Dept. Quality./ 
+Calidad 
+0 08/05/20 INITIAL ISSUE I.M.A. R.M.S. A.A.G. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+HYDRAULIC TEST PROCEDURE 
+PROCEDIMIENTO DE PRUEBA HIDRAULICA 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+IMA 
+ 
+1950201-PPH-001 
+ 
+DATE: 08-05-20 Pag 2/7 
+ 
+ 
+ 
+CONTENTS / ÍNDICE 
+ 
+1 SCOPE / ALCANCE ........................................................................................................ 3 
+2 APPLICABLE DOCUMENTATION / DOCUMENTACION APLICABLE .................. 3 
+3 TEST EQUIPMENT / EQUIPO DE PRUEBA ............................................................... 4 
+4 TEST PRESSURE / PRESIÓN DE PRUEBA ................................................................. 5 
+5 PREPARATION FOR TESTING / PREPARACIÓN DE LA PRUEBA ......................... 5 
+6 WATER FOR THE TEST / AGUA PARA LA PRUEBA ................................................. 6 
+7 PERFORMANCE OF THE TEST / DESCRIPCIÓN DE LA PRUEBA ......................... 6 
+8 DOCUMENTATION / DOCUMENTACIÓN ................................................................. 7 
+ 
+ 
+
+[page 4]
+ 
+ 
+ 
+HYDRAULIC TEST PROCEDURE 
+PROCEDIMIENTO DE PRUEBA HIDRAULICA 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+IMA 
+ 
+1950201-PPH-001 
+ 
+DATE: 08-05-20 Pag 3/7 
+ 
+ 
+1 SCOPE / ALCANCE 
+ 
+This procedure establishes the practice to be followed for hydrostatic testing according to 
+ASME VIII div 2 , Ed. 2017 for the OIL TO SALT HEAT EXCHANGERS manufactured by 
+LOINTEK. 
+ 
+ 
+Este procedimiento establece la práctica a seguir para la prueba hi drostática de acuerdo 
+a ASME VIII div 2 , Ed. 2017 para los INTERCAMBIADORES ACEITE-SALES fabricados 
+por LOINTEK. 
+ 
+ 
+ 
+2 APPLICABLE DOCUMENTATION / DOCUMENTACION 
+APLICABLE 
+ 
+Parameters for the hydrotest shall be st ated at drawings , typically production test plate, 
+postweld heat treatment and hydrotest drawing. The numerations of these drawings are 
+shown later on in this procedure. Those parameters to be defined per each item shall be: 
+ 
+a) Test pressure and inspection pressure 
+b) Holding time at test pressure 
+c) Minimum and maximum metal test temperatures (if specified) 
+d) Water quality (if specified) 
+e) Any other particular requirement 
+ 
+ 
+Los parámetros para la prueba hidráulica se establecerán en los planos, generalmente en 
+el plano de testigos de producción, tratamientos térmicos y prueba hidráulica. La 
+numeración de estos planos se muestra a continuación en este procedimiento. Los 
+parámetros incluidos a definir para cada equipo son: 
+ 
+a) Presión de prueba hidráulica y de inspección. 
+b) Tiempo de mantenimiento a la presión de prueba 
+c) Temperaturas de metal máximas y mínimas (si se requieren específicamente) 
+d) Calidad del agua (si se requieren específicamente) 
+e) Cualquier otro requerimiento especifico 
+ 
+ 
+ITEMS EQUIPMENT LOINTEK REF. CUSTOMER REF. 
+ EQUIPOS REF. LOINTEK REF. CLIENTE 
+ 
+OIL TO SALT HEAT 
+EXCHANGER 1950201-DWG-001 TD-DRW-SLN-001 
+14WSX11AC001/ 
+12AC001/13AC001/ 
+14AC001/15AC001/ 
+16AC001 
+ 
+
+[page 5]
+ 
+ 
+ 
+HYDRAULIC TEST PROCEDURE 
+PROCEDIMIENTO DE PRUEBA HIDRAULICA 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+IMA 
+ 
+1950201-PPH-001 
+ 
+DATE: 08-05-20 Pag 4/7 
+ 
+ 
+ 
+3 TEST EQUIPMENT / EQUIPO DE PRUEBA 
+ 
+3.1. The equipment to be tested shall be examined before building up the test pressure, to 
+check its water tightness and to make sure that any element that must not be tested has 
+been disconnected. 
+ 
+3.2. Adjusted manometers, with capacities no under 1.5 times, and no over 4 times the 
+maximum test pressure, shall be used (Minimum 2 units). 
+ 
+3.3. The calibration of the manometers shall be made in accordance with international 
+standards. 
+ 
+3.4. Manometers dial range shall be such that test pressure reading shall be placed at the 
+central third of this range. 
+ 
+ 
+3.1. El equipo de prueba será examinado antes de aplicar la presión, para asegurarse de 
+su estanqueidad así como de que cualquier elemento que no tenga que ser probado ha 
+sido desconectado. 
+ 
+3.2. Se utilizarán manómetros graduados, cuya capacidad no será menor de 1,5 veces, ni 
+mayor de 4 veces la presión de prueba máxima (Mínimo 2 unidades). 
+ 
+3.3. El calibrado de los manómetros se realizarán de acuerdo a los estándares 
+internacionales. 
+ 
+3.4. El rango del dial de los manómetros utilizados será tal que la lectura de la presión de 
+prueba se sitúe en el tercio central de la escala del aparato. 
+ 
+
+[page 6]
+ 
+ 
+ 
+HYDRAULIC TEST PROCEDURE 
+PROCEDIMIENTO DE PRUEBA HIDRAULICA 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+IMA 
+ 
+1950201-PPH-001 
+ 
+DATE: 08-05-20 Pag 5/7 
+ 
+ 
+4 TEST PRESSURE / PRESIÓN DE PRUEBA 
+ 
+Test pressures can be seen in the general arrangement drawings of each equipment: The 
+drawings are the following ones: 
+ 
+ 
+Las presiones de prueba se pueden ver en el plano general de cada equipo siendo estos 
+los siguientes: 
+ 
+ 
+ITEMS EQUIPMENT LOINTEK REF. CUSTOMER REF. 
+ EQUIPOS REF. LOINTEK REF. CLIENTE 
+ 
+14WSX11AC001/ 
+12AC001/13AC001/ 
+14AC001/15AC001/ 
+16AC001 
+OIL TO SALT HEAT 
+EXCHANGERS 1950201-DWG-001 TD-DRW-SLN-001 
+ 
+ 
+ 
+ 
+5 PREPARATION FOR TESTING / PREPARACIÓN DE LA PRUEBA 
+5.1. Before testing, it will be checked that surface and welded joints are dry and free of 
+paint, slag, grease, etc. 
+5.2. All joints, including the welded ones shall be accessible and exposed for examination 
+during the test. 
+5.3. The equipment shall be filled with water in such a way that as much air as possible 
+from the inside is removed before the test. Vents at the top of the equipment will be 
+foreseen, being opened during equipment filling. 
+5.4. The manometers will be connected directly to the equipment. 
+5.5. All the bolted gaskets will be closed for the test and will be bolted uniformly following 
+an appropriate sequence. 
+ 
+5.1. Antes del inicio de la prueba, se comprobará que la superficie y las uniones del 
+equipo se encuentran secas y libres de pintura, restos de soldadura, grasa, etc. 
+5.2. Todas las uniones, incluidas las soldadas, serán accesibles y expuestas para 
+examen durante la prueba. 
+5.3. La forma de llenar de agua será tal que se elimine completamente el aire del interior 
+del equipo antes de la realización de la prueba. Se preverán salidas de venteo en el alto 
+del equipo, abriéndolas mientras se llena el mismo. 
+5.4. Los manómetros serán conectados directamente al equipo. 
+5.5. Todas las juntas atornilladas se c errarán para la prueba y se apretarán 
+uniformemente, siguiendo una secuencia apropiada. 
+
+[page 7]
+ 
+ 
+ 
+HYDRAULIC TEST PROCEDURE 
+PROCEDIMIENTO DE PRUEBA HIDRAULICA 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+IMA 
+ 
+1950201-PPH-001 
+ 
+DATE: 08-05-20 Pag 6/7 
+ 
+ 
+ 
+6 WATER FOR THE TEST / AGUA PARA LA PRUEBA 
+Water to be used shall be network potable water. Normal pH between 7 and 8,5. 
+A corrosion inhibitor (VpCl -379 product or similar) shall be added in a proper 
+concentration to guarantee 12 month of corrosion protection. 
+El agua a utilizar será agua potable de la red. pH normal entre 7 y 8.5. 
+Deberá añadirse un inhibidor de corrosión (producto VpCl -379 o similar) en una 
+concentración adecuada para garantizar protección contra la corrosión durante al menos 
+12 meses. 
+ 
+ 
+ 
+7 PERFORMANCE OF THE TEST / DESCRIPCIÓN DE LA PRUEBA 
+ 
+7.1 For carbon steel and l ow alloy steels, hydrostatic test shall be carried out at m etal at 
+not colder temperature than minimum design metal temperature -4ºC (25ºF) plus 15 ºC 
+(59ºF), this is it, 11ºC (51.8ºF), nor warmer than 48ºC (118.4ºF). 
+ 
+7.2. The equipment shall be horizontally tested, being filled of water and pressurized to 
+the test pressure increasing the pressure by steps according to drawings mentioned in 
+section 2. The test pressure shall not be applied until the vessel and its contents are at 
+about the same temperature. 
+ 
+7.3. The test pressure shall be maintained during indicated time (1 hour) which will be 
+defined in drawings mentioned in section 2, and then down to i nspection pressure looking 
+for leaks at the joints. Inspect for leakage all welds joints and connections and all regio ns 
+of high stress such as head knuckles, regions around opening, etc. , 
+ 
+7.4. Once the pressure test has finished, the equipment shall be emptied and its inside 
+shall be dried by means of hot air. 
+ 
+7.5. Any leak detected at bolted joints during the test shall be repaired. Then the 
+equipment shall be tested again in accordance with the requirements of this specification. 
+ 
+7.6. If there were any leak at welded joints during the test a proper repair procedure shall 
+be established and carried out. Then the equipment shall be tested again in accordance 
+with the requirements of this specification. 
+ 
+7.7 Acceptance requirements shall be according to ASME VIII Div.1 – Section UG-99 (g). 
+ 
+ 
+7.1 Para aceros al carbono y aceros bajo aleados, la prueba hidráulica no se realizará a 
+una temperatura de metal menor que la mínima temperatura de diseño -4ºC (25ºF) más 
+15ºC (59ºF), esto es, 11ºC (51.8ºF), ni a más de 48ºC (118.4ºF). 
+ 
+
+[page 8]
+ 
+ 
+ 
+HYDRAULIC TEST PROCEDURE 
+PROCEDIMIENTO DE PRUEBA HIDRAULICA 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+IMA 
+ 
+1950201-PPH-001 
+ 
+DATE: 08-05-20 Pag 7/7 
+ 
+7.2. Los equipos se probarán en posición horizontal, se llenarán con agua y se 
+presurizará hasta que se alcance la presión de prueba de manera escalonada de acuerdo 
+a los planos mencionados en el apartado 2. No se aplicará la presión de prueba en tanto 
+el recipiente y el líquido no estén aproximadamente a la misma temperatura. 
+ 
+7.3. La presión de prueba se mantendrá durante el tiempo estimado (1 hora) el cual 
+estará definido en los planos mencionados en el apartado 2. Posteriormente, reducida la 
+presión hasta la de inspección , se r ealizará el examen de goteo o pérdidas en todas las 
+juntas. Se inspeccionará la estanqueidad de soldaduras, conexiones y to das aquellas 
+regiones sometidas a un al estrés como por ejemplo rebordeado de fondos, regiones 
+alrededor de aberturas, etc. 
+ 
+7.4. Una vez finalizada la prueba, su interior será vaciado y secado cuidadosamente 
+mediante aire caliente. 
+ 
+7.5. Cualquier pérdida observada en las uniones atornilladas durante la prueba será 
+reparada. Después el equipo se probará nuevamente, de acuerdo con los requisitos de 
+esta especificación. 
+ 
+7.6. Si se detectan fugas en las uniones soldadas durante la prueba se establecerá un 
+procedimiento de reparación para su posterior ejecución. Después el equipo se probará 
+nuevamente, de acuerdo con los requisitos de esta especificación. 
+ 
+7.7. El criterio de aceptación será según ASME VIII Div.1 – Sección UG-99 (g) 
+ 
+ 
+ 
+8 DOCUMENTATION / DOCUMENTACIÓN 
+ 
+The results of the hydraulic test shall be documented on a "HYDRAULIC TEST REPORT", 
+and certified by the Quality Control Department. 
+ 
+Apart from above mentioned document, calibration shall be carried out and calibration 
+certificates of the used manometers during the test shall be submitted 
+ 
+Los resultados de las pruebas hidrostáticas serán documentados en el “INFORME DE 
+PRUEBA HIDRAULICA” y certificados por el departamento de control de calidad. 
+ 
+Aparte del informe arriba mencionado, se deberá de realizar el calibrado y entregar los 
+certificados de calibración de los manómetros utilizados durante la prueba. 
+ 
+ 
+ 
+
+[page 9]
+ EXHIBIT 5.02 Rev.07 
+ 
+ 
+ 
+ LOIN-FAB-15-1-E-I Ed00Rev02 
+ 
+INFORME DE PRUEBA HIDRÁULICA 
+ 
+HYDROSTATIC TEST REPORT 
+ 
+Lointek SL 
+ 
+Lointek Mex 
+ 
+Lointek Heavy 
+ Industries 
+ 
+CLIENTE: 
+Client 
+ 
+OBRA: 
+Job: 
+Nº INFORME: 
+Report Nº: 
+ 
+PLANO CONJUNTO GENERAL: 
+General Arrangement Drawing: 
+ REV.: 
+ 
+ 
+DESCRIPCION DE LA PARTE/COMPONENTE: 
+Description of the part: 
+IDENTIFICACIÓN DEL EQUIPO DE MEDICIÓN: 
+Equipment Identification: 
+ 
+ 
+FLUIDO DE PRUEBA: 
+Test Fluid: 
+ 
+ 
+ 
+TEMPERATURA DE PRUEBA: 
+Testing Temperature: 
+PRESIÓN DE PRUEBA: 
+Test Pressure: 
+ 
+ 
+ 
+TIEMPO DE 
+MANTENIMIENTO: 
+Holding time: 
+ 
+ 
+ 
+POSICIÓN DE PRUEBA 
+HIDRAULICA: 
+HYDROSTATIC TEST 
+POSITION: 
+ 
+ CODIGO APLICABLE: 
+Applicable Code: 
+ 
+PROCEDIMIENTO/PLANO DE PRUEBA HIDRAULICA: 
+Hydrostatic Test procedure/Drawing: 
+RESULTADO DE LA PRUEBA: ACEPTADO....  RECHAZADO....  
+Test Results: Accepted Rejected 
+ 
+CERTIFICAMOS QUE LA PRUEBA 
+DE PRESIÓN HA SIDO REALIZADA 
+DE ACUERDO CON EL 
+PROCEDIMIENTO INDICADO. 
+ 
+We cert ify that the Pressure Test has 
+been performed in accordance with the 
+indicated Procedure 
+REALIZADO POR: 
+Issued by: 
+ 
+ 
+FECHA 
+Date 
+ 
+ 
+FIRMA 
+Sign 
+VERIFICADO POR: 
+Verified by: 
+ 
+I.A. FIRMA 
+A.I. Sign 
+ 
+ 
+ 
+ 
+Fecha / Date 
+Name of Agency: 
+Lloyd’s Register 
+FIRMA 
+Sign 
+ 
+ 
+ 
+Fecha / Date

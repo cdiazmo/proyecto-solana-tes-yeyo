@@ -1,0 +1,77 @@
+{
+  "id": "bbc7809ace76cc1b",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-HTF-16F-CS30-20 R7_Sht1.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 650521,
+  "size_human": "635 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "252-HTF-16F-CS30-20 R7 Sht1",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2245,
+  "token_estimate": 561,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/bbc7809ace76cc1b.json",
+  "extracted_path": ".yeyo-memory/extracted/bbc7809ace76cc1b.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD Plant 3D 2018 - English 2018 (22.0s (LMS Tech))",
+      "Title": "Model",
+      "Producer": "pdfplot14.hdi 14.00.161.000",
+      "CreationDate": "D:20191025093131",
+      "ModDate": "D:20191025093131"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.478868+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::299",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 299,
+        "doc_code": "252-HTF-16F-CS30-20\" - HEX Replacement",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::390",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 390,
+        "doc_code": "252-HTF-16F-CS30-20\" - HEX Replacement",
+        "title": "",
+        "revision": "7",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::379",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 379,
+        "doc_code": "252-HTF-16F-CS30-20\" - HEX Replacement",
+        "title": "",
+        "revision": "5",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:01.478871+00:00"
+}

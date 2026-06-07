@@ -1,0 +1,62 @@
+{
+  "id": "047ac2ce50e85614",
+  "path": "12 As Built TES 6/04_Piping/04_Volume Increase Calculation/4521-CAL-AEE-75-60-0001-GAR_rev.00_MS and HTF capacity increase.xls",
+  "top_dir": "12 As Built TES 6",
+  "ext": "xls",
+  "size_bytes": 273920,
+  "size_human": "268 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-CAL-AEE-75-60-0001-GAR rev.00 MS and HTF capacity increase",
+  "doc_code": "4521-CAL-AEE-75-60-0001",
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/047ac2ce50e85614.json",
+  "extracted_path": null,
+  "metadata": {
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::112",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 112,
+        "doc_code": "4521-CAL-AEE-75-60-0001-GAR-rev.00-MS and HTF capacity increase",
+        "title": "",
+        "revision": "4521-CAL-AEE-75-60-0001-GAR_rev.00_MS and HTF capacity increase",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::112",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 112,
+        "doc_code": "4521-CAL-AEE-75-60-0001-GAR-rev.00-MS and HTF capacity increase",
+        "title": "",
+        "revision": "4521-CAL-AEE-75-60-0001-GAR_rev.00_MS and HTF capacity increase",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::114",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 114,
+        "doc_code": "4521-CAL-AEE-75-60-0001-GAR-rev.00-MS and HTF capacity increase",
+        "title": "",
+        "revision": "4521-CAL-AEE-75-60-0001-GAR_rev.00_MS and HTF capacity increase",
+        "status": "NFV",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:19:49.113817+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "129027e58ce56e5c",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/PHOTOS_HT_1950201.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 3671852,
+  "size_human": "3.5 MB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "PHOTOS HT 1950201",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 612,
+  "token_estimate": 153,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/129027e58ce56e5c.json",
+  "extracted_path": ".yeyo-memory/extracted/129027e58ce56e5c.txt",
+  "metadata": {
+    "pages": 18,
+    "pdf_metadata": {
+      "Author": "Paula Perez Uriarte",
+      "Creator": "Microsoft® Word para Microsoft 365",
+      "CreationDate": "D:20201223150435+01'00'",
+      "ModDate": "D:20201223150435+01'00'",
+      "Producer": "Microsoft® Word para Microsoft 365"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:26.760030+00:00"
+}

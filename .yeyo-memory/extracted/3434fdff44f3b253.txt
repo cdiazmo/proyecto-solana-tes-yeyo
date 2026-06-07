@@ -1,0 +1,695 @@
+[page 1]
+ 
+ABENGOA 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION 
+PROCEDURE 
+ 
+Title 
+Magnetic Particle Examination Procedure 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-INS-LOI-039-062-0006-GAR 
+Supplier Code: 195001-PPM-01 
+Revision: 00 
+Date: 05/12/2016 
+ 
+Prepared by: 
+Joana Teixeira. Quality Engineer. LOINTEK 
+ 
+Reviewed by: 
+Jon Baranda. Quality Engineer. LOINTEK 
+ 
+Approved by: 
+Jon Baranda. Quality Engineer. LOINTEK 
+ 
+This Procedure is owned by Abengoa. Its total or partial repro duction by any means as well as its dis tribution to third parties without the 
+express written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENGOA 
+Document: 4521-INS-LOI-039-062-0006-
+GAR 
+ 
+Revision: 00 Date: 05/12/2016 
+Page: 2 of 3 
+ 
+ 
+
+[page 3]
+ABENGOA 
+Document: 4521-INS-LOI-039-062-0006-
+GAR 
+ 
+Revision: 00 Date: 05/12/2016 
+Page: 3 of 3 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 05/12/2016 Initial emission J.T.A. J.B.M. J.B.M. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+1/10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Rev. & Aprov. 
+Rev. & Aprob. 
+Aproved 
+Aprobado 
+LEVEL III 
+0 05/12/16 FIRST ISSUE J.T.A J.B.M J.B.M 
+ 
+ 
+ 
+ 
+ 
+
+[page 5]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+2/10 
+ 
+ 
+ 
+INDEX 
+ 
+1.0. OBJECT 
+2.0. SCOPE 
+3.0. REFERENCES 
+4.0. RESPONSIBILITIES AND AUTHORITY 
+5.0. EQUIPMENT 
+6.0. MAGNETIC PARTICLE PRODUCTS 
+7.0. DESCRIPTION OF THE PROCESS 
+8.0. EVALUATION 
+9.0. ACCEPT/REJECT CRITERIA 
+10.0. FINAL REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 6]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+3/10 
+ 
+ 
+ 
+1.0 OBJECT 
+ 
+This procedure describes the method for the detection of open and subsurface 
+discontinuities of ferromagnetic materials such as steel welds and vessel parts 
+using the Yoke magnetizing method. 
+The ferromagnetic particles can be used in medium wet or dry, and may be 
+fluorescent or visible. It can be applied to the back gouged weld roots. 
+ 
+ 
+2.0 SCOPE 
+ 
+As specified in the I.P.P. or in the particular Inspection Program of the component. 
+ 
+ 
+3.0 REFERENCES 
+ 
+ASME Code, Section V – Non Destructive Examination (2015 Edition). 
+ASME Code, Section VIII Div 1 y 2 – Pressure Vessels (2015 Edition). 
+ASME Section I, Power Boilers (2015 Edition). 
+ASME B 31.1 Power Piping (2014 Edition) 
+WRITTEN PRACTICE ASME. QCM.PR05 
+SNT-TC-1A (2011 Edition) 
+UNE-EN ISO 9712/2012 
+ 
+ 
+4.0 RESPONSIBILITIES AND AUTHORITY 
+ 
+4.1.0 QUALITY MANAGER 
+ 
+He has the authority to det ermine the items that must be checked using this 
+procedure. 
+ 
+ 
+4.2.0 QUALIFIED PERSONNEL 
+ 
+The personnel who will perform the Magnetic particle examinations must be 
+qualified according to Lointek S.L. Wri tten Practice ASME.QCM.PR05. In those 
+cases where the tests are required to meet the EC Pressure Equipment Directive, 
+personnel must be qualified as per ISO 9712/2012 specifies. 
+ 
+The results must be interpreted by a Level II or III qualified and certified personnel. 
+ 
+A Change of a requirement in Table 1 (attac hed) identified as an essential variable 
+shall require requalification of the written procedure by demonstration. 
+
+[page 7]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+4/10 
+ 
+ 
+ 
+All changes of essential or non essential variables from those specified within this 
+written procedure shall require revision of the written procedure. 
+ 
+ 
+5.0 EQUIPMENT 
+ 
+ The equipment of magnetizat ion will be of AC yoke that produce longitudinal 
+magnetisation. The yoke must have a pull force of 4,5 kg at the maximum pole 
+spacing used. They should have adjust able pole, varying the magnetization 
+distance between them from 3 to 6 inches (75 to 150 mm.) 
+ 
+The magnetizing power of yokes shall be verified prior to use or whenever the 
+yoke has been damaged or repaired 
+ 
+ A UV-A lamp with a wavelength of 320- 380 nm and intensity not lower than 1000 
+μW/cm
+2 will be use with fluorescent particles. 
+ 
+Light meters shall be calibrated at leas t once a year or whenever the meter has 
+been repaired. If meters have not been in use for one year or more, calibration shall 
+be done before being used. 
+ 
+ 
+6.0 MAGNETIC PARTICLE PRODUCTS. 
+ 
+Preferably the products to be used will be the following: 
+ 
+6 .1 WET PARTICLES 
+ 
+These particles shall be fluorescent to be examined with black light or non-
+fluorescent to be examined with white li ght, immediately before applying particles, 
+the suspension shall be agitated to guaranty an uniform fluid dispersion. 
+ 
+Visible (color Contrast) Magnetic Particles: 
+ 
+ Ardrox 800/3. Black Particle. 
+ Ardrox 8901W: Lacquer for Contrast Enhancement when it is necessary. 
+ 
+ 
+Fluorescent Particles: 
+ 
+ LUMOR J. Highly Sensitive Fluorescent magnetic ink. 
+ 
+The temperature of the surface to be examined shall be between 5ºC to 52ºC 
+ 
+ 
+6.2 DRY PARTICLES 
+ 
+The operator must be sure that the powder used is adequat e for the temperature of 
+the piece and that it is dry enough. 
+
+[page 8]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+5/10 
+ 
+ 
+ 
+The powder sprayer shall be the type that allows an uniform dispersion of the 
+powder, without accumulating it. 
+ 
+Colour contrast dry powders. 
+ 
+ Ferromor ND-8 Yellow. Surface temperature limit: 200ºC. 
+ Ferromor ND-5 Grey. Surface temperature limit: 300ºC. 
+ 
+Dry and wet particles and suspension vehi cles should be in accordance with 
+SE-709. 
+All particles shall be used within the temperature range limitations set by the 
+manufacturer of the particles. Alternativ ely, particles may be used outside the 
+manufacturer´s recommendations with t he approval of the Quality Control 
+Manager and they will be demonstrated to the satisfaction of A.I. 
+ 
+Another similar products could be used with the approval of the Quality Control 
+Manager and they will be demonstrated to the satisfaction of the A.I. 
+ 
+When is necessary to measure the intens ity of the residual magnetic field, a 
+magnetism indicator must be used. 
+ 
+ 
+7.0 DESCRIPTION OF THE PROCESS 
+ 
+7.1.1 SUPERFICIAL CONDITION 
+ 
+Before the magnetic particle examination, a check of the examination surface 
+shall be conducted to locate any disc ontinuity surface opening which may not 
+attract and hold magnetic particles because of their width. 
+ 
+The weld to examine and adjacent areas within at least 25 mm, will be dry and 
+clean, free of all dirt, grease, lint, scale, welding flux and spatter, husk, oxide, 
+welding projections, oils, machining mar ks or any other strange materials that 
+can interfere with the exam or the interpretation. 
+ 
+ 
+7.1.2 MAGNETIC PARTICLE TECHNIQUES. 
+The examination shall be done by the c ontinuous method. The method consists 
+on the application of magnetic particles of very small size on the surface of the 
+piece. 
+ 
+The examination shall be performed as follows: 
+ 
+DRY PARTICLES: 
+ 
+The magnetizing current shall remain on while the examination medium is 
+being applied and while any excess of the examination medium is removed. 
+ 
+
+[page 9]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+6/10 
+ 
+ 
+ 
+Accumulations of excess dry particles in examinations shall be removed with 
+a light air stream from a bulb or syringe or other source of low pressure dry 
+air. 
+ 
+WET PARTICLES: 
+ 
+Wet particles shall be applied before m agnetizing current is applied. If the 
+wet particles are applied from aerosol spray cans, the magnetizing current 
+may be applied before and/or after the particles have been applied. 
+ 
+Visible Magnetic particles 
+ 
+o The minimum light intensity shall be 1000 lux on the surface to be 
+examined. 
+The light intensity shall be measured with light meter prior to the evaluation 
+of indications. 
+ 
+o If the contrast of the surface is not appropriate for the inspection a Lacquer 
+for Contrast Enhancement will be applied. 
+ 
+o Nonmagnetic surface contrast may be app lied by the examiner to uncoated 
+surfaces, only in amounts sufficient to enhance particle contrast. When 
+nonmagnetic surface contrast enhancem ent is used, it shall be 
+demonstrated that indications can be detected through the enhancement. 
+ 
+ 
+Fluorescent particles: 
+ 
+o It shall be performed in a darkened ar ea (the visible light will be less than 
+20 lux). 
+ 
+o Operators shall be in a darkened area fo r at least 5 min prior to performing 
+the examination to enable their eyes to adapt to dark viewing. 
+ 
+o UV-A lamp must be used with a wavelength of 320-380 nm and an 
+intensity not lower than 1000 μW/cm2. Reflectors and filters shall be 
+checked and, if necessary, cleaned prior to use. Cracked or broken filters 
+shall be replaced immediately. 
+ 
+ 
+7.1.3. GENERAL REQUIREMENTS 
+ 
+Field strength shall be checked with a Be rthold sample, having two lower cross 
+section grooves. If two grooves are clearly seen, the magnetizing field shall be 
+considered appropriate to perform the exam. 
+ 
+The exam will be made applying at least two magnetic fields on the same area 
+following the table 1 to guarantee the 100% exam of the surface. 
+ 
+The applied magnetic field shall hav e sufficient strength to produce 
+satisfactory indications, but shall not be so strong that it causes masking of 
+
+[page 10]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+7/10 
+ 
+ 
+ 
+relevant indications by non relevant accumulations of magnetic particles. 
+Factors that influence t he required field strength include the size, shape and 
+material permeability of part, etc. 
+ 
+ 
+During the second examination, the li nes of the magnetic flux shall be 
+approximately perpendicular to those used during the first examination. All 
+examinations shall be conducted with sufficient overlap to ensure 100% 
+coverage.
+ 
+ 
+ 
+
+[page 11]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+8/10 
+ 
+ 
+ 
+When the residual magnetism can interfere t he phases of production or final work 
+conditions, the piece will be demagnetized. Alte rnating current yokes may be used 
+for local demagnetization by placing the pol es on the surface, moving them around 
+the area, and slowly withdrawing the yoke while it is still energized. After 
+demagnetization, measure residual fields should not exceed than 3G (240 A/m). 
+ 
+When post-examination cleaning is requir ed, it should be performed prior to 
+later processes. The technique employed to cleaning will be drying of the wet 
+particles and subsequent removal by brushing or witch compressed air. 
+ 
+ 
+8.0 EVALUATION 
+ 
+An indication is the evidence of a mechanical imperfection. 
+ 
+Only indications with major dimens ions greater than 1.5 mm shall be 
+considered relevant. 
+ 
+ Linear indications are those havi ng a length exceeding three times the 
+width of the indication. 
+ 
+ Rounded indications are those which ar e circular or elliptical and have a 
+length of less than three times the width of the indication. 
+ 
+ 
+ Any doubtful or questionable indication will be checked again to verify if 
+it is relevant. 
+ 
+When two adjacent indications are separ ated by a lower distance than the 
+bigger dimension of the smallest one, they should be evaluated as a single 
+continuous indication. 
+ 
+ 
+9.0 ACCEPT / REJECT CRITERIA 
+ 
+All surfaces to be examined shall be free of: 
+ 
+According with ASME I, ASME VIII Div.1 & 2 
+ 
+ Cracks like indications detected irres pective of surface conditions (ASME 
+VIII Div 2 only) 
+ 
+ Relevant linear indication. 
+ 
+ Relevant rounded indications greater than 5 mm. 
+ 
+ Four or more relevant rounded indicati ons in a line separated by 1,5 mm. or 
+less (edge to edge). 
+ 
+According with ASME B31.1 
+ 
+ Any cracks or linear indications 
+ 
+ 
+ Rounded indications greater than 5 mm 
+ 
+
+[page 12]
+ 
+ 
+MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+195001-PPM-01 
+ 
+DATE: 05/12/16 Pag 
+9/10 
+ 
+ 
+ 
+ 
+ Four or more relevant rounded indicati ons in a line separated by 2 mm. or 
+less (edge to edge). 
+ 
+ Ten or more rounded indications in any 3870mm 2 of surface with the major 
+dimension of this area not to exceed 150mm with the area taken in the most 
+unfavorable location relative to the indications being evaluated 
+ 
+Only indications with major dimensions greater than 1,5 mm shall be considered 
+relevant. 
+ 
+ 
+10.0 FINAL REPORT 
+ 
+The result of the exam will be docum ented with the corres ponding report that 
+will include as minimum the following data: 
+ 
+ Job number 
+ 
+ Drawings 
+ 
+ Description of the piece 
+ 
+ Procedure and revision 
+ 
+ Magnetic particle equipment and current used 
+ 
+ Magnetic Particles type 
+ 
+ NDE operator qualifications 
+ 
+ Map or record of relevant indications 
+ 
+ Material and thickness 
+ 
+ Lighting equipment 
+ 
+ Date of examination 
+ 
+ Evaluation 
+ 
+ Acceptance criteria 
+ 
+
+[page 13]
+ 
+ 
+ 
+MAGNETIC PARTICLE TESTING PROCEDURE 
+ASME 
+ 
+REV : 
+ 
+09 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+IT-CAL-PPM-01 
+ 
+DATE: 03/05/16 Pag 
+10/10 
+ 
+ 
+TABLE 1 
+ 
+REQUIREMENTS OF A MAGNETIC PARTICLE EXAMINATION PROCEDURE 
+ 
+R E Q U I R E M E N T Essential Non Essential 
+1 Magnetizing technique X 
+2 Magnetizing current type or amperage outside range specifi ed by this Article or as previously qualified X 
+3 Surface preparation X 
+4 Magnetic particles (fluorescent/visible, color, particle size, wet/dry) X 
+5 Method of particle application X 
+6 Method of excess particle removal X 
+7 Minimum light intensity X 
+8 Coating thickness greater than that qualified X 
+9 Performance demonstration, when required X 
+10 Examination part surface temperature outside the temperat ure range recommended by the manufacturer of the particles 
+or as previously qualified X 
+11 Shape or size of the examination object X 
+12 Nonmagnetic surface contrast enhancement, when utilized X 
+13 Equipment of the same type X 
+14 Temperature (within those specified by manuf acturer or as previouslly qualified) X 
+15 Demagnetizing technique X 
+16 Post examination cleaning technique X 
+17 Personnel qualification requirements X

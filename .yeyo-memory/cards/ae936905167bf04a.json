@@ -1,0 +1,39 @@
+{
+  "id": "ae936905167bf04a",
+  "path": "01 GD AE/C&S/Plataforma de acero TES/4521-PLN-AGE-58-54-2013.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 780896,
+  "size_human": "763 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AGE-58-54-2013",
+  "doc_code": "4521-PLN-AGE-58-54-2013",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/ae936905167bf04a.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.71",
+      "CreationDate": "",
+      "ModDate": "",
+      "Title": "H:\\400 Direccion de Ingenieria\\420 Proyectos\\AG1008_Solana (USA)\\Documentos en Curso\\Civil_Structural_Architectural\\58.Thermal",
+      "Creator": "PDFCreator Version 1.0.0",
+      "Author": "",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.696584+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:00.720068+00:00"
+}

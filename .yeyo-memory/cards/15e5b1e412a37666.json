@@ -1,0 +1,67 @@
+{
+  "id": "15e5b1e412a37666",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-68-71-P272_rev04_Hot tank.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 1476595,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-AGE-68-71-P272 rev04 Hot tank",
+  "doc_code": "4521-PLN-AGE-68-71-",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/15e5b1e412a37666.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20130220182426-07'00'",
+      "ModDate": "D:20130220182426-07'00'",
+      "Title": "\\\\GILSOLFN01\\Groups\\AGE\\01 NtP Deliveries\\P&IDs\\P&IDs_FROM AEPC_2013_02_01\\P&IDs Rev FEB-2013\\4521-PLN-AGE-68-71-P272_Rev4 Pres",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "agdamm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:52.841528+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::39",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 39,
+        "doc_code": "4521-PLN-AGE-68-71-P274",
+        "title": "Actualizacion P&IDs HEX TEX (6 units)",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::39",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 39,
+        "doc_code": "4521-PLN-AGE-68-71-P274",
+        "title": "Actualizacion P&IDs HEX TEX (6 units)",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:52.863965+00:00"
+}

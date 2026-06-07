@@ -1,0 +1,37 @@
+{
+  "id": "8e24c661e9245c47",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0297_R01.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 94711,
+  "size_human": "92 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-DOT-75-63-0297 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1647,
+  "token_estimate": 411,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/8e24c661e9245c47.json",
+  "extracted_path": ".yeyo-memory/extracted/8e24c661e9245c47.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "bound",
+      "CreationDate": "D:20200316155744-07'00'",
+      "Creator": "AutoCAD Plant 3D 2020 - English 2020 (23.1s (LMS Tech))",
+      "ModDate": "D:20200316155744-07'00'",
+      "Producer": "Acrobat Distiller 20.0 (Windows)",
+      "Title": "Ledger"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Soporte de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.819858+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:58.819860+00:00"
+}

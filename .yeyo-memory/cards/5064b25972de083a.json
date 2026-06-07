@@ -1,0 +1,78 @@
+{
+  "id": "5064b25972de083a",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0002_R3 Pressure gauge.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 267967,
+  "size_human": "262 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0002 R3 Pressure gauge",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 27214,
+  "token_estimate": 6803,
+  "chunks": 18,
+  "card_path": ".yeyo-memory/cards/5064b25972de083a.json",
+  "extracted_path": ".yeyo-memory/extracted/5064b25972de083a.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1014,
+        "non_empty_rows": 25
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 69,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 69,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "Index",
+        "rows_seen": 68,
+        "non_empty_rows": 18
+      },
+      {
+        "name": "SP-TES Services",
+        "rows_seen": 61,
+        "non_empty_rows": 50
+      },
+      {
+        "name": "SP-TES Services-List",
+        "rows_seen": 72,
+        "non_empty_rows": 30
+      },
+      {
+        "name": "HTF IP",
+        "rows_seen": 66,
+        "non_empty_rows": 50
+      },
+      {
+        "name": "HTF IP List I",
+        "rows_seen": 54,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "MS IP",
+        "rows_seen": 62,
+        "non_empty_rows": 50
+      },
+      {
+        "name": "MS IP List I",
+        "rows_seen": 58,
+        "non_empty_rows": 26
+      },
+      {
+        "name": "MS IP List II",
+        "rows_seen": 58,
+        "non_empty_rows": 14
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:12.869477+00:00"
+}

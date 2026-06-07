@@ -1,0 +1,22 @@
+{
+  "id": "b6354ec7def01d08",
+  "path": "01 GD AE/I&C/MEM/G70-16-0039-AT-OTI-000003-GAR TES Discharging Mode S&T HEX.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 2565495,
+  "size_human": "2.4 MB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "G70-16-0039-AT-OTI-000003-GAR TES Discharging Mode S&T HEX",
+  "doc_code": null,
+  "revision": null,
+  "status": "error",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b6354ec7def01d08.json",
+  "extracted_path": null,
+  "metadata": {
+    "error": "File is not a zip file"
+  },
+  "processed_at": "2026-06-05T09:12:28.166784+00:00"
+}

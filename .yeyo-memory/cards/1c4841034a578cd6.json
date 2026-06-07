@@ -1,0 +1,40 @@
+{
+  "id": "1c4841034a578cd6",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180323/SOLANA TES HX Permit_Pkg_02_01_2018_PAGE S1.2_rev1.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 573910,
+  "size_human": "560 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "SOLANA TES HX Permit Pkg 02 01 2018 PAGE S1.2 rev1",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1706,
+  "token_estimate": 426,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/1c4841034a578cd6.json",
+  "extracted_path": ".yeyo-memory/extracted/1c4841034a578cd6.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "SOLANA TES HX Permit_Pkg_02_01_2018_PAGE S1.2",
+      "Author": "Pedro Pajares de Tena",
+      "Subject": "",
+      "Producer": "Mac OS X 10.13.3 Quartz PDFContext",
+      "Creator": "Preview",
+      "CreationDate": "D:20180327195251Z00'00'",
+      "ModDate": "D:20180327195251Z00'00'",
+      "Keywords": "",
+      "AAPL:Keywords": "['']"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.300371+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:53.300373+00:00"
+}

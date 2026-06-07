@@ -1,0 +1,30 @@
+{
+  "id": "7739c37ae82a9374",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Bandeja eléctrica TMT-18230-5 - Entregada para construcción/185107-SK-E001.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 440551,
+  "size_human": "430 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "185107-SK-E001",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 216,
+  "token_estimate": 54,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/7739c37ae82a9374.json",
+  "extracted_path": ".yeyo-memory/extracted/7739c37ae82a9374.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20190201161108-06'00'",
+      "Creator": "AutoCAD 2017 - English 2017 (21.0s (LMS Tech))",
+      "ModDate": "D:20190201161110-06'00'",
+      "Producer": "pdfplot13.hdi 13.00.402.000",
+      "Title": "E002"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:22:16.941501+00:00"
+}

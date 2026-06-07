@@ -1,0 +1,43 @@
+{
+  "id": "4ef64a31b83aeafd",
+  "path": "01 GD AE/C&S/CAL/4521-CAL-AEE-75-52-0005-GAR-901_Rev00.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 41449,
+  "size_human": "40 KB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-CAL-AEE-75-52-0005-GAR-901 Rev00",
+  "doc_code": "4521-CAL-AEE-75-52-0005",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2169,
+  "token_estimate": 542,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/4ef64a31b83aeafd.json",
+  "extracted_path": ".yeyo-memory/extracted/4ef64a31b83aeafd.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 40
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:07.362039+00:00"
+}

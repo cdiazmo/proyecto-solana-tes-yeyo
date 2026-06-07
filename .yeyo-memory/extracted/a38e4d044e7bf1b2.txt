@@ -1,0 +1,221 @@
+[page 1]
+ 
+ABENGOA 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+Technical Instruction 
+ 
+Title 
+Operational Limits 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-MOM-LOI-039-062-0003-GAR 
+Revision: 02 
+Date: 08/03/2019 
+ 
+Prepared by: 
+ Jon Ander Agúndez 
+ 
+Reviewed by: 
+Iñaki Ugarte 
+ 
+Approved by: 
+Aitor López de Subijana 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the express 
+written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENGOA 
+Document: 4521-MOM-LO-039-062-0003-GAR 
+Revision: 03 Date: 08/03/2019 
+Page: 2 of 7 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 10/10/2016 Initial Issue JAA IU ALS 
+01 18/10/2016 Design Pressure Updating JAA IU ALS 
+02 08/03/2019 Point 4.a JAA IU ALS 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ABENGOA 
+Document: 4521-MOM-LO-039-062-0003-GAR 
+Revision: 03 Date: 08/03/2019 
+Page: 3 of 7 
+ 
+ 
+Index 
+ 
+ 
+1. Aim ......................................................................................................................................... 4 
+2. Design condition .................................................................................................................... 4 
+3. Variation ratio in operation conditions ................................................................................. 4 
+4. Operation area....................................................................................................................... 5 
+5. Others .................................................................................................................................... 7 
+ 
+ 
+
+[page 4]
+ABENGOA 
+Document: 4521-MOM-LO-039-062-0003-GAR 
+Revision: 03 Date: 08/03/2019 
+Page: 4 of 7 
+ 
+1. Aim 
+ 
+The purpose of this document is to define the Operational limits of the Oil to Salt 
+Heat Exchanger of Solana Thermosolar Power Plant (Arizona, USA). 
+2. Design condition 
+ 
+Oil side (tube side): 
+ Design 
+Temperature 399 ºC 750.2 ºF 
+Pressure 22 & FV barg 320 & FV psig 
+ 
+ 
+Salt side (shell side): 
+ Design 
+Temperature 399 ºC 750.2 ºF 
+Pressure 22 & FV barg 320 & FV psig 
+3. Variation ratio in operation conditions 
+ 
+Once the Oil to Salt Heat Exchangers is set in operation, the following are the 
+maximum allowable temperature variations allowed: 
+ 
+ Thermal shock +/- 126 ºF (70 ºC), i.e. rapid temperature change for incoming 
+fluids must not be greater than +/- 126 ºF (70 ºC). 
+This thermal shock is measured at the inlet of both sides, considering the 
+following: 
+- Thermal shock HTF side = Temperature from Solar Field/SGS – 
+Temperature at the inlet of the heat exchangers. 
+- Thermal shock Salt side = Temperature from hot/cold salt tank – 
+Temperature at the inlet of the heat exchangers. 
+ 
+
+[page 5]
+ABENGOA 
+Document: 4521-MOM-LO-039-062-0003-GAR 
+Revision: 03 Date: 08/03/2019 
+Page: 5 of 7 
+ 
+ Maximum heating/cooling ramp for incoming fluids must not be greater than 
+18 ºF/min (10 ºC/min). 
+4. Operation area 
+ 
+A. Temperatures 
+ 
+There are three different situations to set the equipment into operation: 
+ Initially there is no flow of two fluids 
+When one of the fluids starts to flow, its inlet temperature must not be either 
+higher or lower than 126 ºF (70 ºC) over the temperature of that fluid inside 
+the train. 
+ 
+|ΔT| < 126 ºF 
+ 
+ 
+ 
+ 
+ 
+ 
+In the event of prolonged stand-by of the equipment and in order not to 
+surpass the above limit, the maximum molten salts flow to be run through the 
+equipment shall not exceed the 5% of the design flow. 
+ 
+ Initially there is flow of one fluid 
+When the other fluid starts to flow, its inlet temperature must not be higher or 
+lower than 216 ºF (120 ºC) over the inlet temperature of the other fluid in the 
+train. 
+ 
+ 
+ 
+ΔT T T inlet 
+
+[page 6]
+ABENGOA 
+Document: 4521-MOM-LO-039-062-0003-GAR 
+Revision: 03 Date: 08/03/2019 
+Page: 6 of 7 
+ 
+ 
+|T1 – T4| < 216 ºF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Both fluids in circulation 
+There is not a temperature limitation. Operation temperature of the train has 
+to be between 500 ºF (260 ºC) and 752 ºF (400 ºC). If the process works 
+under 500 ºF (260 ºC), there is a risk of salt freezing. 
+ 
+|T1 – T4| > no limitation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The temperatures of the equipment will be measured with the instruments located 
+upstream considering the operation mode they perform under (Charge or 
+Discharge). 
+ 
+T1 T3 T4 T2 TES Train (6 Hex in series) HTF inlet Salt outlet HTF outlet Salt inlet T1 T3 T4 T2 TES Train (6 Hex in series) HTF inlet Salt outlet HTF outlet Salt inlet 
+
+[page 7]
+ABENGOA 
+Document: 4521-MOM-LO-039-062-0003-GAR 
+Revision: 03 Date: 08/03/2019 
+Page: 7 of 7 
+ 
+Heat exchanger has always to be filled with salt to avoid a great temperature 
+difference between shell and tube side before starting the operation. 
+ 
+From the temperature limitation point of view, which fluid (cold or hot) begins to 
+circulate has no influence. 
+ 
+B. Mass flow 
+ 
+It is considered that there is HTF flow when the value is higher than 435.600 lb/hr 
+(55 kg/s) per train. Pressure drop corresponding to this flow is 0,6 psi (0,04 bar). 
+ 
+It is considered that there is SALT flow when the value is higher than 674.600 lb/hr 
+(85 kg/s) per train. Pressure drop corresponding to this flow is 0,8 psi (0,06 bar). 
+ 
+Maximum SALT mass flow allowed of the equipment is 7.284.705 lb/hr (920 kg/s) 
+per train. Pressure drop corresponding to this flow is 83 psi (5,72 bar). 
+ 
+Maximum HTF mass flow allowed of the equipment is 4.516.173 lb/hr (570 kg/s) per 
+train. Pressure drop corresponding to this flow is 57 psi (3,93 bar). 
+Pressure drop values are calculated so the real ones have to be updated during the 
+commissioning stage. 
+5. Others 
+There is no special temperature limitation for the drain with N2, apart for the 18 
+ºF/min (10 ºC/min) temperature ramp. In this case, the ramp will be measured with 
+the average of the drain outlet temperatures. 
+The above mentioned limitations (sections 3, 4, and 5) will also apply for 
+temperature limits for initial filling, cold start and heat tracing heating ramp. 
+There is no limitation for pressure differences between fluids.

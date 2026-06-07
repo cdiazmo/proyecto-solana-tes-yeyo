@@ -1,0 +1,214 @@
+{
+  "id": "e0e929fb211a56a8",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P274-GAR_901_Rev02_ Thermal energy storage Un6 HTF to salt.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 41538,
+  "size_human": "41 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "4521 PLN AEE 68 71 P274-GAR 901 Rev02 Thermal energy storage Un6 HTF to salt",
+  "doc_code": "4521-PLN-AEE-68-71-P274",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2311,
+  "token_estimate": 577,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/e0e929fb211a56a8.json",
+  "extracted_path": ".yeyo-memory/extracted/e0e929fb211a56a8.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 45
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::74",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 74,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR",
+        "title": "PID IFC",
+        "revision": "2",
+        "status": "",
+        "date": "2017-03-24 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx::Document::13",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 13,
+        "doc_code": "4521-PLN-AEE-68-71-P274",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx::Document::62",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 62,
+        "doc_code": "4521-PLN-AEE-68-71-P274",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::101",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 101,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR-Rev02- Thermal energy storage Un6 HTF to salt",
+        "title": "",
+        "revision": "4521_PLN_AEE_68_71_P274-GAR_Rev02_ Thermal energy storage Un6 HTF to salt",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::74",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 74,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR",
+        "title": "PID IFC",
+        "revision": "2",
+        "status": "",
+        "date": "2017-03-24 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::68",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 68,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR",
+        "title": "Thermal energy storage Un6 HTF to salt",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": "M&P"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::101",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 101,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR-Rev02- Thermal energy storage Un6 HTF to salt",
+        "title": "",
+        "revision": "4521_PLN_AEE_68_71_P274-GAR_Rev02_ Thermal energy storage Un6 HTF to salt",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::124",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 124,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR-Rev02- Thermal energy storage Un6 HTF to salt",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::174",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 174,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR-Rev02- Thermal energy storage Un6 HTF to salt",
+        "title": "",
+        "revision": "3",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::167",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 167,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR-Rev02- Thermal energy storage Un6 HTF to salt",
+        "title": "",
+        "revision": "2",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0016-GAR_901 Rev.00 Control cable list.xlsx::Document::13",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0016-GAR_901 Rev.00 Control cable list.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 13,
+        "doc_code": "4521-PLN-AEE-68-71-P274",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::103",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 103,
+        "doc_code": "4521-PLN-AEE-68-71-P274-GAR-Rev02- Thermal energy storage Un6 HTF to salt",
+        "title": "",
+        "revision": "4521_PLN_AEE_68_71_P274-GAR_Rev02_ Thermal energy storage Un6 HTF to salt",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx::Document::13",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 13,
+        "doc_code": "4521-PLN-AEE-68-71-P274",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:30.092421+00:00"
+}

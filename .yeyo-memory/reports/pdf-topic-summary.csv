@@ -1,0 +1,12 @@
+topic,pdfs,legibles,legibilidad,requiere_ocr,errores,con_codigo,text_chars,chunks,token_estimate
+Proceso y mecanica,303,238,78.5%,20,0,165,4425597,2896,1106310
+Tuberias e isometricos,627,267,42.6%,2,0,362,3328117,2199,831933
+Instrumentacion y control,90,85,94.4%,0,0,81,3319965,2133,829962
+Civil y estructuras,229,90,39.3%,0,0,223,2997309,1929,749300
+General / otros,71,48,67.6%,1,0,67,1630317,1053,407563
+Fabricacion y compras,23,20,87.0%,2,0,1,882909,567,220721
+Permisos y documentacion oficial,37,27,73.0%,0,0,16,843860,547,210954
+Especificaciones tecnicas,24,13,54.2%,4,0,14,183572,121,45888
+Electricidad,2,2,100.0%,0,0,1,99485,64,24871
+Corrosion y sal,2,2,100.0%,0,0,0,15648,11,3912
+Informes de avance,1,1,100.0%,0,0,0,7343,5,1835

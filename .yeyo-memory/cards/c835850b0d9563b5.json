@@ -1,0 +1,67 @@
+{
+  "id": "c835850b0d9563b5",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-00-35-0002_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 43184,
+  "size_human": "42 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-00-35-0002 R1",
+  "doc_code": "4521-ESP-AGE-00-35-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 6668,
+  "token_estimate": 1667,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/c835850b0d9563b5.json",
+  "extracted_path": ".yeyo-memory/extracted/c835850b0d9563b5.txt",
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110429225720+02'00'",
+      "ModDate": "D:20110429225720+02'00'",
+      "Title": "4521-ESP-AGE-00-35-0002_Rev0 FO cable specification",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "agjhr",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.070655+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::220",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 220,
+        "doc_code": "4521-ESP-AGE-00-35-0001",
+        "title": "Control Cables",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::220",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 220,
+        "doc_code": "4521-ESP-AGE-00-35-0001",
+        "title": "Control Cables",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:02.070658+00:00"
+}

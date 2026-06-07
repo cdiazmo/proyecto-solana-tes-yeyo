@@ -1,0 +1,78 @@
+{
+  "id": "fcb6bdf661d9f069",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0005_R2 Radar Level Instruments Specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 568196,
+  "size_human": "555 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-70-0005 R2 Radar Level Instruments Specification",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 29154,
+  "token_estimate": 7288,
+  "chunks": 19,
+  "card_path": ".yeyo-memory/cards/fcb6bdf661d9f069.json",
+  "extracted_path": ".yeyo-memory/extracted/fcb6bdf661d9f069.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1015,
+        "non_empty_rows": 22
+      },
+      {
+        "name": "Cover Sheet (2)",
+        "rows_seen": 1018,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet (3)",
+        "rows_seen": 1018,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index",
+        "rows_seen": 53,
+        "non_empty_rows": 18
+      },
+      {
+        "name": "LIT-204-05A",
+        "rows_seen": 63,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "LIT-204-05B",
+        "rows_seen": 63,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "Sketch 1",
+        "rows_seen": 69,
+        "non_empty_rows": 31
+      },
+      {
+        "name": "LT-205-22",
+        "rows_seen": 67,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "LT-205-24",
+        "rows_seen": 68,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "LT-205-25",
+        "rows_seen": 67,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "Sketch 2",
+        "rows_seen": 67,
+        "non_empty_rows": 21
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:24.013969+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c4e5854cde85488d",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/Soportes atípicos/EDL_4_supports.xlsx",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "xlsx",
+  "size_bytes": 25066,
+  "size_human": "24 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "EDL 4 supports",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 9057,
+  "token_estimate": 2264,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/c4e5854cde85488d.json",
+  "extracted_path": ".yeyo-memory/extracted/c4e5854cde85488d.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "ATYP steel struc",
+        "rows_seen": 24,
+        "non_empty_rows": 24
+      },
+      {
+        "name": "Sheet1",
+        "rows_seen": 109,
+        "non_empty_rows": 107
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:23:39.030364+00:00"
+}

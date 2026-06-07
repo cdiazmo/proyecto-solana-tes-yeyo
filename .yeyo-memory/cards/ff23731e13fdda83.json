@@ -1,0 +1,30 @@
+{
+  "id": "ff23731e13fdda83",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/Helio U1-5.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 2914423,
+  "size_human": "2.8 MB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "Helio U1-5",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/ff23731e13fdda83.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 47,
+    "pdf_metadata": {
+      "CreationDate": "D:20201113120139+01'00'",
+      "Creator": "KM_368",
+      "ModDate": "D:20201113120139+01'00'",
+      "Producer": "KONICA MINOLTA bizhub 368",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:26.699938+00:00"
+}

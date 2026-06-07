@@ -1,0 +1,53 @@
+{
+  "id": "c9ceb1d8ebdd3303",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0010_R2 Vortex.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 230246,
+  "size_human": "225 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0010 R2 Vortex",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 14657,
+  "token_estimate": 3664,
+  "chunks": 10,
+  "card_path": ".yeyo-memory/cards/c9ceb1d8ebdd3303.json",
+  "extracted_path": ".yeyo-memory/extracted/c9ceb1d8ebdd3303.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1014,
+        "non_empty_rows": 21
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 72,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index",
+        "rows_seen": 53,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "FIT-X25302",
+        "rows_seen": 61,
+        "non_empty_rows": 48
+      },
+      {
+        "name": "Sheet1",
+        "rows_seen": 59,
+        "non_empty_rows": 14
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:14.499537+00:00"
+}

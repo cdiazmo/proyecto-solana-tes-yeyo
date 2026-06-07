@@ -1,0 +1,156 @@
+{
+  "id": "55162faa66c2a098",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-64-0001_R2 Central Distribution - Globe Control Valve.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 997195,
+  "size_human": "974 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-64-0001 R2 Central Distribution - Globe Control Valve",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 74064,
+  "token_estimate": 18516,
+  "chunks": 47,
+  "card_path": ".yeyo-memory/cards/55162faa66c2a098.json",
+  "extracted_path": ".yeyo-memory/extracted/55162faa66c2a098.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 21
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 66,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 68,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index",
+        "rows_seen": 86,
+        "non_empty_rows": 29
+      },
+      {
+        "name": "LV-20405",
+        "rows_seen": 64,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "LV-20409B",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "TV 1-20408A",
+        "rows_seen": 64,
+        "non_empty_rows": 56
+      },
+      {
+        "name": "FV-20005A",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "FV-20005B",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "FV-20005C",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "FV-20005D",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "FV-20005E",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "FV-20005F",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "FV-20005G",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "FV-20005H",
+        "rows_seen": 63,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-20005J",
+        "rows_seen": 63,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-20005K",
+        "rows_seen": 63,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-20105A",
+        "rows_seen": 63,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "FV-20105B",
+        "rows_seen": 63,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "TV 101-05",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      },
+      {
+        "name": "TV 103-05",
+        "rows_seen": 64,
+        "non_empty_rows": 58
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::223",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 223,
+        "doc_code": "4521-ESP-AGE-58-64-0005",
+        "title": "Heat Transfer Fluid (HTF) Services rotary control valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::223",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 223,
+        "doc_code": "4521-ESP-AGE-58-64-0005",
+        "title": "Heat Transfer Fluid (HTF) Services rotary control valve",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:21.069399+00:00"
+}

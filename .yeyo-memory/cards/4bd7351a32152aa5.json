@@ -1,0 +1,22 @@
+{
+  "id": "4bd7351a32152aa5",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes de tubería HTF RFI015/_4521-TMT-DOT-0016.xlsx",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "xlsx",
+  "size_bytes": 334,
+  "size_human": "334 B",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-TMT-DOT-0016",
+  "doc_code": null,
+  "revision": null,
+  "status": "error",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/4bd7351a32152aa5.json",
+  "extracted_path": null,
+  "metadata": {
+    "error": "File is not a zip file"
+  },
+  "processed_at": "2026-06-05T09:22:30.768531+00:00"
+}

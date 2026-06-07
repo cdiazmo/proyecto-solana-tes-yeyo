@@ -1,0 +1,67 @@
+{
+  "id": "5416c3b3c0497e05",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-67-70-0022_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 67533,
+  "size_human": "66 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-67-70-0022 R1",
+  "doc_code": "4521-ESP-AGE-67-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13545,
+  "token_estimate": 3386,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/5416c3b3c0497e05.json",
+  "extracted_path": ".yeyo-memory/extracted/5416c3b3c0497e05.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.04",
+      "CreationDate": "D:20120529143157+02'00'",
+      "ModDate": "D:20120529143157+02'00'",
+      "Title": "4521-ESP-AGE-67-70-0022",
+      "Creator": "PDFCreator Version 1.2.3",
+      "Author": "agvari",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:56.007877+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::175",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 175,
+        "doc_code": "4521-ESP-AGE-67-70-0021",
+        "title": "Distribuidores de aire especificaciones técnicas",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::175",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 175,
+        "doc_code": "4521-ESP-AGE-67-70-0021",
+        "title": "Distribuidores de aire especificaciones técnicas",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:56.007878+00:00"
+}

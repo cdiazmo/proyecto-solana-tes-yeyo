@@ -1,0 +1,31 @@
+{
+  "id": "5563117b65f64f48",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-002 Monthly Report - 2020 March.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 751234,
+  "size_human": "734 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "19500201-INF-002 Monthly Report - 2020 March",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13532,
+  "token_estimate": 3383,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/5563117b65f64f48.json",
+  "extracted_path": ".yeyo-memory/extracted/5563117b65f64f48.txt",
+  "metadata": {
+    "pages": 13,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20200325140741+01'00'",
+      "Creator": "Microsoft® Word para Office 365",
+      "ModDate": "D:20200325141654+01'00'",
+      "Producer": "Microsoft® Word para Office 365",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:27.388695+00:00"
+}

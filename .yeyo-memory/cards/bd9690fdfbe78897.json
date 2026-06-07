@@ -1,0 +1,34 @@
+{
+  "id": "bd9690fdfbe78897",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/CAL/4521-CAL-AGE-75-52-0003_Rev1-GAR.PDF",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 1478939,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-CAL-AGE-75-52-0003 Rev1-GAR",
+  "doc_code": "4521-CAL-AGE-75-52-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 78581,
+  "token_estimate": 19645,
+  "chunks": 50,
+  "card_path": ".yeyo-memory/cards/bd9690fdfbe78897.json",
+  "extracted_path": ".yeyo-memory/extracted/bd9690fdfbe78897.txt",
+  "metadata": {
+    "pages": 43,
+    "pdf_metadata": {
+      "Title": "4521-CAL-AGE-75-52-0003_Rev0-GAR",
+      "Author": "Pedro Pajares de Tena",
+      "Subject": "",
+      "Producer": "Mac OS X 10.13.3 Quartz PDFContext",
+      "Creator": "Word",
+      "CreationDate": "D:20180406174333Z00'00'",
+      "ModDate": "D:20180406174333Z00'00'",
+      "Keywords": "",
+      "AAPL:Keywords": "[]"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:23:24.645477+00:00"
+}

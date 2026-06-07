@@ -1,0 +1,36 @@
+{
+  "id": "f0f335d6046fe9e0",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Fundación de soporte de tuberías TMT-18230-06/4521-PLN-AEE-75-52-0006-GAR_Rev06-Sheet 3.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 2109074,
+  "size_human": "2.0 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-AEE-75-52-0006-GAR Rev06-Sheet 3",
+  "doc_code": "4521-PLN-AEE-75-52-0006",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/f0f335d6046fe9e0.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2018 - English 2018 (22.0s (LMS Tech))",
+      "Title": "Sheet 3",
+      "Producer": "pdfplot14.hdi 14.00.049.000",
+      "CreationDate": "D:20190221150511",
+      "ModDate": "D:20190221150511"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:04.502125+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:04.524755+00:00"
+}

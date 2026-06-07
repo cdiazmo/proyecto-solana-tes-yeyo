@@ -1,0 +1,68 @@
+{
+  "id": "867ec8eaffddab56",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AGE-27-23-P649 - R1_RP-163419_SLD_TES HEX Change.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 305912,
+  "size_human": "299 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AGE-27-23-P649 - R1 RP-163419 SLD TES HEX Change",
+  "doc_code": "4521-PLN-AGE-27-23-P649",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 63,
+  "token_estimate": 15,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/867ec8eaffddab56.json",
+  "extracted_path": ".yeyo-memory/extracted/867ec8eaffddab56.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-PLN-AGE-27-23-P649- R1.dwg",
+      "4521-PLN-AGE-27-23-P649- R1.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 362140,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::48",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 48,
+        "doc_code": "4521-PLN-AGE-27-23-P649-R02 RP-163419",
+        "title": "",
+        "revision": "4521-PLN-AGE-27-23-P649_R02 RP-163419",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::48",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 48,
+        "doc_code": "4521-PLN-AGE-27-23-P649-R02 RP-163419",
+        "title": "",
+        "revision": "4521-PLN-AGE-27-23-P649_R02 RP-163419",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::48",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 48,
+        "doc_code": "4521-PLN-AGE-27-23-P649-R02 RP-163419",
+        "title": "",
+        "revision": "4521-PLN-AGE-27-23-P649_R02 RP-163419",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:58.978654+00:00"
+}

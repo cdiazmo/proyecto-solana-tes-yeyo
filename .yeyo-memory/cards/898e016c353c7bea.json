@@ -1,0 +1,81 @@
+{
+  "id": "898e016c353c7bea",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0020_R0 Differential Pressure Gauge.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 193984,
+  "size_human": "189 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-70-0020 R0 Differential Pressure Gauge",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13909,
+  "token_estimate": 3477,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/898e016c353c7bea.json",
+  "extracted_path": ".yeyo-memory/extracted/898e016c353c7bea.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1014,
+        "non_empty_rows": 17
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 69,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 69,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Index",
+        "rows_seen": 66,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "HTF IP",
+        "rows_seen": 66,
+        "non_empty_rows": 48
+      },
+      {
+        "name": "HTF IP List I",
+        "rows_seen": 54,
+        "non_empty_rows": 8
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::94",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 94,
+        "doc_code": "4521-ESP-AGE-58-70-0015",
+        "title": "Temperature Indicators Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::94",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 94,
+        "doc_code": "4521-ESP-AGE-58-70-0015",
+        "title": "Temperature Indicators Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:25.537078+00:00"
+}

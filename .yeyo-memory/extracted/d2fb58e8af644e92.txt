@@ -1,0 +1,2353 @@
+[page 1]
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+RADIOGRAPHIC EXAMINATION 
+PROCEDURE 
+ 
+ 
+Title 
+Radiographic Examination Procedure 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-INS-LOI-039-062-0006-GAR 
+Supplier Code: 1950101-PRX-001 
+Revision: 00 
+Date: 30/10/2017 
+ 
+Prepared by: 
+ Eneko Lerma Maldonado 
+ 
+ 
+Reviewed by: 
+Eneko Lerma Maldonado 
+ 
+ 
+Approved by: 
+Jon Baranda Merino 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Document: 4521-INS-LOI-039-062-0006-GAR 
+ 
+Revision: 00 Date: 30/10/2017 
+Page: 2 of 2 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 30/10/2017 Initial issue E.L.M. E.L.M. J.B.M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+ 
+RADIOGRAPHIC EXAMINATION 
+GENERAL PROCEDURE 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PRX-01 
+ 
+DATE: 30.10.17 Pag 1/48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RADIOGRAPHIC EXAMINATION 
+GENERAL PROCEDURE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUSTOMER / CLIENTE : ARIZONA SOLAR ONE. 
+JOB / TRABAJO : ENGINEERING / OIL TO SLT HEAT EXCHANGER 
+LOINTEK REF : 1950101 
+CUSTOMER REF. : 4500865375 
+PROJECT / PROYECTO : 
+HEX replacement TES Solana 
+PLANT / PLANTA : 
+LOCATION / LOCALIDAD : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+REVISION 
+DATE 
+FECHA 
+DESCRIPTION 
+DESCRIPCION 
+Issued 
+Realizado 
+Rev. & Aprov. 
+Rev. & Aprob. 
+Aproved 
+Aprobado 
+0 30-10-17 INITIAL ISSUE M.N.F. S.R.S. S.R.S 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ 
+ 
+ 
+RADIOGRAPHIC EXAMINATION 
+GENERAL PROCEDURE 
+ 
+REV : 
+ 
+0 
+ 
+ISSUED BY: 
+ 
+Q.D. 
+ 
+1950101-PRX-01 
+ 
+DATE: 30.10.17 Pag 2/48 
+ 
+ 
+ 
+ 
+ 
+ 
+1.0 OBJECT 
+ 
+This procedure provides general requirements for radiographic inspection of steel 
+welded joints using gamma or X rays sources. 
+ 
+ 
+2.0 SCOPE 
+ 
+As specified in the particular Inspection Program of the component 
+ 
+ 
+3.0 REFERENCES 
+ 
+ASME Code, Section V – Non Destructive Testing (2015 Edition) 
+ASME Code, Section VIII Div 2 – Pressure Vessels (2015 Edition) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 5]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 1 de 46 
+ 
+Action / Acción Nombre / Name Firma / Sign Fecha / Date
+Elaborado 
+Prepared MARIO NIETO 
+ 
+14/06/2017 
+Revisado/Aprobado 
+Reviewed/Approved 
+SERGIO RÍO 
+(Nivel 3 según SNT-TC-1A) 
+ 
+14/06/2017 
+Procedimiento propiedad de EUROCONTROL. Prohibida su distribución sin autorización 
+Procedure property of EUROCONTROL. Unauthorized distribution forbidden 
+Documento aprobado electrónicamente en sistema informático de EUROCONTROL S.A. 
+Document electronically approved trough EUROCONTROL S.A. computer system 
+ 
+TABLA DE CONTENIDO 
+1.  OBJETO ................................................................................................................................................ 3 
+2.  ALCANCE ............................................................................................................................................. 3 
+3.  RESPONSABILIDADES ....................................................................................................................... 3 
+4.  DOCUMENTACIÓN DE REFERENCIA ................................................................................................ 4 
+5.  TÉRMINOS Y DEFINICIONES ............................................................................................................. 4 
+6.  CUALIFICACION DEL PERSONAL ...................................................................................................... 5 
+7.  EQUIPOS NECESARIOS Y CONSUMIBLES ...................................................................................... 5 
+7.1.  Fuentes ......................................................................................................................................... 5 
+7.2.  Película ......................................................................................................................................... 5 
+7.3.  Pantallas intensificadoras ............................................................................................................. 5 
+7.4.  Densitómetro ................................................................................................................................ 5 
+7.5.  Instalaciones de visualización ...................................................................................................... 6 
+8.  REQUISITOS DE CALIBRACIÓN Y/O VERIFICACIÓN ...................................................................... 6 
+9.  REALIZACIÓN DEL ENSAYO .............................................................................................................. 6 
+9.1.  Preparación del ensayo ................................................................................................................ 6 
+9.1.1.  Acceso a la documentación ................................................................................................. 6 
+9.1.2.  Condición superficial ............................................................................................................ 7 
+9.1.3.  Condiciones ambientales ..................................................................................................... 7 
+9.2.  Sistema de identificación .............................................................................................................. 7 
+9.3.  Método de ensayo. ....................................................................................................................... 8 
+9.3.1.  Técnica radiográfica ............................................................................................................. 8 
+9.3.2.  Marcadores de localización .................................................................................................. 9 
+9.3.3.  Penumbra geométrica .......................................................................................................... 9 
+9.3.4.  Indicadores de calidad de imagen (IQI). ............................................................................ 10 
+9.3.5.  Procesado .......................................................................................................................... 11 
+9.3.6.  Requisitos de calidad de las radiografías........................................................................... 11 
+10.  REGISTRO E INFORME DE LOS RESULTADOS ........................................................................ 12 
+11.  EVALUACIÓN DE LAS RADIOGRAFÍAS: CRITERIOS DE ACEPTACIÓN .................................. 13 
+12.  INFORME FINAL DE ENSAYO ...................................................................................................... 14 
+TABLAS ...................................................................................................................................................... 15 
+ANEXO 1: DISPOSICIONES RECOMENDADAS DE ENSAYO ............................................................... 17 
+ANEXO 2. CRITERIOS DE ACEPTACIÓN PARA INDICACIONES REDONDEADAS ............................. 18 
+ 
+ 
+ 
+TRANSLATION TO ENGLISH………………………………...………………………………………FROM PAGE 26 TO 47
+
+[page 6]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 2 de 46 
+ 
+ 
+REVISIONES DEL DOCUMENTO 
+EVOLUTION OF THE DOCUMENT 
+ 
+REV.* DATE / FECHA MOTIVO DE LA REVISIÓN / REVISION CAUSE 
+00 17/01/2011 EDICIÓN INIC IAL / INITIAL EDITION 
+01 21/02/2012 Correcciones varias. Cambios en los criterios de aceptación / Multiple corrections. 
+Changes in the acceptance criteria. 
+02 24/10/2012 Actualización por addenda 2011 / update to addenda 2011 
+03 17/04/2013 Referencia Model o de Informe / Reference to Model of Report 
+04 06/09/2013 Traducción al Inglés / Translate to English 
+05 30/12/2013 Actualización a la Ed. 2013 y correcciones / Update to 2013 Ed. and corrections 
+06 10/07/2014 Correcciones s/2DA8Q DS005 Rev.01 / Corrections acc/2DA8QDS005 Rev.01 
+07 08/01/2016 Actualiz ación a la Ed. 2015 / Update to 2015 Ed. 
+08 14/06/2017 Corrección / Correction 
+*: Cambios en la última revisión son indicados con una línea vertical en cada párrafo modificado. 
+*: Last revision changes are indicated with a vertical line at each paragraph amended 
+
+[page 7]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 3 de 46 
+ 
+ 
+1. OBJETO 
+ 
+El objeto de este procedimiento es establecer los requisitos mí nimos para la realización de examen por 
+radiografía de uniones soldadas, de acuerdo con los requisitos de ASME V, ASME VIII Div.2, 2015 
+Edition. 
+ 
+ 
+2. ALCANCE 
+ 
+Este procedimiento se utiliza en el trabajo realizado por EUROC ONTROL en los talleres y obras de 
+los fabricantes de los recipientes de presión. Proporciona paut as y/o requisitos mínimos a satisfacer 
+para asegurarse de que el examen radiográfico de juntas soldada s está realizado y evaluado de 
+acuerdo con la documentación de referencia indicada en el punto correspondiente de este 
+procedimiento. 
+ 
+Este procedimiento será de aplicaciones para el examen radiográ fico mediante fuentes de Iridio 
+192, Selenio 75 o Cobalto 60 (rayos gamma) y Tubos de rayos X, de juntas soldadas a tope con 
+espesores comprendidos entre 0 y 200 milímetros en materiales ferríticos, austeníticos y sus aleaciones. 
+ 
+NOTA: este procedimiento cubre de forma general el radiografiad o al 100% de las uniones 
+soldadas de un recipiente a presión. En caso de que el CLIENTE O EL INSPECTOR AUTORIZADO 
+requiera específicamente (mediante pedido) realizar radiografía s por puntos (radiografía parcial) se 
+deberá radiografiar los puntos indicados por el cliente o el inspector autorizado. 
+ 
+ 
+3. RESPONSABILIDADES 
+ 
+Será responsabilidad del peticionario de los trabajos: 
+ Definir la extensión de la zona a ensayar. 
+ Determinar si se debe realizar radiografiado al 100% o radiogr afiado parcial, además será 
+responsable de comunicárselo a EUROCONTROL. En caso de ser radi ografía parcial, el 
+cliente o el inspector autorizado deberá indicar en qué zonas se deben tomar radiografías. 
+ Definir la identificación de las zonas a ensayar y de los elem entos de ensayo que irán 
+referenciadas en el informe de ensayo. 
+ Definir los criterios de aceptación dentro de la normativa apl icable cuando existan varios 
+niveles de calidad. 
+ La entrega de toda la documentación aplicable o de interés par a la inspección a 
+EUROCONTROL. 
+ Instalar todas las medidas de seguridad indicadas por la compañía de radiografiado 
+ 
+Será responsabilidad de EUROCONTROL: 
+ La correcta aplicación de este procedimiento. 
+ La inclusión de los datos anteriores en el registro del exame n 
+ Cumplir en todo momento con la legislación aplicable sobre seg uridad del equipo emisor de 
+radiación GAMMA. 
+ Determinar la clase de ensayo a aplicar en función del nivel de aceptación especificado. 
+ 
+ 
+
+[page 8]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 4 de 46 
+ 
+ 
+ 
+4. DOCUMENTACIÓN DE REFERENCIA 
+ 
+La realización de este procedimiento se ha basado en los siguie ntes documentos de referencia, 
+normas y/o códigos aplicables: 
+ 
+ ASME V Art. 2, 2015 Edition. 
+ ASME VIII Div.2 AI-5 / Annex 8, 2015 Edition. 
+ 
+ 
+5. TÉRMINOS Y DEFINICIONES 
+ 
+Serán de aplicación para la correcta comprensión de este procedimiento las siguientes definiciones: 
+ 
+ Indicaciones redondeadas. Las indicaciones con una longitud má xima de tres veces el ancho o 
+menos en la radiografía se definen como indicaciones redondeada s. Estas indicaciones pueden 
+ser circulares, elípticas, cónico o irregular en forma y tengan colas. Al evaluar el tamaño de una 
+indicación, se incluirá la cola. La indicación puede ser de cualquier imperfección de la soldadura, 
+tales como la porosidad, escoria o tungsteno. 
+ 
+ Indicaciones alineadas. Una secuencia de cuatro o más indicaci ones se considerará que están 
+alineadas cuando tocan una línea paralela a la longitud de la s oldadura que pasa por el centro 
+de las dos indicaciones de los extremos. 
+ 
+ Espesor t. t es el grosor de la soldadura, con exclusión de cu alquier refuerzo permitido. Para 
+una soldadura a tope que una dos partes con diferentes espesore s en la soldadura, t es el más 
+fino de estos dos espesores. Si una soldadura de penetración co mpleta incluye una soldadura 
+en ángulo, el espesor de la garganta del acuerdo se incluirán en t. 
+ 
+ Indicación alargada: son aquellas de longitud mayor a 3 veces su anchura. 
+ 
+ Indicaciones lineales relevantes. Se considerarán indicaciones lineales relevantes todas 
+aquellas indicaciones lineales que no cumplan con el criterio d e aceptación establecido más 
+adelante. 
+ 
+Además de estas definiciones serán de aplicación todas las defi niciones indicadas en el apartado 7 del 
+artículo 30 de ASME V, 2015 Edition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 9]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 5 de 46 
+ 
+ 
+6. CUALIFICACION DEL PERSONAL 
+ 
+El personal que intervenga en los exámenes no destructivos segú n este procedimiento debe de estar 
+calificado y certificado conforme al procedimiento general EC-E ND-AS-PCA, en un nivel adecuado en el 
+método de radiografía industrial. 
+ 
+Tanto el control como la evaluación de indicaciones deberán ser llevados a cabo por personal 
+cualificado al menos como Nivel II. 
+ 
+Los operadores del equipo radiactivo deben tener la licencia de operador, publicada por el consejo 
+español de seguridad nuclear. 
+ 
+ 
+7. EQUIPOS NECESARIOS Y CONSUMIBLES 
+ 
+El equipo y los materiales usados en pruebas radiográficas debe n estar en condiciones perfectas 
+para garantizar la calidad de las radiografías obtenidas y para facilitar su interpretación. 
+ 
+7.1. Fuentes 
+ 
+Se utilizarán fuentes de Iridio 192, Selenio 75, Cobalto 60 y Tubos de rayos X de hasta 400kV. 
+ 
+El tamaño máximo de la fuente deberá constar en el documento pr ovisto por el fabricante para 
+todos los tipos de fuente. 
+ 
+7.2. Película 
+ 
+La película para el examen radiográfico deberá ser del Tipo II para recipientes de acero al carbono 
+que no requieran tratamiento térmico. En el resto de casos, se usarán del Tipo I. La identificación de los 
+tipos de películas según las distintas designaciones comerciale s de los principales fabricantes se 
+muestra en la tabla I. 
+ 
+En la tabla 2 se muestran recomendaciones al respecto de los di stintos tipos de película a usar en 
+función de los espesores; la correcta elección del tipo de pelí cula radiográfica a utilizar estará 
+confirmada en cualquier caso por la visualización del indicador de calidad de imagen (IQI) 
+correspondiente a ese espesor y material. 
+ 
+7.3. Pantallas intensificadoras 
+ 
+Las pantallas de intensificación podrán ser utilizadas al reali zar el examen radiográfico según este 
+procedimiento. Cuando se usen fuentes de Iridio 192, Selenio 75 o de Cobalto 60 será obligatorio el uso 
+de pantallas intensificadoras de plomo de al menos 0,02mm de es pesor en el frente y la parte posterior 
+de la película. La correcta elección del espesor de pantallas de plomo será confirmada en cualquier caso 
+por la visualización del indicador de calidad de imagen (IQI) correspondiente a ese espesor y material. 
+ 
+7.4. Densitómetro 
+ 
+Un densitómetro será utilizado para determinar la densidad radi ográfica de las películas. Los 
+densitómetros serán ca librados cada 90 días con una reglilla de nsitométrica NIST o con una reglilla 
+
+[page 10]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 6 de 46 
+ 
+ 
+densitométrica de calibración con trazabilidad a una reglilla N IST con un mínimo de 5 escalones y 
+densidades comprendidas al menos entre 1,0 y 4,0. 
+ 
+La verificación periódica de la calibración del densitómetro se rá realizada con una reglilla calibrada 
+al principio de cada turno, después de 8 horas de uso continuo o después del cambio de aperturas. Está 
+verificación no debe ser registrada. La desviación máxima entre la medida registrada por el densitómetro 
+y la establecida en la reglilla no debe superar ±0,05 unidades densitométricas. 
+ 
+Tanto el densitómetro como las reglillas de densidades (patrón y verificación) y sus procedimientos 
+de calibración y verificación deben cumplir con lo establecido en el procedimiento EC-END-EQU. 
+ 
+7.5. Instalaciones de visualización 
+ 
+Las instalaciones de visualización estarán provistas de una ilu minación de fondo tenue, con una 
+intensidad tal que no causan reflejos, sombras, o resplandor so bre la radiografía que puedan interferir 
+con el proceso de interpretación. 
+ 
+El equipo utilizado para la visualización e interpretación de r adiografías proporcionará una fuente 
+de luz variable suficiente para el agujero o alambre esencial d el IQI sean visibles para el rango de 
+densidad especificado. 
+ 
+Las condiciones de visualización será tal que la luz de alrededor del borde exterior de la radiografía 
+o llegando a través de la baja densidad de porciones de la radiografía no interfiere con la interpretación. 
+ 
+ 
+8. REQUISITOS DE CALIBRA CIÓN Y/O VERIFICACIÓN 
+ 
+Los equipos de inspección sujetos a calibración podrán ser prop ios, subcontratados, suministrados 
+por terceros siempre que se cumpla lo siguiente: 
+ 
+ Que la calibración y mantenimiento de los equipos propios de E UROCONTROL se realice de 
+acuerdo a lo establecido en el procedimiento interno EC-END-EQU. 
+ 
+ Que los equipos ajenos a EUROCONTROL cumplan: 
+o Estén correctamente identificados. 
+o Posean certificado de calibraci ón, emitido por laboratorio acreditado. 
+o Se compruebe que los resultados de la calibración, verificació n y mantenimiento sean 
+conformes a lo establecido en el procedimiento EC-END-EQU. 
+ 
+ 
+9. REALIZACIÓN DEL ENSAYO 
+ 
+9.1. Preparación del ensayo 
+ 
+9.1.1. Acceso a la documentación 
+ 
+La extensión del examen deberá ser determinada antes del inicio del mismo y puesta en 
+conocimiento del examinador; el cual deberá tener acceso a la d ocumentación de aplicación al examen 
+a realizar, tales como planos, registros de producción, especificaciones, etc. 
+
+[page 11]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 7 de 46 
+ 
+ 
+ 
+9.1.2. Condición superficial 
+ 
+Los materiales deben cumplir los requisitos aplicables a las es pecificaciones de materiales y, en 
+caso necesario, las irregularidades superficiales que pudiesen enmascarar defectos deben ser quitadas. 
+ 
+Cordones de soldadura excesivamente abultados o con irregularid ades superficiales – en ambos 
+lados si es accesible –deben ser eliminadas; las superficies de ben estar libres de marcas que puedan 
+dificultar la interpretación de las radiografías y deben ser eliminadas si lo indican los examinadores. 
+ 
+La superficie acabada de todas las soldaduras a tope debe estar enrasada con el material base o 
+tener un empalme razonablemente uniforme que permita la evaluac ión y la interpretación correctas de 
+las películas. 
+ 
+La superficie deberá estar a temperatura ambientea fin de no deteriorar las películas. 
+ 
+9.1.3. Condiciones ambientales 
+ 
+Se deberán cumplir las condiciones de seguridad y salud mínimas para el manejo y utilización de 
+fuentes de radiación marcadas por el consejo de seguridad nuclear. 
+ 
+EUROCONTROL debe informar a la gerencia el taller o el proyecto de las medidas requeridas para 
+garantizar la protección contra la radiación, para el personal que trabaja en el proyecto y el público en 
+general; así como asegurarse de su correcto cumplimiento. 
+ 
+9.2. Sistema de identificación 
+ 
+Un sistema debe ser utilizado por el cual las áreas radiografia das serán marcadas 
+permanentemente en los equipos. Se debe hacer un mapa de situac ión de radiografías u otro sistema 
+similar para permitir la identificación exacta de cada una de las áreas radiografiadas. 
+ 
+El sistema de la identificación aparecerá en la película radiog ráfica y no en la cubierta de la 
+película. 
+ 
+La imagen de los marcadores del s ector aparecerá en radiografía s simples y compuestas como 
+imagen radiográfica. 
+ 
+Cada radiografía debe ser identificada permanentemente con: 
+ 
+ Símbolo o nombre del fabricante. 
+ Fecha 
+ Orden de Trabajo. 
+ Numero de equipo o línea. 
+ Numero de soldadura. 
+ Número de soldador cuando sea requerido por el cliente. 
+ La letra R seguida del número de reparaciones realizadas. 
+ 
+
+[page 12]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 8 de 46 
+ 
+ 
+Dicha identificación permanente podrá ser o no una imagen radio gráfica, incluyendo la 
+identificación en la radiografía mediante proceso de revelado. En el segundo caso, el nivel II será 
+responsable de prestar especial atención al marcado provisional de las radiografías hasta su revelado 
+para garantizar la trazabilidad de las mismas. 
+ 
+El examinador radiográfico de nivel II repasará, interpretará, evaluará y aceptará las radiografías 
+terminadas y registrará los resultados según el apartado 10 del presente procedimiento. 
+ 
+ 
+9.3. Método de ensayo. 
+ 
+9.3.1. Técnica radiográfica 
+ 
+La técnica de exposición a pared simple será utilizada para la radiografía siempre que sea práctica. 
+Cuando no es práctico utilizar técnica de simple pared, la técn ica de doble pared será utilizada. Un 
+número adecuado de exposiciones será hecho para asegurar que se obtiene la cobertura requerida. En 
+la tabla 3 se muestran el número mínimo de exposiciones recomen dado para el radiografiado de 
+tuberías. 
+ 
+En el anexo 1 se muestran, a títu lo informativo, imágenes de la s distintas disposiciones de ensayo 
+indicadas a continuación. 
+ 
+9.3.1.1. Técnica de simple pared 
+ 
+En esta técnica, la radiación pasa a través de una única soldad ura, la cual es visualizada para 
+aceptación. 
+ 
+9.3.1.2. Técnicas de doble pared 
+ 
+Visionado de una única pared: La radiación pasa a través de dos soldaduras pero solo se evalú a 
+la soldadura del lado película. 
+Cuando se requiere cobertura completa, al menos 3 exposiciones a 120º deben ser realizadas. 
+ 
+Visionado de dos paredes: Para soldaduras de componentes de diámetro nominal exterior de 
+88mm o menos, la radiación pasa a través de dos paredes y la so ldadura en ambas paredes es 
+examinada en la misma radiografía. 
+ 
+ Proyección elíptica: la radiación puede estar desfasada del plano de la soldadura a un ángulo 
+suficiente para separar las imágenes del lado fuente y lado pel ícula sin que se solapen. Para 
+cobertura completa al menos 2 exposiciones a 90º deben ser realizadas. 
+ 
+ Plano sobre plano: alternativamente el haz de radiación puede sobreimpresionar la s imágenes 
+de ambas paredes. Cuando se requiere cobertura completa, un mín imo de 3 exposiciones a 60º 
+o 120º serán requeridas. 
+ 
+ 
+ 
+ 
+ 
+
+[page 13]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 9 de 46 
+ 
+ 
+9.3.2. Marcadores de localización 
+ 
+Los marcadores de localización serán colocados sobre la pieza, y aparecerán como imágenes 
+radiográficas en las películas. Deben ser marcados permanenteme nte en la superficie que es 
+radiografiada o en un detectable exacto del mapa a su localización en el equipo. 
+ 
+El marcador será colocado en el lado de la fuente cuando las so ldaduras longitudinales 
+radiografiadas en componentes curvados o esféricos cilíndricos, cónicos, cuando la superficie curvada 
+está hacia la fuente o cuando la distancia fuente objeto es menos que el radio interior del componente. 
+ 
+Cuando el lado cóncavo de componentes curvados o esféricos está hacia la fuente o el diámetro 
+interior es más grande que la distancia fuente objeto, los marc adores serán colocados en el lado de la 
+película. 
+ 
+Los marcadores de localización pueden estar en el lado de la fu ente o en el lado de la película 
+cuando los componentes curvados o esféricos tienen la superfici e cóncava a la fuente o la distancia al 
+material iguala el radio interior. 
+ 
+En el caso de que el objeto a radiografiar sea mayor que una so la radiografía; se deberá sectorizar 
+el objeto en tantos sectores como radiografías se vayan a tomar del mismo. La imagen de los 
+marcadores de localización (en este caso los marcadores del sec tor) aparecerá en radiografías simples 
+y compuestas. Deberá existir solape suficiente entre una radiog rafía y la inmediatamente anterior y 
+posterior a fin de verificar la total cobertura del objeto a radiografiar. 
+ 
+9.3.3. Penumbra geométrica 
+ 
+La penumbra geométrica será determinada siguiendo la fórmula: 
+ 
+Ug = F x t/D 
+ 
+Donde, 
+Ug: Penumbra geométrica 
+F: Máxima dimensión proyectada de la fuente o tamaño efectivo del punto 
+focal en el plano perpendicular a la distancia D desde la fuent e al objeto que es 
+radiografiado. 
+D: Distancia de la fuente de r adiación al objeto ensayado. 
+t: espesores o diámetro exterior en tuberías que sean radiograf iadas de 
+acuerdo a la técnica de visión de doble pared. 
+ 
+Una vez que se haya determinada la penumbra geométrica (Ug), el resultado se debe comparar a 
+la tabla II, que indica el tamaño recomendado máximo de penumbra en mm. 
+ 
+El tamaño de la fuente será determinado por las publicaciones d el fabricante, las curvas de 
+decaimiento o las declaraciones escritas que documentan el tamaño real de la fuente. 
+ 
+ 
+ 
+ 
+ 
+
+[page 14]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 10 de 46 
+ 
+ 
+9.3.4. Indicadores de calidad de imagen (IQI). 
+ 
+9.3.4.1. Selección de indicadores d e calidad de imagen (IQI´s). 
+ 
+Los indicadores de calidad de imagen (IQI’s) del tipo hilos ser án los utilizados, serán seleccionados 
+del mismo grupo o grado de la aleación que el material examinado o el más desfavorable. 
+ 
+El alambre esencial del IQI requerido para cada espesor nominal a simple pared se indica en la 
+tabla IV y V. 
+ 
+Los IQI utilizados deberán estar sellados y con código de traza bilidad a su certificado 
+correspondiente (no deberá aparecer en la imagen radiográfica). 
+ 
+Para las soldaduras, el espesor del material base y el espesor permitido del refuerzo será 
+considerado para la selección del hilo del IQI. 
+ 
+9.3.4.2. Número y situación de los IQI´s 
+ 
+El IQI será colocado en el lado de la fuente de la pieza que es radiografiada a menos que la 
+inaccesibilidad no permita la colocación a mano, en esta situac ión el IQI será localizado en el lado de la 
+película en contacto con el equipo y una letra “F” del plomo se rá puesta adyacente o en el IQI, pero no 
+en el campo de interés. Para el caso de exposición a doble pare d y evaluación de las dos paredes, el 
+IQI solo se podrá poner en el lado fuente. 
+ 
+El IQI de hilo será colocado en la soldadura de modo que la lon gitud de los alambres sea 
+perpendicular a la longitud de la soldadura. 
+ 
+Cuando una o más películas se utilizan para una exposición, por lo menos una imagen de IQI 
+aparecerá en cada radiografía. Excepto bajo las condiciones siguientes: 
+ 
+ Para los componentes cilíndricos, donde la fuente se pone en e l eje para una sola exposición, 
+tres IQIs espaciados 120º aproximadamente deben ser utilizados para una circunferencia 
+completa. 
+ 
+ Para las secciones de la circunferencia que atraviesan más de 240º, IQI’s adicionales serán 
+utilizados. 
+ 
+ Para los componentes cilíndricos, donde la fuente se pone en e l eje para una sola exposición, 
+tres IQI’s, uno en cada extremo y otro en el centro del palmo, aproximadamente espaciados 
+120º deben ser utilizados para las secciones de longitud mayor de 120º y menos que 240º. 
+ 
+ Cuando las soldaduras circunferenciales colindantes a las sold aduras longitudinales se 
+radiografían simultáneamente un IQI adicional será colocado en la sección más alejada de la 
+soldadura longitudinal. 
+ 
+Para las exposiciones simples de un número de componentes indep endientes en un círculo, cada 
+radiografía mostrará un IQI. 
+ 
+
+[page 15]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 11 de 46 
+ 
+ 
+Para la técnica de doble-película, ambos IQI´s se pueden interp retar juntos para definir la exactitud 
+del IQI, aunque la definición puede ser pobre con las películas separadas. 
+ 
+Para las partes con espesor variable, los IQI’s usados serán aq uellos para el espesor mínimo y 
+máximo, sus densidades y sus densidades intermedias, que deben estar dentro de los límites 
+establecidos en el primer punto. Así se estima que el espesor intermedio es cubierto. 
+ 
+9.3.5. Procesado 
+ 
+Las radiografías expuestas se revelarán siguiendo las recomenda ciones del fabricante de las 
+mismas; para ello se procesarán mediante procesadora automática , siguiendo los ciclos de tiempos y 
+temperaturas prefijados en la misma. 
+ 
+La procesadora automática deberá cumplir con los ciclos de limp ieza, mantenimiento, revisiones y 
+verificaciones marcados para la misma en el procedimiento EC-END-EQU 
+ 
+Previamente al inicio del proceso de revelado se deberá verific ar que la temperatura de la maquina 
+está estabilizada e introducir 2 ciclos de radiografías de limp ieza. Cuando las radiografías de limpieza 
+finalicen el ciclo de revelado se deberá chequear que no tienen marcas, rayones ni manchas producidas 
+por el proceso de revelado. Si no aparecen, se comenzará el proceso de revelado, en caso contrario, se 
+deberá realizar una limpieza y comprobación de la procesadora según el procedimiento EC-END-EQU 
+ 
+Las radiografías deberán ser manipuladas con sumo cuidado tanto en el pre-procesado como en el 
+post-procesado para evitar dejar en ellas marcas, manchas o rayas. 
+ 
+9.3.6. Requisitos de calidad de las radiografías. 
+ 
+Todas las radiografías realizadas en base a este procedimiento deberán cumplir los requisitos de 
+calidad que se indican a continuación: 
+ 
+9.3.6.1. Procesado y manipulación 
+ 
+El área de interés de las radiografías debe estar libre de defectos de procesado, tales como: 
+ 
+ Nieblas o veladuras 
+ Marcas de agua, rayas o produ ctos químicos del procesado 
+ Rasguños, marcas de los dedos, encrespaduras, suciedad, marcas estáticas, manchas o 
+rasgones 
+ Indicaciones falsas debido a las pantallas defectuosas. 
+ 
+En caso de que no se cumpla lo anterior se deberá repetir la radiografía o radiografías afectadas. 
+ 
+9.3.6.2. Densidad radiográfica. 
+ 
+La densidad de película transmitida a través del área de interés o la adyacente al hilo esencial debe 
+ser al menos de 2 para rayos GAMMA y 1.8 para RAYOS-X. 
+ 
+
+[page 16]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 12 de 46 
+ 
+ 
+Para visión compuesta de radiografías expuestas a múltiple film , la densidad mínima de cada una 
+de las radiografías será de 1.3 para rayos gamma; siendo por tanto la densidad mínima medida en doble 
+film de 2,6 mínimo. 
+ 
+La densidad máxima en todos los casos anteriores es 4.0. Una tolerancia de 0.05 se permite. 
+ 
+La densidad deberá ser medida con un densitómetro o usando una escala estándar de la densidad 
+con una gama de 0 a 4.0. 
+ 
+Cualquier variación de la densidad mayor que menos el 15% o más el 30% entre el campo de 
+interés y el área adyacente al hilo esencial establecido dentro de la densidad del máximo o del mínimo 
+según se especifica en los párrafos anteriores, requiere un IQI adicional, y el re-radiografiado. 
+ 
+9.3.6.3. Indicadores de calidad de imagen 
+ 
+La sensibilidad de IQI será capaz de exhibir el alambre esencia l. En técnica de película múltiple, si 
+la imagen del hilo esencial no aparece en la película simple si no que lo hace en la visión compuesta, la 
+interpretación es permitida solamente por la visión compuesta 
+ 
+9.3.6.4. Protección contra la radiación difusa 
+ 
+Una letra “B” de plomo de 13mm de altura y 1,6mm de espesor debe ser clocada a la parte de atrás 
+de las películas radiográficas en cada exposición para determin ar la radiación difusa. Una “B” clara 
+sobre fondo oscuro en la radiografía no está permitida, debiend o repetir la radiografía aumentando la 
+protección frente a la radiación difusa (colocando el objeto a radiografiar en otra posición o aumentando 
+el espesor de la pantalla de plomo trasera). 
+ 
+Una imagen “B” oscura sobre fondo claro será aceptable. 
+ 
+ 
+10. REGISTRO E INFORME DE LOS RESULTADOS 
+ 
+Se deberán registrar e indicar en el informe todas aquellas ind icaciones caracterizadas como 
+relevantes a lo largo de este procedimiento. 
+ 
+Se identificará claramente aquellas radiografías caracterizadas como aceptables y aquellas 
+caracterizadas como rechazables, indicando en estas últimas los defectos encontrados en las mismas. 
+ 
+Para el registro e informe de los indicado anteriormente se seg uirámn las pautas marcadas en el 
+apartado de Informe del presente procedimiento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 17]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 13 de 46 
+ 
+ 
+11. EVALUACIÓN DE LAS RADIOGRAFÍ AS: CRITERIOS DE ACEPTACIÓN 
+ 
+La zona evaluable de las radiografías será el área de interés d e las mismas, definida esta como la 
+imagen de la soldadura y 25mm a cada lado de la misma 
+ 
+La imagen radiográfica del área de interés radiografiada será e valuada en base a los siguientes 
+criterios de aceptación tanto si la técnica empleada es radiografía al 100% o PARCIAL según se indica a 
+continuación 
+ 
+Las indicaciones mostradas en las radiografías de soldaduras y caracterizadas como 
+imperfecciones serán inaceptables bajo las siguientes condiciones: 
+ 
+ Cualquier indicación caracteriz ada como una grieta, falta de fusión o penetración. 
+ 
+ Cualquier otra indicación alarga da (las de longitud mayor a 3 veces su anchura) en la radiografía 
+la cual tenga una longitud mayor que: 
+ 
+o 1⁄4 in. (6 mm) para t h asta to 3⁄4 in. (19 mm) 
+o 1⁄3t para t desde 3⁄4 in. ( 19 mm) a 21⁄4 in. (57 mm) 
+o 3⁄4 in. (19 mm) para t over 21⁄4 in. (57 mm) 
+ 
+Dónde: 
+ 
+T = el espesor de la soldadura excluyendo cualquier refuerzo. P ara soldaduras a tope que unan 
+dos partes de diferentes espesores, t será el más Delgado de es os dos espesores. Si una 
+soldadura a penetración total incluye una soldadura en ángulo, el espesor de garganta de la 
+soldadura en ángulo se deberá incluir en t. 
+ 
+ Cualquier grupo de imperfecciones alineadas (4 o más indicacio nes alineadas) cuya suma de 
+longitudes es mayor que t en una longitud de 12t donde t es el espesor de la parte más fina de 
+la soldadura, excepto cuando la distancia entre las indicacione s sucesivas supera 6L, donde L 
+es la longitud de la imperfección más larga del grupo. 
+ 
+ Las condiciones de la raíz interna de la soldadura son aceptab les cuando el cambio de la 
+densidad en la radiografía no es abrupto. Indicaciones alargada s en la radiografía en cualquier 
+borde de la soldadura será inaceptables según lo indicado para indicaciones alargadas en este 
+párrafo. 
+ 
+ Indicaciones redondeadas que superen lo especificado en los cr iterios de aceptación dados en 
+el Anexo 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 18]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 14 de 46 
+ 
+ 
+12. INFORME FINAL DE ENSAYO 
+ 
+En el informe final de ensayo deberán constar al menos los siguientes puntos: 
+ 
+a) Identificación según reque rido por este procedimiento. 
+b) Mapa dimensional (si se utiliza) o croquis de posición de co nformidad; siempre que el 
+fabricante del equipo no haya indicado previamente la posición de las radiografías. 
+c) Número de radiografías (exposiciones) 
+d) Voltaje de Rayos X o tipo de isótopo utilizado 
+e) Tamaño de fuente. 
+f) Tipo de material base y espesor; espesor de la zona. 
+g) Referencia al procedimi ento de ensayo y su revisión 
+h) Técnica utilizada para este método 
+i) Distancia fuente objeto. 
+j) Distancia entre el lado fuen te del objeto a la película. 
+k) Fabricante y designación comercial de la película 
+l) Número de películas en cada casete o sustentador. 
+m) Exposición a simple o doble pared. 
+n) Visionado a simple o doble film. 
+o) Evaluación o calificación de cada radiografía realizada. 
+p) Nombres, cualificaciones rele vantes y firmas del personal que realizó los ensayos. 
+ 
+Si durante el ensayo, el exami nador encontrara cualquier limita c i ó n a l a c c e s o o a l c a n c e d e l a 
+inspección, esta deberá de ser identificada en el informe de ensayo. 
+ 
+Para la realización de los informes de ensayo se tendrá en cuen ta el procedimiento interno de 
+EUROCONTROL EC-END-INF. 
+ 
+Se podrá utilizar a tal efecto el modelo de informe: EC-RT-MOD-XX. 
+ 
+
+[page 19]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 15 de 46 
+ 
+ 
+TABLAS 
+ 
+TABLE I 
+IDENTIFICATION OF TYPES OF RADIOGRAPHIC FILM 
+TIPO DE PELICULA 
+ASTM VELOCIDAD CONTRASTE GRANO AGFA KODAK FUJIFILM 
+I LENTO MUY ALTO MUY FINO D-4 / D-5 MX-125 / T-200 IX-50 / IX-
+80 
+II MEDIO ALTO FINO D-7 AA-400 IX-100 
+DETERMINACIÓN DEL TIPO DE PELICULAS A USAR EN FUNCIÓN DEL ESPESOR 
+ESPESOR CLASE DE PELÍCULA 
+0-6 mm NO 
+6-13 mm I 
+13-25 mm I 
+25-50 mm II 
+50-100 mm II 
+ 
+TABLA II 
+LIMITES DE PENUMBRA GEOMÉTRICA 
+Espesor en mm Max. Ug en mm 
+t < 50 0.51 
+50 ≤ t ≤ 75 0.76 
+75 < t ≤ 100 1.02 
+T > 100 mm 1.78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 20]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 16 de 46 
+ 
+ 
+TABLA III 
+RADIOGRAFIAS NORMALIZADAS EN TUBERIAS 
+Tamaño y numero de radiografías a usar en función del diámetro de la tubería 
+Diametro ext.. Placas Sector cualificable 
+mm. 10 x 20 10 x 24 10 x 40 qualifiable mm 
+101.6 3 3 NO 106 
+114.3 3 3 NO 120 
+168.3 NO 3 NO 177 
+219.1 NO 4 NO 173 
+273 NO NO 3 286 
+323.8 NO NO 3 340 
+355.6 NO NO 4 280 
+406.4 NO NO 4 320 
+457.2 NO NO 4 360 
+508 NO NO 5 320 
+558.8 NO NO 5 360 
+609.6 NO NO 6 320 
+ 
+TABLA IV 
+SELECCIÓN DEL IQI 
+Rango de espesores nominales de 
+material a simple pared 
+IQI 
+Lado fuente Lado Película 
+pulgadas mm Designación 
+(agujeros) 
+Hilo esencial 
+(tipo hilos) 
+Designación 
+(agujeros) 
+Hilo esencial 
+(tipo hilos) 
+ 
+DESIGNACIONES DE LOS IQI´s DE HILOS (SETS); DIÁMETROS DE LOS HILOS E 
+IDENTIFICACIÓN DE LOS MISMOS 
+ 
+ 
+ 
+ 
+
+[page 21]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 17 de 46 
+ 
+ 
+ANEXO 1: DISPOSICIONES RECOMENDADAS DE ENSAYO 
+ 
+ 
+ 
+A.1.1: Simple pared; imagen simple A.1.5: Doble pared; imagen s imple 
+ 
+A.1.2: Simple pared; imagen simple 
+A.1.6: Doble pared; imagen doble (elipse) 
+Nota: solo para diámetros inferiores a 88mm; IQI 
+siempre en lado fuente 
+ 
+ 
+A.1.3: Simple pared; imagen simple 
+A.1.7: Doble pared; imagen doble (plano sobre 
+plano) 
+Nota: solo para diametros inferiores a 88mm; IQI 
+siempre en lado fuente 
+ 
+ 
+A.1.4: Doble pared; imagen simple 
+
+[page 22]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 18 de 46 
+ 
+ 
+ 
+ANEXO 2. CRITERIOS DE ACEPTACIÓN PARA INDICACIONES REDONDEADAS 
+ 
+1. TERMINILOGIA 
+ 
+1.1. Indicaciones redondeadas. Las indicaciones con una longitud máx ima de tres veces el ancho 
+o menos en la radiografía se definen como indicaciones redondea das. Estas indicaciones pueden ser 
+circulares, elípticas, cónico o irregular en forma y tengan col as. Al evaluar el tamaño de una indicación, 
+se incluirá la cola. La indicación puede ser de cualquier imper fección de la soldadura, tales como la 
+porosidad, escoria o tungsteno.. 
+ 
+1.2. Indicaciones alineadas. Una secuencia de cuatro o más indicacio nes redondeadas se 
+considerará que están alineadas cuando tocan una línea paralela a la longitud de la soldadura que pasa 
+por el centro de las dos indicaciones redondeadas exteriores. 
+ 
+1.3. Espesor t. t es el grosor de la soldadura, con exclusión de cua lquier refuerzo permitido. Para 
+una soldadura a tope que una dos partes con diferentes espesore s en la soldadura, t es el más fino de 
+estos dos espesores. Si una soldadura de penetración completa i ncluye una soldadura en angulo, el 
+espesor de la garganta del acuerdo se incluirán en t. 
+ 
+2. CRITERIO DE ACEPTACIÓN 
+ 
+2.1. Densidad de la imagen. La densidad dentro de la imagen de la in dicación puede variar y no 
+es un criterio de aceptación o rechazo. 
+ 
+2.2. Indicaciones relevantes. (Véase cuadro 4-1 para ejemplos). Se c onsiderarán relevantes sólo 
+las indicaciones redondeadas que superen las dimensiones siguientes: 
+ 
+(1) 1⁄10t para t inferior a 1⁄8 in. (3 mm) 
+(2) 1⁄64 in. para t desde 1⁄8 in. hasta 1⁄4 in. (3 mm to 6 mm), incl. 
+(3) 1⁄32 in. para t mayores de 1⁄4 in. hasta 2 in. (6 mm to 50 mm), incl. 
+(4) 1⁄16 in. para t mayores de 2 in. (50 mm) 
+ 
+2.3. Tamaño máximo de indicaciones redondeadas. (Ver Tabla 4-1 para ejemplos.) El tamaño 
+máximo permisible de cualquier indicación deberá ser 1⁄4t, o 5⁄32 pulg (4 mm), lo que sea más pequeño; 
+salvo que sea una indicación aisl ada separada de una indicación adyacente por 1 pulg (25 mm) o más 
+en cuyo caso pueden ser de 1⁄3t o 1⁄4 pulg (6 mm), lo que sea menor. Para t superior a 2 cm (50 mm) se 
+incrementará el tamaño máximo permisible de una indicación aislado a 3⁄8 pulg (10 mm) 
+ 
+2.4. Indicaciones redondeadas alineadas. Las indicaciones redondeada s alineadas son 
+aceptables cuando la suma de los diámetros de las indicaciones es menor que t en una longitud de 12 t. 
+Véase Fig. 4-1. La longitud de los grupos de indicaciones redon deadas alineadas y el espaciado entre 
+los grupos deberá cumplir los requisitos de la Fig. 4-2. 
+ 
+2.5. Espaciado. La distancia entre las indicaciones redondeadas adya centes no un factor para 
+determinar la aceptación o rechazo, excepto lo que se requiere para indicaciones aisladas o grupos de 
+indicaciones alineados 
+ 
+
+[page 23]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 19 de 46 
+ 
+ 
+2.6. Gráficos de indicaciones redondeadas. Las indicaciones redondea das caracterizadas como 
+imperfecciones no excederá de se muestra en las listas de éxitos. Las disposiciones de las Figs 4-3 a 4-
+8 ilustran diversos tipos de disposiciones, al azar dispersos y agrupados de indicaciones redondeadas 
+para soldaduras de diferentes espesores mayores que 1⁄8 pulg (3 mm). Estos gráficos representan los 
+límites de máxima concentración aceptable para las indicaciones redondeadas. Los gráficos para cada 
+rango de espesor representan a escala completa radiografias de 6 pulgadas (150 mm) y no serán 
+ampliados o reducidos. Las distribuciones que se muestra no son necesariamente los patrones que 
+pueden aparecer en la radiografía, pero se permite típico de la concentración y el tamaño de las 
+indicaciones. 
+ 
+2.7. Soldadura t de espesor inferior a 1/8 pulg (3 mm). Para t menos de 1⁄8 pulg (3 mm) el número 
+máximo de indicaciones redondeadas no excederá de 12 en una lon gitud de 6 pulgadas (150 mm) de 
+soldadura. A en las soldaduras se admitirán proporcionalmente m enor número de indicaciones menos 
+de 6 pulgadas (150 mm) de longitud. 
+ 
+2.8. Indicaciones en cluster. Las ilustraciones para las indicaciones agrupadas se muestran cuatro 
+veces más indicaciones en un área local, como la se muestra en las ilustraciones para las indicaciones 
+aleatorias. La longitud de un clúster aceptable no excederá el menor de 1 pulg (25 mm) o 2 t. Cuando 
+más de una categoría está presente, la suma de las longitudes d e los clústeres no excederá de 1 pulg 
+(25 mm) en una soldadura de longitud de 6 pulgadas (150 mm) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 24]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 20 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 25]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 21 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 26]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 22 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 27]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 23 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 28]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 24 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 29]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 25 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+*****TRANSLATION TO ENGLISH***** 
+CONTENTS 
+ 
+1.  PURPOSE ........................................................................................................................................... 26 
+2.  SCOPE ................................................................................................................................................ 26 
+3.  RESPONSABILITIES .......................................................................................................................... 26 
+4.  REFERENCE DOCUMENTS .............................................................................................................. 26 
+5.  GLOSSARY OF TERMS AND DEFINITIONS .................................................................................... 27 
+6.  PERSONNEL QUALIFICATION ......................................................................................................... 27 
+7.  NECCESSARY DEVICES/EQUIPMENTS AND CONSUMABLES .................................................... 27 
+7.1.  Sources ...................................................................................................................................... 28 
+7.2.  Film ............................................................................................................................................. 28 
+7.3.  Intensifying screens .................................................................................................................... 28 
+7.4.  Densitometer .............................................................................................................................. 28 
+7.5.  Facilities for viewing of radiographs ........................................................................................... 28 
+8.  CALIBRATION AND VERIFICATION REQUIREMENTS ................................................................... 29 
+9.  PERFORMING THE EXAM ................................................................................................................ 29 
+9.1.  Preparing the exam .................................................................................................................... 29 
+9.1.1.  Access to documentation ................................................................................................... 29 
+9.1.2.  Superficial condition ........................................................................................................... 29 
+9.1.3.  Ambient conditions ............................................................................................................. 29 
+9.2.  System of identification .............................................................................................................. 30 
+9.3.  Examination ................................................................................................................................ 30 
+9.3.1.  Radiographic technique ...................................................................................................... 30 
+9.3.2.  Location markers ................................................................................................................ 31 
+9.3.3.  Geometric unsharpness ..................................................................................................... 32 
+9.3.4.  Image quality indicators (IQI) ............................................................................................. 32 
+9.3.5.  Processing .......................................................................................................................... 33 
+9.3.6.  Radiograph quality requirements ....................................................................................... 33 
+10.  RECORD AND REPORT OF THE RESULTS ............................................................................... 35 
+11.  EVALUATION: ACCEPTANCE CRITERIA .................................................................................... 35 
+12.  FINAL REPORT OF THE EXAMINATION ..................................................................................... 36 
+TABLeS ...................................................................................................................................................... 37 
+ANNEX 1: RECOMMENDED RADIOGRAPHIC TECHNIQUE SKETCHES ............................................. 39 
+ANNEX 2. ACCEPTANCE CRITERIA FOR ROUNDED INDICATIONS ................................................... 40 
+ 
+ 
+ 
+ 
+ 
+
+[page 30]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 26 de 46 
+ 
+ 
+1. PURPOSE 
+ 
+The purpose of this procedure is to establish the minimum requi rements to perform the radiographic 
+examinations of weld joints, according to ASME V, ASME VIII Div. 2, 2015 Edition requirements. 
+ 
+ 
+2. SCOPE 
+ 
+This procedure is used in work performed by EUROCONTROL during the manufacturing process of 
+Pressure Vessels. This provides guidelines and / or minimum req uirements to ensure that the 
+radiographic examination of wel ded joints is carried out and ev aluated according to the reference 
+documentation indicated on the corresponding point of this procedure. 
+ 
+This procedure will be applicable for the radiographic examinat ion using sources of Iridium 192, 
+Selenium 75 or cobalt 60 (gamma rays) and x-ray tube, of joints welded butt with thicknesses between 0 
+and 200 millimeters in ferritic, austenitic materials and alloys. 
+ 
+REMARK: As general, this procedure covers the examination of 10 0% of welded joints in pressure 
+vessels. In case of manufacturer or authorized inspector requires specifically (by request) to perform spot 
+examination, they shall be examined the spots indicated by the manufacturer or the authorized inspector. 
+ 
+ 
+3. RESPONSABILITIES 
+ 
+It is the responsibility of the manufacturer: 
+ Define the extension of the area to examine. 
+ Determine if radiographic examination is 100% or partial, and it must be indicated to 
+EUROCONTROL. In case of radiographs by spots, customer or autho rized inspector must 
+indicate the spots to be radiographed. 
+ Define the identification of t he areas to examine and the exam elements which shall be 
+referenced in the exam report. 
+ Define the acceptance criteria inside the applicable standards when exist several levels of 
+quality. 
+ Delivery of all applicable or r elevant documents for the inspection, to EUROCONTROL. 
+ Install all security measurement s indicated by the radiographic company. 
+ 
+It is the responsibility of EUROCONTROL: 
+ The correct applicati on of this procedure. 
+ The adding of previous data in the record of the exam. 
+ Comply at all time with the applicable legislation on safety o f gamma emitting equipment. 
+ Determine the method test to apply in function of the specified acceptance level. 
+ 
+4. REFERENCE DOCUMENTS 
+ 
+The realization of this procedur e is based on the following ref erence documents, standards and / or 
+applicable codes: 
+ ASME V Art. 2, 2015 Edition. 
+ ASME VIII Div.2 AI-5 / Annex 8, 2015 Edition. 
+
+[page 31]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 27 de 46 
+ 
+ 
+ 
+5. GLOSSARY OF TERMS AND DEFINITIONS 
+ 
+The following definitions shall be applied for a correct understanding of this procedure: 
+ 
+ Rounded indications: indications with a maximum length of thre e times or less the width in the 
+radiograph are defined as rounded indications. These indications may be circular, elliptical, conic 
+or irregular in shape and have tail. This tail shall be include d in the evaluation of the indication 
+size. The indication may be of any weld imperfection, such as porosity, slag or tungsten. 
+ 
+ Lineal indications: a sequence of four or more indications sha ll be considered as lineal indication 
+when touches a parallel line in the length of the weld that pas ses by the center of the extreme 
+indications. 
+ 
+ Thickness t. t is the thickness of the weld, with the exclusio n of any allowed reinforcement. For a 
+butt weld that joins two materials with different thicknesses, t is the thinnest of these thicknesses. 
+If a butt weld includes a fillet weld, the thickness of the throat shall be included in t. 
+ 
+ Elongated indications: those wh ose length is greater than three times their width. 
+ 
+ Relevant elongated indications: They shall be considered relev ant all those elongated indications 
+which don´t meet the established acceptance criteria along this procedure. 
+ 
+ 
+Additionally, they shall be applied the definitions indicated in Part 7, Art. 30 of ASME V, 2015 Edition. 
+ 
+ 
+6. PERSONNEL QUALIFICATION 
+ 
+Personnel engaged in nondestructive exams under this procedure must be qualified and certified 
+according to general procedure EC-END-AS-PCA, in an appropriate level for radiographic inspection 
+method. 
+ 
+The control and evaluation of indications must be performed by qualified personnel at least as Level 
+II. 
+ 
+Operators of radioactive equipm ents must have operator license, published by Spanish committee 
+of nuclear security. 
+ 
+ 
+ 
+7. NECCESSARY DEVICES/EQUI PMENTS AND CONSUMABLES 
+ 
+The equipment and materials used in radiographic examinations m ust be in perfect conditions to 
+assure the quality of the obtained radiographs and to ease their interpretation. 
+ 
+ 
+ 
+
+[page 32]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 28 de 46 
+ 
+ 
+7.1. Sources 
+ 
+Sources of Iridium 192, Selenium 75 , cobalt 60 and up to 400kV x-ray tubes will be used 
+ 
+The maximum size of the source shall be featured in the document given by the manufacturer for all 
+source types. 
+ 
+7.2. Film 
+ 
+The film for radiographic examination must be Type II for carbo n steel vessels that do not require 
+heat treatment. In the rest of the cases, shall be used Type I. The identification of film types according to 
+the different commercial designations of main manufacturers are shown in table I. 
+ 
+In table 2 are shown the recommendations depending on the different types of film to use in function 
+of the thicknesses; the correct application of the radiographic film type to use shall be confirmed by the 
+image quality indicator in accordance to this thickness and material. 
+ 
+7.3. Intensifying screens 
+ 
+Intensifying screens may be used to perform the radiographic ex amination according to this 
+procedure. When using sources of Iridium 192, Selenium 75 or c obalt 60 is obligatory the use of 
+intensifying screens lead of at least 0, 02 mm thick on the fro nt and the back of the film. The correct 
+choice of the thickness of lead screens will be confirmed in an y case by the display of the image quality 
+indicator (IQI) corresponding to that thickness and material. 
+ 
+7.4. Densitometer 
+ 
+A densitometer shall be used to determine the radiographic density of films. The densitometers shall 
+be calibrated every 90 days with a NIST densitometric step wedg e table or a traceable to NIST 
+densitometric step wedge table measuring slide with a minimum o f 5 steps and densities of at least 
+between 1.0 and 4.0. 
+ 
+The periodical check of the calibration of the densitometer sha l l b e m a d e u s i n g a c a l i b r a t e d 
+densitometric step wedge table at the beginning of each shift, after 8 hours of continuous use or change 
+of densitometer openings. This verification should not be recor ded. The maximum deviation between 
+measurement recorded by densitom eter and the set in the densito metric step wedge table must not 
+exceed ±0,05 densitometric units. 
+ 
+Both the densitometer and the re glillas of densities (pattern a nd verification) and its calibration and 
+verification procedures must comply with provisions of the EC-END-EQU procedure. 
+ 
+7.5. Facilities for viewing of radiographs 
+ 
+Viewing facilities shall provide subdued background lighting of an intensity that will not cause 
+troublesome reflections, shadows, or glare on the radiographic that may interfere with the interpretation 
+process. 
+ 
+Equipment used to view radiographs for interpretation shall pro vide a variable light source sufficient 
+for the designated hole or wire to be visible for the specified density range. 
+
+[page 33]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 29 de 46 
+ 
+ 
+ 
+The viewing conditions shall be such that light from around the outer edge of the radiograph or 
+coming through low-density portions of the radiograph does not interfere with interpretation. 
+ 
+8. CALIBRATION AND VERIFICATION REQUIREMENTS 
+ 
+The inspection equipments that need calibration may be own, sub contracted or supplied by third 
+provided that the following is complied: 
+ 
+ Calibration and maintenance of EUROCONTROL equipments are perf ormed according to 
+internal procedure EC-END-EQU. 
+ 
+ Equipments outside EUROCONTROL domain must comply: 
+ 
+o Are correctly identified 
+o Have calibration certificate, i ssued by accredited laboratory. 
+o Calibration, verification and maintenance results shall be che cked that comply with the 
+established in the procedure EC-END-EQU. 
+ 
+ 
+9. PERFORMING THE EXAM 
+ 
+9.1. Preparing the exam 
+ 
+9.1.1. Access to documentation 
+ 
+The extension of the examinati on must be determined before the beginning and must be known by 
+the examiner; who must have access to applicable documentation of the examination to perform such as 
+drawings, recording of production, specifications, etc. 
+ 
+9.1.2. Superficial condition 
+ 
+Materials must comply the applicable requirements with the mate rial specifications and, if 
+necessary, the superficial irregularities that can hide defects must be removed. 
+ 
+Bead ripples or irregular surfaces – in both sides if accessible – must be removed; surfaces must be 
+free of marks that can hinder the radiograph interpretation and must be removed if it is indicated by 
+examiners. 
+ 
+The surface of all butt welds must be flushed with the base mat erial or must have a reasonably 
+uniform joint that allows the correct evaluation and interpretation of the films. 
+ 
+The surface must be in room temperature to avoid the harmful in the films. 
+ 
+9.1.3. Ambient conditions 
+ 
+Must comply minimum health and security conditions for handling and use of radiation sources 
+established by the committee of nuclear security. 
+ 
+
+[page 34]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 30 de 46 
+ 
+ 
+EUROCONTROL must inform to the workshop management of the requi red measurements to 
+ensure radiation protection for staff working in the project an d the general public, as well as ensure 
+proper compliance. 
+ 
+9.2. System of identification 
+ 
+A system must be used to produce permanent marks in equipments of radiographed areas. It is 
+neccessary a location map of the radiographs or another similar system to let an exact identification of 
+each one of the radiographed areas. 
+ 
+The system of identification shall appear on the film and not in the film cover. 
+ 
+The image of the sector markers shall appear as radiographic im age in simple and compound 
+radiographs. 
+ 
+Each radiograph must be permanent identified with: 
+ 
+ Symbol or name of the manufacturer. 
+ Date. 
+ Work order. 
+ Equipment number or identification. 
+ Weld number. 
+ Welder number when r equired by the customer. 
+ Letter R followed of the reparations performed. 
+ 
+This permanent identification could be or not a radiographic image, including the identification in the 
+radiograph by developing process. In the second case, level II shall be responsible of taking into account 
+the provisional mark of the radiographs until the developing to assure the traceability of these. 
+ 
+The radiograph examiner level II shall review, interpret, evalu ate and accept the finished 
+radiographs and shall register the results according to the corresponding paragraph of this procedure. 
+ 
+9.3. Examination 
+ 
+9.3.1. Radiographic technique 
+ 
+A single-wall exposure technique shall be used for radiography whenever practical. When it is not 
+practical to use a single-wall technique, a double-wall techniq ue shall be used. An adequate number of 
+exposures shall be made to demonstrate that the required covera ge has been obtained. In table 3 are 
+shown the minimum number of exposures recommended for pipes. 
+ 
+In annex 1 are shown, for information only, images of several r adiographic technique sketches that 
+are indicated below. 
+ 
+9.3.1.1. Single-wall technique 
+ 
+In this technique, the radiation passes through only one wall o f the weld (material), which is viewed 
+for acceptance on the radiograph. 
+
+[page 35]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 31 de 46 
+ 
+ 
+ 
+9.3.1.2. Double-wall technique 
+ 
+Single-wall viewing: The radiation passes through two walls and only the weld (mater ial) on the 
+film-side wall is viewed for acceptance on the radiograph. When complete coverage is required for 
+circumferential welds (materials), a mínimum of three exposures taken 120 deg. to each other shall be 
+made. 
+ 
+Double-wall viewing: For materials and for welds in components 3 ½ in. (88 mm) or less in nominal 
+outside diameter, a technique may be used in which the radiation passes through two walls and the weld 
+(material) in both walls is viewed for acceptance on the same radiograph. 
+ 
+ Elliptical proyection: the radiation beam may be offset from the plane of the weld at an angle 
+sufficient to separate the image s of the source-side and film-s ide portions of the weld so that 
+there is no overlap of the areas to be interpreted. When comple te coverage is required, a 
+minimum of two exposures taken 90 deg. to each other shall be made for each joint. 
+ 
+ Plane on plane: as an alternative, the weld may be radiographed with the radia tion beam 
+positioned so that the images of both walls are superimposed. W hen complete coverage is 
+required, a minimum of three exposures taken at either 60 deg. or 120 deg. to each other shall 
+be made for each joint. 
+ 
+9.3.2. Location markers 
+ 
+Location markers shall be placed on the part, and shall appear as radiographic images on films. 
+They shall be permanently marked on the surface of the part bei ng radiographed or on a map, in a 
+manner permitting the area of interest on a radiograph to be ac curately traceable to its location on the 
+part, for the required retention period of the radiograph. 
+ 
+Location markers shall be placed on the source side when radiographing the following: 
+ 
+ Flats components or longitudinal joints in cylindrical or conical components; 
+ Curved or spherical components whose concave side is toward th e source and when the 
+“source to material” distance is less than the inside radius of the component. 
+ Curved or spherical components whose convex side is toward the source. 
+ 
+Location markers shall be placed on the film side when radiogra phing either curved or spherical 
+components whose concave side is toward the source and when the “source to material” distance is 
+greater than the inside radius. 
+ 
+Location markers may be placed on either the source or side or film side when radiographing either 
+curved or spherical components whose concave side is toward the source and the “source to material” 
+distance equals the inside radius of the component. 
+ 
+In case of the object to be radiographed is greater than only o ne radiograph; the object must be 
+sectorized in such sectors as radiographs shall be taken. The image of the location markers (in this case 
+location sectors) shall appear in simple and composite radiogra phs. There must be sufficient overlap 
+
+[page 36]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 32 de 46 
+ 
+ 
+between one radiograph and the immediately anterior and posterior to verify full coverage of the object to 
+be radiographed. 
+ 
+9.3.3. Geometric unsharpness 
+ 
+Geometric unsharpness of the radiograph shall be determined in accordance with: 
+Ug = F x t/D 
+Where, 
+Ug: Geometric unsharpness 
+F: Source size: the maximum projected dimension of the radiati ng source 
+(or effective focal spot) in the plane perpendicular to the dis tance D from 
+the weld or object being radiographed, in. 
+D: Distance from source of radiation to weld or object being radiographed, 
+in. 
+t: Distance from source side of weld or object being radiograph ed to the 
+film. 
+ 
+When we have obtained the geometric unsharpness (Ug), the result must be compared with table II, 
+which indicates the limits of geometric unsharpness. 
+ 
+The size of the source shall be determined by manufacturer publ ications, the decay curves or 
+written statements that document the real source size. 
+ 
+9.3.4. Image quality indicators (IQI) 
+ 
+9.3.4.1. IQI selection 
+ 
+Shall be used the IQIs of type wire, shall be selected from the same group or alloy grade that the 
+material to be examined or worst. 
+ 
+The essential wire of IQI required for each nominal thickness i n single-wall is indicated in tables IV 
+and V. 
+ 
+The IQI used shall be sealed and with traceability code in his own certificate (It must not appear in 
+radiographic film). 
+ 
+For welds, the thickness of base material and the allowed thick ness of the reinforcement shall be 
+considered for the selection of the wire of the IQI. 
+ 
+9.3.4.2. Number and placement of IQIs 
+ 
+The IQI(s) shall be placed on the source side of the part being examined, except when 
+inaccessibility prevents hand placing. In this case, the IQI(s) shall be placed on the film side in contact 
+with the part being examined. A lead letter “F” shall be placed adjacent to or on the IQI(s). For double 
+wall exposure and double wall viewing, only a source-side IQI shall be used 
+ 
+The IQI(s) shall be placed on the weld so that the length of th e wires is perpendicular to the length 
+of the weld. 
+ 
+
+[page 37]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 33 de 46 
+ 
+ 
+When one or more film holders are used for an exposure, at leas t one IQI image shall appear on 
+each radiograph except for the following conditions: 
+ 
+ For cylindrical components where the source is placed on the a xis of the component for a single 
+exposure, at least three IQI(s), spaced approximately 120 deg. apart, are required for a complete 
+circumference. 
+ 
+ For sections of the circumference that span 240 or more deg., additional IQI(s) shall be used. 
+ 
+ For cylindrical components where the source is placed on the a xis of the component for a single 
+exposure, at least three IQI(s), with one placed at each end of the span of the circumference 
+radiographed and one in the approximate center of the span spac ed approximately 120 deg. 
+must be used for sections of length greater than 120 deg. and less than 240 deg. 
+ 
+ When longitudinal welds adjoining the circumferential weld are radiographed simultaneously with 
+the circumferential weld, and additional IQI shall be placed on the section most remote of the 
+longitudinal weld 
+ 
+For simple exposures, an array of components in a circle is rad iographed, at least one IQI shall 
+show on each component image. 
+ 
+For double-wall technique, both IQI(s) may be interpreted toget her to define the exactitude of the 
+IQI, although the definition may be poor with the separated films. 
+ 
+For parts with variable thickness, the IQI(s) used shall be tho se for minimum and maximum 
+thickness, their densities and intermediate densities, that mus t be inside the limits established in the first 
+point. So this way it is estimated the intermediate thickness is covered. 
+ 
+9.3.5. Processing 
+ 
+Radiographs shall be developed according to manufacturer recommendations of these; for that they 
+shall be processed by automatic processing, following the time cycles and temperatures fixed on that. 
+ 
+The automatic processing must comply with the cleanliness, main tenance, review and verification 
+cycles established for that in the procedure EC-END-EQU. 
+ 
+Prior to starting the development must be verified that the tem perature of the machine is stabilized 
+and introduce 2 cleanliness cycles of radiographs. When the cle anliness radiographs finish the 
+development, they shall be checked there are no marks, scratches or stains caused by the development. 
+If they do not appear the development may start, otherwise, cle anliness shall be made and a check shall 
+be performed in the machine according to procedure EC-END-EQU. 
+ 
+Radiographs must be manipulated with a lot of care both the pre -processing and post-processing to 
+avoid leaving scratches, marks, etc. 
+ 
+9.3.6. Radiograph quality requirements 
+ 
+All radiographs performed on base to this procedure must comply the quality requirements indicated 
+below: 
+
+[page 38]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 34 de 46 
+ 
+ 
+ 
+9.3.6.1. Processing and handling 
+ 
+The area of interest must be free of processing defects such as: 
+ 
+ Mist or fogging 
+ Watermarks, stripes or chemical stain. 
+ Scratches, fingerprints, crimps, d irtiness, static marks, smudges or tears 
+ False indications due to defective screens 
+ 
+The defective radiographs must be repeated if the above point is not complied. 
+ 
+9.3.6.2. Radiographic density 
+ 
+The transmitted film density through the radiographic image of the body of the appropiate hole IQI or 
+adjacent to the designated wire of a wire IQI and the area of i nterest shall be 1,8 minimum for single film 
+viewing for radiographs made with an X-ray source and 2,0 minim um for radiographs made with a 
+gamma ray source. 
+ 
+For composite viewing of multipl e film exposures, each film of the composite set shall have a 
+minimum density of 1,3; being the minimum density for double film 2,6. 
+ 
+The maximum density in all the cases before is 4,0. A tolerance of 0,05 is allowed. 
+ 
+The density must be measured with a densitometer or using a sta ndard scale of density with a 
+range from 0 to 4. 
+ 
+If the density of the radiograph anywhere through the area of i nterest varies by more than minus 
+15% or plus 30% from the densit y adjacent to the designated wir e of a wire IQI, within the 
+minimum/maximum allowable density ranges specified in the parag raphs before, then an additional IQI 
+shall be used for each exceptional area or areas and the radiograph retaken. 
+ 
+9.3.6.3. IQI 
+ 
+IQI sensitivity must display t he essential wire. If the designa ted essential wire, do not show on any 
+film in a multiple film technique, but do show in composite fil m viewing, interpretation shall be permitted 
+only by composite film viewing. 
+ 
+ 
+9.3.6.4. Protection agai nst backscatter radiation 
+ 
+A lead symbol “B”, with minimum dimensions of ½ in. (13 mm) in height and 1/16 in. (1,5 mm) in 
+thickness, shall be attached to the back of each film holder du ring each exposure to determine 
+backscatter radiation. If a li ght image of the “B” appears on a darker background of the radiograph, 
+protection from backscatter is insufficient and the radiograph shall be considered unacceptable. If this 
+happens, the radiograph must repeated increasing the protection against backscatter radiation (placing 
+the object to be radiographed in another position or increasing the thickness of the back plumb screen). 
+ 
+A dark image of the “B” on a lighter background is not cause for rejection. 
+
+[page 39]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 35 de 46 
+ 
+ 
+10. RECORD AND REPORT OF THE RESULTS 
+ 
+All indications described as relevant with this procedure shall be registered and indicated in the 
+report. 
+ 
+Those radiographs described as acceptable or unacceptable shall be clearly identified, indicating in 
+the last ones the defects found on these. 
+ 
+For the register and report of the previously indicated, the po ints indicated in corresponding 
+paragraph of this procedure shall be followed. 
+ 
+ 
+11. EVALUATION: ACCEPTANCE CRITERIA 
+ 
+The surface to examine and evaluate on the radiographs includes the weld and 25 mm on each side 
+of the weld. 
+ 
+The radiographic image of the interest area shall be evaluated in base to the following acceptance 
+criteria, which shall be different if it is radiographed at 100% or partial; as indicated below: 
+ 
+Indications showed on the radiographs of the weld and described as imperfections shall be 
+unacceptable under the following conditions: 
+ 
+ Any indication described as c rack, lack of fusion or penetration 
+ 
+ Any other elongated indication (those which length is 3 times the width) on the radiograph which 
+has a length greater than: 
+ 
+o ¼ in. (6 mm) for t up to ¾ in. (19 mm) 
+o 1/3t for t from ¾ in. (19 mm) to 2 ¼ in. (57 mm) 
+o ¾ in. (19 mm) for t ove r 21/4 in. (57 mm) 
+ 
+Where: 
+ 
+T = is the thickness of the weld, with the exclusion of any all owed reinforcement. For a butt weld 
+that joins two materials with different thicknesses, t is the t hinnest of these thicknesses. If a butt 
+weld includes a fillet weld, the thickness of the throat shall be included in t. 
+ 
+ Any group of lineal imperfections (4 or more lineal indication s) whose amount of lengths is 
+greater than t in a length of 12t where t is the thickness of t he thinnest part of the weld, except 
+when the distance between success ive indications is greater tha n 6L, where L is the length of 
+the longest imperfection of the group. 
+ 
+ The conditions of internal side of weld root shall be acceptab le when the variation in the density 
+is not abrupt. Any elongated indication in the edge of the weld , shall be evaluated according to 
+the paragraph for elongated indications in this epigraph. 
+ 
+ Rounded indications that exceed s the specified in the acceptance criteria shown in Annex 2. 
+
+[page 40]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 36 de 46 
+ 
+ 
+ 
+12. FINAL REPORT OF THE EXAMINATION 
+ 
+In the final report must be included at least the following points: 
+ 
+ Identification as required by this procedure 
+ The dimensional map (If used) or sketch of conformity position ; provided that the 
+manufacturer of the equipment has not previously indicated the position of the radiographs 
+ Number of radiographs (exposures) 
+ X-ray voltage or isotope type used 
+ Source size 
+ Base material type and thickness; weld thickness, weld reinfor cement thickness, as 
+applicable 
+ Procedure used and revisión 
+ Technique used for This method 
+ Source to object distance 
+ Distance from source side of object to film 
+ Film manufacturer and manufacturer’s type/designation 
+ Number of film in each film holder/cassette 
+ Single- or double-wall exposure 
+ Single- or double-wall viewing 
+ Evaluation of each radiograph 
+ Names, relevant qualifications and personnel signatures who performed the exams 
+ 
+If during the exam, the examiner finds some limitation in the i nspection scope, this must be 
+identified in the report. 
+ 
+For performing the exam reports, the internal procedure EC-END-INF shall be taken into account. 
+ 
+Format EC-RT-MOD-XX may be used as model. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 41]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 37 de 46 
+ 
+ 
+TABLES 
+ 
+TABLE I 
+IDENTIFICATION OF TYPES OF RADIOGRAPHIC FILM 
+TYPE OF FILM 
+ASTM SPEED CONTRAST GRAIN AGFA KODAK FUJIFILM 
+I SLOW VERY HIGH VERY FINE D-4 / D-5 MX-125 / T-200 IX-50 / IX-80 
+II MEDIUM HIGH FINE D-7 AA-400 IX-100 
+DETERMINATION OF TYPE OF FILM TO USE IN FUNCTION OF THE THICKNESS 
+THICKNESS FILM CLASS 
+0-6 mm I 
+6-13 mm I 
+13-25 mm I 
+25-50 mm II 
+50-100 mm II 
+ 
+ 
+TABLE II 
+LIMITS OF GEOMETRIC UNSHARPNESS 
+Thickness in mm Max. Ug in mm 
+t < 50 0.51 
+50 ≤ t ≤ 75 0.76 
+75 < t ≤ 100 1.02 
+T > 100 mm 1.78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 42]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 38 de 46 
+ 
+ 
+TABLE III 
+NORMALIZED RADIOGRAPHS IN PIPES 
+Size and number of radiographs to use in function of the pipe diameter 
+Ext. diameter Films Qualified sector 
+mm. 10 x 20 10 x 24 10 x 40 mm 
+101.6 3 3 NO 106 
+114.3 3 3 NO 120 
+168.3 NO 3 NO 177 
+219.1 NO 4 NO 173 
+273 NO NO 3 286 
+323.8 NO NO 3 340 
+355.6 NO NO 4 280 
+406.4 NO NO 4 320 
+457.2 NO NO 4 360 
+508 NO NO 5 320 
+558.8 NO NO 5 360 
+609.6 NO NO 6 320 
+ 
+TABLE IV 
+IQI SELECTION 
+Nominal single-wall 
+Material thickness range 
+IQI 
+Source side Film side 
+In. mm Hole-type 
+Designation 
+Wire-type 
+Essential wire 
+Hole-type 
+Designation 
+Wire-type 
+Essential wire 
+ 
+WIRE IQI DESIGNATION, WIRE DIAMETER, AND WIRE IDENTITY 
+ 
+ 
+ 
+ 
+
+[page 43]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 39 de 46 
+ 
+ 
+ANNEX 1: RECOMMENDED RADIOGRAPHIC TECHNIQUE SKETCHES 
+ 
+ 
+ 
+A.1.1: Single wall; single image A.1.5: Double wall; single ima ge 
+ 
+A.1.2: Single wall; single image 
+A.1.6: Double wall; double image (ellipse) 
+Note: only for diameters lower than 88 mm; IQI 
+always in source side 
+ 
+ 
+A.1.3: Single wall; single image 
+A.1.7: Double wall; double image (plane on plane) 
+Note: only for diameters lower than 88 mm; IQI 
+always in source side 
+ 
+ 
+A.1.4: Double wall; single image 
+
+[page 44]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 40 de 46 
+ 
+ 
+ANNEX 2. ACCEPTANCE CRITERIA FOR ROUNDED INDICATIONS 
+ 
+3. TERMINOLOGY 
+ 
+3.1. Rounded indications: indications with a maximum length of three times or less the width in the 
+radiograph are defined as rounded indications. These indication s may be circular, elliptical, conic or 
+irregular in shape and have tail. This tail shall be included i n the evaluation of the indication size. The 
+indication may be of any weld imperfection, such as porosity, slag or tungsten. 
+ 
+3.2. Lineal indications: a sequence of four or more indications shal l be considered as lineal 
+indication when touches a parallel line in the length of the we ld that passes by the center of the extreme 
+indications. 
+ 
+3.3. Thickness t. t is the thickness of the weld, with the exclusion of any allowed reinforcement. For 
+a butt weld that joins two materials with different thicknesses , t is the thinnest of these thicknesses. If a 
+butt weld includes a fillet weld, the thickness of the throat shall be included in t. 
+ 
+ 
+4. ACEPTANCE CRITERIA 
+ 
+4.1. Density of the image. The density inside the image of the indic ation may change and it is not 
+an acceptance or rejection criterion. 
+ 
+4.2. Relevant indications (See table 4-1 for examples). They shall b e relevant only the rounded 
+indications that are higher than the following dimensions: 
+ 
+(1) 1⁄10t for t less than 1⁄8 in. (3 mm) 
+(2) 1⁄64 in. for t from 1⁄8 in. to 1⁄4 in. (3 mm to 6 mm), incl. 
+(3) 1⁄32 in. For t from 1⁄4 in. to 2 in. (6 mm to 50 mm), incl. 
+(4) 1⁄16 in. For t greater than 2 in. (50 mm) 
+ 
+4.3. Maximum size of rounded indications. (See table 4-1 for example s). The maximum 
+permissible size of any indication must be 1/4t, or 5/32 in (4 m m ) , w h i c h e v e r i s l o w e s t ; u n l e s s i t i s a 
+separated isolated indication of an adjacent indication in 1 in . (25 mm) or more in which case they may 
+be 1/3t or 1/4 in. (6 mm), whichever is less. For t greater than 2 in. (50 mm), the maximum allowable size 
+of an isolated indication shall be increased up to 3/8 in. (10 mm). 
+ 
+4.4. Lineal rounded indications. Lineal rounded indications are acce ptable when the amount of the 
+diameters of the indications is less than t in a length of 12t. See figure 4-1. The length of groups of lineal 
+rounded indications and the space between the groups must comply the requirements of figure 2., 
+ 
+4.5. Spacing. The distance between adjacent rounded indications are not a factor to determine 
+acceptance or rejection, except what it is required for isolated indications or groups of lineal indications. 
+ 
+4.6. Graphs of rounded indications. Rounded indications characterize d as imperfections shall not 
+exceed those shown in the tables. Dispositions of figures from 4-3 to 4-8 show several types of 
+dispositions, randomly scattered and grouped round gauges for w elding different thicknesses greater 
+
+[page 45]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 41 de 46 
+ 
+ 
+than 1 / 8 in. (3 mm). These graphs represent the maximum acceptable concentration lim its for rounded 
+indications. The graphs for each thickness range represent to f ull scale radiographs of 6 in. (150 mm) 
+and shall not be increased or reduced. The distributions shown are not necessarily the patterns that may 
+appear on the radiograph, but it is allowed the typical concentration and size of the indications. 
+ 
+4.7. Weld with t thickness less than 1/8 in. (3 mm). For t less than 1/8 in. (3 mm) the maximum 
+number of rounded indications shall not exceed 12 in. (300 mm) in a length of 6 in. (150 mm) of weld. In 
+welds, indications shall be proportionally admitted less number of indications of less than 6 in. (150 mm) 
+in length. 
+ 
+4.8. Clustered indications. In illustrations for grouped indications are shown four times indications 
+in a local area than for random indications. The acceptable len gth of a cluster not exceeds 1 in. (25 mm) 
+or 2 t, whichever is less. When more than one category is prese nt, the amount of the lengths of the 
+clusters shall not exceed 1 in. (25 mm) in a length weld of 6 inches (150 mm). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 46]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 42 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 47]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 43 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 48]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 44 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 49]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 45 de 46 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 50]
+ PROCEDIMIENTO GENERAL PARA EL 
+EXAMEN RADIOGRÁFICO DE UNIONES 
+SOLDADAS S/ CÓDIGO ASME VIII DIV.2 
+General procedure for radiographic examination of 
+weld joints according to ASME VIII DIV. 2 
+Doc. Nº: EC-RT-AS-SOL-02
+Rev. 08 Pag. 46 de 46

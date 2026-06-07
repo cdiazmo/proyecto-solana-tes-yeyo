@@ -1,0 +1,212 @@
+[page 1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rev No. Rev-date Contents /amendments Prepared/revised Checked/released Approved/released 
+0 02/03/2018 Initial issue Cyrille Grellier Raúl Navío 
+1 
+2 
+ 
+March 2018 
+ 
+Project: AECP2017-A-002 
+Technical note 
+Corrosion of Lointek heat exchangers’ 
+U-tubes due to exposure to molten nitrate 
+salt in Solana powerplant. 
+
+[page 2]
+AECP2017-A-002 
+Technical note – Corrosion of Lointek heat exchangers’ U-tubes due 
+ to exposure to molten nitrate salt in Solana powerplant 
+ 
+TABLE OF CONTENTS 
+1 DOCUMENT PURPOSE ........................................................................................................ 4 
+2 U-TUBES DESIGN CONDITIONS ....................................................................................... 4 
+3 CORROSION DATA .............................................................................................................. 4 
+4 CORROSION LOSS CALCULATION ................................................................................ 5 
+5 CONCLUSION ........................................................................................................................ 7 
+6 LITERATURE ......................................................................................................................... 7 
+ 
+ 
+
+[page 3]
+AECP2017-A-002 
+Technical note – Corrosion of Lointek heat exchangers’ U-tubes due 
+ to exposure to molten nitrate salt in Solana powerplant 
+ 
+List of Figures 
+Figure 2-1: U-tubes geometrical data Source: Lointek documentation “4521 -HDD-LOI-039-062-
+0001-GAR_rev00 Equipment Data Sheet” ........................................................................................ 4 
+Figure 2-1: U-tubes design conditions Source: Lointek documentation “4521 -PLN-LOI-039-062-
+0001-GAR – General arrangement and loads drawing” .................................................................... 4 
+Figure 2-1: Tecnalia’s report summary – corrosion rate of carbon steel in Solana’s TES hot tank. 
+Source: T ecnalia, Project 068980, “Corrosion study on A516GR70 steel coupons tested under 
+preheating conditions” ....................................................................................................................... 5 
+ 
+ 
+
+[page 4]
+AECP2017-A-002 
+Technical note – Corrosion of Lointek heat exchangers’ U-tubes due 
+ to exposure to molten nitrate salt in Solana powerplant 
+ 
+ 4 
+1 Document purpose 
+This document is a technical note. Its purpose is to estimate the corrosion loss of the U-tubes of Lointek’s 
+salt to HTF heat exchangers due to the contact with molten nitrate salts in Solana powerplant. 
+ 
+2 U-tubes design conditions 
+The geometrical and design data of the U -tubes, that are of interest for corrosion calculation, are 
+presented in the following tables. 
+ 
+ 
+Figure 2-1: U-tubes geometrical data 
+Source: Lointek documentation “4521-HDD-LOI-039-062-0001-GAR_rev00 Equipment Data Sheet” 
+ 
+ 
+Figure 2-2: U-tubes design conditions 
+Source: Lointek documentation “4521-PLN-LOI-039-062-0001-GAR – General arrangement and loads drawing” 
+ 
+Material SA210 A1 Seamless is classified in the category of general carbon s teel by ASTM and ASME 
+standards. 
+ 
+3 Corrosion data 
+Several studies have been published in the past that have brought to light that corrosion of carbon steel 
+in molten nitrate salt is mainly driven by two factors: 
+- The content of Chloride ions (Cl-) contained in the salt mixture. 
+- The temperature of the salt mixture. 
+More specifically a report from Sandia laboratory [2], concluded that corrosion rate could increase by a 
+factor of approximately x3.8 with a 50ºC increase of salt temperature. 
+The studies also mentioned that carbon steels of different grades are performing similarly, i.e. the 
+corrosion rate on molten nitrate salt is similar in all types of carbon steels. 
+Wall thickness 1.651 mm / 0.065 in
+Material SA210 A1 Seamless
+U-tubes Geometry
+Fluid Molten nitrate (60% NaNO3 – 40% KNO3)
+Design temperature 400 ºC / 750.2 ºF
+Design data
+
+[page 5]
+AECP2017-A-002 
+Technical note – Corrosion of Lointek heat exchangers’ U-tubes due 
+ to exposure to molten nitrate salt in Solana powerplant 
+ 
+ 5 
+In September 2017, Tecnalia performed a corrosion study on several carbon steel coupons immersed in 
+molten nitrate salt in the hot tank of the TES system of Solana powerplant [1]. This report is considered 
+as the most representative for this calculation, because: 
+- It is the longest corrosion test available in literature, hence the most representative for a 25 years 
+lifetime design. 
+- The salts used during the corrosion test are the same (same composition) as the salts to which 
+Lointeks heat exchangers will be exposed. 
+ 
+The test parameters and corrosion rate reported by Tecnalia are summarized in the following table: 
+ 
+ 
+Figure 3-1: Tecnalia’s report summary – corrosion rate of carbon steel in Solana’s TES hot tank. 
+Source: Tecnalia, Project 068980, “Corrosion study on A516GR70 steel coupons tested under preheating conditions” 
+ 
+For information of the reader: the chloride ions content in molten nitrate salts of Solana powerplant have 
+been measured at 0.184w% by ESC Lab Sciences independent laboratory [3]. 
+ 
+ 
+4 Corrosion loss calculation 
+Based on the corrosion data presented above, an estimation is made of the total thickness corrosion loss 
+on Lointek heat exchangers’ U-tubes, due to operation in Solana's molten nitrate salt. 
+ 
+Assumptions: 
+- For this calculation, it is assumed that the total lifetime of Lointek’s heat exchangers is 
+ 
+𝑡𝑙𝑖𝑓𝑒 = 25 𝑦𝑒𝑎𝑟𝑠 
+ 
+ 
+- The heat exchanger design temperature is 400ºC, and the corrosion test have been performed by 
+Tecnalia at 380ºC. A correction factor is applied to the corrosion rate reported by Tecnalia to 
+Coupons material A516GR70 (general carbon steel) 
+Coupons location Solana's TES Hot tank
+Temperature 380 ºC 
+Exposure time 17860 h
+Corrosion rate, r cor 1.66±0.12 µm/year
+Tecnalia's report summary 
+
+[page 6]
+AECP2017-A-002 
+Technical note – Corrosion of Lointek heat exchangers’ U-tubes due 
+ to exposure to molten nitrate salt in Solana powerplant 
+ 
+ 6 
+extrapolate its value at the design temperatu re of the heat exchangers. This correction factor is 
+calculated based on the results of Sandia laboratory study [1] which stated that corrosion rate 
+could increase by a factor of approximately x3.8 with a 50ºC increase of salt temperature. Here, 
+the temperature difference is: 
+∆𝑇 = 400 − 380 = 20 º𝐶 
+Hence, the correction factor is: 
+𝑓 = 20 ∗ 3.8
+50 = 1.52 
+This assumption is conservative as the real operating salt temperature in Lointek’s heat exchanger 
+may never be higher than the temperature of the salt in the TES hot tank. 
+ 
+ 
+Considering these assumption s, the total expected corrosion loss on the surface of Lointek’s heat 
+exchangers U-tubes, due to the operation in Solana’s molten salts is: 
+ 
+ℎ𝑙𝑜𝑠𝑠 = 𝑟𝑐𝑜𝑟 ∗ 𝑓 ∗ 𝑡𝑙𝑖𝑓𝑒 
+ℎ𝑙𝑜𝑠𝑠 = 1.66 ∗ 1.52 ∗ 25 = 𝟔𝟑. 𝟎𝟖 𝝁𝒎 
+ 
+This corrosion loss is equivalent to 3.8% of the initial U-tubes thickness. 
+ 
+ 
+
+[page 7]
+AECP2017-A-002 
+Technical note – Corrosion of Lointek heat exchangers’ U-tubes due 
+ to exposure to molten nitrate salt in Solana powerplant 
+ 
+ 7 
+5 Conclusion 
+The thickness loss by corrosion of the U -tubes due to molten salt mixture, expected after the whole 
+lifetime of Lointek’s heat exchanger in Solana power plant have been estimated base d on the most 
+representative available literature. 
+This thickness loss is 0.06308mm. This corrosion loss can be considered as low regarding the initial tube 
+thickness (3.8%), which indicates that the design may be safe. Nevertheless, an addition al structural 
+calculation considering this corrosion loss should be performed by Lointek’s to guarantee the structural 
+integrity of the tube after 25 years of operation. 
+ 
+ 
+6 Literature 
+[1]. Tecnalia, “Corrosion study on A516GR70 steel coupons tested under preheating conditions”, Project 
+068980, September 2017. 
+[2]. R.W. Bradshaw, W. Miles Clift, “Effect of chloride content of molten nitrate salt on corrosion of 
+A516 carbon steel”, Sandia National Laboratories, SAND2010-7594, November 2010. 
+[3]. ESC Lab Sciences, “Salt analysis”, 02/10/2018.

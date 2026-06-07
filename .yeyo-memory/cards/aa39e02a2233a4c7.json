@@ -1,0 +1,30 @@
+{
+  "id": "aa39e02a2233a4c7",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V312.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 62078,
+  "size_human": "61 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-64-V312",
+  "doc_code": "4521-ESP-ANC-68-64-V312",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1631,
+  "token_estimate": 407,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/aa39e02a2233a4c7.json",
+  "extracted_path": ".yeyo-memory/extracted/aa39e02a2233a4c7.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100907105102",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-64-V312 - Butterfly Valves - SS"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:39.718278+00:00"
+}

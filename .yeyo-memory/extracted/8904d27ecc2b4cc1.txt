@@ -1,0 +1,587 @@
+[sheet Cover Sheet]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0003
+Thermal Energy Storage (TES) Services | Item No.: | No. Req'd:
+Temperature Elemet RTD w. Well and/or Transmitter | Project: | Solana
+Ref.: | Issue: | 4 | Dated: | Feb/09/2012
+Instructions:
+1. | Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be
+included on all pages.
+2. | Revisions are identified in the body of the Specification.
+Rev. | Description of Revision
+No. | Date | By | Chk’d | App’d | with Page Numbers
+0 | Apr/01/2011 | PGV | CLR | PQJ | Issue for Bid
+1 | July/20/2011 | PGV | CLR | PQJ | For P&ID new revision 5
+2 | Aug/22/2011 | PGV | JHR | PQJ | For bid
+3 | Jan/16/2011 | PGV | JHR | PQJ | For Purchase
+4 | Feb/09/2012 | PGV | JHR | PQJ | For Purchase
+4 | Feb/09/2012 | PGV | JHR | PQJ | For purchase
+3 | Jan/16/2012 | PGV | JHR | PQJ | For purchase
+2 | Aug/22/2011 | PGV | JHR | PQJ | For bid
+1 | July/20/2011 | PGV | CLR | PQJ | For P&ID new revision 5
+0 | Apr/01/2011 | PGV | CLR | PQJ | Issue for Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 2]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0003
+Thermal Energy Storage (TES) Services | No. Req'd:
+Temperature Elemet RTD w. Well and/or Transmitter | Solana
+Issue: | 4 | Dated: | Feb/09/2012
+1. General 1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 1.2 Definitions 1.2.1 "Supplier" shall mean the instrument supply company chosen for the project. 1.2.2 "Customer" shall mean Abener Teyma. 1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable). 1.2.4 "Owner" shall mean Abengoa Solar Inc. 1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these specifications. Any specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are considered "Contract Documents". 1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work described unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., are addressed solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically identified. 1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier. 2. Scope 2.1 Scope of this contract is supply of instruments as outlined in the following engineering specifications required for the project including all cables, gasket, manifolds … etc as identified in the main specification as options or accessories. Shipping schedule to be confirm with purchasing during the final commercial agreement 2.2 Packaging - To be defined later. 2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later. 2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify Supplier of material required on an as needed basis. Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in order to reduce transportation costs. 2.5 The following items are excluded from this subcontract: " " " 2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available for update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and document all material within the scope of this contract.
+4 | Feb/09/2012 | PGV | JHR | PQJ | For Purchase
+3 | Jan/16/2012 | PGV | JHR | PQJ | For Purchase
+2 | Aug/22/2011 | PGV | JHR | PQJ | For bid
+1 | July/20/2011 | PGV | CLR | PQJ | For P&ID new revision 5
+0 | Jun/14/2011 | PGV | CLR | PQJ | For Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 3]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0003
+Thermal Energy Storage (TES) Services | No. Req'd:
+Temperature Elemet RTD w. Well and/or Transmitter | Solana
+Issue: | 4 | Dated: | Feb/09/2012
+3. Quality 3.1 All material shall be supplied to meet all dimensional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc standards listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense. Notice: o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data requirements reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing number of weeks after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid. o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received. o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later. o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized, the best estimated shipping date and quantity: Monthy shipping, one listing per month, is scheduled to be for the list 1 to list 6 starting March 2012 and listS: 6, 7 & 8 to be shipped together in May 2012. o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is required. Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need this information with the quotation, in order for our client to have spares available during start-up and to take advantage of any economies available. o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by Abener Teyma personnel prior to shipment to assure compliance with specifications. o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick Carlton, e-mail rick.carlton@abener.abengoa.com at (314) 275-1323 for details. o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in physical dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or maintenance cost and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate and price and delivery for that alternate. The purchase will, in general, be made on a basis of adherence to the original design premise, economic value, and best delivery. o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed corrections, changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must request clarification. Give priority to pricing standard equipment and components. o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply: o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage. o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation.
+4 | Feb/09/2012 | PGV | JHR | PQJ | For Purchase
+3 | Jan/16/2011 | PGV | JHR | PQJ | For Purchase
+2 | Aug/22/2011 | PGV | JHR | PQJ | For Bid
+1 | July/20/2011 | PGV | CLR | PQJ | For P&ID new revision 5
+0 | Jun/14/2011 | PGV | CLR | PQJ | For Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Index ]
+Sheet | Title | Revision
+1 | Cover | 4
+2 | General Notes and Instructions | 4
+3 | General Notes and Instructions | 4
+4 | Index | 4
+5 | Engineering Specification - Temp. RTD Element w. Thermowell and Transmitters | 4
+6 | Engineering Specification - Temp. RTD Element w. Thermowell | 4
+7 | Element Sketch | 4
+8 | Temperature RTD Element w. Thermowell and Transmitter - List 1 | 4
+9 | Temperature RTD Element w. Thermowell and Transmitter - List 2 | 4
+10 | Temperature RTD Element w. Thermowell and Transmitter - List 3 | 4
+11 | Temperature RTD Element w. Thermowell and Transmitter - List 4 | 4
+12 | Temperature RTD Element w. Thermowell and Transmitter - List 5 | 4
+13 | Temperature RTD Element w. Thermowell and Transmitter - List 6 | 4
+14 | Temperature RTD Element w. Thermowell and Transmitter - List 7 | 4
+15 | Temperature RTD Element w. Thermowell and Transmitter - List 8 | 4
+4 | PGV | Feb/09/2012 | For purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | For purchase
+2 | PGV | Aug/22/2011 | For bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 4 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet Well +RTD+Transm. Spec.]
+Engineering Specification - Temperature RTD Element w. Thermowell and Transmitter
+GENERAL | 1 | Tag Number | See Attached List - Stlye A, B, C, D & L
+2 | Service | See Attached List
+3 | P&ID | See Attached List
+4 | Line | See Attached List
+PROCESS CONDITIONS | 5 | Fluid | Phase | See Description | Liquid
+6 | Design Temperature | See Attached List
+7 | Design Pressure | Operating Pressure | See Attached List | See HTF List
+TEMPERATURE SENSOR | 8 | Type | Class | PT-100 - 3 wire RTD | A
+9 | Extension | Mounting | See Sketch 1 | Thermowell
+10 | Single or Dual | Element Lenght | Dual | To suit TW
+11 | Head Mounting Fittings | Assembly Material | 1/2" Nipple-Union-Nipple | Galvanized Steel
+12 | Overall Length (B dim.) | See Sketch 1
+13 | Terminal Block | Dual
+14 | Spring Loading | Yes
+15 | Coating | 316 SS
+THERMOWELL | 16 | Process Connection | 1" NPT - Back Welded (See sketch 1 for more info)
+17 | Material | CS ASTM A-234 Grade WPB
+18 | Coating | Coating | (1)
+19 | Construction Type | Heavy Duty - Tapered Shank
+20 | Element Connection | 1/2" NPT
+21 | Treatments | Finish | Note 1 | Note 1
+22 | Insertion length (U dim.) | See style specific on sketch 1
+23 | Thermowell Length (A dim. + 1/4") | See style specific on sketch 1
+24 | Thermowell + Assembly Length (B dim.) | See style specific on sketch 1
+TEMPERATURE TRANSMITTER | 25 | Calibration Range | Calibration Range | See Attached List
+26 | Adjustable Range | Yes
+27 | Temperature Compensation | Yes
+28 | Output Signal | Linearization | 4-20 mA + HART | Yes
+29 | Accuracy | ±0,02% of Spain
+30 | Minimum Span | Maximum Span | 0 F | 600 C / 900 F
+31 | Head or Remote Mounting | Head Mounting - Integral
+32 | Power Supply | Load Resistance | 24 VDC. Loop Powered | 600 Ohms
+33 | Environment | Temp (Deg. F) | Solar Radiation (W / meter 2) | Dry - Hot | 22 (Min) - 125 (Max) | 1008
+34 | Storage Temperature (Deg. F) | 0 (F) - 185 (F)
+35 | Enclosure Protection | NEMA 4X
+36 | Electrical Connection size | 1/2 "
+37 | Hazardous Areas Classification | Class I, Division II
+38 | Burnout configuration | Low
+ACCESSORIES | 39 | Indicator | Indicator Scale | Yes | Yes
+40 | Sun Guard | NA
+41 | Calibration Certificate | Yes
+42 | Identification tag plate | 316 SS - 2" x 4"
+PURCHASING | 43 | Manufacturer | Krohne- INOR
+44 | Model No - Transmitter | Opti temp - TT 51 with LED
+45 | Model No - Thermowell | Later
+Notes: | (1) To be defined by supplier.
+4 | PGV | Feb/09/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 5 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet Well + RTD]
+Engineering Specification - Temperature RTD Element w. Thermowell
+GENERAL | 1 | Tag Number | See Attached List - Style K
+2 | Service | See Attached List
+3 | P&ID | See Attached List
+4 | Line | See Attached List
+PROCESS CONDITIONS | 5 | Fluid | Phase | Air | Gas
+6 | Design Temperature | See Attached List
+7 | Design Pressure | Operating Pressure | See Attached List | See HTF List
+TEMPERATURE SENSOR | 8 | Type | Class | PT-100 - 3 wire RTD | A
+9 | Extension | Mounting | See Sketch 2 | Thermowell
+10 | Single or Dual | Element Lenght | Dual | To suit TW
+11 | Head Mounting Fittings | Assembly Material | 1/2" Nipple-Union-Nipple | Galvanized Steel
+12 | Overall Length (B dim.) | See Sketch 2
+13 | Terminal Block | Dual
+14 | Spring Loading | Yes
+15 | Coating | 316 SS
+THERMOWELL | 16 | Process Connection | 1" NPT - Back Welded is not required for low pressure services
+17 | Material | CS ASTM A-234 Grade WPB
+18 | Coating | Coating | (1)
+19 | Construction Type | Heavy Duty - Tapered Shank
+20 | Element Connection | 1/2" NPT
+21 | Treatments | Finish | Note 1 | (1)
+22 | Insertion length (U dim.) | See style specific on sketch 2
+23 | Themowell Length (A dim. + 1/4") | See style specific on sketch 2
+TEMPERATURE TRANSMITTER | 24 | Calibration Range | Calibration Range | NA
+25 | Adjustable Range
+26 | Temperature Compensation
+27 | Output Signal | Linearization
+28 | Accuracy
+29 | Minimum Span | Maximum Span
+30 | Head or Remote Mounting
+31 | Power Supply | Load Resistance
+32 | Environment | Temp (Deg. F) | Solar Radiation (W / meter 2)
+33 | Enclosure Protection
+34 | Electrical Connection size
+35 | Hazardous Areas Classification
+36 | Burnout configuration
+ACCESSORIES | 37 | Indicator | Indicator Scale | NA | NA
+38 | Sun Guard | NA
+39 | Calibration Certificate | NA
+40 | Identification tag plate | 316 SS - 2" x 4"
+PURCHASING | 43 | Manufacturer | Krohne- INOR
+45 | Model No - Thermowell | Later
+Notes: | (1) To be defined by supplier.
+4 | PGV | Feb/09/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 6 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet Sketch 1]
+Engineering Specification - Temperature RTD Element w. Thermowell and Transmitter
+Sketch 1
+Style # | Thermowell Length (A + 1/4") (Inches) | Insertion Length "U" (Inches) | Overall Length B dim. (Inches) | Notes | T/well model
+A | 12.5 | 7 | 20.5 | Backweld is required for HTF | Later
+& Salt Services only
+B | 14.5 | 9 | 22.5 | Backweld is required for HTF | Later
+& Salt Services only
+C | 17 | 11 | 25 | Backweld is required for HTF | Later
+& Salt Services only
+D | 10 | 5 | 18 | Backweld is required for HTF | Later
+& Salt Services only
+E | Future | Future | Future | Later
+F | Future | Future | Future | Later
+H | 15 | 23 | RTD & Transmitter only | Later
+K | 3.375 | 1.625 | 7.375 | Later
+4 | PGV | Feb/09/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 7 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List I]
+Temperature RTD Element w. Thermowell and Transmitter - List 1
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT - HTF STANDBY HEAT EXCHANGER (1 MX-252)
+TIT 1-254-04 | Standby MS-HTF HEX - HTF Inlet Temperature (Non HT Zone) | **-68-71-P252 | A | 252-HTF-07A-CS30-12" | 32 - 800
+TIT 1-254-05 | Standby MS-HTF HEX - HTF Inlet Temperature (HT Zone) | **-68-71-P252 | A | 252-HTF-07A-CS30-12" | 32 - 800
+TIT 1-254-10A | Standby MS-HTF HEX - HTF Outlet Temp. (Non HT Zone) | **-68-71-P252 | A | 252-HTF-08A-CS30-12" | 32 - 800
+TIT 1-254-10B | Standby MS-HTF HEX - HTF Outlet Temp. (HT Zone) | **-68-71-P252 | A | 252-HTF-08A-CS30-12" | 32 - 800
+TIT 1-252-38A | Standby MS-HTF Heat Exchanger - Skin Temperature MS Inlet | **-68-71-P252 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 1-252-38B | Standby MS-HTF Heat Exchanger - Skin Temperature MS Outlet | **-68-71-P252 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 1-251-27 | Standby MS-HTF Heat Exchanger - HTF Temperature - Pump Inlet | **-68-71-P252 | B | 252-HTF-04A-CS30-16" | 32 - 800
+MOLTEN SALT - HTF MAIN HEAT EXCHANGER (1 MX-251)
+TIT 1-251-08A | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P252 | C | 252-HTF-10A-CS30-20" | 32 - 800
+TIT 1-251-08B | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P252 | C | 252-HTF-10A-CS30-20" | 32 - 800
+TIT 1-251-08C | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P252 | C | 252-HTF-14A-SS38-24" | 32 - 800
+TIT 1-251-08D | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P252 | C | 252-HTF-14A-SS38-24" | 32 - 800
+TIT 1-251-18A | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P252 | C | 210-HTF-05-CS30-20" | 32 - 800
+TIT 1-251-18B | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P252 | C | 210-HTF-05-CS30-20" | 32 - 800
+TIT 1-251-18C | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P252 | C | 252-HTF-13A-SS38-24" | 32 - 800
+TIT 1-251-18D | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P252 | C | 252-HTF-13A-SS38-24" | 32 - 800
+TIT 1-251-25 | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Flow Compensation | **-68-71-P252 | C | 252-HTF-10A-CS30-20" | 32 - 800
+TIT 1-251-24 | Main MS-HTF Heat Exchanger - HTF Cold Discharge Temperature | **-68-71-P252 | C | 210-HTF-04-CS32-20" | 32 - 800
+TIT 1-251-36 | Main MS-HTF Heat Exchanger - HTF Cold Charge Temperature | **-68-71-P252 | C | 252-HTF-10A-CS30-20" | 32 - 800
+COLD MOLTEN SALT To MAIN HEAT EXCHANGER (1 MX-251)
+TIT 1-251-17A | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Primary | **-68-71-P251 | C | 251-MS-01A-CS31-20" | 32 - 800
+TIT 1-251-17B | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Backup | **-68-71-P251 | C | 251-MS-01A-CS31-20" | 32 - 800
+COLD MOLTEN SALT ELECTRIC HEATER (1 MH-251)
+TIT 1-251-30 | Cold MS Electric Heater - MS Outlet Temperature | **-68-71-P251 | D | 251-MS-04A-CS31-10" | 32 - 800
+HOT MOLTEN SALT To Main HEAT EXCHANGER (1 MX-251)
+TIT 1-252-24A | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Primary | **-68-71-P253 | C | 253-MS-01A-CS31-20" | 32 - 800
+TIT 1-252-24B | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Backup | **-68-71-P253 | C | 253-MS-01A-CS31-20" | 32 - 800
+HOT MOLTEN SALT ELECTRIC HEATER (1 MH-252)
+TIT 1-252-30 | Hot MS Electric Heater - MS Outlet Temperature | **-68-71-P251 | D | 253-MS-03A-CS31-10" | 32 - 800
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - Change as NOTED | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 8 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List 2]
+Temperature RTD Element w. Thermowell and Transmitter - List 2
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT - HTF STANDBY HEAT EXCHANGER (2 MX-252)
+TIT 2-254-04 | Standby MS-HTF HEX - HTF Inlet Temperature (Non HT Zone) | **-68-71-P262 | A | 252-HTF-07B-CS30-12" | 32 - 800
+TIT 2-254-05 | Standby MS-HTF HEX - HTF Inlet Temperature (HT Zone) | **-68-71-P262 | A | 252-HTF-07B-CS30-12" | 32 - 800
+TIT 2-254-10A | Standby MS-HTF HEX - HTF Outlet Temp. (Non HT Zone) | **-68-71-P262 | A | 252-HTF-08B-CS30-12" | 32 - 800
+TIT 2-254-10B | Standby MS-HTF HEX - HTF Outlet Temp. (HT Zone) | **-68-71-P262 | A | 252-HTF-08B-CS30-12" | 32 - 800
+TIT 2-252-38A | Standby MS-HTF Heat Exchanger - Skin Temperature MS Inlet | **-68-71-P262 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 2-252-38B | Standby MS-HTF Heat Exchanger - Skin Temperature MS Outlet | **-68-71-P262 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 2-251-27 | Standby MS-HTF Heat Exchanger - HTF Temperature - Pump Inlet | **-68-71-P262 | B | 252-HTF-04B-CS30-16" | 32 - 800
+MOLTEN SALT - HTF MAIN HEAT EXCHANGER (2 MX-251)
+TIT 2-251-08A | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P262 | C | 252-HTF-10B-CS30-20" | 32 - 800
+TIT 2-251-08B | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P262 | C | 252-HTF-10B-CS30-20" | 32 - 800
+TIT 2-251-08C | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P262 | C | 252-HTF-14B-SS38-24" | 32 - 800
+TIT 2-251-08D | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P262 | C | 252-HTF-14B-SS38-24" | 32 - 800
+TIT 2-251-18A | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P262 | C | 210-HTF-06-CS30-20" | 32 - 800
+TIT 2-251-18B | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P262 | C | 210-HTF-06-CS30-20" | 32 - 800
+TIT 2-251-18C | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P262 | C | 252-HTF-13B-SS38-24" | 32 - 800
+TIT 2-251-18D | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P262 | C | 252-HTF-13B-SS38-24" | 32 - 800
+TIT 2-251-25 | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Flow Compensation | **-68-71-P262 | C | 252-HTF-10B-CS30-20" | 32 - 800
+TIT 2-251-24 | Main MS-HTF Heat Exchanger - HTF Cold Discharge Temperature | **-68-71-P262 | C | 210-HTF-07-CS32-20" | 32 - 800
+TIT 2-251-36 | Main MS-HTF Heat Exchanger - HTF Cold Charge Temperature | **-68-71-P262 | C | 252-HTF-10B-CS30-20" | 32 - 800
+COLD MOLTEN SALT To MAIN HEAT EXCHANGER (2 MX-251)
+TIT 2-251-17A | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Primary | **-68-71-P261 | C | 251-MS-01A-CS31-20" | 32 - 800
+TIT 2-251-17B | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Backup | **-68-71-P261 | C | 251-MS-01A-CS31-20" | 32 - 800
+COLD MOLTEN SALT ELECTRIC HEATER (2 MH-251)
+TIT 2-251-30 | Cold MS Electric Heater - MS Outlet Temperature | **-68-71-P261 | D | 251-MS-04B-CS31-10" | 32 - 800
+HOT MOLTEN SALT To Main HEAT EXCHANGER (2 MX-251)
+TIT 2-252-24A | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Primary | **-68-71-P263 | C | 253-MS-01B-CS31-20" | 32 - 800
+TIT 2-252-24B | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Backup | **-68-71-P263 | C | 253-MS-01B-CS31-20" | 32 - 800
+HOT MOLTEN SALT ELECTRIC HEATER (2 MH-252)
+TIT 2-252-30 | Hot MS Electric Heater - MS Outlet Temperature | **-68-71-P261 | D | 253-MS-03A-CS31-10" | 32 - 800
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - Change as NOTED | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 9 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List 3]
+Temperature RTD Element w. Thermowell and Transmitter - List 3
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT - HTF STANDBY HEAT EXCHANGER (3 MX-252)
+TIT 3-254-04 | Standby MS-HTF HEX - HTF Inlet Temperature (Non HT Zone) | **-68-71-P265 | A | 252-HTF-07C-CS30-12" | 32 - 800
+TIT 3-254-05 | Standby MS-HTF HEX - HTF Inlet Temperature (HT Zone) | **-68-71-P265 | A | 252-HTF-07C-CS30-12" | 32 - 800
+TIT 3-254-10A | Standby MS-HTF HEX - HTF Outlet Temp. (Non HT Zone) | **-68-71-P265 | A | 252-HTF-08C-CS30-12" | 32 - 800
+TIT 3-254-10B | Standby MS-HTF HEX - HTF Outlet Temp. (HT Zone) | **-68-71-P265 | A | 252-HTF-08C-CS30-12" | 32 - 800
+TIT 3-252-38A | Standby MS-HTF Heat Exchanger - Skin Temperature MS Inlet | **-68-71-P265 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 3-252-38B | Standby MS-HTF Heat Exchanger - Skin Temperature MS Outlet | **-68-71-P265 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 3-251-27 | Standby MS-HTF Heat Exchanger - HTF Temperature - Pump Inlet | **-68-71-P265 | B | 252-HTF-04C-CS30-16" | 32 - 800
+MOLTEN SALT - HTF MAIN HEAT EXCHANGER (3 MX-251)
+TIT 3-251-08A | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P265 | C | 252-HTF-10C-CS30-20" | 32 - 800
+TIT 3-251-08B | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P265 | C | 252-HTF-10C-CS30-20" | 32 - 800
+TIT 3-251-08C | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P265 | C | 252-HTF-14C-SS38-24" | 32 - 800
+TIT 3-251-08D | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P265 | C | 252-HTF-14C-SS38-24" | 32 - 800
+TIT 3-251-18A | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P265 | C | 211-HTF-26-CS30-20" | 32 - 800
+TIT 3-251-18B | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P265 | C | 211-HTF-26-CS30-20" | 32 - 800
+TIT 3-251-18C | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P265 | C | 252-HTF-13C-SS38-24" | 32 - 800
+TIT 3-251-18D | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P265 | C | 252-HTF-13C-SS38-24" | 32 - 800
+TIT 3-251-25 | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Flow Compensation | **-68-71-P265 | C | 252-HTF-10C-CS30-20" | 32 - 800
+TIT 3-251-24 | Main MS-HTF Heat Exchanger - HTF Cold Discharge Temperature | **-68-71-P265 | C | 211-HTF-24-CS32-20" | 32 - 800
+TIT 3-251-36 | Main MS-HTF Heat Exchanger - HTF Cold Charge Temperature | **-68-71-P265 | C | 252-HTF-10C-CS30-20" | 32 - 800
+COLD MOLTEN SALT To MAIN HEAT EXCHANGER (3 MX-251)
+TIT 3-251-17A | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Primary | **-68-71-P264 | C | 251-MS-01A-CS31-20" | 32 - 800
+TIT 3-251-17B | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Backup | **-68-71-P264 | C | 251-MS-01A-CS31-20" | 32 - 800
+COLD MOLTEN SALT ELECTRIC HEATER (3 MH-251)
+TIT 3-251-30 | Cold MS Electric Heater - MS Outlet Temperature | **-68-71-P264 | D | 251-MS-04C-CS31-10" | 32 - 800
+HOT MOLTEN SALT To Main HEAT EXCHANGER (3 MX-251)
+TIT 3-252-24A | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Primary | **-68-71-P266 | C | 253-MS-01C-CS31-20" | 32 - 800
+TIT 3-252-24B | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Backup | **-68-71-P266 | C | 253-MS-01C-CS31-20" | 32 - 800
+HOT MOLTEN SALT ELECTRIC HEATER (3 MH-252)
+TIT 3-252-30 | Hot MS Electric Heater - MS Outlet Temperature | **-68-71-P264 | D | 253-MS-03A-CS31-10" | 32 - 800
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - Change as NOTED | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 10 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List 4]
+Temperature RTD Element w. Thermowell and Transmitter - List 4
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT - HTF STANDBY HEAT EXCHANGER (4 MX-252)
+TIT 4-254-04 | Standby MS-HTF HEX - HTF Inlet Temperature (Non HT Zone) | **-68-71-P268 | A | 252-HTF-07D-CS30-12" | 32 - 800
+TIT 4-254-05 | Standby MS-HTF HEX - HTF Inlet Temperature (HT Zone) | **-68-71-P268 | A | 252-HTF-07D-CS30-12" | 32 - 800
+TIT 4-254-10A | Standby MS-HTF HEX - HTF Outlet Temp. (Non HT Zone) | **-68-71-P268 | A | 252-HTF-08D-CS30-12" | 32 - 800
+TIT 4-254-10B | Standby MS-HTF HEX - HTF Outlet Temp. (HT Zone) | **-68-71-P268 | A | 252-HTF-08D-CS30-12" | 32 - 800
+TIT 4-252-38A | Standby MS-HTF Heat Exchanger - Skin Temperature MS Inlet | **-68-71-P268 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 4-252-38B | Standby MS-HTF Heat Exchanger - Skin Temperature MS Outlet | **-68-71-P268 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 4-251-27 | Standby MS-HTF Heat Exchanger - HTF Temperature - Pump Inlet | **-68-71-P268 | B | 252-HTF-04D-CS30-16" | 32 - 800
+MOLTEN SALT - HTF MAIN HEAT EXCHANGER (4 MX-251)
+TIT 4-251-08A | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P268 | C | 252-HTF-10D-CS30-20" | 32 - 800
+TIT 4-251-08B | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P268 | C | 252-HTF-10D-CS30-20" | 32 - 800
+TIT 4-251-08C | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P268 | C | 252-HTF-14D-SS38-24" | 32 - 800
+TIT 4-251-08D | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P268 | C | 252-HTF-14D-SS38-24" | 32 - 800
+TIT 4-251-18A | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P268 | C | 211-HTF-27-CS30-20" | 32 - 800
+TIT 4-251-18B | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P268 | C | 211-HTF-27-CS30-20" | 32 - 800
+TIT 4-251-18C | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P268 | C | 252-HTF-13D-SS38-24" | 32 - 800
+TIT 4-251-18D | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P268 | C | 252-HTF-13D-SS38-24" | 32 - 800
+TIT 4-251-25 | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Flow Compensation | **-68-71-P268 | C | 252-HTF-10D-CS30-20" | 32 - 800
+TIT 4-251-24 | Main MS-HTF Heat Exchanger - HTF Cold Discharge Temperature | **-68-71-P268 | C | 211-HTF-25-CS32-20" | 32 - 800
+TIT 4-251-36 | Main MS-HTF Heat Exchanger - HTF Cold Charge Temperature | **-68-71-P268 | C | 252-HTF-10D-CS30-20" | 32 - 800
+COLD MOLTEN SALT To MAIN HEAT EXCHANGER (4 MX-251)
+TIT 4-251-17A | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Primary | **-68-71-P267 | C | 251-MS-01A-CS31-20" | 32 - 800
+TIT 4-251-17B | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Backup | **-68-71-P267 | C | 251-MS-01A-CS31-20" | 32 - 800
+COLD MOLTEN SALT ELECTRIC HEATER (4 MH-251)
+TIT 4-251-30 | Cold MS Electric Heater - MS Outlet Temperature | **-68-71-P267 | D | 251-MS-04D-CS31-10" | 32 - 800
+HOT MOLTEN SALT To Main HEAT EXCHANGER (4 MX-251)
+TIT 4-252-24A | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Primary | **-68-71-P269 | C | 253-MS-01D-CS31-20" | 32 - 800
+TIT 4-252-24B | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Backup | **-68-71-P269 | C | 253-MS-01D-CS31-20" | 32 - 800
+HOT MOLTEN SALT ELECTRIC HEATER (4 MH-252)
+TIT 4-252-30 | Hot MS Electric Heater - MS Outlet Temperature | **-68-71-P267 | D | 253-MS-03A-CS31-10" | 32 - 800
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - Change as NOTED | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 11 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List 5]
+Temperature RTD Element w. Thermowell and Transmitter - List 5
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT - HTF STANDBY HEAT EXCHANGER (5 MX-252)
+TIT 5-254-04 | Standby MS-HTF HEX - HTF Inlet Temperature (Non HT Zone) | **-68-71-P271 | A | 252-HTF-07E-CS30-12" | 32 - 800
+TIT 5-254-05 | Standby MS-HTF HEX - HTF Inlet Temperature (HT Zone) | **-68-71-P271 | A | 252-HTF-07E-CS30-12" | 32 - 800
+TIT 5-254-10A | Standby MS-HTF HEX - HTF Outlet Temp. (Non HT Zone) | **-68-71-P271 | A | 252-HTF-08E-CS30-12" | 32 - 800
+TIT 5-254-10B | Standby MS-HTF HEX - HTF Outlet Temp. (HT Zone) | **-68-71-P271 | A | 252-HTF-08E-CS30-12" | 32 - 800
+TIT 5-252-38A | Standby MS-HTF Heat Exchanger - Skin Temperature MS Inlet | **-68-71-P271 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 5-252-38B | Standby MS-HTF Heat Exchanger - Skin Temperature MS Outlet | **-68-71-P271 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 5-251-27 | Standby MS-HTF Heat Exchanger - HTF Temperature - Pump Inlet | **-68-71-P271 | B | 252-HTF-04E-CS30-16" | 32 - 800
+MOLTEN SALT - HTF MAIN HEAT EXCHANGER (5 MX-251)
+TIT 5-251-08A | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P271 | C | 252-HTF-10E-CS30-20" | 32 - 800
+TIT 5-251-08B | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P271 | C | 252-HTF-10E-CS30-20" | 32 - 800
+TIT 5-251-08C | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P271 | C | 252-HTF-14E-SS38-24" | 32 - 800
+TIT 5-251-08D | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P271 | C | 252-HTF-14E-SS38-24" | 32 - 800
+TIT 5-251-18A | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P271 | C | 212-HTF-05-CS30-20" | 32 - 800
+TIT 5-251-18B | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P271 | C | 212-HTF-05-CS30-20" | 32 - 800
+TIT 5-251-18C | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P271 | C | 252-HTF-13E-SS38-24" | 32 - 800
+TIT 5-251-18D | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P271 | C | 252-HTF-13E-SS38-24" | 32 - 800
+TIT 5-251-25 | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Flow Compensation | **-68-71-P271 | C | 252-HTF-10E-CS30-20" | 32 - 800
+TIT 5-255-24 | Main MS-HTF Heat Exchanger - HTF Cold Discharge Temperature | **-68-71-P271 | C | 212-HTF-04-CS32-20" | 32 - 800
+TIT 5-251-36 | Main MS-HTF Heat Exchanger - HTF Cold Charge Temperature | **-68-71-P271 | C | 252-HTF-10E-CS30-20" | 32 - 800
+COLD MOLTEN SALT To MAIN HEAT EXCHANGER (5 MX-251)
+TIT 5-251-17A | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Primary | **-68-71-P270 | C | 251-MS-01A-CS31-20" | 32 - 800
+TIT 5-251-17B | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Backup | **-68-71-P270 | C | 251-MS-01A-CS31-20" | 32 - 800
+COLD MOLTEN SALT ELECTRIC HEATER (5 MH-251)
+TIT 5-251-30 | Cold MS Electric Heater - MS Outlet Temperature | **-68-71-P270 | D | 251-MS-04E-CS31-10" | 32 - 800
+HOT MOLTEN SALT To Main HEAT EXCHANGER (5 MX-251)
+TIT 5-252-24A | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Primary | **-68-71-P272 | C | 253-MS-01E-CS31-20" | 32 - 800
+TIT 5-252-24B | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Backup | **-68-71-P272 | C | 253-MS-01E-CS31-20" | 32 - 800
+HOT MOLTEN SALT ELECTRIC HEATER (1 MH-252)
+TIT 5-252-30 | Hot MS Electric Heater - MS Outlet Temperature | **-68-71-P270 | D | 253-MS-03E-CS31-10" | 32 - 800
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - Change as NOTED | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 12 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List 6]
+Temperature RTD Element w. Thermowell and Transmitter - List 6
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT - HTF STANDBY HEAT EXCHANGER (6 MX-252)
+TIT 6-254-04 | Standby MS-HTF HEX - HTF Inlet Temperature (Non HT Zone) | **-68-71-P274 | A | 252-HTF-07F-CS30-12" | 32 - 800
+TIT 6-254-05 | Standby MS-HTF HEX - HTF Inlet Temperature (HT Zone) | **-68-71-P274 | A | 252-HTF-07F-CS30-12" | 32 - 800
+TIT 6-254-10A | Standby MS-HTF HEX - HTF Outlet Temp. (Non HT Zone) | **-68-71-P274 | A | 252-HTF-08F-CS30-12" | 32 - 800
+TIT 6-254-10B | Standby MS-HTF HEX - HTF Outlet Temp. (HT Zone) | **-68-71-P274 | A | 252-HTF-08F-CS30-12" | 32 - 800
+TIT 6-252-38A | Standby MS-HTF Heat Exchanger - Skin Temperature MS Inlet | **-68-71-P274 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 6-252-38B | Standby MS-HTF Heat Exchanger - Skin Temperature MS Outlet | **-68-71-P274 | H | Vessel | 32 - 800 | No Thermowell Needed
+TIT 6-251-27 | Standby MS-HTF Heat Exchanger - HTF Temperature - Pump Inlet | **-68-71-P274 | B | 252-HTF-04F-CS30-16" | 32 - 800
+MOLTEN SALT - HTF MAIN HEAT EXCHANGER (6 MX-251)
+TIT 6-251-08A | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P274 | C | 252-HTF-10F-CS30-20" | 32 - 800
+TIT 6-251-08B | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P274 | C | 252-HTF-10F-CS30-20" | 32 - 800
+TIT 6-251-08C | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Primary | **-68-71-P274 | C | 252-HTF-14F-SS38-24" | 32 - 800
+TIT 6-251-08D | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Backup | **-68-71-P274 | C | 252-HTF-14F-SS38-24" | 32 - 800
+TIT 6-251-18A | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P274 | C | 212-HTF-06-CS30-20" | 32 - 800
+TIT 6-251-18B | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P274 | C | 212-HTF-06-CS30-20" | 32 - 800
+TIT 6-251-18C | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Primary | **-68-71-P274 | C | 252-HTF-13F-SS38-24" | 32 - 800
+TIT 6-251-18D | Main MS-HTF Heat Exchanger - HTF Temperature Hot Side - Backup | **-68-71-P274 | C | 252-HTF-13F-SS38-24" | 32 - 800
+TIT 6-251-25 | Main MS-HTF Heat Exchanger - HTF Temperature Cold Side - Flow Compensation | **-68-71-P274 | C | 252-HTF-10F-CS30-20" | 32 - 800
+TIT 6-256-24 | Main MS-HTF Heat Exchanger - HTF Cold Discharge Temperature | **-68-71-P274 | C | 212-HTF-07-CS32-20" | 32 - 800
+TIT 6-251-36 | Main MS-HTF Heat Exchanger - HTF Cold Charge Temperature | **-68-71-P274 | C | 252-HTF-10F-CS30-20" | 32 - 800
+COLD MOLTEN SALT TO MAIN HEAT EXCHANGER (6 MX-251)
+TIT 6-251-17A | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Primary | **-68-71-P273 | C | 251-MS-01A-CS31-20" | 32 - 800
+TIT 6-251-17B | Main MS-HTF Heat Exchanger - MS Temperature Cold Side - Backup | **-68-71-P273 | C | 251-MS-01A-CS31-20" | 32 - 800
+COLD MOLTEN SALT ELECTRIC HEATER (6 MH-251)
+TIT 6-251-30 | Cold MS Electric Heater - MS Outlet Temperature | **-68-71-P273 | D | 251-MS-04F-CS31-10" | 32 - 800
+HOT MOLTEN SALT To Main HEAT EXCHANGER (6 MX-251)
+TIT 6-252-24A | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Primary | **-68-71-P275 | C | 253-MS-01F-CS31-20" | 32 - 800
+TIT 6-252-24B | Main MS-HTF Heat Exchanger - MS Temperature Hot Side - Backup | **-68-71-P275 | C | 253-MS-01F-CS31-20" | 32 - 800
+HOT MOLTEN SALT ELECTRIC HEATER (6 MH-252)
+TIT 6-252-30 | Hot MS Electric Heater - MS Outlet Temperature | **-68-71-P273 | D | 253-MS-03A-CS31-10" | 32 - 800
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - Change as NOTED | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - Change as NOTED
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 13 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List 7]
+Temperature RTD Element w. Thermowell - List 7
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT COLD TANK - (TES-1 Only)
+FOUNDATION COOLING
+TE 1-251-49-A | MS Cold Tank Foundation Cooling Outlet Temp - A | **-68-71-P251 | K | 251-V-01A-CS95-6" | 32 - 250
+TE 1-251-49-B | MS Cold Tank Foundation Cooling Outlet Temp - B | **-68-71-P251 | K | 251-V-02A-CS95-6" | 32 - 250
+TE 1-251-49-C | MS Cold Tank Foundation Cooling Outlet Temp - C | **-68-71-P251 | K | 251-V-03A-CS95-6" | 32 - 250
+TE 1-251-49-D | MS Cold Tank Foundation Cooling Outlet Temp - D | **-68-71-P251 | K | 251-V-04A-CS95-6" | 32 - 250
+TE 1-251-49-E | MS Cold Tank Foundation Cooling Outlet Temp - E | **-68-71-P251 | K | 251-V-05A-CS95-6" | 32 - 250
+TE 1-251-49-F | MS Cold Tank Foundation Cooling Outlet Temp - F | **-68-71-P251 | K | 251-V-06A-CS95-6" | 32 - 250
+TE 1-251-49-G | MS Cold Tank Foundation Cooling Outlet Temp - G | **-68-71-P251 | K | 251-V-07A-CS95-6" | 32 - 250
+TE 1-251-49-H | MS Cold Tank Foundation Cooling Outlet Temp - H | **-68-71-P251 | K | 251-V-08A-CS95-6" | 32 - 250
+TE 1-251-49-J | MS Cold Tank Foundation Cooling Outlet Temp - J | **-68-71-P251 | K | 251-V-09A-CS95-6" | 32 - 250
+TE 1-251-49-K | MS Cold Tank Foundation Cooling Outlet Temp - K | **-68-71-P251 | K | 251-V-10A-CS95-6" | 32 - 250
+TE 1-251-49-L | MS Cold Tank Foundation Cooling Outlet Temp - L | **-68-71-P251 | K | 251-V-11A-CS95-6" | 32 - 250
+TE 1-251-49-M | MS Cold Tank Foundation Cooling Outlet Temp - M | **-68-71-P251 | K | 251-V-12A-CS95-6" | 32 - 250
+TE 1-251-49-N | MS Cold Tank Foundation Cooling Outlet Temp - N | **-68-71-P251 | K | 251-V-13A-CS95-6" | 32 - 250
+TE 1-251-49-P | MS Cold Tank Foundation Cooling Outlet Temp - P | **-68-71-P251 | K | 251-V-14A-CS95-6" | 32 - 250
+TE 1-251-49-Q | MS Cold Tank Foundation Cooling Outlet Temp - Q | **-68-71-P251 | K | 251-V-15A-CS95-6" | 32 - 250
+TE 1-251-49-R | MS Cold Tank Foundation Cooling Outlet Temp - R | **-68-71-P251 | K | 251-V-16A-CS95-6" | 32 - 250
+TE 1-251-49-S | MS Cold Tank Foundation Cooling Outlet Temp - S | **-68-71-P251 | K | 251-V-17A-CS95-6" | 32 - 250
+TE 1-251-49-T | MS Cold Tank Foundation Cooling Outlet Temp - T | **-68-71-P251 | K | 251-V-18A-CS95-6" | 32 - 250
+TE 1-251-49-U | MS Cold Tank Foundation Cooling Outlet Temp - U | **-68-71-P251 | K | 251-V-19A-CS95-6" | 32 - 250
+TE 1-251-49-V | MS Cold Tank Foundation Cooling Outlet Temp - V | **-68-71-P251 | K | 251-V-20A-CS95-6" | 32 - 250
+TE 1-251-49-W | MS Cold Tank Foundation Cooling Outlet Temp - W | **-68-71-P251 | K | 251-V-21A-CS95-6" | 32 - 250
+TE 1-251-49-X | MS Cold Tank Foundation Cooling Outlet Temp - X | **-68-71-P251 | K | 251-V-22A-CS95-6" | 32 - 250
+TE 1-251-49-Y | MS Cold Tank Foundation Cooling Outlet Temp - Y | **-68-71-P251 | K | 251-V-23A-CS95-6" | 32 - 250
+TE 1-251-49-Z | MS Cold Tank Foundation Cooling Outlet Temp - Z | **-68-71-P251 | K | 251-V-24A-CS95-6" | 32 - 250
+TE 1-251-49-AA | MS Cold Tank Foundation Cooling Outlet Temp - AA | **-68-71-P251 | K | 251-V-25A-CS95-6" | 32 - 250
+TE 1-251-49-BB | MS Cold Tank Foundation Cooling Outlet Temp - BB | **-68-71-P251 | K | 251-V-26A-CS95-6" | 32 - 250
+TE 1-251-49-CC | MS Cold Tank Foundation Cooling Outlet Temp - CC | **-68-71-P251 | K | 251-V-27A-CS95-6" | 32 - 250
+TE 1-251-49-DD | MS Cold Tank Foundation Cooling Outlet Temp - DD | **-68-71-P251 | K | 251-V-28A-CS95-6" | 32 - 250
+TE 1-251-49-EE | MS Cold Tank Foundation Cooling Outlet Temp - EE | **-68-71-P251 | K | 251-V-29A-CS95-6" | 32 - 250
+TE 1-251-49-FF | MS Cold Tank Foundation Cooling Outlet Temp - FF | **-68-71-P251 | K | 251-V-30A-CS95-6" | 32 - 250
+TE 1-251-49-GG | MS Cold Tank Foundation Cooling Outlet Temp - GG | **-68-71-P251 | K | 251-V-31A-CS95-6" | 32 - 250
+TE 1-251-49-HH | MS Cold Tank Foundation Cooling Outlet Temp - HH | **-68-71-P251 | K | 251-V-32A-CS95-6" | 32 - 250
+TE 1-251-49-JJ | MS Cold Tank Foundation Cooling Outlet Temp - JJ | **-68-71-P251 | K | 251-V-33A-CS95-6" | 32 - 250
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - No Change on This Page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - No Change on This Page
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Issue for Bid | Sheet: | 14 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4
+
+[sheet List 8]
+Temperature RTD Element w. Thermowell - List 8
+Tag Number | Service | P&ID | Style | Line # | Temperature | Notes
+Range (0 - 100%)
+Deg. F
+MOLTEN SALT HOT TANK - (TES-1 Only)
+FOUNDATION COOLING
+TE 1-253-49-A | MS Hot Tank Foundation Cooling Outlet Temp - A | **-68-71-P253 | K | 253-V-01A-CS95-6" | 32 - 250
+TE 1-253-49-B | MS Hot Tank Foundation Cooling Outlet Temp - B | **-68-71-P253 | K | 253-V-02A-CS95-6" | 32 - 250
+TE 1-253-49-C | MS Hot Tank Foundation Cooling Outlet Temp - C | **-68-71-P253 | K | 253-V-03A-CS95-6" | 32 - 250
+TE 1-253-49-D | MS Hot Tank Foundation Cooling Outlet Temp - D | **-68-71-P253 | K | 253-V-04A-CS95-6" | 32 - 250
+TE 1-253-49-E | MS Hot Tank Foundation Cooling Outlet Temp - E | **-68-71-P253 | K | 253-V-05A-CS95-6" | 32 - 250
+TE 1-253-49-F | MS Hot Tank Foundation Cooling Outlet Temp - F | **-68-71-P253 | K | 253-V-06A-CS95-6" | 32 - 250
+TE 1-253-49-G | MS Hot Tank Foundation Cooling Outlet Temp - G | **-68-71-P253 | K | 253-V-07A-CS95-6" | 32 - 250
+TE 1-253-49-H | MS Hot Tank Foundation Cooling Outlet Temp - H | **-68-71-P253 | K | 253-V-08A-CS95-6" | 32 - 250
+TE 1-253-49-J | MS Hot Tank Foundation Cooling Outlet Temp - J | **-68-71-P253 | K | 253-V-09A-CS95-6" | 32 - 250
+TE 1-253-49-K | MS Hot Tank Foundation Cooling Outlet Temp - K | **-68-71-P253 | K | 253-V-10A-CS95-6" | 32 - 250
+TE 1-253-49-L | MS Hot Tank Foundation Cooling Outlet Temp - L | **-68-71-P253 | K | 253-V-11A-CS95-6" | 32 - 250
+TE 1-253-49-M | MS Hot Tank Foundation Cooling Outlet Temp - M | **-68-71-P253 | K | 253-V-12A-CS95-6" | 32 - 250
+TE 1-253-49-N | MS Hot Tank Foundation Cooling Outlet Temp - N | **-68-71-P253 | K | 253-V-13A-CS95-6" | 32 - 250
+TE 1-253-49-P | MS Hot Tank Foundation Cooling Outlet Temp - P | **-68-71-P253 | K | 253-V-14A-CS95-6" | 32 - 250
+TE 1-253-49-Q | MS Hot Tank Foundation Cooling Outlet Temp - Q | **-68-71-P253 | K | 253-V-15A-CS95-6" | 32 - 250
+TE 1-253-49-R | MS Hot Tank Foundation Cooling Outlet Temp - R | **-68-71-P253 | K | 253-V-16A-CS95-6" | 32 - 250
+TE 1-253-49-S | MS Hot Tank Foundation Cooling Outlet Temp - S | **-68-71-P253 | K | 253-V-17A-CS95-6" | 32 - 250
+TE 1-253-49-T | MS Hot Tank Foundation Cooling Outlet Temp - T | **-68-71-P253 | K | 253-V-18A-CS95-6" | 32 - 250
+TE 1-253-49-U | MS Hot Tank Foundation Cooling Outlet Temp - U | **-68-71-P253 | K | 253-V-19A-CS95-6" | 32 - 250
+TE 1-253-49-V | MS Hot Tank Foundation Cooling Outlet Temp - V | **-68-71-P253 | K | 253-V-20A-CS95-6" | 32 - 250
+TE 1-253-49-W | MS Hot Tank Foundation Cooling Outlet Temp - W | **-68-71-P253 | K | 253-V-21A-CS95-6" | 32 - 250
+TE 1-253-49-X | MS Hot Tank Foundation Cooling Outlet Temp - X | **-68-71-P253 | K | 253-V-22A-CS95-6" | 32 - 250
+TE 1-253-49-Y | MS Hot Tank Foundation Cooling Outlet Temp - Y | **-68-71-P253 | K | 253-V-23A-CS95-6" | 32 - 250
+TE 1-253-49-Z | MS Hot Tank Foundation Cooling Outlet Temp - Z | **-68-71-P253 | K | 253-V-24A-CS95-6" | 32 - 250
+TE 1-253-49-AA | MS Hot Tank Foundation Cooling Outlet Temp - AA | **-68-71-P253 | K | 253-V-25A-CS95-6" | 32 - 250
+TE 1-253-49-BB | MS Hot Tank Foundation Cooling Outlet Temp - BB | **-68-71-P253 | K | 253-V-26A-CS95-6" | 32 - 250
+TE 1-253-49-CC | MS Hot Tank Foundation Cooling Outlet Temp - CC | **-68-71-P253 | K | 253-V-27A-CS95-6" | 32 - 250
+TE 1-253-49-DD | MS Hot Tank Foundation Cooling Outlet Temp - DD | **-68-71-P253 | K | 253-V-28A-CS95-6" | 32 - 250
+TE 1-253-49-EE | MS Hot Tank Foundation Cooling Outlet Temp - EE | **-68-71-P253 | K | 253-V-29A-CS95-6" | 32 - 250
+TE 1-253-49-FF | MS Hot Tank Foundation Cooling Outlet Temp - FF | **-68-71-P253 | K | 253-V-30A-CS95-6" | 32 - 250
+TE 1-253-49-GG | MS Hot Tank Foundation Cooling Outlet Temp - GG | **-68-71-P253 | K | 253-V-31A-CS95-6" | 32 - 250
+TE 1-253-49-HH | MS Hot Tank Foundation Cooling Outlet Temp - HH | **-68-71-P253 | K | 253-V-32A-CS95-6" | 32 - 250
+TE 1-253-49-JJ | MS Hot Tank Foundation Cooling Outlet Temp - JJ | **-68-71-P253 | K | 253-V-33A-CS95-6" | 32 - 250
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P202 = 4521-PLN-ANC-68-71-P202 )
+4 | PGV | Feb/09/2012 | Issue for Purchase - No Change on This Page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+3 | PGV | Jan/16/2012 | Issue for Purchase - No Change on This Page
+2 | PGV | Aug/22/2011 | Issue for Bid
+1 | PGV | July/20/2011 | For P&ID new revision 5
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 15 of 15
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0003 | Rev.: 4

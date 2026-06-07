@@ -1,0 +1,51 @@
+{
+  "id": "a47162ff5114065e",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-063-0004-GAR_ Isometric.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 210995,
+  "size_human": "206 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-063-0004-GAR Isometric",
+  "doc_code": "4521-PLN-LOI-039-063-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1178,
+  "token_estimate": 294,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/a47162ff5114065e.json",
+  "extracted_path": ".yeyo-memory/extracted/a47162ff5114065e.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD Mechanical 2017 - Español (Spanish) 2017 (21.0s (LMS Tech))",
+      "Title": "Modelo",
+      "Producer": "pdfplot13.hdi 13.00.052.000",
+      "CreationDate": "D:20170306120318",
+      "ModDate": "D:20170306120318"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.957086+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::434",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 434,
+        "doc_code": "4521-PLN-LOI-039-063-0004-GAR R4- Sht1.pdf",
+        "title": "",
+        "revision": "4",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:59.957088+00:00"
+}

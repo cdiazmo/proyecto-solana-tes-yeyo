@@ -1,0 +1,74 @@
+{
+  "id": "8f60624a6b534d4f",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS38.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 42698,
+  "size_human": "42 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-SS38",
+  "doc_code": "4521-ESP-ANC-68-61-SS38",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4051,
+  "token_estimate": 1012,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/8f60624a6b534d4f.json",
+  "extracted_path": ".yeyo-memory/extracted/8f60624a6b534d4f.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110721104049-05'00'",
+      "ModDate": "D:20110721104049-05'00'",
+      "Title": "4521-ESP-ANC-68-61-SS38 - HTF 300# 304L SS",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "mdreim",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::110",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 110,
+        "doc_code": "4521-ESP-ANC-68-61-SS38 - Engineering Standards and Practices Material and Installation Standards HTF 300# (304 SS ) – Piping System",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::160",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 160,
+        "doc_code": "4521-ESP-ANC-68-61-SS38 - Engineering Standards and Practices Material and Installation Standards HTF 300# (304 SS ) – Piping System",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::153",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 153,
+        "doc_code": "4521-ESP-ANC-68-61-SS38 - Engineering Standards and Practices Material and Installation Standards HTF 300# (304 SS ) – Piping System",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:19:39.069480+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "22d813c675c3a03d",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/252-MS-04F-CS31-24_Rev03_Sht_2.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 264115,
+  "size_human": "258 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "252-MS-04F-CS31-24 Rev03 Sht 2",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1930,
+  "token_estimate": 482,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/22d813c675c3a03d.json",
+  "extracted_path": ".yeyo-memory/extracted/22d813c675c3a03d.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20190104100737Z",
+      "Creator": "AutoCAD 2018 - English 2018 (22.0s (LMS Tech))",
+      "ModDate": "D:20190109140055-06'00'",
+      "Producer": "pdfplot14.hdi 14.00.049.000",
+      "Title": "Model"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Isometrico de tuberia MS",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.604517+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:53.604519+00:00"
+}

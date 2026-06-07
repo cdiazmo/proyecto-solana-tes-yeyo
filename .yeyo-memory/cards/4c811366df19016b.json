@@ -1,0 +1,116 @@
+{
+  "id": "4c811366df19016b",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0002_R3 Pressure transmitters specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 331267,
+  "size_human": "324 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-70-0002 R3 Pressure transmitters specification",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 37218,
+  "token_estimate": 9304,
+  "chunks": 24,
+  "card_path": ".yeyo-memory/cards/4c811366df19016b.json",
+  "extracted_path": ".yeyo-memory/extracted/4c811366df19016b.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1015,
+        "non_empty_rows": 25
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 69,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 69,
+        "non_empty_rows": 14
+      },
+      {
+        "name": "Index ",
+        "rows_seen": 60,
+        "non_empty_rows": 20
+      },
+      {
+        "name": "HTF Press. Trans. Specs.",
+        "rows_seen": 65,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HTF Press. Trans. List I",
+        "rows_seen": 72,
+        "non_empty_rows": 50
+      },
+      {
+        "name": "HTF Press. Trans. List I (2)",
+        "rows_seen": 69,
+        "non_empty_rows": 48
+      },
+      {
+        "name": "N2 Press. Trans. Specs. 1",
+        "rows_seen": 72,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "N2 PIT Spec 2",
+        "rows_seen": 182,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "N2 Press. Trans. List",
+        "rows_seen": 73,
+        "non_empty_rows": 16
+      },
+      {
+        "name": "N2 Press. Trans. List (2)",
+        "rows_seen": 73,
+        "non_empty_rows": 15
+      },
+      {
+        "name": "W press Tran. Spec",
+        "rows_seen": 73,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "W Press Spec List",
+        "rows_seen": 74,
+        "non_empty_rows": 10
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::94",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 94,
+        "doc_code": "4521-ESP-AGE-58-70-0015",
+        "title": "Temperature Indicators Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::94",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 94,
+        "doc_code": "4521-ESP-AGE-58-70-0015",
+        "title": "Temperature Indicators Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:23.273031+00:00"
+}

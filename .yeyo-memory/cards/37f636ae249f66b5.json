@@ -1,0 +1,30 @@
+{
+  "id": "37f636ae249f66b5",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS78.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 125354,
+  "size_human": "122 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS78",
+  "doc_code": "4521-ESP-ANC-68-61-CS78",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 7276,
+  "token_estimate": 1819,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/37f636ae249f66b5.json",
+  "extracted_path": ".yeyo-memory/extracted/37f636ae249f66b5.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20101013130412",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-CS78 - Class 1500 Carbon Steel"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:37.754150+00:00"
+}

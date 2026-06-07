@@ -1,0 +1,31 @@
+{
+  "id": "e4dc4eb47acb16cc",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/1950201-PTT-001-00_Heat Treatment Procedure.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 154273,
+  "size_human": "151 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PTT-001-00 Heat Treatment Procedure",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12742,
+  "token_estimate": 3185,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/e4dc4eb47acb16cc.json",
+  "extracted_path": ".yeyo-memory/extracted/e4dc4eb47acb16cc.txt",
+  "metadata": {
+    "pages": 8,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20200508135651+02'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "ModDate": "D:20200508135651+02'00'",
+      "Producer": "Adobe PDF Library 15.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:30.220086+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "270747cd4a932656",
+  "path": "01 GD AE/I&C/MEM/G70-16-0039-AT-OTI-000009-GAR_901 Hot TES pumps operation for S&T HEX Type.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 46189,
+  "size_human": "45 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "G70-16-0039-AT-OTI-000009-GAR 901 Hot TES pumps operation for S&T HEX Type",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2691,
+  "token_estimate": 672,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/270747cd4a932656.json",
+  "extracted_path": ".yeyo-memory/extracted/270747cd4a932656.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 178,
+        "non_empty_rows": 49
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:28.308903+00:00"
+}

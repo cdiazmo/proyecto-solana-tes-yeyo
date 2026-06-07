@@ -1,0 +1,20 @@
+{
+  "id": "b0d3d31a20dff2d8",
+  "path": "01 GD AE/M3D/SOL_HEX_11-08-2016.nwd",
+  "top_dir": "01 GD AE",
+  "ext": "nwd",
+  "size_bytes": 18366010,
+  "size_human": "18 MB",
+  "mtime_iso": "2026-06-05T06:22:00.000Z",
+  "title": "SOL HEX 11-08-2016",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b0d3d31a20dff2d8.json",
+  "extracted_path": null,
+  "metadata": {},
+  "processed_at": "2026-06-05T09:12:30.916957+00:00"
+}

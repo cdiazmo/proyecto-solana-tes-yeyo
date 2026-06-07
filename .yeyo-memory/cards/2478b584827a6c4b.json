@@ -1,0 +1,22 @@
+{
+  "id": "2478b584827a6c4b",
+  "path": "01 GD AE/I&C/MEM/G70-16-0039-AT-OTI-000009-GAR Hot TES pumps operation for S&T HEX type.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 414000,
+  "size_human": "404 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "G70-16-0039-AT-OTI-000009-GAR Hot TES pumps operation for S&T HEX type",
+  "doc_code": null,
+  "revision": null,
+  "status": "error",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/2478b584827a6c4b.json",
+  "extracted_path": null,
+  "metadata": {
+    "error": "File is not a zip file"
+  },
+  "processed_at": "2026-06-05T09:12:28.275896+00:00"
+}

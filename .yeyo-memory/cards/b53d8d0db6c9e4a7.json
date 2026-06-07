@@ -1,0 +1,30 @@
+{
+  "id": "b53d8d0db6c9e4a7",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS09.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 111402,
+  "size_human": "109 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-SS09",
+  "doc_code": "4521-ESP-ANC-68-61-SS09",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4347,
+  "token_estimate": 1086,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/b53d8d0db6c9e4a7.json",
+  "extracted_path": ".yeyo-memory/extracted/b53d8d0db6c9e4a7.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100805102155",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-SS09 - Demineralized water - 304SS"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.548182+00:00"
+}

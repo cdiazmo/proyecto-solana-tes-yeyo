@@ -1,0 +1,31 @@
+{
+  "id": "aa4e7d319157c997",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/1950201-TPP-001.00 _Repairing Procedure.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 217862,
+  "size_human": "213 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-TPP-001.00 Repairing Procedure",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4198,
+  "token_estimate": 1049,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/aa4e7d319157c997.json",
+  "extracted_path": ".yeyo-memory/extracted/aa4e7d319157c997.txt",
+  "metadata": {
+    "pages": 8,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20200511095331+02'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "ModDate": "D:20200511095331+02'00'",
+      "Producer": "Adobe PDF Library 15.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:31.172075+00:00"
+}

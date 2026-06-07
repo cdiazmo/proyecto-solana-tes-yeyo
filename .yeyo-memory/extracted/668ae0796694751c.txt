@@ -1,0 +1,39 @@
+[page 1]
+AG Engineering Electrical Engineering Department
+Project: Solana Drain Back Tank Pump
+Motor ID:
+System Voltage= 480 
+Single or Three Phase= 3 
+Motor Size in HP=15
+Power Factor= 89%
+480 Volts, Three phase
+21 Full Load Amps
+14.0 kVA (by 745.7VA/HP)
+12.44 kW
+35 Optimal Branch Ckt Protection Amps
+40 NEC Max for Gen. Applic. Amps 430-52
+45 NEC Max for Heavy Start Amps 430-52
+10 Minimum Copper Wire THHN AWG or KCML Size, Table 310-15 (B)(16)
+12 Minimum Ground Copper Wire THHN AWG or KCML Size, Table 250.122
+1/2 Minimum Rigid Metallic Conduit Inches, Appendix C, Table C8
+Project specifications may require a larger size conduit.
+2 Minimum NEMA Starter Size, NEMA ICS 2-1993
+2 VFD Basic Standard Duty
+2 VFD w/Bypass or Line Isolation Standard Duty
+2 VFD Basic Heavy Duty
+2 VFD w/Bypass or Line Isolation Heavy Duty
+10 Minimum Copper Wire THHN AWG or KCML Size, Table 310-15 (B)(16)
+12 Minimum Ground Copper Wire THHN AWG or KCML Size, Table 250.122
+1/2 Minimum Rigid Metallic Conduit Inches, Appendix C, table C8
+30 Minimum Switch Size Amps Art. 430-110
+10 Minimum Copper Wire THHN AWG or KCML Size, Table 310-15 (B)(16)
+12 Minimum Ground Copper Wire THHN AWG or KCML Size, Table 250.122
+1/2 Minimum Rigid Metallic Conduit Inches, Appendix C, table C8
+Motor Size in HP, Table 430-148 thru .250
+21 Motor FLA in Amps, Table 430.248 thru .250
+Note: Check cable lengths for a proper Voltage Drop Calculations.
+Check temperature for cable derating. Table 310.15 (B)(2)(a)
+Motor Calculator
+15
+3-MP-258
+MotorSize

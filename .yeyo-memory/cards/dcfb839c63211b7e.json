@@ -1,0 +1,76 @@
+{
+  "id": "dcfb839c63211b7e",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0001-GAR Rev.02 GENERAL ARRAGEMENT .pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 1285610,
+  "size_human": "1.2 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0001-GAR Rev.02 GENERAL ARRAGEMENT",
+  "doc_code": "4521-PLN-LOI-039-062-0001",
+  "revision": "Rev.02",
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/dcfb839c63211b7e.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20170209154449+01'00'",
+      "ModDate": "D:20170209154449+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.352190+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/C&S/MTO/4521-MTO-AEE-75-52-0001-GAR-901_Rev00_exchangers_foundation.xlsx::Document::12",
+        "index_path": "01 GD AE/C&S/MTO/4521-MTO-AEE-75-52-0001-GAR-901_Rev00_exchangers_foundation.xlsx",
+        "index_kind": "mto",
+        "sheet": "Document",
+        "row": 12,
+        "doc_code": "4521-PLN-LOI-039-062-0001",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::184",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 184,
+        "doc_code": "4521-PLN-LOI-039-062-0001-GAR Rev03 General Arrangements Shell & Tube Heat Exchangers",
+        "title": "",
+        "revision": "3",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::177",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 177,
+        "doc_code": "4521-PLN-LOI-039-062-0001-GAR Rev03 General Arrangements Shell & Tube Heat Exchangers",
+        "title": "",
+        "revision": "3",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:03.374346+00:00"
+}

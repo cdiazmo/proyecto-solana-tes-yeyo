@@ -1,0 +1,39 @@
+{
+  "id": "d90344708ad3b33e",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0002_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 361401,
+  "size_human": "353 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-57-70-0002 R1",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 85846,
+  "token_estimate": 21461,
+  "chunks": 55,
+  "card_path": ".yeyo-memory/cards/d90344708ad3b33e.json",
+  "extracted_path": ".yeyo-memory/extracted/d90344708ad3b33e.txt",
+  "metadata": {
+    "pages": 39,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20111207175229-06'00'",
+      "ModDate": "D:20111207175229-06'00'",
+      "Title": "Collector RTD 4521-ESP-AGE-57-70-0002_Rev1",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "ttran",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.002311+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.002318+00:00"
+}

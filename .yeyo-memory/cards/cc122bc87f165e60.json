@@ -1,0 +1,48 @@
+{
+  "id": "cc122bc87f165e60",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-45-0021_R0 Glands Specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 241420,
+  "size_human": "236 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-45-0021 R0 Glands Specification",
+  "doc_code": "4521-ESP-AGE-58-45-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12737,
+  "token_estimate": 3184,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/cc122bc87f165e60.json",
+  "extracted_path": ".yeyo-memory/extracted/cc122bc87f165e60.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1014,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 70,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 72,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 94,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "JB Spec",
+        "rows_seen": 99,
+        "non_empty_rows": 22
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:20.833114+00:00"
+}

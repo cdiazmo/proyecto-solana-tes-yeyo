@@ -1,0 +1,64 @@
+{
+  "id": "169553166df128e5",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/4521-PLN-DOT-39-63-0906.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 135061,
+  "size_human": "132 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-DOT-39-63-0906",
+  "doc_code": "4521-PLN-DOT-39-63-0906",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/169553166df128e5.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20180823104241-06'00'",
+      "Creator": "Xerox WorkCentre 7556",
+      "ModDate": "D:20180823112903-05'00'",
+      "Producer": "Xerox WorkCentre 7556"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:52.933880+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/EDL_4_supports.xlsx::ATYP steel struc::7",
+        "index_path": "Documentacion con sello PE 08/Apoyos/HTF y MS Atypical soportan dwgs/EDL_4_supports.xlsx",
+        "index_kind": "edl",
+        "sheet": "ATYP steel struc",
+        "row": 7,
+        "doc_code": "4521-PLN-DOT-39-63-0906",
+        "title": "252-HTF-16F-S-003",
+        "revision": "",
+        "status": "",
+        "date": "2018-08-17 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/Soportes atípicos/EDL_4_supports.xlsx::ATYP steel struc::7",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/Soportes atípicos/EDL_4_supports.xlsx",
+        "index_kind": "support-list",
+        "sheet": "ATYP steel struc",
+        "row": 7,
+        "doc_code": "4521-PLN-DOT-39-63-0906",
+        "title": "252-HTF-16F-S-003",
+        "revision": "",
+        "status": "",
+        "date": "2018-08-17 00:00:00",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:52.955731+00:00"
+}

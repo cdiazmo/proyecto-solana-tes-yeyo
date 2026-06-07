@@ -1,0 +1,58 @@
+{
+  "id": "1bb35c2254d5e220",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0001_R1 Temperature.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 545795,
+  "size_human": "533 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-74-70-0001 R1 Temperature",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 16163,
+  "token_estimate": 4040,
+  "chunks": 11,
+  "card_path": ".yeyo-memory/cards/1bb35c2254d5e220.json",
+  "extracted_path": ".yeyo-memory/extracted/1bb35c2254d5e220.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 70,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index ",
+        "rows_seen": 64,
+        "non_empty_rows": 13
+      },
+      {
+        "name": " RTD+Transm. Spec.",
+        "rows_seen": 74,
+        "non_empty_rows": 51
+      },
+      {
+        "name": "Sheet1",
+        "rows_seen": 72,
+        "non_empty_rows": 6
+      },
+      {
+        "name": "RTD+Transm. List I",
+        "rows_seen": 66,
+        "non_empty_rows": 19
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:26.229520+00:00"
+}

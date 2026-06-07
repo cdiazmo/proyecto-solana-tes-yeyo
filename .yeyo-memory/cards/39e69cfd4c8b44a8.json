@@ -1,0 +1,102 @@
+{
+  "id": "39e69cfd4c8b44a8",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0003-GAR Rev0 ANCHOR BOLTS DRAWING.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 141764,
+  "size_human": "138 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0003-GAR Rev0 ANCHOR BOLTS DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0003",
+  "revision": "Rev0",
+  "status": "ok",
+  "text_chars": 4170,
+  "token_estimate": 1042,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/39e69cfd4c8b44a8.json",
+  "extracted_path": ".yeyo-memory/extracted/39e69cfd4c8b44a8.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20161011175839+02'00'",
+      "ModDate": "D:20161011175839+02'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.390673+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::304",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 304,
+        "doc_code": "4521-PLN-LOI-039-062-0003",
+        "title": "ANCHOR BOLTS DRAWING",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-10-12 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::304",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 304,
+        "doc_code": "4521-PLN-LOI-039-062-0003",
+        "title": "ANCHOR BOLTS DRAWING",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-10-12 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::132",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 132,
+        "doc_code": "4521-PLN-LOI-039-062-0003-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::182",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 182,
+        "doc_code": "4521-PLN-LOI-039-062-0003-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::175",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 175,
+        "doc_code": "4521-PLN-LOI-039-062-0003-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:54.390675+00:00"
+}

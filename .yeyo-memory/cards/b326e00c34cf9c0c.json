@@ -1,0 +1,93 @@
+{
+  "id": "b326e00c34cf9c0c",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/PLN/4521_PLN_AEE_68_71_P279-GAR_Rev04_TES Hex MS drawing.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 899591,
+  "size_human": "879 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521 PLN AEE 68 71 P279-GAR Rev04 TES Hex MS drawing",
+  "doc_code": "4521-PLN-AEE-68-71-P279",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b326e00c34cf9c0c.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20170418170304+02'00'",
+      "ModDate": "D:20170418170304+02'00'",
+      "Author": "cgrrda",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "\\\\srv-cpafs2\\Grupos-J36\\400_ING\\AE4521_Solana-HEX\\08 Engineering\\84 Work doc\\M&P\\PLN\\P&ID\\TES\\Rev.04\\4521_PLN_AEE_68_71_P279-GAR_Rev04 Hoja"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.074485+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx::Document::15",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 15,
+        "doc_code": "4521-PLN-AEE-68-71-P279",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx::Document::64",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 64,
+        "doc_code": "4521-PLN-AEE-68-71-P279",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0016-GAR_901 Rev.00 Control cable list.xlsx::Document::15",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0016-GAR_901 Rev.00 Control cable list.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 15,
+        "doc_code": "4521-PLN-AEE-68-71-P279",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx::Document::15",
+        "index_path": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx",
+        "index_kind": "ic-list",
+        "sheet": "Document",
+        "row": 15,
+        "doc_code": "4521-PLN-AEE-68-71-P279",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:01.096030+00:00"
+}

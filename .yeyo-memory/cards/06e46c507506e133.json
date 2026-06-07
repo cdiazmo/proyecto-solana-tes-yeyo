@@ -1,0 +1,36 @@
+{
+  "id": "06e46c507506e133",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Motor de la bomba de depósito de drenaje/4521-PLN-ANC-27-21-P001 - R2.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 839683,
+  "size_human": "820 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-ANC-27-21-P001 - R2",
+  "doc_code": "4521-PLN-ANC-27-21-P001",
+  "revision": "R2",
+  "status": "ok",
+  "text_chars": 582,
+  "token_estimate": 145,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/06e46c507506e133.json",
+  "extracted_path": ".yeyo-memory/extracted/06e46c507506e133.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2017 - English 2017 (21.0s (LMS Tech))",
+      "Title": "3MP258-2",
+      "Producer": "pdfplot13.hdi 13.00.402.000",
+      "CreationDate": "D:20190109132053",
+      "ModDate": "D:20190109132053"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:51.958259+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:51.958265+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "54ed9b09048d4cb5",
+  "path": "10 Informes semanales de construccion/181028 WEEKLY CONSTRUCTION REPORT  WE 181028.pdf",
+  "top_dir": "10 Informes semanales de construccion",
+  "ext": "pdf",
+  "size_bytes": 77527,
+  "size_human": "76 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "181028 WEEKLY CONSTRUCTION REPORT WE 181028",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 7343,
+  "token_estimate": 1835,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/54ed9b09048d4cb5.json",
+  "extracted_path": ".yeyo-memory/extracted/54ed9b09048d4cb5.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "bmcvicar",
+      "CreationDate": "D:20181029082455-07'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20181029082455-07'00'",
+      "Producer": "Acrobat Distiller 19.0 (Windows)",
+      "Title": "DAILY WEEKLY CONSTRUCTION REPORT WE 181028.xlsx"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:17:45.906845+00:00"
+}

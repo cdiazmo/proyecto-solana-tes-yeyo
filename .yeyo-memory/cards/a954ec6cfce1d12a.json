@@ -1,0 +1,183 @@
+{
+  "id": "a954ec6cfce1d12a",
+  "path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+  "top_dir": "12 As Built TES 6",
+  "ext": "xlsx",
+  "size_bytes": 80957,
+  "size_human": "79 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-LIS-AEE-39-61-0002-GAR Rev00 Equipment List",
+  "doc_code": "4521-LIS-AEE-39-61-0002",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5086,
+  "token_estimate": 1271,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/a954ec6cfce1d12a.json",
+  "extracted_path": ".yeyo-memory/extracted/a954ec6cfce1d12a.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Mechanical Equipments List",
+        "rows_seen": 37,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Line List",
+        "rows_seen": 53,
+        "non_empty_rows": 6
+      },
+      {
+        "name": "Valve List",
+        "rows_seen": 93,
+        "non_empty_rows": 12
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::67",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 67,
+        "doc_code": "4521-LIS-AEE-39-61-0002",
+        "title": "IFB line and equipment list",
+        "revision": "",
+        "status": "",
+        "date": "2016-12-16 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::93",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 93,
+        "doc_code": "4521-LIS-AEE-39-61-0002-GAR-Rev00-Equipment List",
+        "title": "",
+        "revision": "4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::67",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 67,
+        "doc_code": "4521-LIS-AEE-39-61-0002",
+        "title": "IFB line and equipment list",
+        "revision": "",
+        "status": "",
+        "date": "2016-12-16 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::61",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 61,
+        "doc_code": "4521-LIS-AEE-39-61-0002",
+        "title": "Equipment list",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "M&P"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::93",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 93,
+        "doc_code": "4521-LIS-AEE-39-61-0002-GAR-Rev00-Equipment List",
+        "title": "",
+        "revision": "4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::116",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 116,
+        "doc_code": "4521-LIS-AEE-39-61-0002-GAR-Rev00-Equipment List",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::166",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 166,
+        "doc_code": "4521-LIS-AEE-39-61-0002-GAR-Rev00-Equipment List",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::159",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 159,
+        "doc_code": "4521-LIS-AEE-39-61-0002-GAR-Rev00-Equipment List",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::95",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 95,
+        "doc_code": "4521-LIS-AEE-39-61-0002-GAR-Rev00-Equipment List",
+        "title": "",
+        "revision": "4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0002-GAR_901_Rev00_Equipment list.xlsx::Document::10",
+        "index_path": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0002-GAR_901_Rev00_Equipment list.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Document",
+        "row": 10,
+        "doc_code": "4521-LIS-AEE-39-61-0002",
+        "title": "",
+        "revision": "",
+        "status": "IFD",
+        "date": "2016-12-16 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0002-GAR_901_Rev00_Equipment list.xlsx::Document::41",
+        "index_path": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0002-GAR_901_Rev00_Equipment list.xlsx",
+        "index_kind": "equipment-list",
+        "sheet": "Document",
+        "row": 41,
+        "doc_code": "4521-LIS-AEE-39-61-0002",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "dd/mm/aaaa",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:18:58.100194+00:00"
+}

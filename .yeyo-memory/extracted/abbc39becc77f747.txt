@@ -1,0 +1,342 @@
+[page 1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Low voltage squirrel cage induction motor, die cast iron frame, anti-friction bearings, 
+CW or CCW rotation, manufactured in accord ance with NEMA MG-1 Standards, having 
+the following characteristics: 
+ 
+1. TECHNICAL DATA for WEG NEMA Premium Efficiency motor: 
+ 
+Induction Motor................. : Three Phase 
+Insulation ......................... : F 
+ΔT (K) .............................. : 70 
+S. F. ................................. : 1.15 
+Voltage (V)....................... : 460V 
+Frequency (Hz)................ : 60Hz 
+Degree of protection......... : IP55 (IC411) 
+Design ............................. : B 
+Mounting .......................... : V1 (W-6) 
+Duty.................................. : S1 
+Altitude (m.a.s.l.)............... : 1000 
+Ambient temperature (°C). : -20 to 50°C 
+Starting Method................ : DOL 
+Classification area............ : Safe Area 
+Painting Plan……………… : 212P Polyurethane (240-336μm) – RAL 5009 
+ 
+Item Qty HP kW pole Type Datasheet 
+01 1 15 11 2 W22 254/6T 200033/2016 
+ 
+ 
+1.1 Included Features : 
+ 
+- Internal tropical painting 
+- Anti-condensation heater : 120VAC 
+- Auxiliary terminal box for heater connection 
+- Grease nipples DE + NDE 
+- Drip proof canopy 
+- WEG un-witnessed Routine test 
+ 
+ 
+1.2 Remarks / Deviations : 
+ 
+- Selection based on the absorbed power outputs given by Ensival, and on 
+specifications : 
+x 4521-ESP-ANC-35-30-M110 Specification for Induction Motors 
+x 4521-ESP-ANC-00-62-0001 Project Design Criteria 
+- Cable glands and tests are not included. 
+- NEMA motors doesn’t have PTC 
+- NEMA motors doesn’t have terminal block (flying cables) 
+ 
+
+[page 2]
+DATA SHEET
+Three Phase Induction Motor - Squirrel Cage
+Customer : ENSIVAL MORET
+Customer reference : 
+Sales document : 20532614 - 20
+Product line : 
+Rev. Summary of changes Performed Checked Date
+Performed by pauloaugusto
+Checked by alisson1
+Date 13/10/2016
+200033/2016
+Page
+ 1/1
+Revision
+0
+This document is exclusive property of WEG S/A. Reprinting is not allowed without written authorization.
+Frame : 254/6T
+Output : 15 HP (11 kW)
+Poles : 4
+Frequency : 60 Hz
+Rated voltage : 460 V
+Rated current : 17,8 A
+L. R. Amperes : 116 A
+LRC (p.u.) : 6,5 Code G
+No load current : 6,05 A
+Rated speed : 1760 rpm
+Slip : 2,22 %
+Rated torque : 60,7 Nm
+Locked rotor torque : 200 %
+Pull up torque : 170 %
+Breakdown torque : 240 %
+Insulation class
+Service factor
+Moment of inertia (J)
+:F
+:1 , 5
+:0 , 1 5 9 6 k g m ²
+Locked rotor time : 22 s (hot) 40 s (cold)
+4Temperature rise : 70 K
+Duty cycle : Cont.(S1)
+Ambient temperature : -20 ° C to +50 ° C
+Altitude : 1000 m.a.s.l
+Degree of protection : IP55
+Cooling method : IC411 - TEFC
+Mounting : W-6
+Direct of rotation¹ : Both
+Noise level² : -
+Starting method : Direct On Line
+Weight³ : 155 kg
+Design : B
+Output
+-
+-
+Start
+91,7
+0,70
+50%
+92,4
+0,80
+75%
+92,4
+0,84
+100%
+Efficiency (%)
+Power factor
+Load type : Parabolic torque
+Load torque : 60,7 Nm
+Load inertia (J=GD²/4) : 0,1596 kgm²
+Drive end
+6309-C3
+9069 h
+13 g
+Non drive end
+6209-C3
+9891 h
+9 g
+Bearing type / clearance
+Lubrication interval
+Lubricant amount
+Lubricant type MOBIL POLYREX EM
+Notes:
+W22 - NEMA Premium Efficiency
+Starting current without tolerances
+Standards
+Specification : MG1 - Part 10
+Tests : MG1 - Part 12
+Noise : MG1 - Part 9
+Vibration : MG1 - Part 7
+Tolerance : MG1 - Part 12
+This revision replaces and cancels the previous one, which must be eliminated.
+(1) When viewed from the drive end.
+(2) Measured without tolerance
+(3) Approximate weight subject to changes after manufacturing process.
+(4) At the rated point.
+These are average values based on tests with sinusoidal
+power supply, subject to the tolerances stipulated in NEMA
+MG 1-12.
+
+[page 3]
+12345678
+A
+B
+C
+D
+E
+F
+13-OCT-2016Three-phase induction motor
+Frame 254/6T - IP55
+Notes:
+Performed by: 
+Checked: 
+Customer: 
+W22 NEMA Premium - Ball Bearings
+P
+12.953
+AB
+10.483
+U
+1.625
+N-W
+4.000
+ES
+2.756
+S
+0.375
+R
+1.416
+depth
+0.375
+HH
+9.250
+HK
+3.976
+C
+24.945
+LL
+7.815
+LM
+7.480
+AA
+NPT 1 1/2"
+d1
+A 4
+Flange
+D-317
+AJ
+12.500
+AK
+11.000
+BD
+14.000
+BF
+0.828
+BB
+0.203
+
+[page 4]
+Percent of rated output
+A - Efficiency (%)
+B - Power factor (p.u.)
+C - Slip (%)
+D - Current at 460 V (A)
+0 10 20 30 40 50 60 70 80 90 100 110 120 130
+40
+50
+60
+70
+80
+90
+100
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0 0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+0
+10
+20
+30
+40
+A
+B
+C
+D
+Performance : 15 HP (11 kW) 460 V 60 Hz 4P 254/6T
+Rated current : 17.8 A
+LRC (p.u.) : 6.5 Code G
+Rated torque : 60.7 Nm
+Locked rotor torque : 200 %
+Breakdown torque : 240 %
+Rated speed : 1760 rpm
+Moment of inertia (J) : 0.1596 kgm²
+Duty cycle : Cont.(S1)
+Insulation class : F
+Service factor : 1.25
+Temperature rise : 70 K
+Design : B
+LOAD PERFORMANCE CURVE
+Three Phase Induction Motor - Squirrel Cage
+Customer : ENSIVAL MORET
+Customer reference : 
+Sales document : 20532614 - 20
+Product line : 
+Rev. Summary of changes Performed Checked Date
+Performed by pauloaugusto
+Checked by alisson1
+Date 13/10/2016
+200033/2016
+Page
+ 1/1
+Revision
+0
+This document is exclusive property of WEG S/A. Reprinting is not allowed without written authorization.
+
+[page 5]
+0.00
+0.25
+0.50
+0. 5
+1.00
+1.25
+1.50
+1. 5
+2.00
+2.25
+2.50
+A
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+. 0
+. 0
+. 0
+10.0
+
+0 1 02 03 04 05 06 0 0 0 0 1 0 0
+Percent of synchronous speed
+A - Torque related to full load torque
+ - Current related to full load current
+Performance : 15 P  11 k  460 V 60  4P 254/6T
+Rated current : 1 . A
+LRC p.u. : 6.5 Code 
+Rated torque : 60. Nm
+Locked rotor torque : 200 
+reakdon torque : 240 
+Rated speed : 1 60 rpm
+Moment of inertia   : 0.15 6 kgm
+Duty cycle : Cont. S1
+Insulation class : 
+Service factor : 1.25
+Temperature rise :  0 
+Design : 
+Locked rotor time 100 : 22 s  hot 40 s cold
+Load inertia  D /4 : 0.15 6 kgm
+TORQUE AND CURRENT X SPEED CURVE
+Three Phase Induction Motor - Squirrel Cage
+Customer : ENSIVAL MORET
+Customer reference : 
+Sales document : 20532614 - 20
+Product line : 
+Rev. Summary of changes Performed Checked Date
+Performed by pauloaugusto
+Checked by alisson1
+Date 13/10/2016
+200033/2016
+Page
+ 1/1
+Revision
+0
+This document is exclusive property of WEG S/A. Reprinting is not allowed without written authorization.

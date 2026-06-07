@@ -1,0 +1,114 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: ABEINSA EPC USA
+Project: Solana TES HEX
+Document: Automatic Valve List
+Document: 4521-LIS-AEE-39-64-0002-GAR
+Review: 1
+Date: Jan/25/2017
+Prepared by:
+Manuel Muñoz Arranz
+Reviewed by:
+Jose María Rodríguez León
+Approved by:
+Jose María Rodríguez León
+Automatic Valve List
+© This procedure belongs to Abeinsa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express written 
+consent of Abeinsa
+
+[page 2]
+Revision: 1
+Date: Jan/25/2017
+Revision Date Revision Object Prepared Revised Approved
+0 Dec/15/2016 Issue for Bid MMA JMRL JMRL
+1 Jan/25/2017 Issue for Bid MMA JMRL JMRL
+Edition Sections Status
+ABEINSA 
+ENGINEERING
+Document Code: 4521-LIS-AEE-39-64-0002-GAR
+Automatic Valve List
+Revisions Control Sheet
+Preliminary or pending information
+Concepts
+
+[page 3]
+01 
+Jan/25/2017 
+IFB 
+MMA 
+JMRL 
+JMRL 
+General Notes 
+1.- Change in the valves 
+The changes in the valves will be indicate according to: 
+Removed Valves - All file in Red Colour 
+Added Valves - All file in Green Colour . 
+Modified Valves - Modified cell in Yellow Colour. 
+When any change in a automatic valve come true ( either why it has gotten modified, addition or removed ) update him the revision of the same in the column Rev . 
+00 
+Dec/15/2016 
+IFB 
+MMA 
+Approved 
+Reviewed 
+Project: Solana TES HEX 
+Automatic Valves List 
+Document: Completed 
+JMRL 
+JMRL 
+Modification 
+ABEINSA ENGINEERING 
+Client: ABEINSA EPC USA Document number: Revision 
+4521-LIS-AEE-39-64-0002-GAR 
+Date 
+
+[page 4]
+Document Number: Revision 00 01 
+Date Dec/15/2016 Jan/25/2017 
+Modification IFB IFB 
+Document: Completed MMA MMA 
+Reviewed JMRL JMRL 
+Approved JMRL JMRL 
+1 1 XV-525515 Gate HTF On-off valve HEX vent to HTF ove rflow system TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-HTF-21E-CS30-1" 1" CS30 3" Neumatic (diaphragm) SW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+2 1 XV-525516 Globe Molten salt On-off valve HEX vent to MS drain back tank TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 252-N-10E-CS31-1" 2" CS31 3 1/2" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-7 0-0015-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+3 1 XV-525517 Globe Molten salt On-off valve HEX vent to MS drain back tank TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-13E-CS31-3" 3" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+4 1 XV-525518 Gate HTF On-off valve HEX vent to HTF ove rflow system TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-HTF-22E-CS30-1" 1" CS30 3" Neumatic (diaphragm) SW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+5 1 XV-525519 Globe Molten salt On-off valve HEX vent to MS drain back tank TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-N-11E-CS31-1 1/2" 2" CS31 3 1/2" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-7 0-0015-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+6 1 XV-525520 Globe Molten salt On-off valve HEX vent to MS drain back tank TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-12E-CS31-3" 3" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+7 1 XV-525521 Globe Molten salt On-off valve HEX vent to MS drain back tank TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 252-N-12E-CS31-1 1/2" 2" CS31 3 1/2" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-7 0-0015-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+8 1 XV-525522 Gate HTF On-off valve HEX vent to HTF ove rflow system TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 252-HTF-23E-CS30-1" 1" CS30 3" Neumatic (diaphragm) SW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+9 1 XV-525523 Globe Molten salt On-off valve HEX vent to MS drain back tank TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-11E-CS31-3" 3" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+10 1 XV-625515 Gate HTF On-off valve HEX vent to HTF ov erflow system TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-HTF-21F-CS30-1" 1" CS30 3" Neumatic (diaphragm) SW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+11 1 XV-625516 Globe Molten salt On-off valve HEX vent t o MS drain back tank TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 252-N-10F-CS31-1" 2" CS31 3 1/2" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-7 0-0015-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+12 1 XV-625517 Globe Molten salt On-off valve HEX vent t o MS drain back tank TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-13F-CS31-3" 3" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+13 1 XV-625518 Gate HTF On-off valve HEX vent to HTF ov erflow system TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-HTF-22F-CS30-1" 1" CS30 3" Neumatic (diaphragm) SW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+14 1 XV-625519 Globe Molten salt On-off valve HEX vent t o MS drain back tank TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-N-11F-CS31-1 1/2" 2" CS31 3 1/2" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-7 0-0015-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+15 1 XV-625520 Globe Molten salt On-off valve HEX vent t o MS drain back tank TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-12F-CS31-3" 3" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+16 1 XV-625521 Globe Molten salt On-off valve HEX vent t o MS drain back tank TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 252-N-12F-CS31-1 1/2" 2" CS31 3 1/2" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-7 0-0015-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+17 1 XV-625522 Gate HTF On-off valve HEX vent to HTF ov erflow system TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 252-HTF-23F-CS30-1" 1" CS30 3" Neumatic (diaphragm) SW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+18 1 XV-625523 Globe Molten salt On-off valve HEX vent t o MS drain back tank TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS11F-CS31-3" 3" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+19 1 XV-325713 Globe Molten salt On-off MS drain valve a t drain back tank Drain back tank 4521-PLN-AEE-68-71-P279-GAR 2 257-MS-12EF-CS31-3" 3" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+20 1 LV-525701 Globe Molten salt Control valve MS drain from TES 5 HEX Train to drain back tank Drain back t ank 4521-PLN-AEE-68-71-P279-GAR 2 255-MS-06E-CS31-4" 4" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+21 1 LV-625701 Globe Molten salt Control valve MS drain from TES 6 HEX Train to drain back tank Drain back t ank 4521-PLN-AEE-68-71-P279-GAR 2 255-MS-06F-CS31-4" 4" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+22 1 XV-325714 Globe Molten salt On-off valve MS from d rain back tank to hot salt tank Drain back tank 4521-PLN-AEE-68-71-P279-GAR 2 257-MS-10E-CS31-4" 4" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+23 1 XV-325715 Globe Molten salt On-off valve MS from d rain back tank to hot salt tank Drain back tank 4521-PLN-AEE-68-71-P279-GAR 2 257-MS-10F-CS31-4" 4" CS31 4" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+24 1 XV-525524 Globe Molten salt On-off valve Vent TES HEX inlet TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-13E-CS31-3" 3" CS31 3" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+25 1 XV-525525 Globe Molten salt On-off valve Vent TES HEX inlet TES 5 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-11E-CS31-3" 3" CS31 3" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+26 1 XV-625524 Globe Molten salt On-off valve Vent TES HEX inlet TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-13F-CS31-3" 3" CS31 3" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+27 1 XV-625525 Globe Molten salt On-off valve Vent TES HEX inlet TES 6 HEX Train 4521-PLN-AEE-68-71-P278-GAR 2 255-MS-11F-CS31-3" 3" CS31 3" Neumatic (diaphragm) BW - - 4521-HDD-AGE-39-70-00 15-GAR 4521-PLN-AEE-39-45-6101-GAR - -
+P&ID P&ID Rev Line Spec 
+ABEINSA ENGINEERING 
+Automatic Valves List 
+4521-LIS-AEE-39-64-0002-GAR 
+Client: ABEINSA EPC USA 
+Project: 
+Solana Power Plant 
+Remarks 
+Process Connection Flange Type Face Data Sheet Electric al Connection Diagram Manufacturer Model 
+Technical Information 
+Actuator Type Tag Valve Type Insulation 
+Supplier Data 
+Process Fluid Line Size 
+Basic Data 
+System Rev. Service Description Line Number Item 
+Location

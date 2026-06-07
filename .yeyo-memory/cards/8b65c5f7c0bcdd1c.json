@@ -1,0 +1,31 @@
+{
+  "id": "8b65c5f7c0bcdd1c",
+  "path": "04 GD Fabricacon LOI TES 3/WPS Y PQR/1950201-PQR-001 rev.0.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 5176949,
+  "size_human": "4.9 MB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PQR-001 rev.0",
+  "doc_code": null,
+  "revision": "rev.0",
+  "status": "ok",
+  "text_chars": 2199,
+  "token_estimate": 549,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/8b65c5f7c0bcdd1c.json",
+  "extracted_path": ".yeyo-memory/extracted/8b65c5f7c0bcdd1c.txt",
+  "metadata": {
+    "pages": 32,
+    "pdf_metadata": {
+      "Author": "borjabayer",
+      "CreationDate": "D:20200109162853+01'00'",
+      "Creator": "Adobe Acrobat Pro 10.0.0",
+      "ModDate": "D:20200527130631+02'00'",
+      "Producer": "Adobe Acrobat Pro 10.0.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:33.938807+00:00"
+}

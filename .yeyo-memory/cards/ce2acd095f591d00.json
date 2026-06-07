@@ -1,0 +1,36 @@
+{
+  "id": "ce2acd095f591d00",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-AEE-75-63-0001_Typical Pipe Supports Standard_rev03.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 1337130,
+  "size_human": "1.3 MB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-AEE-75-63-0001 Typical Pipe Supports Standard rev03",
+  "doc_code": "4521-PLN-AEE-75-63-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 54146,
+  "token_estimate": 13536,
+  "chunks": 35,
+  "card_path": ".yeyo-memory/cards/ce2acd095f591d00.json",
+  "extracted_path": ".yeyo-memory/extracted/ce2acd095f591d00.txt",
+  "metadata": {
+    "pages": 35,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2013 - Español 2013 (19.0s (LMS Tech))",
+      "Title": "E16",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "CreationDate": "D:20170817164433",
+      "ModDate": "D:20170817164433"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Soporte de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.364769+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.364772+00:00"
+}

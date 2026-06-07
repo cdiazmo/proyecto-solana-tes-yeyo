@@ -1,0 +1,31 @@
+{
+  "id": "ffdc9c37d87adf53",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201 Rev.0 Packing List - Anchor Bolts.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 174870,
+  "size_human": "171 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201 Rev.0 Packing List - Anchor Bolts",
+  "doc_code": null,
+  "revision": "Rev.0",
+  "status": "ok",
+  "text_chars": 949,
+  "token_estimate": 237,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/ffdc9c37d87adf53.json",
+  "extracted_path": ".yeyo-memory/extracted/ffdc9c37d87adf53.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "a.lopez",
+      "Company": "",
+      "CreationDate": "D:20210224101154+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Excel",
+      "ModDate": "D:20210224101242+01'00'",
+      "Producer": "Adobe PDF Library 17.11.238"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:29.556048+00:00"
+}

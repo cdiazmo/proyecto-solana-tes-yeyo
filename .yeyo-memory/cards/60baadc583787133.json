@@ -1,0 +1,62 @@
+{
+  "id": "60baadc583787133",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0005-GAR REV 01 3D MODEL.dwg",
+  "top_dir": "02 GD LOI",
+  "ext": "dwg",
+  "size_bytes": 11095243,
+  "size_human": "11 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0005-GAR REV 01 3D MODEL",
+  "doc_code": "4521-PLN-LOI-039-062-0005",
+  "revision": "REV 01",
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/60baadc583787133.json",
+  "extracted_path": null,
+  "metadata": {
+    "index_matches": [
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::131",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 131,
+        "doc_code": "4521-PLN-LOI-039-062-0005-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::181",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 181,
+        "doc_code": "4521-PLN-LOI-039-062-0005-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::174",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 174,
+        "doc_code": "4521-PLN-LOI-039-062-0005-GAR - MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:10.822772+00:00"
+}

@@ -1,0 +1,521 @@
+[page 1]
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+Report 
+ 
+ 
+Title 
+Monthly Progress Report 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: 4521-INF-LOI-039-062-0001-GAR 
+Supplier Code: 1950101-INF-001 
+Revision: 00 
+Date: 29/09/2017 
+ 
+Prepared by: 
+ Mikel Aguirre Signature 
+ 
+Reviewed by: 
+Iñaki Ugarte Signature 
+ 
+Approved by: 
+David Veiga Signature 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 2 of 11 
+ 
+ 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved
+00 01/09/2017 Initial issue MA IU DV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 3 of 11 
+ 
+ 
+Index 
+ 
+ 
+1.  Scope ...................................................................................................................... 4 
+2.  Monthly Tasks ........................................................................................................ 4 
+2.1.  Engineering ......................................................................................................... 4 
+2.2.  Purchases ............................................................................................................ 4 
+2.3.  Manufacturing .................................................................................................... 4 
+2.4.  Supplies ............................................................................................................... 4 
+3.  Open Issues ............................................................................................................ 5 
+4.  Troubles Detected, Actions & Project Amended .................................................. 5 
+5.  Invoices ................................................................................................................... 5 
+6.  Annex I: Planning ................................................................................................... 6 
+7.  Annex II: Document List ........................................................................................ 8 
+8.  Annex III: Purchase Plan and Material Procurement ......................................... 10 
+ 
+ 
+
+[page 4]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 4 of 11 
+ 
+1. Scope 
+ 
+The aim of this document is to report the ac tivities carried out by Lointek until May 7 th 2018 
+for the supply of the goods under the contra ct with the reference 4500887352 for Solana 
+Generating Station located in Maricopa County, Arizona. 
+ 
+ 
+The following table shows the main pressure equipment included in the project: 
+ 
+Pos. Equipment Quantity 
+1 Oil-to-Salt Heat 
+Exchanger 6 Units 
+ 
+2. Monthly Tasks 
+ 
+2.1. Engineering 
+ 
+See attached list included in Annex II “Document List”. 
+ 
+2.2. Purchases 
+ 
+See Annex III with the information of the purchases. 
+ 
+2.3. Manufacturing 
+ 
+The manufacturing progress of the equipment is as follows: 
+ 
+- Oil-to-Salt Heat Exchangers: 14%. 
+ 
+2.4. Supplies 
+ 
+See Annex III where materials received up to the date of issue of this report are indicated. 
+ 
+ 
+
+[page 5]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 5 of 11 
+ 
+3. Open Issues 
+ 
+At the emission of the report there are no open issues. 
+ 
+4. Troubles Detected, Actions & Project Amended 
+ 
+ 
+Changer Order 
+Number Description Issued 
+Date 
+ACCEPTED 
+YES/NO 
+SIGNED 
+YES/NO STATE 
+ 
+ 
+ 
+State: 
+P = Pending 
+A = Approved 
+D = Declined 
+ 
+5. Invoices 
+ 
+ 
+Invoice 
+Num Description Euros € Invoice Date Due Date Paid
+YES/NO 
+2017194 M1: Tubesheets for heat exch angers 90,000.00 09/ 06/2017 09/07/2017 YES 
+2017236 
+M1: 10% Upon signature of the contract 
+and issuance of advance payment 
+bankguarantee 
+467,200.00 21/07/2017 21/07/2017 YES 
+2017292 
+M2: 10% with the delivery of 
+documentation to be agreed in the KOM 
+and general arrangement drawings 
+467.200 12/09/2017 11/11/2017 NO 
+2017256 M3: 20% With the order of main materials 
+(plates, tubes and forges) 934,400.00 03/08/2017 03/10/2017 YES 
+ 
+ 
+   
+
+[page 6]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 6 of 11 
+ 
+6. Annex I: Planning 
+ 
+ 
+ 
+ 
+
+[page 7]
+Id Nombre  de tarea
+1 DATE 0 (PO tubesheets)
+2 DATE 0 order
+3 ENGINEERING / DOCUMENTATION (contract dates) pending
+14 ENGINEERING for manufacturing (with production needs)
+31 MATERIAL RECEPTION
+32 BAFFLES PLATES
+33  TUBESHEET 1‐2
+34  TUBESHEET 3‐4
+35  TUBESHEET 5‐6
+36 SHELL PLATE 1‐2    {8 # thk 15 }
+37 SHELL PLATE 3‐4 {8 # thk 15 }
+38 SHELL PLATE 5‐6 {8 # thk 15 + 1 #thk22}
+39 SHELL HEAD
+40 CHANNEL HEAD
+41 SHELL/CHANNEL NOZZLES
+42 MANHOLE FORGING
+43 BAFFLES SINGLE MESH 
+50 BUNDLE TUBES
+51 BUNDLE TUBES 1
+52 BUNDLE TUBES 2
+53 BUNDLE TUBES 3
+54 BUNDLE TUBES 4
+55 BUNDLE TUBES 5
+56 BUNDLE TUBES 6
+57 RODS
+58 SPACERS
+59 MANUFACTURING
+60 Common 6 units
+76 UNIT 1
+77 TUBESHEET
+81  BAFFLES
+90 SADDLES
+94 CHANNEL
+107 SHELL BARREL  M2 ‐thk 22‐ ‐STOCK‐
+120 BARRELS   M3‐4‐5‐6
+127 SHELL
+136 TUBE BUNDLE
+144 FINAL WORKS
+160 UNIT 2
+161 TUBESHEET
+165  BAFFLES
+174 SADDLES
+178 CHANNEL
+191 SHELL BARREL  M2 ‐thk 22‐ ‐STOCK‐
+204 BARRELS M3‐4‐5‐6
+211 SHELL
+221 TUBE BUNDLE
+229 FINAL WORKS
+245 UNIT 3
+246 TUBESHEET
+250  BAFFLES
+259 SADDLES
+263 CHANNEL
+276 SHELL BARREL  M2 ‐thk 22‐ ‐STOCK‐
+289 BARRELS M3‐4‐5‐6
+296 SHELL
+306 TUBE BUNDLE
+314 FINAL WORKS
+330 UNIT 4
+331 TUBESHEET
+335  BAFFLES
+344 SADDLES
+348 CHANNEL
+361 SHELL BARREL M2 ‐esp 22‐ ‐STOCK‐
+374 BARRELS
+381 SHELL
+391 TUBE BUNDLE
+399 FINAL WORKS
+415 UNIT 5
+416 TUBESHEET
+420  BAFFLES
+429 SADDLES
+433 CHANNEL
+446 SHELL BARREL M2 ‐thk 22‐ ‐STOCK‐
+459 BARRELS
+466 SHELL
+476 TUBE BUNDLE
+484 FINAL WORKS
+500 UNIT 6
+501 TUBESHEET
+505  BAFFLES
+514 SADDLES
+518 CHANNEL
+531 SHEEL BARREL M2 ‐thk 22
+544 BARRELS
+551 SHELL
+561 TUBE BUNDLE
+569 FINAL WORKS
+05/06
+19/07
+05/06 01/09
+05/06 28/09
+03/07 11/12
+03/07
+31/07
+07/08
+25/08
+18/10
+27/10
+09/11
+02/11
+07/11
+11/08
+13/11
+21/09 17/11
+28/09 11/12
+28/09
+13/10
+26/10
+10/11
+22/11
+11/12
+17/08
+23/08
+07/07 11/04
+17/08 27/11
+07/07 14/02
+28/07 14/08
+07/07 17/08
+11/09 27/10
+13/11 15/12
+07/09 28/09
+19/10 08/11
+02/11 14/12
+29/09 14/12
+14/12 14/02
+11/07 26/02
+01/08 24/08
+11/07 24/08
+18/09 08/11
+20/11 22/12
+13/09 04/10
+26/10 15/11
+10/11 22/12
+11/10 28/12
+29/12 26/02
+18/07 08/03
+07/08 31/08
+18/07 25/09
+25/09 15/11
+27/11 03/01
+15/09 06/10
+02/11 22/11
+22/11 03/01
+25/10 10/01
+10/01 08/03
+14/08 19/03
+14/08 31/08
+06/09 19/10
+04/10 22/11
+11/12 11/01
+20/09 11/10
+13/11 30/11
+29/11 12/01
+03/11 19/01
+19/01 19/03
+28/08 04/04
+28/08 18/09
+06/09 27/10
+11/10 29/11
+18/12 18/01
+22/09 16/10
+22/11 15/12
+14/12 22/01
+17/11 31/01
+31/01 04/04
+28/08 11/04
+28/08 28/09
+06/09 09/11
+19/10 13/12
+27/12 25/01
+29/11 27/12
+30/11 27/12
+22/12 31/01
+27/11 09/02
+09/02 11/04
+may jun jul ago sep oct nov dic ene feb mar abr may
+tri 2, 2017 tri 3, 2017 tri 4, 2017 tri 1, 2018 tri 2, 2018
+2017
+195 01 01
+Atlantica Yield
+Oil‐to‐Salt HEX Solana  Rev 00 / 01/09/2017
+Página 1 de 1 
+
+[page 8]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 8 of 11 
+ 
+7. Annex II: Document List 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 9]
+Rev. 0
+Edition Date 31/08/2017
+KOM 02/08/2017
+REV 0 REV  0 REV  1 REV  1 REV  2 REV  2 REV  3 REV  3 REV  4 REV  4 REV  5 REV  5
+LOINTEK
+CODE Document Code DOCUMENT DESCRIPTION DTO PURPOSE REQUIRED DATE* CRITICAL (Y/N) DELIVERY DATE REV Date OUT IN OUT IN OUT IN OUT IN OUT IN OUT IN Document 
+status
+1950101-INF-001 4521-INF-LOI-039-062-0001-GAR PROGRESS REPORT JP Monthly MONTHLY - -
+1950101-SCH-001 4521-SCH-LOI-039-062-0001-GAR MANUFACTURING PLANNING JP 4 Y 30/08/2017 0 04-09-2017 04-09-2017
+1950101-LID-001 4521-LIS-LOI-039-062-0001-GAR DOCUMENT LIST JP 4 Y 30/08/2017 0 04-09-2017 04-09-2017
+1950101-LID-002 4521-LIS-LOI-039-062-0002-GAR START UP COMMISIONING SPARE PARTS LIST ING 12 25/10/2017
+1950101-LID-003 4521-LIS-LOI-039-062-0003-GAR PACKING AND SHIPPING LIST JP 14 08/11/2017
+1950101-LID-004 4521-LIS-LOI-039-062-0004-GAR TWO YEARS OPERATIONAL SPARE PARTS LIST ING 12 25/10/2017
+1950101-CAL-001 4521-CAL-LOI-039-062-0001-GAR MECHANICAL CALCULATIONS ING 10 11/10/2017
+1950101-HDD-001 4521-HDD-LOI-039-062-0001-GAR EQUIPMENT DATA SHEETS ENE 4 Y 30/08/2017 0 04-09-2017 04-09-2017
+1950101-CAL-002 4521-CAL-LOI-039-062-0002-GAR PROCESS FLOW CONDITIONS/HEAT & MASS BALANCES ENE 5 06/09/2017 0 25-09-2017 25-09-2017
+1950101-DWG-001 4521-PLN-LOI-039-062-0001-GAR GENERAL ARRAGEMENT AND LOADS DRAWING ING 5 06/09/2017 0 12-09-2017 12-09-2017
+1950101-DWG-002 4521-PLN-LOI-039-062-0002-GAR TUBE SHEET DRAWING ING 10 11/10/2017
+1950101-DWG-007 4521-PLN-LOI-039-062-0006-GAR SADDLES DETAIL DRAWIGS ING 12 25/10/2017
+1950101-DWG-003 4521-PLN-LOI-039-062-0007-GAR NOZZLE DETAILS DRAWING ING 12 25/10/2017
+1950101-DWG-110 4521-PLN-LOI-039-062-0005-GAR TRANSPORT DRAWING ING 12 25/10/2017
+1950101-DWG-130 4521-PLN-LOI-039-062-0008-GAR INSULATION SUPPORTS DESIGN DRAWINGS ING 12 25/10/2017
+1950101-DWG-100 4521-PLN-LOI-039-062-0003-GAR NAMEPLATE DRAWING ING 10 11/10/2017
+1950101-DWG-120 4521-PLN-LOI-039-062-0004-GAR PRODUCTION TEST DRAWING ING 10 11/10/2017
+1950101-DWG-140 4521-PLN-LOI-039-062-0005-GAR ANCHOR BOLTS DRAWING ING 6 13/09/2017 0 25-09-2017 25-09-2017
+1950101-TPP-001 4521-INS-LOI-039-062-0001-GAR REPAIRING PROCEDURE ING 14 08/11/2017
+1950101-PPT-001 4521-INS-LOI-039-062-0002-GAR HEAT TREATMENT PROCEDURE ING 14 08/11/2017
+1950101-PPH-001 4521-INS-LOI-039-062-0003-GAR HYDRAULIC TEST PROCEDURE ING 14 08/11/2017
+1950101-PLP-001 4521-INS-LOI-039-062-0004-GAR LIQUID PENETRANT EXAMINATION PROCEDURE CAL 14 08/11/2017
+1950101-PPM-001 4521-INS-LOI-039-062-0005-GAR MAGNETIC PARTICLE EXAMINATION PROCEDURE CAL 14 08/11/2017
+1950101-PRX-002 4521-INS-LOI-039-062-0006-GAR RADIOGRAPHIC EXAMINATION PROCEDURE CAL 14 08/11/2017
+1950101-PUS-003 4521-INS-LOI-039-062-0007-GAR ULTRASONIC EXAMINATION PROCEDURE CAL 14 08/11/2017
+1950101-PIV-004 4521-INS-LOI-039-062-0008-GAR VISUAL INSPECTION PROCEDURE CAL 14 08/11/2017
+1950101-PPS-001 4521-INS-LOI-039-062-0009-GAR COATING AND PAINTING PROCEDURE SUM 14 08/11/2017
+1950101-WPS-001 4521-INS-LOI-039-062-0010-GAR WPS SOL 14 08/11/2017
+1950101-PQR-001 4521-INS-LOI-039-062-0011-GAR PQR SOL 14 08/11/2017
+1950101-PTP-001 4521-MOM-LOI-039-062-0001-GAR PERFORMANCE TEST PROCEDURE ENE 12 25/10/2017
+1950101-CAL-003 4521-MOM-LOI-039-062-0002-GAR OPERATIONAL LIMITS ENE 6 13/09/2017 0 25-09-2017 25-09-2017
+1950101-MOM-001 4521-MOM-LOI-039-062-0003-GAR INSTALATION, START-UP, 
+OPERATION AND MAINTENANCE INSTRUCTIONS ENE 12 25/10/2017
+1950101-PPI-001 4521-PPI-LOI-039-062-0001-GAR INSPECTION POINT PROGRAM CAL 4 Y 30/08/2017 0 04-09-2017 04-09-2017
+1950101-PPC-001 4521-PCA-LOI-039-062-0001-GAR QUALITY PLAN CAL 6 13/09/2017 0 25-09-2017 25-09-2017
+1950101-MDR-001 4521-PCA-LOI-039-062-0002-GAR FINAL QUALITY DOSSIER CAL Delivery 1 Week after delivery
+SOLANA SOLAR POWER PLANT (ARIZONA, USA)
+OIL TO SALT HEAT EXCHANGERS
+VSC:Viewed without comments
+VCC: Viewed with comments
+R : Rejected
+
+[page 10]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 10 of 11 
+ 
+8. Annex III: Purchase Plan and Material Procurement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 11]
+ 
+Document: 4521-INF-LOI-039-062-0004-GAR 
+Revision: 00 Date: 29/09/2017 
+Page: 11 of 11 
+ 
+ 
+ 
+ 
+PURCHASE LIST 
+SOLANA GENERATING STATION 
+ 
+ 
+ 
+P.O. No  DESCRIPTION  SUPPLIER  DELIVERY DATE 
+74513  FORGING  FORGIATURA MORANDINI  28/08/2017 
+75328  TUBES  TUBOS REUNIDOS   10/11/2017 
+71284  BAFFLES PLATES  HIERROS MARCELINO FRANCO  19/07/2017 
+75314  PLATES  INDUSTEEL BELGIUM  22/09/2017

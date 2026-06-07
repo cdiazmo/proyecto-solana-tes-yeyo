@@ -1,0 +1,455 @@
+[page 1]
+Title:
+Client:
+Project: 
+Document No.:
+Revision:
+Date:
+Prepared by:
+Reviewed by:
+Approved by:
+Solana Generation Station
+This document is property of Teyma USA & Abener Engineering and Construction Services General Partnership. Its total or partial 
+reproduction is strictly forbidden by any means, as well as its distribution to third parties without the express written consent of Teyma 
+USA & Abener Engineering and Construction Services General Partnership.
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential information, legal requirements or local 
+regulations and/or contractual requirements of the client), there was a need to modify the requirements included in this procedure, 
+these changes must be properly documented in the quality, environment and health and safety plan of the project, prior approval from 
+the company headquarters management system department.
+MS-HTF Shell & Tube Heat Exchangers Data Sheet
+ABEINSA
+Data Sheet
+4521-HDD-AEPC-075-062-0001
+0
+18/04/2016
+Ricardo R. Delgado A. Electronic Signature
+Andres Barros Borrero Electronic Signature
+Jaime Rojas Blasco Electronic Signature
+ Arizona Solar One LLC
+
+[page 2]
+Revision: 0 Date: 27/05/2014
+Revision Date Reason for the revision Prepared by Reviewed 
+by
+Approved 
+by
+1 18/04/2016 First issue RDA ABB JRB
+The original copy of this document is electronically signed and filed in the document management system of Teyma USA & Abener 
+Engineering and Construction Services General Partnership
+ABEINSA
+Document: 4521-HDD-AEPC-075-062-0001
+Page:
+Revision Control Sheet
+
+[page 3]
+P. 1 of 3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ft
+12 ºF
+13 psig
+14 %
+15 MPH
+16 -
+17
+18 -
+19
+20
+21 lb/hr
+22 ºF
+23 psig
+24 Btu/lb-ºF
+25 Viscosity cP
+26 Density lb/ft³
+27 Btu/lb
+28 psi
+29 ºF
+30 ºF
+31 MM Btu/hr
+32
+33 lb/hr
+34 ºF
+35 psig
+36 Btu/lb-ºF
+37 Viscosity cP
+38 Density lb/ft³
+39 Btu/lb
+40 ºF
+41 ºF
+42 psi
+43 MM Btu/hr
+44 m/s
+45 W/m2·ºC
+46 ºC
+47 bar
+48 m2
+49
+50
+51
+52
+Hot Approach Temperature 11.2
+Cold Approach Temperature 11.2
+Hot Approach Temperature 6.8
+9.6
+Balanced consideration By train By train
+By vendor By vendor
+By vendor
+51.99
+0.283
+By vendor
+Heat transfer surface 
+(1) Please refer to the document 4521-ESP-ANC-00-62-0001 Project Design Criteria.
+(2) Due to the hydraulic calculation are still in progress, vendor shall indicate the expected drop pressure in the HEX.
+Seismic clasification
+118.95
+554.4
+Cold Approach Temperature
+(1)
+Description
+(1)
+(1)
+0.620
+136.8
+Inlet Outlet Inlet Outlet
+Inlet Outlet
+203.05 134.04
+Transmission coefficient
+Heat Exchanged 405.25
+Maximum pressure drop allowed 50.76
+Ambient 
+Conditions 
+Above mean sea level
+1.81
+Temperature 
+Inlet pressure
+Specific heat
+By vendor
+By vendor
+Enthalpy
+By vendor
+0.157
+556.2
+Relative humidity (max/design/min) (1)
+(1)
+4,105,612
+115.06
+6,604,023
+Service
+Nominal thermal power exchanged (kW)
+Max Charging (DESIGN)
+Maximum wind speed 
+Discharge nominal
+Atmospheric pressure 
+Applicable codes
+Type of fluid
+Flow rate 
+Allowed pressure drop 
+Heat Exchanged
+4,105,612 6,622,459 6,622,459
+Molten salts Side
+Inlet Outlet
+737.6
+Inlet pressure
+183.80
+44.85
+Enthalpy
+51.31
+HTF Side
+43.89
+Dowtherm A or Therminol VP-1 60% NaNO3/ 40% KNO3 w/w
+545.0
+6,604,023Flow rate
+225.40 324.65 245.77
+183.16 246.42
+0.540 0.610 0.361 0.357
+203.1
+Rev Date
+Arrangement (horizontal/vertical)
+Manufacturer
+Model
+HTF and Molten Salts heat exchanger
+See Expected Performance document
+Location (indoor/outdoor) Outdoor
+Shell&Tube / 1 x 100%
+See Molten salts Heat exchanger Technical Specification
+564
+419
+Specific heat
+(2) (2)
+4,083,090 4,083,090
+73.96
+Notes Operating Conditions 
+730.8
+0.151
+D.M.L.T. 
+73.96
+3.500.226
+Allowed pressure drop 
+Max Velocity allowed
+1.89 3.47
+115.10
+Client
+Document Code
+ Arizona Solar One LLC
+4521-HDD-AEPC-075-062-0001
+ABEINSA
+By vendor
+118.91
+General 
+ID KKS HOLD
+Horizontal
+Type/Number of exchangers in HEX package
+0 18-04-16
+MS-HTF Shell & Tube Heat Exchangers Data Sheet
+First issue
+By vendor
+0.357 0.361
+336.90 235.62
+Ambient temperature (max/min) (1)
+By vendor
+717.8 729.0
+Temperature 
+0.550
+50.76
+Page 3 of 5
+
+[page 4]
+P. 2 of 3
+53
+54 -
+55
+56
+57 lb/hr
+58 ºF
+59 psig
+60 Btu/lb-ºF
+61 Viscosity cP
+62 Density lb/ft³
+63 Btu/lb
+64 psi
+65 MM Btu/hr
+66
+67 lb/hr
+68 ºF
+69 psig
+70 Btu/lb-ºF
+71 Viscosity cP
+72 Density lb/ft³
+73 Btu/lb
+74 ºF
+75 ºF
+76 psi
+77 MM Btu/hr
+78
+79 lb/hr
+80 ºF
+81 psig
+82 Btu/lb-ºF
+83 Viscosity cP
+84 Density lb/ft³
+85 Btu/lb
+86 ºF
+87 ºF
+88 psi
+89 MM Btu/hr
+Cold Approach Temperature 10.5
+Hot Approach Temperature 3.8
+Cold Approach Temperature 3.8
+Hot Approach Temperature 10.5
+First issue
+Allowed pressure drop (2) (2)
+Heat Exchanged 386.69
+Operating Conditions 
+0.233 0.157 1.895 3.363
+51.68 44.85 115.16 118.73
+Enthalpy 229.92 324.65 245.52 186.69
+Temperature 553.80 717.80 728.30 564.30
+Inlet Outlet Inlet Outlet
+Flow rate 4,081,984 4,081,984 6,620,487 6,620,487
+Balanced consideration By train By train
+Date Description
+Heat Exchanged
+Allowed pressure drop (2) (2)
+83.10
+Inlet pressure 203.00 136.00
+Specific heat 0.550 0.610 0.361
+Summer Charge Outlet Inlet Outlet
+Flow rate 
+321.36
+Specific heat
+43.89 51.41
+Inlet pressure 203.1 134
+Specific heat
+Inlet pressure
+Fluid name
+197.41 247.50
+1.87
+118.07
+Enthalpy
+0.357
+Winter discharge
+Outlet
+115.07
+Enthalpy 336.90 182.98 246.24
+5,079,985 5,079,985
+Temperature 
+0
+HTF Side Molten salts Side
+Dowtherm A or Therminol VP-1 60% NaNO3/ 40% KNO3 w/w
+Inlet
+Flow rate 
+234.05
+1,001,839 1,001,839 1,659,043 1,659,043
+Heat Exchanged
+Allowed pressure drop 
+25% Load charging Inlet Outlet Inlet
+18-04-16
+0.357 0.361
+3,102,130 3,102,130
+737.6 561.2 553.9 730.3
+336.90 253.43
+Temperature 733.8
+203.1 134
+0.620
+114.99
+0.361
+737.6 598.1 594.3
+2.99
+43.89
+0.56 0.358
+49.93
+Rev
+ABEINSA
+0.151
+0.151 0.207
+0.228 3.50
+Fluid allocation
+1.88
+118.96
+0.620 0.55
+(2) (2)
+MS-HTF Shell & Tube Heat Exchangers Data Sheet
+Client Arizona Solar One LLC
+Document Code 4521-HDD-AEPC-075-062-0001
+Page 4 of 5
+
+[page 5]
+P. 3 of 3
+90
+91 psig
+92 ºF
+93 psig
+94 ft2ºF/BTU
+95
+ft3
+96 -
+97 -
+98 -
+99
+100 inches/-
+101 inches/-
+102
+103 -
+104 lb/ft³
+105 inches
+106
+107 inches/-
+108 -
+109 -
+110 -
+111 -
+112
+113 -
+114 -
+115
+116 inches
+117 inches
+118 inches
+119
+120 inches
+121 inches
+122 lb
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133 (3) to confirm by supplier
+134 (4) Impingement plate at inlet and outlet need to be included as code indicates.
+135
+136
+By vendor
+By vendor
+By vendor
+By vendor
+By vendor
+By vendor
+By vendor
+First issue
+Corrosion allowed(tube/shell) (3) 1/8" / 1/8"
+Fouling factor 0.0005 0.0005
+Thickness By vendor
+Type By vendor
+Density By vendor
+By vendor
+Notes 
+Spare Parts 
+Commissionin 
+gTwo years 
+Dimensions and 
+Weights 
+HTF side
+Length
+Width / Height
+Weight /
+Molten Salt side
+Length
+Width / Height
+Weight
+Tie rods and nuts By vendor
+Anchor bolts By vendor
+Constructive Parameters 
+HTF Side Molten salts Side
+Design pressure 362.6/FV 362.6/FV
+Design temperature 750.2 750.2
+Test pressure By vendor By vendor
+Liquid volume
+Pressure retaining system Carbon steel
+Bolting
+Main connections
+Inlet (diameter and type of 
+connection)
+By vendor By vendor
+Outlet (diameter and type of 
+connection)
+By vendor By vendor
+Materials
+Materials Carbon steel
+Forging and Fittings Carbon steel
+Pipes / nozzles Carbon steel
+Thermal insulation Optional
+By vendor
+Number of passes By vendor By vendor
+By vendor By vendor
+Number channels per pass
+Number of tubes
+By vendor
+ABEINSA
+0 18-04-16
+Rev Date Description
+MS-HTF Shell & Tube Heat Exchangers Data Sheet
+Client Arizona Solar One LLC
+Document Code 4521-HDD-AEPC-075-062-0001
+Page 5 of 5

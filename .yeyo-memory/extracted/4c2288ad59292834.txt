@@ -1,0 +1,67 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PLN-AGE-27-23-P648-901 | 1 | 2017-02-02 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | 4521-PLN-AGE-27-23-P648 - R1_RP-63419_SLD_TES HEX Change
+By review TCS data box | C:\Users\agmbo\Desktop\Solana\Entregas\03-02\[4521-PLN-AGE-27-23-P648-901_RP-63419_SLD_TES HEX Change.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521-PLN-AGE-27-23-P648-901_RP-63419_SLD_TES HEX Change
+4521-PLN-AGE-27-23-P648 | 1 | IFB | 4521-TMT-AEE-AEPC-0043 | 2017-02-02 00:00:00
+Input data | Used
+4521-LIS-AGE-39-40-0010_R00-GAR TES Area Electric consumer list Unit 5-6
+-
+Assumptions:
+-
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+Execution process update
+-
+-
+-
+Design change
+Additional tracing for new pipes and lighting
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AGE-27-23-P648 | 1 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PLN-AGE-27-23-P648-901 | 1 | 2017-02-02 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | 4521-PLN-AGE-27-23-P648 - R1_RP-63419_SLD_TES HEX Change
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

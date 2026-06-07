@@ -1,0 +1,545 @@
+Instructions:
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be included on all pages.
+2. Revisions are identified in the body of the document. 
+Contents
+Page No.
+1 Overview 4
+2 Description 4
+3 Codes and normative 5
+4 Design basis 5
+4.1 Materials 5
+4.2 Safety factors and load combination coefficients: 6
+4.3 Loads. 6
+4.3.1 Dead load 6
+4.3.2 Live Load 7
+4.3.3 Wind load 8
+4.3.4 Seismic load 9
+4.3.5 Thermal load 16
+4.3.6 Snow load 16
+5 Results 16
+6 Annex 1: Load Combinations 17
+7 Annex 2. Calculation report 21
+7.1 Model of calculation 21
+7.2 Nodes and bars geometry 22
+7.3 Steel stress check 25
+7.4 Summary steel design 31
+7.5 Displacement of nodes 32
+8 Annex 3. Checking of anchor bolt post-installed 34
+8.1 Introduction 34
+8.2 Anchor bolt design report 37
+Overview
+In the present document, the Drain Back tank support of Solana Generating Station is designed.
+Description
+The support shape and the different equipment, pipeline and valves that affect to this one are shown in the next image: 
+The Drain back tank support is composed by several steel profiles, by screwing connections and all is supported on the slab of pit by baseplate and anchoraged by several post-installed bolts to these one.
+Codes and normative 
+IBC 2012 International Building Code
+AISC 360-10 American Institute steel code
+ASCE 7-05 Minimum Design Loads for Buildings and Other Structures.
+Design basis
+For design purpose a static finite elements analysis have been performed using a shell elements in order to apply the different loads.
+Materials
+Steel: 
+Structural steel W-shape: ASTM A992 (Fy=50 ksi)
+Other structural steel : ASTM A36
+Bolted connections high strength: ASTM A325 or A490
+Secondary bolts: ASTM A307
+Safety factors and load combination coefficients:
+Fracture U.L.S. rolled steel: ANSI/AISC 360-05 (LRFD)
+Loads.
+Dead load
+Specific self-weight of steel elements: 490 lb /ft3
+In according to supplier input data:
+Self-Weight of Drain tank: 6.500 lb
+Self-Weight of pump: 500 lb
+These loads are applied over beam W10x49 by connections bolt: one fixed connections and the other is sliding connections. The load it is applied as lineal load:
+The total weight (tank + pump) is divided for Length support (4 feet) and also divide between two supports:
+7.000 Lb / 4 feet /2 supports = 875 Lb/ft
+Live Load
+Weight water in maximum capacity of tank: 13.000 lb 
+This load is divided for Length support (4 feet) and also divides between two supports:
+13.000 Lb / 4 feet /2 supports = 1625 Lb/ft
+Wind load
+Load not applied.
+Seismic load
+To be defined the response spectrum to apply at this project; it has considered the next factors:
+Site class definition:_ class D
+Ss=0.230g 
+S1=0,088g
+Fa=1.6 Site coefficient
+Fv=2.4
+Sms= 0,368g
+Sm1=0,212g
+SDS= 0.245g
+SD1=0.142g
+In this sense, to calculate of equipment anchorage having account of seismic load, it has to consider the next equations, only in the case that there are not input data from supplier:
+, where ‘Wp’ is the equipment weight.
+Wp= Self weight (tank + pump) + water weight of tank) = 20.000 Lb
+SDS=0,245g
+Ch= 0,4 x SDS x Wp= 0,5 kip
+Cv=1,4 Ch= 0,7 Kip
+Thermal load
+Not applied.
+Snow load
+Not applied.
+Results
+To analyse the foundation SAP2000 software has been used, where the results of the analyzing process are shown in computer data annexes 2 and 3.
+Annex 1: Load Combinations
+The load combinations will be defined according to the following criteria for the different project situations:
+Annex 2. Calculation report
+Model of calculation
+In order to design and check of different walls designed, it has used of SAP2000 calculation software. In the next image it shows the civil work that is studied in this document:
+Nodes and bars geometry
+Steel stress check
+Column W8x18:
+AISC 360-10 STEEL SECTION CHECK (Summary for Combo and Station)
+ Units : lb, in, F
+ Frame : 9 X Mid: 78,740 Combo: DSTL15 Design Type: Column 
+ Length: 40,945 Y Mid: 90,551 Shape: W8x18 Frame Type: OCBF 
+ Loc : 25,591 Z Mid: -105,512 Class: Compact Princpl Rot: 0,000 degrees
+ Provision: LRFD Analysis: Direct Analysis 
+ D/C Limit=0,950 2nd Order: General 2nd Order Reduction: No Modification 
+ AlphaPr/Py=0,033 AlphaPr/Pe=0,002 Tau_b=1,000 EA factor=1,000 EI factor=1,000 
+ Ignore Seismic Code? No Ignore Special EQ Load? Yes D/P Plug Welded? Yes 
+ SDC: D I=1,600 Rho=1,500 Sds=0,250 
+ R=3,000 Omega0=3,000 Cd=3,000 
+ PhiB=0,900 PhiC=0,900 PhiTY=0,900 PhiTF=0,750 
+ PhiS=0,900 PhiS-RI=1,000 PhiST=0,900 
+ A=5,173 I33=60,954 r33=3,433 S33=14,959 Av3=2,886 
+ J=0,150 I22=7,921 r22=1,237 S22=3,025 Av2=1,861 
+ E=29000000,00 fy=50000,000 Ry=1,100 z33=16,741 Cw=121,056 
+ RLLF=1,000 Fu=65000,000 z22=4,631 
+ STRESS CHECK FORCES & MOMENTS (Combo DSTL15)
+ Location Pu Mu33 Mu22 Vu2 Vu3 Tu
+ 25,591 -8629,442 10783,274 -11504,818 -664,266 -749,288 0,000
+ PMM DEMAND/CAPACITY RATIO (H1-1b)
+ D/C Ratio: 0,089 = 0,019 + 0,014 + 0,055 
+ = (1/2)(Pr/Pc) + (Mr33/Mc33) + (Mr22/Mc22) 
+ AXIAL FORCE & BIAXIAL MOMENT DESIGN (H1-1b)
+ Factor L K1 K2 B1 B2 Cm
+ Major Bending 1,000 1,000 1,000 1,000 1,000 0,482
+ Minor Bending 0,625 1,000 1,000 1,000 1,000 1,000
+ Lltb Kltb Cb
+ LTB 0,625 1,000 1,749
+ Pu phi*Pnc phi*Pnt
+ Force Capacity Capacity
+ Axial -8629,442 225627,474 232795,276
+ Mu phi*Mn phi*Mn
+ Moment Capacity No LTB
+ Major Moment 10783,274 753332,202 753332,202
+ Minor Moment -11504,818 208408,424
+ SHEAR CHECK 
+ Vu phi*Vn Stress Status
+ Force Capacity Ratio Check
+ Major Shear 664,266 50245,210 0,013 OK
+ Minor Shear 749,288 93509,827 0,008 OK
+Beam W8x18
+AISC 360-10 STEEL SECTION CHECK (Summary for Combo and Station)
+ Units : lb, in, F
+ Frame : 8 X Mid: 124,016 Combo: DSTL16 Design Type: Beam 
+ Length: 90,551 Y Mid: 90,551 Shape: W8x18 Frame Type: OCBF 
+ Loc : 90,551 Z Mid: -100,394 Class: Compact Princpl Rot: 0,000 degrees
+ Provision: LRFD Analysis: Direct Analysis 
+ D/C Limit=0,950 2nd Order: General 2nd Order Reduction: No Modification 
+ AlphaPr/Py=0,000 AlphaPr/Pe=0,000 Tau_b=1,000 EA factor=1,000 EI factor=1,000 
+ Ignore Seismic Code? No Ignore Special EQ Load? Yes D/P Plug Welded? Yes 
+ SDC: D I=1,600 Rho=1,500 Sds=0,250 
+ R=3,000 Omega0=3,000 Cd=3,000 
+ PhiB=0,900 PhiC=0,900 PhiTY=0,900 PhiTF=0,750 
+ PhiS=0,900 PhiS-RI=1,000 PhiST=0,900 
+ A=5,173 I33=60,954 r33=3,433 S33=14,959 Av3=2,886 
+ J=0,150 I22=7,921 r22=1,237 S22=3,025 Av2=1,861 
+ E=29000000,00 fy=50000,000 Ry=1,100 z33=16,741 Cw=121,056 
+ RLLF=1,000 Fu=65000,000 z22=4,631 
+ STRESS CHECK FORCES & MOMENTS (Combo DSTL16)
+ Location Pu Mu33 Mu22 Vu2 Vu3 Tu
+ 90,551 -31,538 -19967,561 0,000 511,624 0,000 0,000
+ PMM DEMAND/CAPACITY RATIO (H1-1b)
+ D/C Ratio: 0,027 = 0,000 + 0,027 + 0,000 
+ = (1/2)(Pr/Pc) + (Mr33/Mc33) + (Mr22/Mc22) 
+ AXIAL FORCE & BIAXIAL MOMENT DESIGN (H1-1b)
+ Factor L K1 K2 B1 B2 Cm
+ Major Bending 1,000 1,000 1,000 1,000 1,000 1,000
+ Minor Bending 1,000 1,000 1,000 1,000 1,000 1,000
+ Lltb Kltb Cb
+ LTB 1,000 1,000 2,207
+ Pu phi*Pnc phi*Pnt
+ Force Capacity Capacity
+ Axial -31,538 157367,702 232795,276
+ Mu phi*Mn phi*Mn
+ Moment Capacity No LTB
+ Major Moment -19967,561 753332,202 753332,202
+ Minor Moment 0,000 208408,424
+ SHEAR CHECK 
+ Vu phi*Vn Stress Status
+ Force Capacity Ratio Check
+ Major Shear 511,624 50245,210 0,010 OK
+ Minor Shear 0,000 93509,827 0,000 OK
+ CONNECTION SHEAR FORCES FOR BEAMS
+ VMajor VMajor
+ Left Right
+ Major (V2) 511,624 511,624
+Beam W10x49:
+AISC 360-10 STEEL SECTION CHECK (Summary for Combo and Station)
+ Units : Kip, ft, F
+ Frame : 3 X Mid: 6,562 Combo: DSTL2 Design Type: Beam 
+ Length: 4,265 Y Mid: 9,678 Shape: W10x49 Frame Type: OCBF 
+ Loc : 4,265 Z Mid: -7,087 Class: Compact Princpl Rot: 0,000 degrees
+ Provision: LRFD Analysis: Direct Analysis 
+ D/C Limit=0,950 2nd Order: General 2nd Order Reduction: No Modification 
+ AlphaPr/Py=0,001 AlphaPr/Pe=5,E-05 Tau_b=1,000 EA factor=1,000 EI factor=1,000 
+ Ignore Seismic Code? No Ignore Special EQ Load? Yes D/P Plug Welded? Yes 
+ SDC: D I=1,600 Rho=1,500 Sds=0,250 
+ R=3,000 Omega0=3,000 Cd=3,000 
+ PhiB=0,900 PhiC=0,900 PhiTY=0,900 PhiTF=0,750 
+ PhiS=0,900 PhiS-RI=1,000 PhiST=0,900 
+ A=0,098 I33=0,013 r33=0,362 S33=0,031 Av3=0,065 
+ J=5,958E-05 I22=0,004 r22=0,214 S22=0,011 Av2=0,023 
+ E=4175999,751 fy=7200,000 Ry=1,100 z33=0,034 Cw=6,897E-04 
+ RLLF=1,000 Fu=9359,999 z22=0,016 
+ STRESS CHECK FORCES & MOMENTS (Combo DSTL2)
+ Location Pu Mu33 Mu22 Vu2 Vu3 Tu
+ 4,265 -0,465 -1,189 0,000 9,300 0,000 0,000
+ PMM DEMAND/CAPACITY RATIO (H1-1b)
+ D/C Ratio: 0,006 = 0,000 + 0,005 + 0,000 
+ = (1/2)(Pr/Pc) + (Mr33/Mc33) + (Mr22/Mc22) 
+ AXIAL FORCE & BIAXIAL MOMENT DESIGN (H1-1b)
+ Factor L K1 K2 B1 B2 Cm
+ Major Bending 1,000 1,000 1,000 1,000 1,000 1,000
+ Minor Bending 1,000 1,000 1,000 1,000 1,000 1,000
+ Lltb Kltb Cb
+ LTB 1,000 1,000 1,161
+ Pu phi*Pnc phi*Pnt
+ Force Capacity Capacity
+ Axial -0,465 618,068 637,876
+ Mu phi*Mn phi*Mn
+ Moment Capacity No LTB
+ Major Moment -1,189 221,919 221,919
+ Minor Moment 0,000 105,773
+ SHEAR CHECK 
+ Vu phi*Vn Stress Status
+ Force Capacity Ratio Check
+ Major Shear 9,300 91,057 0,102 OK
+ Minor Shear 0,000 301,890 0,000 OK
+ CONNECTION SHEAR FORCES FOR BEAMS
+ VMajor VMajor
+ Left Right
+ Major (V2) 9,300 9,300
+Summary steel design
+Displacement of nodes
+Annex 3. Checking of anchor bolt post-installed
+Introduction
+In this section it shows the checking of anchor bolt post-installed in order to anchor this support to the slab of pit.
+The type of bolt chose is 5/8” Hilti HIT-Z Carbon steel non-cleaning bonded expansion anchor with Hilti HIT-HY 200 Safe Set System.
+It has considered for calculation the next forces:
+Shear force: 840 lb
+Axial force: 11102 Kip
+Bending moment: 14489 lb* inch
+Anchor bolt design report
+ | | | | | | | | | | | | | | | | | | | | Description of | Description of
+Rev. No. | Rev. No. | | | Date | Date | | | By | By | | | Chk’d | Chk’d | | | App’d | App’d | | | Revision Including Page Numbers | Revision Including Page Numbers
+0 | 0 | | | 10/01/2017 | 10/01/2017 | | | LMOB | LMOB | | | JAG | JAG | | | JMGL | JMGL | | | For Construction | For Construction
+1 | 1 | | | 04/05/2018 | 04/05/2018 | | | PPT | PPT | | | PPT | PPT | | | IGA | IGA | | | Updated IBC reference to IBC 2012 | Updated IBC reference to IBC 2012
+TABLE: Function - Response Spectrum - User | TABLE: Function - Response Spectrum - User | TABLE: Function - Response Spectrum - User | TABLE: Function - Response Spectrum - User
+Name | Period | Accel | FuncDamp
+Text | Sec | Unitless | Unitless
+Solana | 0 | 0,1 | 0,05
+Solana | 0,05 | 0,13 | 
+Solana | 0,1 | 0,16 | 
+Solana | 0,15 | 0,2 | 
+Solana | 0,2 | 0,245 | 
+Solana | 0,25 | 0,245 | 
+Solana | 0,3 | 0,245 | 
+Solana | 0,35 | 0,245 | 
+Solana | 0,4 | 0,245 | 
+Solana | 0,45 | 0,245 | 
+Solana | 0,5 | 0,245 | 
+Solana | 0,55 | 0,22 | 
+Solana | 0,6 | 0,21 | 
+Solana | 0,65 | 0,2 | 
+Solana | 0,7 | 0,19 | 
+Solana | 0,75 | 0,18 | 
+Solana | 0,8 | 0,17 | 
+Solana | 0,85 | 0,16 | 
+Solana | 0,9 | 0,15 | 
+Solana | 0,95 | 0,14 | 
+Solana | 1 | 0,13 | 
+Solana | 1,05 | 0,125 | 
+Solana | 1,1 | 0,12 | 
+Solana | 1,15 | 0,115 | 
+Solana | 1,2 | 0,11 | 
+Solana | 1,25 | 0,105 | 
+Solana | 1,3 | 0,1 | 
+Solana | 1,35 | 0,095 | 
+Solana | 1,4 | 0,09 | 
+Solana | 1,45 | 0,087 | 
+Solana | 1,5 | 0,085 | 
+Solana | 1,55 | 0,082 | 
+Solana | 1,6 | 0,08 | 
+Solana | 1,65 | 0,078 | 
+Solana | 1,7 | 0,076 | 
+Solana | 1,75 | 0,074 | 
+Solana | 1,8 | 0,072 | 
+Solana | 1,85 | 0,07 | 
+Solana | 1,9 | 0,068 | 
+Solana | 1,95 | 0,066 | 
+Solana | 2 | 0,065 | 
+Solana | 2,05 | 0,063 | 
+Solana | 2,1 | 0,061 | 
+Solana | 2,15 | 0,06 | 
+Solana | 2,2 | 0,059 | 
+Solana | 2,25 | 0,058 | 
+Solana | 2,3 | 0,057 | 
+Solana | 2,35 | 0,056 | 
+Solana | 2,4 | 0,055 | 
+Solana | 2,45 | 0,054 | 
+Solana | 2,5 | 0,053 | 
+Solana | 2,55 | 0,052 | 
+Solana | 2,6 | 0,051 | 
+Solana | 2,65 | 0,05 | 
+Solana | 2,7 | 0,049 | 
+Solana | 2,75 | 0,048 | 
+Solana | 2,8 | 0,047 | 
+Solana | 2,85 | 0,046 | 
+Solana | 2,9 | 0,045 | 
+Solana | 2,95 | 0,044 | 
+Solana | 3 | 0,043 | 
+Solana | 3,05 | 0,0425 | 
+Solana | 3,1 | 0,042 | 
+Solana | 3,15 | 0,0415 | 
+Solana | 3,2 | 0,041 | 
+Solana | 3,25 | 0,0405 | 
+Solana | 3,3 | 0,04 | 
+Solana | 3,35 | 0,0395 | 
+Solana | 3,4 | 0,039 | 
+Solana | 3,45 | 0,0385 | 
+Solana | 3,5 | 0,038 | 
+Solana | 3,55 | 0,0375 | 
+Solana | 3,6 | 0,037 | 
+Solana | 3,65 | 0,0365 | 
+Solana | 3,7 | 0,036 | 
+Solana | 3,75 | 0,0355 | 
+Solana | 3,8 | 0,035 | 
+Solana | 3,85 | 0,0345 | 
+Solana | 3,9 | 0,034 | 
+Solana | 3,95 | 0,0335 | 
+Solana | 4 | 0,033 | 
+Solana | 4,05 | 0,0325 | 
+Solana | 4,1 | 0,032 | 
+Solana | 4,15 | 0,0315 | 
+Solana | 4,2 | 0,031 | 
+Solana | 4,25 | 0,0305 | 
+Solana | 4,3 | 0,03 | 
+Solana | 4,35 | 0,0295 | 
+Solana | 4,4 | 0,029 | 
+Solana | 4,45 | 0,0285 | 
+Solana | 4,5 | 0,028 | 
+Solana | 4,55 | 0,0275 | 
+Solana | 4,6 | 0,027 | 
+Solana | 4,65 | 0,0265 | 
+Solana | 4,7 | 0,026 | 
+Solana | 4,75 | 0,0255 | 
+Solana | 4,8 | 0,025 | 
+Solana | 4,85 | 0,0245 | 
+Solana | 4,9 | 0,024 | 
+Solana | 4,95 | 0,0235 | 
+Solana | 5 | 0,023 | 
+TABLE: Combination Definitions | TABLE: Combination Definitions | TABLE: Combination Definitions | | | 
+ComboName | ComboType | AutoDesign | CaseType | CaseName | ScaleFactor
+Text | Text | Yes/No | Text | Text | Unitless
+ULS_Eq. 1 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 2 | Linear Add | No | Linear Static | Dead Load | 1,35
+ULS_Eq. 3 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 3 | | | Linear Static | Live load (Water) | 1,5
+ULS_Eq. 4 | Linear Add | No | Linear Static | Dead Load | 1,35
+ULS_Eq. 4 | | | Linear Static | Live load (Water) | 1,5
+ULS_Eq. 5 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 6 | Linear Add | No | Linear Static | Dead Load | 1,35
+ULS_Eq. 7 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 7 | | | Linear Static | Live load (Water) | 1,5
+ULS_Eq. 8 | Linear Add | No | Linear Static | Dead Load | 1,35
+ULS_Eq. 8 | | | Linear Static | Live load (Water) | 1,5
+EXYZ | SRSS | No | Linear Static | E+X | 1
+EXYZ | | | Linear Static | E+Y | 1
+EXYZ | | | Linear Static | E+Z | 1
+ULS_Eq. 9.1 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 9.1 | | | Response Combo | EXYZ | 1
+ULS_Eq. 9.2 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 9.2 | | | Response Combo | EXYZ | -1
+ULS_Eq. 10.1 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 10.1 | | | Linear Static | Live load (Water) | 0,8
+ULS_Eq. 10.1 | | | Response Combo | EXYZ | 1
+ULS_Eq. 10.2 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. 10.2 | | | Linear Static | Live load (Water) | 0,8
+ULS_Eq. 10.2 | | | Response Combo | EXYZ | -1
+ULS_Eq. 11 | Linear Add | No | Linear Static | Dead Load | 1,35
+ULS_Eq. 11 | | | Linear Static | Live load (Water) | 1,5
+ULS_Eq. A | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. B | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. B | | | Linear Static | Live load (Water) | 1,3
+ULS_Eq. C1 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. C1 | | | Response Combo | EXYZ | 1
+ULS_Eq. C2 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. C2 | | | Response Combo | EXYZ | -1
+ULS_Eq. D1 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. D1 | | | Linear Static | Live load (Water) | 0,8
+ULS_Eq. D1 | | | Response Combo | EXYZ | 1
+ULS_Eq. D2 | Linear Add | No | Linear Static | Dead Load | 1
+ULS_Eq. D2 | | | Linear Static | Live load (Water) | 0,8
+ULS_Eq. D2 | | | Response Combo | EXYZ | -1
+ULS_ENV | Envelope | No | Response Combo | ULS_Eq. 1 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 2 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 3 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 4 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 5 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 6 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 7 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 8 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 9.1 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 9.2 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 10.1 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 10.2 | 1
+ULS_ENV | | | Response Combo | ULS_Eq. 11 | 1
+SLS_Eq. 1 | Linear Add | No | Linear Static | Dead Load | 1
+SLS_Eq. 2 | Linear Add | No | Linear Static | Dead Load | 1
+SLS_Eq. 2 | | | Linear Static | Live load (Water) | 1
+E+X_sls | Linear Add | No | Linear Static | E+X | 1
+E+X_sls | | | Linear Static | E+Y | 0,3
+E+X_sls | | | Linear Static | E+Z | 0,3
+E-X_sls | Linear Add | No | Linear Static | E-X | 1
+E-X_sls | | | Linear Static | E-Y | 0,3
+E-X_sls | | | Linear Static | E-Z | 0,3
+E+Y_sls | Linear Add | No | Linear Static | E+Y | 1
+E+Y_sls | | | Linear Static | E+X | 0,3
+E+Y_sls | | | Linear Static | E+Z | 0,3
+E-Y_sls | Linear Add | No | Linear Static | E-Y | 1
+E-Y_sls | | | Linear Static | E-X | 0,3
+E-Y_sls | | | Linear Static | E-Z | 0,3
+SLS_Eq. 3a | Linear Add | No | Response Combo | E+X_sls | 1
+SLS_Eq. 3a | | | Linear Static | Dead Load | 1
+SLS_Eq. 3b | Linear Add | No | Response Combo | E-X_sls | 1
+SLS_Eq. 3b | | | Linear Static | Dead Load | 1
+SLS_Eq. 3c | Linear Add | No | Response Combo | E+Y_sls | 1
+SLS_Eq. 3c | | | Linear Static | Dead Load | 1
+SLS_Eq. 3d | Linear Add | No | Response Combo | E-Y_sls | 1
+SLS_Eq. 3d | | | Linear Static | Dead Load | 1
+SLS_Eq. 4a | Linear Add | No | Linear Static | Dead Load | 1
+SLS_Eq. 4a | | | Response Combo | E+X_sls | 1
+SLS_Eq. 4a | | | Linear Static | Live load (Water) | 1
+SLS_Eq. 4b | Linear Add | No | Linear Static | Dead Load | 1
+SLS_Eq. 4b | | | Response Combo | E-X_sls | 1
+SLS_Eq. 4b | | | Linear Static | Live load (Water) | 1
+SLS_Eq. 4c | Linear Add | No | Linear Static | Dead Load | 1
+SLS_Eq. 4c | | | Response Combo | E+Y_sls | 1
+SLS_Eq. 4c | | | Linear Static | Live load (Water) | 1
+SLS_Eq. 4d | Linear Add | No | Linear Static | Dead Load | 1
+SLS_Eq. 4d | | | Response Combo | E-Y_sls | 1
+SLS_Eq. 4d | | | Linear Static | Live load (Water) | 1
+SLS_Eq. 5 | Linear Add | No | Linear Static | Dead Load | 1
+SLS_Eq. 5 | | | Linear Static | Live load (Water) | 1
+SLS_ENV | Envelope | No | Response Combo | SLS_Eq. 1 | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 2 | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 3a | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 3b | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 3c | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 3d | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 4a | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 4b | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 4c | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 4d | 1
+SLS_ENV | | | Response Combo | SLS_Eq. 5 | 1
+TABLE: Joint Coordinates | TABLE: Joint Coordinates | TABLE: Joint Coordinates | | | 
+Joint | CoordSys | CoordType | XorR | Y | Z
+Text | Text | Text | ft | ft | ft
+3 | GLOBAL | Cartesian | 6,56 | 7,55 | -10,50
+4 | GLOBAL | Cartesian | 6,56 | 11,81 | -10,50
+7 | GLOBAL | Cartesian | 14,11 | 11,81 | -10,50
+8 | GLOBAL | Cartesian | 14,11 | 7,55 | -10,50
+11 | GLOBAL | Cartesian | 6,56 | 7,55 | -8,37
+12 | GLOBAL | Cartesian | 6,56 | 11,81 | -8,37
+13 | GLOBAL | Cartesian | 14,11 | 11,81 | -8,37
+14 | GLOBAL | Cartesian | 14,11 | 7,55 | -8,37
+263 | GLOBAL | Cartesian | 6,56 | 7,55 | -7,09
+264 | GLOBAL | Cartesian | 6,56 | 11,81 | -7,09
+265 | GLOBAL | Cartesian | 14,11 | 11,81 | -7,09
+266 | GLOBAL | Cartesian | 14,11 | 7,55 | -7,09
+267 | GLOBAL | Cartesian | 6,56 | 6,73 | -7,09
+268 | GLOBAL | Cartesian | 6,56 | 12,63 | -7,09
+269 | GLOBAL | Cartesian | 14,11 | 12,63 | -7,09
+270 | GLOBAL | Cartesian | 14,11 | 6,73 | -7,09
+TABLE: Connectivity - Frame | TABLE: Connectivity - Frame | TABLE: Connectivity - Frame | TABLE: Connectivity - Frame | | | | 
+Frame | JointI | JointJ | IsCurved | Length | CentroidX | CentroidY | CentroidZ
+Text | Text | Text | Yes/No | m | m | m | m
+1 | 267 | 263 | No | 0,25 | 2 | 2,175 | -2,16
+3 | 263 | 264 | No | 1,3 | 2 | 2,95 | -2,16
+4 | 264 | 268 | No | 0,25 | 2 | 3,725 | -2,16
+5 | 269 | 265 | No | 0,25 | 4,3 | 3,725 | -2,16
+6 | 12 | 13 | No | 2,3 | 3,15 | 3,6 | -2,55
+8 | 14 | 11 | No | 2,3 | 3,15 | 2,3 | -2,55
+9 | 3 | 263 | No | 1,04 | 2 | 2,3 | -2,68
+10 | 4 | 264 | No | 1,04 | 2 | 3,6 | -2,68
+12 | 265 | 266 | No | 1,3 | 4,3 | 2,95 | -2,16
+13 | 7 | 265 | No | 1,04 | 4,3 | 3,6 | -2,68
+14 | 8 | 266 | No | 1,04 | 4,3 | 2,3 | -2,68
+15 | 266 | 270 | No | 0,25 | 4,3 | 2,175 | -2,16
+TABLE: Steel Design 2 - PMM Details - AISC 360-10 | TABLE: Steel Design 2 - PMM Details - AISC 360-10 | TABLE: Steel Design 2 - PMM Details - AISC 360-10 | TABLE: Steel Design 2 - PMM Details - AISC 360-10 | TABLE: Steel Design 2 - PMM Details - AISC 360-10 | | | | | | | 
+Frame | DesignSect | DesignType | Status | Combo | Location | Pr | MrMajor | MrMinor | VrMajor | VrMinor | TotalRatio
+Text | Text | Text | Text | Text | in | Lb | Lb-in | Lb-in | Lb | Lb | Unitless
+6 | W8x18 | Beam | No Messages | DSTL3 | 90,55 | -31,54 | -19967,56 | 0,00 | 511,62 | 0,00 | 2,66%
+8 | W8x18 | Beam | No Messages | DSTL4 | 90,55 | -31,54 | -19967,56 | 0,00 | 511,62 | 0,00 | 2,66%
+9 | W8x18 | Column | No Messages | DSTL3 | 25,59 | -8629,44 | 10783,27 | -11504,82 | -664,27 | -749,29 | 8,86%
+10 | W8x18 | Column | No Messages | DSTL4 | 25,59 | -8629,44 | -10783,27 | 11504,82 | 664,27 | 749,29 | 8,86%
+13 | W8x18 | Column | No Messages | DSTL3 | 25,59 | -8629,44 | -10783,27 | -11504,82 | 664,27 | -749,29 | 8,86%
+14 | W8x18 | Column | No Messages | DSTL3 | 25,59 | -8629,44 | 10783,27 | -11504,82 | -664,27 | -749,29 | 8,86%
+1 | W10x49 | Beam | No Messages | DSTL1 | 9,84 | 0,00 | -272,58 | 0,00 | 55,39 | 0,00 | 0,01%
+3 | W10x49 | Beam | No Messages | ULS_Eq. 4 | 17,06 | -851,33 | 97436,43 | 0,00 | -3651,47 | 0,00 | 3,73%
+4 | W10x49 | Beam | No Messages | DSTL1 | 0,00 | 0,00 | -272,58 | 0,00 | -55,39 | 0,00 | 0,01%
+5 | W10x49 | Beam | No Messages | DSTL1 | 9,84 | 0,00 | -272,58 | 0,00 | 55,39 | 0,00 | 0,01%
+12 | W10x49 | Beam | No Messages | ULS_Eq. 4 | 17,06 | -851,33 | 97436,43 | 0,00 | -3651,47 | 0,00 | 3,73%
+15 | W10x49 | Beam | No Messages | DSTL1 | 0,00 | 0,00 | -272,58 | 0,00 | -55,39 | 0,00 | 0,01%
+TABLE: Joint Displacements | TABLE: Joint Displacements | TABLE: Joint Displacements | | | | | | | 
+Joint | OutputCase | CaseType | StepType | U1 | U2 | U3 | R1 | R2 | R3
+Text | Text | Text | Text | in | in | in | Radians | Radians | Radians
+3 | SLS_ENV | Combination | Max | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+3 | SLS_ENV | Combination | Min | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+4 | SLS_ENV | Combination | Max | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+4 | SLS_ENV | Combination | Min | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+7 | SLS_ENV | Combination | Max | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+7 | SLS_ENV | Combination | Min | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+8 | SLS_ENV | Combination | Max | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+8 | SLS_ENV | Combination | Min | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000
+11 | SLS_ENV | Combination | Max | 0,005 | 0,002 | -0,001 | 0,000 | 0,000 | 0,000
+11 | SLS_ENV | Combination | Min | -0,005 | -0,003 | -0,001 | 0,000 | 0,000 | 0,000
+12 | SLS_ENV | Combination | Max | 0,005 | 0,003 | -0,001 | 0,000 | 0,000 | 0,000
+12 | SLS_ENV | Combination | Min | -0,005 | -0,002 | -0,001 | 0,000 | 0,000 | 0,000
+13 | SLS_ENV | Combination | Max | 0,005 | 0,003 | -0,001 | 0,000 | 0,000 | 0,000
+13 | SLS_ENV | Combination | Min | -0,005 | -0,002 | -0,001 | 0,000 | 0,000 | 0,000
+14 | SLS_ENV | Combination | Max | 0,005 | 0,002 | -0,001 | 0,000 | 0,000 | 0,000
+14 | SLS_ENV | Combination | Min | -0,005 | -0,003 | -0,001 | 0,000 | 0,000 | 0,000
+263 | SLS_ENV | Combination | Max | 0,010 | 0,003 | -0,001 | 0,000 | 0,000 | 0,000
+263 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,002 | 0,000 | 0,000 | 0,000
+264 | SLS_ENV | Combination | Max | 0,010 | 0,003 | -0,001 | 0,000 | 0,000 | 0,000
+264 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,002 | 0,000 | 0,000 | 0,000
+265 | SLS_ENV | Combination | Max | 0,010 | 0,003 | -0,001 | 0,000 | 0,000 | 0,000
+265 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,002 | 0,000 | 0,000 | 0,000
+266 | SLS_ENV | Combination | Max | 0,010 | 0,003 | -0,001 | 0,000 | 0,000 | 0,000
+266 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,002 | 0,000 | 0,000 | 0,000
+267 | SLS_ENV | Combination | Max | 0,010 | 0,003 | 0,000 | 0,000 | 0,000 | 0,000
+267 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,001 | 0,000 | 0,000 | 0,000
+268 | SLS_ENV | Combination | Max | 0,010 | 0,003 | 0,000 | 0,000 | 0,000 | 0,000
+268 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,001 | 0,000 | 0,000 | 0,000
+269 | SLS_ENV | Combination | Max | 0,010 | 0,003 | 0,000 | 0,000 | 0,000 | 0,000
+269 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,001 | 0,000 | 0,000 | 0,000
+270 | SLS_ENV | Combination | Max | 0,010 | 0,003 | 0,000 | 0,000 | 0,000 | 0,000
+270 | SLS_ENV | Combination | Min | -0,010 | -0,003 | -0,001 | 0,000 | 0,000 | 0,000
+TABLE: Joint Reactions | TABLE: Joint Reactions | TABLE: Joint Reactions | | | | | | | 
+Joint | OutputCase | CaseType | StepType | F1 | F2 | F3 | M1 | M2 | M3
+Text | Text | Text | Text | Lb | Lb | Lb | Lb-in | Lb-in | Lb-in
+3 | ULS_ENV | Combination | Max | 524,76 | 1030,94 | 11178,58 | 8657,95 | 7711,98 | 0,00
+3 | ULS_ENV | Combination | Min | -474,30 | -223,21 | 2897,46 | -16215,98 | -7320,37 | 0,00
+4 | ULS_ENV | Combination | Max | 524,76 | 223,21 | 11178,58 | 16215,98 | 7711,98 | 0,00
+4 | ULS_ENV | Combination | Min | -474,30 | -1030,94 | 2897,46 | -8657,95 | -7320,37 | 0,00
+7 | ULS_ENV | Combination | Max | 474,30 | 223,21 | 11178,58 | 16215,98 | 7320,37 | 0,00
+7 | ULS_ENV | Combination | Min | -524,76 | -1030,94 | 2897,46 | -8657,95 | -7711,98 | 0,00
+8 | ULS_ENV | Combination | Max | 474,30 | 1030,94 | 11178,58 | 8657,95 | 7320,37 | 0,00
+8 | ULS_ENV | Combination | Min | -524,76 | -223,21 | 2897,46 | -16215,98 | -7711,98 | 0,00

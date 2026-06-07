@@ -1,0 +1,63 @@
+{
+  "id": "9116354b3e539b17",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0004-GAR_REV 0_Hydraulic Test Procedure.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 322662,
+  "size_human": "315 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-INS-LOI-039-062-0004-GAR REV 0 Hydraulic Test Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0004",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12584,
+  "token_estimate": 3146,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/9116354b3e539b17.json",
+  "extracted_path": ".yeyo-memory/extracted/9116354b3e539b17.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20161206125008+01'00'",
+      "ModDate": "D:20170222183300+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.958587+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::311",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 311,
+        "doc_code": "4521-INS-LOI-039-062-0004",
+        "title": "HYDRAULIC TEST PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::311",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 311,
+        "doc_code": "4521-INS-LOI-039-062-0004",
+        "title": "HYDRAULIC TEST PROCEDURE",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-12-07 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:58.958589+00:00"
+}

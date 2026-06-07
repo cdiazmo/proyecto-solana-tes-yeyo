@@ -1,0 +1,33 @@
+{
+  "id": "8faa58e8c0e1e1e6",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS18.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 47275,
+  "size_human": "46 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-SS18",
+  "doc_code": "4521-ESP-ANC-68-61-SS18",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5660,
+  "token_estimate": 1415,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/8faa58e8c0e1e1e6.json",
+  "extracted_path": ".yeyo-memory/extracted/8faa58e8c0e1e1e6.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110816083823-05'00'",
+      "ModDate": "D:20110816083823-05'00'",
+      "Title": "4521-ESP-ANC-68-61-SS18",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "mdreim",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.728788+00:00"
+}

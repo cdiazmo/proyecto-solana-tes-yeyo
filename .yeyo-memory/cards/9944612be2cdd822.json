@@ -1,0 +1,31 @@
+{
+  "id": "9944612be2cdd822",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/1950201-PPS-001.00_Painting procedure.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 139972,
+  "size_human": "137 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-PPS-001.00 Painting procedure",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11106,
+  "token_estimate": 2776,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/9944612be2cdd822.json",
+  "extracted_path": ".yeyo-memory/extracted/9944612be2cdd822.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Author": "María Gracia Torras Rodríguez",
+      "CreationDate": "D:20200901152622+02'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "ModDate": "D:20200901152622+02'00'",
+      "Producer": "Adobe PDF Library 15.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:30.115856+00:00"
+}

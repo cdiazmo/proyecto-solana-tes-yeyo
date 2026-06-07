@@ -1,0 +1,37 @@
+{
+  "id": "68577b702b9fd98e",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-PLN-DOT-75-63-0200.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 203139,
+  "size_human": "198 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-DOT-75-63-0200",
+  "doc_code": "4521-PLN-DOT-75-63-0200",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3628,
+  "token_estimate": 907,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/68577b702b9fd98e.json",
+  "extracted_path": ".yeyo-memory/extracted/68577b702b9fd98e.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20180824090839Z",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20180824155607-05'00'",
+      "Producer": "pdfplot11.hdi 11.0.204.0",
+      "Title": "General_Notes 2"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Soporte de tuberia MS",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:57.005817+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:57.005821+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ce768f40e802e20e",
+  "path": "11 Sal de Solana y Corrosion/ESTUDIO DE CORROSIÓN DE 2 ABG/REPORT 068980-Corrosion study on A516Gr70 steel coupons (00000002).pdf",
+  "top_dir": "11 Sal de Solana y Corrosion",
+  "ext": "pdf",
+  "size_bytes": 1650261,
+  "size_human": "1.6 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "REPORT 068980-Corrosion study on A516Gr70 steel coupons (00000002)",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13336,
+  "token_estimate": 3334,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/ce768f40e802e20e.json",
+  "extracted_path": ".yeyo-memory/extracted/ce768f40e802e20e.txt",
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "Author": "107310",
+      "CreationDate": "D:20170926164315+02'00'",
+      "Creator": "Microsoft® Word 2010",
+      "ModDate": "D:20180206172815Z",
+      "Producer": "PSPDFKit",
+      "Title": "CLIENTE //"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.365458+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.365460+00:00"
+}

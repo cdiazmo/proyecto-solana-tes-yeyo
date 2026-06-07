@@ -1,0 +1,1767 @@
+[page 1]
+Sheet 1 of 21
+RFQ No.:
+Instrument Specification Job: 120006 Spec No.:
+Item No.: No. Req'd:
+Project: Solana
+Ref.: Issue: 2 Dated:
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be 
+included on all pages.
+2. Revisions are identified in the body of the Specification. 
+2 JHR PQJ
+1 JHR PQJ
+0 CLR PQJ
+No. Chk'd App'd App'd Description
+PGV
+Information and knowDhow hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of 
+a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part 
+including shop drawings shall bear this stamp.
+Specification Form D Solana (Rev. 3/2011)
+EC-98
+Multipoint Temperature Element - RTDs
+July/01/2011 PGV For bid
+Date By
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written 
+description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction 
+Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on 
+request.
+Jan/16/2012 PGV For purchase
+Aug/22/2011 PGV
+PQJ
+For bid
+1 Aug/22/2011 PGV JHR PQJ For bid
+2 Jan/16/2012
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Molten Salt Services
+Jan/16/2012
+Instructions:
+4521-ESP-AGE-39-70-0001
+JHR PQJ For purchase
+Rev. Description of Revision
+For bid
+No. Date By Chk’d App’d with Page Numbers
+0 July/01/2011 PGV CLR
+
+[page 2]
+Sheet 2 of 21
+RFQ No.:
+Job: 120006 Spec No.: 4521-ESP-AGE-39-70-0001
+Item No.: No. Req'd:
+Project: Solana
+Ref.: Issue: 2 Dated:
+2 Jan/16/2012 JHR PQJ
+1 Aug/22/2011 JHR PQJ
+0 July/01/2011 CLR PQJ
+No. Date Chk'd App'd App'd Description
+Specification Form D Solana (Rev. 3/2011)
+EC-98
+Information and knowDhow hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a 
+contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including 
+shop drawings shall bear this stamp.
+Multipoint Temperature Element - RTDs
+1. General 
+1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 
+1.2 Definitions
+1.2.1 "Supplier" shall mean the instrument supply company chosen for the project.
+1.2.2 "Customer" shall mean Abener Teyma.
+1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable).
+1.2.4 "Owner" shall mean Abengoa Solar Inc.
+1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these specifications. Any 
+specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are considered "Contract 
+Documents".
+1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work described 
+unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., are addressed 
+solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically identified.
+1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier.
+2. Scope
+2.1 Scope of this contract is supply of instruments as outlined in the following engineering specifications required for the project including all cables, 
+gasket, manifolds … etc as identified in the main specification as options or accessories. Shipping schedule to be confirm with purchasing during the final 
+commercial agreement
+2.2 Packaging D To be defined later.
+2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later.
+2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify Supplier of 
+material required on an as needed basis. Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in order to reduce 
+transportation costs.
+2.5 The following items are excluded from this subcontract:
+" 
+" 
+" 
+2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available for 
+update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and document all 
+material within the scope of this contract.
+PGV For bid
+PGV For bid
+By
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description 
+of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General 
+Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+PGV For purchase
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Instrument Specification
+Molten Salt Services
+Jan/16/2012
+
+[page 3]
+Sheet 3 of 21
+RFQ No.:
+Job: 120006 Spec No.: 4521-ESP-AGE-39-70-0001
+Item No.: No. Req'd:
+Project: Solana
+Ref.: Issue: 2 Dated:
+2 Jan/16/2012 JHR PQJ
+1 Aug/22/2011 JHR PQJ
+0 July/01/2011 CLR PQJ
+No. Date Chk'd App'd App'd Description
+Specification Form D Solana (Rev. 3/2011)
+EC-98
+Information and knowDhow hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a 
+contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including 
+shop drawings shall bear this stamp.
+Multipoint Temperature Element - RTDs
+3. Quality
+3.1 All material shall be supplied to meet all dimensional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc standards 
+listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense.
+Notice: 
+o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data requirements 
+reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing number of weeks 
+after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid.
+o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received.
+o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later.
+o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized, the best estimated shipping date and 
+quantity: Monthy shipping of 1 set of multipoint RTDs of cold salt tank (cold salt tank #1 set contains 
+33 33 RTDs: TE 1D251D03A, TE 1D251D03B &TE 1D251D
+03C) and 1 set of multipoint RTDs of hot salt tank (hot salt tank #1 set contains 33 33 RTDs: TE 1D252D03A, TE 1D252D03B & TE 1D252D03C) starting March D 
+2012, the second set of RTDs multipoint for pair of salt tank #2 (TE 2D251D03A, TE 2D251D03B & TE 2D251D03C) and (TE 2D252D03A, TE 2D252D03B & TE 2D
+252D03C) to be delivered in the following month: AprilD 2012 ....etc). In short monthly shipment is 6 units to be delivered to job site.
+o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is required. 
+Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need this information 
+with the quotation, in order for our client to have spares available during startDup and to take advantage of any economies available.
+o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by Abener 
+Teyma personnel prior to shipment to assure compliance with specifications.
+o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick Carlton, eD
+mail rick.carlton@abener.abengoa.com at (314) 275D1323 for details.
+o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in physical 
+dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or maintenance cost 
+and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate and price and delivery for 
+that alternate. The purchase will, in general, be made on a basis of adherence to the original design premise, economic value, and best delivery.
+o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as 
+meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed corrections, 
+changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must request clarification. 
+Give priority to pricing standard equipment and components.
+o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply:
+o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided 
+against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage.
+o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation.
+PGV For Bid
+PGV For Bid
+By
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description 
+of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General 
+Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+PGV For Purchase
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Instrument Specification
+Molten Salt Services
+Jan/16/2012
+
+[page 4]
+Revision
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 4 of 21
+Document Nº: Rev.: 2
+20 SingleDPoint RTD Sketch2 D (NEW)
+16 Instrument Specification D Multipoint RTD List D Salt Tanks D Hot 
+Tank List 5
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot 
+Tank List 415
+18 MultiDPoint RTD Sketch
+19
+Instrument Specification D Molten Salt Services D Single Point 
+Temperature Element RTD (NEW) 
+17 Instrument Specification D Multipoint RTD List D Salt Tanks D Hot 
+Tank List 6
+8 Instrument Specification D Multipoint RTD List D Salt Tanks DCold 
+Tank List 3
+10 Instrument Specification D Multipoint RTD List D Salt Tanks D Cold 
+Tank List 5
+14
+9 Instrument Specification D Multipoint RTD List D Salt Tanks D Cold 
+Tank List 4
+11
+12
+13
+Instrument Specification D Multipoint RTD List D Salt Tanks DCold 
+Tank List 6
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot 
+Tank List 1
+1 Cover
+5
+Instrument Specification D Molten Salt Services D Temperature 
+Elemets Multipoint RTD 
+Revision 4521DESPDAGED39D70D0001
+ABENGOA SOLAR
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+For purchase
+For bid
+For bid
+Solana power plant Description
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot 
+Tank List 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot 
+Tank List 3
+2 General notes and instructions
+21 Instrument Specification D Single Point RTD D Hot & Cold Salt 
+Tanks D List (NEW) 
+3 General notes and instructions
+4 Index
+7
+Instrument Specification D Multipoint RTD List D Salt Tanks D Cold 
+Tank List 2
+6 Instrument Specification D Multipoint RTD List D Salt Tanks D Cold 
+Tank List 1
+Sheet Title
+
+[page 5]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22 Cover / Size Screw Junction Box Size: Per vendor
+23 Sensor end connection 1 D 1/2" NPT
+24 Assembly connection 3/4" NPT
+25 Terminal block NA, See Note 2NA, See Note 2NA, See Note 2NA, See Note 2
+26 Assembly type NippleDUnionDNipple
+27 Assembly length (N dim) See Multi Point Sketch D Attached D Note
+28 Nipple & union material Galvanized SteelGalvanized SteelGalvanized SteelGalvanized Steel
+29 Head material NANA NANA
+30 Punched out holes Yes
+31 Enclosure Protection NEMA 4NEMA 4NEMA 4NEMA 4
+32 Electrical Connection sizeLater
+33 Hazardous area ClassificationClass I, Div. 2
+34
+35
+36
+37
+Notes: Notes: Notes: Notes: 
+1. * The design is for dual RTD configuration (spare RTDs) or 8 RTD cables for each The design is for dual RTD configuration (spare RTDs) or 8 RTD cables for each The design is for dual RTD configuration (spare RTDs) or 8 RTD cables for each The design is for dual RTD configuration (spare RTDs) or 8 RTD cables for each 
+multipoint assembly, cables to be coiled in size of junction box with cable length multipoint assembly, cables to be coiled in size of junction box with cable length multipoint assembly, cables to be coiled in size of junction box with cable length multipoint assembly, cables to be coiled in size of junction box with cable length 
+required to be 32 feet long. required to be 32 feet long. required to be 32 feet long. required to be 32 feet long. 
+2. * Junction box for multipoint RTD is NOT intended for field wiring termination.Junction box for multipoint RTD is NOT intended for field wiring termination.Junction box for multipoint RTD is NOT intended for field wiring termination.Junction box for multipoint RTD is NOT intended for field wiring termination.
+* Box is planned to be used for: Holding cables during shipping and holding spare Box is planned to be used for: Holding cables during shipping and holding spare Box is planned to be used for: Holding cables during shipping and holding spare Box is planned to be used for: Holding cables during shipping and holding spare 
+cables after the initial installations.cables after the initial installations.cables after the initial installations.cables after the initial installations.
+3. * See document 4521DESPDAGED39D70D0019 for tag list of individual RTD elements andSee document 4521DESPDAGED39D70D0019 for tag list of individual RTD elements andSee document 4521DESPDAGED39D70D0019 for tag list of individual RTD elements andSee document 4521DESPDAGED39D70D0019 for tag list of individual RTD elements and
+juntion box numbersjuntion box numbersjuntion box numbersjuntion box numbers
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 5 of 21
+Document Nº: Rev.: 2
+NoneNoneNoneNone
+NANA NANA
+4" RJSO Flanged D Class 300
+Coating
+Insertion length 
+Internal Connection
+Treatments 
+Construction Type
+Single or dual
+Material
+Material
+Process Connection
+Overall Length 
+ Finish
+Identification tag plate
+Indicator No NA
+Manufacturer
+Indicator Scale
+Junction box # / Individual tags: See notes 1 & 2Junction box # / Individual tags: See notes 1 & 2Junction box # / Individual tags: See notes 1 & 2Junction box # / Individual tags: See notes 1 & 2
+Head:
+KrohneKrohneKrohneKrohne
+Solana power plant
+4521DESPDAGED39D70D0001
+Description
+LaterLaterLaterLater
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Revision
+For bid
+For PurchaseD Change as NotedNotedNotedNoted
+For bid
+Manufacturer Data
+Model
+Accessories
+See MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint Lists
+Molten SaltMolten SaltMolten SaltMolten Salt
+See MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint Lists
+Instrument Specification - Molten Salt Services - Multipoint Temperature Element - RTDs
+Fluid
+Quantity
+P&IDGeneral
+Tag Number
+Service
+Process conditions
+Tank
+Phase
+See MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint Lists
+See MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint Lists
+Design Temperature
+LiquidMolten Salt
+See MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint Lists
+Operating Pressure See MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint Lists
+Operating TemperatureSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint ListsSee MultiDPoint Lists
+Thermowell
+316 SS
+Carbon steel
+See Multi Point SketchSee Multi Point SketchSee Multi Point SketchSee Multi Point Sketch
+None
+Temperature sensor
+Accuracy PT100 D 4 wire RTD
+Flanged straight shank
+NANA NANA
+See Multi Point SketchSee Multi Point SketchSee Multi Point SketchSee Multi Point Sketch
+See Multi Point SketchSee Multi Point SketchSee Multi Point SketchSee Multi Point Sketch
+A
+Dual for each RTD ( 4 RTDs per multipoint )
+Extension
+Type
+
+[page 6]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P251 N9AN9A N9AN9A
+TE 1D251D03A1TE 1D251D03A1TE 1D251D03A1TE 1D251D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 1D251D03A2TE 1D251D03A2TE 1D251D03A2TE 1D251D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 1D251D03A3TE 1D251D03A3TE 1D251D03A3TE 1D251D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 1D251D03A4TE 1D251D03A4TE 1D251D03A4TE 1D251D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P251 N9BN9B N9BN9B
+TE 1D251D03B1TE 1D251D03B1TE 1D251D03B1TE 1D251D03B1 560 750 418 10.617 10.61710.61710.617
+TE 1D251D03B2TE 1D251D03B2TE 1D251D03B2TE 1D251D03B2 560 750 336 8.534 8.5348.5348.534
+TE 1D251D03B3TE 1D251D03B3TE 1D251D03B3TE 1D251D03B3 560 750 255 6,477 6,4776,4776,477
+TE 1D251D03B4TE 1D251D03B4TE 1D251D03B4TE 1D251D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P251 N9CN9C N9CN9C
+TE 1D251D03C1TE 1D251D03C1TE 1D251D03C1TE 1D251D03C1 560 750 418 10.617 10.61710.61710.617
+TE 1D251D03C2TE 1D251D03C2TE 1D251D03C2TE 1D251D03C2 560 750 336 8.534 8.5348.5348.534
+TE 1D251D03C3TE 1D251D03C3TE 1D251D03C3TE 1D251D03C3 560 750 255 6,477 6,4776,4776,477
+TE 1D251D03C4TE 1D251D03C4TE 1D251D03C4TE 1D251D03C4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P251 N9C
+1DTED251D03D1 560 750 418
+1DTED251D03D2 560 750 336
+1DTED251D03D3 560 750 255
+1DTED251D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 6 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Element "H" 
+Dim. Length
+Instrument Specification D Multipoint RTD List D Salt Tanks D Cold Tank List #1
+Temperature Cold Salt Tank 
+0 Deg Position D @ 50% Level
+Temperature Cold Salt Tank 
+0 Deg Position D @ 100% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 100% Level
+Temperature Cold Salt Tank 
+0 Deg Position D @ 10% Level
+Temperature Cold Salt Tank 
+0 Deg Position D @ 30% Level
+Instrument Tags
+TE 1D251D03ATE 1D251D03ATE 1D251D03ATE 1D251D03A
+Service
+Temperature Cold Salt Tank 
+250 Degrees 250 Degrees 250 Degrees 250 Degrees Position
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+135 Degrees135 Degrees135 Degrees135 Degrees Position
+Temperature Cold Salt Tank 
+15 Degrees15 Degrees15 Degrees15 Degrees Position
+Cold Tank - TES-1
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+250 Deg.Position 250 Deg.Position 250 Deg.Position 250 Deg.Position D @ 100% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 30% Level
+TE 1D251D03BTE 1D251D03BTE 1D251D03BTE 1D251D03B
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 100% Level
+Revision Document Nº:
+TE 1D251D03CTE 1D251D03CTE 1D251D03CTE 1D251D03C
+1DTED251D03D Temperature Cold Salt Tank 
+270 Degrees Position
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 50% Level
+ABENGOA SOLAR
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 30% Level
+ABENER TEYMA
+SOLANA
+AG 
+ENGINEERING
+Solana power plant
+Description
+For PurchaseD Change as NotedNotedNotedNoted
+For bid
+For bid
+ (In) (m)
+
+[page 7]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P251 N9AN9A N9AN9A
+TE 2D251D03A1TE 2D251D03A1TE 2D251D03A1TE 2D251D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 2D251D03A2TE 2D251D03A2TE 2D251D03A2TE 2D251D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 2D251D03A3TE 2D251D03A3TE 2D251D03A3TE 2D251D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 2D251D03A4TE 2D251D03A4TE 2D251D03A4TE 2D251D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P251 N9BN9B N9BN9B
+TE 2D251D03B1TE 2D251D03B1TE 2D251D03B1TE 2D251D03B1 560 750 418 10.617 10.61710.61710.617
+TE 2D251D03B2TE 2D251D03B2TE 2D251D03B2TE 2D251D03B2 560 750 336 8.534 8.5348.5348.534
+TE 2D251D03B3TE 2D251D03B3TE 2D251D03B3TE 2D251D03B3 560 750 255 6,477 6,4776,4776,477
+TE 2D251D03B4TE 2D251D03B4TE 2D251D03B4TE 2D251D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P251 N9CN9C N9CN9C
+TE 2D251D03C1TE 2D251D03C1TE 2D251D03C1TE 2D251D03C1 560 750 418 10.617 10.61710.61710.617
+TE 2D251D03C2TE 2D251D03C2TE 2D251D03C2TE 2D251D03C2 560 750 336 8.534 8.5348.5348.534
+TE 2D251D03C3TE 2D251D03C3TE 2D251D03C3TE 2D251D03C3 560 750 255 6,477 6,4776,4776,477
+TE 2D251D03C4TE 2D251D03C4TE 2D251D03C4TE 2D251D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP251N9C
+2DTED251D03D1 560 750 418
+2DTED251D03D2 560 750 336
+2DTED251D03D3 560 750 255
+2DTED251D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 7 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Cold Tank List #2
+Instrument Tags Service
+TE 2D251D03ATE 2D251D03ATE 2D251D03ATE 2D251D03A Temperature Cold Salt Tank 
+250 Degrees 250 Degrees 250 Degrees 250 Degrees Position
+Cold Tank - TES-2
+Element "H" 
+Dim. Length
+ (In) (m)
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+250 Deg.Position 250 Deg.Position 250 Deg.Position 250 Deg.Position D @ 100% Level
+TE 2D251D03BTE 2D251D03BTE 2D251D03BTE 2D251D03B Temperature Cold Salt Tank 
+135 Degrees135 Degrees135 Degrees135 Degrees Position
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 100% Level
+TE 2D251D03CTE 2D251D03CTE 2D251D03CTE 2D251D03C Temperature Cold Salt Tank 
+15 Degrees15 Degrees15 Degrees15 Degrees Position
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 100% Level
+2DTED251D03D Temperature Cold Salt Tank Temperature D 270 
+Degrees Position
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Revision Document Nº:
+Description
+For bid
+For PurchaseD Change as NotedNotedNotedNoted
+For bid
+ABENER TEYMA
+SOLANA
+AG 
+ENGINEERING
+Solana power plant
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+ABENGOA SOLAR
+
+[page 8]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P251 N9A N9A N9AN9A
+TE 3D251D03A1TE 3D251D03A1TE 3D251D03A1TE 3D251D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 3D251D03A2TE 3D251D03A2TE 3D251D03A2TE 3D251D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 3D251D03A3TE 3D251D03A3TE 3D251D03A3TE 3D251D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 3D251D03A4TE 3D251D03A4TE 3D251D03A4TE 3D251D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P251 N9B N9B N9BN9B
+TE 3D251D03B1TE 3D251D03B1TE 3D251D03B1TE 3D251D03B1 560 750 418 10.617 10.61710.61710.617
+TE 3D251D03B2TE 3D251D03B2TE 3D251D03B2TE 3D251D03B2 560 750 336 8.534 8.5348.5348.534
+TE 3D251D03B3TE 3D251D03B3TE 3D251D03B3TE 3D251D03B3 560 750 255 6,477 6,4776,4776,477
+TE 3D251D03B4TE 3D251D03B4TE 3D251D03B4TE 3D251D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P251 N9CN9C N9CN9C
+TE 3D251D03C1TE 3D251D03C1TE 3D251D03C1TE 3D251D03C1 560 750 418 10.617 10.61710.61710.617
+TE 3D251D03C2TE 3D251D03C2TE 3D251D03C2TE 3D251D03C2 560 750 336 8.534 8.5348.5348.534
+TE 3D251D03C3TE 3D251D03C3TE 3D251D03C3TE 3D251D03C3 560 750 255 6,477 6,4776,4776,477
+TE 3D251D03C4TE 3D251D03C4TE 3D251D03C4TE 3D251D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP251N9C
+3DTED251D03D1 560 750 418
+3DTED251D03D2 560 750 336
+3DTED251D03D3 560 750 255
+3DTED251D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 8 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Cold Tank List #3
+Element "H" 
+Dim. Length
+Cold Tank - TES-3
+Instrument Tags Service
+ (In) (m)
+TE 3D251D03ATE 3D251D03ATE 3D251D03ATE 3D251D03A Temperature Cold Salt Tank 
+250 Degrees 250 Degrees 250 Degrees 250 Degrees Position
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+250 Deg.Position 250 Deg.Position 250 Deg.Position 250 Deg.Position D @ 100% Level
+TE 3D251D03BTE 3D251D03BTE 3D251D03BTE 3D251D03B Temperature Cold Salt Tank 
+135 Degrees135 Degrees135 Degrees135 Degrees Position
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 100% Level
+TE 3D251D03CTE 3D251D03CTE 3D251D03CTE 3D251D03C Temperature Cold Salt Tank 
+15 Degrees15 Degrees15 Degrees15 Degrees Position
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 100% Level
+3DTED251D03D Temperature Cold Salt Tank Temperature D 270 
+Degrees Position
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Document Nº:
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Solana power plant
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+Revision
+Description
+For bid
+For PurchaseD Change as NotedNotedNotedNoted
+For bid
+
+[page 9]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P251 N9A N9A N9AN9A
+TE 4D251D03A1TE 4D251D03A1TE 4D251D03A1TE 4D251D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 4D251D03A2TE 4D251D03A2TE 4D251D03A2TE 4D251D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 4D251D03A3TE 4D251D03A3TE 4D251D03A3TE 4D251D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 4D251D03A4TE 4D251D03A4TE 4D251D03A4TE 4D251D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P251 N9B N9B N9BN9B
+TE 4D251D03B1TE 4D251D03B1TE 4D251D03B1TE 4D251D03B1 560 750 418 10.617 10.61710.61710.617
+TE 4D251D03B2TE 4D251D03B2TE 4D251D03B2TE 4D251D03B2 560 750 336 8.534 8.5348.5348.534
+TE 4D251D03B3TE 4D251D03B3TE 4D251D03B3TE 4D251D03B3 560 750 255 6,477 6,4776,4776,477
+TE 4D251D03B4TE 4D251D03B4TE 4D251D03B4TE 4D251D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P251 N9CN9C N9CN9C
+TE 4D251D03C1TE 4D251D03C1TE 4D251D03C1TE 4D251D03C1 560 750 418 10.617 10.61710.61710.617
+TE 4D251D03C2TE 4D251D03C2TE 4D251D03C2TE 4D251D03C2 560 750 336 8.534 8.5348.5348.534
+TE 4D251D03C3TE 4D251D03C3TE 4D251D03C3TE 4D251D03C3 560 750 255 6,477 6,4776,4776,477
+TE 4D251D03C4TE 4D251D03C4TE 4D251D03C4TE 4D251D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP251N9C
+4DTED251D03D1 560 750 418
+4DTED251D03D2 560 750 336
+4DTED251D03D3 560 750 255
+4DTED251D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 9 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Solana power plant
+ABENGOA SOLAR
+Temperature Cold Salt Tank 
+135 Degrees135 Degrees135 Degrees135 Degrees Position
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 100% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 50% Level
+Description
+For bid
+For PurchaseD Change as NotedNotedNotedNoted
+For bid
+ (In)
+Revision Document Nº:
+Cold Tank - TES-4
+TE 4D251D03ATE 4D251D03ATE 4D251D03ATE 4D251D03A Temperature Cold Salt Tank 
+250 Degrees 250 Degrees 250 Degrees 250 Degrees Position
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+250 Deg.Position 250 Deg.Position 250 Deg.Position 250 Deg.Position D @ 100% Level
+TE 4D251D03BTE 4D251D03BTE 4D251D03BTE 4D251D03B
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+4DTED251D03D Temperature Cold Salt Tank Temperature D 270 
+Degrees Position
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+(m)
+Instrument Specification D Multipoint RTD List D Salt Tanks D Cold Tank List #4
+Element "H" 
+Dim. Length
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 100% Level
+TE 4D251D03CTE 4D251D03CTE 4D251D03CTE 4D251D03C Temperature Cold Salt Tank 
+15 Degrees15 Degrees15 Degrees15 Degrees Position
+Instrument Tags Service
+
+[page 10]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P251 N9A N9A N9AN9A
+TE 5D251D03A1TE 5D251D03A1TE 5D251D03A1TE 5D251D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 5D251D03A2TE 5D251D03A2TE 5D251D03A2TE 5D251D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 5D251D03A3TE 5D251D03A3TE 5D251D03A3TE 5D251D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 5D251D03A4TE 5D251D03A4TE 5D251D03A4TE 5D251D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P251 N9B N9B N9BN9B
+TE 5D251D03B1TE 5D251D03B1TE 5D251D03B1TE 5D251D03B1 560 750 418 10.617 10.61710.61710.617
+TE 5D251D03B2TE 5D251D03B2TE 5D251D03B2TE 5D251D03B2 560 750 336 8.534 8.5348.5348.534
+TE 5D251D03B3TE 5D251D03B3TE 5D251D03B3TE 5D251D03B3 560 750 255 6,477 6,4776,4776,477
+TE 5D251D03B4TE 5D251D03B4TE 5D251D03B4TE 5D251D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P251 N9CN9C N9CN9C
+TE 5D251D03C1TE 5D251D03C1TE 5D251D03C1TE 5D251D03C1 560 750 418 10.617 10.61710.61710.617
+TE 5D251D03C2TE 5D251D03C2TE 5D251D03C2TE 5D251D03C2 560 750 336 8.534 8.5348.5348.534
+TE 5D251D03C3TE 5D251D03C3TE 5D251D03C3TE 5D251D03C3 560 750 255 6,477 6,4776,4776,477
+TE 5D251D03C4TE 5D251D03C4TE 5D251D03C4TE 5D251D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP251N9C
+5DTED251D03D1 560 750 418
+5DTED251D03D2 560 750 336
+5DTED251D03D3 560 750 255
+5DTED251D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 10 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Element "H" 
+Dim. Length
+Instrument Specification D Multipoint RTD List D Salt Tanks D Cold Tank List #5
+ (In) (m)Cold Tank - TES-5
+Instrument Tags Service
+TE 5D251D03ATE 5D251D03ATE 5D251D03ATE 5D251D03A Temperature Cold Salt Tank 
+250 Degrees 250 Degrees 250 Degrees 250 Degrees Position
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+250 Deg.Position 250 Deg.Position 250 Deg.Position 250 Deg.Position D @ 100% Level
+TE 5D251D03BTE 5D251D03BTE 5D251D03BTE 5D251D03B Temperature Cold Salt Tank 
+135 Degrees135 Degrees135 Degrees135 Degrees Position
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 100% Level
+TE 5D251D03CTE 5D251D03CTE 5D251D03CTE 5D251D03C Temperature Cold Salt Tank 
+15 Degrees15 Degrees15 Degrees15 Degrees Position
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 100% Level
+Revision Document Nº:
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+5DTED251D03D Temperature Cold Salt Tank Temperature D 270 
+Degrees Position
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Solana power plant
+ABENGOA SOLAR
+For bid
+Description
+For PurchaseD Change as NotedNotedNotedNoted
+For bid
+
+[page 11]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P251 N9A N9A N9AN9A
+TE 6D251D03A1TE 6D251D03A1TE 6D251D03A1TE 6D251D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 6D251D03A2TE 6D251D03A2TE 6D251D03A2TE 6D251D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 6D251D03A3TE 6D251D03A3TE 6D251D03A3TE 6D251D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 6D251D03A4TE 6D251D03A4TE 6D251D03A4TE 6D251D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P251 N9B N9B N9BN9B
+TE 6D251D03B1TE 6D251D03B1TE 6D251D03B1TE 6D251D03B1 560 750 418 10.617 10.61710.61710.617
+TE 6D251D03B2TE 6D251D03B2TE 6D251D03B2TE 6D251D03B2 560 750 336 8.534 8.5348.5348.534
+TE 6D251D03B3TE 6D251D03B3TE 6D251D03B3TE 6D251D03B3 560 750 255 6,477 6,4776,4776,477
+TE 6D251D03B4TE 6D251D03B4TE 6D251D03B4TE 6D251D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P251 N9CN9C N9CN9C
+TE 6D251D03C1TE 6D251D03C1TE 6D251D03C1TE 6D251D03C1 560 750 418 10.617 10.61710.61710.617
+TE 6D251D03C2TE 6D251D03C2TE 6D251D03C2TE 6D251D03C2 560 750 336 8.534 8.5348.5348.534
+TE 6D251D03C3TE 6D251D03C3TE 6D251D03C3TE 6D251D03C3 560 750 255 6,477 6,4776,4776,477
+TE 6D251D03C4TE 6D251D03C4TE 6D251D03C4TE 6D251D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP251N9C
+6DTED251D03D1 560 750 418
+6DTED251D03D2 560 750 336
+6DTED251D03D3 560 750 255
+6DTED251D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 11 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Cold Tank - TES-6
+Instrument Specification D Multipoint RTD List D Salt Tanks D Cold Tank List #6
+Element "H" 
+Dim. Length
+ (In) (m)
+TE 6D251D03ATE 6D251D03ATE 6D251D03ATE 6D251D03A Temperature Cold Salt Tank 
+250 Degrees 250 Degrees 250 Degrees 250 Degrees Position
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+250 Deg.Position250 Deg.Position250 Deg.Position250 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+250 Deg.Position 250 Deg.Position 250 Deg.Position 250 Deg.Position D @ 100% Level
+TE 6D251D03BTE 6D251D03BTE 6D251D03BTE 6D251D03B Temperature Cold Salt Tank 
+135 Degrees135 Degrees135 Degrees135 Degrees Position
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 10% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 30% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 50% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 100% Level
+Temperature Cold Salt Tank 
+135 Deg.Position135 Deg.Position135 Deg.Position135 Deg.Position D @ 100% Level
+TE 6D251D03CTE 6D251D03CTE 6D251D03CTE 6D251D03C Temperature Cold Salt Tank 
+15 Degrees15 Degrees15 Degrees15 Degrees Position
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 10% Level
+Revision Document Nº:
+Instrument Tags Service
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+6DTED251D03D Temperature Cold Salt Tank Temperature D 270 
+Degrees Position
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Cold Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Cold Salt Tank 
+15 Deg.Position15 Deg.Position15 Deg.Position15 Deg.Position D @ 30% Level
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Solana power plant
+ABENGOA SOLAR
+For bid
+For bid
+Description
+For PurchaseD Change as NotedNotedNotedNoted
+
+[page 12]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P253 N9A N9A N9AN9A
+TE 1D252D03A1TE 1D252D03A1TE 1D252D03A1TE 1D252D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 1D252D03A2TE 1D252D03A2TE 1D252D03A2TE 1D252D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 1D252D03A3TE 1D252D03A3TE 1D252D03A3TE 1D252D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 1D252D03A4TE 1D252D03A4TE 1D252D03A4TE 1D252D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P253 N9B N9B N9BN9B
+TE 1D252D03B1TE 1D252D03B1TE 1D252D03B1TE 1D252D03B1 560 750 418 10.617 10.61710.61710.617
+TE 1D252D03B2TE 1D252D03B2TE 1D252D03B2TE 1D252D03B2 560 750 336 8.534 8.5348.5348.534
+TE 1D252D03B3TE 1D252D03B3TE 1D252D03B3TE 1D252D03B3 560 750 255 6,477 6,4776,4776,477
+TE 1D252D03B4TE 1D252D03B4TE 1D252D03B4TE 1D252D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P253 N9C N9C N9CN9C
+TE 1D252D03C1TE 1D252D03C1TE 1D252D03C1TE 1D252D03C1 560 750 418 10.617 10.61710.61710.617
+TE 1D252D03C2TE 1D252D03C2TE 1D252D03C2TE 1D252D03C2 560 750 336 8.534 8.5348.5348.534
+TE 1D252D03C3TE 1D252D03C3TE 1D252D03C3TE 1D252D03C3 560 750 255 6,477 6,4776,4776,477
+TE 1D252D03C4TE 1D252D03C4TE 1D252D03C4TE 1D252D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP253N9C
+1DTED252D03D1 560 750 418
+1DTED252D03D2 560 750 336
+1DTED252D03D3 560 750 255
+1DTED252D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 12 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot Tank List #1
+Instrument Tags Service
+Hot Tank - TES-1
+Temperature Hot Salt Tank 
+110 Degrees Position110 Degrees Position110 Degrees Position110 Degrees PositionTE 1D252D03ATE 1D252D03ATE 1D252D03ATE 1D252D03A
+Element "H" 
+Dim. Length
+ (In) (m)
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+110 Deg.Position 110 Deg.Position 110 Deg.Position 110 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 50% Level
+TE 1D252D03BTE 1D252D03BTE 1D252D03BTE 1D252D03B
+Temperature Hot Salt Tank 
+110 Deg.Position 110 Deg.Position 110 Deg.Position 110 Deg.Position D @ 100% Level
+Temperature Hot Salt Tank 
+225 Degrees Position225 Degrees Position225 Degrees Position225 Degrees Position
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 100% Level
+TE 1D252D03CTE 1D252D03CTE 1D252D03CTE 1D252D03C Temperature Hot Salt Tank 
+345 Degrees Position345 Degrees Position345 Degrees Position345 Degrees Position
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 30% Level
+1DTED252D03D
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 100% Level
+Temperature Hot Salt Tank Temperature D 270 
+Degrees Position
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Solana power plant
+Revision Document Nº:
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+ABENGOA SOLAR
+For bid
+Description
+For bid
+For PurchaseD Change as NotedNotedNotedNoted
+
+[page 13]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P253 N9A N9A N9AN9A
+2DTED252D03A12DTED252D03A12DTED252D03A12DTED252D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+2DTED252D03A22DTED252D03A22DTED252D03A22DTED252D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+2DTED252D03A32DTED252D03A32DTED252D03A32DTED252D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+2DTED252D03A42DTED252D03A42DTED252D03A42DTED252D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P253 N9B N9B N9BN9B
+2DTED252D03B12DTED252D03B12DTED252D03B12DTED252D03B1 560 750 418 10.617 10.61710.61710.617
+2DTED252D03B22DTED252D03B22DTED252D03B22DTED252D03B2 560 750 336 8.534 8.5348.5348.534
+2DTED252D03B32DTED252D03B32DTED252D03B32DTED252D03B3 560 750 255 6,477 6,4776,4776,477
+2DTED252D03B42DTED252D03B42DTED252D03B42DTED252D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P253 N9C N9C N9CN9C
+2DTED252D03C12DTED252D03C12DTED252D03C12DTED252D03C1 560 750 418 10.617 10.61710.61710.617
+2DTED252D03C22DTED252D03C22DTED252D03C22DTED252D03C2 560 750 336 8.534 8.5348.5348.534
+2DTED252D03C32DTED252D03C32DTED252D03C32DTED252D03C3 560 750 255 6,477 6,4776,4776,477
+2DTED252D03C42DTED252D03C42DTED252D03C42DTED252D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP253N9C
+2DTED252D03D1 560 750 418
+2DTED252D03D2 560 750 336
+2DTED252D03D3 560 750 255
+2DTED252D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 13 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot Tank List #2
+Instrument Tags Service
+Hot Tank - TES-2
+Element "H" 
+Dim. Length
+ (In) (m)
+TE 2D252D03ATE 2D252D03ATE 2D252D03ATE 2D252D03A Temperature Hot Salt Tank 
+110 Degrees Position110 Degrees Position110 Degrees Position110 Degrees Position
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 100% Level
+TE 2D252D03BTE 2D252D03BTE 2D252D03BTE 2D252D03B Temperature Hot Salt Tank 
+225 Degrees Position225 Degrees Position225 Degrees Position225 Degrees Position
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 100% Level
+TE 2D252D03CTE 2D252D03CTE 2D252D03CTE 2D252D03C Temperature Hot Salt Tank 
+345 Degrees Position345 Degrees Position345 Degrees Position345 Degrees Position
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 100% Level
+2DTED252D03D Temperature Hot Salt Tank Temperature D 270 
+Degrees Position
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+ABENGOA SOLAR
+Revision Document Nº:
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Solana power plant
+For bid
+Description
+For bid
+For PurchaseD Change as NotedNotedNotedNoted
+
+[page 14]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P253 N9AN9A N9AN9A
+TE 3D252D03A1TE 3D252D03A1TE 3D252D03A1TE 3D252D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 3D252D03A2TE 3D252D03A2TE 3D252D03A2TE 3D252D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 3D252D03A3TE 3D252D03A3TE 3D252D03A3TE 3D252D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 3D252D03A4TE 3D252D03A4TE 3D252D03A4TE 3D252D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P253 N9BN9B N9BN9B
+TE 3D252D03B1TE 3D252D03B1TE 3D252D03B1TE 3D252D03B1 560 750 418 10.617 10.61710.61710.617
+TE 3D252D03B2TE 3D252D03B2TE 3D252D03B2TE 3D252D03B2 560 750 336 8.534 8.5348.5348.534
+TE 3D252D03B3TE 3D252D03B3TE 3D252D03B3TE 3D252D03B3 560 750 255 6,477 6,4776,4776,477
+TE 3D252D03B4TE 3D252D03B4TE 3D252D03B4TE 3D252D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P253 N9CN9C N9CN9C
+TE 3D252D03C1TE 3D252D03C1TE 3D252D03C1TE 3D252D03C1 560 750 418 10.617 10.61710.61710.617
+TE 3D252D03C2TE 3D252D03C2TE 3D252D03C2TE 3D252D03C2 560 750 336 8.534 8.5348.5348.534
+TE 3D252D03C3TE 3D252D03C3TE 3D252D03C3TE 3D252D03C3 560 750 255 6,477 6,4776,4776,477
+TE 3D252D03C4TE 3D252D03C4TE 3D252D03C4TE 3D252D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP253N9C
+3DTED252D03D1 560 750 418
+3DTED252D03D2 560 750 336
+3DTED252D03D3 560 750 255
+3DTED252D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 14 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot Tank List #3
+Instrument Tags Service
+Hot Tank - TES-3
+Element "H" 
+Dim. Length
+ (In) (m)
+TE 3D252D03ATE 3D252D03ATE 3D252D03ATE 3D252D03A Temperature Hot Salt Tank 
+110 Degrees Position110 Degrees Position110 Degrees Position110 Degrees Position
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 100% Level
+TE 3D252D03BTE 3D252D03BTE 3D252D03BTE 3D252D03B Temperature Hot Salt Tank 
+225 Degrees Position225 Degrees Position225 Degrees Position225 Degrees Position
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+225 Deg.Position 225 Deg.Position 225 Deg.Position 225 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 100% Level
+TE 3D252D03CTE 3D252D03CTE 3D252D03CTE 3D252D03C Temperature Hot Salt Tank 
+345 Degrees Position345 Degrees Position345 Degrees Position345 Degrees Position
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+345 Deg.Position 345 Deg.Position 345 Deg.Position 345 Deg.Position D @ 100% Level
+3DTED252D03D Temperature Hot Salt Tank Temperature D 270 
+Degrees Position
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+ABENGOA SOLAR
+Revision Document Nº:
+ABENER TEYMA
+SOLANA
+AG 
+ENGINEERING
+Solana power plant
+For bid
+For bid
+Description
+For PurchaseD Change as NotedNotedNotedNoted
+
+[page 15]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P253 N9AN9A N9AN9A
+TE 4D252D03A1TE 4D252D03A1TE 4D252D03A1TE 4D252D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 4D252D03A2TE 4D252D03A2TE 4D252D03A2TE 4D252D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 4D252D03A3TE 4D252D03A3TE 4D252D03A3TE 4D252D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 4D252D03A4TE 4D252D03A4TE 4D252D03A4TE 4D252D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P253 N9BN9B N9BN9B
+TE 4D252D03B1TE 4D252D03B1TE 4D252D03B1TE 4D252D03B1 560 750 418 10.617 10.61710.61710.617
+TE 4D252D03B2TE 4D252D03B2TE 4D252D03B2TE 4D252D03B2 560 750 336 8.534 8.5348.5348.534
+TE 4D252D03B3TE 4D252D03B3TE 4D252D03B3TE 4D252D03B3 560 750 255 6,477 6,4776,4776,477
+TE 4D252D03B4TE 4D252D03B4TE 4D252D03B4TE 4D252D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P253 N9CN9C N9CN9C
+TE 4D252D03C1TE 4D252D03C1TE 4D252D03C1TE 4D252D03C1 560 750 418 10.617 10.61710.61710.617
+TE 4D252D03C2TE 4D252D03C2TE 4D252D03C2TE 4D252D03C2 560 750 336 8.534 8.5348.5348.534
+TE 4D252D03C3TE 4D252D03C3TE 4D252D03C3TE 4D252D03C3 560 750 255 6,477 6,4776,4776,477
+TE 4D252D03C4TE 4D252D03C4TE 4D252D03C4TE 4D252D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP253N9C
+4DTED252D03D1 560 750 418
+4DTED252D03D2 560 750 336
+4DTED252D03D3 560 750 255
+4DTED252D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 15 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot Tank List #4
+Instrument Tags Service
+Hot Tank - TES-4
+Element "H" 
+Dim. Length
+ (In) (m)
+TE 4D252D03ATE 4D252D03ATE 4D252D03ATE 4D252D03A Temperature Hot Salt Tank 
+110 Degrees Position110 Degrees Position110 Degrees Position110 Degrees Position
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+110 Deg.Position 110 Deg.Position 110 Deg.Position 110 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+110 Deg.Position110 Deg.Position110 Deg.Position110 Deg.Position D @ 100% Level
+TE 4D252D03BTE 4D252D03BTE 4D252D03BTE 4D252D03B Temperature Hot Salt Tank 
+225 Degrees Position225 Degrees Position225 Degrees Position225 Degrees Position
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+225 Deg.Position 225 Deg.Position 225 Deg.Position 225 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+225 Deg.Position225 Deg.Position225 Deg.Position225 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+225 Deg.Position 225 Deg.Position 225 Deg.Position 225 Deg.Position D @ 100% Level
+TE 4D252D03CTE 4D252D03CTE 4D252D03CTE 4D252D03C Temperature Hot Salt Tank 
+345 Degrees Position345 Degrees Position345 Degrees Position345 Degrees Position
+Temperature Hot Salt Tank 
+345 Deg.Position 345 Deg.Position 345 Deg.Position 345 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+345 Deg.Position 345 Deg.Position 345 Deg.Position 345 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+345 Deg.Position345 Deg.Position345 Deg.Position345 Deg.Position D @ 100% Level
+4DTED252D03D Temperature Hot Salt Tank Temperature D 270 
+Degrees Position
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+ABENGOA SOLAR
+Revision Document Nº:
+ABENER TEYMA
+SOLANA
+AG 
+ENGINEERING
+Solana power plant
+For bid
+For bid
+Description
+For PurchaseD Change as NotedNotedNotedNoted
+
+[page 16]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P253 N9A N9A N9AN9A
+TE 5D252D03A1TE 5D252D03A1TE 5D252D03A1TE 5D252D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 5D252D03A2TE 5D252D03A2TE 5D252D03A2TE 5D252D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 5D252D03A3TE 5D252D03A3TE 5D252D03A3TE 5D252D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 5D252D03A4TE 5D252D03A4TE 5D252D03A4TE 5D252D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P253 N9B N9B N9BN9B
+TE 5D252D03B1TE 5D252D03B1TE 5D252D03B1TE 5D252D03B1 560 750 418 10.617 10.61710.61710.617
+TE 5D252D03B2TE 5D252D03B2TE 5D252D03B2TE 5D252D03B2 560 750 336 8.534 8.5348.5348.534
+TE 5D252D03B3TE 5D252D03B3TE 5D252D03B3TE 5D252D03B3 560 750 255 6,477 6,4776,4776,477
+TE 5D252D03B4TE 5D252D03B4TE 5D252D03B4TE 5D252D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P253 N9C N9C N9CN9C
+TE 5D252D03C1TE 5D252D03C1TE 5D252D03C1TE 5D252D03C1 560 750 418 10.617 10.61710.61710.617
+TE 5D252D03C2TE 5D252D03C2TE 5D252D03C2TE 5D252D03C2 560 750 336 8.534 8.5348.5348.534
+TE 5D252D03C3TE 5D252D03C3TE 5D252D03C3TE 5D252D03C3 560 750 255 6,477 6,4776,4776,477
+TE 5D252D03C4TE 5D252D03C4TE 5D252D03C4TE 5D252D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP253N9C
+5DTED252D03D1 560 750 418
+5DTED252D03D2 560 750 336
+5DTED252D03D3 560 750 255
+5DTED252D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date 16 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot Tank List #5
+Instrument Tags Service
+Hot Tank - TES-5
+Element "H" 
+Dim. Length
+ (In) (m)
+TE 5D252D03ATE 5D252D03ATE 5D252D03ATE 5D252D03A Temperature Hot Salt Tank 
+110 Degrees Position
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 100% Level
+TE 5D252D03BTE 5D252D03BTE 5D252D03BTE 5D252D03B Temperature Hot Salt Tank 
+225 Degrees Position
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 100% Level
+TE 5D252D03CTE 5D252D03CTE 5D252D03CTE 5D252D03C Temperature Hot Salt Tank 
+345 Degrees Position
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 100% Level
+5DTED252D03D Temperature Hot Salt Tank Temperature D 270 
+Degrees Position
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Sheet:
+ABENGOA SOLAR
+Revision Document Nº:
+Solana power plant
+For bid
+For bid
+Description
+For PurchaseD Change as Noted
+
+[page 17]
+RTD Elements
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion 
+"U" Dim. 
+Length 
+(In)
+P&ID Tank 
+Nozzle
+419419 419419 ♦♦ P253 N9AN9A N9AN9A
+TE 6D252D03A1TE 6D252D03A1TE 6D252D03A1TE 6D252D03A1 560 750 418 418 418418 10.61710.61710.61710.617
+TE 6D252D03A2TE 6D252D03A2TE 6D252D03A2TE 6D252D03A2 560 750 336 336 336336 8.5348.5348.5348.534
+TE 6D252D03A3TE 6D252D03A3TE 6D252D03A3TE 6D252D03A3 560 750 255 255 255255 6,4776,4776,4776,477
+TE 6D252D03A4TE 6D252D03A4TE 6D252D03A4TE 6D252D03A4 560 750 51 51 5151 1.2951.2951.2951.295
+419 ♦♦ P253 N9BN9B N9BN9B
+TE 6D252D03B1TE 6D252D03B1TE 6D252D03B1TE 6D252D03B1 560 750 418 10.617 10.61710.61710.617
+TE 6D252D03B2TE 6D252D03B2TE 6D252D03B2TE 6D252D03B2 560 750 336 8.534 8.5348.5348.534
+TE 6D252D03B3TE 6D252D03B3TE 6D252D03B3TE 6D252D03B3 560 750 255 6,477 6,4776,4776,477
+TE 6D252D03B4TE 6D252D03B4TE 6D252D03B4TE 6D252D03B4 560 750 51 1.295 1.2951.2951.295
+419 ♦♦ P253 N9CN9C N9CN9C
+TE 6D252D03C1TE 6D252D03C1TE 6D252D03C1TE 6D252D03C1 560 750 418 10.617 10.61710.61710.617
+TE 6D252D03C2TE 6D252D03C2TE 6D252D03C2TE 6D252D03C2 560 750 336 8.534 8.5348.5348.534
+TE 6D252D03C3TE 6D252D03C3TE 6D252D03C3TE 6D252D03C3 560 750 255 6,477 6,4776,4776,477
+TE 6D252D03C4TE 6D252D03C4TE 6D252D03C4TE 6D252D03C4 560 750 51 1.295 1.2951.2951.295
+419 4521DPLNDANCD68D71DP253N9C
+6DTED252D03D1 560 750 418
+6DTED252D03D2 560 750 336
+6DTED252D03D3 560 750 255
+6DTED252D03D4 560 750 51
+General Comment: General Comment: General Comment: General Comment: Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date Sheet: 17 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Instrument Specification D Multipoint RTD List D Salt Tanks D Hot Tank List #6
+Instrument Tags Service
+Hot Tank - TES-6
+Element "H" 
+Dim. Length
+ (In) (m)
+TE 6D252D03ATE 6D252D03ATE 6D252D03ATE 6D252D03A Temperature Hot Salt Tank 
+110 Degrees Position
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+110 Deg.Position D @ 100% Level
+TE 6D252D03BTE 6D252D03BTE 6D252D03BTE 6D252D03B Temperature Hot Salt Tank 
+225 Degrees Position
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+225 Deg.Position D @ 100% Level
+TE 6D252D03CTE 6D252D03CTE 6D252D03CTE 6D252D03C Temperature Hot Salt Tank 
+345 Degrees Position
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 10% Level
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 30% Level
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 50% Level
+Temperature Hot Salt Tank 
+345 Deg.Position D @ 100% Level
+6DTED252D03D Temperature Hot Salt Tank Temperature D 270 
+Degrees Position
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 10% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 30% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 50% Level
+Temperature Hot Salt Tank TempD 0 Deg Position D 
+@ 100% Level
+ABENGOA SOLAR
+Revision Document Nº:
+ABENER TEYMA
+SOLANA
+AG 
+ENGINEERING
+Solana power plant
+For bid
+For bid
+Description
+For PurchaseD Change as NotedNotedNotedNoted
+
+[page 18]
+Important Notes:Important Notes:Important Notes:Important Notes:* Dimensions "A" + "N" + "T" ≤ 36", while "T" + "N" > 14"Dimensions "A" + "N" + "T" ≤ 36", while "T" + "N" > 14"Dimensions "A" + "N" + "T" ≤ 36", while "T" + "N" > 14"Dimensions "A" + "N" + "T" ≤ 36", while "T" + "N" > 14"
+* Junction box is shipped loose, all electrical teminal blocks are clearly labeledJunction box is shipped loose, all electrical teminal blocks are clearly labeledJunction box is shipped loose, all electrical teminal blocks are clearly labeledJunction box is shipped loose, all electrical teminal blocks are clearly labeled
+* All element lead wires are clearly tagged, written verification for elements & lead wires are required.All element lead wires are clearly tagged, written verification for elements & lead wires are required.All element lead wires are clearly tagged, written verification for elements & lead wires are required.All element lead wires are clearly tagged, written verification for elements & lead wires are required.
+2 PGV Jan/16/2012
+1 PGV Aug/22/2011
+0 PGV July/01/2011
+Rev By Date 18 of 21
+Rev.: 2
+Instrument Specification - Molten Salt Services - Multipoint RTDs - Sketch
+Sheet:
+Revision Document Nº: 4521DESPDAGED39D70D0001
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERING
+For purchase
+For bid
+For bid
+Solana power plant
+Description
+"U" 
+"T" 
+"N" 
+"A" 
+JUNCTION BOX 
+"H" 
+3/4" NPT 
+4" FLANGE 
+TYPICAL OF 4
+RTD Element at 
+100% Level 
+H (Dim.) = See Table 
+RTD Element at 
+50% Level 
+H (Dim.) = See Table' 
+RTD Element at 
+30% Level 
+H (Dim.) = See Table 
+RTD Element at 
+10% Level 
+H (Dim.) = See Table 
+Per Vendor 
+
+[page 19]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22 Cover / Size
+Head Size: Per vendor
+23 Sensor end connection 1/2" NPT
+24 Assembly connection 1/2 " NPT
+25 Terminal block Dual With Ground
+26 Assembly type NippleDUnionDNipple
+27 Assembly length (N dim) See Sketch D Attached D Note
+28 Nipple & union material Carbon Steel
+29 Head material Aluminum
+30 Punched out holes NA
+31 Enclosure Protection NEMA 4
+32 Electrical Connection size1/2" FDNPT
+33 Hazardous area ClassificationClass I, Div. 2
+34
+35
+36
+37
+2 PGV Jan/16/2012
+Rev By Date Sheet: 19 of 21
+Document Nº: Rev.: 2
+Instrument Specification - Molten Salt Services - Single Point Temperature Element - RTDs
+General
+Tag Number See Single Point List
+Service See Single Point List
+P&ID See Single Point List
+Tank See Single Point List
+Quantity See Single Point List
+Process conditions
+Fluid Phase Molten Salt Liquid
+Design TemperatureOperating TemperatureSee Single Point List See Single Point List
+Operating Pressure Ambient
+Temperature sensor
+Type Accuracy PT100 D 4 wire RTD A
+Extension See sketch
+Single or dual Dual
+Material 316 SS
+Process Connection 2" NPT
+Insertion length See sketch
+Overall Length See sketch
+Treatments Finish NA Per vendor
+Material Carbon steel
+Coating None
+Construction Type Straight shank
+Head:
+Thermowell
+Identification tag plate See Single Point List
+Manufacturer DataManufacturer Krohne
+Model Later
+Accessories Indicator Indicator Scale No NA
+Internal Connection NA
+Revision 4521DESPDAGED39D70D0001
+ABENGOA SOLAR ABENER TEYMA
+SOLANA
+AG ENGINEERINGNew SpecificationNew SpecificationNew SpecificationNew Specification D For Purchase
+Solana power plantDescription
+
+[page 20]
+2 PGV Jan/16/2012 
+Rev By Date 20 of 21 
+Rev.: 2 Revision Document Nº: 4521DESPDAGED39D70D0001 
+Instrument Specification - Molten Salt Services - Single RTDs - Sketch 
+ABENGOA SOLAR ABENER TEYMA 
+SOLANA 
+AG ENGINEERING New Specification New Specification New Specification New Specification D For Purchase Solana power plant Description Sheet: 
+U = 780"
+16 "
+H = 779"
+1/2" NPT 
+RTD Element at end tip 
+2 "
+1"
+Nipple D Union D Nipple 
+1/2" NPT 
+Standard Explosion Proof head 
+
+[page 21]
+Oper. 
+Temp.
+(˚F)
+Design 
+Temp.
+(˚F)
+Insertion "U" 
+Dim. Length 
+(In)
+Tank
+ (In) (m)
+560 750 780 779 19.8 1D MTD251
+560 750 780 779 19.8 2D MTD251
+560 750 780 779 19.8 3D MTD251
+560 750 780 779 19.8 4D MTD251
+560 750 780 779 19.8 5D MTD251
+560 750 780 779 19.8 6D MTD251
+735 750 780 779 19.8 1D MTD252
+735 750 780 779 19.8 2D MTD252
+735 750 780 779 19.8 3D MTD252
+735 750 780 779 19.8 4D MTD252
+735 750 780 779 19.8 5D MTD252
+735 750 780 779 19.8 6D MTD252
+Drawing format: ♦♦ = 4521-PLN-ANC-68-71 
+2 PGV Jan/16/2012
+Rev By Date 21 of 21
+4521DESPDAGED39D70D0001 Rev.: 2
+Sheet:
+ABENER TEYMA
+SOLANA
+AG ENGINEERING
+Revision Document Nº:
+ABENGOA SOLAR
+New SpecificationNew SpecificationNew SpecificationNew Specification D For Purchase
+Solana power plant
+Description
+TE 5D251D32 Cold Tank 5 D Salt Main Pump Inlet 
+Temperature
+TE 6D251D32 Cold Tank 6 D Salt Main Pump Inlet 
+Temperature
+Hot TanksHot TanksHot TanksHot Tanks
+TE 1D252D32 Hot Tank 1 D Salt Main Pump Inlet Temperature
+TE 4D252D32 Hot Tank 4 D Salt Main Pump Inlet Temperature
+TE 5D252D32 Hot Tank 5 D Salt Main Pump Inlet Temperature
+Hot Tank 2 D Salt Main Pump Inlet Temperature
+TE 3D252D32 Hot Tank 3 D Salt Main Pump Inlet Temperature
+General Comment: 
+TE 6D252D32 Hot Tank 6 D Salt Main Pump Inlet Temperature
+TE 2D252D32
+Cold TanksCold TanksCold TanksCold Tanks
+TE 1D251D32 Cold Tank 1 D Salt Main Pump Inlet 
+Temperature
+TE 4D251D32 Cold Tank 4 D Salt Main Pump Inlet 
+Temperature
+Cold Tank 2 D Salt Main Pump Inlet 
+Temperature
+Cold Tank 3 D Salt Main Pump Inlet 
+Temperature
+TE 2D251D32
+TE 3D251D32
+Instrument Specification D Single DPoint RTD D Hot & Cold Salt Tanks D List
+Instrument Tags Service Element "H" 
+Dim. Length P&ID
+♦♦ P251
+♦♦ P251
+♦♦ P251
+♦♦ P251
+♦♦ P251
+♦♦ P251
+♦♦ P253
+♦♦ P253
+♦♦ P253
+♦♦ P253
+♦♦ P253
+♦♦ P253

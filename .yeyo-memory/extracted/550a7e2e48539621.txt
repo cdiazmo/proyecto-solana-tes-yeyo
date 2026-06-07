@@ -1,0 +1,145 @@
+[sheet Cover Sheet]
+ABENER TEYMA SOLANA | RFQ No.:
+Engineering Specification | Job: | 120006 | Spec No.: | 4521-ESP-DOT-00-64-0001
+Nitrogen & Instrument Air Services | Item No.: | No. Req'd:
+Pressure Regulator | Project: | Solana
+Ref.: | Issue: | 0 | Dated: | 2019-06-28 00:00:00
+Instructions:
+1. | Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be
+included on all pages.
+2. | Revisions are identified in the body of the Specification.
+Rev. | Description of Revision
+No. | Date | By | Chk’d | App’d | with Page Numbers
+0 | 2019-06-28 00:00:00 | PPT | MMA | PPT | Issue for Purchase
+0 | Apr/02/2012 | PGV | JHR | PQJ | Issue for Purchase
+No. | Date | By | Chk'd | App'd | App'd | Description
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+
+[sheet Index]
+Sheet | Title | Revision
+1 | Cover | 0
+2 | Index | 0
+3 | Specification - Pressure regulator - PCV 625717 / PCV-625717 | 0
+4 | Specification - Pressure regulator - PCV 625716 | 0
+ABENGOA SOLAR | ABENER TEYMA SOLANA
+0 | PPT | 2019-06-28 00:00:00 | Issue for Purchase | Solana power plant
+Rev | By | Date | Description | Sheet: | 2 of 4
+Revision | Document Nº: | 4521-ESP-DOT-00-64-0001 | Rev.: 4
+
+[sheet Sheet.1]
+Engineering Specification - Nitrogen Services - Pressure Regulator
+Rev | Rev
+Tag No.: | PCV-625717 | PCV-625718
+Service: | Nitrogen supply - drain back tank TES 6 | Nitrogen supply - drain back tank TES 6
+new HX for TES 6 | new HX for TES 6
+P&ID No.: | 4521-PLN-AEE-68-71-P278 | 4521-PLN-AEE-68-71-P278
+Location, Line No.: | 255-N-09EF-CS72-1 1/2'' | 255-N-09EF-CS72-1 1/2''
+Process:
+Max flow, d/p | 2190 ft/hr (62 m3 / hr) | 190 psi | 2190 ft/hr (62 m3 / hr) | 190 psi
+Norm flow, d/p | 2190 ft/hr (62 m3 / hr) | 190 psi | 2190 ft/hr (62 m3 / hr) | 190 psi
+Min flow, d/p
+Valve cv at norm flow, wide open | CV=* | CV=*
+Operating temp, max temp | atm | atm | atm | atm
+Operating inlet press, max press | 190 psig | 190 psig | 190 psig | 190 psig
+Operating outlet press, max press | 0.65 psig | 0.65 psig | 0.65 psig | 0.65 psig
+Max d/p at shutoff | 160 psi | 160 psi
+Sp gr or density, viscosity | 0.971 | 0.971
+Ambient design temperature | 22 Deg. F , 125 Deg. F | 22 Deg. F , 125 Deg. F
+Body: type | Self Contained - Regulator | Self Contained - Regulator
+Body size | 1 1/2" | 1 1/2"
+End connection Inlet - Outlet | F-NPT - F-NPT | F-NPT - F-NPT
+Body mat'l | Carbon Steel | Carbon Steel
+Spring material | Steel | Steel
+Spring case material | Cast Steel | Cast Steel
+Packing or seal material | 3 | Jorcote on SST | Jorcote on SST
+Type of guiding, material | Top | 416 SST | Top | 416 SST
+Plug type, material | Guided | 416 SST | Guided | 416 SST
+Diaphragm material | SS A316 | SS A316
+Stem and shaft material | None | None
+Flow direction | Straight Through | Straight Through
+Required seat tightness | Class IV | Class IV
+Maximum spring casing pressure | Standard | Standard
+Face to face dimension | * | *
+Pilot: | None | None
+Body size, trim size
+End connection
+Body mat'l
+Packing or seal material
+Type of guiding, material
+Plug type, material
+Seat type, material
+Stem and shaft material
+Manufacturer, model number
+Sizing:
+Spring range | * | *
+Spring setting | * | *
+Pressure offset at normal flow | * | *
+Trim no. | * | *
+Purchasing:
+Manufacturer | TBD | TBD
+Model number | TBD | TBD
+Vendor shall fill in all fields marked with an asterisk (*) and submit completed
+specification with quotation.
+ABENGOA SOLAR | ABENER TEYMA SOLANA
+00 | PPT | 2019-06-28 00:00:00 | Issue for Purchase | Solana power plant
+Rev | By | Date | Description | Sheet: | 3 of 4
+Revision | Document Nº: | 4521-ESP-DOT-00-64-0001 | Rev.: 0
+
+[sheet Sheet.2]
+Engineering Specification - Nitrogen Services - Pressure Regulator
+Rev | Rev
+Tag No.: | PCV 625716
+Service: | Nitrogen supply - drain back tank TES 6
+new HX for TES 6
+P&ID No.: | 4521-PLN-ANC-68-71-P279
+Location, Line No.: | 255-N-11EF-CS72-1/2''
+Process:
+Max flow, d/p | 250 ft/hr ( 7m3/h) | 190 psi
+Norm flow, d/p | 250 ft/hr ( 7m3/h) | 190 psi
+Min flow, d/p
+Valve cv at norm flow, wide open | CV=*
+Operating temp, max temp | Ambient | 125 Deg. F
+Operating inlet press, max press | 190 psig | 190 psig
+Operating outlet press, max press | 0.65 psig | 0.65 psig
+Max d/p at shutoff | 0.65 psig
+Sp gr or density, viscosity | 0.971
+Ambient design temperature | 22 Deg. F, 125 Deg. F
+Body: type | Self Contained - Regulator
+Body size | 1/2"
+End connection Inlet - Outlet | F-NPT - F-NPT
+Body mat'l | Carbon Steel
+Spring material | Steel
+Spring case material | cast iron
+Packing or seal material | Jorcote on SST
+Type of guiding, material | Top | 416 SST
+Plug type, material | Guided | 416 SST
+Diaphragm material | SS A316
+Stem and shaft material | None
+Flow direction | Straight Through
+Required seat tightness | Class IV
+Maximum spring casing pressure | Standard
+Face to face dimension | *
+Pilot: | None
+Body size, trim size
+End connection
+Body mat'l
+Packing or seal material
+Type of guiding, material
+Plug type, material
+Seat type, material
+Stem and shaft material
+Manufacturer, model number
+Sizing:
+Spring range | *
+Spring setting | *
+Pressure offset at normal flow | *
+Trim no. | *
+Purchasing:
+Manufacturer
+Model number
+Vendor shall fill in all fields marked with an asterisk (*) and submit completed
+specification with quotation.
+ABENGOA SOLAR | ABENER TEYMA SOLANA
+00 | PPT | 2019-06-28 00:00:00 | Issue for Purchase | Solana power plant
+Rev | By | Date | Description | Sheet: | 4 of 4
+Revision | Document Nº: | 4521-ESP-DOT-00-64-0001 | Rev.: 0

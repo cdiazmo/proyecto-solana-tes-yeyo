@@ -1,0 +1,28 @@
+{
+  "id": "9e0a4402213066f6",
+  "path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "xlsx",
+  "size_bytes": 113277,
+  "size_human": "111 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "SMWP Document List 4.3.2019",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 21834,
+  "token_estimate": 5458,
+  "chunks": 14,
+  "card_path": ".yeyo-memory/cards/9e0a4402213066f6.json",
+  "extracted_path": ".yeyo-memory/extracted/9e0a4402213066f6.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "SMWP -Document List",
+        "rows_seen": 419,
+        "non_empty_rows": 403
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:23:15.689395+00:00"
+}

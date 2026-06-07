@@ -1,0 +1,58 @@
+{
+  "id": "9d918e1056e55c5b",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0018_R1 Differenc Pressure Level Transmitters spe.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 256504,
+  "size_human": "250 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0018 R1 Differenc Pressure Level Transmitters spe",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 17202,
+  "token_estimate": 4300,
+  "chunks": 11,
+  "card_path": ".yeyo-memory/cards/9d918e1056e55c5b.json",
+  "extracted_path": ".yeyo-memory/extracted/9d918e1056e55c5b.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet ",
+        "rows_seen": 1013,
+        "non_empty_rows": 20
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 68,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 68,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 56,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "LIT-X25101B",
+        "rows_seen": 71,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "LIT-X25201A",
+        "rows_seen": 66,
+        "non_empty_rows": 55
+      },
+      {
+        "name": "Notes",
+        "rows_seen": 57,
+        "non_empty_rows": 11
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:15.443238+00:00"
+}

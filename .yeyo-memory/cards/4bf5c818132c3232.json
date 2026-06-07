@@ -1,0 +1,65 @@
+{
+  "id": "4bf5c818132c3232",
+  "path": "03 GD Fabricacion LOI TES 6/Dibujos/4521-PLN-LOI-039-062-0006-GAR_rev00 CHANNEL PARTITION.pdf",
+  "top_dir": "03 GD Fabricacion LOI TES 6",
+  "ext": "pdf",
+  "size_bytes": 394717,
+  "size_human": "385 KB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-PLN-LOI-039-062-0006-GAR rev00 CHANNEL PARTITION",
+  "doc_code": "4521-PLN-LOI-039-062-0006",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/4bf5c818132c3232.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20180424092215+02'00'",
+      "Author": "inakiugarte",
+      "Creator": "Bluebeam Stapler 12.6.0",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "ModDate": "D:20180424092410+02'00'",
+      "Title": "1950101-DWG-006.00 CHANNEL PARTITION.pdf"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.343459+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::308",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 308,
+        "doc_code": "4521-PLN-LOI-039-062-0006",
+        "title": "ISOMETRICS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-09 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::308",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 308,
+        "doc_code": "4521-PLN-LOI-039-062-0006",
+        "title": "ISOMETRICS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-09 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:55.365108+00:00"
+}

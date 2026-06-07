@@ -1,0 +1,29 @@
+{
+  "id": "8c31743e5f8ac2c2",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201-DWG-110.00 H1 TRASPORT.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 422528,
+  "size_human": "413 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1950201-DWG-110.00 H1 TRASPORT",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/8c31743e5f8ac2c2.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20191126155915+01'00'",
+      "ModDate": "D:20191126155915+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:20.940921+00:00"
+}

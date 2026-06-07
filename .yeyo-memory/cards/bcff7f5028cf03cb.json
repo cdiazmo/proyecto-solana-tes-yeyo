@@ -1,0 +1,31 @@
+{
+  "id": "bcff7f5028cf03cb",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201 Rev.0 Packing List - Spare parts&material for saddles.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 207932,
+  "size_human": "203 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201 Rev.0 Packing List - Spare parts&material for saddles",
+  "doc_code": null,
+  "revision": "Rev.0",
+  "status": "ok",
+  "text_chars": 974,
+  "token_estimate": 243,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/bcff7f5028cf03cb.json",
+  "extracted_path": ".yeyo-memory/extracted/bcff7f5028cf03cb.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "a.lopez",
+      "Company": "",
+      "CreationDate": "D:20210421121058+02'00'",
+      "Creator": "Acrobat PDFMaker 17 para Excel",
+      "ModDate": "D:20210421121230+02'00'",
+      "Producer": "Adobe PDF Library 17.11.238"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:29.671449+00:00"
+}

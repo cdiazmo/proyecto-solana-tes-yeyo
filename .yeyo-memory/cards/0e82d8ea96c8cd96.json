@@ -1,0 +1,85 @@
+{
+  "id": "0e82d8ea96c8cd96",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-58-61-PS001.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 315384,
+  "size_human": "308 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-58-61-PS001",
+  "doc_code": "4521-ESP-ANC-58-61-PS001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 20679,
+  "token_estimate": 5169,
+  "chunks": 13,
+  "card_path": ".yeyo-memory/cards/0e82d8ea96c8cd96.json",
+  "extracted_path": ".yeyo-memory/extracted/0e82d8ea96c8cd96.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Title": "INSTRUCTIONS:",
+      "Author": "Rebecca J. Melton",
+      "Creator": "Microsoft® Word 2010",
+      "CreationDate": "D:20120202094711-06'00'",
+      "ModDate": "D:20120202094711-06'00'",
+      "Producer": "Microsoft® Word 2010"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::125",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 125,
+        "doc_code": "4521-ESP-ANC-58-61-PS001 (Engineering Standards and Practices Material and Installation Standards Piping Shop Fabrication HTF Area)",
+        "title": "",
+        "revision": "4521-ESP-ANC-58-61-PS001 (Engineering Standards and Practices Material and Installation Standards Piping Shop Fabrication HTF Area)",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::101",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 101,
+        "doc_code": "4521-ESP-ANC-58-61-PS001 - Engineering Standards and Practices Material and Installation Standards Piping Shop Fabrication HTF Area",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::151",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 151,
+        "doc_code": "4521-ESP-ANC-58-61-PS001 - Engineering Standards and Practices Material and Installation Standards Piping Shop Fabrication HTF Area",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::144",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 144,
+        "doc_code": "4521-ESP-ANC-58-61-PS001 - Engineering Standards and Practices Material and Installation Standards Piping Shop Fabrication HTF Area",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:56.635702+00:00"
+}

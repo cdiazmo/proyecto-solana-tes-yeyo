@@ -1,0 +1,32 @@
+{
+  "id": "963ae8707941dd8c",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Transmision 24-04-2019/IOM-1803.1.409_en-00 operating instructions.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 11358027,
+  "size_human": "11 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "IOM-1803.1.409 en-00 operating instructions",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 297552,
+  "token_estimate": 74388,
+  "chunks": 189,
+  "card_path": ".yeyo-memory/cards/963ae8707941dd8c.json",
+  "extracted_path": ".yeyo-memory/extracted/963ae8707941dd8c.txt",
+  "metadata": {
+    "pages": 178,
+    "pdf_metadata": {
+      "Author": "Holger Kast",
+      "CreationDate": "D:20180622082246+02'00'",
+      "Creator": "Adobe Acrobat Pro DC 15.6.30418",
+      "ModDate": "D:20181109065305+01'00'",
+      "Producer": "Adobe Acrobat Pro DC 15.6.30418",
+      "Subject": "Deckblatt-englisch",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:42.579685+00:00"
+}

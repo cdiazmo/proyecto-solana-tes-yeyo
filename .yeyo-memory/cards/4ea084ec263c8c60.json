@@ -1,0 +1,119 @@
+{
+  "id": "4ea084ec263c8c60",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/HDD/4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 43943,
+  "size_human": "43 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+  "doc_code": "4521-HDD-AEE-39-70-0013",
+  "revision": "Rev.01",
+  "status": "ok",
+  "text_chars": 7289,
+  "token_estimate": 1822,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/4ea084ec263c8c60.json",
+  "extracted_path": ".yeyo-memory/extracted/4ea084ec263c8c60.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20170117094454+01'00'",
+      "ModDate": "D:20170117094454+01'00'",
+      "Author": "AGMMA",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.589220+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::61",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 61,
+        "doc_code": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "title": "",
+        "revision": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::61",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 61,
+        "doc_code": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "title": "",
+        "revision": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::71",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 71,
+        "doc_code": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::121",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 121,
+        "doc_code": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::114",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 114,
+        "doc_code": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::63",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 63,
+        "doc_code": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "title": "",
+        "revision": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:55.589225+00:00"
+}

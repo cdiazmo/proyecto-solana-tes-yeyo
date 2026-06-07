@@ -1,0 +1,39 @@
+{
+  "id": "fe14dfbcfa8b6ff5",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0005_R2.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 112130,
+  "size_human": "110 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-57-70-0005 R2",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 44321,
+  "token_estimate": 11080,
+  "chunks": 28,
+  "card_path": ".yeyo-memory/cards/fe14dfbcfa8b6ff5.json",
+  "extracted_path": ".yeyo-memory/extracted/fe14dfbcfa8b6ff5.txt",
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110623134103-05'00'",
+      "ModDate": "D:20110623134103-05'00'",
+      "Title": "4521-ESP-AGE-57-70-0005_rev2 Rotary valves datasheet",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "agjhr",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:05.152366+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:05.152368+00:00"
+}

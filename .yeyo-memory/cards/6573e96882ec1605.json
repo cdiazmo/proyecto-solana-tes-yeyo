@@ -1,0 +1,31 @@
+{
+  "id": "6573e96882ec1605",
+  "path": "04 GD Fabricacon LOI TES 3/WPS Y PQR/1950201-WPS-001 rev.0.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 749451,
+  "size_human": "732 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201-WPS-001 rev.0",
+  "doc_code": null,
+  "revision": "rev.0",
+  "status": "ok",
+  "text_chars": 79996,
+  "token_estimate": 19999,
+  "chunks": 51,
+  "card_path": ".yeyo-memory/cards/6573e96882ec1605.json",
+  "extracted_path": ".yeyo-memory/extracted/6573e96882ec1605.txt",
+  "metadata": {
+    "pages": 34,
+    "pdf_metadata": {
+      "Author": "borjabayer",
+      "CreationDate": "D:20200109162450+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20200527131054+02'00'",
+      "Producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:34.470646+00:00"
+}

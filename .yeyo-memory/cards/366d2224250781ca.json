@@ -1,0 +1,67 @@
+{
+  "id": "366d2224250781ca",
+  "path": "01 GD AE/C&S/Plataforma de acero TES/4521-PLN-AGE-58-54-2020.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 1176295,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AGE-58-54-2020",
+  "doc_code": "4521-PLN-AGE-58-54-2020",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/366d2224250781ca.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120515173802+02'00'",
+      "ModDate": "D:20120515173802+02'00'",
+      "Title": "H:\\400 Direccion de Ingenieria\\420 Proyectos\\AG1008_Solana (USA)\\Documentos en Curso\\Civil_Structural_Architectural\\58.Thermal",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgtgl",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.276135+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::19",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 19,
+        "doc_code": "4521-PLN-AGE-58-54-2020-Solana Generating Station TES Platforms Heat Exchanger Supports. Details",
+        "title": "",
+        "revision": "5",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::19",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 19,
+        "doc_code": "4521-PLN-AGE-58-54-2020-Solana Generating Station TES Platforms Heat Exchanger Supports. Details",
+        "title": "",
+        "revision": "5",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:54.297849+00:00"
+}

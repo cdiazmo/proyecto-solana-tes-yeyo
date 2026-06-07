@@ -1,0 +1,194 @@
+[page 1]
+Title:
+Document No.:
+Revision:
+Date:
+Prepared by:
+Reviewed by:
+Approved by:
+The original copy of this document is electronically signed and filed in the document management system of Abeinsa EPC.
+José María Rodríguez Electronic Signature
+This document is property of Abeinsa EPC. Its total or partial reproduction is strictly forbidden by any means, as well as its distribution to third parties without the
+express written consent of Abeinsa EPC.
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential information, legal requirements or local regulations and/or contractual
+requirements of the client), there was a need to modify the requirements included in this procedure, these changes must be properly documented in the quality,
+environment and health and safety plan of the project, prior approval from the company headquarters management system department.
+ABEINSA EPC
+Datasheet
+Drain back tank datasheet
+4521-HDD-AEE-075-064-0010-GAR
+02
+18/11/2016
+Ricardo R. Delgado A. Electronic Signature
+Ricardo R. Delgado A. Electronic Signature
+
+[page 2]
+Revision: 02 Date: 18/11/2016
+Revision Date Reason for the revision Prepared by Reviewed by Approved
+by
+00 22/08/2016 Issue for purchase RDA RDA ABB
+01 13/09/2016 Nozzle location update RDA RDA PDB
+2 18/11/2016
+Nozzle location and Schedule
+update RDA RDA JMR
+ABEINSA EPC
+Document: 4521-HDD-AEE-075-064-0010-GAR
+Page: 2 of 4
+Revision Control Sheet
+
+[page 3]
+1 General
+2 Operating conditions
+3 Design information
+4 Connection list (6)
+Spec. Projection Reinforcement
+Name Ner DN End ANSI Schedule mm
+A1 1 4" BW B16.25 120 300 By Supplier
+A3 1 2" BW B16.25 160 300 By Supplier
+W 1 2" BW B16.25 XXS 300 By Supplier
+B1 1 3" BW B16.25 160 300 By Supplier
+B2 1 4" BW B16.25 160 300 By Supplier
+L 1 3" 300#
+WN/RTJ B16.5 160 300 By Supplier
+P 1 4" 300#RTJ B16.5 XXS 300 By Supplier
+A4 1 20" WN/FF B16.5 STD /
+150# 350 By Supplier (13)
+T 1 1 1/2" 300#RTJ B16.5 XXS 250 By Supplier
+A2 1 4" BW B16.25 120 300 By Supplier
+C2 1 2" 300#
+WN/RTJ B16.5 XXS 300 By Supplier
+C3 1 2" 300#
+WN/RTJ B16.5 XXS 300 By Supplier
+C4 1 4" BW B16.25 120 300 By Supplier
+5 Surface treatment/Painting
+6 Construction information
+7 Scope of supply
+8 Notes
+(13) To be confirmed by pump supplier
+(14) The weld for transportation caps has to be lower that the use for the hydraulic test and has to protect the nozzle mechanized according ASME 16/25
+(15) The tank can suffer temperature step changes close to 212º F up to a maximum of 718º F.
+(11) The tank will be N2 blanketed during stand-by periods.Also pressurized N2 will be used to empty the tank during drainage operation.
+(12) Manhole to be located on top. If there is not enough space, manhole will not be installed and access to the tank will be through the pump hole
+(1) To be confirmed by supplier
+(2) To be defined by supplier.
+(3) The tank and all its connections will be heat traced and isolated, according to buyer specifications.
+(4) Manufacturer's paint criteria shall be submitted with the bid for the buyer approval before any possible awarding.
+(5) The tank shall have a sliding support to take up expansion due to temperature
+(6) According to buyer's General Piping Technical Specification
+(7) Trace content of salts can remain in the tank after draining after cooling
+(8) For a more detailed drawing of this tank see Page 4.
+(9) Supplier will include the design and supply of anchor bolts, anchor plate and template for the bases (fix and sliding supports) and Cogetherm insulation.
+Anchor bolts
+Shell plates
+Flanges / Nozzles
+Lifting Lugs
+Earthing Lugs
+Delivery CIF
+Delivery time (EXW & CIF)
+(10) Supplier will include the design and supply for insulation clips.
+Nameplate
+Thermal limits: heating up and heating down ramps,
+maximum temperature gradient between empty
+equipment and entering fluid (nitrogen or salts)
+(1)
+According to ASME VIII (and the local Pressure Equipment Regulation)
+Bolts / Nuts / Internals By supplier
+(15) (16)
+By supplier
+SA 516 Gr. 70 (1)
+A 105 / A 106 Gr.B (1)
+Yes
+Yes
+As optional
+External painting
+ABEINSA EPC
+Yes - Nitrogen (11)
+0.045 barg
+Pressure relief vaccum breaker connection
+Nominal capacity
+Thickness
+Blanketing (No/Yes-Gas)
+Operating Pressure
+Temperature Cycles
+Density 543.15º F / 718º F
+Radar connection
+Pressure transmitter connection
+Vent to drain pit
+Insulation thickness
+Operating pump rate in/out
+Level switch up
+Level switch lower
+Design life
+Mechanized according ASME 16/25
+Code
+Design temperature
+Design pressure - internal
+Corrosion allowances
+Heating coil/units
+Date:
+59" approx. (8)
+108.26" approx. (8)
+02 Revision:
+Supplier information
+Asme VIII DIV.1 / DIV.2 (2)
+750 º F
+FV / 50.76 Psi g
+0.157"
+No (3)
+8"
+137.4 gpm
+30 years
+Length
+Diameter
+(4)
+Drain / Vent from HEX train 2
+Drain to drain pit
+Internal
+External
+Cleaning
+Internal painting
+Connection Type of connection
+Pump hole/ Manhole (12) (13)
+Temperature transmitter connection
+Nozzles maximum allowed loads
+Nitrogen inlet
+Spare
+(17)
+Additionally pump hole has to support weight of 1000Kg (Pump weight) and the
+pump's axial thrust.
+Description (8)
+Drain / Vent from HEX train 1
+(4)
+(4)
+(4)
+(17) Refer to the specification 4521-SPE-SGT-000-223-0006 Maximum allowed loads in nozzles.
+(16) Tank will suffer 12 thermal cycles per year, from 29º F to 536º F and from 536º F to 750º F
+(17) Tank will include a pit to give submergence to the pump
+(18) TAG number TBC by UTE during manufacturing process.
+Ambient/536º F up to 718º F (7)(15)(16)
+119.74 / 115.3 lb/ft3
+NNNN-MT-259 (18)
+1
+Document: 4521-HDD-AEE-075-064-0010-GAR
+Units
+KKS
+Page 3 of 4
+18/011/2016
+Horizontal
+Molten Salts (60%NaNO3, 40%KNO3) / Nitrogen
+Type Korbbogen
+Cilindrical with slope of 1%
+5.7 m3
+(2)
+Body
+Design standard
+Fluid
+Heads
+(4)
+
+[page 4]
+9 Scheme
+ABEINSA EPC
+Document: 4521-HDD-AEE-075-064-0010-GAR
+Revision: 02 Date: 18/11/2016
+Page 4 of 4

@@ -1,0 +1,107 @@
+{
+  "id": "e8385b9b1d98f440",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AEE-39-40-0003-GAR_R00 Lighting design.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 7349173,
+  "size_human": "7.0 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-PLN-AEE-39-40-0003-GAR R00 Lighting design",
+  "doc_code": "4521-PLN-AEE-39-40-0003",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 103,
+  "token_estimate": 25,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/e8385b9b1d98f440.json",
+  "extracted_path": ".yeyo-memory/extracted/e8385b9b1d98f440.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-PLN-AEE-39-40-0003-GAR_R00 Lighting design.dwg",
+      "4521-PLN-AEE-39-40-0003-GAR_R00 Lighting design.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 9871760,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::46",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 46,
+        "doc_code": "4521-PLN-AEE-39-40-0003-GAR",
+        "title": "Lighting design IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-02-28 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::40",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 40,
+        "doc_code": "4521-PLN-AEE-39-40-0003-GAR-R00 Lighting design",
+        "title": "",
+        "revision": "4521-PLN-AEE-39-40-0003-GAR_R00 Lighting design",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::46",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 46,
+        "doc_code": "4521-PLN-AEE-39-40-0003-GAR",
+        "title": "Lighting design IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-02-28 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::40",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 40,
+        "doc_code": "4521-PLN-AEE-39-40-0003-GAR",
+        "title": "Lighting design",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "ELE"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::40",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 40,
+        "doc_code": "4521-PLN-AEE-39-40-0003-GAR-R00 Lighting design",
+        "title": "",
+        "revision": "4521-PLN-AEE-39-40-0003-GAR_R00 Lighting design",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::40",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 40,
+        "doc_code": "4521-PLN-AEE-39-40-0003-GAR-R00 Lighting design",
+        "title": "",
+        "revision": "4521-PLN-AEE-39-40-0003-GAR_R00 Lighting design",
+        "status": "IFC",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:11:58.575959+00:00"
+}

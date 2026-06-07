@@ -1,0 +1,73 @@
+{
+  "id": "09501dc19e5cd1c1",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-64-0007_R1 HTF Globe valves specification.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 398298,
+  "size_human": "389 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-64-0007 R1 HTF Globe valves specification",
+  "doc_code": "4521-ESP-AGE-39-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 35942,
+  "token_estimate": 8985,
+  "chunks": 23,
+  "card_path": ".yeyo-memory/cards/09501dc19e5cd1c1.json",
+  "extracted_path": ".yeyo-memory/extracted/09501dc19e5cd1c1.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1012,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 72,
+        "non_empty_rows": 12
+      },
+      {
+        "name": "Index",
+        "rows_seen": 83,
+        "non_empty_rows": 18
+      },
+      {
+        "name": "TV-125138",
+        "rows_seen": 66,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "TV-225138",
+        "rows_seen": 66,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "TV-325138",
+        "rows_seen": 66,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "TV-425138",
+        "rows_seen": 66,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "TV-525138",
+        "rows_seen": 66,
+        "non_empty_rows": 60
+      },
+      {
+        "name": "TV-625138",
+        "rows_seen": 66,
+        "non_empty_rows": 60
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:11.982624+00:00"
+}

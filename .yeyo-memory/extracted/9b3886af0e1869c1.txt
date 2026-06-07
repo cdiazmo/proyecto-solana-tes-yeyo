@@ -1,0 +1,124 @@
+[page 1]
+Customer : ABENGOA & SHIKUN BI...
+Item number : 6-MP-255
+Service : TES Drain Tank Pump
+Flowserve reference : 685419002
+Date : September 14, 2016
+ 
+Capacity : 137.4 USgpm
+Head : 59.00 ft
+Density / Specific gravity : - / 1.907
+Pump speed : 1775 rpm
+Pump size & type : 08ELM
+Based on curve no. : EC-2353-P001-P001
+Number of stages : 2
+Test tolerance : API 610 10th Edition
+CURVES ARE APPROXIMATE, PUMP IS GUARANTEED FOR ONE SET OF CONDITIONS; CAPACITY, HEAD, AND POWER.
+ 
+Bowl performance shown below is corrected for materials, viscosity and construction.
+Bowl head of 59.38 ft corresponds with 59 ft head at low liquid level adjusted for elevation and friction losses.
+Copyright © 2016 Flowserve. All rights reserved. Affinity v1.8.0
+
+[page 2]
+Hydraulic Datasheet
+: 685419002
+: EC-2353-P001-P001
+: 08ELM
+: September 14, 2016
+Pump / Stages
+Based on curve no.
+Flowserve reference
+Date
+/ 2
+: 6-MP-255
+Customer reference
+: ABENGOA & SHIKUN BINUI RENE...
+Service : TES Drain Tank Pump
+Customer
+Item number
+: 4521-ESP-AEPC-075-062-0002
+: 137.4 USgpm
+: 137.4 USgpm
+: -
+: 59.00 ft
+: 59.00 ft
+: Ample ft
+: Other
+: MSP
+: 750 °F / 1.907
+: 3.50 cP / 0.00 psia
+: 1,775 rpm
+: 3.8 ft
+: 10.00 in
+: 3.90 hp
+: 56.9 % / 58.5 % 
+: 6.86 hp / 9.01 hp 
+: 10.00 hp / 7.46 kW 
+: 62.4 psig
+: CS
+: 6.13 in / 6.25 in / 5.63 in
+: 150.0 psig
+: 225 psig
+: 400.0 psig
+: 7,310 (US units)
+: 63.0 USgpm
+: 68.74 ft
+: 129.0 USgpm
+: 106.5 %
+: 182.7 lbf
+: 98.0 %
+: 15.8 %
+Operating Conditions Materials / Specification
+Liquid
+Other Requirements
+Performance
+Capacity
+Water capacity (CQ=1.00)
+Normal capacity
+Total developed head
+Water head (CH=1.00)
+NPSH available (NPSHa)
+NPSHa less NPSH margin
+Maximum suction pressure
+Liquid type
+Liquid description
+Temperature / Specific gravity
+Viscosity / Vapor pressure
+Material column code
+Hydraulic selection : API 610 10th Edition
+Hydraulic power
+Pump speed
+Efficiency (Pump overall / Bowl) (CE=1.00)
+NPSH required (NPSH3)
+Power (rated/max)
+Driver power
+Bowl pressure
+(based on shut off @ cut dia/rated SG)
+Minimum submergence
+Impeller diameter : Rated / Maximum / Minimum
+Suction specific speed
+Minimum continuous flow
+Maximum head at rated diameter
+Flow at BEP
+Flow as % of BEP
+Rated thrust (at Rated flow)
+Impeller diameter ratio (rated/max)
+Head rise to shut off
+Construction : API 610 10th Edition
+Test tolerance : API 610 10th Edition
+Driver Sizing : Max Power(MCSF to EOC) using SF
+Seal configuration : Packing
+Maximum allowable
+Bowl & column hydrotest
+Total head ratio (rated/max) : 94.1 %
+: -
+: Not applicable
+Bowl head of 59.38 ft corresponds with 59 ft head at low liquid level adjusted for elevation and friction losses.
+Rated suction pressure : Not applicable
+Dischg Head Dischg Region MAWP
+Maximum thrust (at Shut off flow) : 192.3 lbf
+Min thrust - Runout flow / Max Suction : 154.1 lbf
+CURVES ARE APPROXIMATE, PUMP IS GUARANTEED FOR ONE SET OF CONDITIONS; CAPACITY, HEAD, AND POWER.
+Bowl performance shown below is corrected for materials, viscosity and construction.
+(A negative thrust value indicates an upthrust condition)
+Affinity v1.8.0Copyright © 2016 Flowserve. All rights reserved.

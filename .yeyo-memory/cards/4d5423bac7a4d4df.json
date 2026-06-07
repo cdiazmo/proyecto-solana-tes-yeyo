@@ -1,0 +1,119 @@
+{
+  "id": "4d5423bac7a4d4df",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/PLN/4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Dra.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 291970,
+  "size_human": "285 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Dra",
+  "doc_code": "4521-PLN-AEE-00-70-N023",
+  "revision": "Rev.00",
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/4d5423bac7a4d4df.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20170118103052+01'00'",
+      "ModDate": "D:20170118103052+01'00'",
+      "Author": "agmbo",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "H:\\400_ING\\AE4521_Solana-HEX\\08 Engineering\\84 Work doc\\M&P\\PLN\\P&ID\\Rev.02 - DRAFT\\4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Dra"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.432814+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::104",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 104,
+        "doc_code": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "title": "",
+        "revision": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::104",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 104,
+        "doc_code": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "title": "",
+        "revision": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::127",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 127,
+        "doc_code": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::177",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 177,
+        "doc_code": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::170",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 170,
+        "doc_code": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::106",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 106,
+        "doc_code": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "title": "",
+        "revision": "4521-PLN-AEE-00-70-N023-GAR Rev.00 Interlock notes - Drain back system",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:55.455063+00:00"
+}

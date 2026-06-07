@@ -1,0 +1,604 @@
+[page 1]
+ 
+The original of this document is electronically signed and filed in the Document Management System. 
+ 
+ 
+ 
+Technical Instruction 
+ 
+Title 
+Performance Test Procedure 
+Client: Arizona Solar One 
+Proyect: HEX replacement TES Solana 
+ 
+Document code: TD-INS-SLN-012 
+Supplier Code: 1950201-PTP-001 
+Revision: 01 
+Date: 18/11/2020 
+ 
+Prepared by: 
+ Unai Oyarzabal Signature 
+ 
+Reviewed by: 
+Jon Ander Agúndez Signature 
+ 
+Approved by: 
+Marta Guerreiro Signature 
+ 
+This Procedure is owned by Abengoa. Its total or partial reproduction by any means as well as its distribution to third parties without the 
+express written consent of Abengoa is forbidden. 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 2 of 19 
+ 
+Review Control Sheet 
+ 
+Revision Date Purpose of the Review Prepared Reviewed Approved 
+00 27/10/2020 Initial Issue UO JAA MG 
+01 18/11/2020 Atlantica comments UO JAA MG 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 3 of 19 
+ 
+ 
+Index 
+ 
+ 
+1. Aim .......................................................................................................................... 4 
+2. References ................................................................................................................ 5 
+3. Calculation method .................................................................................................. 6 
+4. Agreements prior to the Test .................................................................................... 7 
+5. Testing responsible ................................................................................................... 8 
+6. Reference condition definition .................................................................................. 9 
+7. Measurement of system variables ........................................................................... 13 
+8. Agreements on fouling conditions to be considered ................................................ 14 
+9. Scope and criteria for selection of instruments used in the system variable measurements
+ 15 
+10. Known damages and deficiencies identification .................................................... 16 
+11. Inspections planning ............................................................................................ 17 
+12. Number, installation and location of measuring instruments ................................. 18 
+13. Frequency of measures ......................................................................................... 19 
+ 
+ 
+
+[page 4]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 4 of 19 
+ 
+1. Aim 
+ 
+This document aims to describe the actions and measures to be considered during 
+performance testing of Oil to Salt heat exchangers supplied by LOINTEK for HEX 
+replacement TES Solana, placed in Arizona, USA. 
+ 
+These tests shall determine: 
+• The thermal balance of both fluids, in steady state operation at reference conditions as 
+indicated in Section 6 of the current procedure. 
+• Pressure drop on tube side and shell side at reference conditions. 
+• HAT (Hot Approach Temperature) and CAT (Cold Approach Temperature) va lues 
+estimated at reference conditions. 
+• OHTC, Duty and Pressure loss calculation at reference conditions 
+
+[page 5]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 5 of 19 
+ 
+2. References 
+ 
+ASME PTC 12.5-2000 Single Phase Heat Exchangers: Performance Test Codes. 
+ 
+4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED 
+
+[page 6]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 6 of 19 
+ 
+3. Calculation method 
+ 
+The calculation method used is based on stated in ASME PTC 12.5 and predicts the 
+performance values to be compared with the values measured during the test. 
+ 
+During the test, data of variables set for monitoring the performance test, shall be 
+extracted from the centralized information on the DCS. 
+ 
+From these data, those which are considered representative of system operation shall be 
+extracted. 
+ 
+In order to cross check the mentioned real measured values and the equipment 
+production under the given input data, the “Correction Factors” are used. Thes e factors 
+(previously calculated with HTRI) simulate the sensitivity of a specific output of the unit 
+(i.e. Tout_htf, Tout_ms, etc.) when the variables entered to the equipment differ from 
+those in the Performance Case. That is, this calculation method int ends to simulate how 
+the equipment would behave under real conditions by applying the Correction Factors to 
+the Performance Case, so the calculated outputs and the measured values can be 
+compared for the Performance Test. 
+ 
+For this type of unit, the output s to be cross checked are: Tout_htf, Tout_ms, Pout_htf 
+and Pout_ms. The Correction Factors for each one of this values will be dependent of the 
+following variables: 
+ 
+• Tout_htf = F (Qhtf, Qms, Tin_htf, Tin_ms) 
+• Tout_ms = F (Qhtf, Qms, Tin_htf, Tin_ms) 
+• Pout_htf = F (Qhtf) 
+• Pout_ms = F (Qms) 
+ 
+ 
+First of all, i f the data match (within the limits set out in paragraph 7), LOINTEK will 
+compare H&MB of both sides and will confirm that their similitude is acceptable in 
+concordance to AME PTC 12.5. Then, once such acceptance is reach, LOINTEK would be 
+allowed to figuring performance at reference conditions. 
+ 
+In case of non- coincidence, it is necessary to study the possible causes of the deviation 
+(deficient instrument measures, fouling coefficient different from the estimate, other 
+causes...). 
+ 
+The data will be sent to AEPC for approval. 
+ 
+ 
+ 
+ 
+ 
+
+[page 7]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 7 of 19 
+ 
+4. Agreements prior to the Test 
+ 
+Stakeholders must agree on the following points before starting them: 
+ 
+A) Adopt this procedure to perform and evaluate the results of the test. 
+ 
+B) Define a testing responsible, which will have access to all necessary data and 
+measurement operations with the team, while performing the tests. The client will be 
+responsible for carrying out these tests; in these cases, LOINTEK will send qualified 
+personnel to validate tests. 
+ 
+C) Definition of reference conditions (four of the six variables of the system), see table of 
+variables in section 6 , according to 4521-MEM-EPC-075-000-0001 MS -HTF HEX 
+Warranty Annex COMMENTED. 
+ 
+D) Establish the scope and criteria for inspections of equipment before the test. 
+ 
+E) Establish criteria for steady state operation and design conditions. 
+ 
+F) Establish agreements on fouling conditions to be considered in the calculations. 
+ 
+G) The selection criteria of tools to be used in measurements of sy stem variables to be 
+used in the performance calculation. 
+ 
+H) Identification of known damage or equipment failures (eg plugged tubes, etc). 
+ 
+I) Planning of inspections of equipments pre -test, calibration of measuring equipments 
+to be used, preliminary performance test and performance test. 
+ 
+J) The number, location and installation of temperature, flow and pressure measuring 
+instruments, measurement units to be used during data analysis. In paragraph 9 is 
+expanding on instruments used. 
+ 
+K) Fix the frequency of the measures. In section 13, cadences of proposed measures are 
+fixed. 
+ 
+L) Acceptance test criteria for the Heat and Mass Balance (H&MB):When the different 
+between the duty of both sides (Oil and molten salts ), as long as it is overlap of 
+uncertainty bars as per ASME PTC 12.5-2000 Section 5.3.1.4, is equal or less than 1%, 
+the test will be considered as valid. 
+ 
+ 
+ 
+
+[page 8]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 8 of 19 
+ 
+5. Testing responsible 
+ 
+Client is responsible for carrying out this test, but Lointek is responsible for the analysis of 
+results and issuance of the report. 
+ 
+
+[page 9]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 9 of 19 
+ 
+6. Reference condition definition 
+ 
+The measurement of four of the six variables for the thermal calculation of the system 
+shall be established in order to calculate the two other variabl es and thus determine the 
+accuracy of the calculations according to ASME PTC 12.5.It will be agreed between Client 
+and Lointek which measurements are the most reliable. 
+ 
+These variables to choose from, according to design balance, are as follows 
+ 
+REFERENCE CONDITIONS OF THE EQUIPMENT: Case 1. Maximum Charge 
+Hot fluid, HTF 
+ 
+Cold fluid, MOLTEN SALT 
+Direct reading variables 
+Hot fluid mass flow, HTF Qh 4,105,612 Lb/hr 
+Cold fluid mass flow, MOLTEN SALT Qc 6,622,459 Lb/hr 
+Hot fluid inlet temperature, HTF Th 737.60 ºF 
+Cold fluid inlet temperature, MOLTEN SALT Tc 554.4 ºF 
+Hot fluid inlet pressure, HTF Ph 237.6 psia 
+Cold fluid inlet pressure, MOLTEN SALT Pc 137.7 psia 
+Calculated variables 
+Hot fluid outlet temperature, HTF Th 564.0 ºF 
+Cold fluid outlet temperature, MOLTEN SALT Tc 730.8 ºF 
+Hot fluid outlet pressure, HTF Ph 186.8 psia 
+Cold fluid outlet pressure, MOLTEN SALT Pc 63.73 psia 
+ 
+ 
+Other balances according to 4521-MEM-EPC-075-000-0001 MS -HTF HEX Warranty Annex 
+COMMENTED are the following: 
+ 
+ 
+ 
+ 
+ 
+
+[page 10]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 10 of 19 
+ 
+ 
+ 
+ 
+REFERENCE CONDITIONS OF THE EQUIPMENT: Case 2. Discharging 
+Hot fluid, MOLTEN SALT 
+ 
+Cold fluid, HTF 
+Direct reading variables 
+Hot fluid mass flow, MOLTEN SALT Qh 6,604,023 Lb/hr 
+Cold fluid mass flow, HTF Qc 4,083,090 Lb/hr 
+Hot fluid inlet temperature, MOLTEN SALT Th 729 ºF 
+Cold fluid inlet temperature, HTF Tc 545 ºF 
+Hot fluid inlet pressure, MOLTEN SALT Ph 112.8 psia 
+Cold fluid inlet pressure, HTF Pc 234.2 psia 
+Calculated variables 
+Hot fluid outlet temperature, MOLTEN SALT Th 556.2 ºF 
+Cold fluid outlet temperature, HTF Tc 717.8 ºF 
+Hot fluid outlet pressure, MOLTEN SALT Ph 39.04 psia 
+Cold fluid outlet pressure, HTF Pc 184.0 psia 
+ 
+ 
+ 
+REFERENCE CONDITIONS OF THE EQUIPMENT: Case 3. Summer Charge 
+Hot fluid, HTF 
+ 
+Cold fluid, MOLTEN SALT 
+Direct reading variables 
+Hot fluid mass flow, HTF Qh 3,102,130 Lb/hr 
+Cold fluid mass flow, MOLTEN SALT Qc 5,079,985 Lb/hr 
+Hot fluid inlet temperature, HTF Th 737.6 ºF 
+
+[page 11]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 11 of 19 
+ 
+Cold fluid inlet temperature, MOLTEN SALT Tc 553.9 ºF 
+Hot fluid inlet pressure, HTF Ph 214.6 psia 
+Cold fluid inlet pressure, MOLTEN SALT Pc 114.7 psia 
+Calculated variables 
+Hot fluid outlet temperature, HTF Th 561.2 ºF 
+Cold fluid outlet temperature, MOLTEN SALT Tc 730.3 ºF 
+Hot fluid outlet pressure, HTF Ph 184.6 psia 
+Cold fluid outlet pressure, MOLTEN SALT Pc 57.96 psia 
+ 
+ 
+REFERENCE CONDITIONS OF THE EQUIPMENT: Case 4. Winter Discharge 
+Hot fluid, MOLTEN SALT 
+ 
+Cold fluid, HTF 
+Direct reading variables 
+Hot fluid mass flow, MOLTEN SALT Qh 6,620,487 Lb/hr 
+Cold fluid mass flow, HTF Qc 4,081,984 Lb/hr 
+Hot fluid inlet temperature, MOLTEN SALT Th 728.3 ºF 
+Cold fluid inlet temperature, HTF Tc 553.8 ºF 
+Hot fluid inlet pressure, MOLTEN SALT Ph 113.4 psia 
+Cold fluid inlet pressure, HTF Pc 237.0 psia 
+Calculated variables 
+Hot fluid outlet temperature, MOLTEN SALT Th 564.3 ºF 
+Cold fluid outlet temperature, HTF Tc 717.8 ºF 
+Hot fluid outlet pressure, MOLTEN SALT Ph 39.45 psia 
+Cold fluid outlet pressure, HTF Pc 186.8 psia 
+ 
+ 
+
+[page 12]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 12 of 19 
+ 
+ 
+ 
+ 
+REFERENCE CONDITIONS OF THE EQUIPMENT: Case 5. 25% Load Charging 
+Hot fluid, HTF 
+ 
+Cold fluid, MOLTEN SALT 
+Direct reading variables 
+Hot fluid mass flow, HTF Qh 1,001,893 Lb/hr 
+Cold fluid mass flow, MOLTEN SALT Qc 1,659,043 Lb/hr 
+Hot fluid inlet temperature, HTF Th 737.60 ºF 
+Cold fluid inlet temperature, MOLTEN SALT Tc 594.3 ºF 
+Hot fluid inlet pressure, HTF Ph 187.2 psia 
+Cold fluid inlet pressure, MOLTEN SALT Pc 68.49 psia 
+Calculated variables 
+Hot fluid outlet temperature, HTF Th 598.1 ºF 
+Cold fluid outlet temperature, MOLTEN SALT Tc 733.8 ºF 
+Hot fluid outlet pressure, HTF Ph 183.2 psia 
+Cold fluid outlet pressure, MOLTEN SALT Pc 49.96 psia 
+ 
+Anyway, client will decide the ones, within the previous balances, that will be run during the 
+performance test. 
+
+[page 13]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 13 of 19 
+ 
+7. Measurement of system variables 
+ 
+The Oil to Salt heat exchanger must operate at steady state conditions before to starting 
+with taking measures for at least 15 minutes. 
+ 
+If in that period of time, flow stability is not achieved, the time of performing of the test 
+should be extended until this point is reached. 
+ 
+Two measurements must be performed to ensure repeatability of results. 
+ 
+Heat exchangers must operate at steady st ate conditions and as close as possible to the 
+design mode. The limits, which are defined based on operating experience of this kind of 
+power plants, are shown in the following table: 
+ 
+DEVIATIONS LIMIT IN PARAMETERS 
+Parameters 
+Deviation limit for test conditions of 
+the desing mode 
+Steadystateconditionlimit 
+Hot Fluid MassFlow +- 10 % +- 3 % 
+Hot Fluid Inlet Temperature +- 36 ºF +- 9 ºF 
+Hot Fluid InletPressure +- 10% +- 5 % 
+Cold Fluid MassFlow +- 10% +- 3% 
+Cold Fluid Inlet Temperature +- 36 ºF +- 9 ºF 
+Cold Fluid InletPressure +- 10 % +- 5 % 
+ 
+ 
+
+[page 14]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 14 of 19 
+ 
+8. Agreements on fouling conditions to be considered 
+ 
+The fouling coefficient used in design calculations is established as initial criterion. 
+ 
+Only in the case that a direct observation of the exchange surfaces is made and it is 
+checked that some extraordinary element involves reasonably a review of this coefficient, 
+a different coefficient to the design one shall be used. In any case, this new v alue will be 
+agreed between stakeholders. 
+ 
+The sizing of the heat exchangers is based on the process conditions in the nominal design 
+case (Case 1 of the Warranty Annex) and requires six (6) heat exchangers in series per 
+train. Nevertheless, if the fouling resistance agreed by stakehold ers is di fferent from 
+design one, total thermal duty and outlet temperatures of both fluids will be calculated 
+with the HTRI calculation program, taking into account the new fouling factors agreed, 
+that will be introduced in the program as input. 
+ 
+Effect of Fouling Resistance in Each Shell 
+Case Load Fouling 
+Duty TSalt Out THTF Out 
+MBtu/hr ºF ºF 
+Charge Maximum 
+0x 423 732.1 562.6 
+1x 419.8 730.8 564.0 
+2x 414.5 728 566.4 
+Inlet Conditions (Max Charge): 
+ 
+ Salt Flow Rate = 6,622,459 lb/hr Salt Inlet Temperature = 554.4 ºF 
+ 
+ HTF Flow Rate = 4,105,612 lb/hr HTF Inlet Temperature = 737.6 ºF 
+ 
+ 
+ 
+
+[page 15]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 15 of 19 
+ 
+9. Scope and criteria for selection of instruments used in the system variable 
+measurements 
+ 
+The elements installed during assembly shall be used to calculate the performance of the 
+exchanger. 
+ 
+His placement will be as close as possible to the exchanger. 
+ 
+Then, an indication of the accuracy that measures should have to the uncertainty of the 
+results obtained is admissible. 
+ 
+Measurement Accuracy 
+(over the measured value) 
+Flow ± 5% 
+Temperature ± 3,69 ºF 
+Pressure ± 0,3 % 
+ 
+Respecting the values of error in the measures, we shall obtain values of uncertainty, as 
+follows: 
+ 
+Result Uncertainty 
+Transfer Rate ± 3 – 10 % 
+Heat Exchanged ± 3 – 10 % 
+Pressure Loss ± 3 – 12 % 
+ 
+As mentioned above, instruments to be used are those used for the control and safety of 
+the power plant, which are communicated to the DCS, which will record all necessary 
+measures. 
+ 
+Note: The uncertainty is pending, must be justified through the delivery of supporting 
+calculations. 
+ 
+
+[page 16]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 16 of 19 
+ 
+10. Known damages and deficiencies identification 
+ 
+In case of plugged tubes prior to performance test, a plane of the tubesheet of these 
+equipments shall be included in Annex A, indicating clearly the total number of plugged 
+tubes and their position. 
+ 
+As in the case of fouling resistance, if tubes are plugged to prevent leaking, total thermal 
+duty and outlet temperatures of both fluids will be calculated with the HTRI calculation 
+program, taking into account the new total effective number of tubes, that will be 
+introduced in the program as input. 
+ 
+Effect of Plugging Tubes in Each Shell 
+Case Load Tubes Plugged 
+Duty TSalt Out THTF Out 
+MBtu/hr ºF ºF 
+Charge Maximum 
+0% 419.8 730.8 564.0 
+5% 419 730.4 564.4 
+10% 418.1 730.0 564.8 
+Inlet Conditions (Max Charge): 
+ 
+ Salt Flow Rate = 6,622,459 lb/hr Salt Inlet Temperature = 554.4 ºF 
+ 
+ HTF Flow Rate = 4,105,612 lb/hr HTF Inlet Temperature = 737.6 ºF 
+ 
+ 
+ 
+
+[page 17]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 17 of 19 
+ 
+11. Inspections planning 
+ 
+Before doing the final performance test, a tracing of the general behavior of each 
+equipment shall be carried out, in order to detect possible anomalies in the measurements 
+of the parameters obtained. 
+It shall review, in particular: 
+ 
+- Overall dimensions of equipments, and correct placement and installation of lagging 
+and its thickness. 
+ 
+- Define the number of plugged tubes (if applicable). 
+ 
+- Revision of the cleaning of inside surfaces that have been made after the hydrostatic 
+test. 
+ 
+- Revision of the instruments to be used for the performance test, verifying its correct 
+placement and operation. 
+ 
+
+[page 18]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 18 of 19 
+ 
+12. Number, installation and location of measuring instruments 
+ 
+At least, the following measuring elements shall be installed on each equipment: 
+ 
+- Thermometers and / or temperature transmitters at inlet and outlet of the hot and cold 
+fluids. 
+ 
+- Manometers and / or pressure transmitters at inlet and outlet of the hot and cold 
+fluids. 
+ 
+- Mass flow meters in the lines of hot and cold fluids. 
+ 
+In section 7, instruments used for the realization of the performance test are detailed. 
+ 
+ 
+ 
+ 
+
+[page 19]
+ 
+Document: TD-INS-SLN-012 
+ 
+Revision: 01 Date: 18/11/2020 
+Page: 19 of 19 
+ 
+13. Frequency of measures 
+ 
+During performance testing, measures will be made, and they will be recorded in a table, 
+with the following conditions: 
+ 
+- If the equipment could be operated under service conditions, these measures will be 
+used to analyze the performance of the exchanger. 
+ 
+- The equipment must be operated at steady state conditions during at least 15 minutes. 
+15 measures shall be carried out during 30 minutes, with 2 minutes of separation 
+between them. 
+ 
+- Whether any of the measures is inconsistent with data, it will be rejected and will not 
+be used for the final analysis. 
+ 
+- When the operating conditions of the equipment change, the process shall be 
+repeated as described above, so that, at every hour, different operating conditions can 
+be analyzed.

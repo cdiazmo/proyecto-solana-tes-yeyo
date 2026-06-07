@@ -1,0 +1,38 @@
+{
+  "id": "9a4f652963cf33aa",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/212-HTF-05-CS30-20_rev02_Sht_2.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 465123,
+  "size_human": "454 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "212-HTF-05-CS30-20 rev02 Sht 2",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/9a4f652963cf33aa.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180717142301-05'00'",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20180717142322-05'00'",
+      "Producer": "Acrobat Distiller 18.0 (Windows)",
+      "Title": "Model"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.455858+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:59.477530+00:00"
+}

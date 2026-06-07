@@ -1,0 +1,413 @@
+[page 1]
+ABENER TEYMA Page 1 of 7 
+SOLANA 
+ Document No: 4521-ESP-ANC-00-62-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+ Pro ject Design Criteria Project: Solana 
+ Ref.: Issue: Dated : 
+ 
+ 
+5 15 Aug 2011 Issued for Design MJF CWG JCH 
+ 
+ 
+ 
+No. Date Description By Chk'd App'd App'd
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission 
+of billings or estimates in billing cycles other than thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owners designated 
+agent Teyma USA & Abener Engi neering and Construction Services General Partnership at 
+4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated 
+agent shall provide this written description on request. 
+ 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in w hole or part including shop drawings shall bear this 
+stamp. 
+ 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Instructions: 
+ 
+1. Initialing (By/Chk’d/App’d) required on cover shee t only. All other title block information must be 
+ included on all pages. 
+ 
+2. Revisions are identified in the body of the Specification. 
+ 
+ DESCRIPTION OF
+REV. 
+NO. 
+ 
+DATE 
+ 
+BY CHK’D APP’D 
+REVISION INCLUDING
+PAGE NUMBERS 
+ 
+0 24 Sept 08 CWG LKW TS/ MDC Issued for Design
+ 
+1 12 Jan 08 CWG LKW TS/MDC Issued for Design
+ 
+2 24 Mar 10 CDM CWG DDC Issued for Design
+ 
+3 18 Aug 2010 TS OGS CWG/MDC Issued for Design
+ 
+4 15 May 2011 MJF CWG JPW Issued for Design
+ 
+5 15 Aug 2011 MJF CWG JCH Issued for Design
+Revised IBC from 2009 to 2006 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENER TEYMA Page 2 of 7 
+SOLANA 
+ Document No: 4521-ESP-ANC-00-62-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+ Pro ject Design Criteria Project: Solana 
+ Ref.: Issue: Dated : 
+ 
+ 
+5 15 Aug 2011 Issued for Design MJF CWG JCH 
+ 
+ 
+ 
+No. Date Description By Chk'd App'd App'd
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission 
+of billings or estimates in billing cycles other than thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owners designated 
+agent Teyma USA & Abener Engi neering and Construction Services General Partnership at 
+4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated 
+agent shall provide this written description on request. 
+ 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in w hole or part including shop drawings shall bear this 
+stamp. 
+ 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+1. SITE INFORMATION: 
+ 
+The plant site is located in Maricopa County, Arizon a, approximately 80 miles southwest of Phoenix, and 
+20 miles west of the town on Gila Bend near Interstate 8 and Painted Rock Dam Road. 
+ 
+City Gila Bend, Arizona 
+Elevation (feet above sea level) 735 ft 
+Dry Bulb Temperature (design °F) 122°F 
+Dry Bulb Temperature (design min, °F) 25°F 
+Wet Bulb Temperature (design max °F) 72°F 
+Barometric Pressure (psia) 14.30 
+Building Code IBC-20 06 
+All Other Building & Structure Classification (u.n.o.) TBD 
+Location Lat. 32.92 ° 
+Long. -112.98 ° 
+Basic Wind Speed 90 MPH 
+Prevailing Wind Direction South West 
+Annual Rainfall 7 inches 
+100 Year Rainfall 24 hour basis is 0.17 in/hr 
+ 1 hour basis is 2.5 in/hr 
+ 
+2. DESIGN BASIS: Design basis is equipment specific. Refer to individual specifications. 
+ 
+3. STRUCTURAL DESIGN BASIS 
+ 
+3.1 Occupancy Category for Wind and Seismic Importance Factors (ASCE 7-05 Table 1-1) 
+ 
+a. Structures within the solar collector field: Category II 
+b. Structures and buildings within the central plant power block: Category III 
+c. Firewater storage tank and firewater pump building: Category IV 
+ 
+
+[page 3]
+ABENER TEYMA Page 3 of 7 
+SOLANA 
+ Document No: 4521-ESP-ANC-00-62-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+ Pro ject Design Criteria Project: Solana 
+ Ref.: Issue: Dated : 
+ 
+ 
+5 15 Aug 2011 Issued for Design MJF CWG JCH 
+ 
+ 
+ 
+No. Date Description By Chk'd App'd App'd
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission 
+of billings or estimates in billing cycles other than thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owners designated 
+agent Teyma USA & Abener Engi neering and Construction Services General Partnership at 
+4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated 
+agent shall provide this written description on request. 
+ 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in w hole or part including shop drawings shall bear this 
+stamp. 
+ 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+ 
+3.2 Wind Load: Calculated per ASCE 7-05 
+ 
+3.2.1 Basic Wind Speed: 90 MPH (Figure 6-1) 
+ 
+3.2.2 Wind Exposure Category: C 
+ 
+3.2.3 Wind Importance Factor (Table 6-1) 
+ 
+I
+W = 1.00 for Category II (solar field) 
+IW = 1.15 for Category III (central plant) 
+IW = 1.15 for Category IV (firewater) 
+ 
+3.2.4 Wind Directionality Factor (Table 6-4) 
+ 
+KD = 0.85 for buildings and signs 
+KD = 0.95 for round chimneys and tanks 
+ 
+3.2.5 Topographic Factor: KZT = 1.0 
+ 
+3.2.6 Gust Effect Factor: G = 0.85 (for rigid structures) 
+ 
+3.3 Earthquake Loads: Calculated Per ASCE 7-05 
+ 
+3.3.1 Seismic Importance Factor (Table 11.5-1): 
+ 
+IE = 1.0 for Category II (solar field) 
+IE = 1.25 for Category III (central plant) 
+ 
+3.3.2 Mapped Spectral Response Acceleration Co efficients (5% damped, 2% probability of 
+exceedance within 50 years, from USGS National Seismic Hazard Maps - 2002): 
+ 
+
+[page 4]
+ABENER TEYMA Page 4 of 7 
+SOLANA 
+ Document No: 4521-ESP-ANC-00-62-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+ Pro ject Design Criteria Project: Solana 
+ Ref.: Issue: Dated : 
+ 
+ 
+5 15 Aug 2011 Issued for Design MJF CWG JCH 
+ 
+ 
+ 
+No. Date Description By Chk'd App'd App'd
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission 
+of billings or estimates in billing cycles other than thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owners designated 
+agent Teyma USA & Abener Engi neering and Construction Services General Partnership at 
+4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated 
+agent shall provide this written description on request. 
+ 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in w hole or part including shop drawings shall bear this 
+stamp. 
+ 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Short Period S S = 0.23006 
+1-sec Period S1 = 0.08845 
+ 
+3.3.3 Site Class: D 
+ 
+3.3.4 Site Coefficients (Tables 11.4-1 and 11.4-2): 
+ 
+F
+A = 1.6 F V = 2.4 
+ 
+3.3.5 Adjusted Spectral Response Acceleration Coefficients (for Site Class D): 
+ 
+Short Period S MS = FaSs S MS = 0.3681 
+1-sec Period SM1 = FvS1 SM1 = 0.2123 
+ 
+3.3.6 Design Spectral Response Acceleration Coefficients: 
+ 
+Short Period S DS = 2/3 SMS S DS = 0.245 
+1-sec Period SD1 = 2/3 SM1 SD1 = 0.142 
+ 
+3.3.7 Seismic Design Category (Tables 11.6-1 and 11.6-2): 
+ 
+Short Period SDC B 
+1-sec Period SDC C 
+Governing Seismic Design Category: C 
+ 
+4. NOISE LEVEL: Individual equipment shall be designed for 85 dBA SPL @ 3 ft. 
+ 
+5. COOLING TOWER WATER: 
+ 
+Summer peak design cooling water temperatures: 
+Supply Temperature 82°F 
+Return Temperature 102.9°F 
+
+[page 5]
+ABENER TEYMA Page 5 of 7 
+SOLANA 
+ Document No: 4521-ESP-ANC-00-62-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+ Pro ject Design Criteria Project: Solana 
+ Ref.: Issue: Dated : 
+ 
+ 
+5 15 Aug 2011 Issued for Design MJF CWG JCH 
+ 
+ 
+ 
+No. Date Description By Chk'd App'd App'd
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission 
+of billings or estimates in billing cycles other than thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owners designated 
+agent Teyma USA & Abener Engi neering and Construction Services General Partnership at 
+4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated 
+agent shall provide this written description on request. 
+ 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in w hole or part including shop drawings shall bear this 
+stamp. 
+ 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+For specific design cases and specific equipment design criteria, see equipment spec’s directly. 
+Equipment Design Pressure 150 psig 
+ 
+6. MECHANICAL & ELECTRICAL EQUIPMENT TEMPERATURE RATINGS 
+ 
+6.1 Outdoor Mechanical & Electrical Equipment 
+Outdoor mechanical & electrical equipment shall be designed for design dry bulb temperature 
+plus 1008W/m2 DNI (Daily Normal Irradiance), unless otherwise stated in mechanical or electrical 
+equipment specifications. 
+ 
+6.2 Mechanical & Electrical Equipment in Indoor Non-cooled Buildings (i.e. ventilation fans only 
+buildings) 
+Building manufacturer shall design ventilation system in order to account for ambient design dry 
+bulb temperature plus direct sunlight plus code ca lculated heat gains. Ventilation shall be sized 
+to not allow inside building temperature to rise more than ten degrees above ambient design dry 
+bulb temperature. Mechanical & electrical equi pment inside these indoor non-cooled buildings 
+shall be designed with temperature ratings not less than 149 degrees F. 
+ 
+7. FIRE WATER AVAILABLE: 125 psig 
+ 
+8. MATERIALS OF CONSTRUCTION: 
+ 
+8.1 Materials of construction shall be Vendor standard unless otherwise stated in the equipment 
+specifications, and suitable for use in an industrial plant environment. 
+ 
+8.2 The use of items and materials containing asbestos is not permitted. 
+ 
+9. PROVEN DESIGN: 
+ 
+Vendor shall furnish equipment and/or materials, whic h have been proven by successful operation for at 
+least (5) years. 
+ 
+
+[page 6]
+ABENER TEYMA Page 6 of 7 
+SOLANA 
+ Document No: 4521-ESP-ANC-00-62-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+ Pro ject Design Criteria Project: Solana 
+ Ref.: Issue: Dated : 
+ 
+ 
+5 15 Aug 2011 Issued for Design MJF CWG JCH 
+ 
+ 
+ 
+No. Date Description By Chk'd App'd App'd
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission 
+of billings or estimates in billing cycles other than thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owners designated 
+agent Teyma USA & Abener Engi neering and Construction Services General Partnership at 
+4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated 
+agent shall provide this written description on request. 
+ 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in w hole or part including shop drawings shall bear this 
+stamp. 
+ 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+10. TECHNICAL EXCEPTIONS: 
+ 
+All comments and exceptions to the specifications must be clearly stated in the proposal and shall 
+reference the appropriate paragraph. 
+ 
+11. GUARDS FOR MOVING PARTS: 
+ 
+OSHA guards shall be provided. 
+ 
+12. LIFTING LUGS: 
+ 
+Adequate lifting lugs shall be provided. If the equipment is shipped in sections, provide lugs for each sub-
+assembly. 
+ 
+13. ELECTRICAL POWER: 
+ 
+Motors: 1/2 to 250 hp- 460 Volts, Three Phase, 60 HZ.* 
+250 T0 400 hp- 4000 Volts, Three Phase, 60 HZ.* 
+500 T0 3000 hp- 4000 Volts, Three Phase, 60 HZ. 
+ 
+Motors with VSD: ½ to 450 hp- 460 Volts, Three Phase, 60 HZ 
+ Greater than 450 hp- 4000 Volts, Three Phase, 60 HZ. 
+ 
+*Note: For equipment requiring 250 HP motors, the vendor shall provide a quotation for both a 460 V 
+and a 4,000 volt motor. 
+ 
+Control/Instrument Power: 
+2-Wire loop powered field transmitter: 24 VDC 
+4-Wire field transmitters: 115 VAC, 60 Hz 
+Field contacts for status and alarms: 115 VAC, 60 Hz or 24 VDC 
+Field contacts for Interlocks: 115 VAC, 60 Hz or 24 VDC 
+Continuous process variables: 4-20 mA DC 
+
+[page 7]
+ABENER TEYMA Page 7 of 7 
+SOLANA 
+ Document No: 4521-ESP-ANC-00-62-0001 
+Specification For Job No.: 120006 No. Req'd.: 
+ Pro ject Design Criteria Project: Solana 
+ Ref.: Issue: Dated : 
+ 
+ 
+5 15 Aug 2011 Issued for Design MJF CWG JCH 
+ 
+ 
+ 
+No. Date Description By Chk'd App'd App'd
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission 
+of billings or estimates in billing cycles other than thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owners designated 
+agent Teyma USA & Abener Engi neering and Construction Services General Partnership at 
+4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated 
+agent shall provide this written description on request. 
+ 
+ 
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or 
+written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in w hole or part including shop drawings shall bear this 
+stamp. 
+ 
+Specification Form - Solana (Rev. 3/2011) 
+ 
+Temperature Devices: Type J, Type K or Type R thermocouples; 100 Ω Platinum RTDs 
+ 
+14. SYSTEM OF MEASUREMENTS 
+ 
+English units shall be used on all project documents, and instrument scales. 
+ 
+15. HAZARDOUS AREA CLASSIFICATION: 
+Refer to drawings: 
+4521-PLN-ANC-00-00-H101 
+4521-PLN-ANC-00-00-H102

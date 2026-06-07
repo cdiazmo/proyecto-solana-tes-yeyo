@@ -1,0 +1,40 @@
+{
+  "id": "ac38eebe2f87d155",
+  "path": "12 As Built TES 6/03_C&S/02_CAL/4521-CAL-AEE-75-52-0002-GAR_Rev01_Drain_back_tank/4521-CAL-AGE-75-52-0002_Rev 1-GAR.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 11838957,
+  "size_human": "11 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-CAL-AGE-75-52-0002 Rev 1-GAR",
+  "doc_code": "4521-CAL-AGE-75-52-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 84336,
+  "token_estimate": 21084,
+  "chunks": 54,
+  "card_path": ".yeyo-memory/cards/ac38eebe2f87d155.json",
+  "extracted_path": ".yeyo-memory/extracted/ac38eebe2f87d155.txt",
+  "metadata": {
+    "pages": 48,
+    "pdf_metadata": {
+      "Title": "4521-CAL-AGE-75-52-0002_Rev 1-GAR",
+      "Author": "Pedro Pajares de Tena",
+      "Subject": "",
+      "Producer": "Mac OS X 10.13.3 Quartz PDFContext",
+      "Creator": "Word",
+      "CreationDate": "D:20180406173728Z00'00'",
+      "ModDate": "D:20180406173728Z00'00'",
+      "Keywords": "",
+      "AAPL:Keywords": "[]"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Tanque / drain back tank",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.460142+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:00.460147+00:00"
+}

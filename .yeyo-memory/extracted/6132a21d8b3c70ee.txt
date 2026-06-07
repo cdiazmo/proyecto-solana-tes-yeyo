@@ -1,0 +1,327 @@
+[page 1]
+Arizona Solar One Abeinsa Engineering 
+ 
+ 
+Descriptive Memory 
+ 
+Title: 
+TES Replacement HEX Operating Philosophy 
+Client: Arizona Solar One 
+Project: HEX replacement TES Solana 
+ 
+ 
+Document No. : 4521-MEM-AEE-68-10-0001-GAR 
+Revision : 00 
+Purpose: IFI 
+Date : 23/12/2016 
+ 
+Prepared by: 
+Manuel Muñoz Arranz - I&C Engineer 
+Pedro Moreira Gomes - Process Engineer Electronic Signature 
+ 
+Reviewed by: 
+José Maria Rodriguez León - Project Manager Electro nic Signature 
+ 
+Approved by: 
+José Maria Rodriguez León - Project Manager Electro nic Signature 
+ 
+This document is property of Arizona Solar One. Its total or partial reproduction is strictly forbidden by any means, as well as 
+its distribution to third parties without the express written consent of Arizona Solar One. 
+ 
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential informati on, legal requirements or 
+local regulations and/or contractual requirements o f the client), there was a need to modify the requi rements included in 
+this procedure, these changes must be properly docu mented in the quality, environment and health and s afety plan of the 
+project, prior approval from the company headquarters management system department. 
+ 
+The original one of this document is approved and filed in document management system application 
+ 
+
+[page 2]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 2 of 9 
+ 
+Revision Control Sheet 
+ 
+Revision Date Reason for the 
+revision 
+Prepared 
+by 
+Reviewed 
+by 
+Approved 
+by 
+00 23/12/2016 First edition PMG/MMA JMRL JMRL 
+ 
+ 
+ 
+ 
+Preliminary or pending Information 
+Edition Sections Concepts Status 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 3 of 9 
+ 
+ 
+Table of Contents 
+ 
+1. 
+ Scope of the Engineering Works .......................................................................... 4 
+2. Current Situation ................................................................................................... 4 
+3. The new technical solution ................................................................................... 4 
+4. Modifications to the Molten Salts Circuit ............................................................ 4 
+5. Modifications to the HTF Circuit ........................................................................... 6 
+6. Operation Philosophy / Operation Modes ........................................................... 7 
+ 
+
+[page 4]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 4 of 9 
+ 
+1. 
+ Scope of the Engineering Works 
+A generalized and gradual loss in performance has b een detected in the Thermal 
+Energy Storage System (TES) heat exchangers of the Solana parabolic-trough solar 
+thermal power plant. This power plant, located in G ila Bend, Arizona (USA), has a 
+total installed capacity of 280 MW and six (6) hour s of thermal energy storage by 
+molten salt. 
+ 
+For such reason, the plant’s Property has requested the need to conduct a planned 
+replacement of all faulty heat exchangers in each o f the storage systems as it 
+becomes necessary. Thus keeping the plant’s design installed capacity. 
+ 
+2. 
+ Current Situation 
+There are 6 (six) Heat Exchangers (HEX) installed o f the plate type, one per pair of 
+cold and hot molten salts tank. For all of the six (6) Oil-to-Salts HEX, HTF leakages 
+into the MS circuit have been detected and have undergone reparations. 
+ 
+According to the HEX manufacturer the leakages have occurred due to the 
+thermal stress suffered by the equipment during its normal operation. The HTF 
+leaks into the MS circuit and volatilizes, thus cre ating a gaseous pocket inside the 
+equipment and reducing its available heat transfer area. 
+ 
+3. 
+ The new technical solution 
+The final solution consists of replacing the existing plate type heat exchangers 
+(when damaged beyond repairing conditions) by a new HEX. The new equipment 
+is of the tube & shell type with a design duty of 419 800 000 BTU/hr (for both the 
+charge and discharge operations). 
+ 
+To match the performance of a single decommissioned plate type HEX, a set of 6 
+(six) identical heat exchangers working in series is installed. In these HEX the HTF 
+circulates on the tube side and the MS on the shell side. 
+ 
+Due to its weight and dimensions, the new HEX cannot be installed on the 
+platform. It will be placed out of the TES platform, on the ground level and 
+westwards of the decommissioned heat exchanger. 
+ 
+4. 
+ Modifications to the Molten Salts Circuit 
+The MS inline filters installed on the MS circuit o n the platform are removed and 
+from that point new piping is added to connect the cold and hot MS tanks to the 
+new equipment. 
+ 
+For the existing control valves or pumps there is no need for replacements. 
+
+[page 5]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 5 of 9 
+ 
+Additionally, because the HEX will be located at a height below the MS tanks MS 
+inlet, a drain back tank will be installed inside a pit next to the HEX. 
+ 
+This tank will receive all the MS in the piping cir cuit drained by gravity, which then 
+are pumped back into the tanks. The tank’s capacity is not enough to hold the 
+whole MS inside the HEX and piping network. Instead, it will work as a buffer tank 
+while the drain back pump (installed in the tank) i s working and delivering the MS 
+back to the cold MS tank. 
+ 
+Before the highest point in the MS circuit was the HEX itself, and the MS could be 
+drained back by gravity back to the hot and cold MS tanks. 
+ 
+Apart from having to install a new MS drainage syst em, another modification to 
+the previous installation is the possibility of hav ing “Interchangeability” between 
+TES systems. 
+ 
+The Interchangeability concept is the following: 
+ 
+The original plan is that while the existing six (6 ) plate HEX are being 
+decommissioned, a new tube & shell HEX is installed as a replacement. 
+ 
+In case that both plate heat exchangers are not av ailable, there is the possibility 
+that two TES system share a single HEX. Due to pipi ng restrictions the possible 
+combinations are the following: 
+ 
+-
+ 1 HEX for TES 1 & TES 2 
+- 1 HEX for TES 3 & TES 4 
+- 1 HEX for TES 5 & TES 6 
+ 
+That is possible by connecting the cold salts and h ot salts tanks outlet lines in a 
+common MS header (check Figure 1). 
+ 
+
+[page 6]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 6 of 9 
+ 
+ 
+Figure 1: Example of interchangeability where both TES share a single HEX. 
+ 
+Considerations to Interchangeability: 
+ 
+- There is no transfer of MS between crossed TES (e.g . :the salts in TES 1 
+cannot be stored in a TES 2 tank) 
+ 
+- The HTF circuit doesn’t needs to be bridged to supp ly hot or cold HTF. 
+Because both solar fields are connected to a common header the existing 
+HTF circuit is valid for the charge and discharge operation of both TES. 
+ 
+5. 
+ Modifications to the HTF Circuit 
+Likewise for the MS circuit. The extra piping, requ ired to reach the new HEX, will 
+be installed where the existing HTF filters are cur rently installed, on the top of the 
+platform. 
+ 
+No new control valves or pumps need to be added or modified. The already 
+existing ones are suitable for the new circuit. 
+ 
+As mentioned in the previous section. For the Inter changeability operation the 
+existing HTF circuit is valid. 
+ 
+
+[page 7]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 7 of 9 
+ 
+6. 
+ Operation Philosophy / Operation Modes 
+Description of the TES four operating procedures 
+ 
+Charge Operation 
+The charge operation consists of heating the cold M S using hot HTF from the solar 
+field. 
+The salts are pumped from the cold MS tank and then sent to a HEX, to be stored 
+in the hot MS tanks. 
+ 
+MS Circuit Description 
+ 
+Between normal charge and discharge operations the MS circuit will not be totally 
+drained and there will be gases accumulation. 
+As a good engineering and operation practice, befor e starting the normal 
+operation the circuit must be purged of all gaseous pockets trapped inside it. 
+With the new MS circuit, there are two (2) high poi nts in the circuit, located at the 
+hot and cold MS jumpers (where the gases shall accu mulate). At these high points 
+there are two vents, each with an on/off valve and connected to the cold salts 
+tank. 
+ 
+To evacuate these gases and fill the whole MS circu it, the cold salts pump is set to 
+a minimum speed and the receiving tank (hot tank) i nlet valve is closed, whilst the 
+vent valves are open. The flow of MS should push al l gases. This procedure is 
+finished as soon as through the vents there are MS returning to the tank. Once 
+there are salts flowing through the vent, the vent valves are closed and the hot salt 
+tank inlet valve opened and the system set to automatic mode. 
+ 
+HTF Circuit Description 
+Once the MS circuit is filled with liquid the contr ol valve on the hot and cold HTF 
+open and the HTF flows to heat the cold MS. 
+ 
+
+[page 8]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 8 of 9 
+ 
+Shutdown / Stand-by 
+MS Circuit Description 
+When the receiving tank level (hot or cold) is reac hing its maximum level, the 
+running pump starts reducing its speed until is fully stopped. 
+ 
+Once there is no MS flowing through the system both the hot and cold salt tanks 
+inlet lines valves open, as well as the vent valves . By doing this it is possible to 
+drain all the MS inside the circuits in the platfor m area (before the jumper) back to 
+the MS tanks. 
+As for the MS circuit section that is at a height b elow the tank inlet height, it will 
+remain inside the circuit and kept above its freezi ng temperature with the help of 
+the electrical tracing system. 
+ 
+HTF Circuit Description 
+As soon as the charge or discharge operation is sto pped the control valves, that 
+connect the cold and hot HTF circuits to the TES sy stem, close and the circuit is 
+kept “bottled” until a new charge or discharge operation is performed. 
+ 
+Likewise for the MS circuit, to prevent from freezi ng the HTF the electrical tracing 
+system is set on. 
+ 
+Discharge Operation 
+The same procedure as described for the Charge Oper ation for the HTF and MS 
+circuits. But instead of running the cold MS pumps, it is the hot MS pump running. 
+ 
+Drainage 
+This operation mode is an exceptional situation for the plant, it should be 
+performed only if the installation requires mainten ance works that don’t allow for 
+the MS circuit to be filled (e.g.: changes of valves or HEX repairs). 
+ 
+ 
+ 
+ 
+
+[page 9]
+Arizona Solar 
+One 
+Document: 4521-MEM-AEE-68-10-0001-GAR 
+Revision: 00 Date: 23/12/2016 Abeinsa 
+Engineering 
+Purpose: IFI Page: 9 of 9 
+ 
+MS Circuit Description 
+Operator shall ensure that TES tanks pumps are stopped and there is enough spare 
+volume at cold MS tank to receive them. 
+Open the vent valves at jumpers to drain back tank, to avoid any vacuum inside 
+the pipes. 
+After that, open drainage valves at HEX system to a llow discharge to drain back 
+tank and empty HEX. 
+Once level at drain back tank get a fixed set point , the pump inside the drain back 
+tank shall start. 
+The operation shall continue until a minimum level is reached inside the drain back 
+tank, meaning that the MS circuit is drained. The d rain back pump stops as well as 
+the MS drainage valves are closed. 
+Vent valves are kept open to maintain the circuit blanketed. 
+ 
+HTF Circuit Description 
+There is no automatic drainage operation for the HT F circuit. In case the system is 
+drained, the procedure is done manually and when th e HTF is cold enough for a 
+safe operation.

@@ -1,0 +1,28 @@
+{
+  "id": "da173a26dc184f47",
+  "path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "xlsx",
+  "size_bytes": 23798,
+  "size_human": "23 KB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "AY EDL Document Control-4-20-2018",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 7021,
+  "token_estimate": 1755,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/da173a26dc184f47.json",
+  "extracted_path": ".yeyo-memory/extracted/da173a26dc184f47.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "rows_seen": 141,
+        "non_empty_rows": 126
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:16:27.432998+00:00"
+}

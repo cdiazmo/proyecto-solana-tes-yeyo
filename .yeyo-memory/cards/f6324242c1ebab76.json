@@ -1,0 +1,38 @@
+{
+  "id": "f6324242c1ebab76",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Quote 9750 Rev 6 Abenisa Salt Drain Pump.pdf",
+  "top_dir": "05 GD Fabricación Tecnica de Compra",
+  "ext": "pdf",
+  "size_bytes": 6531851,
+  "size_human": "6.2 MB",
+  "mtime_iso": "2026-06-05T06:20:00.000Z",
+  "title": "Quote 9750 Rev 6 Abenisa Salt Drain Pump",
+  "doc_code": null,
+  "revision": "Rev 6",
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/f6324242c1ebab76.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 26,
+    "pdf_metadata": {
+      "Title": "201702160939.pdf",
+      "Producer": "Mac OS X 10.10.5 Quartz PDFContext",
+      "Creator": "Preview",
+      "CreationDate": "D:20170216144314Z00'00'",
+      "ModDate": "D:20170216144314Z00'00'",
+      "Keywords": "",
+      "AAPL:Keywords": "[]"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:04.762165+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:04.783399+00:00"
+}

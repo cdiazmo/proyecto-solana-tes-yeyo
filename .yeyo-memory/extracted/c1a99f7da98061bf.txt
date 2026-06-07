@@ -1,0 +1,125 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-HDD-AGE-39-70-0011-GAR_901 | 2 | 2017-01-16 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | 4521-HDD-AGE-39-70-0011-GAR_Rev01_Pressure transmitter
+By review TCS data box | #VALUE!
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | #VALUE!
+4521-HDD-AGE-39-70-0011-GAR | 0 | IFB | 4521-TMT-AEE-AEPC-00xx | 2016-12-23 00:00:00
+Input data | Used
+4521-PLN-AEE-68-71-P271-GAR_Rev01 TES Unit 5 HTF-to-salt HEX
+4521-PLN-AEE-68-71-P272-GAR_Rev01 TES Unit 6 HTF-to-salt HEX
+4521-PLN-AEE-68-71-P278-GAR_Rev01 TES HEX Train
+4521-PLN-AEE-68-71-P279-GAR_Rev01 TES HEX MS drainage
+4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation
+4521-HDD-AEE-075-064-0010-GAR Rev,02 Drain back tank datasheet
+-
+-
+-
+Assumptions:
+It has been included the installed instruments at the datasheet. Instruments that can be reused are defined at document
+4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List
+Some tags of the instruments have been corrected due to last done changes at draft version of P&ID
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-HDD-AGE-39-70-0011-GAR | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+By review TCS data box | #VALUE!
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | #VALUE!
+4521-HDD-AEE-39-70-0011-GAR | 1 | IFB | 4521-TMT-AEE-AEPC-0038 | 2017-01-16 00:00:00
+Input data | Used
+4521-PLN-AEE-68-71-P271-GAR_Rev01 TES Unit 5 HTF-to-salt HEX
+4521-PLN-AEE-68-71-P272-GAR_Rev01 TES Unit 6 HTF-to-salt HEX
+4521-PLN-AEE-68-71-P278-GAR_Rev02 TES HEX Train
+4521-PLN-AEE-68-71-P279-GAR_Rev02 TES HEX MS drainage
+4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation
+4521-HDD-AEE-075-064-0010-GAR Rev,02 Drain back tank datasheet
+-
+-
+-
+Assumptions:
+It has been included the installed instruments at the datasheet. Instruments that can be reused are defined at document
+4521-LIS-AEE-39-70-0015-GAR Rev.1 I&C Instruments List
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+P&ID update
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-HDD-AEE-39-70-0011-GAR | 1 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-HDD-AGE-39-70-0011-GAR_901 | 2 | 2017-01-16 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | 4521-HDD-AGE-39-70-0011-GAR_Rev01_Pressure transmitter
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

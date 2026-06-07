@@ -1,0 +1,91 @@
+{
+  "id": "4939b794b1e4e28e",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0003_R0.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 135793,
+  "size_human": "133 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-57-70-0003 R0",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 110645,
+  "token_estimate": 27661,
+  "chunks": 70,
+  "card_path": ".yeyo-memory/cards/4939b794b1e4e28e.json",
+  "extracted_path": ".yeyo-memory/extracted/4939b794b1e4e28e.txt",
+  "metadata": {
+    "pages": 35,
+    "pdf_metadata": {
+      "CreationDate": "D:20110315144732+01'00'",
+      "Author": "agppgv",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "Producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "ModDate": "D:20110315144732+01'00'",
+      "Title": "4521-ESP-AGE-57-70-0003_Rev0 Temperature transmitter.SF.CCP.XLS"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:55.230492+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::221",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 221,
+        "doc_code": "4521-ESP-AGE-57-70-0002",
+        "title": "Temperature element - RTD with thermowell",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::222",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 222,
+        "doc_code": "4521-ESP-AGE-57-70-0002V",
+        "title": "Solar Collector-Temperature Element RTD w. Thermowell",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::221",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 221,
+        "doc_code": "4521-ESP-AGE-57-70-0002",
+        "title": "Temperature element - RTD with thermowell",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::222",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 222,
+        "doc_code": "4521-ESP-AGE-57-70-0002V",
+        "title": "Solar Collector-Temperature Element RTD w. Thermowell",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:55.230494+00:00"
+}

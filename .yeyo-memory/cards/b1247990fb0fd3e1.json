@@ -1,0 +1,64 @@
+{
+  "id": "b1247990fb0fd3e1",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-ANC-00-70-N001.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 61692,
+  "size_human": "60 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-PLN-ANC-00-70-N001",
+  "doc_code": "4521-PLN-ANC-00-70-N001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 9659,
+  "token_estimate": 2414,
+  "chunks": 6,
+  "card_path": ".yeyo-memory/cards/b1247990fb0fd3e1.json",
+  "extracted_path": ".yeyo-memory/extracted/b1247990fb0fd3e1.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD LT 2013 - English 2013 (19.0s (LMS Tech))",
+      "Title": "Presentacion",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "CreationDate": "D:20121016161827",
+      "ModDate": "D:20121016161827"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:00.911517+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::183",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 183,
+        "doc_code": "4521-PLN-ANC-00-70-N001 P&ID Nomenclature",
+        "title": "",
+        "revision": "12",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::176",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 176,
+        "doc_code": "4521-PLN-ANC-00-70-N001 P&ID Nomenclature",
+        "title": "",
+        "revision": "12",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:00.911520+00:00"
+}

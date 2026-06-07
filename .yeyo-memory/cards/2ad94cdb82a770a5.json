@@ -1,0 +1,162 @@
+{
+  "id": "2ad94cdb82a770a5",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P273-GAR_901_Rev00_TES Hex MS drawing.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 41679,
+  "size_human": "41 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "4521 PLN AEE 68 71 P273-GAR 901 Rev00 TES Hex MS drawing",
+  "doc_code": "4521-PLN-AEE-68-71-P273",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2463,
+  "token_estimate": 615,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/2ad94cdb82a770a5.json",
+  "extracted_path": ".yeyo-memory/extracted/2ad94cdb82a770a5.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Document",
+        "rows_seen": 49,
+        "non_empty_rows": 44
+      },
+      {
+        "name": "Comments",
+        "rows_seen": 33,
+        "non_empty_rows": 7
+      },
+      {
+        "name": "Legend",
+        "rows_seen": 14,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Guide",
+        "rows_seen": 0,
+        "non_empty_rows": 0
+      }
+    ],
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::73",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 73,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR",
+        "title": "PID IFC",
+        "revision": "",
+        "status": "",
+        "date": "2016-12-02 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx::Sheet1::100",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 100,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR-Rev00-Thermal energy storage Un6 Cold salt storage tank",
+        "title": "",
+        "revision": "4521_PLN_AEE_68_71_P273-GAR_Rev00_Thermal energy storage Un6 Cold salt storage tank",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::73",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 73,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR",
+        "title": "PID IFC",
+        "revision": "",
+        "status": "",
+        "date": "2016-12-02 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::67",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 67,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR",
+        "title": "Thermal energy storage Un6 Cold salt storage tank",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "M&P"
+      },
+      {
+        "fingerprint": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx::Sheet1::100",
+        "index_path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev01.xlsx",
+        "index_kind": "document-list",
+        "sheet": "Sheet1",
+        "row": 100,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR-Rev00-Thermal energy storage Un6 Cold salt storage tank",
+        "title": "",
+        "revision": "4521_PLN_AEE_68_71_P273-GAR_Rev00_Thermal energy storage Un6 Cold salt storage tank",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::123",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 123,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR-Rev00-Thermal energy storage Un6 Cold salt storage tank",
+        "title": "",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::173",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 173,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR-Rev01-Thermal energy storage Unit 6 Cold Salt Storage Tank",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::166",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 166,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR-Rev01-Thermal energy storage Unit 6 Cold Salt Storage Tank",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx::Sheet1::102",
+        "index_path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 102,
+        "doc_code": "4521-PLN-AEE-68-71-P273-GAR-Rev00-Thermal energy storage Un6 Cold salt storage tank",
+        "title": "",
+        "revision": "4521_PLN_AEE_68_71_P273-GAR_Rev00_Thermal energy storage Un6 Cold salt storage tank",
+        "status": "IFI",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:30.008159+00:00"
+}

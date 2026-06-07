@@ -1,0 +1,35 @@
+{
+  "id": "0a43cf7206e83209",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/Annex II.III (Winter Discharge).pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 42241,
+  "size_human": "41 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "Annex II.III (Winter Discharge)",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4446,
+  "token_estimate": 1111,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/0a43cf7206e83209.json",
+  "extracted_path": ".yeyo-memory/extracted/0a43cf7206e83209.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "",
+      "Creator": "",
+      "Producer": "Qt 4.7.0 (C) 2010 Nokia Corporation and/or its subsidiary(-ies)",
+      "CreationDate": "D:20160505101921"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:52.157873+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:52.157878+00:00"
+}

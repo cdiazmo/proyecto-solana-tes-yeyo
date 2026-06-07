@@ -1,0 +1,32 @@
+{
+  "id": "b727cac765693736",
+  "path": "13_Documentos de Inspección Final/S3.2  04_03_2018.pdf",
+  "top_dir": "13_Documentos de Inspección Final",
+  "ext": "pdf",
+  "size_bytes": 1119987,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "S3.2 04 03 2018",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 5226,
+  "token_estimate": 1306,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/b727cac765693736.json",
+  "extracted_path": ".yeyo-memory/extracted/b727cac765693736.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180404161142-05'00'",
+      "Creator": "AutoCAD 2017 - English 2017 (21.0s (LMS Tech))",
+      "ModDate": "D:20180404161242-05'00'",
+      "Producer": "Acrobat Distiller 18.0 (Windows)",
+      "Title": "S3.2"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-05T09:21:26.021188+00:00"
+}

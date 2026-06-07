@@ -1,0 +1,23 @@
+{
+  "id": "1ac886dfcc49248b",
+  "path": "12 As Built TES 6/03_C&S/02_CAL/4521-CAL-AEE-75-52-0003-GAR_Rev01_Drain_back_tank_support/4521-CAL-AGE-75-52-0003_Rev1-GAR.docx",
+  "top_dir": "12 As Built TES 6",
+  "ext": "docx",
+  "size_bytes": 1160704,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-CAL-AGE-75-52-0003 Rev1-GAR",
+  "doc_code": "4521-CAL-AGE-75-52-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 25526,
+  "token_estimate": 6381,
+  "chunks": 17,
+  "card_path": ".yeyo-memory/cards/1ac886dfcc49248b.json",
+  "extracted_path": ".yeyo-memory/extracted/1ac886dfcc49248b.txt",
+  "metadata": {
+    "paragraphs": 238,
+    "table_rows": 307
+  },
+  "processed_at": "2026-06-05T09:19:27.927053+00:00"
+}

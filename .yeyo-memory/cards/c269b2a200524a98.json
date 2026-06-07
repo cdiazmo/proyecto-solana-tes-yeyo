@@ -1,0 +1,39 @@
+{
+  "id": "c269b2a200524a98",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0013_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 54578,
+  "size_human": "53 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0013 R1",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 16784,
+  "token_estimate": 4196,
+  "chunks": 11,
+  "card_path": ".yeyo-memory/cards/c269b2a200524a98.json",
+  "extracted_path": ".yeyo-memory/extracted/c269b2a200524a98.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120627184155-05'00'",
+      "ModDate": "D:20120627184155-05'00'",
+      "Title": "4521-ESP-AGE-39-70-0013 VOC Analyzer",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.863121+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:01.863127+00:00"
+}

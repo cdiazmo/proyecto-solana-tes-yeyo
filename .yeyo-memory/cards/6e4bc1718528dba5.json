@@ -1,0 +1,28 @@
+{
+  "id": "6e4bc1718528dba5",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "xlsx",
+  "size_bytes": 61248,
+  "size_human": "60 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "SMWP Document List 9-21-2018",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 16804,
+  "token_estimate": 4201,
+  "chunks": 11,
+  "card_path": ".yeyo-memory/cards/6e4bc1718528dba5.json",
+  "extracted_path": ".yeyo-memory/extracted/6e4bc1718528dba5.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "SMWP -Document List",
+        "rows_seen": 338,
+        "non_empty_rows": 328
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:24:21.622591+00:00"
+}

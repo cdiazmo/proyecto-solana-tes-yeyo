@@ -1,0 +1,30 @@
+{
+  "id": "3250998115df9476",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS96.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 102914,
+  "size_human": "101 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-61-CS96",
+  "doc_code": "4521-ESP-ANC-68-61-CS96",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2923,
+  "token_estimate": 730,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/3250998115df9476.json",
+  "extracted_path": ".yeyo-memory/extracted/3250998115df9476.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100805102510",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-61-CS96 - Propane Class 150 CS"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:38.106299+00:00"
+}

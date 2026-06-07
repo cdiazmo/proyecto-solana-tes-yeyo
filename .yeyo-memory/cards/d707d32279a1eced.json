@@ -1,0 +1,39 @@
+{
+  "id": "d707d32279a1eced",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-64-0005_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 108845,
+  "size_human": "106 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-64-0005 R1",
+  "doc_code": "4521-ESP-AGE-39-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 33162,
+  "token_estimate": 8290,
+  "chunks": 21,
+  "card_path": ".yeyo-memory/cards/d707d32279a1eced.json",
+  "extracted_path": ".yeyo-memory/extracted/d707d32279a1eced.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.04",
+      "CreationDate": "D:20120529120725+02'00'",
+      "ModDate": "D:20120529120725+02'00'",
+      "Title": "4521-ESP-AGE-39-64-0005 Gate On-off valves",
+      "Creator": "PDFCreator Version 1.2.3",
+      "Author": "agvari",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:02.931977+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:02.931981+00:00"
+}

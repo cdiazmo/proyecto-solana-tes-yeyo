@@ -1,0 +1,37 @@
+{
+  "id": "2fa39c718e38f98f",
+  "path": "07 Presentado al Condado/0005_Isometrics/Firmado/MS/PDF/253-MS-01F-CS31-20_rev02_Sht_2.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 323521,
+  "size_human": "316 KB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "253-MS-01F-CS31-20 rev02 Sht 2",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/2fa39c718e38f98f.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20180615115002Z",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20180615152858-05'00'",
+      "Producer": "pdfplot11.hdi 11.0.55.0",
+      "Title": "Model"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.022649+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:54.044573+00:00"
+}

@@ -1,0 +1,65 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_LIS_AEE_39_61_0003-GAR_901 | 3 | 2017-06-01 00:00:00 | Manual Valve List | Abeinsa Engineering
+Submitted Document | _Manual Valve List TES HEX Replacement
+By review TCS data box | C:\Users\agmbo\Desktop\Solana\Entregas\01-05 Mec\[4521_LIS_AEE_39_61_0003-GAR_901_Rev03_Manual Valve List TES HEX Replacement.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521_LIS_AEE_39_61_0003-GAR_901_Rev03_Manual Valve List TES HEX Replacement
+4521_LIS_AEE_39_61_0003-GAR | 3 | IFD | 4521-TMT-AEE-AEPC-0083 | 2017-05-01 00:00:00
+Input data | Used
+As built "4521-LIS-AGE-39-61-0001 Pipeline TES system_ Rev 7"
+TES HEX Replacemente final P&IDs
+Assumptions:
+-
+-
+Holds:
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+HTF venting valves not required, as they are already located in the highest point of the previous pipe routing.
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521_LIS_AEE_39_61_0003-GAR | 3 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521_LIS_AEE_39_61_0003-GAR_901 | 3 | 2017-06-01 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | _Manual Valve List TES HEX Replacement
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

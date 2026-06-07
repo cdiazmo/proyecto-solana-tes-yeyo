@@ -1,0 +1,30 @@
+{
+  "id": "fe98b101f2adb0c7",
+  "path": "04 GD Fabricacon LOI TES 3/Lista documentos/1950201 Document List.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 79757,
+  "size_human": "78 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "1950201 Document List",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2662,
+  "token_estimate": 665,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/fe98b101f2adb0c7.json",
+  "extracted_path": ".yeyo-memory/extracted/fe98b101f2adb0c7.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Alvaro Bilbao",
+      "CreationDate": "D:20191029143235+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Excel",
+      "ModDate": "D:20191029143237+01'00'",
+      "Producer": "Adobe PDF Library 15.0"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:29.497154+00:00"
+}

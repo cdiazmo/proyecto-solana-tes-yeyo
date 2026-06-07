@@ -1,0 +1,78 @@
+Discipline | Document number | Document description | Rev
+C&S | 4521-CAL -AEE-75-52-0002-GAR | Drain_back_tank | 1
+C&S | 4521-MTO-AEE-75-52-0002-GAR | Drain_back_tank | 0
+C&S | 4521-PLN-AEE-75-52-0002-GAR | Drain_back_tank | 1
+C&S | 4521-CAL -AEE-75-52-0001-GAR | Exchangers_foundation | 1
+C&S | 4521-MTO-AEE-75-52-0001-GAR | Exchangers_foundation | 0
+C&S | 4521-PLN-AEE-75-52-0001-GAR | Exchangers_foundation | 1
+C&S | 4521-PLN-AEE-68-51-0001-GAR | Layout_new_exchangers | 4
+C&S | 4521-LIS-AEE-75-52-0006-GAR | Exchangers_Pipe_Support_found | 0
+C&S | 4521-PLN-AEE-75-52-0006-GAR | Exchangers_Pipe_Support_foundd | 1
+C&S | 4521-CAL -AEE-75-52-0003-GAR | Drain_back_tank_support | 1
+C&S | 4521-MTO-AEE-75-52-0003-GAR | Drain_back_tank_support | 0
+C&S | 4521-PLN-AEE-75-52-0003-GAR | Drain_back_tank_support | 0
+C&S | 4521-CAL -AEE-75-52-0004-GAR | Drain-back tank Platform | 1
+C&S | 4521-CAL -AEE-75-54-0005-GAR | TES platform structures | 0
+C&S | 4521-MTO-AEE-75-52-0004-GAR | Drain-back tank Platform | 0
+C&S | 4521-PLN-AEE-75-52-0004-GAR | Drain-back tank Platform | 0
+C&S | 4521-PLN-AEE-75-54-0004-GAR | TES_Platform_proposal_reinf | 0
+ELE | 4521-LIS-AEE-39-40-0011-GAR | TES Area Electric cable list Unit 5-6 | 0
+ELE | 4521-LIS-AGE-39-40-0010-GAR | TES Area Electric consumer list Unit 5-6 | 
+ELE | 4521-PKG-AEE-39-00-0005-GAR | EHT package for TES Solana | 0
+ELE | 4521-PLN-AEE-27-23-590 -GAR | PP-6334M | 12
+ELE | 4521-PLN-AEE-27-23-591 -GAR | PP-16334M | 10
+ELE | 4521-PLN-AEE-27-23-592 -GAR | PP-26334M37 | 10
+ELE | 4521-PLN-AEE-27-23-593 -GAR | PP634 | 6
+ELE | 4521-PLN-AEE-27-23-594 -GAR | PP-1634 | 8
+ELE | 4521-PLN-AEE-27-23-597 -GAR | PP-26334M2507 | 10
+ELE | 4521-PLN-AEE-27-23-600 -GAR | PP-26334M2607 | 9
+ELE | 4521-PLN-AEE-27-23-648 -GAR | RP-63419 | 2
+ELE | 4521-PLN-AEE-27-23-649 -GAR | RP-163419 | 2
+ELE | 4521-PLN-AEE-27-23-O495-GAR | MCC-1633 | 12
+ELE | 4521-PLN-AEE-27-23-P606-GAR | PP-16334M01 | 5
+ELE | 4521-PLN-AEE-27-31-0001-GAR | New Consumer Layout | 0
+ELE | 4521-PLN-AEE-27-31-0002-GAR | New trays layout | 0
+ELE | 4521-PLN-AEE-27-33-0001-GAR | New TES Grounding System | 0
+ELE | 4521-PLN-AEE-39-40-0002-GAR | Lighting_new_repositioning_exchangers | 0
+ELE | 4521-PLN-AEE-39-40-0003-GAR | Lighting design | 0
+I&C | 4521-ESP-AEE-00-70-0501-GAR | General notes & instructions for instruments & valves procurement | 0
+I&C | 4521-HDD-AEE-39-70-0014-GAR | Flow gauges datasheet | 0
+I&C | 4521-HDD-AEE-39-70-0015-GAR | Pressure gauges Datasheet | 0
+I&C | 4521-HDD-AEE-39-70-0016-GAR | Automatic valves datasheet | 1
+I&C | 4521-HDD-AGE-39-70-0011-GAR | Pressure transmitters datasheet | 1
+I&C | 4521-HDD-AGE-39-70-0012-GAR | Temperature transmitters datasheet | 1
+I&C | 4521-HDD-AGE-39-70-0013-GAR | Level transmitters datasheet | 1
+I&C | 4521-LIS-AEE-00-70-0001-GAR | I/O list | 0
+I&C | 4521-LIS-AEE-39-45-0001-GAR | Junction boxes List | 0
+I&C | 4521-LIS-AEE-39-64-0002-GAR | Automatic valves list | 1
+I&C | 4521-LIS-AEE-39-70-0016-GAR | Instrument list | 1
+I&C | 4521-LIS-AEE-39-70-0016-GAR | Control cable list | 0
+I&C | 4521-MEM-AEE-70-10-0001-GAR | Functional description TES HEX | 0
+I&C | 4521-PLN-AEE-39-70-0002-GAR | Wiring diagrams | 0
+I&C | 4521-PLN-AEE-39-70-0016-GAR | I&C cable routing | 0
+I&C | 4521-PLN-AEE-39-75-0001-GAR | Hex Replacement logic diagrams | 0
+M&P | 4521-CAL -AEE-58-11-0002-GAR | TES Circuit Hydraulic Calculation | 
+M&P | 4521-HDD-AEE-00-64-0001 | TES HTF PSV Datasheet | 0
+M&P | 4521-HDD-AEE-75-64-0010-GAR | Drain back tank datasheet | 2
+M&P | 4521-LIS-AEE-39-61-0001 | Pipeline TES HEX Replacement | 2
+M&P | 4521-LIS-AEE-39-61-0002 | Equipment list | 0
+M&P | 4521-LIS-AEE-39-61-0003 | Manual Valve List TES HEX Replacement | 3
+M&P | 4521-MEM-AEE-68-10-0001-GAR | TES Replacement HEX Operation Philosophy | 
+M&P | 4521-PLN-AEE-67-71-P412-GAR | Safety Showers | 0
+M&P | 4521-PLN-AEE-67-71-P493-GAR | Raw water distribution to HTF & TES | 0
+M&P | 4521-PLN-AEE-68-71-P271-GAR | Thermal energy storage Un5 HTF to salt | 2
+M&P | 4521-PLN-AEE-68-71-P273-GAR | Thermal energy storage Un6 Cold salt storage tank | 0
+M&P | 4521-PLN-AEE-68-71-P274-GAR | Thermal energy storage Un6 HTF to salt | 2
+M&P | 4521-PLN-AEE-68-71-P275-GAR | Thermal energy storage Un6 Hot salt storage tank | 0
+M&P | 4521-PLN-AEE-68-71-P278-GAR | Shell & Tube Tes Hex Train | 3
+M&P | 4521-PLN-AEE-68-71-P279-GAR | TES Hex MS drawing | 3
+M&P | 4521-PLN-AEE-73-00-0001-GAR | Hazardous area classification | 0
+PIP | 4521-LIS-AEE-00-65-0001-GAR | HEX replacement MTO | 0
+PIP | 4521-M3D-AEE-00-00-0001-GAR | Modelo 3D | 
+PIP | 4521-PLN-AEE-39-65-0001-GAR | Nitrogen System ISO | 0
+PIP | 4521-PLN-AEE-58-65-0001-GAR | HTF System ISO | 1
+PIP | 4521-PLN-AEE-75-65-0001-GAR | MS System ISO | 1
+PIP | 4522-INF-AEE-21-63-0004-GAR | TES HEX Change_stress report | 0
+PIP | 4522-LIS-AEE-58-63-0001-GAR | HTF System support list | 1
+PIP | 4522-LIS-AEE-75-63-0001-GAR | MS System support list | 1
+PIP | 4522-PLN-AEE-75-63-0001-GAR | General typical support standard | 2

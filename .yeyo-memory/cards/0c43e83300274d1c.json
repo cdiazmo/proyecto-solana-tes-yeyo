@@ -1,0 +1,39 @@
+{
+  "id": "0c43e83300274d1c",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-45-0020_R1.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 55150,
+  "size_human": "54 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-58-45-0020 R1",
+  "doc_code": "4521-ESP-AGE-58-45-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 14511,
+  "token_estimate": 3627,
+  "chunks": 10,
+  "card_path": ".yeyo-memory/cards/0c43e83300274d1c.json",
+  "extracted_path": ".yeyo-memory/extracted/0c43e83300274d1c.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120321172916-05'00'",
+      "ModDate": "D:20120321172916-05'00'",
+      "Title": "4521-ESP-AGE-58-45-0020 Junction Boxes Specification HTF",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:52.305818+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:52.305822+00:00"
+}

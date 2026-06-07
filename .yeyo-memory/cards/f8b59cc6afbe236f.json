@@ -1,0 +1,41 @@
+{
+  "id": "f8b59cc6afbe236f",
+  "path": "02 GD LOI/Calculos/4521-CAL-LOI-039-062-0001-GAR_REV 1_MECHANICAL CALCULATIONS OIL TO SALT HEX.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 18532626,
+  "size_human": "18 MB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-CAL-LOI-039-062-0001-GAR REV 1 MECHANICAL CALCULATIONS OIL TO SALT HEX",
+  "doc_code": "4521-CAL-LOI-039-062-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 188645,
+  "token_estimate": 47161,
+  "chunks": 120,
+  "card_path": ".yeyo-memory/cards/f8b59cc6afbe236f.json",
+  "extracted_path": ".yeyo-memory/extracted/f8b59cc6afbe236f.txt",
+  "metadata": {
+    "pages": 185,
+    "pdf_metadata": {
+      "Producer": "Bluebeam Brewery 5.0",
+      "CreationDate": "D:20170221101450+01'00'",
+      "ModDate": "D:20170221101450+01'00'",
+      "Creator": "Bluebeam Stapler 12.6.0"
+    },
+    "encrypted": false,
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng",
+      "pages": 185,
+      "pages_with_text": 185,
+      "characters": 188645,
+      "generated_at": "2026-06-05T11:34:25.202147+00:00"
+    }
+  },
+  "processed_at": "2026-06-05T11:34:25.202725+00:00"
+}

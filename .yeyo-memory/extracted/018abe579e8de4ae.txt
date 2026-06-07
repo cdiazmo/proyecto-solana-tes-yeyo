@@ -1,0 +1,586 @@
+[page 1]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 1 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Instructions: 1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be included on all pages. 2. Revisions are identified in the body of the document. Description of Rev. No. Date By Chk’d App’d Revision Including Page Numbers 0 10/01/2017 LMOB JAG JMGL For Construction (46 pages) 1 04/05/2018 PPT PPT IGA Updated IBC reference to IBC 2012 
+
+[page 2]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 2 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Contents Page No. 1 Overview ............................................................................................................................... 4 2 Description ............................................................................................................................ 4 3 References ............................................................................................................................. 6 4 Codes and normative ............................................................................................................. 6 5 Design basis ........................................................................................................................... 7 5.1 Materials ........................................................................................................................ 7 5.2 Ground features: ............................................................................................................ 8 5.3 Safety factors and load combination coefficients: ........................................................... 12 5.4 Loads. .......................................................................................................................... 12 5.4.1 Dead load ................................................................................................................. 12 5.4.2 Live Load................................................................................................................... 12 5.4.3 Ground pressure ....................................................................................................... 13 5.4.4 Wind load ................................................................................................................. 20 5.4.5 Seismic load .............................................................................................................. 20 
+
+[page 3]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 3 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+5.4.6 Thermo load ............................................................................................................. 25 5.4.7 Snow load ................................................................................................................. 25 5.5 Design process: ............................................................................................................. 25 6 Results ................................................................................................................................. 27 7 Annex 1: Load Combinations ............................................................................................... 27 7.1 Partial safety factors (g) and combination factors (y) ....................................................... 28 8 Annex 2. Reinforced Concrete Pit ......................................................................................... 30 8.1 Model of calculation ..................................................................................................... 30 8.2 Forces diagram ............................................................................................................. 30 8.3 Checking vertical displacement of slab of foundation: .................................................... 37 8.4 Checking of Ground bearing pressure ........................................................................... 38 8.5 Design of reinforcement on wall .................................................................................... 38 8.6 Design of reinforcement on slab .................................................................................... 45 
+
+[page 4]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 4 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+1 Overview In the present document, the Drain Back tank pit of Solana Generating Station is designed. 
+2 Description The pit’s shape and the different equipment, pipeline and valves that affect to this one are shown in the next image: 
+ 
+
+[page 5]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 5 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ The Drain back tank pit is composed by walls and slab of foundation, made reinforced concrete, with dimensions: area 24’11”x 15’9”, of inner height of 10’6” and 3’0” of thickness. This pit is projected to support the Drain back tank, pipeline, valves and the integrated pump. This pit is projected buried and supported over subbase by filling with suitable material, type A1 or A3 compacted 95% in according to AASTHO T1-180. In this sense, it has account the lateral ground load on the structural calculation of pit. 
+
+[page 6]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 6 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Also it is projected a steel structure to support the drain tank equipment, on the slab and anchoraged by several post-installed bolt to this one. In the document 4521-CAL-AEE-75-0003-GAR it shows the check report. 
+3 References The ground data are obtained from “Report on Geotechnical Investigation. Abengoa Solar (Solana Power Plant)”, from Speedie and Associates document, Project No. 0911985A, dated 12/21/09 A especially the annex “Final Report” dated 06/21/2010 from Hushmand Associates, Incorporated to Speedie and Associates. The loads are obtained from the next documents: - 4521-PLN-FWE-21-52-0001 - 4521-PLN-FWE-21-52-0002 - 4521-PLN-FWE-21-52-0101 - 4521-PLN-FWE-21-52-0001 
+4 Codes and normative - IBC 2012 International Building Code - ASCE 7-05 Minimum Design Loads for Buildings and Other Structures. - ACI-318 Building Code Requirements for Structural Concrete. 
+
+[page 7]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 7 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+- API 650 Welded Steel Tanks for Oil Storage. 
+5 Design basis For design purpose a static finite elements analysis have been performed using a shell elements in order to apply the different loads. 5.1 Materials In accordance with the Geotechnical Report, the soil has a sulfate concentration within the range of 44 to 170 p.p.m., therefore the exposure must be classified as S1. Though the soil water contains chlorides in concentrations of 120 to 430 ppm, the water level is more than ten metres below grade which makes this chloride contents irrelevant. Hence the following materials are chosen: - Concrete o 4000 psi o water-cement relation, W/CM ≤ 0.5 o Type II cement - Steel: o Grade 60 
+
+[page 8]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 8 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+5.2 Ground features: For the ground bearing capacity, according to the Geothecnical Report, it can be considered a value of 3.000 psf. In according to Test boring (number PB-09 and PB-11), nearer to the area where it project this foundations, the average number of blows are about 25 to 30 blow/feet, so the ground bearing capacity is about 2.850 – 3.400 psf. 
+ Where, • N= Number of blows per feet: 25-30 b/ft • B= width of footing =11’6” • D= depth of foundation=5’0” 
+
+[page 9]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 9 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Image 1: Locate of the tests boring PB-09 and PB-11 where it projects the foundation 
+
+[page 10]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 10 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Image 2: Test boring PB-09 to depth where it projects the foundation 
+
+[page 11]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 11 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Image 3: Test boring PB-11 to depth where it projects the foundation 
+
+[page 12]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 12 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+5.3 Safety factors and load combination coefficients: - Fracture U.L.S. concrete: ACI-318 - Fracture U.L.S. foundation concrete: ACI-318 - Fracture U.L.S. rolled steel: ANSI/AISC 360-05 (LRFD) 5.4 Loads. 5.4.1 Dead load - Specific weight of reinforced concrete elements: 156 lb /ft3 - Specific weight of steel elements: 490 lb /ft3 In according to supplier input data: - Weight of Drain tank: 6.500 lb - Weight of pump: 440 lb 5.4.2 Live Load - Weight water in maximum capacity of tank: 13.000 lb 
+
+[page 13]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 13 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+- Distributed live load: 100 lb / feet2 - Live load on surrounding ground: 200 lb / feet2 5.4.3 Ground pressure For the case of the land thrust an active thrust is considered in static conditions and a dynamic thrust, according to the formulation of Okabe and Mononobe. Static active earth pressure 
+ ,where γ is ground density , H height y KAE static active coefficient. 
+
+[page 14]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 14 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Dynamic active earth pressure: 
+ 
+ Where KAD is dynamic active coefficient En base a este desarrollo teórico se determinan los coeficientes de empuje. - Static active earth pressure: Ka = 0.34 - Seismic acceleration: SDS = 0.245; I = 1.4; K = 1.5 (low ductility). The active earth pressure in seismic situation is estimated to be 0.627 using the Mononobe-Okabe formulation below: 
+
+[page 15]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 15 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+Calculation of active earth pressure
+Ф 30.0ºInternal angle of friction
+δ 0.0 ºAngle of friction ground-wall
+β 0.0 ºBack wall slope
+i 0.0 ºBack fill slope
+γ= 18.00T/m3
+γdry=16.00T/m3
+γsat=20.00T/m3
+ac=0.317g
+Kv/Kh0.50
+1. Active earth pressure in static condition
+A= A 0.7500
+B= B 1.0000
+C= C 0.2500
+D= D 1.0000
+KAE 0.333
+Entering data
+
+[page 16]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 16 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+2. Active earth pressure in dinamic condition (earthquake)
+2.1 Dry or partially wet ground
+ac=0.3170Kh=0.3170θ1=20.6418
+Kv/Kh0.50Kv=0.1585θ2=15.3032
+A=
+B=
+C=
+D=
+A1=0.9736 A2=0.9356
+B1=0.8757 B2=0.9303
+C1=0.0813 C2=0.1269
+D1=0.9358 D2=0.9645
+KAE(-Kv)=0.5580 KAE(+Kv)=0.6275 KAE 0.627
+
+[page 17]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 17 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Earth Presure (Static): P=Density (lb/ft3) x Kast x Z(ft) Pmax=120 lb/ft3 x 0,34 x 11 ft = 448 lb/ft2 
+ 
+
+[page 18]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 18 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Earth pressure (Dynamic): P=Density (lb/ft3) x Kady x Z(ft) Pmax=120 lb/ft3 x 0,627 x 11 ft = 827 lb/ft2 • In Direction X: 
+ 
+
+[page 19]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 19 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+• In Direction Y: 
+ 
+
+[page 20]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 20 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+5.4.4 Wind load Load not applied. 5.4.5 Seismic load To be defined the response spectrum to apply at this project; it has considered the next factors: • Site class definition:_ class D • Ss=0.230g • S1=0,088g • Fa=1.6 Site coefficient • Fv=2.4 • Sms= 0,368g • Sm1=0,212g • SDS= 0.245g • SD1=0.142g TABLE: Function - Response Spectrum - User Name Period Accel FuncDamp 
+
+[page 21]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 21 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Text Sec Unitless Unitless Solana 0 0,1 0,05 Solana 0,05 0,13 Solana 0,1 0,16 Solana 0,15 0,2 Solana 0,2 0,245 Solana 0,25 0,245 Solana 0,3 0,245 Solana 0,35 0,245 Solana 0,4 0,245 Solana 0,45 0,245 Solana 0,5 0,245 Solana 0,55 0,22 Solana 0,6 0,21 Solana 0,65 0,2 Solana 0,7 0,19 Solana 0,75 0,18 Solana 0,8 0,17 Solana 0,85 0,16 Solana 0,9 0,15 Solana 0,95 0,14 Solana 1 0,13 Solana 1,05 0,125 Solana 1,1 0,12 Solana 1,15 0,115 Solana 1,2 0,11 Solana 1,25 0,105 Solana 1,3 0,1 
+
+[page 22]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 22 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Solana 1,35 0,095 Solana 1,4 0,09 Solana 1,45 0,087 Solana 1,5 0,085 Solana 1,55 0,082 Solana 1,6 0,08 Solana 1,65 0,078 Solana 1,7 0,076 Solana 1,75 0,074 Solana 1,8 0,072 Solana 1,85 0,07 Solana 1,9 0,068 Solana 1,95 0,066 Solana 2 0,065 Solana 2,05 0,063 Solana 2,1 0,061 Solana 2,15 0,06 Solana 2,2 0,059 Solana 2,25 0,058 Solana 2,3 0,057 Solana 2,35 0,056 Solana 2,4 0,055 Solana 2,45 0,054 Solana 2,5 0,053 Solana 2,55 0,052 Solana 2,6 0,051 Solana 2,65 0,05 Solana 2,7 0,049 
+
+[page 23]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 23 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Solana 2,75 0,048 Solana 2,8 0,047 Solana 2,85 0,046 Solana 2,9 0,045 Solana 2,95 0,044 Solana 3 0,043 Solana 3,05 0,0425 Solana 3,1 0,042 Solana 3,15 0,0415 Solana 3,2 0,041 Solana 3,25 0,0405 Solana 3,3 0,04 Solana 3,35 0,0395 Solana 3,4 0,039 Solana 3,45 0,0385 Solana 3,5 0,038 Solana 3,55 0,0375 Solana 3,6 0,037 Solana 3,65 0,0365 Solana 3,7 0,036 Solana 3,75 0,0355 Solana 3,8 0,035 Solana 3,85 0,0345 Solana 3,9 0,034 Solana 3,95 0,0335 Solana 4 0,033 Solana 4,05 0,0325 Solana 4,1 0,032 
+
+[page 24]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 24 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Solana 4,15 0,0315 Solana 4,2 0,031 Solana 4,25 0,0305 Solana 4,3 0,03 Solana 4,35 0,0295 Solana 4,4 0,029 Solana 4,45 0,0285 Solana 4,5 0,028 Solana 4,55 0,0275 Solana 4,6 0,027 Solana 4,65 0,0265 Solana 4,7 0,026 Solana 4,75 0,0255 Solana 4,8 0,025 Solana 4,85 0,0245 Solana 4,9 0,024 Solana 4,95 0,0235 Solana 5 0,023 In this sense, to calculate of equipment anchorage having account of seismic load, it has to consider the next equations, only in the case that there are not input data from supplier: 
+ , where ‘Wp’ is the equipment weight. 
+
+[page 25]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 25 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+5.4.6 Thermo load Not applied. 5.4.7 Snow load Not applied. 5.5 Design process: Rebar quantity has been obtained according to ACI 318 specifications using the rectangular diagram method. Adherence, cracking and shear strength have been checked. The footing has been reinforced with a minimum of 1.8 ‰ per each side as the ACI-318 indicates in 7.12.2.1 for mat foundations and this same reinforcement has been used as base reinforcement. In the case of walls have been designed with a minimum reinforcement in according to the next table 11.6.1 from ACI-318: 
+
+[page 26]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 26 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+
+[page 27]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 27 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+6 Results To analyse the foundation CYPECAD and SAP2000 software has been used, where the results of the analyzing process are shown in computer data annexes 2 and 3. 
+7 Annex 1: Load Combinations The load combinations will be defined according to the following criteria for the different project situations: - Situations persistent or transient 
+ - Situations seismic loading 
+ - Where: Gk Permanent load Pk Prestressing action Qk Variable load AE Seismic load gG Permanent load partial safety factor gP Partial safety coefficient for prestressing action gQ,1 Main variable load partial safety factor gQ,i Accompanying variable load partial safety factor gAE Seismic load partial safety factor 
+ABENER TEYMA SOLANA ABEINSA ENGINEERING 
+Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR 
+for Job No.: No. Req'd.: 
+TES Exchangers foundations Project: Solana Generating Station 
+ P a g e 1 3 o f 4 6 
+ 
+0 10/01/2017 For Construction LMOB JAG JMGL 
+No. Date Description By Chk'd App'd App'd 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the 
+submission of billings or estimates in billing cycl es other than thirty days. A written 
+description of such other billing cycle applicable to the project is available from the 
+owners designated agent Teyma USA & Abener Engineer ing and Construction Services 
+General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and 
+the owner’s designated agent shall provide this wri tten description on request. 
+ 
+ 
+Information and know-how hereon are confidential an d proprietary and may not be used, reproduced, or r evealed to others except 
+in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and 
+Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop 
+drawings shall bear or refer to this stamp. 
+ 
+6 Results 
+To analyse the foundation CYPECAD and SAP2000 softw are has been used, where the results of the 
+analyzing process are shown in computer data annexe s 2 and 3. 
+ 
+7 Annex 1: Load Combinations 
+The load combinations will be defined according to the following criteria for the different project 
+situations: 
+- Situations persistent or transient 
+≥≥
+γ +γ + γ∑∑Gj kj P k Qi ki
+j 1 i 1
+GP Q
+ 
+- Situations seismic loading 
+≥ ≥
+γ +γ +γ + γ∑∑ EGj kj P k A E Qi ki
+j 1 i 1
+GP A Q
+ 
+- Where: 
+ Gk Permanent load 
+Pk Prestressing action 
+Qk Variable load 
+AE Seismic load 
+gG Permanent load partial safety factor 
+gP Partial safety coefficient for prestressing action 
+ABENER TEYMA SOLANA ABEINSA ENGINEERING 
+Calculation report Document No: 4521-CAL-AEE-75-52-0001-GAR 
+for Job No.: No. Req'd.: 
+TES Exchangers foundations Project: Solana Generating Station 
+ P a g e 1 3 o f 4 6 
+ 
+0 10/01/2017 For Construction LMOB JAG JMGL 
+No. Date Description By Chk'd App'd App'd 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the 
+submission of billings or estimates in billing cycl es other than thirty days. A written 
+description of such other billing cycle applicable to the project is available from the 
+owners designated agent Teyma USA & Abener Engineer ing and Construction Services 
+General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and 
+the owner’s designated agent shall provide this wri tten description on request. 
+ 
+ 
+Information and know-how hereon are confidential an d proprietary and may not be used, reproduced, or r evealed to others except 
+in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and 
+Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop 
+drawings shall bear or refer to this stamp. 
+ 
+6 Results 
+To analyse the foundation CYPECAD and SAP2000 softw are has been used, where the results of the 
+analyzing process are shown in computer data annexe s 2 and 3. 
+ 
+7 Annex 1: Load Combinations 
+The load combinations will be defined according to the following criteria for the different project 
+situations: 
+- Situations persistent or transient 
+≥≥
+γ +γ + γ∑∑Gj kj P k Qi ki
+j 1 i 1
+GP Q
+ 
+- Situations seismic loading 
+≥ ≥
+γ +γ +γ + γ∑∑ EGj kj P k A E Qi ki
+j 1 i 1
+GP A Q
+ 
+- Where: 
+ Gk Permanent load 
+Pk Prestressing action 
+Qk Variable load 
+AE Seismic load 
+gG Permanent load partial safety factor 
+gP Partial safety coefficient for prestressing action 
+
+[page 28]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 28 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 7.1 Partial safety factors (g) and combination factors (y) For each project situation and limit state, the loading coefficients will be determined by: Fracture U.L.S. Concrete: ACI 318M-08 Fracture U.L.S. Foundation concrete: ACI 318M-08 Fracture U.L.S. Rolled steel: ANSI/AISC 360-05 (LRFD) They have defined the next load in according to ACI-318 standard: - D Dead Load - L Live Load (L0 para live load reduced) - Lr Live load on proof - W Wind - R Rain load - E Seismic load - S snow - H Ground pressure - F Fluid pressure Design combined. Ultimate state limit - 1,4D + 1,4F + 1,6H Eq1. - 1,2D + 1,2F + 1,6H + 1,6L + 0,5(Lr or S or R) Eq2. 
+
+[page 29]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 29 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+- 1,2D + 1,2F + 0,9H + 1,6(Lr or S or R) + (L or 0,5W) Eq3. - 1,2D + 1,2F + 0,9H + 1W + L + 0,5(Lr or S or R) Eq4. - 1,2D + 1,2F + 0,9H + 1,4E + L + 0,2S Eq5. - 0,9D + 0,9H + 1W Eq6. - 0,9D + 0,9F + 0,9H + 1,4E Eq7. Service state limit and ground conditions: - D + F + H Eq1 - D + F + H + L Eq2 - D + F + H + (Lr or S or R) Eq3 - D + F + H + 0,75L + 0,75(Lr or S or R) Eq4 - D + F + H + (0,6W or 0,7E) Eq5 - D + H + F + 0,75L + 0,75 F + 0,75(0,6W) + 0,75(Lr or S or R) Eq6a - D + H + F + 0,75L + 0,75F + 0,75(0,7E) + 0,75S Eq6b - 0,6D + F + H + 0,6W Eq7 - 0,6D + F + H + 0,7E Eq8 
+
+[page 30]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 30 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+8 Annex 2. Reinforced Concrete Pit 8.1 Model of calculation In order to design and check of different walls designed, it has used of SAP2000 calculation software. In the next image it shows the civil work that is studied in this document: 
+ 8.2 Forces diagram Diagram of forces: 
+
+[page 31]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 31 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+• Axial forces: Maximum and minimum 
+ 
+
+[page 32]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 32 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+
+[page 33]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 33 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+• Shear force: 
+ 
+
+[page 34]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 34 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+
+[page 35]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 35 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+• Bending moment: 
+ 
+
+[page 36]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 36 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+
+[page 37]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 37 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+8.3 Checking vertical displacement of slab of foundation: It has calculated the biggest vertical displacement of slab of foundation for the next case: Enveloped of State Limit of service (SLS_env). The maximum value allowable is: 1 inch. 
+ The maximum value calculated is 0,105 inch. 
+
+[page 38]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 38 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+8.4 Checking of Ground bearing pressure For the ground bearing capacity, according to the Geothecnical Report, it can be considered a value of 3.000 psf. For the case combination SLS Eq. 4C it has a maximum value: 1.680 psf, so it is smaller than the ground bearing capacity. 
+ 8.5 Design of reinforcement on wall Vertical reinforcement 
+
+[page 39]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 39 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+The Base reinforcement in according to minimum ratio, Asmin=0,0012 x b x h= 0,57 inch2. It has design with #4 / 8”. As=0,97 inch2. Forces used for checking this reinforcement: • Moment force M22 (Ultimate limit state, Min): 10 kip*ft • Shear force V23 (Ultimate limit state, Max and Min): 5 kip 
+ 
+
+[page 40]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 40 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+Geometry Load
+Width (b) 12in Compression axial force (N) 0Kip
+Depth (h) 40in Design moment (Mu) 10Kip*ft
+Cover (r) 2in ø compression controlled 0,65
+ø tension controlled 0,90
+Materials
+Concrete (f'c) 4ksi
+εc,max 0,0030 Results for nominal moment
+Steel (fy) 60ksi Section type Tension controlled
+εs,max 0,0050 Concrete compression (Nc) 59Kip
+Es 29.000ksi Steel tension (Ns) 59Kip
+Concrete strain (εc) 0,0009
+Reinforcement Steel strain (εs) 0,0050
+Number of bars (n) 5 Steel tension (σs) 60Ksi
+Diameter (øs) 4/8" Nominal moment (Mn) 173Kip·ft
+Steel area (As) 0,982in2 ø 0,90
+CHECK OK
+FLEXURE DESIGN ACCORDING TO ACI-318
+
+[page 41]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 41 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar 
+SHEAR ACCORDING TO ACI-318-08
+Geometry Shear strength
+Depth (h) 1,00ft Vc 51Kip
+Width (b = bw) 3,25ft Vs, required 0Kip
+Cover 2,0in
+Mechanical depth (d) 0,83ft
+Gross area (Ag) 468in2 Reinforcement disposition
+0 Maximum spacing 23,6in
+Materials 0 Required reinforcement 0,00in2/ft
+Concrete 4ksi
+Steel (not higher than 420) 60ksi Reinforcement
+Spacing (inch) 8OK
+Loads Number of bars 5
+V 5Kip Diameter (#) 4OK
+N (+ = tension) 0Kip
+
+[page 42]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 42 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+Horizontal reinforcement Base reinforcement in according to minimum ratio, Asmin=0,002 x b x h= 0,93 inch2. It has designed with #4 / 8”. As=0,97 inch2. Forces used for checking this reinforcement: • Moment force M11 (Ultimate limit state, Max and Min): 7 kip*ft • Shear force V13 (Ultimate limit state, Max and Min): 3 kip 
+ 
+
+[page 43]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 43 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+Geometry Load
+Width (b) 12in Compression axial force (N) 0Kip
+Depth (h) 40in Design moment (Mu) 7Kip*ft
+Cover (r) 2in ø compression controlled 0,65
+ø tension controlled 0,90
+Materials
+Concrete (f'c) 4ksi
+εc,max 0,0030 Results for nominal moment
+Steel (fy) 60ksi Section type Tension controlled
+εs,max 0,0050 Concrete compression (Nc) 59Kip
+Es 29.000ksi Steel tension (Ns) 59Kip
+Concrete strain (εc) 0,0009
+Reinforcement Steel strain (εs) 0,0050
+Number of bars (n) 5 Steel tension (σs) 60Ksi
+Diameter (øs) 4/8" Nominal moment (Mn) 173Kip·ft
+Steel area (As) 0,982in2 ø 0,90
+CHECK OK
+FLEXURE DESIGN ACCORDING TO ACI-318
+
+[page 44]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 44 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar 
+SHEAR ACCORDING TO ACI-318-08
+Geometry Shear strength
+Depth (h) 1,00ft Vc 51Kip
+Width (b = bw) 3,25ft Vs, required 0Kip
+Cover 2,0in
+Mechanical depth (d) 0,83ft
+Gross area (Ag) 468in2 Reinforcement disposition
+0 Maximum spacing 23,6in
+Materials 0 Required reinforcement 0,00in2/ft
+Concrete 4ksi
+Steel (not higher than 420) 60ksi Reinforcement
+Spacing (inch) 8OK
+Loads Number of bars 5
+V 3Kip Diameter (#) 4OK
+N (+ = tension) 0Kip
+
+[page 45]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 45 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+8.6 Design of reinforcement on slab Top and Bottom reinforcement: Base reinforcement in according to minimum ratio, Asmin=0,0018 x b x h= 0,84 inch2. It has design with #4 / 8”. As=0,97 inch2. Forces used for checking this reinforcement: • Moment force M11, M22 (Ultimate limit state, Max and Min): 10 kip*ft • Shear force V12, V23 (Ultimate limit state, Max and Min): 5 kip 
+ 
+
+[page 46]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 46 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+ 
+
+[page 47]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 47 of 49 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ 
+Geometry Load
+Width (b) 12in Compression axial force (N) 0Kip
+Depth (h) 40in Design moment (Mu) 10Kip*ft
+Cover (r) 2in ø compression controlled 0,65
+ø tension controlled 0,90
+Materials
+Concrete (f'c) 4ksi
+εc,max 0,0030 Results for nominal moment
+Steel (fy) 60ksi Section type Tension controlled
+εs,max 0,0050 Concrete compression (Nc) 59Kip
+Es 29.000ksi Steel tension (Ns) 59Kip
+Concrete strain (εc) 0,0009
+Reinforcement Steel strain (εs) 0,0050
+Number of bars (n) 5 Steel tension (σs) 60Ksi
+Diameter (øs) 4/8" Nominal moment (Mn) 173Kip·ft
+Steel area (As) 0,982in2 ø 0,90
+CHECK OK
+FLEXURE DESIGN ACCORDING TO ACI-318
+
+[page 48]
+ABENER TEYMA SOLANA ABEINSA ENGINEERING Calculation report Document No: 4521-CAL-AEE-75-52-0002-GAR for Job No.: No. Req'd.: Drain back tank pit Project: Solana Generating Station Page 48 of 48 
+1 04/05/2018 Updated reference for IBC to IBC 2012. PPT PPT IGA 0 10/01/2017 For Construction LMOB JAG JMGL No. Date Description By Chk'd App'd App'd Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billings or estimates in billing cycles other than thirty days. A written description of such other billing cycle applicable to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048 and the owner’s designated agent shall provide this written description on request. 
+ 
+ Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or other written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership (“ABENER TEYMA SOLANA”). Any reproduction in whole or part including shop drawings shall bear or refer to this stamp. 
+ Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar. 
+SHEAR ACCORDING TO ACI-318-08
+Geometry Shear strength
+Depth (h) 1,00ft Vc 51Kip
+Width (b = bw) 3,25ft Vs, required 0Kip
+Cover 2,0in
+Mechanical depth (d) 0,83ft
+Gross area (Ag) 468in2 Reinforcement disposition
+0 Maximum spacing 23,6in
+Materials 0 Required reinforcement 0,00in2/ft
+Concrete 4ksi
+Steel (not higher than 420) 60ksi Reinforcement
+Spacing (inch) 8OK
+Loads Number of bars 5
+V 5Kip Diameter (#) 4OK
+N (+ = tension) 0Kip

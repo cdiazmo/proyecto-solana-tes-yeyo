@@ -1,0 +1,138 @@
+Hydraulic Calculation Report
+This document is property of . Its total or partial reproduction is strictly forbidden by any means, as well as its distribution to third parties without the express written consent of . 
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential information, legal requirements or local regulations and/or contractual requirements of the client), there was a need to modify the requirements included in this procedure, these changes must be properly documented in the quality, environment and health and safety plan of the project, prior approval from the company headquarters management system department.
+The original one of this document is approved and filed in document management system application
+Revision Control Sheet
+Preliminary or pending Information
+Table of Contents
+Purpose and scope
+This document is intended to evaluate the implications of replacing the existing TES System plate heat exchangers, for a new set of heat exchangers of the tube and shell.
+The new proposed heat exchangers will have different pressure drops and will be located at a different location and at heights of the existing ones. To evaluate the consequences of installing this equipment on the existing HTF and Molten Salts circuits, a set of hydraulic calculations were simulated using Pipeflo ®, for both systems and different operating cases. The considered cases were the following:
+Summer 
+Winter Discharging
+Max 
+25% 
+an extra case was considered, 22nd July 2015 (from 9:30 to 11:30).
+Molten Salts Circuit
+System description
+The plant includes 6 identical and independent molten salts circuits. For simulation purposes the following equipment where considered:
+One (1) hot salts tank (1/../6 -MT-252)
+One (2) cold salts tank (1/../6 -MT-251)
+One (1) HTF-to-Salt Heat Exchanger (1/../6 -MX-251)
+One (1) hot salts pump (1/../6 -MP-252)
+One (1) cold salts pump (1/../6 -MP-251)
+Because there are no differences in terms of geometry and equipment performance, the molten salts circuit was simulated for a single set of tanks for the different operating modes.
+Hypothesis and Assumptions
+The following assumptions have been considered for the calculations:
+Pipes length and fittings details based on the 3D Model (Solana--) and P&IDs collection.
+operating pressure: .
+Cold molten salts temperature: 
+°F
+Hot molten salts temperature: °F.
+Pumps height : 3’
+Heat Exchanger nozzle height: 
+36,09 ft
+Heat Exchanger nozzle height:
+Heat Exchanger pressure drop: based on the Lointek’s tender datasheet.
+Pumps performance curve: as specified in its datasheet.
+HTF Circuit
+System 
+The HTF circuit is a closed circuit where its backpressure is ensured by the expansion tank.
+In terms of equipment includes 10 identical main pumps (2 of which in standby) that send the colds HTF to the solar field and through 6 identical HTF-to-Salts heat exchangers and two steam generators.
+For simulation purposes the following equipment where considered:
+Ten (10) HTF Far Field Pumps (MP-200 A/B/C/D/E/F/G/H/J/K)
+Twelve (12) pressure regulating valves at the HTF pumps discharge (FV20005 A/B/C/D/E/F/G/H/J/K)
+Six (6) HTF-to-Salt Heat Exchanger (1/../6 -MX-251)
+Six (6) HTF-to-Salt Heat Exchanger Filters (1/../6 -MF-251C)
+Six (6) HTF-to-Salt Heat Exchanger Filters (1/../6 -MF-251D)
+Six (6) HTF-to-Salt Heat Exchanger Flow Regulating Valves (1/../6 FV25135)
+Six (6) HTF-to-Salt Heat Exchanger Flow Regulating Valves (1/../6 FV2513)
+Hypothesis and Assumptions
+The following assumptions have been considered for the calculations:
+Pipes length and fittings details based on the 3D Model (Solana ALL 2015-08-13) and P&IDs collection
+Cold HTF Temperature: .
+Hot HTF temperature: .
+Pumps performance curve: as specified in its datasheet.
+HTF flow to Solar Fields: minimum 50 000 gpm (25 000 gpm per field). 
+Pumps suction pressure: 172 psia.
+Temporary strainers at the main pumps suction removed.
+Operating flows as indicated on the initial heat exchangers datasheets.
+Far field pumps operation considerations:
+8 out of 10 running (2 spare) with even flows. 
+Regardless of the fact that these pumps are equipped with a VFD, for simulation purposes and to verify that they can handle the new heat exchangers, they were designed as fixed speed pumps running at maximum (1802 rpm)
+Simulation results
+Molten 
+Process Data entering the Heat Exchanger 1/../6-MX-251:
+HTF 
+Process Data entering the Heat Exchanger 1/../6-MX-251:
+*check Annex II.VI with the simulation details and the process data for each of the operating heat exchangers.
+For more details concerning the HTF circuit and the overall process data check the section Annex II of this document.
+Reference documents
+3D Model (Solana --)
+Specification for Oil-to-Salt Heat Exchanger 4521-ESP-ANC-39-62-0002, Rev 02
+Main Salt Pump Performance Curve 0018H-3414-56
+Main HTF Pumps Predicted Performance Curves PPC-4840421 (Flowserve document)
+HTF Services Rotary Control Valve Datasheet 4521-ESP-AGE-58-64-0005 Rev 03
+Lointek tender proposal for an alternative heat exchanger 095-16-OFT-001 Rev 00 (13/04/2016)
+Far Field HTF Pumps – 4521-PLN-ANC-68-71-P202
+Near Field HTF Pumps – 4521-PLN-ANC-68-71-P203
+Central Plant HTF Distribution – 4521-PLN-ANC-68-71-P210
+Central Plant HTF Distrib-Central – 4521-PLN-ANC-68-71-P211
+Central Plant HTF Distrib-South – 4521-PLN-ANC-68-71-P212
+Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P251
+Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P253
+Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P261
+Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P263
+Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P264
+Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P266
+Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P267
+Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P269
+Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P270
+Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P272
+Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P273
+Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P275
+HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P252
+HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P262
+HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P265
+HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P268
+HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P271
+HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P274
+Annex I
+Annex I encloses the results provided by Pipe-Flo software, scheme report for each of calculated cases for the Molten Salts operation:
+Annex I.– Summer Charg
+Annex I.II –Discharging
+Annex I.III – Winter Discharg
+Annex I.IV – Max Charg
+Annex I.V – 25% Charg
+Annex II
+Annex II encloses the results provided by Pipe-Flo software, scheme report for each of calculated cases for the HTF circuit operation:
+Annex II.I – Summer Charg
+Annex II.II – Discharging
+Annex II.III – Winter Discharg
+Annex II.IV – Max Charg
+Annex II.V – 25% Charg
+Annex II.VI – Field Data 22072015
+Title: | 
+HTF & Molten Salts Hydraulic Circuits Calculation Report | HTF & Molten Salts Hydraulic Circuits Calculation Report
+Client: ABENER TEYMA SOLANA | Client: ABENER TEYMA SOLANA
+Project: Solana | Project: Solana
+Document No.: | 4521-CAL-AEE-58-11-0001-GAR
+Revision: | 
+Purpose: | N/A
+Date: | //2016
+Prepared by: | | 
+Antonia Gómez Gómez. Mechanical & Process Engineer Pedro Moreira Gomes. Mechanical & Process Engineer | Antonia Gómez Gómez. Mechanical & Process Engineer Pedro Moreira Gomes. Mechanical & Process Engineer | Electronic Signature
+Reviewed by: | | 
+Mechanical & Process | Mechanical & Process | Electronic Signature
+Approved by: | | 
+Pietro Gasperini. Project Manager | Pietro Gasperini. Project Manager | Electronic Signature
+Revision | Date | Reason for the revision | Prepared by | Reviewed by | Approved by
+00 | 28/04/2016 | First edition | AGG / PMG | ACR | PGA
+Edition | Sections | Concepts | Status
+Operation case | Mass flow (lb/h) | olumetric flow (gpm) | Inlet pressure (psia) | Outlet pressure (psia) | Pressure drop (psia)
+Summer charge | 3.102.130 | | | | 
+Discharging | 4.083.090 | | | | 
+Winter Discharging | 4.081.984 | | | | 
+Max charging | 4.105.612 | | | | 
+25% charge | 1.001.893 | | | | 
+Field Data 22072016* | | | | |

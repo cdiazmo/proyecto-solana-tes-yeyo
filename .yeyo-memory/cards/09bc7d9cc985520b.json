@@ -1,0 +1,30 @@
+{
+  "id": "09bc7d9cc985520b",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V360.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 71537,
+  "size_human": "70 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-68-64-V360",
+  "doc_code": "4521-ESP-ANC-68-64-V360",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4996,
+  "token_estimate": 1249,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/09bc7d9cc985520b.json",
+  "extracted_path": ".yeyo-memory/extracted/09bc7d9cc985520b.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Microsoft Word",
+      "Producer": "DocuCom PDF Driver 5.56 for NT(Light)",
+      "CreationDate": "D:20100907104334",
+      "Author": "Information Systems",
+      "Title": "4521-ESP-ANC-68-64-V360 - Block Valves - Underground"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:19:40.262851+00:00"
+}

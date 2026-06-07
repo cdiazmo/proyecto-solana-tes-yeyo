@@ -1,0 +1,37 @@
+{
+  "id": "35168e60dd1faa10",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201-DWG-002.01 TUBE-SHEET.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 218688,
+  "size_human": "214 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "1950201-DWG-002.01 TUBE-SHEET",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/35168e60dd1faa10.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "aitorasensio",
+      "CreationDate": "D:20200514150330+02'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20200514150341+02'00'",
+      "Producer": "Acrobat Distiller 17.0 (Windows)",
+      "Title": "O:\\01_OBRAS\\1950201 SOLANA Fabricacion Aceite Sales 6 UDS\\03_INGENIERIA\\01_INGENIERIA_MECANICA\\03_Planos\\1950201-DWG-002.01 TUB"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:54.207458+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:54.229069+00:00"
+}

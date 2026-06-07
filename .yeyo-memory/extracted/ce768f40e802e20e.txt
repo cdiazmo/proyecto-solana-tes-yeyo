@@ -1,0 +1,425 @@
+[page 1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TECNALIA RESEARCH & INNOVATION 
+Parque Tecnológico de San Sebastián 
+Mikeletegi Pasealekua, 2 
+E-20009 Donostia - San Sebastián (Spain) 
+ 
+ 
+T 902 760 000 
+T +34 946 430 850 (International calls) 
+ 
+ 
+ 
+ 
+ 
+PROJECT Nº: 068980 
+CLIENT: ABENGOA ENERGÍA, S.A 
+CONTACT PERSON: Cristina Prieto Rios 
+RESPONSIBLE FOR THE WORK IN TECNALIA: Virginia Madina 
+TITLE: Corrosion study on A516GR70 steel coupons tested under preheating conditions 
+DATA: 26/09/2017 
+ 
+ 
+ 
+Signed: 
+ 
+ 
+Dr. Virginia Madina, Ph. D 
+Responsible for the work in Tecnalia 
+ 
+TECNALIA 
+Materials for Energy and Environment 
+Parque Tecnológico de San Sebastián 
+Mikeletegi Pasealekua, 2 
+E-20009 Donostia-San Sebastián (Spain) 
+T +34 667115986 
+T +34 946 430 850 
+virginia.madina@tecnalia.com 
+www.tecnalia.com 
+
+[page 2]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 2 
+Confidential 
+ 
+ 
+ 
+ 
+INDEX 
+ 
+ 
+1. INTRODUCTION AND OBJECTIVE OF THE STUDY ................................ ................................ .... 3 
+2. VISUAL EXAMINATION ................................ ................................ ................................ ......... 4 
+3. GENERAL CORROSION RATE ESTIMATION ................................ ................................ ............. 7 
+4. METALLOGRAPHIC STUDY ................................ ................................ ................................ .... 8 
+5. SEM/EDX AND DRX ANALYSES OF CORROSION PRODUCTS AND DEPOSITS ............................. 9 
+6. U-BEND COUPON EXAMINATION ................................ ................................ ........................ 12 
+7. CONCLUSIONS ................................ ................................ ................................ .................... 12 
+ 
+ 
+
+[page 3]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 3 
+Confidential 
+1. INTRODUCTION AND OBJECTIVE OF THE STUDY 
+ABENGOA ENERGÍA, S.A., hereinafter ABENGOA, requests TECNALIA to carry out a corrosion study on 
+several A516Gr70 carbon steel coupons , tested under preheating conditions, in a molten nitrate 
+tank. 
+ 
+Four parallelepiped coupons, references 17, 18, 19 and 20, and one U -bend stress corrosion cracking 
+specimen, reference 9, are sent by ABENGOA to Tecnalia in order to carry out the following studies: 
+ 
+- Examination of the A516Gr70 (hereinafter A516) coupons on receipt 
+- Estimation of the general ized corrosion rate of the A516 coupons, according ASTM G1 
+standard1 
+- Metallographic study performed by optical and Scanning Electron Microscopy (SEM) 
+- Chemical characterization of the corrosion products and deposits on the A516 coupons by 
+Energy-Dispersive X-ray (EDX) and X-Ray Diffraction (XRD) spectroscopies 
+- The cracking susceptibility of the U-bend specimen will be examined using the SEM 
+ 
+The identification of the coupons, the size and the weight of the specimens before exposure, has 
+been given by ABENGOA. According ABENGOA, the coupons have been tested since 27 may 2013, to 
+23 June 2017, at 380 ºC, with operating periods in the range of 280 ºC, due to system shutdowns. 
+ 
+The results obtained from the above mentioned studies are described in this document. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 ASTM G1-03 (2011): Standard Practice for Preparing, Cleaning, and Evaluating Corrosion Test Specimens 
+
+[page 4]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 4 
+Confidential 
+2. VISUAL EXAMINATION 
+Macrographs in Figures 2.1 to 2.4 show the overall appearance of the preheated coupons. Except for 
+the U-bend coupon, the corrosion morphology and extension of the coupons is quite similar. 
+ 
+The surface of the A516 coupons shows abundant white to orange salt deposits. Under these 
+deposits, a grey -blackish corrosion layer, apparently well adhered in almost the entire coupon 
+surface, is observed. Uniform general corrosion appears to be the predominant mechanism 
+observed. Pitting or other kind of localized corrosion is not detected. 
+ 
+Few small areas with reddish brown corrosion products are observed on A516 coupon ref. 18 (Figure 
+2.3). These areas will be analyzed by SEM microscopy in more detail. 
+ 
+ 
+ 
+Figure 2.1: Photograph showing the appearance of the rack with the A516 coupons upon reception 
+at TECNALIA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 5]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 5 
+Confidential 
+ 
+ 
+ 
+ 
+Figure 2.2: A516 coupons reference 17, 18, 19 and 20 (one side and the other) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 18 19 20 
+17 18 19 20 
+
+[page 6]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 6 
+Confidential 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.3: Detail of A516 coupon reference 18 
+ 
+ 
+ 
+Figure 2.4: A516 U-bend coupon reference 9 
+ 
+ 
+ 
+ 
+Salt deposits 
+Reddish brown corrosion products 
+
+[page 7]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 7 
+Confidential 
+3. GENERAL CORROSION RATE ESTIMATION 
+The general corrosion rate of A516 coupons is estimated following the indications of ASTM G1 
+standard. According to this standard, the “average” corrosion rate is calculated using the formula: 
+ 
+Corrosion rate = (K x p) / A x t x D 
+ 
+Where: K = Constant K in the corrosion rate equation is 8.76 x 107, if the corrosion rate units are 
+ expressed in microns per year (μm/year) 
+ p = Initial weight (before exposure) – weight of descaled test specimen (g) 
+ t = Test duration (hours) 
+ A = Test specimen area (cm2) 
+ D = Density of metal specimen (g/cm3) 
+ 
+The removal of the corrosion products in the carbon steel coupons is carried out with the solution 
+reference C.3.5 (Table A1.1 in ASTM G1 standard): Hydrochloric acid + hexamethylene tetramine. 
+ 
+The corrosion rate values obtained for corrosion coupons ref. 17, 18 and 19, are given in Table 1. 
+ 
+Some considerations: 
+- A516 carbon steel density is 7.86 g/cm3 
+- Coupons have been tested from 27 May 2013, to 23 June 2017, equivalent to around 35720 
+hours of testing . According ABENGOA , due to system shutdowns , the total exposure time 
+should be reduced by approximately one hal f. This gives a total time exposure of 17860 
+hours. This is the period of time introduced in the corrosion rate formula. 
+- The initial total surface of the specimen is determined making corrections for the area 
+associated with the mounting hole. Initial dimensions 25.5 x 51 x 1.8 (mm), hole diameter 10 
+mm. 
+ 
+Ref. 
+Initial 
+weight* 
+(g) 
+Final 
+descaled 
+weight 
+(g) 
+Mass 
+loss 
+(g) 
+k 
+(microns/
+year) 
+Time of 
+exposure 
+(hours) 
+Density 
+(g/cm3) 
+Specimen 
+Area 
+(cm2) 
+Corrosion 
+rate 
+(microns/year) 
+Average 
+corrosion rate 
+(microns/year) 
+A516Gr70-17 16.2685 16.1903 0.0782 87600000 17860 7.86 27.193 1.80 
+1.66 ± 0.12 A516Gr70-18 16.5665 16.4981 0.0684 87600000 17860 7.86 27.193 1.57 
+A516Gr70-19 16.3357 16.2651 0.0706 87600000 17860 7.86 27.193 1.62 
+Table 1: Average general corrosion rate obtained for A516 coupons 
+*Initial weight (weight before exposure) given by ABENGOA 
+
+[page 8]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 8 
+Confidential 
+4. METALLOGRAPHIC STUDY 
+A cross s ection extracted from A516 coupon ref. 20 is prepared for metallographic study , by 
+embedding this cross section in resin and polishing. Th is metallographic probe is further studied by 
+optical and SEM microscopy , in order to study the morphology and extension of the corrosion 
+damage. 
+ 
+The o ptical micrographs shown in Figure 4.1 reveal a relatively uniform oxide layer, in terms of 
+thickness, and in general firmly attached to the surface of the coupon. No pitting or other kind of 
+localized corrosion is seen. 
+ 
+ 
+ 
+ 
+ 
+Figure 4.1: Optical micrographs of a cross section from A516 coupon ref. 20. Without metallographic 
+etching 
+
+[page 9]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 9 
+Confidential 
+5. SEM/EDX AND DRX ANALYSES OF CORROSION PRODUCTS AND DEPOSITS 
+In order to chemically characteri ze the corrosion products and deposits generated in the A516 
+coupons, EDX analyses are carried out using a microanalyse r coupled to a scanning electron 
+microscope. 
+ 
+Table 2 lists the semi -quantitative elemental chemical composition obtained in the ED X analyses 
+performed on the surface of coupon ref. 20 (before cutting and embedding in resin). These analyses 
+show a significant amount of magnesium (Mg) and oxygen (O), practically on the entire surface of the 
+coupon. EDX analyses of the reddish corrosion spots show them to be enriched with iron (Fe). 
+ 
+The detected magnesium oxide takes the form of a very crystalline deposit, as it can be seen in 
+Figure 5.1. 
+ 
+EDX analyses on surface of coupon ref. 20 
+ 
+Element (wt %) 
+O Mg Si S K Ca Fe Total 
+A516-70 20 _ White to orange deposits 48.89 47.44 0.46 0.33 2.88 100.00 
+A516-70 20 _ White to orange deposits 47.99 48.25 0.44 0.75 2.57 100.00 
+A516-70 20 _ Reddish spot 48.13 33.14 1.62 0.32 0.37 16.43 100.00 
+A516-70 20 _ Blackish oxide layer 51.45 43.45 0.38 0.55 2.66 1.51 100.00 
+A516-70 20 _ Blackish oxide layer 50.17 44.71 0.52 0.43 2.59 1.58 100.00 
+Table 2: Semi-quantitative elemental chemical composition obtained in the EDX analyses carried out 
+on the surface of A516 coupon ref.20 
+ 
+ 
+The metallographic cross section extracted from A516 coupon ref. 20, is also analysed by SEM/EDX 
+microscopy, in order to obtain more information about the composition of the corrosion layer . EDX 
+analyses are conducted at different locations of the oxide scale thickness. Figure 5.2 shows a back -
+scattered electron micrograph for this section together with the line profile obtained for the main 
+elements detected in the EDX analyses. 
+ 
+The obtained results indicate that magnesium oxide deposition takes place in the outermost part of 
+the iron oxide layer. Magnesium is a minor constituent of the nitrate salt. 
+ 
+ 
+ 
+ 
+ 
+
+[page 10]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 10 
+Confidential 
+ 
+ 
+ 
+Figure 5.1: Backscattered SEM micrograph of the “blackish” surface of A516 coupon ref. 20, and the 
+corresponding EDX spectra 
+ 
+ 
+EDX analyses on cross section 
+of A516 coupon ref. 20 
+Element (wt %) 
+O Mg Si S Ca Mn Fe Total 
+Spectrum 1 36.33 15.12 - 0.26 0.27 0.86 47.15 100.00 
+Spectrum 2 30.57 6.14 - 0.50 - 0.97 61.82 100.00 
+Spectrum 3 30.69 0.58 0.35 0.41 0.22 1.57 66.17 100.00 
+Spectrum 4 30.23 - 0.39 - - 0.85 68.53 100.00 
+Figure 5.2: Backscattered SEM micrograph showing cross section of A516 coupon ref. 20 , and results 
+of the semi-quantitative EDX analyses (points 1, 2, 3 and 4 in the SEM micrograph) carried out 
+ 
+1 
+2 
+3 
+4 
+Mg 
+Fe 
+O 
+Reddish 
+spot area 
+
+[page 11]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 11 
+Confidential 
+In order to stoichiometrically characterise the corrosion products and deposits generated on the 
+surface of A516 coupon ref. 20, X-ray diffraction analyses are carried out using a Brucker D8-Advance 
+X-ray-Diffractometer. The spectr um obtained and the identification of the main peaks is shown in 
+Figure 5.2. The most significant results are detailed below: 
+ 
+- The white to orange magnesium deposit is mainly constituted of periclase (MgO) 
+- The iron oxide layer generated could correspond to magnetite (Fe3O4) 
+- Although the DRX database indicates the likelihood for some peaks to correspond to sodium 
+oxide (NaO), sodium has not been detected in the EDX analyses, so, if present, it should not 
+exceed 0,4 - 0,5 percent by weight. This amount is also well below the detection limit 
+specified for the DRX equipment. Thus, it is not possible to determine the presence of NaO 
+by DRX, either because there is not NaO, or, if present, it is at a very low concentration 
+- It is important to point out that in the XRD analyses only the crystalline species (diffracting 
+ones) are shown. The sharp and high intensity peak of the magnesium oxide is due to its high 
+crystalline nature 
+ 
+ 
+ 
+ 
+Figure 5.2: XRD spectrum on surface of A516 coupon ref. 20 
+Periclase (MgO) 
+Magnetite (Fe3O4) 
+
+[page 12]
+V 
+ 
+ 068980 - Corrosion study on A516GR70 steel coupons tested under preheating conditions Page 12 
+Confidential 
+6. U-BEND COUPON EXAMINATION 
+Corrosion products in the U-bend coupon are partially removed with a plastic brush. The surface is 
+then examined by SEM. No cracking is observed at x 500 magnification. 
+ 
+ 
+ 
+7. CONCLUSIONS 
+ A516Gr70 carbon steel coupons tested under preheating conditions undergo generalized 
+corrosion. Pitting or other kind of localized corrosion is not detected 
+ 
+ The a verage generalised corrosion rate measured for A516 coupons is about 1.66 ± 0 .12 
+microns/year, for a testing period of 17860 hours. This corrosion rate value is the ave rage of 
+3 descaled test coupons 
+ 
+ A516Gr70 coupons form protective iron oxide films in the molten salt media. The XRD 
+analysis identifies iron oxide as magnetite (Fe3O4) 
+ 
+ Deposits on tested coupons are principally constituted of magnesium oxide (MgO) 
+ 
+ Cracking is not observed in the U-bend coupon

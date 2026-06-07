@@ -1,0 +1,59 @@
+{
+  "id": "9e49faf703d52188",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-ANC-00-62-0007 Miscellaneous insulation material.pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 77624,
+  "size_human": "76 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-ANC-00-62-0007 Miscellaneous insulation material",
+  "doc_code": "4521-ESP-ANC-00-62-0007",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11465,
+  "token_estimate": 2866,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/9e49faf703d52188.json",
+  "extracted_path": ".yeyo-memory/extracted/9e49faf703d52188.txt",
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Author": "cglpa",
+      "CreationDate": "D:20100520111057+05'00'",
+      "Creator": "PrimoPDF http://www.primopdf.com",
+      "ModDate": "D:20160818120921+02'00'",
+      "Producer": "Nitro PDF PrimoPDF",
+      "Title": "(Microsoft Word - 4521-ESP-ANC-00-62-0007 Miscellaneous Insulation Materials\\205)"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::34",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 34,
+        "doc_code": "4521-ESP-ANC-00-62-0007",
+        "title": "Especificación de aislamiento",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::34",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 34,
+        "doc_code": "4521-ESP-ANC-00-62-0007",
+        "title": "Especificación de aislamiento",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:14:46.407406+00:00"
+}

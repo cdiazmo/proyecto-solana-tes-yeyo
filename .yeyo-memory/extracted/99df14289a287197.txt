@@ -1,0 +1,531 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: 
+Project:
+Title: 
+Reviewed by:
+Jose María Rodríguez León
+Approved by:
+Jose María Rodríguez León
+© This procedure belongs to Abengoa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express 
+written consent of Abengoa
+Review: 00
+Date: Jan/16/2017
+Prepared by:
+Manuel Muñoz Arranz
+Data sheet
+ABEINSA EPC USA
+Solana
+Flow gauges datasheet
+Document :
+4521-HDD-AEE-39-70-0014-GAR
+
+[page 2]
+Document Nº:
+0 Jan/16/2017
+Rev. Date
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Exceptions to Specifications 
+Annex IV
+Annex II
+Annex VII
+Annex V
+Annex III
+Client:
+ABEINSA EPC USA
+4521-HDD-AEE-39-70-0014-GAR
+Description
+Project:
+Issue for bid
+Annex VI
+In case of discrepancies among these specifications included as annexes, the option more demanding will be 
+applied. In case of discrepancies among these specifications and the data sheet it will be applied as specified in 
+data sheet. Otherwise Abengoa will be informed for deliberation.
+Annex VIII
+Solana
+Annexes
+Description:
+Along with the sheets, the following documents shall be taken into account in the design, manufacture, supply, testing, warranty 
+and spare parts of Flow indicators included in this Data Sheet:
+Attached documents with the Data Sheet 
+Annex X
+For the Flow indicators included in this data sheet shall be taken into account the following deviations from the technical 
+conditions specified in the specifications that are indicated above:
+ABEINSA 
+ENGINEERING
+Data sheet
+Flow gauges
+Annex I
+Annex IX
+Note 1
+
+[page 3]
+Document Nº:
+0 Jan/16/2017
+Rev. Date
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+Issue for bid
+Description
+Notes:
+It will be indicated in red colour the instruments which have been eliminated respect to the last 
+review.
+Note 3:
+Solana
+4521-HDD-AEE-39-70-0014-GARClient:
+ABEINSA EPC USA Project:
+Notes
+Note 1: It will be indicated in yellow colour the cells corresponding to technical specifications that imply 
+diversions with regard to the general features of the rest of level indicators.
+Note 2:
+It will be indicated in green colour the instruments which have been included in the scope respect 
+to the last review.
+Note 4: It will be indicated in blue colour the cells whose specified technical features involve a change in 
+the technical conditions regarding the previous revision.
+General Notes
+General Information and Requirements
+ABEINSA 
+ENGINEERING
+Description:
+Data sheet
+Flow gauges
+Minimum Spare Parts
+
+[page 4]
+Document Nº:
+0 Jan/16/2017
+Rev. Date
+1 Abengoa or some represent person will attend the factory inspections which are marked below:
+2
+3 X
+4
+5
+6
+7
+8
+9
+10
+11 X
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 Yes
+22
+23 Yes
+24 Yes
+25
+26
+27
+28
+29
+30 Yes
+31
+32 Yes
+33
+34 Yes
+35
+36
+37 Yes
+38 Yes
+39
+40
+41
+42 Yes
+43 Yes
+44 Yes
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+The documentation will be according to the format which is established by Abengoa
+Notes
+With the supply delivery
+Final Quality Dossier:
+2 weeks after the delivery
+Deliver
+4 paper copies
++
+1 electronic copy
+ - Design Dossier
+ - Manufacturing Dossier 
+ - Manuals
+Manuals
+Installation
+Operation
+Maintenance
+Delivered 
+Documentation 
+Before Manufacturing
+Design Dossier 2 weeks after the purchase 
+order
+Deliver
+1 electronic copy
+Yes
+Calibration Certificate
+General Conformity Certificate according to Abengoa Requirements
+Manufacturing Dossier 
+Welder Qualification Certificate. 
+WPS/ PQR Certificate
+Material Certificates (EN 10204 3.1B)
+Material Certificate of Welding Consumables. 
+Hydrostatic Test Certificate.
+No-Destructive Welding Test Certificates (END, LP...)
+Visual and Dimensional Control Certificate.
+CE Conformity Certificate. 
+Compliance according to PE directives 97/23/EC, EMC 89/336/EEC, ATEX 94/9/EC
+ Vendor's Documents and Drawing Requirements (VDDR) 
+Design Dossier
+Data Sheets
+Calculation Sheet
+Dimensional Drawing / Process Connection Diagrams
+Electrical Connection Diagrams
+Notes
+Final Inspection before the equipment deliberation.
+The supplier will advise of the previously expecting date for the inspection with at least two weeks in advance. In case of not having
+been received confirmation, the supplier will be able to carry on with the manufacture and delivery planning.
+Analysis and Inspections Plan (AIP)
+Follow-up inspection of quality and term manufacturing 
+Inspection of Hydrostatic Pressure Test.
+Inspection of no-destructive Welding Test.
+Description:
+AIP & VDDRData sheet
+Flow gauges
+Issue for bid
+ Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0014-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 5]
+Document Nº:
+0 Jan/16/2017
+Rev. Date
+1 6
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+Project: Solana
+Review
+Rotameter with low flow switchFIG-325701
+Instrument Type
+Index
+0
+4521-HDD-AEE-39-70-0014-GAR
+Description
+Issue for bid
+ABEINSA 
+ENGINEERING
+Description:
+Data sheet
+Flow gauges
+Client:
+Sheet Nº 
+ABEINSA EPC USA
+Tag
+
+[page 6]
+Document Nº:
+0 Jan/16/2017
+Rev. Date
+1
+2
+3
+4
+5 80
+6
+7
+8
+9 - 2,019 ft3/min
+10 - 190 psia
+11 - 60 ºF
+12 - min psi
+13 - 0,96 lb/ft3
+14 - 0,02 cP
+15 psig
+16 ºF
+17
+18
+19
+20
+21
+22
+23
+24
+25 RF
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+Power supply 24VDC
+Alarm setpoint Adjustable - Full range
+Alarm 
+output 
+Number of relay output 2
+Output rating 120 VAC / 2A - 24 VDC / 2A
+NEMA 4 / NEMA 4X
+Area classification Class 1 - Div 2
+Connections Material 316 SS
+Internal Shielding Material -
+Documentation
+No
+According to AIP
+Enclosure rating
+Diameter Indicator
+Borosilicate Glass
+Length Indicator By the provider
+150% (of the maximum operation pressure)
+FlangedProcess Connection
+1/2"
+Flange Design
+Serial Number
+Eq. 
+Manufacturer
+Model
+Low flow switch is tagged as FSL-325701
+According to VDDR
+By the provider
+150#
+Float Material
+Regulator Needle Valve
+Design Pressure
+Notes Options 
+Name Plate
+Graduated Scale
+Inspections
+Yes
+Yes
+Accuracy
+Indicator 
+Range
+Flange Facing/ Size/ Rating
+Overpressure (% of the range)
+316 SS
+2% full scale
+Rotameter (variable area type)Indicator Type
+According to ASME B16.5
+2
+Normal 
+Operation 
+Conditions
+Material
+Insulation / Thickness
+P&ID Number/ Review Number
+Diameter/Rating / Schedule
+Body Material 316 SS
+Window Material
+Nitrogen supply for drain back tank MS pump
+4521_PLN_AEE_68_71_P279-GAR
+0 - 3 ft3/min
+Design Temperature 400
+FIG-325701
+Sheet
+6
+of
+6
+Description
+Supply Units
+Tag:
+General 
+-
+Service
+Location (Pipe)
+Pipe
+257-N-11EF-CS72-1/2"
+ABEINSA 
+ENGINEERING
+Client:
+ABEINSA EPC USA
+Issue for bid
+4521-HDD-AEE-39-70-0014-GAR
+Data sheet
+Density
+Project:
+Process Data 
+Flow
+200
+Fluid/ State 
+Solana
+1
+1/2" 150#
+Viscosity
+No
+Constant Pressure Drop
+Pressure
+ASTM A-53
+GasNitrogen
+Temperature Maximum 
+Operation 
+Conditions

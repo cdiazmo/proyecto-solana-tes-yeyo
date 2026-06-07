@@ -1,0 +1,35 @@
+{
+  "id": "8a5cc05de6ca7cf6",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0341_R03.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 262632,
+  "size_human": "256 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-PLN-DOT-75-63-0341 R03",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2841,
+  "token_estimate": 710,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/8a5cc05de6ca7cf6.json",
+  "extracted_path": ".yeyo-memory/extracted/8a5cc05de6ca7cf6.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20200318153004-07'00'",
+      "Creator": "Adobe Acrobat Pro DC 20.6.20034",
+      "ModDate": "D:20200318153004-07'00'",
+      "Producer": "Adobe Acrobat Pro DC 20.6.20034"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Soporte de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:58.640016+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:58.640019+00:00"
+}

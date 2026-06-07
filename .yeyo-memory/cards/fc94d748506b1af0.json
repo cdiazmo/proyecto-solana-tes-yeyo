@@ -1,0 +1,67 @@
+{
+  "id": "fc94d748506b1af0",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-21-70-0002_R0.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 54250,
+  "size_human": "53 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-21-70-0002 R0",
+  "doc_code": "4521-ESP-AGE-21-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 11917,
+  "token_estimate": 2979,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/fc94d748506b1af0.json",
+  "extracted_path": ".yeyo-memory/extracted/fc94d748506b1af0.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.04",
+      "CreationDate": "D:20120719093724+02'00'",
+      "ModDate": "D:20120719093724+02'00'",
+      "Title": "4521-ESP-AGE-21-70-0002",
+      "Creator": "PDFCreator Version 1.2.3",
+      "Author": "agvari",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:05.060960+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::102",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 102,
+        "doc_code": "4521-ESP-AGE-21-70-0010",
+        "title": "Level Switches Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::102",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 102,
+        "doc_code": "4521-ESP-AGE-21-70-0010",
+        "title": "Level Switches Technical Specification",
+        "revision": "",
+        "status": "-",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:31:05.060962+00:00"
+}

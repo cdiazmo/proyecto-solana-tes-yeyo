@@ -1,0 +1,74 @@
+{
+  "id": "c510c8c74ec3542d",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/CAL/4521-CAL-AEE-75-54-0005-GAR.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 2182264,
+  "size_human": "2.1 MB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "4521-CAL-AEE-75-54-0005-GAR",
+  "doc_code": "4521-CAL-AEE-75-54-0005",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 630549,
+  "token_estimate": 157637,
+  "chunks": 399,
+  "card_path": ".yeyo-memory/cards/c510c8c74ec3542d.json",
+  "extracted_path": ".yeyo-memory/extracted/c510c8c74ec3542d.txt",
+  "metadata": {
+    "pages": 248,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.10",
+      "CreationDate": "D:20170404122115+02'00'",
+      "ModDate": "D:20170404122115+02'00'",
+      "Author": "agjag",
+      "Creator": "PDFCreator Version 1.7.3",
+      "Keywords": "",
+      "Subject": "",
+      "Title": "4521-CAL-AEE-75-54-0005-GAR"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::24",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 24,
+        "doc_code": "4521-CAL -AEE-75-54-0005-GAR",
+        "title": "Steel structure IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::24",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 24,
+        "doc_code": "4521-CAL -AEE-75-54-0005-GAR",
+        "title": "Steel structure IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::18",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 18,
+        "doc_code": "4521-CAL -AEE-75-54-0005-GAR",
+        "title": "TES platform structures",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:23:21.564602+00:00"
+}

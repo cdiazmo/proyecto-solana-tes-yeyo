@@ -1,0 +1,202 @@
+[page 1]
+ABEINSA
+Warranty Annex
+Title:
+MS-HTF Shell & Tube Heat Exchangers
+Client: Arizona Solar One LLC
+Project: Solana Generation Station
+Document No.: 4521-MEM-EPC-075-000-0001
+Revision: 0
+Date: 04/05/2016
+Prepared by:
+Ricardo R. Delgado A. Electronic Signature
+Reviewed by:
+Andrés Barros Borrero Electronic Signature
+Approved by:
+Jaime Rojas Blasco Electronic Signature
+This document is property of Teyma USA & Abener Engineering and Construction Services General Partnership. Its total or partial
+reproduction is strictly forbidden by any means. as well as its distribution to third parties without the express written consent of Teyma USA
+& Abener Engineering and Construction Services General Partnership.
+If for exceptional reasons due to specific aspects of the project (eg: project confidential information. legal requirements or local regulations
+and/or contractual requirements of the client). There was a need to modify the requirements included in this procedure. These changes must
+be properly documented in the quality, environment and health and safety plan of the project. prior approval from the company
+headquarters management system department.
+
+[page 2]
+ABEINSA
+Document: 4521-MEM-EPC-075-000-0001
+Revision: 0 Date: 04/05/2016
+Page: 2 of 7
+Revision Control Sheet
+Revision Date Reason for the revision Prepared
+by
+Reviewed
+by
+Approved
+by
+00 04/05/2016 Initial version RDA ABB JRB
+
+[page 3]
+ABEINSA
+Document: 4521-MEM-EPC-075-000-0001
+Revision: 0 Date: 04/05/2016
+Page: 3 of 7
+Table of Contents
+1. Purpose...................................................................................................................4
+2. Acceptance Test .....................................................................................................4
+2.1. Heat and Mass balances ......................................................................................4
+2.2. Noise warranty ....................................................................................................6
+2.3. Acceptance Test Procedure ..................................................................................7
+3. Availability warranty.............................................................................................7
+
+[page 4]
+ABEINSA
+Document: 4521-MEM-EPC-075-000-0001
+Revision: 0 Date: 04/05/2016
+Page: 4 of 7
+1. Purpose
+The main object of this document is to include all the guaranteed figures that must be
+reached by the Supplier to obtain the Pr actical Completion Test of the plant.
+2. Acceptance Test
+To pass the Acceptance Test the equipment mus t fulfill the requirements shown on the
+following points:
+2.1. Heat and Mass balances
+The Supplier must guarantee the approach temperatures and pressure drop for each stream
+considered in the cases presented below.
+Pressure drop indicated is referred to the whole heat interchanger train including
+interconnecting piping between HEX when vendor design resulted in a series arrangement.
+The Evaluation Factor indicated in the botto m of each table is the weight associated to the
+guaranteed values for penalization purposes.
+Guaranteed Case 1. Max Charging Pressure Temperature Flow Enthalpy
+Psia ºF Lb/h BTU/Lb
+Cold Fluid - Molten Salts Inlet 137.7 554.40 6,622,459 183.16
+Outlet 39.35 730.80 6,622,459 246.42
+Hot Fluid - Therminol VP1 Inlet 237.6 737.6 4,105,612 336.90
+Outlet 186.8 564 4,105,612 235.62
+Guaranteed Values
+Heat Exchanged [MM BTU/h] 419.8
+Cold Approach Temperature [ºF] 9.6
+Hot Approach Temperature [ºF] 6.8
+Cold Fluid pressure drop [psi] 73.97
+Hot Fluid pressure drop [psi] 50.77
+Evaluation factor 20%
+* Estimated values for RQF process. Once having a Vendor awarded, these values will be reviewed and
+agreed for the final contract issue.
+
+[page 5]
+ABEINSA
+Document: 4521-MEM-EPC-075-000-0001
+Revision: 0 Date: 04/05/2016
+Page: 5 of 7
+Guaranteed Case 2. Discharging Pressure Temperature Flow Enthalpy
+Psia ºF Lb/h BTU/Lb
+Hot Fluid - Molten Salts Inlet 112.8 729 6.604.023 245.77
+Outlet 62.69 556.2 6.604.023 183.80
+Cold Fluid - Therminol VP1 Inlet 234.2 545 4.083.090 225.04
+Outlet 184.0 717.8 4.083.090 324.65
+Guaranteed Values
+Heat Exchanged [MM BTU/h] 409.58
+Cold Approach Temperature [ºF] 11.2
+Hot Approach Temperature [ºF] 11.2
+Cold Fluid pressure drop [psi] 50.22
+Hot Fluid pressure drop [psi] 73.76
+Evaluation factor 20%
+* Estimated values for RQF process. Once having a Vendor awarded, these values will be reviewed and
+agreed for the final contract issue.
+Guaranteed Case 3. Summer Charge Pressure Temperature Flow Enthalpy
+Psia ºF Lb/h BTU/Lb
+Cold Fluid - Molten Salts Inlet 114.7 553.9 5,079,985 182.98
+Outlet 33.56 730.3 5,079,985 246.24
+Hot Fluid - Therminol VP1 Inlet 214.6 737.6 3,102,130 336.9
+Outlet 185.6 561.2 3,102,130 234.5
+Guaranteed Values
+Heat Exchanged [MM BTU/h] 321.61
+Cold Approach Temperature [ºF] 7.3
+Hot Approach Temperature [ºF] 7.3
+Cold Fluid pressure drop [psi] 56.74
+Hot Fluid pressure drop [psi] 29
+Evaluation factor 20%
+* Estimated values for RQF process. Once having a Vendor awarded, these values will be reviewed and
+agreed for the final contract issue.
+30
+
+[page 6]
+ABEINSA
+Document: 4521-MEM-EPC-075-000-0001
+Revision: 0 Date: 04/05/2016
+Page: 6 of 7
+Guaranteed Case 4. Winter Discharge Pressure Temperature Flow Enthalpy
+Psia ºF Lb/h BTU/Lb
+Hot Fluid - Molten Salts Inlet 113.4 728.3 6,620,487 245.52
+Outlet 63.83 564.3 6,620,487 186.69
+Cold Fluid - Therminol VP1 Inlet 237.0 553.8 4,081,984 229.92
+Outlet 186.8 717.8 4,081,984 324.65
+Guaranteed Values
+Heat Exchanged [MM BTU/h] 389.77
+Cold Approach Temperature [ºF] 10.5
+Hot Approach Temperature [ºF] 10.5
+Cold Fluid pressure drop [psi] 50.19
+Hot Fluid pressure drop [psi] 73.95
+Evaluation factor 20%
+* Estimated values for RQF process. Once having a Vendor awarded, these values will be reviewed and
+agreed for the final contract issue.
+Guaranteed Case 5. 25% Load Charging Pressure Temperature Flow Enthalpy
+Psia ºF Lb/h BTU/Lb
+Cold Fluid - Molten Salts Inlet 68.49 594.3 1,659,043 197.41
+Outlet 25.57 733.8 1,659,043 247.50
+Hot Fluid - Therminol VP1 Inlet 187.2 737.6 1,001,893 336.90
+Outlet 184.1 598.1 1,001,893 253.43
+Guaranteed Values
+Heat Exchanged [MM BTU/h] 83.19
+Cold Approach Temperature [ºF] 3.8
+Hot Approach Temperature [ºF] 3.8
+Cold Fluid pressure drop [psi] 18.53
+Hot Fluid pressure drop [psi] 3.04
+Evaluation factor 20%
+* Estimated values for RQF process. Once having a Vendor awarded, these values will be reviewed and
+agreed for the final contract issue.
+2.2. Noise warranty
+The Supplier guarantees that the sound pressure level will not be higher than 85 dB(A)
+according to below conditions.
+The A-weighted surface sound pressure l evel is averaged over the measurement
+s u r f a c ea c c o r d i n gt oI S O3 7 4 6( 2 0 1 1 ) .
+4
+
+[page 7]
+ABEINSA
+Document: 4521-MEM-EPC-075-000-0001
+Revision: 0 Date: 04/05/2016
+Page: 7 of 7
+2.3. Acceptance Test Procedure
+The performance test procedure will be delivered by the Contractor 6 months before the
+Acceptance Test. Such procedure must be in com pliance with a recognized standard and it
+must include the correction factors to be applied during the performance test, in case the
+four cases to be tested don´t meet the exact conditi ons above referred (e.g. slight variations in
+cold and/or hot fluid mass flows with respects to the guaranteed cases). This procedure needs
+to be approved by Teyma USA & Abener Engineering and Construction Services General
+Partnership.
+3. Availability warranty
+The availability warranty has to be fulfilled after the reception of the heat exchanger during
+the period specified in the next paragraph.
+The availability must be 9
+99% and has to be guaranteed during 24 months, It will start after
+Practical Completion of the plant. The availa bility will be measured in periods of 12 months.
+The following formula will be used for the availability calculations:
+=ݕݐ݈ܾ݈݅݅ܽ݅ܽݒܣ 
+௜
+ଵ
+ܥ+ܤ
+ܦ+ܥ+ܤ+ܣ
+Where:
+x௜= Number of operation hours at each capacity.
+x௜= Capacity factor (Maximum allowed power by Contractor mechanical restriction /
+Maximum power)
+x B = Number of hours when the equipment is ready to operate (stand-by).
+x C = Number of hours of scheduled maintenance.
+x D = Number of hours of non-scheduled maintenance. Any delay in the repairing of the
+equipment due to causes not attributable to th e Supplier (i.e. equipment not available
+for its repairing. on site access permits...) will not be counted as non-scheduled
+maintenance.
+A + B + C + D = 8760 hours/year
+Example: If one of the trains is not operating d ue to defects or outages caused by reasons the
+supplier is responsible for. a value of 0.5 for the௜will be considered.

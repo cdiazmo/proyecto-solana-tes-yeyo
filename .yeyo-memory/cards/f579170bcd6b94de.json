@@ -1,0 +1,33 @@
+{
+  "id": "f579170bcd6b94de",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-AGE-58-64-0005_Heat Transfer Fluid (HTF) Services rotary contro....pdf",
+  "top_dir": "06 Especificaciones Tecnicas",
+  "ext": "pdf",
+  "size_bytes": 81262,
+  "size_human": "79 KB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-ESP-AGE-58-64-0005 Heat Transfer Fluid (HTF) Services rotary contro...",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 31155,
+  "token_estimate": 7788,
+  "chunks": 20,
+  "card_path": ".yeyo-memory/cards/f579170bcd6b94de.json",
+  "extracted_path": ".yeyo-memory/extracted/f579170bcd6b94de.txt",
+  "metadata": {
+    "pages": 10,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110610110532-05'00'",
+      "ModDate": "D:20110610110532-05'00'",
+      "Title": "4521-ESP-AGE-58-64-0005",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "agjhr",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:45.580080+00:00"
+}

@@ -1,0 +1,2038 @@
+[sheet Cover Sheet]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0019
+Thermal Energy Storage (TES) & Heat Transfer Fluid (HTF) Services | Item No.: | No. Req'd:
+Project: | Solana
+Temperature Transmitter and Junction Box | Ref.: | Issue: | 3 | Dated: | Jun/16//2012
+Instructions:
+1. | Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be
+included on all pages.
+2. | Revisions are identified in the body of the Specification.
+Rev. | Description of Revision
+No. | Date | By | Chk’d | App’d | with Page Numbers
+0 | Sept/23/2011 | PGV | JHR | PQJ | For bid
+1A | Nov/09/2011 | PGV | JHR | PQJ | JB list added, JB and TT quantity modified
+1B | Dec/01/2011 | CLR | CLR | PQJ | For bid
+1 | Jan/06/2012 | PGV | JHR | PQJ | For Purchase
+2 | May/08//2012 | PGV | JHR | PQJ | For Purchase
+Add TT 1/2/3/4/5/6-251-32
+and TT 1/2/3/4/5/6-252-32
+3 | Jun/16//2012 | PGV | JHR | PQJ | For Purchase
+Add TT 1/2/3/4/5/6-251-06F2
+TT 1/2/3/4/5/6-251-06F2
+Delete TT 1/2/3/4/5/6-251-06H1
+TT 1/2/3/4/5/6-251-06J1
+3 | Jun/16//2012 | PGV | JHR | PQJ | For Purchase
+2 | May/08//2012 | PGV | JHR | PQJ | For Purchase
+1 | Jan/06/2012 | PGV | JHR | PQJ | For Purchase
+1B | Dec/01/2011 | CLR | JHR | PQJ | For bid
+1A | Nov/09/2011 | PGV | JHR | PQJ | JB list added, JB and TT quantity modified
+0 | Sept/23/2011 | PGV | JHR | PQJ | For bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent TEYMA USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the TEYMA USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 2]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0019
+Thermal Energy Storage (TES) & Heat Transfer Fluid (HTF) Services | Item No.: | No. Req'd:
+Project: | Solana
+Temperature Transmitter and Junction Box | Ref.: | Issue: | 3 | Dated: | Jun/16//2012
+1. General 1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 1.2 Definitions 1.2.1 "Supplier" shall mean the instrument supply company chosen for the project. 1.2.2 "Customer" shall mean Abener Teyma. 1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable). 1.2.4 "Owner" shall mean Abengoa Solar Inc. 1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these specifications. Any specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are considered "Contract Documents". 1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work described unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., are addressed solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically identified. 1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier. 2. Scope 2.1 Scope of this contract is supply of instruments as outlined in the following engineering specifications required for the project including all cables, gasket, manifolds … etc as identified in the main specification as options or accessories. Customer plans to establish unit pricing for material to be used throughout the duration of the project. Quantity of instruments needed for the contract should be identified on the main lead engineering specification. Shipping schedule to be confirm with purchasing during the final commercial agreement 2.2 Packaging - To be defined later. 2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later. 2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify Supplier of material required on an as needed basis. Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in order to reduce transportation costs. 2.5 The following items are excluded from this subcontract: " " " 2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available for update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and document all material within the scope of this contract.
+3 | Jun/16//2012 | PGV | JHR | PQJ | For Purchase - No change on this page
+2 | May/08//2012 | PGV | JHR | PQJ | For Purchase - No change on this page
+1 | Jan/06/2012 | PGV | JHR | PQJ | For Purchase
+1B | Dec/01/2011 | CLR | JHR | PQJ | For bid
+0 | Sept/23/2011 | PGV | JHR | PQJ | For bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent TEYMA USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the TEYMA USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 3]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Engineering Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0019
+Thermal Energy Storage (TES) & Heat Transfer Fluid (HTF) Services | Item No.: | No. Req'd:
+Project: | Solana
+Temperature Transmitter and Junction Box | Ref.: | Issue: | 3 | Dated: | Jun/16//2012
+3. Quality 3.1 All material shall be supplied to meet all dimensional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc standards listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense. Notice: o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data requirements reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing number of weeks after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid. o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received. o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later. o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized, the best estimated shipping date and quantity: Monthy shipping starting from June 2012 10 boxes per month for size 1, 10 boxes for size 2, 5 for size 3, 2 for size 4, 2 for size 5. o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is required. Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need this information with the quotation, in order for our client to have spares available during start-up and to take advantage of any economies available. o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by Abener Teyma personnel prior to shipment to assure compliance with specifications. o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick Carlton, e-mail rick.carlton@abener.abengoa.com at (314) 275-1323 for details. o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in physical dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or maintenance cost and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate and price and delivery for that alternate. The purchase will, in general, be made on a basis of adherence to the original design premise, economic value, and best delivery. o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed corrections, changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must request clarification. Give priority to pricing standard equipment and components. o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply: o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage. o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation.
+3 | Jun/16//2012 | PGV | JHR | PQJ | For Purchase
+2 | May/08//2012 | PGV | JHR | PQJ | For Purchase
+1 | Jan/06/2012 | PGV | JHR | PQJ | For Purchase
+1B | Dec/01/2011 | CLR | JHR | PQJ | For bid
+0 | Sept/23/2011 | PGV | JHR | PQJ | For bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent TEYMA USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the TEYMA USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Index 1]
+Sheet | Title | Revision
+1 | Cover | 3
+2 | General Notes and Instructions | 3
+3 | General Notes and Instructions | 3
+4 | Index I | 3
+5 | Index II | 3
+6 | Instrument Specification - TES/HTF Services - Temperature Transmitter | 2
+7 | Instrument Specification - TES/HTF Services - Junction Box for TT | 2
+8 | Instrument Specification - TES/HTF Services - Junction Box for TT | 2
+9 | Instrument Specification - TES/HTF Services - Junction Box for TT Style A Sketch | 2
+10 | Instrument Specification - TES/HTF Services - Temperature Transmitter Sketch | 2
+11 | Instrument Specification - TES Services - Temperature Transmitter - List 1 | 2
+12 | Instrument Specification - TES Services - Temperature Transmitter - List 2 | 2
+13 | Instrument Specification - TES Services - Temperature Transmitter - List 3 | 2
+14 | Instrument Specification - TES Services - Temperature Transmitter - List 4 | 2
+15 | Instrument Specification - TES Services - Temperature Transmitter - List 5 | 2
+16 | Instrument Specification - TES Services - Temperature Transmitter - List 6 | 2
+17 | Instrument Specification - TES Services - Temperature Transmitter - List 7 | 3
+18 | Instrument Specification - TES Services - Temperature Transmitter - List 8 | 2
+19 | Instrument Specification - TES Services - Temperature Transmitter - List 9 | 2
+20 | Instrument Specification - TES Services - Temperature Transmitter - List 10 | 3
+21 | Instrument Specification - TES Services - Temperature Transmitter - List 11 | 2
+3 | PGV | Jun/16//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08//2012 | For Purchase
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 4 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet Index 2]
+Sheet | Title | Revision
+22 | Instrument Specification - TES Services - Temperature Transmitter - List 12 | 2
+23 | Instrument Specification - TES Services - Temperature Transmitter - List 13 | 3
+24 | Instrument Specification - TES Services - Temperature Transmitter - List 14 | 2
+25 | Instrument Specification - TES Services - Temperature Transmitter - List 15 | 2
+26 | Instrument Specification - TES Services - Temperature Transmitter - List 16 | 3
+27 | Instrument Specification - TES Services - Temperature Transmitter - List 17 | 2
+28 | Instrument Specification - TES Services - Temperature Transmitter - List 18 | 2
+29 | Instrument Specification - TES Services - Temperature Transmitter - List 19 | 3
+30 | Instrument Specification - TES Services - Temperature Transmitter - List 20 | 2
+31 | Instrument Specification - TES Services - Temperature Transmitter - List 21 | 2
+32 | Instrument Specification - TES Services - Temperature Transmitter - List 22 | 3
+33 | Instrument Specification - TES Services - Temperature Transmitter - List 23 | 2
+34 | Instrument Specification - TES Services - Temperature Transmitter - List 24 | 2
+35 | Instrument Specification - HTF Services - Temperature Transmitter - List 25 | 2
+36 | Instrument Specification - HTF Services - Temperature Transmitter - List 26 | 2
+37 | Instrument Specification - HTF Services - Temperature Transmitter - List 27 | 2
+38 | Instrument Specification - HTF Services - Temperature Transmitter - List 28 | 2
+3 | PGV | Jun/16/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08/2012 | For Purchase
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 5 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet TT Spec]
+Instrument Specification - TES/HTF Services - Temperature Transmitter
+GENERAL | 1 | Tag Number | See Lists
+2 | Service | Various Applications
+3 | P&ID | See Lists
+4 | Junction Box | See Note 2 Below
+5 | Quantity | See Juntion Box Specification
+PROCESS CONDITIONS | 6 | Fluid | NA
+7 | Design Temperature | NA
+8 | Design Pressure | Operating Pressure | NA | NA
+TEMPERATURE TRANSMITTER | 9 | Calibration Range | Later
+10 | Adjustable Range | Later | oC
+11 | Temperature Compensation | Yes
+12 | Signal Imput | T/C K/F, RTD 100Ω / 500Ω platinum 3-wire / 4-wire platinum
+13 | Output Signal | Linearisation | 4-20 mA + HART | Yes
+14 | Accuracy | ± 0.02% of Span
+15 | Minimum Span | Maximum Span | See Lists | See Lists
+16 | Mounting | DIN Rail Type, See Sketch
+17 | Power Supply | Load Resistance | 24 VDC. Loop powered | 600 Ohms
+18 | Environment | Operating Temp (Deg.F) | Dry -Hot | 22 (min) - 125 (Max)
+19 | Storage Temperature (Deg. F) | 0 - 185
+20 | Enclosure Protection | NA
+21 | Electrical Connection Size | 16 - 18 AWG
+22 | Hazardous areas Classification | None
+23 | Electrical Connections | Note 1
+24 | Burnout Configuration | See Note on Lists
+25 | Calibration Certificate | Yes
+26 | Accesories | None
+PURCHASING | 27 | Manufacturer | Krohne-INOR
+28 | Model | R 520X
+Notes | 1 . | By supplier. All transmitters are wired and labeled by vendor with details to be provided later.
+2 . | Quantity:
+Size 1 junction box ► | 20 Junction boxes for 200 transmitters
+Size 2 junction box ► | 36 Junction boxes for 720 transmitters
+Size 3 junction box ► | 6 Junction boxes for 270 transmitters
+Size 4 junction box ► | 10 Junction boxes for 44 transmitters
+Size 5 junction box ► | 10 Junction boxes for 50 transmitters
+Total transmitters ►► | 1284
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 6 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet JB Spec]
+Instrument Specification - TES/HTF Services - Temperature Transmitters Junction Box
+GENERAL | 1 | Tag Number | See Note 2
+2 | Service | NA
+3 | P&ID | NA
+4 | Size | See Note 1
+4 | Quantity | See Note 1
+ENCLOSURE | 5 | Material | 316 SS
+6 | Dimensions | According to Sizes - See Note 1
+7 | wall thickness | By Vendor
+8 | Enclosure Door Style | By Vendor
+9 | Finishing | By Vendor
+10 | Signal shield terminal blocks | Yes.
+11 | Field Input Cable Entry | Multiple Punched Out Ready 1/2" to 1" Holes
+12 | Output Cable Entry | 2 to 4 Punched Out Ready 1" to 1 1/2" Holes - Size dependent
+13 | Terminal Blocks | 12-24 AWG. See Note 1 for additional comments
+14 | Ground Protection | Yes
+15 | Drainage plug | Yes
+16 | Wire duct | Yes
+17 | Enclosure Protection | Nema 4X
+18 | Hazardous Area Clasification | Class 1, Div 2
+19 | Accesories | 2" Pipe Mounting Kit
+PURCHASING | 25 | Manufacturer | Krohne
+26 | Model | Later
+NOTES
+1. | Five (5) different sizes are required:
+* Size 1 to hold 10 transmitters with addition physical space for 2 more future transmitters .
+Terminal blocks material to be provided accordingly, suitable for 12 field RTDs input signals
+Term. blocks Qty. to be adequately designed for 12 analog outputs. - 2 blocks for signals and 1 shield per output
+Junction dimensions: H1 * W1 * D1 per vendor, pending Abener Teyma approval.
+Internal wiring, labeling per vendor, pending Abener Teyma approval.
+Qty. of size 1 junction boxes: Est. total quantity 20 - To be confirmed later
+* Size 2 to hold 20 transmitters with addition physical space for 4 more future transmitters .
+Terminal blocks material to be provided accordingly, suitable for 26 field RTDs or 26 TC type E input signals
+Junction dimensions: H2 * W2 * D2 per vendor, pending Abener Teyma approval.
+Qty. of size 2 junction boxes: Est. total quantity 36 - To be confirmed later
+* Size 3 to hold up to 50 transmitters with addition physical space for 6 more future transmitters .
+Terminal blocks material to be provided accordingly, suitable for 56 field RTDs input signals
+Junction dimensions: H3 * W3 * D3 per vendor, pending Abener Teyma approval.
+Qty. of size 3 junction boxes: Quantity 6 - To be confirmed later (Note:change from old size 4 )
+* Size 4 to hold 04 transmitters with addition physical space for 2 more future transmitters with 50 imput
+terminal blocks and 50 additional output terminal blocks
+Junction dimensions: H4 * W4 * D4 per vendor, pending Abener Teyma approval.
+Qty. of size 4 junction boxes: Quantity 10 - To be confirmed later ( New )
+* Size 5 to hold 05 transmitters with addition physical space for 2 more future transmitters .
+Input terminal blocks material to be provided accordingly, suitable for 04 field RTDs input signals and 3 TC Type K Input signals.
+input signals and 3 TC type K input signals.
+Term. blocks Qty. to be adequately designed for 10 analog outputs. - 2 blocks for signals and 1 shield per output+ 1Blank
+Junction dimensions: H5 * W5 * D5 per vendor, pending Abener Teyma approval.
+Internal wiring, labeling per vendor, pending Abener Teyma approval.
+Qty. of size 5 junction boxes: Est. total quantity 10 - To be confirmed later ( New )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 7 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet Hoja1]
+Instrument Specification - TES/HTF Services - Temperature Transmitters Junction Box
+NOTES
+* All internal wiring and labeling between term. blocks and transmitters: By vendor.
+2. | * Individual field input & output transmitter tag names: See Temperature Transmitter Lists
+* Junction box numbers: See List
+* Analog signal terminal block requirements: 3 / each signal + Blank for Tag
+* RTD signal terminal block requirements: 4 / each signal + Blank for Tag
+* TC signal terminal block requirements: 2 / each signal + Blank for Tag
+* Field input dedicated shield terminal block: Yes. Qty. Per vendor / pending Abener Teyma approval
+* Details for junction box wiring, labeling to be provided by Abener-Teyma later.
+1 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 8 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet JB Sketch]
+Instrument Specification - TES/HTF Services - Junction Box for TT Sketch
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 9 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet TT Sketch]
+Instrument Specification - TES/HTF Services - Temperature Transmitters Sketch
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 10 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 1 TES1]
+Instrument Specification - TES Services - Temperature Transmitter - List 1
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-251-49-A | TES 1 Cold Tank Foundation Cooling Outlet Temp - A | **-68-71-P251 | 32 - 250 | IJB-250-A1-106 | 3
+TT 1-251-49-B | TES 1 Cold Tank Foundation Cooling Outlet Temp - B | 32 - 250
+TT 1-251-49-C | TES 1 Cold Tank Foundation Cooling Outlet Temp - C | 32 - 250
+TT 1-251-49-D | TES 1 Cold Tank Foundation Cooling Outlet Temp - D | 32 - 250
+TT 1-251-49-E | TES 1 Cold Tank Foundation Cooling Outlet Temp - E | 32 - 250
+TT 1-251-49-F | TES 1 Cold Tank Foundation Cooling Outlet Temp - F | 32 - 250
+TT 1-251-49-G | TES 1 Cold Tank Foundation Cooling Outlet Temp - G | 32 - 250
+TT 1-251-49-H | TES 1 Cold Tank Foundation Cooling Outlet Temp - H | 32 - 250
+TT 1-251-49-J | TES 1 Cold Tank Foundation Cooling Outlet Temp - J | 32 - 250
+TT 1-251-49-K | TES 1 Cold Tank Foundation Cooling Outlet Temp - K | 32 - 250
+TT 1-251-49-L | TES 1 Cold Tank Foundation Cooling Outlet Temp - L | 32 - 250
+TT 1-251-49-M | TES 1 Cold Tank Foundation Cooling Outlet Temp - M | 32 - 250
+TT 1-251-49-N | TES 1 Cold Tank Foundation Cooling Outlet Temp - N | 32 - 250
+TT 1-251-49-P | TES 1 Cold Tank Foundation Cooling Outlet Temp - P | 32 - 250
+TT 1-251-49-Q | TES 1 Cold Tank Foundation Cooling Outlet Temp - Q | 32 - 250
+TT 1-251-49-R | TES 1 Cold Tank Foundation Cooling Outlet Temp - R | 32 - 250
+TT 1-251-49-S | TES 1 Cold Tank Foundation Cooling Outlet Temp - S | 32 - 250
+TT 1-251-49-T | TES 1 Cold Tank Foundation Cooling Outlet Temp - T | 32 - 250
+TT 1-251-49-U | TES 1 Cold Tank Foundation Cooling Outlet Temp - U | 32 - 250
+TT 1-251-49-V | TES 1 Cold Tank Foundation Cooling Outlet Temp - V | 32 - 250
+TT 1-251-49-W | TES 1 Cold Tank Foundation Cooling Outlet Temp - W | 32 - 250
+TT 1-251-49-X | TES 1 Cold Tank Foundation Cooling Outlet Temp - X | 32 - 250
+TT 1-251-49-Y | TES 1 Cold Tank Foundation Cooling Outlet Temp - Y | 32 - 250
+TT 1-251-49-Z | TES 1 Cold Tank Foundation Cooling Outlet Temp - Z | 32 - 250
+TT 1-251-49-AA | TES 1 Cold Tank Foundation Cooling Outlet Temp - AA | 32 - 250
+TT 1-251-49-BB | TES 1 Cold Tank Foundation Cooling Outlet Temp - BB | 32 - 250
+TT 1-251-49-CC | TES 1 Cold Tank Foundation Cooling Outlet Temp - CC | 32 - 250
+TT 1-251-49-DD | TES 1 Cold Tank Foundation Cooling Outlet Temp - DD | 32 - 250
+TT 1-251-49-EE | TES 1 Cold Tank Foundation Cooling Outlet Temp - EE | 32 - 250
+TT 1-251-49-FF | TES 1 Cold Tank Foundation Cooling Outlet Temp - FF | 32 - 250
+TT 1-251-49-GG | TES 1 Cold Tank Foundation Cooling Outlet Temp - GG | 32 - 250
+TT 1-251-49-HH | TES 1 Cold Tank Foundation Cooling Outlet Temp - HH | 32 - 250
+TT 1-251-49-JJ | TES 1 Cold Tank Foundation Cooling Outlet Temp - JJ | 32 - 250
+TT 1-251-04-A1 | TES 1 - Cold Salt Tank Foundation-Pump Well Center-9% Dia. | 32 - 232
+TT 1-251-04-A2 | TES 1 - Cold Salt Tank Foundation-Pump Well Side-29% Dia. | 32 - 232
+TT 1-251-04-A3 | TES 1 - Cold Salt Tank Foundation-Center-50% Dia. | 32 - 232
+TT 1-251-04-A4 | TES 1 - Cold Salt Tank Foundation-Oposite Pump Well Side-66% Dia. | 32 - 232
+TT 1-251-04-A5 | TES 1 - Cold Salt Tank Foundation-Oposite Pump Well Side-83% Dia. | 32 - 232
+FIT 1-251-47 | TES 1 - Cold Salt Tank Foundation Air Cooling | 32 - 232
+Quantity for list 1: Size 3, Qty.= 1, 40 temperature transmitters
+Note: Burn out hig for loss of input signal
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 11 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 2]
+Instrument Specification - TES Services - Temperature Transmitter - List 2
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-251-50-71C | TES 1 - Cold Tank Bottom - Mesh 7, Line 1, Ring C | **-68-71-P251 | 32 - 450 | IJB-250-A1-107 | 3
+TT 1-251-50-723 | TES 1 - Cold Tank Bottom - Mesh 7, Line 2, Ring 3 | 32 - 450
+TT 1-251-50-726 | TES 1 - Cold Tank Bottom - Mesh 7, Line 2, Ring 6 | 32 - 450
+TT 1-251-50-743 | TES 1 - Cold Tank Bottom - Mesh 7, Line 4, Ring 3 | 32 - 450
+TT 1-251-50-746 | TES 1 - Cold Tank Bottom - Mesh 7, Line 4, Ring 6 | 32 - 450
+TT 1-251-50-773 | TES 1 - Cold Tank Bottom - Mesh 7, Line 7, Ring 3 | 32 - 450
+TT 1-251-50-776 | TES 1 - Cold Tank Bottom - Mesh 7, Line 7, Ring 6 | 32 - 450
+TT 1-251-50-61C | TES 1 - Cold Tank Bottom - Mesh 6, Line 1, Ring C | 32 - 800
+TT 1-251-50-616 | TES 1 - Cold Tank Bottom - Mesh 6, Line 1, Ring 6 | 32 - 800
+TT 1-251-50-618 | TES 1 - Cold Tank Bottom - Mesh 6, Line 1, Ring 8 | 32 - 450
+TT 1-251-50-625 | TES 1 - Cold Tank Bottom - Mesh 6, Line 2, Ring 5 | 32 - 800
+TT 1-251-50-634 | TES 1 - Cold Tank Bottom - Mesh 6, Line 3, Ring 4 | 32 - 800
+TT 1-251-50-636 | TES 1 - Cold Tank Bottom - Mesh 6, Line 3, Ring 6 | 32 - 800
+TT 1-251-50-638 | TES 1 - Cold Tank Bottom - Mesh 6, Line 3, Ring 8 | 32 - 450
+TT 1-251-50-655 | TES 1 - Cold Tank Bottom - Mesh 6, Line 5, Ring 5 | 32 - 800
+TT 1-251-50-656 | TES 1 - Cold Tank Bottom - Mesh 6, Line 5, Ring 6 | 32 - 800
+TT 1-251-50-658 | TES 1 - Cold Tank Bottom - Mesh 6, Line 5, Ring 8 | 32 - 450
+TT 1-251-50-663 | TES 1 - Cold Tank Bottom - Mesh 6, Line 6, Ring 3 | 32 - 800
+TT 1-251-50-676 | TES 1 - Cold Tank Bottom - Mesh 6, Line 7, Ring 6 | 32 - 800
+TT 1-251-50-678 | TES 1 - Cold Tank Bottom - Mesh 6, Line 7, Ring 8 | 32 - 450
+TT 1-251-50-685 | TES 1 - Cold Tank Bottom - Mesh 6, Line 8, Ring 5 | 32 - 800
+TT 1-251-50-418 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 4, Line 1, Ring 8 | 32 - 450
+TT 1-251-50-428 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 4, Line 2, Ring 8 | 32 - 450
+TT 1-251-50-438 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 4, Line 3, Ring 8 | 32 - 450
+TT 1-251-50-458 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 4, Line 5, Ring 8 | 32 - 450
+TT 1-251-50-478 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 4, Line 7, Ring 8 | 32 - 450
+TT 1-251-50-488 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 4, Line 8, Ring 8 | 32 - 450
+TT 1-251-50-318 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 8 | 32 - 450
+TT 1-251-50-310 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 10 | 32 - 800
+TT 1-251-50-328 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 2, Ring 8 | 32 - 450
+TT 1-251-50-338 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 8 | 32 - 450
+TT 1-251-50-330 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 10 | 32 - 800
+TT 1-251-50-358 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 8 | 32 - 450
+TT 1-251-50-350 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 10 | 32 - 800
+TT 1-251-50-360 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 6, Ring 10 | 32 - 800
+TT 1-251-50-378 | TES 1 - Cold Tank Bottom - Mesh 3, Line 7, Ring 8 | 32 - 800
+TT 1-251-50-388 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 8, Ring 8 | 32 - 450
+TT 1-251-50-218 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 1, Ring 8 | 32 - 450
+TT 1-251-50-228 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 2, Ring 8 | 32 - 450
+TT 1-251-50-238 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 3, Ring 8 | 32 - 450
+TT 1-251-50-258 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 5, Ring 8 | 32 - 450
+TT 1-251-50-278 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 7, Ring 8 | 32 - 450
+TT 1-251-50-288 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 8, Ring 8 | 32 - 450
+TT 1-251-50-118 | TES 1 - Cold Tank Bottom - Mesh 1, Line 1, Ring 8 | 32 - 450
+TT 1-251-50-128 | TES 1 - Cold Tank Bottom - Mesh 1, Line 2, Ring 8 | 32 - 450
+TT 1-251-50-138 | TES 1 - Cold Tank Bottom - Mesh 1, Line 3, Ring 8 | 32 - 450
+TT 1-251-50-158 | TES 1 - Cold Tank Bottom - Mesh 1, Line 5, Ring 8 | 32 - 450
+TT 1-251-50-178 | TES 1 - Cold Tank Bottom - Mesh 1, Line 7, Ring 8 | 32 - 450
+TT 1-251-50-188 | TES 1 - Cold Tank Bottom - Mesh 1, Line 8, Ring 8 | 32 - 450
+Quantity for list 2: Size 3, Qty.= 1, 50 temperature transmitters
+Note: Burn out hig for loss of input signal
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 12 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 3]
+Instrument Specification - TES Services - Temperature Transmitter - List 3
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-251-50-41C | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 1, Ring C | **-68-71-P251 | 32 - 800 | IJB-250-A1-108 | 3
+TT 1-251-50-414 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 1, Ring 4
+TT 1-251-50-416 | TES 1 -Cold Tk Cooling Level - Mesh 4, Line 1, Ring 6
+TT 1-251-50-425 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 2, Ring 5
+TT 1-251-50-426 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 2, Ring 6
+TT 1-251-50-434 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 3, Ring 4
+TT 1-251-50-436 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 3, Ring 6
+TT 1-251-50-455 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 5, Ring 5
+TT 1-251-50-456 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 5, Ring 6
+TT 1-251-51-473 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 4, Line 7, Ring 3
+TT 1-251-50-476 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 7, Ring 6
+TT 1-251-50-485 | TES 1 - Cold Tk Cooling Level - Mesh 4, Line 8, Ring 5
+TT 1-251-50-486 | TES 1 -Cold Tk Cooling Level - Mesh 4, Line 8, Ring 6
+TT 1-251-50-31C | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 1, Ring C
+TT 1-251-50-314 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 4
+TT 1-251-50-316 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 6
+TT 1-251-50-325 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 2, Ring 5
+TT 1-251-50-326 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 2, Ring 6
+TT 1-251-50-334 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 4
+TT 1-251-50-336 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 6
+TT 1-251-50-355 | TES 1 -Cold Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 5
+TT 1-251-50-356 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 6
+TT 1-251-50-373 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 7, Ring 3
+TT 1-251-50-376 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 7, Ring 6
+TT 1-251-50-385 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 8, Ring 5
+TT 1-251-50-386 | TES 1 - Cold Tk Trun Recep (Base) - Mesh 3, Line 8, Ring 6
+TT 1-251-50-21C | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 1, Ring C
+TT 1-251-50-216 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 1, Ring 6.1
+TT 1-251-50-226 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 2, Ring 6.1
+TT 1-251-50-236 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 3, Ring 6.1
+TT 1-251-50-256 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 5, Ring 6.1
+TT 1-251-50-276 | TES 1 -Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 7, Ring 6.1
+TT 1-251-50-286 | TES 1 - Cold Tk Trun Recep (Mid Sec.) - Mesh 2, Line 8, Ring 6.1
+TT 1-251-50-116 | TES 1 - Cold Tank Bottom - Mesh 1, Line 1, Ring 6.1
+TT 1-251-50-125 | TES 1 - Cold Tank Bottom - Mesh 1, Line 2, Ring 5
+TT 1-251-50-126 | TES 1 - Cold Tank Bottom - Mesh 1, Line 2, Ring 6.1
+TT 1-251-50-134 | TES 1 - Cold Tank Bottom - Mesh 1, Line 3, Ring 4
+TT 1-251-50-136 | TES 1 - Cold Tank Bottom - Mesh 1, Line 3, Ring 6.1
+TT 1-251-50-155 | TES 1 - Cold Tank Bottom - Mesh 1, Line 5, Ring 5
+TT 1-251-50-156 | TES 1 - Cold Tank Bottom - Mesh 1, Line 5, Ring 6.1
+TT 1-251-50-173 | TES 1 - Cold Tank Bottom - Mesh 1, Line 7, Ring 3
+TT 1-251-50-176 | TES 1 - Cold Tank Bottom - Mesh 1, Line 7, Ring 6.1
+TT 1-251-50-185 | TES 1 - Cold Tank Bottom - Mesh 1, Line 8, Ring 5
+TT 1-251-50-186 | TES 1 - Cold Tank Bottom - Mesh 1, Line 8, Ring 6.1
+Quantity for list 3: Size 3, Qty.= 1, 45 temperature transmitters
+Note: Burn out hig for loss of input signal
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 13 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 4]
+Instrument Specification - TES Services - Temperature Transmitter - List 4
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-253-49-A | TES 1 Hot Tank Foundation Cooling Outlet Temp - A | **-68-71-P253 | 32 - 250 | IJB-250-A1-109 | 3
+TT 1-253-49-B | TES 1 Hot Tank Foundation Cooling Outlet Temp - B | 32 - 250
+TT 1-253-49-C | TES 1 Hot Tank Foundation Cooling Outlet Temp - C | 32 - 250
+TT 1-253-49-D | TES 1 Hot Tank Foundation Cooling Outlet Temp - D | 32 - 250
+TT 1-253-49-E | TES 1 Hot Tank Foundation Cooling Outlet Temp - E | 32 - 250
+TT 1-253-49-F | TES 1 Hot Tank Foundation Cooling Outlet Temp - F | 32 - 250
+TT 1-253-49-G | TES 1 Hot Tank Foundation Cooling Outlet Temp - G | 32 - 250
+TT 1-253-49-H | TES 1 Hot Tank Foundation Cooling Outlet Temp - H | 32 - 250
+TT 1-253-49-J | TES 1 Hot Tank Foundation Cooling Outlet Temp - J | 32 - 250
+TT 1-253-49-K | TES 1 Hot Tank Foundation Cooling Outlet Temp - K | 32 - 250
+TT 1-253-49-L | TES 1 Hot Tank Foundation Cooling Outlet Temp - L | 32 - 250
+TT 1-253-49-M | TES 1 Hot Tank Foundation Cooling Outlet Temp - M | 32 - 250
+TT 1-253-49-N | TES 1 Hot Tank Foundation Cooling Outlet Temp - N | 32 - 250
+TT 1-253-49-P | TES 1 Hot Tank Foundation Cooling Outlet Temp - P | 32 - 250
+TT 1-253-49-Q | TES 1 Hot Tank Foundation Cooling Outlet Temp - Q | 32 - 250
+TT 1-253-49-R | TES 1 Hot Tank Foundation Cooling Outlet Temp - R | 32 - 250
+TT 1-253-49-S | TES 1 Hot Tank Foundation Cooling Outlet Temp - S | 32 - 250
+TT 1-253-49-T | TES 1 Hot Tank Foundation Cooling Outlet Temp - T | 32 - 250
+TT 1-253-49-U | TES 1 Hot Tank Foundation Cooling Outlet Temp - U | 32 - 250
+TT 1-253-49-V | TES 1 Hot Tank Foundation Cooling Outlet Temp - V | 32 - 250
+TT 1-253-49-W | TES 1 Hot Tank Foundation Cooling Outlet Temp - W | 32 - 250
+TT 1-253-49-X | TES 1 Hot Tank Foundation Cooling Outlet Temp - X | 32 - 250
+TT 1-253-49-Y | TES 1 Hot Tank Foundation Cooling Outlet Temp - Y | 32 - 250
+TT 1-253-49-Z | TES 1 Hot Tank Foundation Cooling Outlet Temp - Z | 32 - 250
+TT 1-253-49-AA | TES 1 Hot Tank Foundation Cooling Outlet Temp - AA | 32 - 250
+TT 1-253-49-BB | TES 1 Hot Tank Foundation Cooling Outlet Temp - BB | 32 - 250
+TT 1-253-49-CC | TES 1 Hot Tank Foundation Cooling Outlet Temp - CC | 32 - 250
+TT 1-253-49-DD | TES 1 Hot Tank Foundation Cooling Outlet Temp - DD | 32 - 250
+TT 1-253-49-EE | TES 1 Hot Tank Foundation Cooling Outlet Temp - EE | 32 - 250
+TT 1-253-49-FF | TES 1 Hot Tank Foundation Cooling Outlet Temp - FF | 32 - 250
+TT 1-253-49-GG | TES 1 Hot Tank Foundation Cooling Outlet Temp - GG | 32 - 250
+TT 1-253-49-HH | TES 1 Hot Tank Foundation Cooling Outlet Temp - HH | 32 - 250
+TT 1-253-49-JJ | TES 1 Hot Tank Foundation Cooling Outlet Temp - JJ | 32 - 250
+TT 1-252-04-A1 | TES 1 - Hot Salt Tank Foundation-Pump Well Center-9% Dia. | 32 - 232
+TT 1-252-04-A2 | TES 1 - Hot Salt Tank Foundation-Pump Well Side-29% Dia. | 32 - 232
+TT 1-252-04-A3 | TES 1 - Hot Salt Tank Foundation-Center-50% Dia. | 32 - 232
+TT 1-252-04-A4 | TES 1 - Hot Salt Tank Foundation-Oposite Pump Well Side-66% Dia. | 32 - 232
+TT 1-252-04-A5 | TES 1 - Hot Salt Tank Foundation-Oposite Pump Well Side-83% Dia. | 32 - 232
+FIT 1-253-47 | TES 1 - Hot Salt Tank Foundation Air Cooling - Inlet | 32 - 232
+Quantity for list 4: Size 3, Qty.= 1, 40 temperature transmitters
+Note: Burn out hig for loss of input signal
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 14 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 5]
+Instrument Specification - TES Services - Temperature Transmitter - List 5
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-252-50-41C | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 1, Ring C | **-68-71-P253 | 32 - 800 | IJB-250-A1-110 | 3
+TT 1-252-50-414 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 1, Ring 4
+TT 1-252-50-416 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 1, Ring 6
+TT 1-252-50-425 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 2, Ring 5
+TT 1-252-50-426 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 2, Ring 6
+TT 1-252-50-434 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 3, Ring 4
+TT 1-252-50-436 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 3, Ring 6
+TT 1-252-50-455 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 5, Ring 5
+TT 1-252-50-456 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 5, Ring 6
+TT 1-252-50-473 | TES 1 - Hot Tk Cooling Level - Mesh 4, Line 7, Ring 3
+TT 1-252-50-476 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 7, Ring 6
+TT 1-252-50-485 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 8, Ring 5
+TT 1-252-50-486 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 4, Line 8, Ring 6
+TT 1-252-50-31C | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 1, Ring C
+TT 1-252-50-314 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 4
+TT 1-252-50-316 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 6
+TT 1-252-50-325 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 2, Ring 5
+TT 1-252-50-326 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 2, Ring 6
+TT 1-252-50-334 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 4
+TT 1-252-50-336 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 6
+TT 1-252-50-355 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 5
+TT 1-252-50-356 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 6
+TT 1-252-50-373 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 7, Ring 3
+TT 1-252-50-376 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 7, Ring 6
+TT 1-252-50-385 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 8, Ring 5
+TT 1-252-50-386 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 8, Ring 6
+TT 1-252-50-21C | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 1, Ring C
+TT 1-252-50-216 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 1, Ring 6.1
+TT 1-252-50-226 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 2, Ring 6.1
+TT 1-252-50-236 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 3, Ring 6.1
+TT 1-252-50-256 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 5, Ring 6.1
+TT 1-252-50-276 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 7, Ring 6.1
+TT 1-252-50-286 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 8, Ring 6.1
+TT 1-252-50-116 | TES 1 - Hot Tank Bottom - Mesh 1, Line 1, Ring 6.1
+TT 1-252-50-125 | TES 1 - Hot Tank Bottom - Mesh 1, Line 2, Ring 5
+TT 1-252-50-126 | TES 1 - Hot Tank Bottom - Mesh 1, Line 2, Ring 6.1
+TT 1-252-50-134 | TES 1 - Hot Tank Bottom - Mesh 1, Line 3, Ring 4
+TT 1-252-50-136 | TES 1 - Hot Tank Bottom - Mesh 1, Line 3, Ring 6.1
+TT 1-252-50-155 | TES 1 - Hot Tank Bottom - Mesh 1, Line 5, Ring 5
+TT 1-252-50-156 | TES 1 - Hot Tank Bottom - Mesh 1, Line 5, Ring 6.1
+TT 1-252-50-173 | TES 1 - Hot Tank Bottom - Mesh 1, Line 7, Ring 3
+TT 1-252-50-176 | TES 1 - Hot Tank Bottom - Mesh 1, Line 7, Ring 6.1
+TT 1-252-50-185 | TES 1 - Hot Tank Bottom - Mesh 1, Line 8, Ring 5
+TT 1-252-50-186 | TES 1 - Hot Tank Bottom - Mesh 1, Line 8, Ring 6.1
+Quantity for list 5: Size 3, Qty.= 1, 45 temperature transmitters
+Note: Burn out hig for loss of input signal
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 15 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 6]
+Instrument Specification - TES Services - Temperature Transmitter - List 6
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-252-50-71C | TES 1 - Hot Tank Bottom - Mesh 7, Line 1, Ring C | **-68-71-P253 | 32 - 232 | IJB-250-A1-111 | 3
+TT 1-252-50-723 | TES 1 - Hot Tank Bottom - Mesh 7, Line 2, Ring 3 | 32 - 232
+TT 1-252-50-726 | TES 1 - Hot Tank Bottom - Mesh 7, Line 2, Ring 6 | 32 - 232
+TT 1-252-50-743 | TES 1 - Hot Tank Bottom - Mesh 7, Line 4, Ring 3 | 32 - 232
+TT 1-252-50-746 | TES 1 - Hot Tank Bottom - Mesh 7, Line 4, Ring 6 | 32 - 232
+TT 1-252-50-773 | TES 1 - Hot Tank Bottom - Mesh 7, Line 7, Ring 3 | 32 - 232
+TT 1-252-50-776 | TES 1 - Hot Tank Bottom - Mesh 7, Line 7, Ring 6 | 32 - 232
+TT 1-252-50-61C | TES 1 - Hot Tank Bottom - Mesh 6, Line 1, Ring C | 32 - 800
+TT 1-252-50-616 | TES 1 - Hot Tank Bottom - Mesh 6, Line 1, Ring 6 | 32 - 800
+TT 1-252-50-618 | TES 1 - Hot Tank Bottom - Mesh 6, Line 1, Ring 8 | 32 - 450
+TT 1-252-50-625 | TES 1 - Hot Tank Bottom - Mesh 6, Line 2, Ring 5 | 32 - 800
+TT 1-252-50-634 | TES 1 - Hot Tank Bottom - Mesh 6, Line 3, Ring 4 | 32 - 800
+TT 1-252-50-636 | TES 1 - Hot Tank Bottom - Mesh 6, Line 3, Ring 6 | 32 - 800
+TT 1-252-50-638 | TES 1 - Hot Tank Bottom - Mesh 6, Line 3, Ring 8 | 32 - 450
+TT 1-252-50-655 | TES 1 - Hot Tank Bottom - Mesh 6, Line 5, Ring 5 | 32 - 800
+TT 1-252-50-656 | TES 1 - Hot Tank Bottom - Mesh 6, Line 5, Ring 6 | 32 - 800
+TT 1-252-50-658 | TES 1 - Hot Tank Bottom - Mesh 6, Line 5, Ring 8 | 32 - 450
+TT 1-252-50-663 | TES 1 - Hot Tank Bottom - Mesh 6, Line 6, Ring 3 | 32 - 800
+TT 1-252-50-676 | TES 1 - Hot Tank Bottom - Mesh 6, Line 7, Ring 6 | 32 - 800
+TT 1-252-50-678 | TES 1 - Hot Tank Bottom - Mesh 6, Line 7, Ring 8 | 32 - 450
+TT 1-252-50-685 | TES 1 - Hot Tank Bottom - Mesh 6, Line 8, Ring 5 | 32 - 450
+TT 1-252-50-418 | TES 1 - Hot Tk Cooling Level - Mesh 4, Line 1, Ring 8 | 32 - 450
+TT 1-252-50-428 | TES 1 -Hot Tk Cooling Level - Mesh 4, Line 2, Ring 8 | 32 - 450
+TT 1-252-50-438 | TES 1 - Hot Tk Cooling Level - Mesh 4, Line 3, Ring 8 | 32 - 450
+TT 1-252-50-458 | TES 1 - Hot Tk Cooling Level - Mesh 4, Line 5, Ring 8 | 32 - 450
+TT 1-252-50-478 | TES 1 - Hot Tk Cooling Level - Mesh 4, Line 7, Ring 8 | 32 - 450
+TT 1-252-50-488 | TES 1 - Hot Tk Cooling Level - Mesh 4, Line 8, Ring 8 | 32 - 450
+TT 1-252-50-318 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 8 | 32 - 450
+TT 1-252-50-310 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 1, Ring 10 | 32 - 800
+TT 1-252-50-328 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 2, Ring 8 | 32 - 450
+TT 1-252-50-338 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 8 | 32 - 450
+TT 1-252-50-330 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 3, Ring 10 | 32 - 800
+TT 1-252-50-358 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 8 | 32 - 450
+TT 1-252-50-350 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 5, Ring 10 | 32 - 800
+TT 1-252-50-360 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 6, Ring 10 | 32 - 800
+TT 1-252-50-378 | TES 1 - Hot Tank Bottom - Mesh 3, Line 7, Ring 8 | 32 - 450
+TT 1-252-50-388 | TES 1 - Hot Tk Trun Recep (Base) - Mesh 3, Line 8, Ring 8 | 32 - 450
+TT 1-252-50-218 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 1, Ring 8 | 32 - 450
+TT 1-252-50-228 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 2, Ring 8 | 32 - 450
+TT 1-252-50-238 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 3, Ring 8 | 32 - 450
+TT 1-252-50-258 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 5, Ring 8 | 32 - 450
+TT 1-252-50-278 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 7, Ring 8 | 32 - 450
+TT 1-252-50-288 | TES 1 - Hot Tk Trun Recep (Mid Sec.) - Mesh 2, Line 8, Ring 8 | 32 - 450
+TT 1-252-50-118 | TES 1 - Hot Tank Bottom - Mesh 1, Line 1, Ring 8 | 32 - 450
+TT 1-252-50-128 | TES 1 - Hot Tank Bottom - Mesh 1, Line 2, Ring 8 | 32 - 450
+TT 1-252-50-138 | TES 1 - Hot Tank Bottom - Mesh 1, Line 3, Ring 8 | 32 - 450
+TT 1-252-50-158 | TES 1 - Hot Tank Bottom - Mesh 1, Line 5, Ring 8 | 32 - 450
+TT 1-252-50-178 | TES 1 - Hot Tank Bottom - Mesh 1, Line 7, Ring 8 | 32 - 450
+TT 1-252-50-188 | TES 1 - Hot Tank Bottom - Mesh 1, Line 8, Ring 8 | 32 - 450
+Quantity for list 6: Size 3, Qty.= 1, 50 temperature transmitters
+Note: Burn out hig for loss of input signal
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 16 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 7]
+Instrument Specification - TES Services - Temperature Transmitter - List 7
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-251-06A1 | 1-MX-251 Header Cold Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-112 | 1
+TT 1-251-06B1 | 1-MX-251 Header Cold Side
+TT 1-251-06C1 | 1-MX-251 Counter Pressure Cold Side
+TT 1-251-06D1 | 1-MX-251 Tierods Cold Side
+TT 1-251-06E1 | 1-MX-251 Welded Wall Cold Side
+TT 1-251-06F1 | 1-MX-251 Welded Wall Cold Side
+TT 1-251-06G1 | 1-MX-251 Welded Wall Cold Side
+TT 1-251-06F2 | 1-MX-251 Welded Wall Cold Side
+TT 1-251-06I1 | 1-MX-251 Welded Wall Center
+Deleted | Deleted
+TT 1-251-06K1 | 1-MX-251 Welded Wall Hot Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-113 | 1
+TT 1-251-06L1 | 1-MX-251 Welded Wall Hot Side
+TT 1-251-06L2 | 1-MX-251 Welded Wall Hot Side
+TT 1-251-06M1 | 1-MX-251 Welded Wall Hot Side
+TT 1-251-06N1 | 1-MX-251 Tierods Hot Side
+TT 1-251-06O1 | 1-MX-251 Counter Pressure Hot Side
+TT 1-251-06P1 | 1-MX-251 Support Hot Side
+TT 1-251-06Q1 | 1-MX-251 Support Hot Side
+TT 1-251-06R1 | 1-MX-251 Headers Hot Side
+TT 1-251-06S1 | 1-MX-251 Headers Hot Side
+TT 1-251-51-101 | TES 1 - Cold Tank N12 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-114 | 2
+TT 1-251-51-102 | TES 1 - Cold Tank N12 - Tank bottom 40 % from center
+TT 1-251-51-103 | TES 1 - Cold Tank N12 - Tank bottom 60 % from center
+TT 1-251-51-104 | TES 1 - Cold Tank N12 - Tank bottom 80 % from center
+TT 1-251-51-105 | TES 1 - Cold Tank N12 - Tank wall 15" above bottom
+TT 1-251-51-106 | TES 1 - Cold Tank N12 - Tank wall 25% above bottom
+TT 1-251-51-107 | TES 1 - Cold Tank N12 - Tank wall 50% above bottom
+TT 1-251-51-108 | TES 1 - Cold Tank N12 - Tank wall 75% above bottom
+TT 1-251-51-109 | TES 1 - Cold Tank N12 - Tank wall 100% above bottom
+TT 1-251-51-110 | TES 1 - Cold Tank N12 - Tank roof 80% from center
+TT 1-251-51-111 | TES 1 - Cold Tank N12 - Tank roof 60% from center
+TT 1-251-51-112 | TES 1 - Cold Tank N12 - Tank roof 40% from center
+TT 1-251-51-113 | TES 1 - Cold Tank N12 - Tank roof 20% from center
+TT 1-251-03C1 | TES 1 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 10% Level
+TT 1-251-03C2 | TES 1 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 30% Level
+TT 1-251-03C3 | TES 1 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 50% Level
+TT 1-251-03C4 | TES 1 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 100% Level
+TT 1-251-32 | TES 1 - Temperature cold salt tank - Pump suction
+Quantity for list 7: Size 1, Qty.= 2, 10 temperature transmitters in each J/B
+Size 2: Qty.= 1, 20 temperature transmitters in each J/B
+Note: for both size 1 junction boxes:
+Input terminal blocks: 10 thermocouples, type E, terminal blocks materials should be compativle with type E T/C
+Burn out Low for all transmitters in size 1 boxes for loss of signal
+Burn out High for all transmitters in size 2 boxes for loss of signal
+Inputs for size 2 box: RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+3 | PGV | Jun/16/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08/2012 | For Purchase
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 17 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet List 8]
+Instrument Specification - TES Services - Temperature Transmitter - List 8
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-251-51-201 | TES 1 - Cold Tank N13 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-115 | 2
+TT 1-251-51-202 | TES 1 - Cold Tank N13 - Tank bottom 40 % from center
+TT 1-251-51-203 | TES 1 - Cold Tank N13 - Tank bottom 60 % from center
+TT 1-251-51-204 | TES 1 - Cold Tank N13 - Tank bottom 80 % from center
+TT 1-251-51-205 | TES 1 - Cold Tank N13 - Tank wall 15" above bottom
+TT 1-251-51-206 | TES 1 - Cold Tank N13 - Tank wall 25% above bottom
+TT 1-251-51-207 | TES 1 - Cold Tank N13 - Tank wall 50% above bottom
+TT 1-251-51-208 | TES 1 - Cold Tank N13 - Tank wall 75% above bottom
+TT 1-251-51-209 | TES 1 - Cold Tank N13 - Tank wall 100% above bottom
+TT 1-251-51-210 | TES 1 - Cold Tank N13 - Tank roof 80% from center
+TT 1-251-51-211 | TES 1 - Cold Tank N13 - Tank roof 60% from center
+TT 1-251-51-212 | TES 1 - Cold Tank N13 - Tank roof 40% from center
+TT 1-251-51-213 | TES 1 - Cold Tank N13 - Tank roof 20% from center
+TT 1-251-03B1 | TES 1 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 10% Level
+TT 1-251-03B2 | TES 1 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 30% Level
+TT 1-251-03B3 | TES 1 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 50% Level
+TT 1-251-03B4 | TES 1 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 100% Level
+TT 1-251-51-301 | TES 1 - Cold Tank N14 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-116 | 2
+TT 1-251-51-302 | TES 1 - Cold Tank N14 - Tank bottom 40 % from center
+TT 1-251-51-303 | TES 1 - Cold Tank N14 - Tank bottom 60 % from center
+TT 1-251-51-304 | TES 1 - Cold Tank N14 - Tank bottom 80 % from center
+TT 1-251-51-305 | TES 1 - Cold Tank N14 - Tank wall 15" above bottom
+TT 1-251-51-306 | TES 1 - Cold Tank N14 - Tank wall 25% above bottom
+TT 1-251-51-307 | TES 1 - Cold Tank N14 - Tank wall 50% above bottom
+TT 1-251-51-308 | TES 1 - Cold Tank N14 - Tank wall 75% above bottom
+TT 1-251-51-309 | TES 1 - Cold Tank N14 - Tank wall 100% above bottom
+TT 1-251-51-310 | TES 1 - Cold Tank N14 - Tank roof 80% from center
+TT 1-251-51-311 | TES 1 - Cold Tank N14 - Tank roof 60% from center
+TT 1-251-51-312 | TES 1 - Cold Tank N14 - Tank roof 40% from center
+TT 1-251-51-313 | TES 1 - Cold Tank N14 - Tank roof 20% from center
+TT 1-251-03A1 | TES 1 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 10% Level
+TT 1-251-03A2 | TES 1 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 30% Level
+TT 1-251-03A3 | TES 1 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 50% Level
+TT 1-251-03A4 | TES 1 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 100% Level
+TT 1-252-51-101 | TES 1 - Hot Tank N12 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-117 | 2
+TT 1-252-51-102 | TES 1 - Hot Tank N12 - Tank bottom 40 % from center
+TT 1-252-51-103 | TES 1 - Hot Tank N12 - Tank bottom 60 % from center
+TT 1-252-51-104 | TES 1 - Hot Tank N12 - Tank bottom 80 % from center
+TT 1-252-51-105 | TES 1 - Hot Tank N12 - Tank Wall 15" Above Bottom
+TT 1-252-51-106 | TES 1 - Hot Tank N12 - Tank wall 25% above bottom
+TT 1-252-51-107 | TES 1 - Hot Tank N12 - Tank wall 50% above bottom
+TT 1-252-51-108 | TES 1 - Hot Tank N12 - Tank wall 75% above bottom
+TT 1-252-51-109 | TES 1 - Hot Tank N12 - Tank wall 100% above bottom
+TT 1-252-51-110 | TES 1 - Hot Tank N12 - Tank roof 80% from center
+TT 1-252-51-111 | TES 1 - Hot Tank N12 - Tank roof 60% from center
+TT 1-252-51-112 | TES 1 - Hot Tank N12 - Tank roof 40% from center
+TT 1-252-51-113 | TES 1 - Hot Tank N12 - Tank roof 20% from center
+TT 1-252-03C1 | TES 1 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 10% Level
+TT 1-252-03C2 | TES 1 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 30% Level
+TT 1-252-03C3 | TES 1 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 50% Level
+TT 1-252-03C4 | TES 1 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 100% Level
+TT 1-252-32 | TES 1 - Temperature hot salt tank - Pump suction
+Quantity for list 8: Size 2, Qty.= 3, 20 temperature transmitters in each J/B
+Note: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 18 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 9]
+Instrument Specification - TES Services - Temperature Transmitter - List 9
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 1
+TT 1-252-51-201 | TES 1 - Hot Tank N13 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-118 | 2
+TT 1-252-51-202 | TES 1 - Hot Tank N13 - Tank bottom 40 % from center
+TT 1-252-51-203 | TES 1 - Hot Tank N13 - Tank bottom 60 % from center
+TT 1-252-51-204 | TES 1 - Hot Tank N13 - Tank bottom 80 % from center
+TT 1-252-51-205 | TES 1 - Hot Tank N13 - Tank wall 15" above bottom
+TT 1-252-51-206 | TES 1 - Hot Tank N13 - Tank wall 25% above bottom
+TT 1-252-51-207 | TES 1 - Hot Tank N13 - Tank wall 50% above bottom
+TT 1-252-51-208 | TES 1 - Hot Tank N13 - Tank wall 75% above bottom
+TT 1-252-51-209 | TES 1 - Hot Tank N13 - Tank wall 100% above bottom
+TT 1-252-51-210 | TES 1 - Hot Tank N13 - Tank roof 80% from center
+TT 1-252-51-211 | TES 1 - Hot Tank N13 - Tank roof 60% from center
+TT 1-252-51-212 | TES 1 - Hot Tank N13 - Tank roof 40% from center
+TT 1-252-51-213 | TES 1 - Hot Tank N13 - Tank roof 20% from center
+TT 1-252-03B1 | TES 1 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 10% Level
+TT 1-252-03B2 | TES 1 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 30% Level
+TT 1-252-03B3 | TES 1 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 50% Level
+TT 1-252-03B4 | TES 1 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 100% Level
+TT 1-252-51-301 | TES 1 - Hot Tank N14 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-119 | 2
+TT 1-252-51-302 | TES 1 - Hot Tank N14 - Tank bottom 40 % from center
+TT 1-252-51-303 | TES 1 - Hot Tank N14 - Tank bottom 60 % from center
+TT 1-252-51-304 | TES 1 - Hot Tank N14 - Tank bottom 80 % from center
+TT 1-252-51-305 | TES 1 - Hot Tank N14 - Tank wall 15" above bottom
+TT 1-252-51-306 | TES 1 - Hot Tank N14 - Tank wall 25% above bottom
+TT 1-252-51-307 | TES 1 - Hot Tank N14 - Tank wall 50% above bottom
+TT 1-252-51-308 | TES 1 - Hot Tank N14 - Tank wall 75% above bottom
+TT 1-252-51-309 | TES 1 - Hot Tank N14 - Tank wall 100% above bottom
+TT 1-252-51-310 | TES 1 - Hot Tank N14 - Tank roof 80% from center
+TT 1-252-51-311 | TES 1 - Hot Tank N14 - Tank roof 60% from center
+TT 1-252-51-312 | TES 1 - Hot Tank N14 - Tank roof 40% from center
+TT 1-252-51-313 | TES 1 - Hot Tank N14 - Tank roof 20% from center
+TT 1-252-03A1 | TES 1 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 10% Level
+TT 1-252-03A2 | TES 1 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 30% Level
+TT 1-252-03A3 | TES 1 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 50% Level
+TT 1-252-03A4 | TES 1 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 100% Level
+Quantity for list 9: Size 2, Qty.= 2, 20 temperature transmitters in each J/B
+Note: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 19 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 10 TES2]
+Instrument Specification - TES Services - Temperature Transmitter - List 10
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 2
+TT 2-251-04-A1 | TES 2 - Cold Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P251 | 32 - 232 | IJB-250-A1-206 | 1
+TT 2-251-04-A2 | TES 2 - Cold Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 2-251-04-A3 | TES 2 - Cold Salt Tank Foundation-Center-50% Dia.
+TT 2-251-04-A4 | TES 2 - Cold Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 2-251-04-A5 | TES 2 - Cold Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 2-251-47 | TES 2 - Cold Salt Tank Foundation Air Cooling
+TT 2-252-04-A1 | TES 2 - Hot Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P253 | 32 - 232 | IJB-250-A1-207 | 1
+TT 2-252-04-A2 | TES 2 - Hot Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 2-252-04-A3 | TES 2 - Hot Salt Tank Foundation-Center-50% Dia.
+TT 2-252-04-A4 | TES 2 - Hot Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 2-252-04-A5 | TES 2 - Hot Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 2-253-47 | TES 2 - Hot Salt Tank Foundation Air Cooling - Inlet
+TT 2-251-06A1 | 2-MX-251 Header Cold Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-208 | 1
+TT 2-251-06B1 | 2-MX-251 Header Cold Side
+TT 2-251-06C1 | 2-MX-251 Counter Pressure Cold Side
+TT 2-251-06D1 | 2-MX-251 Tierods Cold Side
+TT 2-251-06E1 | 2-MX-251 Welded Wall Cold Side
+TT 2-251-06F1 | 2-MX-251 Welded Wall Cold Side
+TT 2-251-06G1 | 2-MX-251 Welded Wall Cold Side
+TT 2-251-06F2 | 2-MX-251 Welded Wall Cold Side
+TT 2-251-06I1 | 2-MX-251 Welded Wall Center
+Deleted | Deleted
+TT 2-251-06K1 | 2-MX-251 Welded Wall Hot Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-209 | 1
+TT 2-251-06L1 | 2-MX-251 Welded Wall Hot Side
+TT 2-251-06L2 | 2-MX-251 Welded Wall Hot Side
+TT 2-251-06M1 | 2-MX-251 Welded Wall Hot Side
+TT 2-251-06N1 | 2-MX-251 Tierods Hot Side
+TT 2-251-06O1 | 2-MX-251 Counter Pressure Hot Side
+TT 2-251-06P1 | 2-MX-251 Support Hot Side
+TT 2-251-06Q1 | 2-MX-251 Support Hot Side
+TT 2-251-06R1 | 2-MX-251 Headers Hot Side
+TT 2-251-06S1 | 2-MX-251 Headers Hot Side
+TT 2-251-51-101 | TES 2 - Cold Tank N12 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-210 | 2
+TT 2-251-51-102 | TES 2 - Cold Tank N12 - Tank bottom 40 % from center
+TT 2-251-51-103 | TES 2 - Cold Tank N12 - Tank bottom 60 % from center
+TT 2-251-51-104 | TES 2 - Cold Tank N12 - Tank bottom 80 % from center
+TT 2-251-51-105 | TES 2 - Cold Tank N12 - Tank wall 15" above bottom
+TT 2-251-51-106 | TES 2 - Cold Tank N12 - Tank wall 25% above bottom
+TT 2-251-51-107 | TES 2 - Cold Tank N12 - Tank wall 50% above bottom
+TT 2-251-51-108 | TES 2 - Cold Tank N12 - Tank wall 75% above bottom
+TT 2-251-51-109 | TES 2 - Cold Tank N12 - Tank wall 100% above bottom
+TT 2-251-51-110 | TES 2 - Cold Tank N12 - Tank roof 80% from center
+TT 2-251-51-111 | TES 2 - Cold Tank N12 - Tank roof 60% from center
+TT 2-251-51-112 | TES 2 - Cold Tank N12 - Tank roof 40% from center
+TT 2-251-51-113 | TES 2 - Cold Tank N12 - Tank roof 20% from center
+TT 2-251-03C1 | TES 2 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 10% Level
+TT 2-251-03C2 | TES 2 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 30% Level
+TT 2-251-03C3 | TES 2 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 50% Level
+TT 2-251-03C4 | TES 2 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 100% Level
+TT 2-251-32 | TES 2 - Temperature cold salt tank - Pump suction
+Inputs terminal blocks for "IJB-250-A1-208" & "IJB-250-A1-209": Thermocouple type E
+Inputs terminal blocks for others: RTDs
+Quantity for list 10: Size 1, Qty.= 4, 10 temperature transmitters in each J/B
+Size 2, Qty.= 1, 20 temperature transmitters in each J/B
+Burn out high for RTDs
+Burn out low for thermo couples
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+3 | PGV | Jun/16//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08//2012 | For Purchase
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 20 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet List 11]
+Instrument Specification - TES Services - Temperature Transmitter - List 11
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 2
+TT 2-251-51-201 | TES 2 - Cold Tank N13 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-211 | 2
+TT 2-251-51-202 | TES 2 - Cold Tank N13 - Tank bottom 40 % from center
+TT 2-251-51-203 | TES 2 - Cold Tank N13 - Tank bottom 60 % from center
+TT 2-251-51-204 | TES 2 - Cold Tank N13 - Tank bottom 80 % from center
+TT 2-251-51-205 | TES 2 - Cold Tank N13 - Tank wall 15" above bottom
+TT 2-251-51-206 | TES 2 - Cold Tank N13 - Tank wall 25% above bottom
+TT 2-251-51-207 | TES 2 - Cold Tank N13 - Tank wall 50% above bottom
+TT 2-251-51-208 | TES 2 - Cold Tank N13 - Tank wall 75% above bottom
+TT 2-251-51-209 | TES 2 - Cold Tank N13 - Tank wall 100% above bottom
+TT 2-251-51-210 | TES 2 - Cold Tank N13 - Tank roof 80% from center
+TT 2-251-51-211 | TES 2 - Cold Tank N13 - Tank roof 60% from center
+TT 2-251-51-212 | TES 2 - Cold Tank N13 - Tank roof 40% from center
+TT 2-251-51-213 | TES 2 - Cold Tank N13 - Tank roof 20% from center
+TT 2-251-03B1 | TES 2 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 10% Level
+TT 2-251-03B2 | TES 2 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 30% Level
+TT 2-251-03B3 | TES 2 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 50% Level
+TT 2-251-03B4 | TES 2 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 100% Level
+TT 2-251-51-301 | TES 2 - Cold Tank N14 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-212 | 2
+TT 2-251-51-302 | TES 2 - Cold Tank N14 - Tank bottom 40 % from center
+TT 2-251-51-303 | TES 2 - Cold Tank N14 - Tank bottom 60 % from center
+TT 2-251-51-304 | TES 2 - Cold Tank N14 - Tank bottom 80 % from center
+TT 2-251-51-305 | TES 2 - Cold Tank N14 - Tank wall 15" above bottom
+TT 2-251-51-306 | TES 2 - Cold Tank N14 - Tank wall 25% above bottom
+TT 2-251-51-307 | TES 2 - Cold Tank N14 - Tank wall 50% above bottom
+TT 2-251-51-308 | TES 2 - Cold Tank N14 - Tank wall 75% above bottom
+TT 2-251-51-309 | TES 2 - Cold Tank N14 - Tank wall 100% above bottom
+TT 2-251-51-310 | TES 2 - Cold Tank N14 - Tank roof 80% from center
+TT 2-251-51-311 | TES 2 - Cold Tank N14 - Tank roof 60% from center
+TT 2-251-51-312 | TES 2 - Cold Tank N14 - Tank roof 40% from center
+TT 2-251-51-313 | TES 2 - Cold Tank N14 - Tank roof 20% from center
+TT 2-251-03A1 | TES 2 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 10% Level
+TT 2-251-03A2 | TES 2 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 30% Level
+TT 2-251-03A3 | TES 2 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 50% Level
+TT 2-251-03A4 | TES 2 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 100% Level
+TT 2-252-51-101 | TES 2 - Hot Tank N12 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-213 | 2
+TT 2-252-51-102 | TES 2 - Hot Tank N12 - Tank bottom 40 % from center
+TT 2-252-51-103 | TES 2 - Hot Tank N12 - Tank bottom 60 % from center
+TT 2-252-51-104 | TES 2 - Hot Tank N12 - Tank bottom 80 % from center
+TT 2-252-51-105 | TES 2 - Hot Tank N12 - Tank wall 15" above bottom
+TT 2-252-51-106 | TES 2 - Hot Tank N12 - Tank wall 25% above bottom
+TT 2-252-51-107 | TES 2 - Hot Tank N12 - Tank wall 50% above bottom
+TT 2-252-51-108 | TES 2 - Hot Tank N12 - Tank wall 75% above bottom
+TT 2-252-51-109 | TES 2 - Hot Tank N12 - Tank wall 100% above bottom
+TT 2-252-51-110 | TES 2 - Hot Tank N12 - Tank roof 80% from center
+TT 2-252-51-111 | TES 2 - Hot Tank N12 - Tank roof 60% from center
+TT 2-252-51-112 | TES 2 - Hot Tank N12 - Tank roof 40% from center
+TT 2-252-51-113 | TES 2 - Hot Tank N12 - Tank roof 20% from center
+TT 2-252-03C1 | TES 2 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 10% Level
+TT 2-252-03C2 | TES 2 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 30% Level
+TT 2-252-03C3 | TES 2 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 50% Level
+TT 2-252-03C4 | TES 2 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 100% Level
+TT 2-252-32 | TES 2 - Temperature hot salt tank - Pump suction
+Quantity for list 11: Size 2, Qty.= 3, 20 temperature transmitters in each J/B
+Notes: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 21 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 12]
+Instrument Specification - TES Services - Temperature Transmitter - List 12
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 2
+TT 2-252-51-201 | TES 2 - Hot Tank N13 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-214 | 2
+TT 2-252-51-202 | TES 2 - Hot Tank N13 - Tank bottom 40 % from center
+TT 2-252-51-203 | TES 2 - Hot Tank N13 - Tank bottom 60 % from center
+TT 2-252-51-204 | TES 2 - Hot Tank N13 - Tank bottom 80 % from center
+TT 2-252-51-205 | TES 2 - Hot Tank N13 - Tank wall 15" above bottom
+TT 2-252-51-206 | TES 2 - Hot Tank N13 - Tank wall 25% above bottom
+TT 2-252-51-207 | TES 2 - Hot Tank N13 - Tank wall 50% above bottom
+TT 2-252-51-208 | TES 2 - Hot Tank N13 - Tank wall 75% above bottom
+TT 2-252-51-209 | TES 2 - Hot Tank N13 - Tank wall 100% above bottom
+TT 2-252-51-210 | TES 2 - Hot Tank N13 - Tank roof 80% from center
+TT 2-252-51-211 | TES 2 - Hot Tank N13 - Tank roof 60% from center
+TT 2-252-51-212 | TES 2 - Hot Tank N13 - Tank roof 40% from center
+TT 2-252-51-213 | TES 2 - Hot Tank N13 - Tank roof 20% from center
+TT 2-252-03B1 | TES 2 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 10% Level
+TT 2-252-03B2 | TES 2 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 30% Level
+TT 2-252-03B3 | TES 2 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 50% Level
+TT 2-252-03B4 | TES 2 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 100% Level
+TT 2-252-51-301 | TES 2 - Hot Tank N14 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-215 | 2
+TT 2-252-51-302 | TES 2 - Hot Tank N14 - Tank bottom 40 % from center
+TT 2-252-51-303 | TES 2 - Hot Tank N14 - Tank bottom 60 % from center
+TT 2-252-51-304 | TES 2 - Hot Tank N14 - Tank bottom 80 % from center
+TT 2-252-51-305 | TES 2 - Hot Tank N14 - Tank wall 15" above bottom
+TT 2-252-51-306 | TES 2 - Hot Tank N14 - Tank wall 25% above bottom
+TT 2-252-51-307 | TES 2 - Hot Tank N14 - Tank wall 50% above bottom
+TT 2-252-51-308 | TES 2 - Hot Tank N14 - Tank wall 75% above bottom
+TT 2-252-51-309 | TES 2 - Hot Tank N14 - Tank wall 100% above bottom
+TT 2-252-51-310 | TES 2 - Hot Tank N14 - Tank roof 80% from center
+TT 2-252-51-311 | TES 2 - Hot Tank N14 - Tank roof 60% from center
+TT 2-252-51-312 | TES 2 - Hot Tank N14 - Tank roof 40% from center
+TT 2-252-51-313 | TES 2 - Hot Tank N14 - Tank roof 20% from center
+TT 2-252-03A1 | TES 2 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 10% Level
+TT 2-252-03A2 | TES 2 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 30% Level
+TT 2-252-03A3 | TES 2 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 50% Level
+TT 2-252-03A4 | TES 2 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 100% Level
+Quantity for list 12: Size 2, Qty.= 2, 20 temperature transmitters in each J/B
+Notes: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 22 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 13 TES3]
+Instrument Specification - TES Services - Temperature Transmitter - List 13
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 3
+TT 3-251-04-A1 | TES 3 - Cold Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P251 | 32 - 232 | IJB-250-A1-306 | 1
+TT 3-251-04-A2 | TES 3 - Cold Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 3-251-04-A3 | TES 3 - Cold Salt Tank Foundation-Center-50% Dia.
+TT 3-251-04-A4 | TES 3 - Cold Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 3-251-04-A5 | TES 3 - Cold Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 3-251-47 | TES 3 - Cold Salt Tank Foundation Air Cooling
+TT 3-252-04-A1 | TES 3 - Hot Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P253 | 32 - 232 | IJB-250-A1-307 | 1
+TT 3-252-04-A2 | TES 3 - Hot Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 3-252-04-A3 | TES 3 - Hot Salt Tank Foundation-Center-50% Dia.
+TT 3-252-04-A4 | TES 3 - Hot Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 3-252-04-A5 | TES 3 - Hot Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 3-253-47 | TES 3 - Hot Salt Tank Foundation Air Cooling - Inlet
+TT 3-251-06A1 | 3-MX-251 Header Cold Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-308 | 1
+TT 3-251-06B1 | 3-MX-251 Header Cold Side
+TT 3-251-06C1 | 3-MX-251 Counter Pressure Cold Side
+TT 3-251-06D1 | 3-MX-251 Tierods Cold Side
+TT 3-251-06E1 | 3-MX-251 Welded Wall Cold Side
+TT 3-251-06F1 | 3-MX-251 Welded Wall Cold Side
+TT 3-251-06G1 | 3-MX-251 Welded Wall Cold Side
+TT 3-251-06F2 | 3-MX-251 Welded Wall Cold Side
+TT 3-251-06I1 | 3-MX-251 Welded Wall Center
+Deleted | Deleted
+TT 3-251-06K1 | 3-MX-251 Welded Wall Hot Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-309 | 1
+TT 3-251-06L1 | 3-MX-251 Welded Wall Hot Side
+TT 3-251-06L2 | 3-MX-251 Welded Wall Hot Side
+TT 3-251-06M1 | 3-MX-251 Welded Wall Hot Side
+TT 3-251-06N1 | 3-MX-251 Tierods Hot Side
+TT 3-251-06O1 | 3-MX-251 Counter Pressure Hot Side
+TT 3-251-06P1 | 3-MX-251 Support Hot Side
+TT 3-251-06Q1 | 3-MX-251 Support Hot Side
+TT 3-251-06R1 | 3-MX-251 Headers Hot Side
+TT 3-251-06S1 | 3-MX-251 Headers Hot Side
+TT 3-251-51-101 | TES 3 - Cold Tank N12 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-310 | 2
+TT 3-251-51-102 | TES 3 - Cold Tank N12 - Tank bottom 40 % from center
+TT 3-251-51-103 | TES 3 - Cold Tank N12 - Tank bottom 60 % from center
+TT 3-251-51-104 | TES 3 - Cold Tank N12 - Tank bottom 80 % from center
+TT 3-251-51-105 | TES 3 - Cold Tank N12 - Tank wall 15" above bottom
+TT 3-251-51-106 | TES 3 - Cold Tank N12 - Tank wall 25% above bottom
+TT 3-251-51-107 | TES 3 - Cold Tank N12 - Tank wall 50% above bottom
+TT 3-251-51-108 | TES 3 - Cold Tank N12 - Tank wall 75% above bottom
+TT 3-251-51-109 | TES 3 - Cold Tank N12 - Tank wall 100% above bottom
+TT 3-251-51-110 | TES 3 - Cold Tank N12 - Tank roof 80% from center
+TT 3-251-51-111 | TES 3 - Cold Tank N12 - Tank roof 60% from center
+TT 3-251-51-112 | TES 3 - Cold Tank N12 - Tank roof 40% from center
+TT 3-251-51-113 | TES 3 - Cold Tank N12 - Tank roof 20% from center
+TT 3-251-03C1 | TES 3 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 10% Level
+TT 3-251-03C2 | TES 3 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 30% Level
+TT 3-251-03C3 | TES 3 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 50% Level
+TT 3-251-03C4 | TES 3 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 100% Level
+TT 3-251-32 | TES 3 - Temperature cold salt tank - Pump suction
+Inputs terminal blocks for "IJB-250-A1-308" & "IJB-250-A1-309": Thermocouple type E
+Inputs terminal blocks for others: RTDs
+Quantity for list 13: Size 1, Qty.= 4, 10 temperature transmitters in each J/B
+Size 2, Qty.= 1, 20 temperature transmitters in each J/B
+Burn out high for RTDs
+Burn out low for thermo couples
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+3 | PGV | Jun/16/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08//2012 | For Purchase
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 23 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet List 14]
+Instrument Specification - TES Services - Temperature Transmitter - List 14
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 3
+TT 3-251-51-201 | TES 3 - Cold Tank N13 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-311 | 2
+TT 3-251-51-202 | TES 3 - Cold Tank N13 - Tank bottom 40 % from center
+TT 3-251-51-203 | TES 3 - Cold Tank N13 - Tank bottom 60 % from center
+TT 3-251-51-204 | TES 3 - Cold Tank N13 - Tank bottom 80 % from center
+TT 3-251-51-205 | TES 3 - Cold Tank N13 - Tank wall 15" above bottom
+TT 3-251-51-206 | TES 3 - Cold Tank N13 - Tank wall 25% above bottom
+TT 3-251-51-207 | TES 3 - Cold Tank N13 - Tank wall 50% above bottom
+TT 3-251-51-208 | TES 3 - Cold Tank N13 - Tank wall 75% above bottom
+TT 3-251-51-209 | TES 3 - Cold Tank N13 - Tank wall 100% above bottom
+TT 3-251-51-210 | TES 3 - Cold Tank N13 - Tank roof 80% from center
+TT 3-251-51-211 | TES 3 - Cold Tank N13 - Tank roof 60% from center
+TT 3-251-51-212 | TES 3 - Cold Tank N13 - Tank roof 40% from center
+TT 3-251-51-213 | TES 3 - Cold Tank N13 - Tank roof 20% from center
+TT 3-251-03B1 | TES 3 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 10% Level
+TT 3-251-03B2 | TES 3 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 30% Level
+TT 3-251-03B3 | TES 3 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 50% Level
+TT 3-251-03B4 | TES 3 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 100% Level
+TT 3-251-51-301 | TES 3 - Cold Tank N14 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-312 | 2
+TT 3-251-51-302 | TES 3 - Cold Tank N14 - Tank bottom 40 % from center
+TT 3-251-51-303 | TES 3 - Cold Tank N14 - Tank bottom 60 % from center
+TT 3-251-51-304 | TES 3 - Cold Tank N14 - Tank bottom 80 % from center
+TT 3-251-51-305 | TES 3 - Cold Tank N14 - Tank wall 15" above bottom
+TT 3-251-51-306 | TES 3 - Cold Tank N14 - Tank wall 25% above bottom
+TT 3-251-51-307 | TES 3 - Cold Tank N14 - Tank wall 50% above bottom
+TT 3-251-51-308 | TES 3 - Cold Tank N14 - Tank wall 75% above bottom
+TT 3-251-51-309 | TES 3 - Cold Tank N14 - Tank wall 100% above bottom
+TT 3-251-51-310 | TES 3 - Cold Tank N14 - Tank roof 80% from center
+TT 3-251-51-311 | TES 3 - Cold Tank N14 - Tank roof 60% from center
+TT 3-251-51-312 | TES 3 - Cold Tank N14 - Tank roof 40% from center
+TT 3-251-51-313 | TES 3 - Cold Tank N14 - Tank roof 20% from center
+TT 3-251-03A1 | TES 3 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 10% Level
+TT 3-251-03A2 | TES 3 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 30% Level
+TT 3-251-03A3 | TES 3 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 50% Level
+TT 3-251-03A4 | TES 3 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 100% Level
+TT 3-252-51-101 | TES 3 - Hot Tank N12 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-313 | 2
+TT 3-252-51-102 | TES 3 - Hot Tank N12 - Tank bottom 40 % from center
+TT 3-252-51-103 | TES 3 - Hot Tank N12 - Tank bottom 60 % from center
+TT 3-252-51-104 | TES 3 - Hot Tank N12 - Tank bottom 80 % from center
+TT 3-252-51-105 | TES 3 - Hot Tank N12 - Tank wall 15" above bottom
+TT 3-252-51-106 | TES 3 - Hot Tank N12 - Tank wall 25% above bottom
+TT 3-252-51-107 | TES 3 - Hot Tank N12 - Tank wall 50% above bottom
+TT 3-252-51-108 | TES 3 - Hot Tank N12 - Tank wall 75% above bottom
+TT 3-252-51-109 | TES 3 - Hot Tank N12 - Tank wall 100% above bottom
+TT 3-252-51-110 | TES 3 - Hot Tank N12 - Tank roof 80% from center
+TT 3-252-51-111 | TES 3 - Hot Tank N12 - Tank roof 60% from center
+TT 3-252-51-112 | TES 3 - Hot Tank N12 - Tank roof 40% from center
+TT 3-252-51-113 | TES 3 - Hot Tank N12 - Tank roof 20% from center
+TT 3-252-03C1 | TES 3 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 10% Level
+TT 3-252-03C2 | TES 3 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 30% Level
+TT 3-252-03C3 | TES 3 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 50% Level
+TT 3-252-03C4 | TES 3 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 100% Level
+TT 3-252-32 | TES 3 - Temperature hot salt tank - Pump suction
+Quantity for list 14: Size 2, Qty.= 3, 20 temperature transmitters in each J/B
+Notes: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 24 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 15]
+Instrument Specification - TES Services - Temperature Transmitter - List 15
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 3
+TT 3-252-51-201 | TES 3 - Hot Tank N13 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-314 | 2
+TT 3-252-51-202 | TES 3 - Hot Tank N13 - Tank bottom 40 % from center
+TT 3-252-51-203 | TES 3 - Hot Tank N13 - Tank bottom 60 % from center
+TT 3-252-51-204 | TES 3 - Hot Tank N13 - Tank bottom 80 % from center
+TT 3-252-51-205 | TES 3 - Hot Tank N13 - Tank wall 15" above bottom
+TT 3-252-51-206 | TES 3 - Hot Tank N13 - Tank wall 25% above bottom
+TT 3-252-51-207 | TES 3 - Hot Tank N13 - Tank wall 50% above bottom
+TT 3-252-51-208 | TES 3 - Hot Tank N13 - Tank wall 75% above bottom
+TT 3-252-51-209 | TES 3 - Hot Tank N13 - Tank wall 100% above bottom
+TT 3-252-51-210 | TES 3 - Hot Tank N13 - Tank roof 80% from center
+TT 3-252-51-211 | TES 3 - Hot Tank N13 - Tank roof 60% from center
+TT 3-252-51-212 | TES 3 - Hot Tank N13 - Tank roof 40% from center
+TT 3-252-51-213 | TES 3 - Hot Tank N13 - Tank roof 20% from center
+TT 3-252-03B1 | TES 3 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 10% Level
+TT 3-252-03B2 | TES 3 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 30% Level
+TT 3-252-03B3 | TES 3 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 50% Level
+TT 3-252-03B4 | TES 3 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 100% Level
+TT 3-252-51-301 | TES 3 - Hot Tank N14 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-315 | 2
+TT 3-252-51-302 | TES 3 - Hot Tank N14 - Tank bottom 40 % from center
+TT 3-252-51-303 | TES 3 - Hot Tank N14 - Tank bottom 60 % from center
+TT 3-252-51-304 | TES 3 - Hot Tank N14 - Tank bottom 80 % from center
+TT 3-252-51-305 | TES 3 - Hot Tank N14 - Tank wall 15" above bottom
+TT 3-252-51-306 | TES 3 - Hot Tank N14 - Tank wall 25% above bottom
+TT 3-252-51-307 | TES 3 - Hot Tank N14 - Tank wall 50% above bottom
+TT 3-252-51-308 | TES 3 - Hot Tank N14 - Tank wall 75% above bottom
+TT 3-252-51-309 | TES 3 - Hot Tank N14 - Tank wall 100% above bottom
+TT 3-252-51-310 | TES 3 - Hot Tank N14 - Tank roof 80% from center
+TT 3-252-51-311 | TES 3 - Hot Tank N14 - Tank roof 60% from center
+TT 3-252-51-312 | TES 3 - Hot Tank N14 - Tank roof 40% from center
+TT 3-252-51-313 | TES 3 - Hot Tank N14 - Tank roof 20% from center
+TT 3-252-03A1 | TES 3 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 10% Level
+TT 3-252-03A2 | TES 3 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 30% Level
+TT 3-252-03A3 | TES 3 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 50% Level
+TT 3-252-03A4 | TES 3 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 100% Level
+Quantity for list 15: Size 2, Qty.= 2, 20 temperature transmitters in each J/B
+Note: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 25 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 16 TES4]
+Instrument Specification - TES Services - Temperature Transmitter - List 16
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 4
+TT 4-251-04-A1 | TES 4 - Cold Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P251 | 32 - 232 | IJB-250-A1-406 | 1
+TT 4-251-04-A2 | TES 4 - Cold Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 4-251-04-A3 | TES 4 - Cold Salt Tank Foundation-Center-50% Dia.
+TT 4-251-04-A4 | TES 4 - Cold Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 4-251-04-A5 | TES 4 - Cold Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 4-251-47 | TES 4 - Cold Salt Tank Foundation Air Cooling
+TT 4-252-04-A1 | TES 4 - Hot Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P253 | 32 - 232 | IJB-250-A1-407 | 1
+TT 4-252-04-A2 | TES 4 - Hot Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 4-252-04-A3 | TES 4 - Hot Salt Tank Foundation-Center-50% Dia.
+TT 4-252-04-A4 | TES 4 - Hot Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 4-252-04-A5 | TES 4 - Hot Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 4-253-47 | TES 4 - Hot Salt Tank Foundation Air Cooling - Inlet
+TT 4-251-06A1 | 4-MX-251 Header Cold Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-408 | 1
+TT 4-251-06B1 | 4-MX-251 Header Cold Side
+TT 4-251-06C1 | 4-MX-251 Counter Pressure Cold Side
+TT 4-251-06D1 | 4-MX-251 Tierods Cold Side
+TT 4-251-06E1 | 4-MX-251 Welded Wall Cold Side
+TT 4-251-06F1 | 4-MX-251 Welded Wall Cold Side
+TT 4-251-06G1 | 4-MX-251 Welded Wall Cold Side
+TT 4-251-06F2 | 4-MX-251 Welded Wall Cold Side
+TT 4-251-06I1 | 4-MX-251 Welded Wall Center
+Deleted | Deleted
+TT 4-251-06K1 | 4-MX-251 Welded Wall Hot Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-409 | 1
+TT 4-251-06L1 | 4-MX-251 Welded Wall Hot Side
+TT 4-251-06L2 | 4-MX-251 Welded Wall Hot Side
+TT 4-251-06M1 | 4-MX-251 Welded Wall Hot Side
+TT 4-251-06N1 | 4-MX-251 Tierods Hot Side
+TT 4-251-06O1 | 4-MX-251 Counter Pressure Hot Side
+TT 4-251-06P1 | 4-MX-251 Support Hot Side
+TT 4-251-06Q1 | 4-MX-251 Support Hot Side
+TT 4-251-06R1 | 4-MX-251 Headers Hot Side
+TT 4-251-06S1 | 4-MX-251 Headers Hot Side
+TT 4-251-51-101 | TES 4 - Cold Tank N12 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-410 | 2
+TT 4-251-51-102 | TES 4 - Cold Tank N12 - Tank bottom 40 % from center
+TT 4-251-51-103 | TES 4 - Cold Tank N12 - Tank bottom 60 % from center
+TT 4-251-51-104 | TES 4 - Cold Tank N12 - Tank bottom 80 % from center
+TT 4-251-51-105 | TES 4 - Cold Tank N12 - Tank wall 15" above bottom
+TT 4-251-51-106 | TES 4 - Cold Tank N12 - Tank wall 25% above bottom
+TT 4-251-51-107 | TES 4 - Cold Tank N12 - Tank wall 50% above bottom
+TT 4-251-51-108 | TES 4 - Cold Tank N12 - Tank wall 75% above bottom
+TT 4-251-51-109 | TES 4 - Cold Tank N12 - Tank wall 100% above bottom
+TT 4-251-51-110 | TES 4 - Cold Tank N12 - Tank roof 80% from center
+TT 4-251-51-111 | TES 4 - Cold Tank N12 - Tank roof 60% from center
+TT 4-251-51-112 | TES 4 - Cold Tank N12 - Tank roof 40% from center
+TT 4-251-51-113 | TES 4 - Cold Tank N12 - Tank roof 20% from center
+TT 4-251-03C1 | TES 4 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 10% Level
+TT 4-251-03C2 | TES 4 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 30% Level
+TT 4-251-03C3 | TES 4 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 50% Level
+TT 4-251-03C4 | TES 4 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 100% Level
+TT 4-251-32 | TES 4 - Temperature cold salt tank - Pump suction
+Inputs terminal blocks for "IJB-250-A1-408" & "IJB-250-A1-409": Thermocouple type E
+Inputs terminal blocks for others: RTDs
+Quantity for list 10: Size 1, Qty.= 4, 10 temperature transmitters in each J/B
+Size 2, Qty.= 1, 20 temperature transmitters in each J/B
+Burn out high for RTDs
+Burn out low for thermo couples
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+3 | PGV | Jun/16/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08//2012 | For Purchase
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 26 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet List 17]
+Instrument Specification - TES Services - Temperature Transmitter - List 17
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 4
+TT 4-251-51-201 | TES 4 - Cold Tank N13 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-411 | 2
+TT 4-251-51-202 | TES 4 - Cold Tank N13 - Tank bottom 40 % from center
+TT 4-251-51-203 | TES 4 - Cold Tank N13 - Tank bottom 60 % from center
+TT 4-251-51-204 | TES 4 - Cold Tank N13 - Tank bottom 80 % from center
+TT 4-251-51-205 | TES 4 - Cold Tank N13 - Tank wall 15" above bottom
+TT 4-251-51-206 | TES 4 - Cold Tank N13 - Tank wall 25% above bottom
+TT 4-251-51-207 | TES 4 - Cold Tank N13 - Tank wall 50% above bottom
+TT 4-251-51-208 | TES 4 - Cold Tank N13 - Tank wall 75% above bottom
+TT 4-251-51-209 | TES 4 - Cold Tank N13 - Tank wall 100% above bottom
+TT 4-251-51-210 | TES 4 - Cold Tank N13 - Tank roof 80% from center
+TT 4-251-51-211 | TES 4 - Cold Tank N13 - Tank roof 60% from center
+TT 4-251-51-212 | TES 4 - Cold Tank N13 - Tank roof 40% from center
+TT 4-251-51-213 | TES 4 - Cold Tank N13 - Tank roof 20% from center
+TT 4-251-03B1 | TES 4 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 10% Level
+TT 4-251-03B2 | TES 4 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 30% Level
+TT 4-251-03B3 | TES 4 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 50% Level
+TT 4-251-03B4 | TES 4 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 100% Level
+TT 4-251-51-301 | TES 4 - Cold Tank N14 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-412 | 2
+TT 4-251-51-302 | TES 4 - Cold Tank N14 - Tank bottom 40 % from center
+TT 4-251-51-303 | TES 4 - Cold Tank N14 - Tank bottom 60 % from center
+TT 4-251-51-304 | TES 4 - Cold Tank N14 - Tank bottom 80 % from center
+TT 4-251-51-305 | TES 4 - Cold Tank N14 - Tank wall 15" above bottom
+TT 4-251-51-306 | TES 4 - Cold Tank N14 - Tank wall 25% above bottom
+TT 4-251-51-307 | TES 4 - Cold Tank N14 - Tank wall 50% above bottom
+TT 4-251-51-308 | TES 4 - Cold Tank N14 - Tank wall 75% above bottom
+TT 4-251-51-309 | TES 4 - Cold Tank N14 - Tank wall 100% above bottom
+TT 4-251-51-310 | TES 4 - Cold Tank N14 - Tank roof 80% from center
+TT 4-251-51-311 | TES 4 - Cold Tank N14 - Tank roof 60% from center
+TT 4-251-51-312 | TES 4 - Cold Tank N14 - Tank roof 40% from center
+TT 4-251-51-313 | TES 4 - Cold Tank N14 - Tank roof 20% from center
+TT 4-251-03A1 | TES 4 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 10% Level
+TT 4-251-03A2 | TES 4 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 30% Level
+TT 4-251-03A3 | TES 4 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 50% Level
+TT 4-251-03A4 | TES 4 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 100% Level
+TT 4-252-51-101 | TES 4 - Hot Tank N12 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-413 | 2
+TT 4-252-51-102 | TES 4 - Hot Tank N12 - Tank bottom 40 % from center
+TT 4-252-51-103 | TES 4 - Hot Tank N12 - Tank bottom 60 % from center
+TT 4-252-51-104 | TES 4 - Hot Tank N12 - Tank bottom 80 % from center
+TT 4-252-51-105 | TES 4 - Hot Tank N12 - Tank wall 15" above bottom
+TT 4-252-51-106 | TES 4 - Hot Tank N12 - Tank wall 25% above bottom
+TT 4-252-51-107 | TES 4 - Hot Tank N12 - Tank wall 50% above bottom
+TT 4-252-51-108 | TES 4 - Hot Tank N12 - Tank wall 75% above bottom
+TT 4-252-51-109 | TES 4 - Hot Tank N12 - Tank wall 100% above bottom
+TT 4-252-51-110 | TES 4 - Hot Tank N12 - Tank roof 80% from center
+TT 4-252-51-111 | TES 4 - Hot Tank N12 - Tank roof 60% from center
+TT 4-252-51-112 | TES 4 - Hot Tank N12 - Tank roof 40% from center
+TT 4-252-51-113 | TES 4 - Hot Tank N12 - Tank roof 20% from center
+TT 4-252-03C1 | TES 4 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 10% Level
+TT 4-252-03C2 | TES 4 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 30% Level
+TT 4-252-03C3 | TES 4 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 50% Level
+TT 4-252-03C4 | TES 4 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 100% Level
+TT 4-252-32 | TES 4 - Temperature hot salt tank - Pump suction
+Quantity for list 17: Size 2, Qty.= 3, 20 temperature transmitters in each J/B
+Notes: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 27 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 18]
+Instrument Specification - TES Services - Temperature Transmitter - List 18
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 4
+TT 4-252-51-201 | TES 4 - Hot Tank N13 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-414 | 2
+TT 4-252-51-202 | TES 4 - Hot Tank N13 - Tank bottom 40 % from center
+TT 4-252-51-203 | TES 4 - Hot Tank N13 - Tank bottom 60 % from center
+TT 4-252-51-204 | TES 4 - Hot Tank N13 - Tank bottom 80 % from center
+TT 4-252-51-205 | TES 4 - Hot Tank N13 - Tank wall 15" above bottom
+TT 4-252-51-206 | TES 4 - Hot Tank N13 - Tank wall 25% above bottom
+TT 4-252-51-207 | TES 4 - Hot Tank N13 - Tank wall 50% above bottom
+TT 4-252-51-208 | TES 4 - Hot Tank N13 - Tank wall 75% above bottom
+TT 4-252-51-209 | TES 4 - Hot Tank N13 - Tank wall 100% above bottom
+TT 4-252-51-210 | TES 4 - Hot Tank N13 - Tank roof 80% from center
+TT 4-252-51-211 | TES 4 - Hot Tank N13 - Tank roof 60% from center
+TT 4-252-51-212 | TES 4 - Hot Tank N13 - Tank roof 40% from center
+TT 4-252-51-213 | TES 4 - Hot Tank N13 - Tank roof 20% from center
+TT 4-252-03B1 | TES 4 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 10% Level
+TT 4-252-03B2 | TES 4 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 30% Level
+TT 4-252-03B3 | TES 4 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 50% Level
+TT 4-252-03B4 | TES 4 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 100% Level
+TT 4-252-51-301 | TES 4 - Hot Tank N14 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-415 | 2
+TT 4-252-51-302 | TES 4 - Hot Tank N14 - Tank bottom 40 % from center
+TT 4-252-51-303 | TES 4 - Hot Tank N14 - Tank bottom 60 % from center
+TT 4-252-51-304 | TES 4 - Hot Tank N14 - Tank bottom 80 % from center
+TT 4-252-51-305 | TES 4 - Hot Tank N14 - Tank wall 15" above bottom
+TT 4-252-51-306 | TES 4 - Hot Tank N14 - Tank wall 25% above bottom
+TT 4-252-51-307 | TES 4 - Hot Tank N14 - Tank wall 50% above bottom
+TT 4-252-51-308 | TES 4 - Hot Tank N14 - Tank wall 75% above bottom
+TT 4-252-51-309 | TES 4 - Hot Tank N14 - Tank wall 100% above bottom
+TT 4-252-51-310 | TES 4 - Hot Tank N14 - Tank roof 80% from center
+TT 4-252-51-311 | TES 4 - Hot Tank N14 - Tank roof 60% from center
+TT 4-252-51-312 | TES 4 - Hot Tank N14 - Tank roof 40% from center
+TT 4-252-51-313 | TES 4 - Hot Tank N14 - Tank roof 20% from center
+TT 4-252-03A1 | TES 4 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 10% Level
+TT 4-252-03A2 | TES 4 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 30% Level
+TT 4-252-03A3 | TES 4 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 50% Level
+TT 4-252-03A4 | TES 4 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 100% Level
+Quantity for list 18: Size 2, Qty.= 2, 20 temperature transmitters in each J/B
+Note: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 28 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 19 TES5]
+Instrument Specification - TES Services - Temperature Transmitter - List 19
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 5
+TT 5-251-04-A1 | TES 5 - Cold Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P251 | 32 - 232 | IJB-250-A1-506 | 1
+TT 5-251-04-A2 | TES 5 - Cold Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 5-251-04-A3 | TES 5 - Cold Salt Tank Foundation-Center-50% Dia.
+TT 5-251-04-A4 | TES 5 - Cold Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 5-251-04-A5 | TES 5 - Cold Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 5-251-47 | TES 5 - Cold Salt Tank Foundation Air Cooling
+TT 5-252-04-A1 | TES 5 - Hot Salt Tank Foundation-Pump Well Center-9% Dia. | **-68-71-P253 | 32 - 232 | IJB-250-A1-507 | 1
+TT 5-252-04-A2 | TES 5 - Hot Salt Tank Foundation-Pump Well Side-29% Dia.
+TT 5-252-04-A3 | TES 5 - Hot Salt Tank Foundation-Center-50% Dia.
+TT 5-252-04-A4 | TES 5 - Hot Salt Tank Foundation-Oposite Pump Well Side-66% Dia.
+TT 5-252-04-A5 | TES 5 - Hot Salt Tank Foundation-Oposite Pump Well Side-83% Dia.
+FIT 5-253-47 | TES 5 - Hot Salt Tank Foundation Air Cooling - Inlet
+TT 5-251-06A1 | 5-MX-251 Header Cold Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-508 | 1
+TT 5-251-06B1 | 5-MX-251 Header Cold Side
+TT 5-251-06C1 | 5-MX-251 Counter Pressure Cold Side
+TT 5-251-06D1 | 5-MX-251 Tierods Cold Side
+TT 5-251-06E1 | 5-MX-251 Welded Wall Cold Side
+TT 5-251-06F1 | 5-MX-251 Welded Wall Cold Side
+TT 5-251-06G1 | 5-MX-251 Welded Wall Cold Side
+TT 5-251-06F2 | 5-MX-251 Welded Wall Cold Side
+TT 5-251-06I1 | 5-MX-251 Welded Wall Center
+Deleted | Deleted
+TT 5-251-06K1 | 5-MX-251 Welded Wall Hot Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-509 | 1
+TT 5-251-06L1 | 5-MX-251 Welded Wall Hot Side
+TT 5-251-06L2 | 5-MX-251 Welded Wall Hot Side
+TT 5-251-06M1 | 5-MX-251 Welded Wall Hot Side
+TT 5-251-06N1 | 5-MX-251 Tierods Hot Side
+TT 5-251-06O1 | 5-MX-251 Counter Pressure Hot Side
+TT 5-251-06P1 | 5-MX-251 Support Hot Side
+TT 5-251-06Q1 | 5-MX-251 Support Hot Side
+TT 5-251-06R1 | 5-MX-251 Headers Hot Side
+TT 5-251-06S1 | 5-MX-251 Headers Hot Side
+TT 5-251-51-101 | TES 5 - Cold Tank N12 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-510 | 2
+TT 5-251-51-102 | TES 5 - Cold Tank N12 - Tank bottom 40 % from center
+TT 5-251-51-103 | TES 5 - Cold Tank N12 - Tank bottom 60 % from center
+TT 5-251-51-104 | TES 5 - Cold Tank N12 - Tank bottom 80 % from center
+TT 5-251-51-105 | TES 5 - Cold Tank N12 - Tank wall 15" above bottom
+TT 5-251-51-106 | TES 5 - Cold Tank N12 - Tank wall 25% above bottom
+TT 5-251-51-107 | TES 5 - Cold Tank N12 - Tank wall 50% above bottom
+TT 5-251-51-108 | TES 5 - Cold Tank N12 - Tank wall 75% above bottom
+TT 5-251-51-109 | TES 5 - Cold Tank N12 - Tank wall 100% above bottom
+TT 5-251-51-110 | TES 5 - Cold Tank N12 - Tank roof 80% from center
+TT 5-251-51-111 | TES 5 - Cold Tank N12 - Tank roof 60% from center
+TT 5-251-51-112 | TES 5 - Cold Tank N12 - Tank roof 40% from center
+TT 5-251-51-113 | TES 5 - Cold Tank N12 - Tank roof 20% from center
+TT 5-251-03C1 | TES 5 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 10% Level
+TT 5-251-03C2 | TES 5 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 30% Level
+TT 5-251-03C3 | TES 5 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 50% Level
+TT 5-251-03C4 | TES 5 - Temperature Cold Salt Tank Temp- 15 Deg Position - @ 100% Level
+TT 5-251-32 | TES 5 - Temperature cold salt tank - Pump suction
+Inputs terminal blocks for "IJB-250-A1-508" & "IJB-250-A1-509": Thermocouple type E
+Inputs terminal blocks for others: RTDs
+Quantity for list 10: Size 1, Qty.= 4, 10 temperature transmitters in each J/B
+Size 2, Qty.= 1, 20 temperature transmitters in each J/B
+Burn out high for RTDs
+Burn out low for thermo couples
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+3 | PGV | Jun/16/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08//2012 | For Purchase
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 29 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet List 20]
+Instrument Specification - TES Services - Temperature Transmitter - List 20
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 5
+TT 5-251-51-201 | TES 5 - Cold Tank N13 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-511 | 2
+TT 5-251-51-202 | TES 5 - Cold Tank N13 - Tank bottom 40 % from center
+TT 5-251-51-203 | TES 5 - Cold Tank N13 - Tank bottom 60 % from center
+TT 5-251-51-204 | TES 5 - Cold Tank N13 - Tank bottom 80 % from center
+TT 5-251-51-205 | TES 5 - Cold Tank N13 - Tank wall 15" above bottom
+TT 5-251-51-206 | TES 5 - Cold Tank N13 - Tank wall 25% above bottom
+TT 5-251-51-207 | TES 5 - Cold Tank N13 - Tank wall 50% above bottom
+TT 5-251-51-208 | TES 5 - Cold Tank N13 - Tank wall 75% above bottom
+TT 5-251-51-209 | TES 5 - Cold Tank N13 - Tank wall 100% above bottom
+TT 5-251-51-210 | TES 5 - Cold Tank N13 - Tank roof 80% from center
+TT 5-251-51-211 | TES 5 - Cold Tank N13 - Tank roof 60% from center
+TT 5-251-51-212 | TES 5 - Cold Tank N13 - Tank roof 40% from center
+TT 5-251-51-213 | TES 5 - Cold Tank N13 - Tank roof 20% from center
+TT 5-251-03B1 | TES 5 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 10% Level
+TT 5-251-03B2 | TES 5 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 30% Level
+TT 5-251-03B3 | TES 5 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 50% Level
+TT 5-251-03B4 | TES 5 - Temperature Cold Salt Tank Temp- 135 Deg Position - @ 100% Level
+TT 5-251-51-301 | TES 5 - Cold Tank N14 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-512 | 2
+TT 5-251-51-302 | TES 5 - Cold Tank N14 - Tank bottom 40 % from center
+TT 5-251-51-303 | TES 5 - Cold Tank N14 - Tank bottom 60 % from center
+TT 5-251-51-304 | TES 5 - Cold Tank N14 - Tank bottom 80 % from center
+TT 5-251-51-305 | TES 5 - Cold Tank N14 - Tank wall 15" above bottom
+TT 5-251-51-306 | TES 5 - Cold Tank N14 - Tank wall 25% above bottom
+TT 5-251-51-307 | TES 5 - Cold Tank N14 - Tank wall 50% above bottom
+TT 5-251-51-308 | TES 5 - Cold Tank N14 - Tank wall 75% above bottom
+TT 5-251-51-309 | TES 5 - Cold Tank N14 - Tank wall 100% above bottom
+TT 5-251-51-310 | TES 5 - Cold Tank N14 - Tank roof 80% from center
+TT 5-251-51-311 | TES 5 - Cold Tank N14 - Tank roof 60% from center
+TT 5-251-51-312 | TES 5 - Cold Tank N14 - Tank roof 40% from center
+TT 5-251-51-313 | TES 5 - Cold Tank N14 - Tank roof 20% from center
+TT 5-251-03A1 | TES 5 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 10% Level
+TT 5-251-03A2 | TES 5 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 30% Level
+TT 5-251-03A3 | TES 5 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 50% Level
+TT 5-251-03A4 | TES 5 - Temperature Cold Salt Tank Temp- 250 Deg Position - @ 100% Level
+TT 5-252-51-101 | TES 5 - Hot Tank N12 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-513 | 2
+TT 5-252-51-102 | TES 5 - Hot Tank N12 - Tank bottom 40 % from center
+TT 5-252-51-103 | TES 5 - Hot Tank N12 - Tank bottom 60 % from center
+TT 5-252-51-104 | TES 5 - Hot Tank N12 - Tank bottom 80 % from center
+TT 5-252-51-105 | TES 5 - Hot Tank N12 - Tank wall 15" above bottom
+TT 5-252-51-106 | TES 5 - Hot Tank N12 - Tank wall 25% above bottom
+TT 5-252-51-107 | TES 5 - Hot Tank N12 - Tank wall 50% above bottom
+TT 5-252-51-108 | TES 5 - Hot Tank N12 - Tank wall 75% above bottom
+TT 5-252-51-109 | TES 5 - Hot Tank N12 - Tank wall 100% above bottom
+TT 5-252-51-110 | TES 5 - Hot Tank N12 - Tank roof 80% from center
+TT 5-252-51-111 | TES 5 - Hot Tank N12 - Tank roof 60% from center
+TT 5-252-51-112 | TES 5 - Hot Tank N12 - Tank roof 40% from center
+TT 5-252-51-113 | TES 5 - Hot Tank N12 - Tank roof 20% from center
+TT 5-252-03C1 | TES 5 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 10% Level
+TT 5-252-03C2 | TES 5 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 30% Level
+TT 5-252-03C3 | TES 5 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 50% Level
+TT 5-252-03C4 | TES 5 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 100% Level
+TT 5-2521-32 | TES 5 - Temperature hot salt tank - Pump suction
+Quantity for list 20: Size 2, Qty.= 3, 20 temperature transmitters in each J/B
+Notes: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 30 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 21]
+Instrument Specification - TES Services - Temperature Transmitter - List 21
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 5
+TT 5-252-51-201 | TES 5 - Hot Tank N13 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-514 | 2
+TT 5-252-51-202 | TES 5 - Hot Tank N13 - Tank bottom 40 % from center
+TT 5-252-51-203 | TES 5 - Hot Tank N13 - Tank bottom 60 % from center
+TT 5-252-51-204 | TES 5 - Hot Tank N13 - Tank bottom 80 % from center
+TT 5-252-51-205 | TES 5 - Hot Tank N13 - Tank wall 15" above bottom
+TT 5-252-51-206 | TES 5 - Hot Tank N13 - Tank wall 25% above bottom
+TT 5-252-51-207 | TES 5 - Hot Tank N13 - Tank wall 50% above bottom
+TT 5-252-51-208 | TES 5 - Hot Tank N13 - Tank wall 75% above bottom
+TT 5-252-51-209 | TES 5 - Hot Tank N13 - Tank wall 100% above bottom
+TT 5-252-51-210 | TES 5 - Hot Tank N13 - Tank roof 80% from center
+TT 5-252-51-211 | TES 5 - Hot Tank N13 - Tank roof 60% from center
+TT 5-252-51-212 | TES 5 - Hot Tank N13 - Tank roof 40% from center
+TT 5-252-51-213 | TES 5 - Hot Tank N13 - Tank roof 20% from center
+TT 5-252-03B1 | TES 5 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 10% Level
+TT 5-252-03B2 | TES 5 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 30% Level
+TT 5-252-03B3 | TES 5 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 50% Level
+TT 5-252-03B4 | TES 5 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 100% Level
+TT 5-252-51-301 | TES 5 - Hot Tank N14 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-515 | 2
+TT 5-252-51-302 | TES 5 - Hot Tank N14 - Tank bottom 40 % from center
+TT 5-252-51-303 | TES 5 - Hot Tank N14 - Tank bottom 60 % from center
+TT 5-252-51-304 | TES 5 - Hot Tank N14 - Tank bottom 80 % from center
+TT 5-252-51-305 | TES 5 - Hot Tank N14 - Tank wall 15" above bottom
+TT 5-252-51-306 | TES 5 - Hot Tank N14 - Tank wall 25% above bottom
+TT 5-252-51-307 | TES 5 - Hot Tank N14 - Tank wall 50% above bottom
+TT 5-252-51-308 | TES 5 - Hot Tank N14 - Tank wall 75% above bottom
+TT 5-252-51-309 | TES 5 - Hot Tank N14 - Tank wall 100% above bottom
+TT 5-252-51-310 | TES 5 - Hot Tank N14 - Tank roof 80% from center
+TT 5-252-51-311 | TES 5 - Hot Tank N14 - Tank roof 60% from center
+TT 5-252-51-312 | TES 5 - Hot Tank N14 - Tank roof 40% from center
+TT 5-252-51-313 | TES 5 - Hot Tank N14 - Tank roof 20% from center
+TT 5-252-03A1 | TES 5 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 10% Level
+TT 5-252-03A2 | TES 5 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 30% Level
+TT 5-252-03A3 | TES 5 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 50% Level
+TT 5-252-03A4 | TES 5 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 100% Level
+Quantity for list 21: Size 2, Qty.= 2, 20 temperature transmitters in each J/B
+Note: Burn out hig for all transmitters
+Box Label : 2" x 4"
+All inputs are RTDs
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 31 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 22 TES6]
+Instrument Specification - TES Services - Temperature Transmitter - List 22
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 6
+TT 6-251-31-A1 | TES 6 - Cold Tank Bottom-Multiple RTD @ 10% Diameter | **-68-71-P251 | 32 - 232 | IJB-250-A1-606 | 2
+TT 6-251-31-A2 | TES 6 - Cold Tank Bottom-Multiple RTD @ 20% Diameter
+TT 6-251-31-A3 | TES 6 - Cold Tank Bottom-Multiple RTD @ 30% Diameter
+TT 6-251-31-A4 | TES 6 - Cold Tank Bottom-Multiple RTD @ 40% Diameter
+TT 6-251-31-A5 | TES 6 - Cold Tank Bottom-Multiple RTD @ 50% Diameter
+TT 6-251-04-A1 | TES 6 - Cold Tank Foundation-Multiple RTD @ 10% Diameter
+TT 6-251-04-A2 | TES 6 - Cold Tank Foundation-Multiple RTD @ 20% Diameter
+TT 6-251-04-A3 | TES 6 - Cold Tank Foundation-Multiple RTD @ 30% Diameter
+TT 6-251-04-A4 | TES 6 - Cold Tank Foundation-Multiple RTD @ 40% Diameter
+TT 6-251-04-A5 | TES 6 - Cold Tank Foundation-Multiple RTD @ 50% Diameter
+TT 6-251-04-A6 | TES 6 - Cold Tank Foundation-Multiple RTD @ 60% Diameter
+TT 6-251-04-A7 | TES 6 - Cold Tank Foundation-Multiple RTD @ 70% Diameter
+TT 6-251-04-A8 | TES 6 - Cold Tank Foundation-Multiple RTD @ 80% Diameter
+TT 6-251-04-A9 | TES 6 - Cold Tank Foundation-Multiple RTD @ 90% Diameter
+FIT 6-251-47 | TES 6 - Cold Salt Tank Foundation Air Cooling
+TT 6-252-31-A1 | TES 6 - Hot Tank Bottom-Multiple RTD @ 10% Diameter | **-68-71-P253 | 32 - 232 | IJB-250-A1-607 | 2
+TT 6-252-31-A2 | TES 6 - Hot Tank Bottom-Multiple RTD @ 20% Diameter
+TT 6-252-31-A3 | TES 6 - Hot Tank Bottom-Multiple RTD @ 30% Diameter
+TT 6-252-31-A4 | TES 6 - Hot Tank Bottom-Multiple RTD @ 40% Diameter
+TT 6-252-31-A5 | TES 6 - Hot Tank Bottom-Multiple RTD @ 50% Diameter
+TT 6-252-04-A1 | TES 6 - Hot Tank Foundation-Multiple RTD @ 10% Diameter
+TT 6-252-04-A2 | TES 6 - Hot Tank Foundation-Multiple RTD @ 20% Diameter
+TT 6-252-04-A3 | TES 6 - Hot Tank Foundation-Multiple RTD @ 30% Diameter
+TT 6-252-04-A4 | TES 6 - Hot Tank Foundation-Multiple RTD @ 40% Diameter
+TT 6-252-04-A5 | TES 6 - Hot Tank Foundation-Multiple RTD @ 50% Diameter
+TT 6-252-04-A6 | TES 6 - Hot Tank Foundation-Multiple RTD @ 60% Diameter
+TT 6-252-04-A7 | TES 6 - Hot Tank Foundation-Multiple RTD @ 70% Diameter
+TT 6-252-04-A8 | TES 6 - Hot Tank Foundation-Multiple RTD @ 80% Diameter
+TT 6-252-04-A9 | TES 6 - Hot Tank Foundation-Multiple RTD @ 90% Diameter
+FIT 6-253-47 | TES 6 - Hot Salt Tank Foundation Air Cooling - Inlet
+TT 6-251-06A1 | 6-MX-251 Header Cold Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-608 | 1
+TT 6-251-06B1 | 6-MX-251 Header Cold Side
+TT 6-251-06C1 | 6-MX-251 Counter Pressure Cold Side
+TT 6-251-06D1 | 6-MX-251 Tierods Cold Side
+TT 6-251-06E1 | 6-MX-251 Welded Wall Cold Side
+TT 6-251-06F1 | 6-MX-251 Welded Wall Cold Side
+TT 6-251-06G1 | 6-MX-251 Welded Wall Cold Side
+TT 6-251-06F2 | 6-MX-251 Welded Wall Cold Side
+TT 6-251-06I1 | 6-MX-251 Welded Wall Center
+Deleted | Deleted
+TT 6-251-06K1 | 6-MX-251 Welded Wall Hot Side | **-68-71-P252 | 32 - 800 | IJB-250-A1-609 | 1
+TT 6-251-06L1 | 6-MX-251 Welded Wall Hot Side
+TT 6-251-06L2 | 6-MX-251 Welded Wall Hot Side
+TT 6-251-06M1 | 6-MX-251 Welded Wall Hot Side
+TT 6-251-06N1 | 6-MX-251 Tierods Hot Side
+TT 6-251-06O1 | 6-MX-251 Counter Pressure Hot Side
+TT 6-251-06P1 | 6-MX-251 Support Hot Side
+TT 6-251-06Q1 | 6-MX-251 Support Hot Side
+TT 6-251-06R1 | 6-MX-251 Headers Hot Side
+TT 6-251-06S1 | 6-MX-251 Headers Hot Side
+Quantity for list 22: Size 2, Qty.= 2, 20 temperature transmitters in each J/B
+Size 1: Qty.= 2, 10 temperature transmitters in each J/B
+All inputs for size 1 are: Thermo couples type E
+All inputs for size 2 are: RTDs
+Notes:
+Burn out high for all RTDs for loss of input signals
+Burn out low for all thermo couples for loss of input signal
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+3 | PGV | Jun/16/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+2 | PGV | May/08//2012 | For Purchase - No change on this page
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 32 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 3
+
+[sheet List 23]
+Instrument Specification - TES Services - Temperature Transmitter - List 23
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 6
+TT 6-251-51-101 | TES 6 - Cold Tank N12 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-610 | 2
+TT 6-251-51-102 | TES 6 - Cold Tank N12 - Tank bottom 40 % from center
+TT 6-251-51-103 | TES 6 - Cold Tank N12 - Tank bottom 60 % from center
+TT 6-251-51-104 | TES 6 - Cold Tank N12 - Tank bottom 80 % from center
+TT 6-251-51-105 | TES 6 - Cold Tank N12 - Tank wall 15" above bottom
+TT 6-251-51-106 | TES 6 - Cold Tank N12 - Tank wall 25% above bottom
+TT 6-251-51-107 | TES 6 - Cold Tank N12 - Tank wall 50% above bottom
+TT 6-251-51-108 | TES 6 - Cold Tank N12 - Tank wall 75% above bottom
+TT 6-251-51-109 | TES 6 - Cold Tank N12 - Tank wall 100% above bottom
+TT 6-251-51-110 | TES 6 - Cold Tank N12 - Tank roof 80% from center
+TT 6-251-51-111 | TES 6 - Cold Tank N12 - Tank roof 60% from center
+TT 6-251-51-112 | TES 6 - Cold Tank N12 - Tank roof 40% from center
+TT 6-251-51-113 | TES 6 - Cold Tank N12 - Tank roof 20% from center
+TT 6-251-03C1 | TES 6 - Temperature Cold Salt Tank Temp- 345 Deg Position - @ 10% Level
+TT 6-251-03C2 | TES 6 - Temperature Cold Salt Tank Temp- 345 Deg Position - @ 30% Level
+TT 6-251-03C3 | TES 6 - Temperature Cold Salt Tank Temp- 345 Deg Position - @ 50% Level
+TT 6-251-03C4 | TES 6 - Temperature Cold Salt Tank Temp- 345 Deg Position - @ 100% Level
+TT 6-251-32 | TES 6 - Temperature cold salt tank - Pump suction
+TT 6-251-51-201 | TES 6 - Cold Tank N13 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-611 | 2
+TT 6-251-51-202 | TES 6 - Cold Tank N13 - Tank bottom 40 % from center
+TT 6-251-51-203 | TES 6 - Cold Tank N13 - Tank bottom 60 % from center
+TT 6-251-51-204 | TES 6 - Cold Tank N13 - Tank bottom 80 % from center
+TT 6-251-51-205 | TES 6 - Cold Tank N13 - Tank wall 15" above bottom
+TT 6-251-51-206 | TES 6 - Cold Tank N13 - Tank wall 25% above bottom
+TT 6-251-51-207 | TES 6 - Cold Tank N13 - Tank wall 50% above bottom
+TT 6-251-51-208 | TES 6 - Cold Tank N13 - Tank wall 75% above bottom
+TT 6-251-51-209 | TES 6 - Cold Tank N13 - Tank wall 100% above bottom
+TT 6-251-51-210 | TES 6 - Cold Tank N13 - Tank roof 80% from center
+TT 6-251-51-211 | TES 6 - Cold Tank N13 - Tank roof 60% from center
+TT 6-251-51-212 | TES 6 - Cold Tank N13 - Tank roof 40% from center
+TT 6-251-51-213 | TES 6 - Cold Tank N13 - Tank roof 20% from center
+TT 6-251-03B1 | TES 6 - Temperature Cold Salt Tank Temp- 225 Deg Position - @ 10% Level
+TT 6-251-03B2 | TES 6 - Temperature Cold Salt Tank Temp- 225 Deg Position - @ 30% Level
+TT 6-251-03B3 | TES 6 - Temperature Cold Salt Tank Temp- 225 Deg Position - @ 50% Level
+TT 6-251-03B4 | TES 6 - Temperature Cold Salt Tank Temp- 225 Deg Position - @ 100% Level
+TT 6-251-51-301 | TES 6 - Cold Tank N14 - Tank bottom 20 % from center | **-68-71-P251 | 32 - 800 | IJB-250-A1-612 | 2
+TT 6-251-51-302 | TES 6 - Cold Tank N14 - Tank bottom 40 % from center
+TT 6-251-51-303 | TES 6 - Cold Tank N14 - Tank bottom 60 % from center
+TT 6-251-51-304 | TES 6 - Cold Tank N14 - Tank bottom 80 % from center
+TT 6-251-51-305 | TES 6 - Cold Tank N14 - Tank wall 15" above bottom
+TT 6-251-51-306 | TES 6 - Cold Tank N14 - Tank wall 25% above bottom
+TT 6-251-51-307 | TES 6 - Cold Tank N14 - Tank wall 50% above bottom
+TT 6-251-51-308 | TES 6 - Cold Tank N14 - Tank wall 75% above bottom
+TT 6-251-51-309 | TES 6 - Cold Tank N14 - Tank wall 100% above bottom
+TT 6-251-51-310 | TES 6 - Cold Tank N14 - Tank roof 80% from center
+TT 6-251-51-311 | TES 6 - Cold Tank N14 - Tank roof 60% from center
+TT 6-251-51-312 | TES 6 - Cold Tank N14 - Tank roof 40% from center
+TT 6-251-51-313 | TES 6 - Cold Tank N14 - Tank roof 20% from center
+TT 6-251-03A1 | TES 6 - Temperature Cold Salt Tank Temp- 110 Deg Position - @ 10% Level
+TT 6-251-03A2 | TES 6 - Temperature Cold Salt Tank Temp- 110 Deg Position - @ 30% Level
+TT 6-251-03A3 | TES 6 - Temperature Cold Salt Tank Temp- 110 Deg Position - @ 50% Level
+TT 6-251-03A4 | TES 6 - Temperature Cold Salt Tank Temp- 110 Deg Position - @ 100% Level
+Quantity for list 23: Size 2, Qty.= 3, 20 temperature transmitters in each J/B
+All inputs are RTDs
+Notes:
+Burn out high for all of inputs for loss of input signals
+J/B label: 2" x 4"
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 33 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 24]
+Instrument Specification - TES Services - Temperature Transmitter - List 24
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+TES 6
+TT 6-252-51-101 | TES 6 - Hot Tank N12 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-613 | 2
+TT 6-252-51-102 | TES 6 - Hot Tank N12 - Tank bottom 40 % from center
+TT 6-252-51-103 | TES 6 - Hot Tank N12 - Tank bottom 60 % from center
+TT 6-252-51-104 | TES 6 - Hot Tank N12 - Tank bottom 80 % from center
+TT 6-252-51-105 | TES 6 - Hot Tank N12 - Tank wall 15" above bottom
+TT 6-252-51-106 | TES 6 - Hot Tank N12 - Tank wall 25% above bottom
+TT 6-252-51-107 | TES 6 - Hot Tank N12 - Tank wall 50% above bottom
+TT 6-252-51-108 | TES 6 - Hot Tank N12 - Tank wall 75% above bottom
+TT 6-252-51-109 | TES 6 - Hot Tank N12 - Tank wall 100% above bottom
+TT 6-252-51-110 | TES 6 - Hot Tank N12 - Tank roof 80% from center
+TT 6-252-51-111 | TES 6 - Hot Tank N12 - Tank roof 60% from center
+TT 6-252-51-112 | TES 6 - Hot Tank N12 - Tank roof 40% from center
+TT 6-252-51-113 | TES 6 - Hot Tank N12 - Tank roof 20% from center
+TT 6-252-03C1 | TES 6 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 10% Level
+TT 6-252-03C2 | TES 6 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 30% Level
+TT 6-252-03C3 | TES 6 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 50% Level
+TT 6-252-03C4 | TES 6 - Temperature Hot Salt Tank Temp- 345 Deg Position - @ 100% Level
+TT 6-252-32 | TES 6 - Temperature hot salt tank - Pump suction
+TT 6-252-51-201 | TES 6 - Hot Tank N13 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-614 | 2
+TT 6-252-51-202 | TES 6 - Hot Tank N13 - Tank bottom 40 % from center
+TT 6-252-51-203 | TES 6 - Hot Tank N13 - Tank bottom 60 % from center
+TT 6-252-51-204 | TES 6 - Hot Tank N13 - Tank bottom 80 % from center
+TT 6-252-51-205 | TES 6 - Hot Tank N13 - Tank wall 15" above bottom
+TT 6-252-51-206 | TES 6 - Hot Tank N13 - Tank wall 25% above bottom
+TT 6-252-51-207 | TES 6 - Hot Tank N13 - Tank wall 50% above bottom
+TT 6-252-51-208 | TES 6 - Hot Tank N13 - Tank wall 75% above bottom
+TT 6-252-51-209 | TES 6 - Hot Tank N13 - Tank wall 100% above bottom
+TT 6-252-51-210 | TES 6 - Hot Tank N13 - Tank roof 80% from center
+TT 6-252-51-211 | TES 6 - Hot Tank N13 - Tank roof 60% from center
+TT 6-252-51-212 | TES 6 - Hot Tank N13 - Tank roof 40% from center
+TT 6-252-51-213 | TES 6 - Hot Tank N13 - Tank roof 20% from center
+TT 6-252-03B1 | TES 6 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 10% Level
+TT 6-252-03B2 | TES 6 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 30% Level
+TT 6-252-03B3 | TES 6 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 50% Level
+TT 6-252-03B4 | TES 6 - Temperature Hot Salt Tank Temp- 225 Deg Position - @ 100% Level
+TT 6-252-51-301 | TES 6 - Hot Tank N14 - Tank bottom 20 % from center | **-68-71-P253 | 32 - 800 | IJB-250-A1-615 | 2
+TT 6-252-51-302 | TES 6 - Hot Tank N14 - Tank bottom 40 % from center
+TT 6-252-51-303 | TES 6 - Hot Tank N14 - Tank bottom 60 % from center
+TT 6-252-51-304 | TES 6 - Hot Tank N14 - Tank bottom 80 % from center
+TT 6-252-51-305 | TES 6 - Hot Tank N14 - Tank wall 15" above bottom
+TT 6-252-51-306 | TES 6 - Hot Tank N14 - Tank wall 25% above bottom
+TT 6-252-51-307 | TES 6 - Hot Tank N14 - Tank wall 50% above bottom
+TT 6-252-51-308 | TES 6 - Hot Tank N14 - Tank wall 75% above bottom
+TT 6-252-51-309 | TES 6 - Hot Tank N14 - Tank wall 100% above bottom
+TT 6-252-51-310 | TES 6 - Hot Tank N14 - Tank roof 80% from center
+TT 6-252-51-311 | TES 6 - Hot Tank N14 - Tank roof 60% from center
+TT 6-252-51-312 | TES 6 - Hot Tank N14 - Tank roof 40% from center
+TT 6-252-51-313 | TES 6 - Hot Tank N14 - Tank roof 20% from center
+TT 6-252-03A1 | TES 6 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 10% Level
+TT 6-252-03A2 | TES 6 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 30% Level
+TT 6-252-03A3 | TES 6 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 50% Level
+TT 6-252-03A4 | TES 6 - Temperature Hot Salt Tank Temp- 110 Deg Position - @ 100% Level
+Quantity for list 24: Size 2, Qty.= 3, 20 temperature transmitters in each J/B
+All inputs are RTDs
+Notes:
+Burn out high for all of inputs for loss of input signals
+J/B label: 2" x 4"
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 34 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 25HTF]
+Instrument Specification - HTF Services - Temperature Transmitter - List 25
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+HTF
+TT 200-21A | HTF Circulation Motor MP 200A Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200A | 5
+TT 200-22A | HTF Circulation Motor MP 200A Pump NDE Inner BRG. Temperature
+TT 200-23A | HTF Circulation Motor MP 200A Pump NDE Outer BRG. Temperature
+TT 200-24A | HTF Circulation Motor MP 200A Casing Bottom Pump Temperature
+TT 200-25A | HTF Circulation Motor MP 200A Casing Top Pump Temperature
+TT 200-21B | HTF Circulation Motor MP 200B Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200B | 5
+TT 200-22B | HTF Circulation Motor MP 200B Pump NDE Inner BRG. Temperature
+TT 200-23B | HTF Circulation Motor MP 200B Pump NDE Outer BRG. Temperature
+TT 200-24B | HTF Circulation Motor MP 200B Casing Bottom Pump Temperature
+TT 200-25B | HTF Circulation Motor MP 200B Casing Top Pump Temperature
+TT 200-21C | HTF Circulation Motor MP 200C Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200C | 5
+TT 200-22C | HTF Circulation Motor MP 200C Pump NDE Inner BRG. Temperature
+TT 200-23C | HTF Circulation Motor MP 200C Pump NDE Outer BRG. Temperature
+TT 200-24C | HTF Circulation Motor MP 200C Casing Bottom Pump Temperature
+TT 200-25C | HTF Circulation Motor MP 200C Casing Top Pump Temperature
+TT 200-21D | HTF Circulation Motor MP 200D Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200D | 5
+TT 200-22D | HTF Circulation Motor MP 200D Pump NDE Inner BRG. Temperature
+TT 200-23D | HTF Circulation Motor MP 200D Pump NDE Outer BRG. Temperature
+TT 200-24D | HTF Circulation Motor MP 200D Casing Bottom Pump Temperature
+TT 200-25D | HTF Circulation Motor MP 200D Casing Top Pump Temperature
+Quantity for list 25: Size 5, Qty.= 4
+All inputs are RTDs
+Notes:
+Burn out high for loss of signals
+J/B label: 2" x 4"
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 35 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 26 HTF]
+Instrument Specification - HTF Services - Temperature Transmitter - List 26
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+HTF
+TT 200-21E | HTF Circulation Motor MP 200E Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200E | 5
+TT 200-22E | HTF Circulation Motor MP 200E Pump NDE Inner BRG. Temperature
+TT 200-23E | HTF Circulation Motor MP 200E Pump NDE Outer BRG. Temperature
+TT 200-24E | HTF Circulation Motor MP 200E Casing Bottom Pump Temperature
+TT 200-25E | HTF Circulation Motor MP 200E Casing Top Pump Temperature
+TT 200-21F | HTF Circulation Motor MP 200F Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200F | 5
+TT 200-22F | HTF Circulation Motor MP 200F Pump NDE Inner BRG. Temperature
+TT 200-23F | HTF Circulation Motor MP 200F Pump NDE Outer BRG. Temperature
+TT 200-24F | HTF Circulation Motor MP 200F Casing Bottom Pump Temperature
+TT 200-25F | HTF Circulation Motor MP 200F Casing Top Pump Temperature
+TT 200-21G | HTF Circulation Motor MP 200G Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200G | 5
+TT 200-22G | HTF Circulation Motor MP 200G Pump NDE Inner BRG. Temperature
+TT 200-23G | HTF Circulation Motor MP 200G Pump NDE Outer BRG. Temperature
+TT 200-24G | HTF Circulation Motor MP 200G Casing Bottom Pump Temperature
+TT 200-25G | HTF Circulation Motor MP 200G Casing Top Pump Temperature
+TT 200-21H | HTF Circulation Motor MP 200H Pump De BRG. Temperature | **-68-71-P201 | 32 - 392 | IJB-MP-200H | 5
+TT 200-22H | HTF Circulation Motor MP 200H Pump NDE Inner BRG. Temperature
+TT 200-23H | HTF Circulation Motor MP 200H Pump NDE Outer BRG. Temperature
+TT 200-24H | HTF Circulation Motor MP 200H Casing Bottom Pump Temperature
+TT 200-25H | HTF Circulation Motor MP 200H Casing Top Pump Temperature
+TT 200-21J | HTF Circulation Motor MP 200J Pump De BRG. Temperature | **-ANC-68-71-P201 | 32 - 392 | IJB-MP-200J | 5
+TT 200-22J | HTF Circulation Motor MP 200J Pump NDE Inner BRG. Temperature
+TT 200-23J | HTF Circulation Motor MP 200J Pump NDE Outer BRG. Temperature
+TT 200-24J | HTF Circulation Motor MP 200J Casing Bottom Pump Temperature
+TT 200-25J | HTF Circulation Motor MP 200J Casing Top Pump Temperature
+TT 200-21K | HTF Circulation Motor MP 200K Pump De BRG. Temperature | **-ANC-68-71-P201 | 32 - 392 | IJB-MP-200K | 5
+TT 200-22K | HTF Circulation Motor MP 200K Pump NDE Inner BRG. Temperature
+TT 200-23K | HTF Circulation Motor MP 200K Pump NDE Outer BRG. Temperature
+TT 200-24K | HTF Circulation Motor MP 200K Casing Bottom Pump Temperature
+TT 200-25K | HTF Circulation Motor MP 200K Casing Top Pump Temperature
+Quantity for list 26: Size 5, Qty.= 6
+All inputs are RTDs
+Notes:
+Burn out high for loss of signals
+J/B label: 2" x 4"
+Document comment:
+** denoted : All drawings begin with 4521-PLN-ANC. (i.e: **-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 36 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2
+
+[sheet List 27]
+Instrument Specification - HTF Services - Temperature Transmitter - List 27
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+HTF
+TT 1-254-15 | HTF Freeze Protections Pump 1-MP 254 - Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-1-MP-254 | 4
+TT 1-254-16 | HTF Freeze Protections Pump 1-MP 254 - Bearing Temperature - NDE | -58 to 500
+TT 1-254-17 | HTF Freeze Protections Pump 1-MP 254 - Pump Case Bottom | -148 to 1022
+TT 1-254-18 | HTF Freeze Protections Pump 1-MP 254 -Pump Case Top | -148 to 1022
+TT 2-254-15 | HTF Freeze Protections Pump 2-MP 254 - Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-2-MP-254 | 4
+TT 2-254-16 | HTF Freeze Protections Pump 2-MP 254 - Bearing Temperature - NDE | -58 to 500
+TT 2-254-17 | HTF Freeze Protections Pump 2-MP 254 - Pump Case Bottom | -148 to 1022
+TT 2-254-18 | HTF Freeze Protections Pump 2-MP 254 -Pump Case Top | -148 to 1022
+TT 3-254-15 | HTF Freeze Protections Pump 3-MP 254 - Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-3-MP-254 | 4
+TT 3-254-16 | HTF Freeze Protections Pump 3-MP 254 - Bearing Temperature - NDE | -58 to 500
+TT 3-254-17 | HTF Freeze Protections Pump 3-MP 254 - Pump Case Bottom | -148 to 1022
+TT 3-254-18 | HTF Freeze Protections Pump 3-MP 254 -Pump Case Top | -148 to 1022
+TT 4-254-15 | HTF Freeze Protections Pump 4-MP 254 - Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-4-MP-254 | 4
+TT 4-254-16 | HTF Freeze Protections Pump 4-MP 254 - Bearing Temperature - NDE | -58 to 500
+TT 4-254-17 | HTF Freeze Protections Pump 4-MP 254 - Pump Case Bottom | -148 to 1022
+TT 4-254-18 | HTF Freeze Protections Pump 4-MP 254 -Pump Case Top | -148 to 1022
+TT 5-254-15 | HTF Freeze Protections Pump 5-MP 254 - Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-5-MP-254 | 4
+TT 5-254-16 | HTF Freeze Protections Pump 5-MP 254 - Bearing Temperature - NDE | -58 to 500
+TT 5-254-17 | HTF Freeze Protections Pump 5-MP 254 - Pump Case Bottom | -148 to 1022
+TT 5-254-18 | HTF Freeze Protections Pump 5-MP 254 -Pump Case Top | -148 to 1022
+TT 6-254-15 | HTF Freeze Protections Pump 6-MP 254 - Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-6-MP-254 | 4
+TT 6-254-16 | HTF Freeze Protections Pump 6-MP 254 - Bearing Temperature - NDE | -58 to 500
+TT 6-254-17 | HTF Freeze Protections Pump 6-MP 254 - Pump Case Bottom | -148 to 1022
+TT 6-254-18 | HTF Freeze Protections Pump 6-MP 254 -Pump Case Top | -148 to 1022
+Quantity for list 26: Size 4, Qty.= 6
+All inputs are RTDs
+Notes:
+Burn out high for loss of signals
+J/B label: 2" x 4"
+Document comment:
+** denoted : All drawings begin with 4521-PLN. (i.e: **-ANC-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 37 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 1
+
+[sheet List 28]
+Instrument Specification - HTF Services - Temperature Transmitter - List 28
+Temperature | Size
+Range (0 - 100%)
+Tag Number | Service | P&ID | Deg. F | Junction Box
+HTF
+TT 201-11A | HTF Stanby Circulation Motor MP 201A Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-MP-201A | 4
+TT 201-12A | HTF Stanby Circulation Motor MP 201A Bearing Temperature - NDE | -58 to 500
+TT 201-13A | HTF Stanby Circulation Motor MP 201A - Pump Case Bottom | -148 to 1022
+TT 201-14A | HTF Stanby Circulation Motor MP 201A - Pump Case Top | -148 to 1022
+TT 201-21A | HTF Stanby Circulation Motor MP 201A - Bearing (DE) | N/A
+TT 201-22A | HTF Stanby Circulation Motor MP 201A - Bearing (NDE) | N/A
+TT 201-11B | HTF Stanby Circulation Motor MP 201A Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-MP-201B | 4
+TT 201-12B | HTF Stanby Circulation Motor MP 201A Bearing Temperature - NDE | -58 to 500
+TT 201-13B | HTF Stanby Circulation Motor MP 201A - Pump Case Bottom | -148 to 1022
+TT 201-14B | HTF Stanby Circulation Motor MP 201A - Pump Case Top | -148 to 1022
+TT 201-21B | HTF Stanby Circulation Motor MP 201A - Bearing (DE) | N/A
+TT 201-22B | HTF Stanby Circulation Motor MP 201A - Bearing (NDE) | N/A
+TT 204-21A | HTF Filling/Discharge MP 204A Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-MP-204A | 4
+TT 204-22A | HTF Filling/Discharge MP 204A Bearing Temperature - NDE | -58 to 500
+TT 204-23A | HTF Filling/Discharge MP 204A - Pump Case Bottom | -148 to 1022
+TT 204-24A | HTFFilling/Discharge MP 204A - Pump Case Top | -148 to 1022
+TT 204-21B | HTF Filling/Discharge MP 204B Bearing Temperature - DE | **-AGE-68-71-P208 | -58 to 500 | IJB-MP-204B | 4
+TT 204-22B | HTF Filling/Discharge MP 204B Bearing Temperature - NDE | -58 to 500
+TT 204-23B | HTF Filling/Discharge MP 204B - Pump Case Bottom | -148 to 1022
+TT 204-24B | HTFFilling/Discharge MP 204B - Pump Case Top | -148 to 1022
+Quantity for list 28: Size 4, Qty.= 4 ( 2 with 6 transmitter and 2 with 4 transmitter )
+All inputs are RTDs
+Notes:
+Burn out high for loss of signals
+J/B label: 2" x 4"
+Document comment:
+** denoted : All drawings begin with 4521-PLN. (i.e: **-ANC-68-71-P251 = 4521-PLN-ANC-68-71-P251 )
+2 | PGV | May/08//2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+1 | PGV | Jan/06/2012 | For Purchase
+1B | CLR | Dec/01/2011 | For bid
+1A | PGV | Nov/09/2011 | JB list added, JB and TT quantity modified
+0 | PGV | Sept/23/2011 | For bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 38 of 38
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0019 | Rev.: 2

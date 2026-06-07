@@ -1,0 +1,69 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PPI-LOI-039-062-0004-GAR_901 | 0 | 2016-10-17 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document
+By review TCS data box | C:\Users\agmbo\Desktop\Passo xLH\[4521-PPI-LOI-039-062-0004-GAR_901.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521-PPI-LOI-039-062-0004-GAR_901
+4521-PPI-LOI-039-062-0004-GAR | 0 | 4521-TMT-AEE-AEPC-0004 | 2016-10-17 00:00:00
+Input data | Used
+-
+-
+-
+Assumptions:
+-
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PPI-LOI-039-062-0004-GAR | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PPI-LOI-039-062-0004-GAR_901 | 0 | 2016-10-17 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

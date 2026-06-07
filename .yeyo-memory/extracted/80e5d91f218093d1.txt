@@ -1,0 +1,623 @@
+[sheet Cover Sheet ]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Instrument Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0004
+Thermal Energy Storage (TES) Area | Item No.: | No. Req'd:
+HTF, Molten Salt, Nitrogen Services | Project: | Solana
+Pressure Transmitters | Ref.: | Issue: | 5 | Dated: | Jul/02/2012
+Instructions:
+1. | Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be
+included on all pages.
+2. | Revisions are identified in the body of the Specification.
+Rev. | Description of Revision
+No. | Date | By | Chk’d | App’d | with Page Numbers
+0 | Apr/01/2011 | PGV | CLR | PQJ | Issue for Bid
+1.A | Jul/20/2011 | VRG | CLR | PQJ | For P&ID review 5
+1 | Oct/10/2011 | PGV | JHR | PQJ | For Bid
+2 | Dec/21/2011 | PGV | JHR | PQJ | For Purchase
+3 | Jan/24/2012 | PGV | JHR | PQJ | For Purchase
+4 | Feb/08/2012 | PGV | JHR | PQJ | For Purchase
+5 | Jul/02/2012 | PGV | JHR | PQJ | For Purchase
+5 | Jul/02/2012 | PGV | JHR | PQJ | For Purchase
+4 | Feb/08/2012 | PGV | JHR | PQJ | For Purchase
+3 | Jan/24/2012 | PGV | JHR | PQJ | For Purchase
+2 | Dec/21/2011 | PGV | JHR | PQJ | For Purchase
+1 | Oct/10/2011 | PGV | JHR | PQJ | For Bid
+0 | Apr/01/2011 | PGV | CLR | PQJ | Issue for Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 2]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Instrument Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0004
+Thermal Energy Storage (TES) Area | Item No.: | No. Req'd:
+HTF, Molten Salt, Nitrogen Services | Project: | Solana
+Pressure Transmitters | Ref.: | Issue: | 5 | Dated: | Jul/02/2012
+1. General 1.1 This specification describes the scope of work for supply of all instruments as listed in this request for quote needed for the project. 1.2 Definitions 1.2.1 "Supplier" shall mean the instrument supply company chosen for the project. 1.2.2 "Customer" shall mean Abener Teyma. 1.2.3 "Fabricator" or "fabricators" shall mean any instrument assembly shop subcontracted by Abener Teyma (if applicable). 1.2.4 "Owner" shall mean Abengoa Solar Inc. 1.3 The attachments identified in this document are considered part of this specification and Supplier shall be bound to adhere to these specifications. Any specifications attached shall be met and followed by Supplier in full. All drawings and documents included in this package are considered "Contract Documents". 1.4 The imperative language of this specification is directed to the Supplier, unless specifically noted otherwise. Supplier shall perform all work described unless other parties are specifically identified as performing the work. All directives such as "provide", "install", "perform", "test", etc., are addressed solely to the Supplier, whether or not the word "Supplier" is specifically mentioned. Work included for others will be specifically identified. 1.5 English/ U.S. units shall be used on all drawings, calculations and any other documentation submitted by Supplier. 2. Scope 2.1 Scope of this contract is supply of instruments as outlined in the following Instrument Specifications required for the project including all cables, gasket, manifolds … etc as identified in the main specification as options or accessories. Shipping schedule to be confirm with purchasing during the final commercial agreement 2.2 Packaging - To be defined later. 2.3 Labeling, tagging: Specific labeling /tagging requirements to be defined later. 2.4 Supplier shall be responsible for delivery of all material to Abener Teyma selected Fabricator(s) and/or project jobsite. Fabricator(s) will notify Supplier of material required on an as needed basis. Shipments to Fabricator or jobsite should be scheduled to ensure a full load will be delivered in order to reduce transportation costs . 2.5 The following items are excluded from this subcontract: " " " 2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract. This person should be available for update meetings in Abener Teyma St. Louis office (if necessary) and/or via teleconference. It is the Supplier's sole responsibility to track and document all material within the scope of this contract.
+5 | Jul/02/2012 | PGV | JHR | PQJ | For Purchase
+4 | Feb/08/2012 | PGV | JHR | PQJ | For Purchase
+3 | Jan/24/2012 | PGV | JHR | PQJ | For Purchase
+2 | Dec/21/2011 | PGV | JHR | PQJ | For Purchase
+1 | Oct/10/2011 | PGV | JHR | PQJ | For Bid
+0 | Apr/01/2011 | PGV | CLR | PQJ | Issue for Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Cover Sheet 3]
+ABENER TEYMA SOLANA | RFQ No.: | AG ENGINEERING
+Instrument Specification | Job: | 120006 | Spec No.: | 4521-ESP-AGE-39-70-0004
+Thermal Energy Storage (TES) Area | Item No.: | No. Req'd:
+HTF, Molten Salt, Nitrogen Services | Project: | Solana
+Pressure Transmitters | Ref.: | Issue: | 5 | Dated: | Jul/02/2012
+3. Quality 3.1 All material shall be supplied to meet all dimensional, quality, marking and stamping, and all other requirements for all NEC, IEEE, UL …. etc standards listed in instrument specifications. Any material not meeting these standards will be returned and replaced at Supplier's expense. Notice: o Your commitment to supply all the required vendor data as promised is crucial to the progress of this project. The attached vendor data requirements reflects when we need our documentation. Please complete the second column of this form entitled "Vendor Commitment" showing number of weeks after order for date of submittal, and include with your proposal. Failure to comply may result in rejection of your bid. o Your quotation must state time required to submit approval drawings and the time required to fabricate after drawing approval is received. o Equipment is to be delivered to purchaser's manufacturing site with specific locations to be released later. o Shipment is required by a strict delivery schedule to be finalized at the time the final contract is materialized, the best estimated shipping date Mach 2012. o For the equipment on this quote, a list of recommended spare parts for one year's normal maintenance with price and delivery for each item is required. Also indicate any savings or discounts which may be offered if the spares are purchased for delivery with the equipment order. We need this information with the quotation, in order for our client to have spares available during start-up and to take advantage of any economies available. o The equipment and components covered by this quotation, including any field erection that may be involved, will be subject to inspection by Abener Teyma personnel prior to shipment to assure compliance with specifications. o Abener Teyma reserves the right to perform inspection activities before and during fabrication, and prior to shipment, if desired. Contact Rick Carlton, e-mail rick.carlton@abener.abengoa.com at (314) 275-1323 for details. o We solicit your recommendations that may improve the price, delivery or performance. The vendor is invited to quote as an alternate, changes in physical dimensions, modifications to the design, prefabrication, stock or manufacturer's standard equipment that would reduce the initial or maintenance cost and/or improve overall quality of the premise. Alternate quotations shall be listed as such in the proposal specifying the alternate and price and delivery for that alternate. The purchase will, in general, be made on a basis of adherence to the original design premise, economic value, and best delivery. o The attached specifications were prepared using accepted engineering practices, approved technical standards (ASME, ASTM, AWS, etc.) as well as meeting EPA Environmental and OSHA safety regulations. It is expected that if, during your review of these specifications, you find needed corrections, changes, or alterations that you bring these to our attention. Further, if you do not clearly understand the specifications, you must request clarification. Give priority to pricing standard equipment and components. o Unless specified to the contrary in the technical specifications, the following preparations for shipment apply: o After inspection and testing, equipment shall be completely free of water, dried and prepared for shipment. Adequate protection shall be provided against mechanical damage and atmospheric corrosion in transit, and for at least six (6) months outdoor storage. o All openings shall be covered, securely fastened and suitable for prolonged exposure prior to final installation.
+5 | Jul/02/2012 | PGV | JHR | PQJ | For Purchase
+4 | Feb/08/2012 | PGV | JHR | PQJ | For Purchase
+3 | Jan/24/2012 | PGV | JHR | PQJ | For Purchase
+2 | Dec/21/2011 | PGV | JHR | PQJ | For Purchase
+1 | Oct/10/2011 | PGV | JHR | PQJ | For Bid
+0 | Apr/01/2011 | PGV | CLR | PQJ | Issue for Bid
+No. | Date | By | Chk'd | App'd | App'd | Description
+Notice of Alternate Billing Cycle: This contract allows the owner to require the submission of billing or estimates in billing cycle other than thirty days. A written description of such other billing cycle application to the project is available from the owners designated agent Teyma USA & Abener Engineering and Construction Services General Partnership at 4505 E. Chandler Blvd, Suite 130, Phoenix Arizona, 85048 and the owner's designated agent shall provide this written descriptin on request.
+Information and know-how hereon are confidential and proprietary and may not be used, reproduced, or revealed to others except in accordance with the terms of a contract with or written permission of the Teyma USA & Abener Engineering and Construction Services General Partnership. Any reproductions in whole or part including shop drawings shall bear this stamp.
+Specification Form - Solana (Rev. 3/2011) | EC-98
+
+[sheet Index]
+Sheet | Title | Revision
+1 | Cover | 5
+2 | General Notes and Instructions | 5
+3 | General Notes and Instructions | 5
+4 | Index | 5
+5 | Instrument Specification-TES Service-Pressure Transmitters HTF | 5
+6 | Instrument Specification-TES Service-Pressure Transmitters HTF List | 5
+7 | Instrument Specification-TES Service-Pressure Transmitters HTF List-Purchase information | 5
+8 | Instrument Specification-TES Service-Pressure Transmitters Molten Salt | 5
+9 | Instrument Specification-TES Service-Pressure Transmitters Molten Salt List I | 5
+10 | Instrument Specification-TES Service-Pressure Transmitters Molten Salt List I-Purchase information | 5
+11 | Instrument Specification-TES Service-Pressure Transmitters Molten Salt List II | 5
+12 | Instrument Specification-TES Service-Pressure Transmitters Molten Salt List II-Purchase information | 5
+13 | Instrument Specification-TES Service-Pressure Transmitters Molten Salt List III | 5
+14 | Instrument Specification-TES Service-Pressure Transmitters Molten Salt List III-Purchase information | 5
+15 | Instrument Specification-TES Service-Pressure Transmitters Nitrogen | 5
+16 | Instrument Specification-TES Service-Pressure Transmitters Nitrogen List I | 5
+17 | Instrument Specification-TES Service-Pressure Transmitters Nitrogen List I-Purchase information | 5
+5 | PGV | Jul/02/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 4 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet HTF Press. Trans. Specs.]
+Instrument Specification - TES Area - HTF Pressure Transmitters
+General | 1 | Tag number | See " HTF Pressure Transmitter List"
+2 | Service | Cold / Hot Heat Transfer Fluid - HTF
+3 | P&ID | See " HTF Pressure Transmitter List"
+4 | Line | See " HTF Pressure Transmitter List"
+5 | Quantity | See " HTF Pressure Transmitter List"
+Process Conditions | 6 | Fluid | Phase | HTF | Liquid
+7 | Design Pressure | 500 psig
+8 | Design Temperature | 750 Deg. F
+Sensor and Body | 9 | Maximum Measuring Range | See Note 1
+10 | Instrument type | Pressure Transmitter
+11 | Type of measurement | Absolute Pressure
+12 | Calibration Range | See " HTF Pressure Transmitter List"
+13 | Accuracy | ± 0.1% Of Calibrated Span
+14 | Overpressure | 1.5
+15 | Zero Adjustment | Span Adjustment | Yes | Yes
+16 | Element Type | Piezorresistive sensor
+17 | Diaphragm Material | 316 SSL
+18 | Body Material | 316 SS
+19 | Fill fluid | See Important Note 2
+20 | Bolts / Gasket | Yes / Yes
+21 | Process connection | Per vendor also see Accessories / Process connection
+Transmitter | 22 | Housing | Aluminium
+23 | Electrical connection | 1/2" NPT
+24 | Enclosure Protection | NEMA 4
+25 | Output signal | Resistance | 4-20 mA + HART | 500 Ohm
+26 | Type / Power Supply | 2-Wire / 24 VDC
+27 | Hazardous Area Classification | Class I, Division II
+28 | Local Display | Yes
+29 | Environmental Conditions | 22 Deg. F - 125 Deg. F
+30 | Special Environment Conditions -Solar radiation (DNI) | 1,008 W/m2 - See Note 3
+Accessories | 31 | Mounting Accesories | NA
+32 | Instrument tag | 316SS 2" * 4"
+33 | Process Connection | Fill Fluid | 2" Diaphragm Seal - ANSI 300 - RF | See Important Note 2
+34 | Thermal Extender | Material | Yes - Length 8" to 10" | 316 SS
+35 | Flushing ring: Size /Mat'l/ Body Class / Drain Port Size | 2" /316-SS / ANSI 300 / 1/2" - 3/4"
+36 | Manifold type | NA
+37 | Manifold connections | NA
+38 | Direct mounting | Yes
+39 | Sun shield | Vendor to provide cost est. for this option
+Purchasing | 40 | Manufacturer | ABB
+41 | Transmitter Model # | See sheet 7
+42 | Chem seal | See sheet 7
+43 | Sun shield P/N: | NA
+Notes: (1) Q Capsule = 1150 psig. (2) Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F (3) DNI (Daily Normal Irradiance) solar radiation energy created thermal accumulation based on the exposed area to environment .
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - Change as Noted
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 5 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet HTF Press. Trans. List]
+Instrument Specification - TES Area - HTF Pressure Transmitters List
+Item # | Instrument Tag | Service | Calibration (psig) | P&ID | Process Line # | Note
+HTF - 1 | PIT 1-251-39 | HTF Pressure - Cold Side - Between Filter & HEX - TES-1 | (-)14.7 - (+)335.3 | ♦♦ P252 | 252-HTF-14A-SS38-24"
+HTF - 2 | PIT 2-251-39 | HTF Pressure - Cold Side - Between Filter & HEX - TES-2 | (-)14.7 - (+)335.3 | ♦♦ P262 | 252-HTF-14B-SS38-24"
+HTF - 3 | PIT 3-251-39 | HTF Pressure - Cold Side - Between Filter & HEX - TES-3 | (-)14.7 - (+)335.3 | ♦♦ P265 | 252-HTF-14C-SS38-24"
+HTF - 4 | PIT 4-251-39 | HTF Pressure - Cold Side - Between Filter & HEX - TES-4 | (-)14.7 - (+)335.3 | ♦♦ P268 | 252-HTF-14D-SS38-24"
+HTF - 5 | PIT 5-251-39 | HTF Pressure - Cold Side - Between Filter & HEX - TES-5 | (-)14.7 - (+)335.3 | ♦♦ P271 | 252-HTF-14E-SS38-24"
+HTF - 6 | PIT 6-251-39 | HTF Pressure - Cold Side - Between Filter & HEX - TES-6 | (-)14.7 - (+)335.3 | ♦♦ P274 | 252-HTF-14F-SS38-24"
+HTF - 7 | PIT 1-251-40 | HTF Pressure - Cold Side of Main Heat Exchanger- TES-1 | (-)14.7 - (+)335.3 | ♦♦ P252 | 252-HTF-10A-CS30-20"
+HTF - 8 | PIT 2-251-40 | HTF Pressure - Cold Side of Main Heat Exchanger- TES-2 | (-)14.7 - (+)335.3 | ♦♦ P262 | 252-HTF-10B-CS30-20"
+HTF - 9 | PIT 3-251-40 | HTF Pressure - Cold Side of Main Heat Exchanger- TES-3 | (-)14.7 - (+)335.3 | ♦♦ P265 | 252-HTF-10C-CS30-20"
+HTF - 10 | PIT 4-251-40 | HTF Pressure - Cold Side of Main Heat Exchanger- TES-4 | (-)14.7 - (+)335.3 | ♦♦ P268 | 252-HTF-10D-CS30-20"
+HTF - 11 | PIT 5-251-40 | HTF Pressure - Cold Side of Main Heat Exchanger- TES-5 | (-)14.7 - (+)335.3 | ♦♦ P271 | 252-HTF-10E-CS30-20"
+HTF - 12 | PIT 6-251-40 | HTF Pressure - Cold Side of Main Heat Exchanger- TES-6 | (-)14.7 - (+)335.3 | ♦♦ P274 | 252-HTF-10F-CS30-20"
+HTF - 13 | PIT 1-251-41 | HTF Pressure - Hot Side of Main Heat Exchanger- TES-1 | (-)14.7 - (+)335.3 | ♦♦ P252 | 210-HTF-05-CS30-20"
+HTF - 14 | PIT 2-251-41 | HTF Pressure - Hot Side of Main Heat Exchanger- TES-2 | (-)14.7 - (+)335.3 | ♦♦ P262 | 210-HTF-06-CS30-20"
+HTF - 15 | PIT 3-251-41 | HTF Pressure - Hot Side of Main Heat Exchanger- TES-3 | (-)14.7 - (+)335.3 | ♦♦ P265 | 211-HTF-26-CS30-20"
+HTF - 16 | PIT 4-251-41 | HTF Pressure - Hot Side of Main Heat Exchanger- TES-4 | (-)14.7 - (+)335.3 | ♦♦ P268 | 211-HTF-27-CS30-20"
+HTF - 17 | PIT 5-251-41 | HTF Pressure - Hot Side of Main Heat Exchanger- TES-5 | (-)14.7 - (+)335.3 | ♦♦ P271 | 212-HTF-05-CS30-20"
+HTF - 18 | PIT 6-251-41 | HTF Pressure - Hot Side of Main Heat Exchanger- TES-6 | (-)14.7 - (+)335.3 | ♦♦ P274 | 212-HTF-06-CS30-20"
+HTF - 19 | PIT 1-251-42 | HTF Pressure - Hot Side - Between Filter & HEX - TES-1 | (-)14.7 - (+)335.3 | ♦♦ P252 | 252-HTF-13A-SS38-24"
+HTF - 20 | PIT 2-251-42 | HTF Pressure - Hot Side - Between Filter & HEX - TES-2 | (-)14.7 - (+)335.3 | ♦♦ P262 | 252-HTF-13B-SS38-24"
+HTF - 21 | PIT 3-251-42 | HTF Pressure - Hot Side - Between Filter & HEX - TES-3 | (-)14.7 - (+)335.3 | ♦♦ P265 | 252-HTF-13C-SS38-24"
+HTF - 22 | PIT 4-251-42 | HTF Pressure - Hot Side - Between Filter & HEX - TES-4 | (-)14.7 - (+)335.3 | ♦♦ P268 | 252-HTF-13D-SS38-24"
+HTF - 23 | PIT 5-251-42 | HTF Pressure - Hot Side - Between Filter & HEX - TES-5 | (-)14.7 - (+)335.3 | ♦♦ P271 | 252-HTF-13E-SS38-24"
+HTF - 24 | PIT 6-251-42 | HTF Pressure - Hot Side - Between Filter & HEX - TES-6 | (-)14.7 - (+)335.3 | ♦♦ P274 | 252-HTF-13F-SS38-24"
+♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - No change on this page
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 6 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet HTF Press. Trans. List (2)]
+Instrument Specification - TES Area - HTF Pressure Transmitters List - Purchase information
+Item # | Instrument Tag | Model Number | Chem Seal & Flushing Ring Number
+HTF - 1 | PIT 1-251-39 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 2 | PIT 2-251-39 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 3 | PIT 3-251-39 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 4 | PIT 4-251-39 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 5 | PIT 5-251-39 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 6 | PIT 6-251-39 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 7 | PIT 1-251-40 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 8 | PIT 2-251-40 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 9 | PIT 3-251-40 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 10 | PIT 4-251-40 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 11 | PIT 5-251-40 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 12 | PIT 6-251-40 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 13 | PIT 1-251-41 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 14 | PIT 2-251-41 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 15 | PIT 3-251-41 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 16 | PIT 4-251-41 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 17 | PIT 5-251-41 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 18 | PIT 6-251-41 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 19 | PIT 1-251-42 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 20 | PIT 2-251-42 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 21 | PIT 3-251-42 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 22 | PIT 4-251-42 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 23 | PIT 5-251-42 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+HTF - 24 | PIT 6-251-42 | 266NRH.Q.R.R.A.1.E6.L1.B1..I2…H3 | S26FA.H.E2.S.F.SM.2.A.E.S.3.A.E + SR 11090
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - New sheet added | Solana power plant
+Rev | By | Date | Description | Sheet: | 7 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet TES Press. Trans. Specs]
+Instrument Specification - TES Area - Molten Salt (MS) Pressure Transmitters
+General | 1 | Tag number | See " MS Pressure Transmitter List"
+2 | Service | Cold / Hot Molten Salt - MS
+3 | P&ID | See " MS Pressure Transmitter List"
+4 | Line | See " MS Pressure Transmitter List"
+5 | Quantity | See " MS Pressure Transmitter List"
+Process Conditions | 6 | Fluid | Phase | MS | Liquid
+7 | Design Pressure | 300 psig
+8 | Design Temperature | 750 Deg. F
+Sensor and Body | 9 | Maximum Measuring Range | See Note 1
+10 | Instrument type | Pressure Transmitter
+11 | Type of measurement | Absolute Pressure
+12 | Calibration Range | See "MS Pressure Transmitter List"
+13 | Accuracy | ± 0.1% Of Calibrated Span
+14 | Overpressure | 1.5
+15 | Zero Adjustment | Span Adjustment | Yes | Yes
+16 | Element Type | Piezorresistive sensor
+17 | Diaphragm Material | 316 SSL
+18 | Body Material | 316 SS
+19 | Fill fluid | See Important Note 2
+20 | Bolts / Gasket | Yes / Yes ( See Note 4)
+21 | Process connection | Per vendor also see Accessories / Process connection
+Transmitter | 22 | Housing | Aluminium
+23 | Electrical connection | 1/2" NPT
+24 | Enclosure Protection | NEMA 4
+25 | Output signal | Resistance | 4-20 mA + HART | 500 Ohm
+26 | Type / Power Supply | 2-Wire / 24 VDC
+27 | Hazardous Area Classification | Class I, Division II
+28 | Local Display | Yes
+29 | Environmental Conditions | 22 Deg. F - 125 Deg. F
+30 | Special Environment Conditions -Solar radiation (DNI) | 1,008 W/m2 - See Note 3
+Accessories | 31 | Mounting Accesories | NA
+32 | Instrument tag | 316SS 2" * 4"
+33 | Process Connection | Fill Fluid | 4" Diaphragm Seal - ANSI 300 - RTJ | See Important Note 2
+34 | Thermal Extender | Material | Yes - Length 8" to 10" | 316 SS
+35 | Flushing ring Body Class | NA
+36 | Manifold type | NA
+37 | Manifold connections | NA
+38 | Direct mounting | Yes
+39 | Sun shield | Vendor to provide cost est. for this option
+40 | Bolt / Gasket | Yes - see note 4
+Purchasing | 40 | Manufacturer | ABB
+41 | Transmitter Model # | See sheet 10 & 12
+42 | Chem seal | See sheet 10 & 12
+43 | Sun shield P/N: | NA
+Notes: (1) P Capsule = 348 psig. (2) Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F (3) DNI (Daily Normal Irradiance) solar radiation energy created thermal accumulation based on the exposed area to environment . (4) Vendor to provide a set of bolts and gasket with construction materials as detailed below: Bolt: ASTM A193 Gr. B7 - Prefered upgrade option ASTM A193 Gr. B8R with ASTM A 194 Gr. 8R Heavy duty Hex nuts. Gasket: Metallic, sealed spiral wound. Non encapsulated graphite materials are strictly prohibited.
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - Change as Noted
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 8 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet TES Press. Trans. List I]
+Instrument Specification - TES Area - Molten Salt (MS) Pressure Transmitters List 1
+Item # | Instrument Tag | Service | Calibration (psig) | P&ID | Process Line # | Note
+MS - 1 | PIT 1-251-19A | Cold Salt Pump Outlet Pressure - Primary - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P251 | 251-MS-01A-CS31-20"
+MS - 2 | PIT 2-251-19A | Cold Salt Pump Outlet Pressure - Primary - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P261 | 251-MS-01B-CS31-20"
+MS - 3 | PIT 3-251-19A | Cold Salt Pump Outlet Pressure - Primary - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P264 | 251-MS-01C-CS31-20"
+MS - 4 | PIT 4-251-19A | Cold Salt Pump Outlet Pressure - Primary - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P267 | 251-MS-01D-CS31-20"
+MS - 5 | PIT 5-251-19A | Cold Salt Pump Outlet Pressure - Primary - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P270 | 251-MS-01E-CS31-20"
+MS - 6 | PIT 6-251-19A | Cold Salt Pump Outlet Pressure - Primary - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P273 | 251-MS-01F-CS31-20"
+MS - 7 | PIT 1-251-19B | Cold Salt Pump Outlet Pressure - Backup - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P251 | 251-MS-01A-CS31-20"
+MS - 8 | PIT 2-251-19B | Cold Salt Pump Outlet Pressure - Backup - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P261 | 251-MS-01B-CS31-20"
+MS - 9 | PIT 3-251-19B | Cold Salt Pump Outlet Pressure - Backup - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P264 | 251-MS-01C-CS31-20"
+MS - 10 | PIT 4-251-19B | Cold Salt Pump Outlet Pressure - Backup - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P267 | 251-MS-01D-CS31-20"
+MS - 11 | PIT 5-251-19B | Cold Salt Pump Outlet Pressure - Backup - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P270 | 251-MS-01E-CS31-20"
+MS - 12 | PIT 6-251-19B | Cold Salt Pump Outlet Pressure - Backup - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P273 | 251-MS-01F-CS31-20"
+MS - 13 | PIT 1-251-20A | Salt Pressure Cold Side - Before Filter - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P252 | 252-MS-01A-CS31-20"
+MS - 14 | PIT 2-251-20A | Salt Pressure Cold Side - Before Filter - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P262 | 252-MS-01B-CS31-20"
+MS - 15 | PIT 3-251-20A | Salt Pressure Cold Side - Before Filter - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P265 | 252-MS-01C-CS31-20"
+MS - 16 | PIT 4-251-20A | Salt Pressure Cold Side - Before Filter - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P268 | 252-MS-01D-CS31-20"
+MS - 17 | PIT 5-251-20A | Salt Pressure Cold Side - Before Filter - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P271 | 252-MS-01E-CS31-20"
+MS - 18 | PIT 6-251-20A | Salt Pressure Cold Side - Before Filter - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P274 | 252-MS-01F-CS31-20"
+MS - 19 | PIT 1-251-20B | Salt Pressure Cold Side - Btw. Filter & HEX - Primary - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P252 | 252-MS-03A-SS37-24"
+MS - 20 | PIT 2-251-20B | Salt Pressure Cold Side - Btw. Filter & HEX - Primary - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P262 | 252-MS-03B-SS37-24"
+MS - 21 | PIT 3-251-20B | Salt Pressure Cold Side - Btw. Filter & HEX - Primary - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P265 | 252-MS-03C-SS37-24"
+MS - 22 | PIT 4-251-20B | Salt Pressure Cold Side - Btw. Filter & HEX - Primary - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P268 | 252-MS-03D-SS37-24"
+MS - 23 | PIT 5-251-20B | Salt Pressure Cold Side - Btw. Filter & HEX - Primary - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P271 | 252-MS-03E-SS37-24"
+MS - 24 | PIT 6-251-20B | Salt Pressure Cold Side - Btw. Filter & HEX - Primary - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P274 | 252-MS-03F-SS37-24"
+MS - 25 | PIT 1-251-20C | Salt Pressure Cold Side - Btw. Filter & HEX - Backup - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P252 | 252-MS-03A-SS37-24"
+MS - 26 | PIT 2-251-20C | Salt Pressure Cold Side - Btw. Filter & HEX - Backup - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P262 | 252-MS-03B-SS37-24"
+MS - 27 | PIT 3-251-20C | Salt Pressure Cold Side - Btw. Filter & HEX - Backup - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P265 | 252-MS-03C-SS37-24"
+MS - 28 | PIT 4-251-20C | Salt Pressure Cold Side - Btw. Filter & HEX - Backup - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P268 | 252-MS-03D-SS37-24"
+MS - 29 | PIT 5-251-20C | Salt Pressure Cold Side - Btw. Filter & HEX - Backup - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P271 | 252-MS-03E-SS37-24"
+MS - 30 | PIT 6-251-20C | Salt Pressure Cold Side - Btw. Filter & HEX - Backup - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P274 | 252-MS-03F-SS37-24"
+♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - No change on this page
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 9 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet TES Press. Trans. List I (2)]
+Instrument Specification - TES Area - Molten Salt (MS) Pressure Transmitters List 1 - Purchase information
+Item # | Instrument Tag | Model Number | Chem Seal & without Flushing Ring Number
+MS - 1 | PIT 1-251-19A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 2 | PIT 2-251-19A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 3 | PIT 3-251-19A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 4 | PIT 4-251-19A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 5 | PIT 5-251-19A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 6 | PIT 6-251-19A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 7 | PIT 1-251-19B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 8 | PIT 2-251-19B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 9 | PIT 3-251-19B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 10 | PIT 4-251-19B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 11 | PIT 5-251-19B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 12 | PIT 6-251-19B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 13 | PIT 1-251-20A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 14 | PIT 2-251-20A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 15 | PIT 3-251-20A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 16 | PIT 4-251-20A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 17 | PIT 5-251-20A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 18 | PIT 6-251-20A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 19 | PIT 1-251-20B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 20 | PIT 2-251-20B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 21 | PIT 3-251-20B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 22 | PIT 4-251-20B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 23 | PIT 5-251-20B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 24 | PIT 6-251-20B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 25 | PIT 1-251-20C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 26 | PIT 2-251-20C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 27 | PIT 3-251-20C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H4 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 28 | PIT 4-251-20C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H5 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 29 | PIT 5-251-20C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H6 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 30 | PIT 6-251-20C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+5 | PGV | Jul/02/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - New sheet added | Solana power plant
+Rev | By | Date | Description | Sheet: | 10 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet TES Press. Trans. List II]
+Instrument Specification - TES Area - Molten Salt (MS) Pressure Transmitters List 2
+Item # | Instrument Tag | Service | Calibration (psig) | P&ID | Process Line # | Note
+MS - 31 | PIT 1-252-09A | Hot Salt Pump Outlet Pressure - Primary - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P253 | 253-MS-01A-CS31-20"
+MS - 32 | PIT 2-252-09A | Hot Salt Pump Outlet Pressure - Primary - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P263 | 253-MS-01B-CS31-20"
+MS - 33 | PIT 3-252-09A | Hot Salt Pump Outlet Pressure - Primary - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P266 | 253-MS-01C-CS31-20"
+MS - 34 | PIT 4-252-09A | Hot Salt Pump Outlet Pressure - Primary - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P269 | 253-MS-01D-CS31-20"
+MS - 35 | PIT 5-252-09A | Hot Salt Pump Outlet Pressure - Primary - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P272 | 253-MS-01E-CS31-20"
+MS - 36 | PIT 6-252-09A | Hot Salt Pump Outlet Pressure - Primary - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P275 | 253-MS-01F-CS31-20"
+MS - 37 | PIT 1-252-09B | Hot Salt Pump Outlet Pressure - Backup - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P253 | 253-MS-01A-CS31-20"
+MS - 38 | PIT 2-252-09B | Hot Salt Pump Outlet Pressure - Backup - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P263 | 253-MS-01B-CS31-20"
+MS - 39 | PIT 3-252-09B | Hot Salt Pump Outlet Pressure - Backup - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P266 | 253-MS-01C-CS31-20"
+MS - 40 | PIT 4-252-09B | Hot Salt Pump Outlet Pressure - Backup - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P269 | 253-MS-01D-CS31-20"
+MS - 41 | PIT 5-252-09B | Hot Salt Pump Outlet Pressure - Backup - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P272 | 253-MS-01E-CS31-20"
+MS - 42 | PIT 6-252-09B | Hot Salt Pump Outlet Pressure - Backup - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P275 | 253-MS-01F-CS31-20"
+MS - 43 | PIT 1-251-10A | Salt Pressure Hot Side - Before Filter - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P252 | 253-MS-01A-CS31-20"
+MS - 44 | PIT 2-251-10A | Salt Pressure Hot Side - Before Filter - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P262 | 253-MS-01B-CS31-20"
+MS - 45 | PIT 3-251-10A | Salt Pressure Hot Side - Before Filter - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P265 | 253-MS-01C-CS31-20"
+MS - 46 | PIT 4-251-10A | Salt Pressure Hot Side - Before Filter - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P268 | 253-MS-01D-CS31-20"
+MS - 47 | PIT 5-251-10A | Salt Pressure Hot Side - Before Filter - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P271 | 253-MS-01E-CS31-20"
+MS - 48 | PIT 6-251-10A | Salt Pressure Hot Side - Before Filter - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P274 | 253-MS-01F-CS31-20"
+MS - 49 | PIT 1-251-10B | Salt Pressure Hot Side - Btw. Filter & HEX - Primary - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P252 | 252-MS-04A-SS37-24"
+MS - 50 | PIT 2-251-10B | Salt Pressure Hot Side - Btw. Filter & HEX - Primary - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P262 | 252-MS-04B-SS37-24"
+MS - 51 | PIT 3-251-10B | Salt Pressure Hot Side - Btw. Filter & HEX - Primary - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P265 | 252-MS-04C-SS37-24"
+MS - 52 | PIT 4-251-10B | Salt Pressure Hot Side - Btw. Filter & HEX - Primary - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P268 | 252-MS-04D-SS37-24"
+MS - 53 | PIT 5-251-10B | Salt Pressure Hot Side - Btw. Filter & HEX - Primary - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P271 | 252-MS-04E-SS37-24"
+MS - 54 | PIT 6-251-10B | Salt Pressure Hot Side - Btw. Filter & HEX - Primary - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P274 | 252-MS-04F-SS37-24"
+MS - 55 | PIT 1-251-10C | Salt Pressure Hot Side - Btw. Filter & HEX - Backup - TES-1 | (-)14.7 - (+)185.3 | ♦♦ P252 | 252-MS-04A-SS37-24"
+MS - 56 | PIT 2-251-10C | Salt Pressure Hot Side - Btw. Filter & HEX - Backup - TES-2 | (-)14.7 - (+)185.3 | ♦♦ P262 | 252-MS-04B-SS37-24"
+MS - 57 | PIT 3-251-10C | Salt Pressure Hot Side - Btw. Filter & HEX - Backup - TES-3 | (-)14.7 - (+)185.3 | ♦♦ P265 | 252-MS-04C-SS37-24"
+MS - 58 | PIT 4-251-10C | Salt Pressure Hot Side - Btw. Filter & HEX - Backup - TES-4 | (-)14.7 - (+)185.3 | ♦♦ P268 | 252-MS-04D-SS37-24"
+MS - 59 | PIT 5-251-10C | Salt Pressure Hot Side - Btw. Filter & HEX - Backup - TES-5 | (-)14.7 - (+)185.3 | ♦♦ P271 | 252-MS-04E-SS37-24"
+MS - 60 | PIT 6-251-10C | Salt Pressure Hot Side - Btw. Filter & HEX - Backup - TES-6 | (-)14.7 - (+)185.3 | ♦♦ P274 | 252-MS-04F-SS37-24"
+♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 11 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet TES Press. Trans. List II (2)]
+Instrument Specification - TES Area - Molten Salt (MS) Pressure Transmitters List 2 - Purchase information
+Item # | Instrument Tag | Model Number | Chem Seal & without Flushing Ring Number
+MS - 31 | PIT 1-252-09A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 32 | PIT 2-252-09A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 33 | PIT 3-252-09A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H4 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 34 | PIT 4-252-09A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H5 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 35 | PIT 5-252-09A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H6 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 36 | PIT 6-252-09A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 37 | PIT 1-252-09B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 38 | PIT 2-252-09B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 39 | PIT 3-252-09B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H4 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 40 | PIT 4-252-09B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H5 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 41 | PIT 5-252-09B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H6 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 42 | PIT 6-252-09B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 43 | PIT 1-251-10A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 44 | PIT 2-251-10A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 45 | PIT 3-251-10A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H4 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 46 | PIT 4-251-10A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H5 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 47 | PIT 5-251-10A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H6 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 48 | PIT 6-251-10A | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 49 | PIT 1-251-10B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 50 | PIT 2-251-10B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 51 | PIT 3-251-10B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H4 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 52 | PIT 4-251-10B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H5 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 53 | PIT 5-251-10B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H6 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 54 | PIT 6-251-10B | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 55 | PIT 1-251-10C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 56 | PIT 2-251-10C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 57 | PIT 3-251-10C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H4 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 58 | PIT 4-251-10C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H5 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 59 | PIT 5-251-10C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H6 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 60 | PIT 6-251-10C | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+5 | PGV | Jul/02/2012 | For Purchase | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - New sheet added | Solana power plant
+Rev | By | Date | Description | Sheet: | 12 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet TES Press. Trans. List III ]
+Instrument Specification - TES Area - Molten Salt (MS) Pressure Transmitters List 3
+Item # | Instrument Tag | Service | Calibration (psig) | P&ID | Process Line # | Note
+MS - 61 | PIT 1-256-13 | Cold Salt Recirculation Pump Outlet Pressure - TES-1 | (-)0 - (+)100 | ♦♦ P251 | 251-MS-03A-CS31-10"
+MS - 62 | PIT 2-256-13 | Cold Salt Recirculation Pump Outlet Pressure - TES-2 | (-)0 - (+)100 | ♦♦ P261 | 251-MS-03B-CS31-10"
+MS - 63 | PIT 3-256-13 | Cold Salt Recirculation Pump Outlet Pressure - TES-3 | (-)0 - (+)100 | ♦♦ P264 | 251-MS-03C-CS31-10"
+MS - 64 | PIT 4-256-13 | Cold Salt Recirculation Pump Outlet Pressure - TES-4 | (-)0 - (+)100 | ♦♦ P267 | 251-MS-03D-CS31-10"
+MS - 65 | PIT 5-256-13 | Cold Salt Recirculation Pump Outlet Pressure - TES-5 | (-)0 - (+)100 | ♦♦ P270 | 251-MS-03E-CS31-10"
+MS - 66 | PIT 6-256-13 | Cold Salt Recirculation Pump Outlet Pressure - TES-6 | (-)0 - (+)100 | ♦♦ P273 | 251-MS-03F-CS31-10"
+MS - 67 | PIT 1-257-11 | Hot Salt Recirculation Pump Outlet Pressure - TES-1 | (-)0 - (+)100 | ♦♦ P253 | 253-MS-02A-CS31-10"
+MS - 68 | PIT 2-257-11 | Hot Salt Recirculation Pump Outlet Pressure - TES-2 | (-)0 - (+)100 | ♦♦ P263 | 253-MS-02B-CS31-10"
+MS - 69 | PIT 3-257-11 | Hot Salt Recirculation Pump Outlet Pressure - TES-3 | (-)0 - (+)100 | ♦♦ P266 | 253-MS-02C-CS31-10"
+MS - 70 | PIT 4-257-11 | Hot Salt Recirculation Pump Outlet Pressure - TES-4 | (-)0 - (+)100 | ♦♦ P269 | 253-MS-02D-CS31-10"
+MS - 71 | PIT 5-257-11 | Hot Salt Recirculation Pump Outlet Pressure - TES-5 | (-)0 - (+)100 | ♦♦ P272 | 253-MS-02E-CS31-10"
+MS - 72 | PIT 6-257-11 | Hot Salt Recirculation Pump Outlet Pressure - TES-6 | (-)0 - (+)100 | ♦♦ P275 | 253-MS-02F-CS31-10"
+♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page
+4 | PGV | Feb/08/2012 | For Purchase - New Instruments | Solana power plant
+Rev | By | Date | Description | Sheet: | 13 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet TES Press. Trans. List III (2)]
+Instrument Specification - TES Area - Molten Salt (MS) Pressure Transmitters List 3 - Purchase information
+Item # | Instrument Tag | Model Number | Chem Seal & without Flushing Ring Number
+MS - 61 | PIT 1-256-13 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 62 | PIT 2-256-13 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 63 | PIT 3-256-13 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 64 | PIT 4-256-13 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 65 | PIT 5-256-13 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 66 | PIT 6-256-13 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 67 | PIT 1-257-11 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 68 | PIT 2-257-11 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 69 | PIT 3-257-11 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 70 | PIT 4-257-11 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 71 | PIT 5-257-11 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+MS - 72 | PIT 6-257-11 | 266NRH.P.R.R.A.1..E6.L1.B6..I2...H3 | S26RR.H.G2.C.F.SM.3.A.E.S.N.N.N + SR 11090 + SR 12336
+ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+5 | PGV | Jul/02/2012 | For Purchase
+4 | PGV | Feb/08/2012 | For Purchase - New Instruments | Solana power plant
+Rev | By | Date | Description | Sheet: | 14 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet N2 Press. Trans. Specs]
+Instrument Specification - TES Area - Pressure Transmitters Nitrogen Services
+General | 1 | Tag number | See "Nitrogen Pressure Transmitter List"
+2 | Service | Nitrogen
+3 | P&ID | See "Nitrogen Pressure Transmitter List"
+4 | Line | See "Nitrogen Pressure Transmitter List"
+5 | Quantity | See "Nitrogen Pressure Transmitter List"
+Process Conditions | 6 | Fluid | Phase | Nitrogen | Gas
+7 | Design Pressure | 15 psig
+8 | Design Temperature | 750 Deg. F
+Sensor and Body | 9 | Maximum Measuring Range | See Note 1
+10 | Instrument type | Pressure Transmitter
+11 | Type of measurement | Relative Pressure
+12 | Calibration Range | See "Nitrogen Pressure Transmitter List"
+13 | Accuracy | ± 0.1% Of Calibrated Span
+14 | Overpressure | 1.5
+15 | Zero Adjustment | Span Adjustment | Yes | Yes
+16 | Element Type | Piezorresistive sensor
+17 | Diaphragm Material | 316 SSL
+18 | Body Material | 316 SS
+19 | Fill fluid | See Important Note 2
+20 | Bolts / Gasket | Yes / Yes
+21 | Process connection | Per vendor also see Accessories / Process connection
+Transmitter | 22 | Housing | Aluminium
+23 | Electrical connection | 1/2" NPT
+24 | Enclosure Protection | NEMA 4
+25 | Output signal | Resistance | 4-20 mA + HART | 500 Ohm
+26 | Type / Power Supply | 2-Wire / 24 VDC
+27 | Hazardous Area Classification | Class I, Division II
+28 | Local Display | Yes
+29 | Environmental Conditions | 22 Deg. F - 125 Deg. F
+30 | Special Environment Conditions -Solar radiation (DNI) | 1,008 W/m2 - See Note 3
+Accessories | 31 | Mounting Accesories | 2" Pipe mounting kit
+32 | Instrument tag | 316SS 2" * 4"
+33 | Process Connection | Fill Fluid | 2" Diaphragm Seal - 150 - RF | See Important Note 2
+34 | Thermal Extender | Material | NA | NA
+35 | Flushing ring Body Class | NA
+36 | Manifold type | NA
+38 | Capillary Tube / Material | Yes - 10 ft / 316 - SS
+39 | Sun shield | Vendor to provide cost est. for this option
+Purchasing | 40 | Manufacturer | ABB
+41 | Transmitter Model # | See sheet 15
+42 | Chem Seal # | See sheet 15
+43 | Sun shield P/N # | NA
+Notes: Notes: (1) E Capsule = 64 In wc. (2) Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F (3) DNI (Daily Normal Irradiance) solar radiation energy created thermal accumulation based on the exposed area to environment .
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - Change as Noted
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 15 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet N2 Press. Trans. List I]
+Instrument Specification-TES Service-Pressure Transmitters Nitrogen List 1
+Item # | Instrument Tag | Service | Calibration (In. WC) | P&ID | Process Line # | Note
+N2 - 1 | PIT 1-250-01 | Cold & Hot Tanks Interconnection Line N2 Blanket Pressure - TES-1 | 0 - 20 | ♦♦ P251 | 251-N-09A-CS72-12"
+N2 - 2 | PIT 2-250-01 | Cold & Hot Tanks Interconnection Line N2 Blanket Pressure - TES-2 | 0 - 20 | ♦♦ P261 | 251-N-09B-CS72-12"
+N2 - 3 | PIT 3-250-01 | Cold & Hot Tanks Interconnection Line N2 Blanket Pressure - TES-3 | 0 - 20 | ♦♦ P264 | 251-N-09C-CS72-12"
+N2 - 4 | PIT 4-250-01 | Cold & Hot Tanks Interconnection Line N2 Blanket Pressure - TES-4 | 0 - 20 | ♦♦ P267 | 251-N-09D-CS72-12"
+N2 - 5 | PIT 5-250-01 | Cold & Hot Tanks Interconnection Line N2 Blanket Pressure - TES-5 | 0 - 20 | ♦♦ P270 | 251-N-09E-CS72-12"
+N2 - 6 | PIT 6-250-01 | Cold & Hot Tanks Interconnection Line N2 Blanket Pressure - TES-6 | 0 - 20 | ♦♦ P273 | 251-N-09F-CS72-12"
+N2 - 7 | PIT 1-251-22 | Cold Tanks N2 Blanket Pressure - Primary - TES-1 | 0 - 20 | ♦♦ P251 | Vessel - Nozzel N10
+N2 - 8 | PIT 2-251-22 | Cold Tanks N2 Blanket Pressure - Primary - TES-2 | 0 - 20 | ♦♦ P261 | Vessel - Nozzel N10
+N2 - 9 | PIT 3-251-22 | Cold Tanks N2 Blanket Pressure - Primary - TES-3 | 0 - 20 | ♦♦ P264 | Vessel - Nozzel N10
+N2 - 10 | PIT 4-251-22 | Cold Tanks N2 Blanket Pressure - Primary - TES-4 | 0 - 20 | ♦♦ P267 | Vessel - Nozzel N10
+N2 - 11 | PIT 5-251-22 | Cold Tanks N2 Blanket Pressure - Primary - TES-5 | 0 - 20 | ♦♦ P270 | Vessel - Nozzel N10
+N2 - 12 | PIT 6-251-22 | Cold Tanks N2 Blanket Pressure - Primary - TES-6 | 0 - 20 | ♦♦ P273 | Vessel - Nozzel N10
+N2 - 13 | PIT 1-251-23 | Cold Tanks N2 Blanket Pressure - Backup - TES-1 | 0 - 20 | ♦♦ P251 | Vessel - Nozzel N10
+N2 - 14 | PIT 2-251-23 | Cold Tanks N2 Blanket Pressure - Backup - TES-2 | 0 - 20 | ♦♦ P261 | Vessel - Nozzel N10
+N2 - 15 | PIT 3-251-23 | Cold Tanks N2 Blanket Pressure - Backup - TES-3 | 0 - 20 | ♦♦ P264 | Vessel - Nozzel N10
+N2 - 16 | PIT 4-251-23 | Cold Tanks N2 Blanket Pressure - Backup - TES-4 | 0 - 20 | ♦♦ P267 | Vessel - Nozzel N10
+N2 - 17 | PIT 5-251-23 | Cold Tanks N2 Blanket Pressure - Backup - TES-5 | 0 - 20 | ♦♦ P270 | Vessel - Nozzel N10
+N2 - 16 | PIT 6-251-23 | Cold Tanks N2 Blanket Pressure - Backup - TES-6 | 0 - 20 | ♦♦ P273 | Vessel - Nozzel N10
+N2 - 17 | PIT 1-252-22 | Hot Tanks N2 Blanket Pressure - Primary - TES-1 | 0 - 20 | ♦♦ P253 | Vessel - Nozzel N10
+N2 - 18 | PIT 2-252-22 | Hot Tanks N2 Blanket Pressure - Primary - TES-2 | 0 - 20 | ♦♦ P263 | Vessel - Nozzel N10
+N2 -19 | PIT 3-252-22 | Hot Tanks N2 Blanket Pressure - Primary - TES-3 | 0 - 20 | ♦♦ P266 | Vessel - Nozzel N10
+N2 - 20 | PIT 4-252-22 | Hot Tanks N2 Blanket Pressure - Primary - TES-4 | 0 - 20 | ♦♦ P269 | Vessel - Nozzel N10
+N2 - 21 | PIT 5-252-22 | Hot Tanks N2 Blanket Pressure - Primary - TES-5 | 0 - 20 | ♦♦ P272 | Vessel - Nozzel N10
+N2 - 22 | PIT 6-252-22 | Hot Tanks N2 Blanket Pressure - Primary - TES-6 | 0 - 20 | ♦♦ P275 | Vessel - Nozzel N10
+N2 - 23 | PIT 1-252-23 | Hot Tanks N2 Blanket Pressure - Backup - TES-1 | 0 - 20 | ♦♦ P253 | Vessel - Nozzel N10
+N2 - 24 | PIT 2-252-23 | Hot Tanks N2 Blanket Pressure - Backup - TES-2 | 0 - 20 | ♦♦ P263 | Vessel - Nozzel N10
+N2 - 25 | PIT 3-252-23 | Hot Tanks N2 Blanket Pressure - Backup - TES-3 | 0 - 20 | ♦♦ P266 | Vessel - Nozzel N10
+N2 - 26 | PIT 4-252-23 | Hot Tanks N2 Blanket Pressure - Backup - TES-4 | 0 - 20 | ♦♦ P269 | Vessel - Nozzel N10
+N2 - 27 | PIT 5-252-23 | Hot Tanks N2 Blanket Pressure - Backup - TES-5 | 0 - 20 | ♦♦ P272 | Vessel - Nozzel N10
+N2 - 28 | PIT 6-252-23 | Hot Tanks N2 Blanket Pressure - Backup - TES-6 | 0 - 20 | ♦♦ P275 | Vessel - Nozzel N10
+♦♦ Drawing preference prefix | ♦♦ = 4521-PLN-ANC-68-71- (i.e. ♦♦ P251 is 4521-PLN-ANC-68-71-P251)
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Oct/10/2011 | For Purchase
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 16 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5
+
+[sheet N2 Press. Trans. List I (2)]
+Instrument Specification-TES Service-Pressure Transmitters Nitrogen List 1 - Purchase information
+Item # | Instrument Tag | Model Number | Chem Seal & Flushing Ring Number
+N2 - 1 | PIT 1-250-01 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 2 | PIT 2-250-01 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 3 | PIT 3-250-01 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 4 | PIT 4-250-01 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 5 | PIT 5-250-01 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 6 | PIT 6-250-01 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 7 | PIT 1-251-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 8 | PIT 2-251-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 9 | PIT 3-251-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 10 | PIT 4-251-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 11 | PIT 5-251-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 12 | PIT 6-251-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 13 | PIT 1-251-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 14 | PIT 2-251-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 15 | PIT 3-251-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 16 | PIT 4-251-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 17 | PIT 5-251-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 16 | PIT 6-251-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 17 | PIT 1-252-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 18 | PIT 2-252-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 -19 | PIT 3-252-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 20 | PIT 4-252-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 21 | PIT 5-252-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 22 | PIT 6-252-22 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 23 | PIT 1-252-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 24 | PIT 2-252-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 25 | PIT 3-252-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 26 | PIT 4-252-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 27 | PIT 5-252-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+N2 - 28 | PIT 6-252-23 | 266HRH.E.R.R.A.1.E6..L1.B1..I2…H3 | S26FA.H.E1.S.F.SM.2.A.E.S.3.A.G + SR 11090
+5 | PGV | Jul/02/2012 | For Purchase - No change on this page | ABENGOA SOLAR | ABENER TEYMA SOLANA AG ENGINEERING
+4 | PGV | Feb/08/2012 | For Purchase
+3 | PGV | Jan/24/2012 | For Purchase
+2 | PGV | Dec/21/2011 | For Purchase - New sheet added
+1 | PGV | Oct/10/2011 | For bid
+0 | PGV | Apr/01/2011 | Issue for Bid | Solana power plant
+Rev | By | Date | Description | Sheet: | 17 of 17
+Revision | Document Nº: | 4521-ESP-AGE-39-70-0004 | Rev.: 5

@@ -1,0 +1,1174 @@
+[page 1]
+ABENER / TEYMA Page 1 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+ Old Abener # MS-S102 
+Instructions 
+: 
+ 
+1. Initialing (BY/CH’D/APP’D) required on cover she et only. All other title block information must be included on 
+all pages. 
+ 
+2. Revisions are identified in the body of the Spec ification. 
+ 
+ 
+ Description of 
+Rev. 
+No. 
+ 
+Date 
+ 
+By 
+ 
+Chk’d 
+ 
+App’d 
+ Revision Including 
+Page Numbers 
+0 10 MAR 09 CWG DJW TS/MDC Issued For Review 
+11 11 17 May 10 17 May 10 17 May 10 17 May 10 LHP LHP LHP LHP CWG CWG CWG CWG TS/MDC TS/MDC TS/MDC TS/MDC For Bid For Bid For Bid For Bid 
+On EC On EC On EC On EC-- --94 Form (Changed Footer) 94 Form (Changed Footer) 94 Form (Changed Footer) 94 Form (Changed Footer) 
+ Revised Sect 4.1 & 7.3.4 Revised Sect 4.1 & 7.3.4 Revised Sect 4.1 & 7.3.4 Revised Sect 4.1 & 7.3.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ABENER / TEYMA Page 2 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+1. Project Description 
+ 
+Refer to Specification 4521-ESP-ANC-00-62-0001 Rev 2, Project Design Criteria 
+ 
+2. Purpose 
+ 
+This specification defines the scope of work, insul ating materials, and guidelines for the application of 
+external insulation and weatherproofed protective c over systems onto piping, ducts, vessels and 
+equipment in a solar plant for the purpose of conse rving heat, maintaining process temperatures and 
+personnel protection. 
+ 
+3. Performance 
+ 
+ 
+3.1 Comments and exceptions to the specification shall be listed in a separate part of the design 
+documents titled “Exceptions to the Specification”. All exceptions shall be listed in this section 
+and shall reference the appropriate Specification section. No other exceptions will be allowed. 
+ 
+3.2 The Contractor shall be responsible for all require ments delineated in this specification. All 
+exceptions shall be noted in the Contractor’s desig n documents. If a purchase order is awarded, 
+the Contractor shall be responsible to satisfy all requirements of this specification except for the 
+agreed upon exceptions. 
+ 
+3.3 The imperative language of this specification is di rected to the Insulation Subcontractor, unless 
+specifically noted otherwise. Contractor is to per form all work described unless others are 
+specifically identified as performing the work. Al l directives such as “provide”, “install”, 
+“perform”, “test”, etc., are addressed solely to th e Contractor, whether or not the word 
+“Contractor” is specifically mentioned. Work included for others will be specifically identified. 
+ 
+3.4 Contractor shall be responsible for reviewing Pipin g and Instrument Diagrams (P&IDs), the 
+vendor equipment drawing packages, and the insulati on requirements for each piece of 
+equipment as needed to insure contractor’s familiar ity with equipment and installation 
+requirements prior to submitting his bid. 
+
+[page 3]
+ABENER / TEYMA Page 3 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+3.5 The Contractor should familiarize himself with the type and extent of the work to be provided 
+under this contract, and the facilities that he will be required to work in and around. 
+ 
+3.6 Contractor shall have proficient experience with th e installation of insulation for industrial plant 
+equipment and piping. 
+ 
+3.7 Contractor shall coordinate the insulation installation work with the work by other contractors to 
+determine the proper sequencing of work as necessar y to meet the project schedule. 
+Coordination with other trades and contractors will be an extremely important part of this job. 
+Contractor shall be keenly aware of this requiremen t. Sequencing of work, thoughtful planning, 
+and coordination of activities with the superintend ent and other contractors will be required. 
+Meetings will be held for scheduling and sequencing of activities. Review schedule before 
+submitting bid. 
+ 
+3.8 Any conflicts and/or deviations that may occur betw een this specification, other specifications, 
+drawings and any other documents such as the refere nced codes and standards, shall be 
+presented to the Abener / Teyma Construction Superi ntendent for proper resolution. The more 
+stringent of the specifications shall apply. 
+ 
+3.9 Any omission of details from this, or associated, s pecification, list or drawing shall not relieve the 
+Insulation Subcontractor of the responsibility for providing a total and acceptable installation 
+within the intent of the contract documents. 
+ 
+3.10 All items and/or systems to be insulated shall be “ RELEASED”, by the Abener / Teyma 
+Construction Superintendent, to the Contractor prior to the start of any insulating work. 
+ 
+
+[page 4]
+ABENER / TEYMA Page 4 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+4. Scope 
+ 
+4.1 Contractor shall install insulation and protective covering systems and jacketing on ALL indicated indicated indicated indicated 
+vessels, ducts, piping, instrumentation, and equipm ent for this project. This work is described 
+specifically herein and on other documents and draw ings. Contractor shall install insulation and 
+protective coverings on equipment, vessels and tank s per thicknesses indicated on specification 
+4521-ESP-ANC-00-60-G115 Paint and Insulation Schedu le (later) (later) (later) (later).. .. Contractor shall install 
+insulation and protective coverings on piping per t hicknesses described on the individual lines on 
+the project P&ID’s and the 4521-ESP-ANC-00-60-G114 Pipe Line Schedule (later) (later) (later) (later). 4521-ESP-
+ANC-00-60-G115 defines scope for equipment, and the P&ID’s and 4521-ESP-ANC-00-60-G114 
+define the scope for piping. Other specifications, drawings, and attachments describe the 
+insulation installation requirements in further det ail. Contractor shall read all contract 
+documents and become familiar with them before subm itting his bid. 
+ 
+4.2 Piping layout drawings, piping isometric drawings, equipment outline drawings, general 
+arrangement drawings, and vendor drawings are provi ded for reference. Piping/equipment may 
+have been installed with slight variations from the se reference drawings. Vendor is nonetheless 
+responsible for a complete installation. Contracto r will not be compensated for slight variations 
+of piping installations and equipment arrangements. 
+ 
+4.3 Equipment, vessels, tanks and piping specified to b e insulated shall be fully insulated and 
+jacketed, throughout, including all valves, flanges , instruments, manways, drain legs, bypasses, 
+vents, relief valves, relief valve discharge lines, etc… 
+ 
+4.4 Contractor shall furnish all labor, materials, tool s, staging, ladders, scaffolding, equipment, 
+vehicles, supervision and other services and device s necessary and incidental to the completion 
+and inspection of the insulation and protective, weatherproofed covering work. 
+ 
+4.5 Contractor shall purchase and supply the specified insulation, protective coverings, and 
+miscellaneous insulating / anchoring materials. 
+ 
+
+[page 5]
+ABENER / TEYMA Page 5 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+4.6 Contractor shall obtain manufacturer’s certifications for products he purchases, where required. 
+ 
+4.7 Contractor shall be solely responsible for material take-offs. They shall schedule, receive, inspect, 
+store, and handle all insulating materials. 
+ 
+5. Materials 
+ 
+ 
+5.1 Materials specified by a manufacturer’s brand or tr ade name shall be considered a minimum 
+standard. 
+ 
+5.2 When two (2) or more suppliers or product trade nam es are listed in associated Specifications, 
+the Insulation Subcontractor shall have the option as to what he shall furnish. 
+ 
+5.3 All insulating materials shall be shipped to the jo b site in marked, unopened containers as 
+received from the manufacturer. The containers shal l be legibly marked with the name of the 
+manufacturer, material, size, type, quantity and required ASTM references. 
+ 
+5.4 Insulating materials shall be standard, catalogued products, new and commercially available, and 
+free of all defects. 
+ 
+5.5 Requests for material substitutions shall be forwar ded to the Abener / Teyma Construction 
+Superintendent for approval, and shall include nece ssary substantiating information, such as 
+temperature conditions, service factors, chemical r esistance, etc. He shall judge the equivalency 
+of materials. 
+ 
+5.6 Materials shall be stored at the job site in a buil ding or shelter (provided by Contractor), which 
+will completely protect them from the weather. 
+ 
+
+[page 6]
+ABENER / TEYMA Page 6 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+6. Schedule 
+ 
+6.1 Project milestones are to be included in the design documents. The milestones are to give the 
+Contractor an overview of project schedule. Any fo reseen deviations from schedule shall be 
+listed with the design documents. 
+ 
+6.2 The Contractor may identify deviations from the sch edule that result in significant price 
+reductions, but must also design to the base requirements. 
+ 
+7. Execution 
+ 
+ 
+7.1 Installation – General 
+ 
+7.1.1 Insulation shall be installed after all painting, i nspection, heat tracing and pressure 
+testing have been completed. This work must be sche duled and coordinated with the 
+Abener / Teyma Construction Superintendent. Any ins ulation applied to these items 
+without “RELEASE” is subject to removal and reinsta llation by the Insulation 
+Subcontractor at his own expense. 
+ 
+7.1.2 Installation of insulation and jacketing in critica l areas will be inspected by the Abener / 
+Teyma Construction Superintendent, and if specifica tions have not been followed, the 
+affected areas will be removed and replace as requi red at the Insulation Subcontractors 
+expense. 
+ 
+7.1.3 Vessels, equipment, piping and ductwork covered by this Specification shall be 100% 
+insulated including, but not limited to, all integr al stiffeners, flanges, nozzles, expansion 
+joints, disabled lifting lugs, support connections, manways, access ways, instrument 
+connections, drain/vent connections, inspection por ts, etc., unless explicitly noted 
+otherwise. 
+ 
+
+[page 7]
+ABENER / TEYMA Page 7 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.1.4 Personnel Protection (PP) insulation shall be insta lled where called for by the insulation 
+drawings and specifications. It shall be provided t o a height of 7 feet above grade, 
+platform and walkway and to a horizontal distance o f 2 feet from a walkway or 
+platform. The surface skin temperature will be limited to 160 0F. 
+ 
+7.1.5 Install materials in strict accordance with manufacturer’s instructions. 
+ 
+7.2 Surface Condition of Items to be Insulated 
+ 
+ 
+7.2.1 Surfaces to be insulated shall be clean and dry. Th e Contractor shall be responsible for 
+the removal of oil, grease, dust, and similar accumulations of surface dirt. 
+ 
+7.2.2 Contractor will not be held responsible for the rem oval of mill scale, rust scale or 
+deposits, old paint, or similar firmly adhering acc umulations, but he shall report these 
+conditions to the Abener / Teyma Construction Superintendent. 
+ 
+7.3 Workmanship 
+ 
+ 
+7.3.1 All insulating work shall be performed in a neat an d workmanlike manner, of high 
+quality, and consistent with current, acceptable st andards of the industry. Contractor 
+shall take into proper account the particular servi ce and temperature of the systems 
+included in this project. Finished installation sha ll be weatherproof, durable and sound, 
+without developing cracks, separation, defects or b urning, etc., due to misapplication of 
+materials or workmanship. Contractor shall follow manufacturer’s installation 
+instructions. 
+ 
+7.3.2 Insulation shall be applied with care. Due regard s hall be given to various factors 
+including expansion, contraction, wind and water da mage, frost prevention, breathing 
+of hot insulation, weatherproofing, and overall appearance and long life. 
+ 
+
+[page 8]
+ABENER / TEYMA Page 8 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.3.3 Insulation and jacketing must be applied in a manne r that will allow for the required 
+thermal expansion, of both the equipment and the in sulated item, without creating 
+gaps and hot spots in the insulation or damaging the jacketing and creating water leaks. 
+ 
+7.3.4 Wet or damp insulation shall not be used. It shall be replaced with dry insulation or be 
+thoroughly dried before proceeding with the install ation. Dried Insulation shall be Dried Insulation shall be Dried Insulation shall be Dried Insulation shall be 
+approved approved approved approved by Abener by Abener by Abener by Abener / Teyma / Teyma / Teyma / Teyma Construction Superintendent Construction Superintendent Construction Superintendent Construction Superintendent.. .. 
+ 
+7.3.5 Insulation and jacketing shall be protected from me chanical damage during 
+construction. Damage by the Contractor shall be rep aired at Contractor’s expense. 
+Damage by others shall be reported in writing to th e Abener / Teyma Construction 
+Superintendent. 
+ 
+7.3.6 Finished edges of jacketing surfaces which meet or butt to dissimilar materials shall have 
+a neat, clean and sharp appearance. 
+ 
+7.3.7 Equipment nameplates and code inspection plates sha ll not be covered. Such openings 
+shall be finished in a neat manner, with edges seal ed with a jacket or covering to 
+prevent the entering of any moisture. 
+ 
+7.3.8 Use of pre-formed or molded pipe insulation segment s for vessels with a diameter up to 
+42” maximum shall be considered to be acceptable. 
+ 
+7.3.9 Equipment & piping that is insulated at grade, prio r to installation and prior to 
+application of the protective cover, shall be prope rly covered to prevent absorption of 
+rainwater by the insulation. 
+ 
+7.3.10 All insulation work, prior to application of the al uminum protective cover, shall be 
+properly weather protected to prevent absorption of rainwater by the insulation. 
+ 
+7.3.11 All areas between dissimilar metals shall be protec ted against galvanic corrosion by a 
+suitable insulating coating. 
+
+[page 9]
+ABENER / TEYMA Page 9 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.3.12 Finish installation with systems at operating condi tions. Repair joints separations and 
+cracking due to thermal movement. 
+ 
+7.3.13 Repair damaged insulation facings by applying same facing material over damages 
+areas. Extend patches at least 4” beyond damaged a reas. Adhere, staple, and seal 
+patches similar to butt joints. 
+ 
+7.3.14 Construction Superintendent shall have final approv al and say over the quality and level 
+completeness/approval of all “Work”. 
+ 
+7.4 General Application Guidelines 
+ 
+ 
+7.4.1 Use pre-formed, molded, or shaped insulation segmen ts, as appropriate, when they are 
+available. 
+ 
+7.4.2 Insulation shall be applied in standard length sections, preferably 36” when possible. 
+ 
+7.4.3 Insulation up to 3” thick may be applied in a singl e layer. Thicker insulation shall be 
+applied in two (2) layers or more. 
+ 
+7.4.4 All insulation shall be installed with staggered jo int construction, fit snugly, and have all 
+edges tightly butted and held firmly together, with at least 2”overlap. 
+ 
+7.4.5 All voids around gussets, manholes, nozzles, expans ion joints, etc., shall be firmly filled 
+with loose insulation. 
+ 
+7.4.6 Manway and access way covers shall be insulated sep arately. See Section 7.5. 
+ 
+7.4.7 Provide expansion joints to accommodate differences in thermal expansion of the 
+insulation and metal. 
+ 
+
+[page 10]
+ABENER / TEYMA Page 10 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.4.8 Insulation expansion joints shall be provided at ap proximately 25-foot intervals when 
+uninterrupted by fittings, flanges or valves. Expan sion joints shall consist of a 1-1/2" 
+space, packed with loose mineral wool, retained by the insulation jacket. 
+ 
+7.4.9 On long uninterrupted vertical lines, insulation su pports shall be provided at 25-foot 
+intervals. Supports may be in the form of split ri ngs clamped to pipe. The spacing of the 
+rings shall coincide with the insulation expansion joints. 
+ 
+7.4.10 Flanges shall be insulated unless otherwise specifi ed. Flange insulation shall be 
+removable, without damage to adjacent insulation. P ipeline insulation at flanges shall be 
+terminated far enough away to allow removal of nuts and bolts without damaging the 
+insulation and shall have the ends weatherproofed. 
+ 
+7.4.11 Flanges and valves shall be insulated with over-siz ed pipe insulation, fabricated in two 
+halves. Insulation shall be neatly applied and wir ed or banded firmly in place. Overlap 
+adjoining pipe insulation by not less than two time s the thickness of pipe insulation, or 
+one pipe diameter, whichever is greater. 
+ 
+7.4.12 Insulate valves using preformed fitting insulation or sectional pipe insulation of same 
+material, density, and thickness as used for adjace nt pipe. Overlap adjoining pipe 
+insulation by not less than two times the thickness of pipe insulation, or one pipe 
+diameter, whichever is greater. 
+ 
+7.4.13 Valve bodies shall be insulated up to the packing g land. The insulation shall not interfere 
+with adjustment or removal of the packing gland, an d shall be sealed to valve body with 
+vapor barrier coating. 
+ 
+7.4.14 Insulate pipe elbows using preformed mitered fittin g insulation made from same 
+material and density as adjacent pipe insulation. E ach piece shall be butted tightly 
+against adjoining piece and bonded with adhesive. W hen preformed fittings are not 
+available, install mitered sections of pipe insulat ion, to a thickness equal to adjoining 
+pipe insulation. Secure insulation with wore or bands. 
+
+[page 11]
+ABENER / TEYMA Page 11 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.4.15 Insulate tee fittings with preformed insulation or sectional pipe insulation of same 
+material and thickness as used for adjacent pipe. C ut sectional pipe insulation to fit. Butt 
+each section closely to the next and hold in place with tie wire. Bond pieces with 
+adhesive. 
+ 
+7.4.16 Hangers in direct contact with the pipe shall be in sulated in the same manner as fittings. 
+The insulation shall be applied along the vertical hanger rod to not less than 3” beyond 
+pipeline insulation and sealed off. 
+ 
+7.4.17 Stainless steel wire and/or bands will be used to s ecure the insulation to the piping, with 
+spacing from 9” to 12”. 
+ 
+7.4.18 Insulation shall extend up to the gauges isolation valves or chemical seal diaphragms. 
+ 
+7.4.19 Apply insulation close to equipment by grooving, scoring, and beveling insulation. 
+ 
+7.4.20 On exposed equipment, locate insulation and cover seams in least visible locations. 
+ 
+7.4.21 Fill joints, crack seams, and depressions with bedd ing compound to form smooth 
+surface. On cold equipment, use vapor barrier cement. 
+ 
+7.4.22 Set vapor-retarder-faced units with vapor retarder to warm side of construction, unless 
+otherwise indicated. 
+ 
+7.4.23 Tape joints and ruptures in vapor retarder to surro unding construction to ensure airtight 
+installation. 
+
+[page 12]
+ABENER / TEYMA Page 12 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+Non-code Items 
+ 
+(1) When insulation is to be applied over a series of s tiffeners, it shall be applied over 
+1-1/2” x 13 ga. un-flattened, expanded metal that i s secured on #10 ga. weld pins 
+with 2-1/2” sq. speed clips. The expanded metal ma terial should be similar to the 
+material overlaid to minimize differential thermal expansion. 
+ 
+(2) When insulation is to be applied directly to a surf ace, it shall be impaled on #10 ga. 
+(3.6mm) weld pins on 12” centers and secured with 2 -1/2” square speed clips. 
+Excess pin length shall be bent over to at least 1/4 ” below the surface of the 
+insulation. 
+ 
+(3) Insulation fasteners shall be of the same material as the duct, vessel, or piece of 
+equipment to which they get attached. 
+ 
+(4) When insulation is to be applied over stainless ste el surfaces that have been 
+painted with a zinc free silicone, care shall be ta ken not to damage the paint 
+coating. The insulation shall be secured with stain less steel bands, not weld pins 
+and speed clips, and as necessary with stainless steel lacing wire. 
+ 
+7.4.24 ASME Coded Items 
+ 
+ 
+(1) Field welding on coded items requires re-certificat ion of those items, therefore field 
+welding on coded items is not allowed. 
+ 
+(2) When insulation is to be applied directly to a cyli ndrical surface, it shall be secured 
+with stainless steel strapping bands, 1/2” x .015” for piping and 3/4” x .020” for 
+vessels. 
+ 
+(3) The strapping bands shall be applied along the leng th of the vessel shell or pipe on 
+12” centers. 
+ 
+
+[page 13]
+ABENER / TEYMA Page 13 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+(4) Vertical vessels and piping may require circumferen tial “clamp-on” insulation 
+support rings. 
+ 
+(5) Radial bands shall be applied on vessel heads in a uniform pattern with spacing of 
+approximately 12” around the shell circumference. 
+ 
+(6) A floating ring made of ¼” diameter steel rod shall be placed at the center of the 
+vessel head. Ring diameter is to be minimized. 
+ 
+(7) Two (2) closely spaced bands shall be placed approx imately 3” beyond the head 
+tangent line over the insulation to form a girth around the periphery of the vessel. 
+ 
+(8) Radial bands shall be fastened between the floating ring and the girth bands. 
+ 
+ 
+(9) All bands shall be spring type with the possible ex ception of the girth bands, which 
+must be tightly secured to resist pull of the radial bands. 
+ 
+(10) Code nameplates shall not be covered with insulation. 
+ 
+7.5 General Application Guidelines- Removable/Reusable Insulating Jacket 
+ 
+ 
+7.5.1 Insulating Blankets and Pads 
+ 
+(1) Usually used on covers for manways and access ways, and on large and irregular 
+shapes, such as duct “blank-offs”, both gas tight and spade type, and HRS diluters. 
+ 
+(2) Blankets shall be shaped to the area to be insulate d, cut and slotted for necessary 
+penetrations and mated to adjacent blankets with lacing hooks and wire. 
+ 
+(3) Thickness over 3” to be applied in two (2) layers. 
+ 
+
+[page 14]
+ABENER / TEYMA Page 14 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+(4) Maintain shape and keep insulation filler from shifting by using quilting washers. 
+ 
+(5) Removable/reusable insulating jacket used over pipi ng flanges, shall have joints 
+located at the 6 o’clock position. Where this is no t possible, NPS ½” nipples shall 
+be installed in the downward position to detect leakage. 
+ 
+7.5.2 Formed and Shaped Covers 
+ 
+ 
+(1) Use on smaller items such as valves, flanges, strainers, etc. 
+ 
+(2) Covers shall have the same appearance as the adjace nt permanent insulation, 
+overlap and fit to it. 
+ 
+(3) Covers for valves shall not cover the packing and stem; they shall remain exposed. 
+ 
+7.5.3 Insulated Metal Covers 
+ 
+ 
+(1) Metal covers shall enclose flanges or other connect ions as well as the body of the 
+piece of equipment to be insulated. 
+ 
+(2) The cover shall be constructed with lock joints and lined with attached insulation. 
+Cover construction shall be strong enough to withstand vibration and handling. 
+ 
+(3) Sections shall be fastened with sheet metal screws or rivets, and sealer shall be 
+applied as required. 
+ 
+(4) These removable/reusable insulating covers shall be applied so that they can be 
+removed without damage and without damaging surroun ding insulation and 
+jacket, provide a weatherproof seal, and shed water. 
+ 
+
+[page 15]
+ABENER / TEYMA Page 15 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.6 General Application Guidelines - Aluminum Jacketing 
+ 
+7.6.1 Aluminum jackets shall be installed in a manner to shed water and shall have minimum 
+overlaps of 3” for horizontal and circumferential seams. 
+ 
+7.6.2 Where it is necessary to slit the aluminum jacket w hen forming around stiffeners, etc., 
+reinforce the slit with a back-up piece of plain al uminum and secure with stainless steel 
+sheet metal screws. Minimum back up of flashing overlap shall be 3”. 
+ 
+7.6.3 All openings and/ or gaps, at protrusions of items through the jacket must be flashed 
+and sealed so they are weather proof and will shed water. 
+ 
+7.6.4 Jacketing shall be applied to the insulated work wh en it is in the cold condition (at 
+ambient temperature). 
+ 
+7.6.5 Insulation clip brackets shall be of the same mater ial as the vessel or piece of equipment 
+to which they attach. Some of these clip brackets a re furnished attached to the item to 
+be insulated and jacketed, some shall be provided a nd installed by the Insulation 
+Subcontractor, as he requires. 
+ 
+7.6.6 Inspection port and manhole cover jacketing shall b e removable and reusable. It shall be 
+applied in such a manner that surrounding jacket is not damaged when the cover is 
+removed, yet be weatherproof and shed water. 
+ 
+7.6.7 Stainless steel screws with neoprene washers shall be used on longitudinal joints and for 
+securing flashing sheets to provide watertight inst allations. Spacing of screws shall not 
+exceed 9”. 
+ 
+
+[page 16]
+ABENER / TEYMA Page 16 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.6.8 Aluminum jacket sheets on vessels, ducts and piping shall be held in place with stainless 
+steel strapping bands. Install one (1) stainless st eel breather/expansion spring for each 
+25 feet of banding. Banding shall be as follows: 
+ 
+(1) ½ ” x 0.015” type 304 stainless steel, spaced on 12” centers for units 42” in 
+diameter and smaller. 
+ 
+(2) ¾ ” x 0.020” type 304 stainless steel spaced on a max imum of 36” centers on units 
+larger than 42” diameter. 
+ 
+7.6.9 Stainless steel “J” clips shall be used to support the bands on vessels over 10’-0” in 
+diameter where the bands are not supported (compres sed) by “S” clips. The “J” clips 
+shall be attached to the jacket with stainless stee l self-tapping screws and neoprene 
+washers and shall be spaced about 6’-0” apart. 
+ 
+7.6.10 Stainless steel “S” clips shall be used on large ve rtical ducts, vessels and equipment to 
+keep jacket sheets from sliding. The “S” clip spaci ng will depend on the sheet size being 
+installed, but should be about 12”. Each sheet shal l be supported with a minimum of 
+two (2) “S” clips. 
+ 
+7.6.11 Deep corrugated sheets shall be overlapped a minimu m of 2 full corrugations, with the 
+lap being secured with stainless steel screws and n eoprene washers, on corrugation 
+ridges, on no more than 9” centers, unless directed otherwise. 
+ 
+7.6.12 Orange peel segments of head jackets shall be overl apped, sealed with mastic, secured 
+with stainless steel screws and neoprene washers, a nd shall overlap the side jacket. 
+Overlaps shall be a minimum of 3”. Screw heads shall be covered with sealant. 
+ 
+7.6.13 Screws shall not be used as fasteners on items that are heat traced. 
+ 
+
+[page 17]
+ABENER / TEYMA Page 17 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+7.6.14 Application of aluminum jacketing shall allow for t he thermal expansion of the unit to 
+which it is applied. Care shall be given to the us e of screw fasteners, their location and 
+number. 
+ 
+7.7 General Application Guidelines- Insulating Cement 
+ 
+7.7.1 Because of a high "k" factor, the use of insulating cement must be limited. It may be 
+applied only to small complex surfaces where blanke t application is impractical. Apply in 
+1-1/2" (38mm) layers, reinforced with stainless ste el wire mesh, final thickness to match 
+adjacent blanket. 
+ 
+7.7.2 Cement may also be used to fill in any chinks, crac ks, voids or depressed areas in 
+insulation, prior to application of protective coating or jacket. 
+ 
+7.8 Protection of Insulation Work 
+ 
+ 
+ At the close of work each day, insulating material s that have been applied during the day shall 
+be protected from the weather by coverings or metho ds acceptable to the Purchaser’s 
+Construction Superintendent. 
+ 
+7.9 Insulation Clean-Up 
+ 
+ 
+Upon completion of insulation work, and before the Purchaser’s Construction Superintendent shall be 
+obligated to accept the same, the Insulation Contra ctor, at his own expense, shall remove from the 
+premises all excess insulation materials, refuse, e tc., arising from insulation work, and shall leave the 
+premises in a clean, orderly condition. In addition , the Insulation Contractor shall be responsible fo r 
+cleanup and disposal of excess materials during the execution of the work on a daily basis. 
+ 
+
+[page 18]
+ABENER / TEYMA Page 18 of 18 
+Engineering Standards and Practices Abener Document No: 4521–ESP–ANC–00–62–0002 
+Specification For Job No.: 120006 No. Req'd.: 
+ Project: Solana 
+Insulation Subcontract Ref.: Issue: Dated : 
+ 
+ 
+ 
+ 
+ 
+ 
+1 17 May 10 Issued for Bid LHP CWG TS MDC 
+0 10 MAR 09 Issued For Review CWG DJW TS MDC 
+ 
+Notice of Alternate Billing Cycle: This contract allows the owner to require the sub mission 
+of billings or estimates in billing cycles other th an thirty days. A written description of 
+such other billing cycle applicable to the project is available from the owner or the owner’s 
+designated agent at 11500 W. 13 th Ave, Lakewood, CO 80215 and the owner or its 
+designated agent shall provide this written description on request. 
+Notice of Extended Payment Provision: This contract allows the owner to make payment 
+within 180 days after certification and approval of billings and estimates. 
+ 
+Notice of Extended Certification and Approval Period Provision: 
+ This contract allows the 
+owner to certify and approve billings and estimates within 30 days after the billings and 
+estimates are received from the contractor. 
+ 
+Information and know-how hereon are confidential an d proprietary property of Abener and may not be use d, reproduced, or revealed to others except in acco rdance with 
+the terms of a contract with or other written permission of Abener. 
+ 
+EC-94 – Solana Specific Standard Form (Rev. 03/2010) \\Srv-chstfile01\engineering\Projects\120006 Aben goa Solar Arizona\Prolog\Quote Packages\00007Q-Steam 
+Generation Subcontract\4521-ESP-ANC-00-62-0002 Insulation Subcontract.doc 
+ 
+8. Attachments : 
+ 
+4521-ESP-ANC-00-62-0001 Project Design Criteria, Rev 2 
+4521-ESP-ANC-00-60-G114 Pipeline Schedule (Later) 
+4521-ESP-ANC-00-60-G115 Paint and Insulation Sche dule (Later) 
+Project P&ID’s 
+4521-ESP-ANC-00-62-0003 (MS-I100) Mineral Fiber I nsulation 
+4521-ESP-ANC-00-62-0004 (MS-I150) Aluminum Jacket 
+4521-ESP-ANC-00-62-0005 (MS-I152) Removable / Reu sable Jacketing for Insulation 
+4521-ESP-ANC-00-62-0006 (MS-I153) Installation of Insulation and Jacketing on Piping 
+4521-ESP-ANC-00-62-0007 (MS-I180) Miscellaneous I nsulation Materials

@@ -1,0 +1,117 @@
+{
+  "id": "6b76b1175b5ece9a",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev01/CAL/4521-CAL-AEE-75-52-0001 to 0004_Rev1.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 25708847,
+  "size_human": "25 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "4521-CAL-AEE-75-52-0001 to 0004 Rev1",
+  "doc_code": "4521-CAL-AEE-75-52-0001",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 297386,
+  "token_estimate": 74346,
+  "chunks": 189,
+  "card_path": ".yeyo-memory/cards/6b76b1175b5ece9a.json",
+  "extracted_path": ".yeyo-memory/extracted/6b76b1175b5ece9a.txt",
+  "metadata": {
+    "pages": 175,
+    "pdf_metadata": {
+      "Title": "4521-CAL-AGE-75-52-0001_Rev1",
+      "Author": "Pedro Pajares de Tena",
+      "Producer": "Mac OS X 10.13.4 Quartz PDFContext",
+      "Creator": "Word",
+      "CreationDate": "D:20180410165847Z00'00'",
+      "ModDate": "D:20180410165847Z00'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:57.099354+00:00",
+      "local_only": true
+    },
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::14",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 14,
+        "doc_code": "4521-CAL -AEE-75-52-0001-GAR",
+        "title": "Heat exchanger Foundation IFC",
+        "revision": "1",
+        "status": "",
+        "date": "2017-01-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::14",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 14,
+        "doc_code": "4521-CAL -AEE-75-52-0001-GAR",
+        "title": "Heat exchanger Foundation IFC",
+        "revision": "1",
+        "status": "",
+        "date": "2017-01-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::8",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 8,
+        "doc_code": "4521-CAL -AEE-75-52-0001-GAR",
+        "title": "Exchangers_foundation",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx::SMWP -Document List::12",
+        "index_path": "Documentacion con sello PE 08/Paquete de construccion SMWP/SMWP Document List 9-21-2018.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 12,
+        "doc_code": "4521-CAL-AEE-75-52-0001-GAR-Rev00-exchangers-foundation",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx::SMWP -Document List::12",
+        "index_path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+        "index_kind": "as-built-list",
+        "sheet": "SMWP -Document List",
+        "row": 12,
+        "doc_code": "4521-CAL-AEE-75-52-0001-GAR-Rev00-exchangers-foundation",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx::SMWP -Document List::12",
+        "index_path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+        "index_kind": "document-list",
+        "sheet": "SMWP -Document List",
+        "row": 12,
+        "doc_code": "4521-CAL-AEE-75-52-0001-GAR-Rev00-exchangers-foundation",
+        "title": "",
+        "revision": "1",
+        "status": "",
+        "date": "",
+        "discipline": ""
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T11:30:57.099356+00:00"
+}

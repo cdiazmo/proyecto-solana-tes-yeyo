@@ -1,0 +1,59 @@
+{
+  "id": "700daf225c2f8110",
+  "path": "02 GD LOI/Calculos/4521-CAL-LOI-039-062-0003-GAR Rev0 PIPES STRESS ANALYSIS.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 12694652,
+  "size_human": "12 MB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-CAL-LOI-039-062-0003-GAR Rev0 PIPES STRESS ANALYSIS",
+  "doc_code": "4521-CAL-LOI-039-062-0003",
+  "revision": "Rev0",
+  "status": "ok",
+  "text_chars": 1086634,
+  "token_estimate": 271658,
+  "chunks": 688,
+  "card_path": ".yeyo-memory/cards/700daf225c2f8110.json",
+  "extracted_path": ".yeyo-memory/extracted/700daf225c2f8110.txt",
+  "metadata": {
+    "pages": 776,
+    "pdf_metadata": {
+      "CreationDate": "D:20161207181050+01'00'",
+      "Author": "Teyma España",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20161207181241+01'00'",
+      "Title": "Instructivo"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::295",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 295,
+        "doc_code": "4521-CAL-LOI-039-062-0003",
+        "title": "PIPES STRESS ANALYSIS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-09 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::295",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 295,
+        "doc_code": "4521-CAL-LOI-039-062-0003",
+        "title": "PIPES STRESS ANALYSIS",
+        "revision": "",
+        "status": "Received",
+        "date": "2016-11-09 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:03.123181+00:00"
+}

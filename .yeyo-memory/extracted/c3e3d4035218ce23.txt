@@ -1,0 +1,237 @@
+[sheet Document]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PLN-AEE-68-51-0001-GAR-901 | 4 | 2017-10-02 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | _Layout_new_exchangers
+By review TCS data box | C:\Users\agmbo\Desktop\Solana\Entregas\02-10 Civ\[4521-PLN-AEE-68-51-0001-GAR-901_Rev04_Layout_new_exchangers.xlsx]Document
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date | 4521-PLN-AEE-68-51-0001-GAR-901_Rev04_Layout_new_exchangers
+4521-PLN-AEE-68-51-0001-GAR | 0 | IFD | 4521-TMT-AEE-AEPC-0011 | 2016-11-14 00:00:00
+Input data | Used
+-
+-
+-
+Assumptions:
+-
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AEE-68-51-0001-GAR | 0 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+By review TCS data box
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date
+4521-PLN-AEE-68-51-0001-GAR | 1 | IFD | 4521-TMT-AEE-AEPC-0011 | 2016-11-17 00:00:00
+Input data | Used
+4521-PLN-LOI-039-062-0001-GAR Rev 00 GA DRAWING commented AEPC-VCC rev01_
+4521_PLN_ANC_00_00_L102_rev7
+-
+Assumptions:
+-
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AEE-68-51-0001-GAR | 1 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+By review TCS data box
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date
+4521-PLN-AEE-68-51-0001-GAR | 2 | IFD | 4521-TMT-AEE-AEPC-0011 | 2016-11-18 00:00:00
+Input data | Used
+4521-PLN-LOI-039-062-0001-GAR Rev 00 GA DRAWING commented AEPC-VCC rev01_
+4521_PLN_ANC_00_00_L102_rev7
+4521_PLN_ANC_00_00_L102_rev15
+Assumptions:
+-
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AEE-68-51-0001-GAR | 2 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+By review TCS data box
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date
+4521-PLN-AEE-68-51-0001-GAR | 3 | IFD | 4521-TMT-AEE-AEPC-0072 | 2017-04-07 00:00:00
+Input data | Used
+4521-PLN-LOI-039-062-0001-GAR Rev 00 GA DRAWING commented AEPC-VCC rev01_
+4521_PLN_ANC_00_00_L102_rev7
+4521_PLN_ANC_00_00_L102_rev15
+Assumptions:
+Ground level to be defined
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AEE-68-51-0001-GAR | 3 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+By review TCS data box
+Document | Document Code | Doc. Rev: | Purpose: | AE Transmittal Number: | Delivery Date
+4521-PLN-AEE-68-51-0001-GAR | 4 | IFD | 4521-TMT-AEE-AEPC-0090 | 2017-10-02 00:00:00
+Input data | Used
+4521-PLN-LOI-039-062-0001-GAR Rev 00 GA DRAWING commented AEPC-VCC rev01_
+4521_PLN_ANC_00_00_L102_rev7
+4521_PLN_ANC_00_00_L102_rev15
+Assumptions:
+Ground level to be defined
+-
+-
+Holds:
+-
+-
+-
+Reason for revision | Input data change
+-
+-
+-
+Mistakes
+-
+-
+-
+Execution process update
+-
+-
+-
+Design change
+-
+-
+-
+Client | (Client) Related Technical Comment Sheet data:
+Document Code | Doc. Rev: | Status Code | Client Transmittal Number: | Answer Date
+4521-PLN-AEE-68-51-0001-GAR | 4 | dd/mm/aaaa
+Client Main Comments:
+-
+-
+-
+Annexes to Comments:
+-
+-
+-
+
+[sheet Comments]
+ABENGOA | Technical Comment Sheet (TCS) | AEPC USA
+TCS Code | TCS Revision | TCS Date | Project
+4521-PLN-AEE-68-51-0001-GAR-901 | 4 | 2017-10-02 00:00:00 | HEX replacement TES Solana | Abeinsa Engineering
+Submitted Document | _Layout_new_exchangers
+Client | Abeinsa Engineering
+Submitted Document Review | Client Reader | Comment Number | Comment Description | Criticality: | Affected Page of document | Comment Date | Applied Comment | AE Writer | Applied on Doc.Review | Solution Date | Answer Notes (new text, reason of reject …) | Comment Status
+xx | Name | ccc | *** | (M)ajor/(m)inor | ppp | dd/mm/aaaa | Yes - No - N/A | Name | xx | dd/mm/aaaa | *** | Open/Closed
+
+[sheet Legend]
+Status Code: | Delivery Status | Status Description
+AP | Approved Document | No further comments. Work may proceed
+AC | Approved with commets | Work may proceed subject to compliance with incorporation of comments
+NA | Document Not approved | Revise and re-submit after the attached comments have been implemented.
+Purpose: | Purpose Description:
+IFD | Issued For Design
+IFB | Issued For Bid
+IFP | Issued For Purchase
+IFC | Issued For Construction
+
+[sheet Guide]

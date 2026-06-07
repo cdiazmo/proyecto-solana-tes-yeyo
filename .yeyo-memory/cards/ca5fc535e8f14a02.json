@@ -1,0 +1,53 @@
+{
+  "id": "ca5fc535e8f14a02",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0011_R0.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 229966,
+  "size_human": "225 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0011 R0",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13879,
+  "token_estimate": 3469,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/ca5fc535e8f14a02.json",
+  "extracted_path": ".yeyo-memory/extracted/ca5fc535e8f14a02.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1014,
+        "non_empty_rows": 18
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 71,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 72,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "Index",
+        "rows_seen": 53,
+        "non_empty_rows": 11
+      },
+      {
+        "name": "FS-X25721",
+        "rows_seen": 61,
+        "non_empty_rows": 46
+      },
+      {
+        "name": "Sheet1",
+        "rows_seen": 59,
+        "non_empty_rows": 10
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:14.910265+00:00"
+}

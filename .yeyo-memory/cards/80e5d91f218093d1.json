@@ -1,0 +1,108 @@
+{
+  "id": "80e5d91f218093d1",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0004_R5 Pressure transmitters specification RFQ1.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 447058,
+  "size_human": "437 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0004 R5 Pressure transmitters specification RFQ1",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 58724,
+  "token_estimate": 14681,
+  "chunks": 38,
+  "card_path": ".yeyo-memory/cards/80e5d91f218093d1.json",
+  "extracted_path": ".yeyo-memory/extracted/80e5d91f218093d1.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet ",
+        "rows_seen": 1015,
+        "non_empty_rows": 28
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 69,
+        "non_empty_rows": 16
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 70,
+        "non_empty_rows": 16
+      },
+      {
+        "name": "Index",
+        "rows_seen": 78,
+        "non_empty_rows": 26
+      },
+      {
+        "name": "HTF Press. Trans. Specs.",
+        "rows_seen": 69,
+        "non_empty_rows": 53
+      },
+      {
+        "name": "HTF Press. Trans. List",
+        "rows_seen": 65,
+        "non_empty_rows": 35
+      },
+      {
+        "name": "HTF Press. Trans. List (2)",
+        "rows_seen": 63,
+        "non_empty_rows": 32
+      },
+      {
+        "name": "TES Press. Trans. Specs",
+        "rows_seen": 77,
+        "non_empty_rows": 54
+      },
+      {
+        "name": "TES Press. Trans. List I",
+        "rows_seen": 62,
+        "non_empty_rows": 41
+      },
+      {
+        "name": "TES Press. Trans. List I (2)",
+        "rows_seen": 63,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "TES Press. Trans. List II",
+        "rows_seen": 66,
+        "non_empty_rows": 41
+      },
+      {
+        "name": "TES Press. Trans. List II (2)",
+        "rows_seen": 67,
+        "non_empty_rows": 38
+      },
+      {
+        "name": "TES Press. Trans. List III ",
+        "rows_seen": 65,
+        "non_empty_rows": 20
+      },
+      {
+        "name": "TES Press. Trans. List III (2)",
+        "rows_seen": 65,
+        "non_empty_rows": 19
+      },
+      {
+        "name": "N2 Press. Trans. Specs",
+        "rows_seen": 68,
+        "non_empty_rows": 52
+      },
+      {
+        "name": "N2 Press. Trans. List I",
+        "rows_seen": 64,
+        "non_empty_rows": 41
+      },
+      {
+        "name": "N2 Press. Trans. List I (2)",
+        "rows_seen": 64,
+        "non_empty_rows": 40
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:13.866106+00:00"
+}

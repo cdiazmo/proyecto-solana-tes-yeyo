@@ -1,0 +1,22 @@
+{
+  "id": "b89e5cbcdbf52b20",
+  "path": "01 GD AE/I&C/MEM/G70-16-0039-AT-OTI-000005-GAR Cold TES pumps operation for S&T HEX Type.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 428569,
+  "size_human": "419 KB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "G70-16-0039-AT-OTI-000005-GAR Cold TES pumps operation for S&T HEX Type",
+  "doc_code": null,
+  "revision": null,
+  "status": "error",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b89e5cbcdbf52b20.json",
+  "extracted_path": null,
+  "metadata": {
+    "error": "File is not a zip file"
+  },
+  "processed_at": "2026-06-05T09:12:28.221273+00:00"
+}

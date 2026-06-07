@@ -1,0 +1,31 @@
+{
+  "id": "c34897e2d478f3c5",
+  "path": "01 GD AE/Compras/01 HEX/02 Propuestas/095-16 Document List Rev.4.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 17392,
+  "size_human": "17 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "095-16 Document List Rev.4",
+  "doc_code": null,
+  "revision": "Rev.4",
+  "status": "ok",
+  "text_chars": 1841,
+  "token_estimate": 460,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/c34897e2d478f3c5.json",
+  "extracted_path": ".yeyo-memory/extracted/c34897e2d478f3c5.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20160824084250+02'00'",
+      "Author": "alvarobilbao",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "ModDate": "D:20160824084250+02'00'",
+      "Title": "095-16 Document List Rev.4.xlsx"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:11:55.335729+00:00"
+}

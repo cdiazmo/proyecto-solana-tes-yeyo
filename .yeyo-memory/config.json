@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "chunk_chars": 1800,
+  "chunk_overlap": 220,
+  "min_text_chars": 80,
+  "extract_extensions": ["pdf", "docx", "xlsx", "xlsm", "doc"],
+  "archive_extensions": ["zip", "7z"],
+  "metadata_only_extensions": ["dwg", "nwd", "xls", "msg", "jpg", "[no_ext]"],
+  "paths": {
+    "source_index": ".yeyo-index/files.csv",
+    "memory_root": ".yeyo-memory",
+    "cards": ".yeyo-memory/cards",
+    "extracted": ".yeyo-memory/extracted",
+    "chunks": ".yeyo-memory/chunks",
+    "reports": ".yeyo-memory/reports",
+    "sqlite": ".yeyo-memory/sqlite/yeyo-memory.sqlite"
+  }
+}

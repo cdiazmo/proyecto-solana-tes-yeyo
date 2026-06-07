@@ -1,0 +1,37 @@
+{
+  "id": "f7d8cf7a65f3e519",
+  "path": "12 As Built TES 6/00_Permit Package/01 Building Permit/SOLANA TES HX Permit_Pkg_Rev01.pdf",
+  "top_dir": "12 As Built TES 6",
+  "ext": "pdf",
+  "size_bytes": 10935090,
+  "size_human": "10 MB",
+  "mtime_iso": "2026-06-05T06:26:00.000Z",
+  "title": "SOLANA TES HX Permit Pkg Rev01",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 53574,
+  "token_estimate": 13393,
+  "chunks": 34,
+  "card_path": ".yeyo-memory/cards/f7d8cf7a65f3e519.json",
+  "extracted_path": ".yeyo-memory/extracted/f7d8cf7a65f3e519.txt",
+  "metadata": {
+    "pages": 22,
+    "pdf_metadata": {
+      "Title": "SOLANA TES HX Permit_Pkg_02_01_2018",
+      "Author": "Pedro Pajares de Tena",
+      "Producer": "Mac OS X 10.13.4 Quartz PDFContext",
+      "Creator": "Preview",
+      "CreationDate": "D:20180418165045Z00'00'",
+      "ModDate": "D:20180418165045Z00'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:04.807484+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:04.807487+00:00"
+}

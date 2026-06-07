@@ -1,0 +1,30 @@
+{
+  "id": "a38b46056a80dfef",
+  "path": "01 GD AE/Compras/01 HEX/02 Propuestas/095-16 Operational limitations Rev.2.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 223911,
+  "size_human": "219 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "095-16 Operational limitations Rev.2",
+  "doc_code": null,
+  "revision": "Rev.2",
+  "status": "ok",
+  "text_chars": 5457,
+  "token_estimate": 1364,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/a38b46056a80dfef.json",
+  "extracted_path": ".yeyo-memory/extracted/a38b46056a80dfef.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "Author": "JON ANDER AGUNDEZ FUENTES",
+      "Creator": "Microsoft® Word 2010",
+      "CreationDate": "D:20160824090559+02'00'",
+      "ModDate": "D:20160824090559+02'00'",
+      "Producer": "Microsoft® Word 2010"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:11:55.413644+00:00"
+}

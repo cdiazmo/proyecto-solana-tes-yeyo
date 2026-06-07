@@ -1,0 +1,30 @@
+{
+  "id": "7a67da4807a1cd42",
+  "path": "11 Sal de Solana y Corrosion/SUPOSICIÓN DE CONTENIDO DE CLORURO DE LOINTEK DE 0/180212 Lointek Chloride content in salt.pdf",
+  "top_dir": "11 Sal de Solana y Corrosion",
+  "ext": "pdf",
+  "size_bytes": 846709,
+  "size_human": "827 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "180212 Lointek Chloride content in salt",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4088,
+  "token_estimate": 1022,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/7a67da4807a1cd42.json",
+  "extracted_path": ".yeyo-memory/extracted/7a67da4807a1cd42.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "aymc",
+      "CreationDate": "D:20180213084258+01'00'",
+      "ModDate": "D:20180213084258+01'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": "Microsoft Outlook - Memorando"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:17:46.565963+00:00"
+}

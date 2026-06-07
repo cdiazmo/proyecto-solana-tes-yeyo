@@ -1,0 +1,38 @@
+{
+  "id": "671f1d29ef885436",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/HTF/255-HTF-23F-CS30-1_Sht_1.pdf",
+  "top_dir": "Documentacion con sello PE 08",
+  "ext": "pdf",
+  "size_bytes": 322819,
+  "size_human": "315 KB",
+  "mtime_iso": "2026-06-05T06:28:00.000Z",
+  "title": "255-HTF-23F-CS30-1 Sht 1",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/671f1d29ef885436.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Eng Department",
+      "CreationDate": "D:20180921103508-05'00'",
+      "Creator": "AutoCAD 2013 - English 2013 (19.0s (LMS Tech))",
+      "ModDate": "D:20180921103838-05'00'",
+      "Producer": "Acrobat Distiller 18.0 (Windows)",
+      "Title": "Model"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1",
+    "plan_tag": {
+      "kind": "Isometrico de tuberia HTF",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:56.936958+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:56.958724+00:00"
+}

@@ -1,0 +1,315 @@
+Instructions:
+1. Initialing (By/Chk’d/App’d) required on cover sheet only. All other title block information must be included on all pages.
+2. Revisions are identified in the body of the document. 
+Contents
+Page No.
+1 Overview 4
+2 Description 4
+3 References 6
+4 Codes and normative 6
+5 Design basis 7
+5.1 Materials 7
+5.2 Ground features: 8
+5.3 Safety factors and load combination coefficients: 12
+5.4 Loads. 12
+5.4.1 Dead load 12
+5.4.2 Live Load 13
+5.4.3 Ground pressure 13
+5.4.4 Wind load 20
+5.4.5 Seismic load 20
+5.4.6 Thermo load 25
+5.4.7 Snow load 25
+5.5 Design process: 25
+6 Results 27
+7 Annex 1: Load Combinations 27
+7.1 Partial safety factors (g) and combination factors (y) 28
+8 Annex 2. Reinforced Concrete Pit 31
+8.1 Model of calculation 31
+8.2 Forces diagram 32
+8.3 Checking vertical displacement of slab of foundation: 38
+8.4 Checking of Ground bearing pressure 39
+8.5 Design of reinforcement on wall 40
+8.6 Design of reinforcement on slab 46
+Overview
+In the present document, the Drain Back tank pit of Solana Generating Station is designed.
+Description
+The pit’s shape and the different equipment, pipeline and valves that affect to this one are shown in the next image: 
+The Drain back tank pit is composed by walls and slab of foundation, made reinforced concrete, with dimensions: area 24’11”x 15’9”, of inner height of 10’6” and 3’0” of thickness. This pit is projected to support the Drain back tank, pipeline, valves and the integrated pump.
+This pit is projected buried and supported over subbase by filling with suitable material, type A1 or A3 compacted 95% in according to AASTHO T1-180. In this sense, it has account the lateral ground load on the structural calculation of pit.
+Also it is projected a steel structure to support the drain tank equipment, on the slab and anchoraged by several post-installed bolt to this one. In the document 4521-CAL-AEE-75-0003-GAR it shows the check report.
+References
+The ground data are obtained from “Report on Geotechnical Investigation. Abengoa Solar (Solana Power Plant)”, from Speedie and Associates document, Project No. 0911985A, dated 12/21/09 A especially the annex “Final Report” dated 06/21/2010 from Hushmand Associates, Incorporated to Speedie and Associates.
+The loads are obtained from the next documents:
+4521-PLN-FWE-21-52-0001
+4521-PLN-FWE-21-52-0002
+4521-PLN-FWE-21-52-0101
+4521-PLN-FWE-21-52-0001
+Codes and normative 
+IBC 2012 International Building Code
+ASCE 7-05 Minimum Design Loads for Buildings and Other Structures.
+ACI-318 Building Code Requirements for Structural Concrete.
+API 650 Welded Steel Tanks for Oil Storage.
+Design basis
+For design purpose a static finite elements analysis have been performed using a shell elements in order to apply the different loads.
+Materials
+In accordance with the Geotechnical Report, the soil has a sulfate concentration within the range of 44 to 170 p.p.m., therefore the exposure must be classified as S1. Though the soil water contains chlorides in concentrations of 120 to 430 ppm, the water level is more than ten metres below grade which makes this chloride contents irrelevant. Hence the following materials are chosen:
+Concrete
+4000 psi
+water-cement relation, W/CM ≤ 0.5
+Type II cement
+Steel: 
+Grade 60
+Ground features:
+For the ground bearing capacity, according to the Geothecnical Report, it can be considered a value of 3.000 psf. In according to Test boring (number PB-09 and PB-11), nearer to the area where it project this foundations, the average number of blows are about 25 to 30 blow/feet, so the ground bearing capacity is about 2.850 – 3.400 psf.
+Where, 
+N= Number of blows per feet: 25-30 b/ft
+B= width of footing =11’6”
+D= depth of foundation=5’0”
+Image 1: Locate of the tests boring PB-09 and PB-11 where it projects the foundation
+Image 2: Test boring PB-09 to depth where it projects the foundation
+Image 3: Test boring PB-11 to depth where it projects the foundation
+Safety factors and load combination coefficients:
+Fracture U.L.S. concrete: ACI-318
+Fracture U.L.S. foundation concrete: ACI-318
+Fracture U.L.S. rolled steel: ANSI/AISC 360-05 (LRFD)
+Loads.
+Dead load
+Specific weight of reinforced concrete elements: 156 lb /ft3
+Specific weight of steel elements: 490 lb /ft3
+In according to supplier input data:
+Weight of Drain tank: 6.500 lb
+Weight of pump: 440 lb
+Live Load
+Weight water in maximum capacity of tank: 13.000 lb 
+Distributed live load: 100 lb / feet2
+Live load on surrounding ground: 200 lb / feet2
+Ground pressure
+For the case of the land thrust an active thrust is considered in static conditions and a dynamic thrust, according to the formulation of Okabe and Mononobe.
+Static active earth pressure
+,where γ is ground density , H height y KAE static active coefficient.
+Dynamic active earth pressure:
+Where KAD is dynamic active coefficient 
+En base a este desarrollo teórico se determinan los coeficientes de empuje.
+Static active earth pressure: Ka = 0.34
+Seismic acceleration: SDS = 0.245; I = 1.4; K = 1.5 (low ductility). The active earth pressure in seismic situation is estimated to be 0.627 using the Mononobe-Okabe formulation below:
+Earth Presure (Static):
+P=Density (lb/ft3) x Kast x Z(ft)
+Pmax=120 lb/ft3 x 0,34 x 11 ft = 448 lb/ft2
+Earth pressure (Dynamic):
+P=Density (lb/ft3) x Kady x Z(ft)
+Pmax=120 lb/ft3 x 0,627 x 11 ft = 827 lb/ft2
+In Direction X:
+In Direction Y:
+Wind load
+Load not applied.
+Seismic load
+To be defined the response spectrum to apply at this project; it has considered the next factors:
+Site class definition:_ class D
+Ss=0.230g 
+S1=0,088g
+Fa=1.6 Site coefficient
+Fv=2.4
+Sms= 0,368g
+Sm1=0,212g
+SDS= 0.245g
+SD1=0.142g
+In this sense, to calculate of equipment anchorage having account of seismic load, it has to consider the next equations, only in the case that there are not input data from supplier:
+, where ‘Wp’ is the equipment weight.
+Thermo load
+Not applied.
+Snow load
+Not applied.
+Design process:
+Rebar quantity has been obtained according to ACI 318 specifications using the rectangular diagram method. Adherence, cracking and shear strength have been checked.
+The footing has been reinforced with a minimum of 1.8 ‰ per each side as the ACI-318 indicates in 7.12.2.1 for mat foundations and this same reinforcement has been used as base reinforcement. In the case of walls have been designed with a minimum reinforcement in according to the next table 11.6.1 from ACI-318: 
+Results
+To analyse the foundation CYPECAD and SAP2000 software has been used, where the results of the analyzing process are shown in computer data annexes 2 and 3.
+Annex 1: Load Combinations
+The load combinations will be defined according to the following criteria for the different project situations:
+- Situations persistent or transient
+- Situations seismic loading
+- Where:
+Partial safety factors (g) and combination factors (y)
+For each project situation and limit state, the loading coefficients will be determined by:
+Fracture U.L.S. Concrete: ACI 318M-08
+Fracture U.L.S. Foundation concrete: ACI 318M-08
+Fracture U.L.S. Rolled steel: ANSI/AISC 360-05 (LRFD)
+They have defined the next load in according to ACI-318 standard:
+D Dead Load
+L Live Load (L0 para live load reduced)
+Lr Live load on proof
+W Wind
+R Rain load
+E Seismic load
+S snow
+H Ground pressure
+F Fluid pressure
+Design combined. Ultimate state limit
+1,4D + 1,4F + 1,6H Eq1.
+1,2D + 1,2F + 1,6H + 1,6L + 0,5(Lr or S or R) Eq2.
+1,2D + 1,2F + 0,9H + 1,6(Lr or S or R) + (L or 0,5W) Eq3.
+1,2D + 1,2F + 0,9H + 1W + L + 0,5(Lr or S or R) Eq4.
+1,2D + 1,2F + 0,9H + 1,4E + L + 0,2S Eq5.
+0,9D + 0,9H + 1W Eq6.
+0,9D + 0,9F + 0,9H + 1,4E Eq7.
+Service state limit and ground conditions:
+D + F + H Eq1
+D + F + H + L Eq2
+D + F + H + (Lr or S or R) Eq3
+D + F + H + 0,75L + 0,75(Lr or S or R) Eq4
+D + F + H + (0,6W or 0,7E) Eq5
+D + H + F + 0,75L + 0,75 F + 0,75(0,6W) + 0,75(Lr or S or R) Eq6a
+D + H + F + 0,75L + 0,75F + 0,75(0,7E) + 0,75S Eq6b
+0,6D + F + H + 0,6W Eq7
+0,6D + F + H + 0,7E Eq8
+Annex 2. Reinforced Concrete Pit
+Model of calculation
+In order to design and check of different walls designed, it has used of SAP2000 calculation software. 
+In the next image it shows the civil work that is studied in this document:
+Forces diagram
+Diagram of forces:
+Axial forces: Maximum and minimum 
+Shear force:
+Bending moment:
+Checking vertical displacement of slab of foundation:
+It has calculated the biggest vertical displacement of slab of foundation for the next case: Enveloped of State Limit of service (SLS_env). The maximum value allowable is: 1 inch.
+The maximum value calculated is 0,105 inch.
+Checking of Ground bearing pressure
+For the ground bearing capacity, according to the Geothecnical Report, it can be considered a value of 3.000 psf. For the case combination SLS Eq. 4C it has a maximum value: 1.680 psf, so it is smaller than the ground bearing capacity.
+Design of reinforcement on wall
+Vertical reinforcement
+The Base reinforcement in according to minimum ratio, Asmin=0,0012 x b x h= 0,57 inch2. It has design with #4 / 8”. As=0,97 inch2.
+Forces used for checking this reinforcement:
+Moment force M22 (Ultimate limit state, Min): 10 kip*ft
+Shear force V23 (Ultimate limit state, Max and Min): 5 kip
+Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar
+Horizontal reinforcement
+Base reinforcement in according to minimum ratio, Asmin=0,002 x b x h= 0,93 inch2. It has designed with #4 / 8”. As=0,97 inch2.
+Forces used for checking this reinforcement:
+Moment force M11 (Ultimate limit state, Max and Min): 7 kip*ft
+Shear force V13 (Ultimate limit state, Max and Min): 3 kip
+Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar
+Design of reinforcement on slab
+Top and Bottom reinforcement:
+Base reinforcement in according to minimum ratio, Asmin=0,0018 x b x h= 0,84 inch2. It has design with #4 / 8”. As=0,97 inch2.
+Forces used for checking this reinforcement:
+Moment force M11, M22 (Ultimate limit state, Max and Min): 10 kip*ft
+Shear force V12, V23 (Ultimate limit state, Max and Min): 5 kip
+Conclusion: After of checking by "Flexure and Shear design in according to ACI-318", using the base reinforcement, it is Ok, so it is not necessary vertical additional rebar.
+ | | | | | | | | | | Description of
+Rev. No. | | Date | | By | | Chk’d | | App’d | | Revision Including Page Numbers
+0 | | 10/01/2017 | | LMOB | | JAG | | JMGL | | For Construction (46 pages)
+1 | | 04/05/2018 | | PPT | | PPT | | IGA | | Updated IBC reference to IBC 2012
+TABLE: Function - Response Spectrum - User | TABLE: Function - Response Spectrum - User | TABLE: Function - Response Spectrum - User | TABLE: Function - Response Spectrum - User
+Name | Period | Accel | FuncDamp
+Text | Sec | Unitless | Unitless
+Solana | 0 | 0,1 | 0,05
+Solana | 0,05 | 0,13 | 
+Solana | 0,1 | 0,16 | 
+Solana | 0,15 | 0,2 | 
+Solana | 0,2 | 0,245 | 
+Solana | 0,25 | 0,245 | 
+Solana | 0,3 | 0,245 | 
+Solana | 0,35 | 0,245 | 
+Solana | 0,4 | 0,245 | 
+Solana | 0,45 | 0,245 | 
+Solana | 0,5 | 0,245 | 
+Solana | 0,55 | 0,22 | 
+Solana | 0,6 | 0,21 | 
+Solana | 0,65 | 0,2 | 
+Solana | 0,7 | 0,19 | 
+Solana | 0,75 | 0,18 | 
+Solana | 0,8 | 0,17 | 
+Solana | 0,85 | 0,16 | 
+Solana | 0,9 | 0,15 | 
+Solana | 0,95 | 0,14 | 
+Solana | 1 | 0,13 | 
+Solana | 1,05 | 0,125 | 
+Solana | 1,1 | 0,12 | 
+Solana | 1,15 | 0,115 | 
+Solana | 1,2 | 0,11 | 
+Solana | 1,25 | 0,105 | 
+Solana | 1,3 | 0,1 | 
+Solana | 1,35 | 0,095 | 
+Solana | 1,4 | 0,09 | 
+Solana | 1,45 | 0,087 | 
+Solana | 1,5 | 0,085 | 
+Solana | 1,55 | 0,082 | 
+Solana | 1,6 | 0,08 | 
+Solana | 1,65 | 0,078 | 
+Solana | 1,7 | 0,076 | 
+Solana | 1,75 | 0,074 | 
+Solana | 1,8 | 0,072 | 
+Solana | 1,85 | 0,07 | 
+Solana | 1,9 | 0,068 | 
+Solana | 1,95 | 0,066 | 
+Solana | 2 | 0,065 | 
+Solana | 2,05 | 0,063 | 
+Solana | 2,1 | 0,061 | 
+Solana | 2,15 | 0,06 | 
+Solana | 2,2 | 0,059 | 
+Solana | 2,25 | 0,058 | 
+Solana | 2,3 | 0,057 | 
+Solana | 2,35 | 0,056 | 
+Solana | 2,4 | 0,055 | 
+Solana | 2,45 | 0,054 | 
+Solana | 2,5 | 0,053 | 
+Solana | 2,55 | 0,052 | 
+Solana | 2,6 | 0,051 | 
+Solana | 2,65 | 0,05 | 
+Solana | 2,7 | 0,049 | 
+Solana | 2,75 | 0,048 | 
+Solana | 2,8 | 0,047 | 
+Solana | 2,85 | 0,046 | 
+Solana | 2,9 | 0,045 | 
+Solana | 2,95 | 0,044 | 
+Solana | 3 | 0,043 | 
+Solana | 3,05 | 0,0425 | 
+Solana | 3,1 | 0,042 | 
+Solana | 3,15 | 0,0415 | 
+Solana | 3,2 | 0,041 | 
+Solana | 3,25 | 0,0405 | 
+Solana | 3,3 | 0,04 | 
+Solana | 3,35 | 0,0395 | 
+Solana | 3,4 | 0,039 | 
+Solana | 3,45 | 0,0385 | 
+Solana | 3,5 | 0,038 | 
+Solana | 3,55 | 0,0375 | 
+Solana | 3,6 | 0,037 | 
+Solana | 3,65 | 0,0365 | 
+Solana | 3,7 | 0,036 | 
+Solana | 3,75 | 0,0355 | 
+Solana | 3,8 | 0,035 | 
+Solana | 3,85 | 0,0345 | 
+Solana | 3,9 | 0,034 | 
+Solana | 3,95 | 0,0335 | 
+Solana | 4 | 0,033 | 
+Solana | 4,05 | 0,0325 | 
+Solana | 4,1 | 0,032 | 
+Solana | 4,15 | 0,0315 | 
+Solana | 4,2 | 0,031 | 
+Solana | 4,25 | 0,0305 | 
+Solana | 4,3 | 0,03 | 
+Solana | 4,35 | 0,0295 | 
+Solana | 4,4 | 0,029 | 
+Solana | 4,45 | 0,0285 | 
+Solana | 4,5 | 0,028 | 
+Solana | 4,55 | 0,0275 | 
+Solana | 4,6 | 0,027 | 
+Solana | 4,65 | 0,0265 | 
+Solana | 4,7 | 0,026 | 
+Solana | 4,75 | 0,0255 | 
+Solana | 4,8 | 0,025 | 
+Solana | 4,85 | 0,0245 | 
+Solana | 4,9 | 0,024 | 
+Solana | 4,95 | 0,0235 | 
+Solana | 5 | 0,023 | 
+Gk | Permanent load
+Pk | Prestressing action
+Qk | Variable load
+AE | Seismic load
+gG | Permanent load partial safety factor
+gP | Partial safety coefficient for prestressing action
+gQ,1 | Main variable load partial safety factor
+gQ,i | Accompanying variable load partial safety factor
+gAE | Seismic load partial safety factor

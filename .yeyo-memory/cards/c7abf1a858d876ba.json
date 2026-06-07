@@ -1,0 +1,193 @@
+{
+  "id": "c7abf1a858d876ba",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-64-0004_R2 HTF Services - Triple Offset Rotary On-Off Valve.xlsx",
+  "top_dir": "01 GD AE",
+  "ext": "xlsx",
+  "size_bytes": 3479644,
+  "size_human": "3.3 MB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-64-0004 R2 HTF Services - Triple Offset Rotary On-Off Valve",
+  "doc_code": "4521-ESP-AGE-39-64-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 121385,
+  "token_estimate": 30346,
+  "chunks": 77,
+  "card_path": ".yeyo-memory/cards/c7abf1a858d876ba.json",
+  "extracted_path": ".yeyo-memory/extracted/c7abf1a858d876ba.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Cover Sheet",
+        "rows_seen": 1013,
+        "non_empty_rows": 21
+      },
+      {
+        "name": "Cover Sheet 2",
+        "rows_seen": 70,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Cover Sheet 3",
+        "rows_seen": 71,
+        "non_empty_rows": 13
+      },
+      {
+        "name": "Index",
+        "rows_seen": 68,
+        "non_empty_rows": 41
+      },
+      {
+        "name": "HV-125403",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-225403",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-325403",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-425403",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-525403",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-625403",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-125406",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-225406",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-325406",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-425406",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-525406",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-625406",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-125137",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-225137",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-325137",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-425137",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-525137",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-625137",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-125154",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-225154",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-325154",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-425154",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-525154",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-625154",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-125164",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-225164",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-325164",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-425164",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-525164",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      },
+      {
+        "name": "HV-625164",
+        "rows_seen": 64,
+        "non_empty_rows": 59
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:12:10.408843+00:00"
+}

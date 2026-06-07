@@ -1,0 +1,35 @@
+{
+  "id": "a31d5a3bf0507307",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/Solana Heat Exchangers - Site Layout_S1.1.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 1770432,
+  "size_human": "1.7 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "Solana Heat Exchangers - Site Layout S1.1",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4182,
+  "token_estimate": 1045,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/a31d5a3bf0507307.json",
+  "extracted_path": ".yeyo-memory/extracted/a31d5a3bf0507307.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "Mac OS X 10.13.3 Quartz PDFContext",
+      "Creator": "Adobe Acrobat Pro DC 18.9.20050",
+      "CreationDate": "D:20180329175533Z00'00'",
+      "ModDate": "D:20180329175533Z00'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:59.886294+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:59.886297+00:00"
+}

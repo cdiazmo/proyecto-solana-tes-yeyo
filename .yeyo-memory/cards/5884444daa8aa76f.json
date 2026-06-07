@@ -1,0 +1,59 @@
+{
+  "id": "5884444daa8aa76f",
+  "path": "02 GD LOI/mama/4521-MOM-LOI-039-062-0001-GAR Rev02 Performnace Test Procedure.pdf",
+  "top_dir": "02 GD LOI",
+  "ext": "pdf",
+  "size_bytes": 600257,
+  "size_human": "586 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-MOM-LOI-039-062-0001-GAR Rev02 Performnace Test Procedure",
+  "doc_code": "4521-MOM-LOI-039-062-0001",
+  "revision": "Rev02",
+  "status": "ok",
+  "text_chars": 19317,
+  "token_estimate": 4829,
+  "chunks": 13,
+  "card_path": ".yeyo-memory/cards/5884444daa8aa76f.json",
+  "extracted_path": ".yeyo-memory/extracted/5884444daa8aa76f.txt",
+  "metadata": {
+    "pages": 19,
+    "pdf_metadata": {
+      "CreationDate": "D:20170316174206+01'00'",
+      "Author": "María Gracia Torras Rodríguez",
+      "Creator": "Microsoft® Word 2010",
+      "Producer": "Microsoft® Word 2010",
+      "ModDate": "D:20170317092252+01'00'",
+      "Title": "Opis techniczny EN"
+    },
+    "encrypted": false,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::320",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 320,
+        "doc_code": "4521-MOM-LOI-039-062-0001",
+        "title": "PERFORMANCE TEST PROCEDURE",
+        "revision": "00",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::IDL::320",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "IDL",
+        "row": 320,
+        "doc_code": "4521-MOM-LOI-039-062-0001",
+        "title": "PERFORMANCE TEST PROCEDURE",
+        "revision": "00",
+        "status": "Received",
+        "date": "2016-11-23 00:00:00",
+        "discipline": "HEX"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:13:29.422201+00:00"
+}

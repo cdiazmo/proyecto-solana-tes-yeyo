@@ -1,0 +1,172 @@
+[page 1]
+Support definition-P02
+Front View
+(Looking to pipe orientation)
+Side view
+270
+0
+90
+180
+UP OR NORTH
+Ȧ
+H=21.81 inch
+L1 (variable according manufacturer)
+A=12.99 inch
+Isometric reference point Ȧ ==
+0.39
+Existing structure
+CL
+Calcium silicate
+insulation o
+similar
+Detail 1 (Ori. ref.)
+Notes:
+1.- Element provided by vendor, to define
+final geometry
+2.- See loads in support list.
+L=15.55 inch
+¦)0&.*
+Isometric reference point
+Existing structure
+Existing typical shoe
+Not welded to the shoe
+Anti-friccion plate
+====
+Notas:
+1.-Friction coefficient obtained should be lower than 0.15
+2.-Element provided by vendor. Define final geometry.
+3.- A plate of stainless steel will be welded at bottom of shoe. It will be
+provided by vendor. Thickness = 0.07 inch. 
+4.- Base plate will be welded at structure.
+Non-rotating trunnion
+Support definition-P13
+Elevation
+(Looking to pipe orientation)Side View
+C
+A=4.72 inch
+B=4.72 inch t=1.77 inch
+Graphite self-lubricating,
+spherical plate
+Single S
+Ȧ
+Type of shoe
+A
+B
+C
+D
+E
+F
+123A4
+1234
+A
+B
+C
+D
+E
+F
+Drawing No: Scale:
+Project:
+Sheets:K`]]lf³2
+Status:
+EPC Contractor:
+Supplier Eng:
+Client:
+Drawn by Rev.: Date:Reviewed by Approved by Description:
+This drawing and the design it covers are the property of Abeinsa.They
+have been merely loaned by express agreement of the borrower,who states
+that it cannot be reproduced,copied, loaned, exhibited or used under any
+circunstances. As an exception, it can be used in a limited and private way,
+as long as Abeinsa gives permission to the borrower for using it through a
+written consent.
+Stamp:
+Typical Standard
+257-MS-10EF-S-006
+General shoe for rigid insulation and antifriction plate
+Insulated
+4521-PLN-DOT-75-63-0300
+1 2
+-
+FOR CONSTRUCTION
+ARIZONA SOLAR ONE
+SOLANA
+00 08/29/2018First emisionJRCHRIGA
+Ildefonso Gonzalez, P.E, Ph.D
+
+[page 2]
+B=24.01 inch
+= =
+Existing structure, see
+type of assembly options
+See Option 2 for
+profiles definition
+Elevation
+(Looking to pipe orientation)
+Support Definition
+ Type of profile-F
+ Assembly detail
+ Vertical profile orientation
+B
+B
+Existing resting support
+A
+Option
+Code Profile Serie
+AW 1
+BW 2
+CW 3
+DW 4
+EW 5
+FW 6
+GW 7
+B max.= 39.37 in
+Max Loads. (libras)
+247
+427
+562
+741
+944
+1394
+1956
+4x Stiffeners thk. 0.39 in
+18"x18"x1" BASE PLATE
+4'-5"
+A
+B
+C
+D
+E
+F
+1 23A 4
+1 23 4
+A
+B
+C
+D
+E
+F
+Drawing No:Scale:
+Project:
+Sheets: Sheet nº:
+Status:
+EPC Contractor:
+Supplier Eng:
+Client: Stamp:
+Drawn byRev.: Date: Reviewed by Approved byDescription:
+This drawing and the design it covers are the property of Abeinsa.They
+have been merely loaned by express agreement of the borrower,who states
+that it cannot be reproduced,copied, loaned, exhibited or used under any
+circunstances. As an exception, it can be used in a limited and private way,
+as long as Abeinsa gives permission to the borrower for using it through a
+written consent.
+Typical Standard
+257-MS-10EF-S-006
+T Support (H Profiles)
+Insulated /Uninsulated
+22
+-
+FOR CONSTRUCTION
+ARIZONA SOLAR ONE
+SOLANA
+00 08/29/2018 First Emission JRC HR IGA
+Ildefonso Gonzalez, P.E. PhD
+1 10/17/19 AS-BUILT EV HH LJ

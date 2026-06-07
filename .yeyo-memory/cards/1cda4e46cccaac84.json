@@ -1,0 +1,30 @@
+{
+  "id": "1cda4e46cccaac84",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/Pipe material certificates.pdf",
+  "top_dir": "04 GD Fabricacon LOI TES 3",
+  "ext": "pdf",
+  "size_bytes": 6571897,
+  "size_human": "6.3 MB",
+  "mtime_iso": "2026-06-05T06:19:00.000Z",
+  "title": "Pipe material certificates",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3008,
+  "token_estimate": 752,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/1cda4e46cccaac84.json",
+  "extracted_path": ".yeyo-memory/extracted/1cda4e46cccaac84.txt",
+  "metadata": {
+    "pages": 19,
+    "pdf_metadata": {
+      "CreationDate": "D:20220919085927+02'00'",
+      "Creator": "Adobe Acrobat Pro 2017 17.12.30262",
+      "ModDate": "D:20220919085927+02'00'",
+      "Producer": "Adobe Acrobat Pro 2017 17.12.30262",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-05T09:14:26.940640+00:00"
+}

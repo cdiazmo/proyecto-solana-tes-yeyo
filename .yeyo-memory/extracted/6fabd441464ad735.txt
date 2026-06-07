@@ -1,0 +1,5112 @@
+[page 1]
+ABEINSA ENGINEERING
+Client: 
+Project:
+Title: 
+Document:
+4521-HDD-AEE-39-70-0011-GAR
+Review: 01
+Date:
+Reviewed by:
+Jose María Rodríguez León
+Approved by:
+Jose María Rodríguez León
+Data sheet
+© This procedure belongs to Abengoa. Its total or partial reproduction in any form and its distribution to third parties is forbidden without the express 
+written consent of Abengoa
+ABEINSA EPC USA
+Solana
+Pressure transmitters
+Jan/16/2017
+Prepared by:
+Manuel Muñoz Arranz
+
+[page 2]
+Document Nº:
+01 Jan/16/2017
+00 Dec/23/2016
+Rev. Date
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+In case of discrepancies among these specifications included as annexes, the option more demanding will be 
+applied. In case of discrepancies among these specifications and the data sheet it will be applied as specified in 
+data sheet. Otherwise Abengoa will be informed for deliberation.
+ABEINSA 
+ENGINEERING
+Pressure transmitters
+Solana
+Description:
+Data sheet
+Project:
+Annexes
+Description
+Client:
+For the Pressure transmitters included in this data sheet shall be taken into account the following deviations from the technical 
+conditions specified in the specifications that are indicated above:
+Exceptions to Specifications 
+Note 1
+ABEINSA EPC USA
+4521-HDD-AEE-39-70-0011-GAR
+Issue for bid
+Issue for bid
+Annex III
+Annex II
+Attached documents with the Data Sheet 
+Along with the sheets, the following documents shall be taken into account in the design, manufacture, supply, testing, warranty 
+and spare parts of Pressure transmitters included in this Data Sheet:
+Annex I
+Annex VI
+Annex VII
+Annex IV
+Annex V
+Annex X
+Annex VIII
+Annex IX
+
+[page 3]
+Document Nº:
+01 Jan/16/2017
+00 Dec/23/2016
+Rev. Date1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+Note 3:
+Minimum Spare Parts
+General Notes
+Notes
+Description:
+Data sheet
+Description
+General Informations and Requirements
+Pressure transmitters
+Issue for bid
+Issue for bid
+Solana
+4521-HDD-AEE-39-70-0011-GARClient:
+ABEINSA EPC USA
+ABEINSA 
+ENGINEERING Project:
+Notes:
+Note 1:
+Note 2: It will be indicated in red color the instruments which have been eliminated respect to the last 
+review.
+It will be indicated in green color the instruments which have been included in the scope respect to 
+the last review.
+It will be indicated in yellow color the cells corresponding to technical specifications that imply 
+diversions with regard to the general features of the rest of pressure transmitters
+It will be indicated in blue color the cells whose specified technical features involve a change in the 
+technical conditions regarding the previous revision.Note 4:
+
+[page 4]
+Document Nº:
+01 Jan/16/2017
+00 Dec/23/2016
+Rev. Date
+1 Abengoa or some represent person will attend the factory inspections which are marked below:
+2
+3 X
+4
+5
+6
+7
+8
+9
+10
+11 X
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21 Yes
+22 No
+23 Yes
+24 Yes
+25
+26
+27
+28 No
+29 No
+30 Yes
+31 No
+32 No
+33 No
+34 Yes
+35
+36
+37 Yes
+38 Yes
+39
+40
+41
+42 Yes
+43 Yes
+44 Yes
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+Notes
+The documentation will be according to the format which is stablished by Abengoa
+With the supply delivery
+ - Manuals
+ - Manufacturing Dossier 
+ - Design Dossier
+Final Quality Dossier:
+2 weeks after the delivery
+Deliver
+4 paper copies
++
+1 electronic copy
+Manuals
+Delivered 
+Documentation 
+Before Manufacturing
+Design Dossier 2 weeks after the purchase 
+order
+Maintenance
+Installation
+Operation
+Deliver
+1 electronic copy
+YesCE Confirmity Certificate. 
+Complyment according to PE directives 97/23/EC, EMC 89/336/EEC, ATEX 94/9/EC
+Calibration Certificate
+General Confirmity Certificate according to Abengoa Requirements.
+Manufacturing Dossier 
+Visual and Dimensional Control Certificate.
+Material Certificate of Welding Consumables. 
+Hidrostatic Test Certificate.
+Welder Qualification Certificate. 
+WPS/ PQR Certificate
+Material Certificates (EN 10204 3.1B)
+No-Destructive Welding Test Certificates (END, LP...)
+ Vendor's Documenttaion and Drawings Requirements (VDDR) 
+Calculation Sheet
+Dimensional Drawing / Process Connection Diagrams
+Electrical connections drawing 
+Data Sheets
+Design Dossier
+Notes
+Final Inspection before the equipment deliberation.
+The supplier will advise of the previously expecting date for the inspection with at least two weeks in advance. In case of not
+having been received confirmation, the supplier will be able to carry on with the manufacture and delivery planning.
+Follow-up inspection of quality and term manufacturing 
+Inspection of Hydrostatic PressureTest.
+Inspection of no-destructive Welding Test.
+Analysis and Inspections Plan (AIP)
+Description:
+AIP & VDDRData sheet Issue for bid
+Pressure transmitters
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 5]
+Document Nº:
+01 Jan/16/2017
+00 Dec/23/2016
+Rev. Date
+1 6
+2 7
+3 8
+4 9
+5 10
+6 11
+7 12
+8 13
+9 14
+10 15
+11 16
+12 17
+13 18
+14 19
+15 20
+16 21
+17 22
+18 23
+19 24
+20 25
+21 26
+22 27
+23 28
+24 29
+25 30
+26 31
+27 32
+28 33
+29 34
+30 35
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+Sheet Nº 
+ABEINSA 
+ENGINEERING
+Description:
+Data sheet
+Pressure transmitters
+Client:
+ABEINSA EPC USA
+Tag
+Temperature transmitter
+Instrument Type
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+PIT-625506
+PIT-525503
+PIT-625507
+PIT-525504
+PIT-625142
+4521-HDD-AEE-39-70-0011-GAR
+Description
+Issue for bid
+Issue for bid
+Review1
+1
+Index
+1
+1
+1
+1
+Temperature transmitter
+PIT-625501
+PIT-625502
+1
+Temperature transmitter
+Temperature transmitter
+PIT-625504
+PIT-625503
+PIT-625505
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+PIT-525120A/B/C
+PIT-525110A/B/C
+PIT-525506
+PIT-325701
+PIT-625510
+PIT-325702
+PIT-525507
+PIT-525508
+PIT-525509
+PIT-625139
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+PIT-525139
+PIT-525505
+PIT-625508
+PIT-625509
+PIT-625120A/B/C
+PIT-625110A/B/C
+PIT-525510
+PIT-525142
+Temperature transmitter
+Temperature transmitter
+PIT-525501
+PIT-525502
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+Temperature transmitter
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Project: Solana
+
+[page 6]
+Document Nº:
+Sheet
+01 Jan/16/2017 6
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service Molten salt pressure between A and B shells of TES HEX
+Location (Equipment / Pipe) 255-MS-01F-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625501
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 7]
+Document Nº:
+Sheet
+01 Jan/16/2017 7
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service Molten salt pressure between B and C shells of TES HEX
+Location (Equipment / Pipe) 255-MS-02F-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625502
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 8]
+Document Nº:
+Sheet
+01 Jan/16/2017 8
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service Molten salt pressure between C and D shells of TES HEX
+Location (Equipment / Pipe) 255-MS-03F-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625503
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 9]
+Document Nº:
+Sheet
+01 Jan/16/2017 9
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service Molten salt pressure between D and E shells of TES HEX
+Location (Equipment / Pipe) 255-MS-04F-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625504
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 10]
+Document Nº:
+Sheet
+01 Jan/16/2017 10
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service Molten salt pressure between D and E shells of TES HEX
+Location (Equipment / Pipe) 255-MS-05F-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625505
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 11]
+Document Nº:
+Sheet
+01 Jan/16/2017 11
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+Material/ Length of Capillary tube 316 SS 10 ft
+Seal Liquid -
+Instrument Connection -
+Distance between connections N/A
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing - -
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Seal Liquid
+Yes
+NEMA 4
+Process Flanges and Adapters Material
+Toric Gaskets Material
+Silicone
+150%
+Transmitter Housing Material 
+Filling Fluid
+Aluminum Alloy
+Note 1
+ABEINSA 
+ENGINEERING
+Client:
+ABEINSA EPC USAFlow
+Location (Equipment / Pipe)
+P&ID Number/ Review Number
+Service
+Fluid/ State LiquidHTF
+Process Data 
+1
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Design Pressure
+4521-HDD-AEE-39-70-0011-GAR
+Description
+Pressure transmitter datasheet
+PIT-625506
+Project: Solana
+Tag:
+Issue for bid
+Measure Type
+Instrument Range
+Relative Pressure
+Differential Pressure
+Temperature
+Density
+Viscosity
+Design Temperature
+Transmitter 
+Issue for bid
+320 & FV
+750,2
+2
+General 
+Supply Units
+255-HTF-01F-CS30-24"
+4521-PLN-AEE-68-71-P278-GAR
+Pressure
+Eq. 
+HTF pressure between A and B shells of TES HEX
+According to AIP
+Cleaning for special applications
+Remote Indicator
+Built Indicator
+Manifold 
+Assembly Support 
+Serial number
+Manufacturer
+Model
+Name Plate
+Inspections
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F
+By supplier
+Drain/Vent Valve
+By supplier
+Documentation According to VDDR
+Notes Options 
+No
+No
+ Support for 2 inch pipe (vertical mounting)
+Stainless Steel AISI 316
+Calibration Range
+Zero Adjustement / Span Adjustement
+Electrical Classification
+Electrical Connection
+Environmental Protection
+Body-Wetted Parts Material
+Power Supply/ Output Signal
+0,1 % of the adjustable rangeAccuracy
+ASTM A193 Grade B7M
+Stainless Steel AISI 316
+Yes
+No
+Capacitive
+Class 1, Division 2, Group D
+1/2" NPT
+N/A
+24 Vdc 4 - 20 mA (2 wires) + HART
+Graphite
+Overpressure
+Diaphragm Material
+Stainless Steel AISI 316
+Measure Sensor Type
+Bolts Material
+By supplier By supplier
+0 285,5
+Yes Yes
+
+[page 12]
+Document Nº:
+Sheet
+01 Jan/16/2017 12
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625507
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service HTF pressure between B and C shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-02F-CS30-24"
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing - -
+Seal Liquid -
+Instrument Connection -
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+
+[page 13]
+Document Nº:
+Sheet
+01 Jan/16/2017 13
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625508
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service HTF pressure between C and D shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-03F-CS30-24"
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing - -
+Seal Liquid -
+Instrument Connection -
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+
+[page 14]
+Document Nº:
+Sheet
+01 Jan/16/2017 14
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service HTF pressure between D and E shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-04F-CS30-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625509
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 15]
+Document Nº:
+Sheet
+01 Jan/16/2017 15
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P278-GAR 2
+Supply Units 1
+Service HTF pressure between E and F shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-05F-CS30-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625510
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 16]
+Document Nº:
+Sheet
+01 Jan/16/2017 16
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service Molten salt pressure between A and B shells of TES HEX
+Location (Equipment / Pipe) 255-MS-01E-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525501
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 17]
+Document Nº:
+Sheet
+01 Jan/16/2017 17
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service Molten salt pressure between B and C shells of TES HEX
+Location (Equipment / Pipe) 255-MS-02E-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525502
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 18]
+Document Nº:
+Sheet
+01 Jan/16/2017 18
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service Molten salt pressure between C and D shells of TES HEX
+Location (Equipment / Pipe) 255-MS-03E-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525503
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 19]
+Document Nº:
+Sheet
+01 Jan/16/2017 19
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service Molten salt pressure between D and E shells of TES HEX
+Location (Equipment / Pipe) 255-MS-04E-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525504
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 20]
+Document Nº:
+Sheet
+01 Jan/16/2017 20
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service Molten salt pressure between D and E shells of TES HEX
+Location (Equipment / Pipe) 255-MS-05E-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525505
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 21]
+Document Nº:
+Sheet
+01 Jan/16/2017 21
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service HTF pressure between A and B shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-01F-CS30-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525506
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 22]
+Document Nº:
+Sheet
+01 Jan/16/2017 22
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service HTF pressure between B and C shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-02F-CS30-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525507
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 23]
+Document Nº:
+Sheet
+01 Jan/16/2017 23
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service HTF pressure between C and D shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-03F-CS30-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525508
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 24]
+Document Nº:
+Sheet
+01 Jan/16/2017 24
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service HTF pressure between D and E shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-04F-CS30-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525509
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 25]
+Document Nº:
+Sheet
+01 Jan/16/2017 25
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285,5
+Temperature
+Density
+Viscosity
+Design Temperature 750,2
+Design Pressure 320 & FV
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P277-GAR 2
+Supply Units 1
+Service HTF pressure between E and F shells of TES HEX
+Location (Equipment / Pipe) 255-HTF-05F-CS30-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525510
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 26]
+Document Nº:
+Sheet
+01 Jan/16/2017 26
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 - - lb/h
+7 - 0,045 psig
+8 - - psi
+9 - 718 ºF
+10 - 115,3 lb/ft3
+11 - 1,899 cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 15
+Temperature
+Density
+Viscosity
+Design Temperature 50,76
+Design Pressure 750
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P279-GAR 2
+Supply Units 1
+Service Pressure at MS drain back tank
+Location (Equipment / Pipe) 3-MT-257
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-325701
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 27]
+Document Nº:
+Sheet
+01 Jan/16/2017 27
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 - 160756 lb/h
+7 - 50 psig
+8 - - psi
+9 - 640 ºF
+10 - 118,7 lb/ft3
+11 - 3 cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 170
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 200
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P279-GAR 2
+Supply Units 1
+Service Molten salt discharge pressure MS drain back tank pump
+Location (Equipment / Pipe) 257-MS-10EF-CS31-6"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-325702
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 28]
+Document Nº:
+Sheet
+01 Jan/16/2017 28
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 160
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P271-GAR 1
+Supply Units 3
+Service Molten salt pressure from/to CMS
+Location (Equipment / Pipe) 252-MS-03E-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525120A/B/C
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 29]
+Document Nº:
+Sheet
+01 Jan/16/2017 29
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 160
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P271-GAR 1
+Supply Units 3
+Service Molten salt pressure from/to HMS
+Location (Equipment / Pipe) 252-MS-04E-CS31-24"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525110A/B/C
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 30]
+Document Nº:
+Sheet
+01 Jan/16/2017 30
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 350
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P271-GAR 1
+Supply Units 1
+Service HTF pressure to pump suction/discharge header
+Location (Equipment / Pipe) 252-HTF-10E-CS30-20"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525139
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 31]
+Document Nº:
+Sheet
+01 Jan/16/2017 31
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+- -
+Seal Liquid -
+Instrument Connection -
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 350
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P271-GAR 1
+Supply Units 1
+Service HTF pressure HTF Header solar field
+Location (Equipment / Pipe) 212-HTF-05-CS30-20"
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-525142
+Issue for bid
+Description
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+
+[page 32]
+Document Nº:
+Sheet
+01 Jan/16/2017 32
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625120A/B/C
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P272-GAR 1
+Supply Units 3
+Service Molten salt pressure from/to CMS
+Location (Equipment / Pipe) 252-MS-03F-CS31-24"
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 160
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing - -
+Seal Liquid -
+Instrument Connection -
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+
+[page 33]
+Document Nº:
+Sheet
+01 Jan/16/2017 33
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psia
+16 psia
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625110A/B/C
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P272-GAR 1
+Supply Units 3
+Service Molten salt pressure from/to HMS
+Location (Equipment / Pipe) 252-MS-04F-CS31-24"
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 160
+Transmitter 
+Measure Type Absolute Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 185,3
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RTJ - 300# - 4"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing - -
+Seal Liquid -
+Instrument Connection -
+Distance between connections N/A
+Flushing Connection for diaphragm 4"RTJ (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+
+[page 34]
+Document Nº:
+Sheet
+01 Jan/16/2017 34
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 4081984 - lb/h
+7 222,3 - psig
+8 - - psi
+9 717,8 - ºF
+10 44,21 - lb/ft3
+11 0,139 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625139
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P272-GAR 1
+Supply Units 1
+Service HTF pressure to pump suction/discharge header
+Location (Equipment / Pipe) 252-HTF-10F-CS30-20"
+Process Data 
+Fluid/ State HTF Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 350
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing - -
+Seal Liquid -
+Instrument Connection -
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number
+
+[page 35]
+Document Nº:
+Sheet
+01 Jan/16/2017 35
+00 Dec/23/2016 of:
+Rev. Date 35
+1
+2
+3
+4
+5
+6 5079985 - lb/h
+7 100 - psig
+8 - - psi
+9 730,3 - ºF
+10 115,03 - lb/ft3
+11 1,8921 - cP
+12 ºF
+13 psig
+14
+15 psig
+16 psig
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+ABEINSA 
+ENGINEERING
+Client: 4521-HDD-AEE-39-70-0011-GAR
+ABEINSA EPC USA Project: Solana
+Tag:
+Pressure transmitter datasheet Issue for bid
+PIT-625142
+Issue for bid
+Description
+General 
+P&ID Number/ Review Number 4521-PLN-AEE-68-71-P272-GAR 1
+Supply Units 1
+Service HTF pressure HTF Header solar field
+Location (Equipment / Pipe) 212-HTF-06-CS30-20"
+Process Data 
+Fluid/ State Molten salt Liquid
+Flow
+Maximum 
+Operation 
+Conditions 
+Normal 
+Operation 
+Conditions 
+Pressure
+Differential Pressure
+Temperature
+Density
+Viscosity
+Design Temperature 750
+Design Pressure 160
+Transmitter 
+Measure Type Relative Pressure
+Instrument Range By supplier By supplier
+Calibration Range 0 285
+Zero Adjustement / Span Adjustement Yes Yes
+Accuracy 0,1 % of the adjustable range
+Power Supply/ Output Signal 24 Vdc 4 - 20 mA (2 wires) + HART
+Measure Sensor Type Capacitive
+Body-Wetted Parts Material Stainless Steel AISI 316
+Diaphragm Material Stainless Steel AISI 316
+Bolts Material ASTM A193 Grade B7M
+Process Flanges and Adapters Material Stainless Steel AISI 316
+Toric Gaskets Material Graphite
+Transmitter Housing Material Aluminum Alloy
+Filling Fluid Silicone
+Overpressure 150%
+Environmental Protection NEMA 4
+Electrical Connection 1/2" NPT
+Electrical Classification Class 1, Division 2, Group D
+Connection to Process 
+High Pressure 
+Side 
+Process Connection (Type/Size) With diaphragm Seal
+Diaphragm Seal (Connection) RF - 300# - 2"
+Diaphragm Material/ Housing AISI 316 AISI 316
+Seal Liquid Note 1
+Instrument Connection Capillary type connection with welded capillary tube
+Low Pressure 
+Side 
+Process Connection (Type/Size) NA
+Diaphragm Seal (Connection) -
+Diaphragm Material/ Housing - -
+Seal Liquid -
+Instrument Connection -
+Distance between connections N/A
+Flushing Connection for diaphragm 2" RF (2x1/4" NPT F plug 3000#)
+Capillary tubes number 1
+Material/ Length of Capillary tube 316 SS 10 ft
+Options 
+Assembly Support Support for 2 inch pipe (vertical mounting)
+Built Indicator No
+Remote Indicator No
+Drain/Vent Valve Yes
+Manifold N/A
+Name Plate Yes
+Cleaning for special applications No
+Documentation According to VDDR
+Inspections According to AIP
+Notes 
+Note 1: Filled Fluid for all transmitters to be high temperature service type, suitable for 750 Deg. F and full vacuum service
+Eq. 
+Manufacturer By supplier
+Model By supplier
+Serial number

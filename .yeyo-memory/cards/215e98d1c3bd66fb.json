@@ -1,0 +1,30 @@
+{
+  "id": "215e98d1c3bd66fb",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/ZZ_comments MCPD/SUP julio 2015/06 SP-5.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 549558,
+  "size_human": "537 KB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "06 SP-5",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/215e98d1c3bd66fb.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {},
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:30:53.557790+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:30:53.580491+00:00"
+}

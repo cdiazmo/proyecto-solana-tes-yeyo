@@ -1,0 +1,39 @@
+{
+  "id": "bc000948a3e6bc7a",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0010_R2.pdf",
+  "top_dir": "01 GD AE",
+  "ext": "pdf",
+  "size_bytes": 86443,
+  "size_human": "84 KB",
+  "mtime_iso": "2026-06-05T06:18:00.000Z",
+  "title": "4521-ESP-AGE-39-70-0010 R2",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 15102,
+  "token_estimate": 3775,
+  "chunks": 10,
+  "card_path": ".yeyo-memory/cards/bc000948a3e6bc7a.json",
+  "extracted_path": ".yeyo-memory/extracted/bc000948a3e6bc7a.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120210165810-06'00'",
+      "ModDate": "D:20120210165810-06'00'",
+      "Title": "4521-ESP-AGE-39-70-0010 Vortex",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "AGJHR",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:01.501060+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:01.501061+00:00"
+}

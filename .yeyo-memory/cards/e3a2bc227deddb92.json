@@ -1,0 +1,33 @@
+{
+  "id": "e3a2bc227deddb92",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180403/02 SP-1 copy.pdf",
+  "top_dir": "07 Presentado al Condado",
+  "ext": "pdf",
+  "size_bytes": 5149949,
+  "size_human": "4.9 MB",
+  "mtime_iso": "2026-06-05T06:25:00.000Z",
+  "title": "02 SP-1 copy",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/e3a2bc227deddb92.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20161220091255-07'00'",
+      "ModDate": "D:20170713195036-07'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Permiso / plano sellado",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-05T11:31:03.856510+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-05T11:31:03.879571+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0943807118ed1a26",
+  "path": "12 As Built TES 6/03_C&S/02_CAL/4521-CAL-AEE-75-54-0005-GAR_Rev00_TES Platform Structures/4521-CAL-AEE-75-54-0005-GAR.docx",
+  "top_dir": "12 As Built TES 6",
+  "ext": "docx",
+  "size_bytes": 1330584,
+  "size_human": "1.3 MB",
+  "mtime_iso": "2026-06-05T06:27:00.000Z",
+  "title": "4521-CAL-AEE-75-54-0005-GAR",
+  "doc_code": "4521-CAL-AEE-75-54-0005",
+  "revision": null,
+  "status": "ok",
+  "text_chars": 347776,
+  "token_estimate": 86944,
+  "chunks": 220,
+  "card_path": ".yeyo-memory/cards/0943807118ed1a26.json",
+  "extracted_path": ".yeyo-memory/extracted/0943807118ed1a26.txt",
+  "metadata": {
+    "paragraphs": 84,
+    "table_rows": 7595,
+    "index_matches": [
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::24",
+        "index_path": "07 Presentado al Condado/0004_EDL/Copy of Update -4-20-2018 of 4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 24,
+        "doc_code": "4521-CAL -AEE-75-54-0005-GAR",
+        "title": "Steel structure IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::EDL::24",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "EDL",
+        "row": 24,
+        "doc_code": "4521-CAL -AEE-75-54-0005-GAR",
+        "title": "Steel structure IFC",
+        "revision": "",
+        "status": "",
+        "date": "2017-03-10 00:00:00",
+        "discipline": ""
+      },
+      {
+        "fingerprint": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm::Sheet1::18",
+        "index_path": "07 Presentado al Condado/0004_EDL/4521-LIS-AEE-00-00-0003_EDL_HEX TES.xlsm",
+        "index_kind": "edl",
+        "sheet": "Sheet1",
+        "row": 18,
+        "doc_code": "4521-CAL -AEE-75-54-0005-GAR",
+        "title": "TES platform structures",
+        "revision": "",
+        "status": "",
+        "date": "",
+        "discipline": "C&S"
+      }
+    ]
+  },
+  "processed_at": "2026-06-05T09:19:31.060567+00:00"
+}

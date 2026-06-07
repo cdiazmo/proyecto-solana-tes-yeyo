@@ -1,0 +1,27 @@
+{
+  "id": "bf4216f4f00c3cc1",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-68-51-0001-GAR_Rev02_Layout_new_exchangers.zip",
+  "top_dir": "01 GD AE",
+  "ext": "zip",
+  "size_bytes": 5202503,
+  "size_human": "5.0 MB",
+  "mtime_iso": "2026-06-05T06:17:00.000Z",
+  "title": "4521-PLN-AEE-68-51-0001-GAR Rev02 Layout new exchangers",
+  "doc_code": "4521-PLN-AEE-68-51-0001",
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 119,
+  "token_estimate": 29,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/bf4216f4f00c3cc1.json",
+  "extracted_path": ".yeyo-memory/extracted/bf4216f4f00c3cc1.txt",
+  "metadata": {
+    "archive_entries": 2,
+    "archive_sample": [
+      "4521-PLN-AEE-68-51-0001-GAR_Rev02_Layout_new_exchangers.pdf",
+      "4521-PLN-AEE-68-51-0001-GAR_Rev02_Layout_new_exchangers.dwg"
+    ],
+    "archive_total_uncompressed_bytes": 6268506
+  },
+  "processed_at": "2026-06-05T09:11:07.523677+00:00"
+}

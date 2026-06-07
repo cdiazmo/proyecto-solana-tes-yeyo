@@ -1,0 +1,528 @@
+[page 1]
+List 
+ 
+Title: 
+TES Area Electric consumer list Unit 5-6 
+Client: Arizona Solar One LLC 
+Project: Solana Generating Station 
+ 
+ 
+Document No.: 4521-LIS-AGE-39-40-0010 
+Revision: 00-GAR 
+Date: 10/01/2017 
+ 
+Prepared by: 
+José Cantillana Cortés– Electrical Engineer Electronic Signature 
+ 
+Reviewed by: 
+José Cantillana Cortés– Electrical Engineer Electronic Signature 
+ 
+Approved by: 
+José María Rodríguez León– Project Manager Electronic Signature 
+ 
+This document is property of Abeinsa EPC. Its total or partial reproduc tion is strictly forbidden by any means, as well as its 
+distribution to third parties without the express written consent of Abeinsa. 
+If for exceptional reasons, due to specific aspects of the project (eg: project confidential information, legal requirements or local 
+regulations and/or contractual requirements of the client), there was a need to modify the requirements included in this procedure, 
+these changes must be properly documented in the quality , environment and health and safety plan of the project, prior approval 
+from the company headquarters management system department. 
+ 
+
+[page 2]
+ ABENGOA 
+Document: 0341-ESP-AEPC-075-062-0001 
+ Revision: 02 Date: 03-02-2015 
+Page: 2 of 2 
+ 
+ 
+Revision Control Sheet 
+ 
+Revision Date Reason for 
+Revision 
+Prepared 
+by Revised by Approved 
+by 
+00-GAR 10/01/2017 Initial Issue JCC JCC JMRL 
+ 
+ 
+
+[page 3]
+Document:
+No. Req'd:
+Issue: Dated:
+15/12/2016 JCC JCC JRL
+Date By Chk'd App'd Description
+Rev ISA code Load description Installed 
+Power (kVA)
+Installed 
+Power (kW)
+Consumed 
+Power (kVA)
+Consumed 
+Power (kW)
+Cosumed Power 
+(KVAr) Voltage (V) Phases Current 
+type Cos Phi Simultaneity 
+factor Efficiency Consumed 
+current (A)
+Installed current 
+(A)
+Max. Design 
+current (A) Feed from Comments
+00 AT63 Transformador 2.500,00 N/A 2.775,66 2.490,12 867,41 12.470,00 3P A.C. 0,94 1,00 0,95 128,51 115,75 128,51
+00 LVSWGR-63 Main Power Center Unit 5 2.549,58 N/A 2.636,88 2.490,12 867,41 460,00 3P A.C. 0,94 1,00 1,00 3.309,57 3.200,00 3.309,57 AT63
+00 5-MH-252 Hot salt tank heater Unit 5 408,16 400,00 306,12 300,00 60,92 460,00 3P A.C. 0,98 0,75 1,00 384,22 512,29 512,29 LVSWGR-63
+00 5-MH-251 Cold salt tank heater Unit 5 408,16 400,00 306,12 300,00 60,92 460,00 3P A.C. 0,98 0,75 1,00 384,22 512,29 512,29 LVSWGR-63
+00 MCC-633 TES Unit 5 & HTF MISC 1.274,79 N/A 1.099,32 1.008,80 436,84 460,00 3P A.C. 0,92 1,00 1,00 1.379,77 1.600,00 1.600,00 LVSWGR-63
+00 5-MP-256 Cold salt tank recirc pump 138,41 100,00 117,65 100,00 61,97 460,00 3P A.C. 0,85 0,85 0,85 147,66 173,72 173,72 MCC-633
+00 VSD-5-MP-254 VSD HTF Freeze protection circulation pump 160,00 N/A 130,36 117,65 40,70 460,00 3P A.C. 0,95 1,00 0,95 163,61 211,39 211,39 MCC-633
+00 5-MP-254 HTF Freeze protection circulation pump 138,41 100,00 138,41 117,65 72,91 460,00 3P A.C. 0,85 1,00 0,85 173,72 173,72 173,72 VSD-5-MP-254
+00 5-MP-257 Hot salt tank recirc pump 138,41 100,00 117,65 100,00 61,97 460,00 3P A.C. 0,85 0,85 0,85 147,66 173,72 173,72 MCC-633
+00 5-MB-251 Foundation cooling fan unit 5 Cold Tank 46,88 30,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 0,80 0,00 58,83 58,83 MCC-633
+00 5-MB-253 Foundation cooling fan unit 5 Hot Tank 46,88 30,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 0,80 0,00 58,83 58,83 MCC-633
+00 Equipped reserve (1) 81,25 65,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 101,98 101,98 MCC-633
+00-GAR TES-A6-L3 Interchange and HTF/TES pipes Unit 5 252,63 240,00 252,63 240,00 78,88 460,00 3P A.C. 0,95 1,00 1,00 317,08 317,08 317,08 MCC-633 New load. Equipped reserve will be used
+00 PP-6334M Power panel e ssential loads (-P590) 478,05 N/A 490,82 451,16 193,30 460,00 3P A.C. 0,92 1,00 1,00 616,04 600,00 616,04 MCC-633
+00 AT-6334M-01 Transform er for I&C panels 15,00 N/A 0,90 0,76 0,39 460,00 3P A.C. 0,89 1,00 0,95 1,12 19,82 19,82 PP-6334M
+00 RP-63434M01 Instrumentation power panel 21,62 N/A 0,85 0,76 0,39 208,00 3P A.C. 0,89 1,00 1,00 2,36 60,00 60,00 AT-6334M-01
+00 FIT-5-251-05 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 RP-63419
+00 FIT-5-252-05 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 RP-63419
+00 FIT-5-251-13 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 RP-63419
+00 AT-5-251-26 VOC analyzer 0,10 0,06 0,10 0,06 0,08 120,00 1P+N A.C. 0,60 1,00 1,00 0,83 0,83 0,83 RP-63419
+00 FIT-5-251-47 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 RP-63419
+00 FIT-5-253-47 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 RP-63419
+00 5-MP-254HT HTF Freeze protection circulation pump motor cond. HTR 0,25 0,24 0,25 0,24 0,08 120,00 1P+N A.C. 0,95 1,00 1,00 2,11 2,11 2,11 RP-63419
+00 Equipped reserve (1) 1,75 1,40 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 14,58 14,58 RP-63419
+00 5-MP-257HT Hot salt tank recirc pump motor cond htr 0,20 0,19 0,20 0,19 0,06 120,00 1P+N A.C. 0,95 1,00 1,00 1,68 1,68 1,68 RP-63419
+00 Equipped reserve (2) 1,75 1,40 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 14,58 14,58 RP-63419
+00 5-MP-256HT Cold salt tank recirc pump motor cond htr 0,20 0,19 0,20 0,19 0,06 120,00 1P+N A.C. 0,95 1,00 1,00 1,68 1,68 1,68 RP-63419
+00 HTR-201B Seal pump reservoir tank heater 5,88 4,00 5,88 4,71 3,53 460,00 3P A.C. 0,80 1,00 0,85 7,38 7,38 7,38 PP-6334M
+00-GAR HTF-A-L2 South HTF Heat Trace panel (P701) 35,26 33,50 14,11 13,40 4,40 460,00 3P A.C. 0,95 0,40 1,00 17,70 44,26 44,26 PP-6334M Load from PP-26334M25. Change its code, previously HTF-A1-L2
+00 AT-6334M08 Transformer for Fi re suppersion system valves 8,82 6,00 8,82 7,06 5,29 460,00 2P A.C. 0,80 1,00 0,85 19,18 19,18 19,18 PP-6334M
+00 HTR-5-254 Seal pump reservior tank heater 5,88 4,00 5,88 4,71 3,53 460,00 3P A.C. 0,80 1,00 0,85 7,38 7,38 7,38 PP-6334M
+00 Equipped reserve (2) 75,00 60,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 94,13 94,13 PP-6334M
+00 5-MH-254 Nitrogen heater for cold salk tank 3,16 2,85 3,16 3,00 0,99 460,00 3P A.C. 0,95 1,00 0,95 3,96 3,96 3,96 PP-6334M
+00 5-MH-255 Nitrogen heater for hot salk tank 3,16 2,85 3,16 3,00 0,99 460,00 3P A.C. 0,95 1,00 0,95 3,96 3,96 3,96 PP-6334M
+00 UPS-26634M25 UPS Primary feed (P596) 32,00 N/A 55,34 39,99 29,15 460,00 3P A.C. 0,85 1,00 0,85 69,46 40,16 69,46 PP-6334M
+00 PP-26334M25 Panel board UPS primary feed (Unit 5) 79,67 N/A 47,98 39,99 26,51 460,00 3P A.C. 0,83 1,00 1,00 60,22 100,00 100,00 UPS-26334M25
+00 MCC-26334M2501 MCC for freeze protection 478,05 N/A 23,44 18,75 14,06 460,00 3P A.C. 0,80 1,00 1,00 29,42 600,00 600,00 PP-26334M25
+00 5-MP-254-S1 HTF Freeze protec tion pump seal pump 1 tank 5 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 6-MP-254-S2 HTF Freeze protec tion pump seal pump 2 tank 6 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MP-201B-S2 South HTF Backup re circulation pump seal pump #2 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MCC-26334M2502 MCC for bearing cooling 478,05 N/A 0,78 0,63 0,47 460,00 3P A.C. 0,80 1,00 1,00 0,98 600,00 600,00 PP-26334M25
+00 Equipped reserve (1) 0,63 0,50 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 0,78 0,78 MCC-26334M2501
+00 257C-F1 Pump bearing cooling system exhaust fan #1 0,78 0,50 0,78 0,63 0,47 460,00 3P A.C. 0,80 1,00 0,80 0,98 0,98 0,98 MCC-26334M2501
+00 257C-P1 Pump bearing cooling system pump #1 2,34 1,50 2,34 1,88 1,41 460,00 3P A.C. 0,80 1,00 0,80 2,94 2,94 2,94 MCC-26334M2501
+00 AT-26334M2507 Transformer for control voltage 15,00 N/A 9,49 5,61 7,05 460,00 3P A.C. 0,62 1,00 0,95 11,91 18,83 18,83 PP-26334M25
+00 PP-26334M2507 Panel board for electrical panel control voltage 21,62 N/A 9,01 5,61 7,05 208,00 3P+N A.C. 0,62 1,00 1,00 25,01 60,00 60,00 AT-26334M2507
+00 LVSWG 63 Control voltage for LVSWG 63 0,33 0,20 0,33 0,20 0,27 120,00 1P+N A.C. 0,60 1,00 1,00 2,78 2,78 2,78 PP-26334M2507
+00 HTF-A-L3 Control voltage for HTF-A-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 VSD-5-MP-254 Control voltage for VSD-5-MP-254 0,02 0,01 0,02 0,01 0,01 120,00 1P+N A.C. 0,60 1,00 1,00 0,14 0,14 0,14 PP-26334M2507
+00 RTU-32-201 Control voltage for RTU-32-201 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-A6-L3 Control voltage for TES-A7-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 RTU-32-201 Control voltage for RTU-32-201 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 HTF-A2-L3 Control voltage for HTF-A2-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 TES-A-L1 Control voltage for TES-A-L1 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-B1-L2 Control voltage for TES-B1-L2 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 TES-B-L1 Control voltage for TES-B-L1 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-AB1-L2 Control voltage for TES-AB1-L2 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 BOP-A Control voltage for BOP-A 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 HTF-B2-L3 Control voltage for HTF-B2-L3 0,35 0,30 0,35 0,30 0,19 120,00 1P+N A.C. 0,85 1,00 1,00 2,94 2,94 2,94 PP-26334M2507
+00 TES-B-L2 Control voltage for TES-B-L2 0,35 0,30 0,35 0,30 0,19 120,00 1P+N A.C. 0,85 1,00 1,00 2,94 2,94 2,94 PP-26334M2507
+00-GAR HTF-A1-L3 Control voltage for HTF-A1-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 TES-A1-L3 Control voltage for TES-A1-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-A5-L3 Control voltage for TES-A5-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 Equipped reserve (6) 2,12 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,85 0,00 1,00 0,00 17,65 17,65 PP-26334M2507
+00 TES-A2-L3 Control voltage for TES-A2-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 TES-A3-L3 Control voltage for TES-A3-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 TES-B3-L3 Control voltage for TES-B3-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 Equipped reserve (1) 11,25 9,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 14,12 14,12 PP-26334M25
+00 Equipped reserve (2) 21,25 17,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 26,67 26,67 PP-26334M25
+00 Equipped reserve (3) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M25
+00 Equipped reserve (4) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M25
+00 TES-A-L1 Unit 5 Heat trace panel (P700) 15,79 15,00 15,79 15,00 4,93 460,00 3P A.C. 0,95 1,00 1,00 19,82 19,82 19,82 PP-26334M25
+00 UPS-26634M26 Alternate feed (P591) (sb) 32,00 N/A 58,25 44,56 30,68 460,00 3P A.C. 0,85 1,00 0,90 73,11 40,16 73,11 PP-6334M
+00 PP-26334M26 Panel board UPS alternate feed (Unit 6) (sb) 63,74 N/A 53,37 44,56 29,38 460,00 3P A.C. 0,83 1,00 1,00 66,99 80,00 80,00 UPS-26334M26
+00 MCC-26334M2601 MCC for freeze protection (sb) 478,05 N/A 23,44 18,75 14,06 460,00 3P A.C. 0,80 1,00 1,00 29,42 600,00 600,00 PP-26334M26
+00 6-MP-254-S1 HTF Freeze protecti on pump seal pump 1 tank 6 (sb) 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 5-MP-254-S2 HTF Freeze protecti on pump seal pump 2 tank 5 (sb) 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MP-201B-S1 South HTF Backup re circulation pump seal pump #3 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MCC-26334M2602 MCC for bearing cooling (sb) 478,05 N/A 3,13 2,50 1,88 460,00 3P A.C. 0,80 1,00 1,00 3,92 600,00 600,00 PP-26334M26
+00 Equipped reserve (1) 2,50 2,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 3,14 3,14 MCC-26334M2501
+00 257C-F2 Pump bearing cooling system exhaust fan #2 0,78 0,50 0,78 0,63 0,47 460,00 3P A.C. 0,80 1,00 0,80 0,98 0,98 0,98 MCC-26334M2501
+00 257C-P2 Pump bearing cooling system pump #2 (sb) 2,34 1,50 2,34 1,88 1,41 460,00 3P A.C. 0,80 1,00 0,80 2,94 2,94 2,94 MCC-26334M2501
+00 AT-26334M2607 Transformer for control voltage (sb) 15,00 N/A 12,03 7,81 8,34 460,00 3P A.C. 0,68 1,00 0,95 15,10 18,83 18,83 PP-26334M26
+00 PP-26334M2607 Panel board for electrical panel control voltage (sb) 21,62 N/A 11,43 7,81 8,34 208,00 3P+N A.C. 0,68 1,00 1,00 31,72 60,00 60,00 AT-26334M2507
+00 LVSWG 163 Control voltage for LVSWG 163 (sb) 0,29 0,20 0,29 0,20 0,20 120,00 1P+N A.C. 0,70 1,00 1,00 2,38 2,38 2,38 PP-26334M2607
+00 HTF-B1-L3 Control voltage for HTF-B1-L3 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 VSD-6-MP-254 Control voltage for VSD-6-MP-254 (sb) 0,01 0,01 0,01 0,01 0,01 120,00 1P+N A.C. 0,70 1,00 1,00 0,12 0,12 0,12 PP-26334M2607
+00 RTU-32-202 Control voltage for RTU-32-202 (sb) 2,00 1,40 2,00 1,40 1,43 120,00 1P+N A.C. 0,70 1,00 1,00 16,67 16,67 16,67 PP-26334M2607
+00-GAR TES-B6-L3 Control voltage for TES-B7-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+Ref.:
+0-GAR
+Rev.
+ABENER TEYMA 
+SOLANA
+SOLANA 250 MW Solar Power Plant
+Job: 4521-LIS-AGE-39-40-0010
+ABEINSA ENGINEERING
+Item No.:
+Project: Solana
+TES Area Electric consumer list Unit 5-6
+
+[page 4]
+Document:
+No. Req'd:
+Issue: Dated:
+15/12/2016 JCC JCC JRL
+Date By Chk'd App'd Description
+Rev ISA code Load description Installed 
+Power (kVA)
+Installed 
+Power (kW)
+Consumed 
+Power (kVA)
+Consumed 
+Power (kW)
+Cosumed Power 
+(KVAr) Voltage (V) Phases Current 
+type Cos Phi Simultaneity 
+factor Efficiency Consumed 
+current (A)
+Installed current 
+(A)
+Max. Design 
+current (A) Feed from Comments
+Ref.:
+0-GAR
+Rev.
+ABENER TEYMA 
+SOLANA
+SOLANA 250 MW Solar Power Plant
+Job: 4521-LIS-AGE-39-40-0010
+ABEINSA ENGINEERING
+Item No.:
+Project: Solana
+TES Area Electric consumer list Unit 5-6
+00 RTU-32-202 Control voltage for RTU-32-202 (sb) (sb) 2,00 1,40 2,00 1,40 1,43 120,00 1P+N A.C. 0,70 1,00 1,00 16,67 16,67 16,67 PP-26334M2607
+00 HTF-A1-L2 Control voltage for HTF-A1-L2 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A4-L3 Control voltage for TES-A4-L3 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 HTF-B1-L2 Control voltage for HTF-B1-L2 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A-L1 Control voltage for TES-A-L1 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 HTF-A2-L2 Control voltage for HTF-A2-L2 (sb) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-26334M2607
+00 TES-B-L1 Control voltage for TES-B-L1 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-B-L2 Control voltage for TES-B-L2 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A-L2 Control voltage for TES-A-L2 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00-GAR TES-A1-L2 Control voltage for TES-A1-L2 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+00 Equipped reserve (4) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-26334M2607
+00-GAR HTF-B1-L3 Control voltage for HTF-B1-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+00-GAR TES-B5-L3 Control voltage for TES-B5-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+00 TES-B1-L3 Control voltage for TES-B1-L3 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-B2-L3 Control voltage for TES-B2-L3 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A3-L3 Control voltage for TES-A3-L3 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-B3-L3 Control voltage for TES-B3-L3 (sb) 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 Equipped reserve (1) (sb) 11,25 9,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 14,12 14,12 PP-26334M26
+00 Equipped reserve (2) (sb) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M26
+00 TES-B-L1 Unit 6 Heat trace panel (P700) (sb) 16,32 15,50 16,32 15,50 5,09 460,00 3P A.C. 0,95 1,00 1,00 20,48 20,48 20,48 PP-26334M26
+00 Equipped reserve (3) (sb) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M26
+00 Equipped reserve (4) (sb) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M26
+00 Equipped reserve (3) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-6334M
+00-GAR TES-B1-L2 Drain TES pipes Unit 6 34,74 33,00 34,74 33,00 10,85 460,00 3P A.C. 0,95 1,00 1,00 43,60 43,60 43,60 PP-6334M New load. Equipped reserve will be used
+00 ATS-26334M37 Normal Feed (P592) 318,70 N/A 314,50 296,98 103,50 460,00 3P A.C. 0,94 1,00 1,00 394,73 400,00 400,00 PP-6334M
+00 PP-26334M37 Panel board ATS feed 318,70 N/A 314,50 296,98 103,50 460,00 3P A.C. 0,94 1,00 1,00 394,73 400,00 400,00 ATS-26334M37
+00-GAR TES-AB1-L2 Drain TES pipes & Drain tank Unit 5+6 57,89 55,00 57,89 55,00 18,08 460,00 3P A.C. 0,95 1,00 1,00 72,66 72,66 72,66 PP-26334M25 New load. Equippe d reserve will be used
+00-GAR Equipped reserve (7) 41,88 33,50 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 52,56 52,56 PP-26334M25 Change the board to PP-6334M and idenfied as HTF-A1-L2
+00-GAR Equipped reserve (8) 2,38 1,90 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 2,98 2,98 PP-26334M25 Change the board to PP-16334M and idenfied as HTF-B-L2
+00-GAR Drain Pump Unit 5+6 17,48 11,19 17,48 13,98 10,49 460,00 3P A.C. 0,80 1,00 0,80 21,93 21,93 21,93 PP-26334M25 New load. Equippe d reserve will be used
+00 TES-A-L2 Unit 5 Heat trace panel (P700) 120,00 114,00 120,00 114,00 37,47 460,00 3P A.C. 0,95 1,00 1,00 150,61 150,61 150,61 PP-26334M25
+00 TES-B-L2 Unit 6 Heat trace panel (P700) 120,00 114,00 120,00 114,00 37,47 460,00 3P A.C. 0,95 1,00 1,00 150,61 150,61 150,61 PP-26334M25
+00-GAR Equipped reserve (6) 19,38 15,50 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 24,32 24,32 PP-26334M25 Deleted load HTF-A2-L2. Not re quired panel. Review in drawings.
+00 Equipped reserve (3) 55,00 44,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 69,03 69,03 PP-26334M25
+00 Equipped reserve (4) 37,50 30,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 47,07 47,07 PP-26334M25
+00 Equipped reserve (5) 43,75 35,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 54,91 54,91 PP-26334M25
+00 Equipped reserve (5) 312,50 250,00 265,63 212,50 159,38 460,00 3P A.C. 0,80 0,85 1,00 333,39 392,22 392,22 PP-6334M
+00 PP-634 Electrical room 32 (-P593)-Non essential loads 956,09 N/A 933,83 881,32 308,74 460,00 3P A.C. 0,94 1,00 1,00 1.172,06 1.200,00 1.200,00 LVSWGR-63
+00 HTF-A-L3 Heat trace panel 150,53 143,00 150,53 143,00 47,00 460,00 3P A.C. 0,95 1,00 1,00 188,93 188,93 188,93 PP-634
+00-GAR TES-A5-L3 Heat trace panel TES pipes Unit 5 252,63 240,00 252,63 240,00 78,88 460,00 3P A.C. 0,95 1,00 1,00 317,08 317,08 317,08 PP-634 New load. Equipped reserve will be used
+00 TES-A1-L3 Unit nº5 Heat trace panel 94,74 90,00 94,74 90,00 29,58 460,00 3P A.C. 0,95 1,00 1,00 118,91 118,91 118,91 PP-634
+00 TES-A2-L3 Unit nº5 Heat trace panel 121,05 115,00 121,05 115,00 37,80 460,00 3P A.C. 0,95 1,00 1,00 151,93 151,93 151,93 PP-634
+00 TES-A3-L3 Unit nº5 Heat trace panel 26,32 25,00 26,32 25,00 8,22 460,00 3P A.C. 0,95 1,00 1,00 33,03 33,03 33,03 PP-634
+00 HTF-B-L3 Heat trace panel 47,37 45,00 47,37 45,00 14,79 460,00 3P A.C. 0,95 1,00 1,00 59,45 59,45 59,45 PP-634
+00 AT-63419 Transformer DCS room (45kVA) 45,00 N/A 10,17 7,32 6,30 460,00 3P A.C. 0,76 1,00 0,95 12,76 59,45 59,45 PP-634
+00 RP-63419 Electrical power panel (non essential) 81,06 N/A 9,66 7,32 6,30 208,00 3P A.C. 0,76 1,00 1,00 26,81 225,00 225,00 AT-6334M-01
+00 Building lighting 2,25 1,80 0,90 0,72 0,54 120,00 1P+N A.C. 0,80 0,40 1,00 7,50 18,75 18,75 RP-63419
+00 Building lighting contactor 2,25 1,80 0,90 0,72 0,54 120,00 1P+N A.C. 0,80 0,40 1,00 7,50 18,75 18,75 RP-63419
+00 Receptacle in DCS room 2,25 1,80 0,90 0,72 0,54 120,00 1P+N A.C. 0,80 0,40 1,00 7,50 18,75 18,75 RP-63419
+00 Receptacle outside DCS room 2,25 1,80 0,90 0,72 0,54 120,00 1P+N A.C. 0,80 0,40 1,00 7,50 18,75 18,75 RP-63419
+00 Exhaust fan DCS room 2,25 1,80 0,90 0,72 0,54 120,00 1P+N A.C. 0,80 0,40 1,00 7,50 18,75 18,75 RP-63419
+00 LVSWGR63 2,25 1,80 0,90 0,72 0,54 120,00 1P+N A.C. 0,80 0,40 1,00 7,50 18,75 18,75 RP-63419
+00-GAR Outdoor lighting Unit 5 a 2,14 1,50 2,14 1,50 1,53 120,00 1P+N A.C. 0,70 1,00 1,00 17,86 17,86 17,86 RP-63419 New load. Equippe d reserve will be used
+00-GAR Outdoor lighting Unit 5 b 2,14 1,50 2,14 1,50 1,53 120,00 1P+N A.C. 0,70 1,00 1,00 17,86 17,86 17,86 RP-63419 New load. Equippe d reserve will be used
+00 Equipped reserve (3) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (4) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (5) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (6) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (7) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (8) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (9) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (10) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (11) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (12) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (13) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (14) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-63419
+00 Equipped reserve (2) 40,00 32,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 50,20 50,20 PP-634
+00 WR-634251/2 Welding receptacles 45,75 35,00 0,00 0,00 0,00 460,00 3P A.C. 0,90 0,00 0,85 0,00 57,42 57,42 PP-634
+00 WR-634261/2 Welding receptacles 45,75 35,00 0,00 0,00 0,00 460,00 3P A.C. 0,90 0,00 0,85 0,00 57,42 57,42 PP-634
+00 ACU-63431 Air condition unt 1 DCS room 29 11,25 9,00 11,25 9,00 6,75 460,00 3P A.C. 0,80 1,00 1,00 14,12 14,12 14,12 PP-634
+00 ACU-63432 Air condition unt 3 EEEE room 29 11,25 9,00 11,25 9,00 6,75 460,00 3P A.C. 0,80 1,00 1,00 14,12 14,12 14,12 PP-634
+00 ACU-63437 11,25 9,00 11,25 9,00 6,75 460,00 3P A.C. 0,80 1,00 1,00 14,12 14,12 14,12 PP-634
+00 ACU-63438 11,25 9,00 11,25 9,00 6,75 460,00 3P A.C. 0,80 1,00 1,00 14,12 14,12 14,12 PP-634
+00-GAR' HTF-A1-L3 Heat trace panel HTF pipes Unit 5 189,47 180,00 189,47 180,00 59,16 460,00 3P A.C. 0,95 1,00 1,00 237,81 237,81 237,81 PP-634 New load. New protection sha ll be included in space reserve
+00 AT163 Transformador 2.500,00 N/A 2.699,51 2.446,76 768,25 12.470,00 3P A.C. 0,95 1,00 0,95 124,98 115,75 124,98
+00 LVSWGR-161 Main Power Center Unit 6 2.549,58 N/A 2.564,53 2.446,76 768,25 460,00 3P A.C. 0,95 1,00 1,00 3.218,77 3.200,00 3.218,77 AT163
+00 6-MH-252 Hot salt tank heater Unit 6 408,16 400,00 306,12 300,00 60,92 460,00 3P A.C. 0,98 0,75 1,00 384,22 512,29 512,29 LVSWGR-163
+00 6-MH-251 Cold salt tank heater Unit 6 408,16 400,00 306,12 300,00 60,92 460,00 3P A.C. 0,98 0,75 1,00 384,22 512,29 512,29 LVSWGR-163
+00 MCC-1633 TES Unit 6 & HTF MISC 1.274,79 N/A 1.074,07 985,85 426,28 460,00 3P A.C. 0,92 1,00 1,00 1.348,07 1.600,00 1.600,00 LVSWGR-163
+00 Equipped reserve (1) 106,25 85,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 133,36 133,36 MCC-1633
+00 2-MP-256 Cold salt tank recirc pump 138,41 100,00 117,65 100,00 61,97 460,00 3P A.C. 0,85 0,85 0,85 147,66 173,72 173,72 MCC-1633
+00 VSD-6-MP-254 VSD HTF Freeze protection circulation pump 160,00 N/A 130,36 117,65 40,70 460,00 3P A.C. 0,95 1,00 0,95 163,61 211,39 211,39 MCC-1633
+00 6-MP-254 HTF Freeze protection circulation pump 138,41 100,00 138,41 117,65 72,91 460,00 3P A.C. 0,85 1,00 0,85 173,72 173,72 173,72 VSD-6-MP-254
+00 6-MP-257 Hot salt tank recirc pump 138,41 100,00 117,65 100,00 61,97 460,00 3P A.C. 0,85 0,85 0,85 147,66 173,72 173,72 MCC-1633
+00 6-MB-251 Foundation cooling fan unit 6 Cold Tank 46,88 30,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 0,80 0,00 58,83 58,83 MCC-1633
+00 6-MB-253 Foundation cooling fan unit 6 Hot Tank 46,88 30,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 0,80 0,00 58,83 58,83 MCC-1633
+00 PP-16334M Power panel essential 478,05 N/A 465,57 428,20 182,75 460,00 3P A.C. 0,92 1,00 1,00 584,34 600,00 600,00 MCC-1633
+00 AT-16134M-01 Transform er for I&C panels 15,00 N/A 0,92 0,78 0,41 460,00 3P A.C. 0,89 1,00 0,95 1,16 19,82 19,82 PP-16134M
+
+[page 5]
+Document:
+No. Req'd:
+Issue: Dated:
+15/12/2016 JCC JCC JRL
+Date By Chk'd App'd Description
+Rev ISA code Load description Installed 
+Power (kVA)
+Installed 
+Power (kW)
+Consumed 
+Power (kVA)
+Consumed 
+Power (kW)
+Cosumed Power 
+(KVAr) Voltage (V) Phases Current 
+type Cos Phi Simultaneity 
+factor Efficiency Consumed 
+current (A)
+Installed current 
+(A)
+Max. Design 
+current (A) Feed from Comments
+Ref.:
+0-GAR
+Rev.
+ABENER TEYMA 
+SOLANA
+SOLANA 250 MW Solar Power Plant
+Job: 4521-LIS-AGE-39-40-0010
+ABEINSA ENGINEERING
+Item No.:
+Project: Solana
+TES Area Electric consumer list Unit 5-6
+00 PP-16134M01 Panel for I&C equipment 21,62 N/A 0,88 0,78 0,41 208,00 3P+N A.C. 0,89 1,00 1,00 2,43 60,00 60,00 AT-16134M-01
+00 FIT-2-251-05 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 PP-16134M01
+00 FIT-2-252-05 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 PP-16134M01
+00 FIT-2-251-13 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 PP-16134M01
+00 AT-2-251-26 VOC analyzer 0,10 0,06 0,10 0,06 0,08 120,00 1P+N A.C. 0,60 1,00 1,00 0,83 0,83 0,83 PP-16134M01
+00 LS 204-02B Level switch 0,00 0,00 0,00 0,00 0,00 120,00 1P+N A.C. 0,60 1,00 1,00 0,03 0,03 0,03 PP-16134M01
+00 FIT-2-251-47 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 PP-16134M01
+00 FIT-204-53 Ullage area fl owmeter and Carbon Filter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 PP-16134M01
+00 2-MP-254HT HTF Freeze protecti on circulation pump motor heater 0,25 0,24 0,25 0,24 0,08 120,00 1P+N A.C. 0,95 1,00 1,00 2,11 2,11 2,11 PP-16134M01
+00 2-MP-256HT Cold salt tank recirc pump motor heater 0,20 0,19 0,20 0,19 0,06 120,00 1P+N A.C. 0,95 1,00 1,00 1,68 1,68 1,68 PP-16134M01
+00 Equipped reserve (1) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-16134M01
+00 FIT-2-253-47 Ultrasonic flowmeter 0,03 0,02 0,03 0,02 0,02 120,00 1P+N A.C. 0,60 1,00 1,00 0,21 0,21 0,21 PP-16134M01
+00 2-MP-257HT Cold salt tank recirc pump motor heater 0,20 0,19 0,20 0,19 0,06 120,00 1P+N A.C. 0,95 1,00 1,00 1,68 1,68 1,68 PP-16134M01
+00 Equipped reserve (2) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-16134M01
+00 Equipped reserve (3) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-16134M01
+00 Equipped reserve (1) 93,75 75,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 117,67 117,67 PP-16134M
+00 MP-211B Seal pump reservoir inmersion heater 6,25 4,00 6,25 5,00 3,75 460,00 3P A.C. 0,80 1,00 0,80 7,84 7,84 7,84 PP-16134M
+00 Equipped reserve (2) 18,75 15,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 23,53 23,53 PP-16134M
+00 Equipped reserve (3) 65,00 52,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 81,58 81,58 PP-16134M
+00-GAR TES-A1-L2 Drain TES pipes Unit 5 34,74 33,00 34,74 33,00 10,85 460,00 3P A.C. 0,95 1,00 1,00 43,60 43,60 43,60 PP-16134M New load. Equipped reserve will be used
+00 Equipped reserve (5) 36,25 29,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 45,50 45,50 PP-16134M
+00-GAR HTF-B1-L2 South HTF Heat Trace panel (P701) 2,00 1,90 2,00 1,90 0,62 460,00 3P A.C. 0,95 1,00 1,00 2,51 2,51 2,51 PP-16134M Load from PP-26334M25. Change its code, previously HTF-B-L2
+00 UPS-26334M25 Alternate feed (P570) 32,00 N/A 55,34 39,99 29,15 460,00 3P A.C. 0,85 1,00 0,85 69,46 40,16 69,46 PP-16334M
+00 PP-26334M25 Panel board UPS alternate feed (Unit 5) (sb) 79,67 N/A 47,98 39,99 26,51 460,00 3P A.C. 0,83 1,00 1,00 60,22 100,00 100,00 UPS-26334M25
+00 MCC-26334M2501 MCC for freeze protection (sb) 478,05 N/A 23,44 18,75 14,06 460,00 3P A.C. 0,80 1,00 1,00 29,42 600,00 600,00 PP-26334M25
+00 5-MP-254-S1 HTF Freeze protecti on pump seal pump 1 tank 5 (sb) 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 6-MP-254-S2 HTF Freeze protecti on pump seal pump 2 tank 6 (sb) 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MP-201B-S2 South HTF Backup recirculation pump seal pump #2 (sb) 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MCC-26334M2502 MCC for bearing cooling (sb) 478,05 N/A 0,78 0,63 0,47 460,00 3P A.C. 0,80 1,00 1,00 0,98 600,00 600,00 PP-26334M25
+00 Equipped reserve (1) (sb) 0,63 0,50 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 0,78 0,78 MCC-26334M2501
+00 257C-F1 Pump bearing cooling system exhaust fan #1 (sb) 0,78 0,50 0,78 0,63 0,47 460,00 3P A.C. 0,80 1,00 0,80 0,98 0,98 0,98 MCC-26334M2501
+00 257C-P1 Pump bearing cooling system pump #1 (sb) 2,34 1,50 2,34 1,88 1,41 460,00 3P A.C. 0,80 1,00 0,80 2,94 2,94 2,94 MCC-26334M2501
+00 AT-26334M2507 Transformer for control voltage (sb) 15,00 N/A 9,49 5,61 7,05 460,00 3P A.C. 0,62 1,00 0,95 11,91 18,83 18,83 PP-26334M25
+00 PP-26334M2507 Panel board for electrical panel control voltage (sb) 21,62 N/A 9,01 5,61 7,05 208,00 3P+N A.C. 0,62 1,00 1,00 25,01 60,00 60,00 AT-26334M2507
+00 LVSWG 63 Control voltage for LVSWG 63 (sb) 0,33 0,20 0,33 0,20 0,27 120,00 1P+N A.C. 0,60 1,00 1,00 2,78 2,78 2,78 PP-26334M2507
+00 HTF-A-L3 Control voltage for HTF-A-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 VSD-5-MP-254 Control voltage for VSD-5-MP-254 (sb) 0,02 0,01 0,02 0,01 0,01 120,00 1P+N A.C. 0,60 1,00 1,00 0,14 0,14 0,14 PP-26334M2507
+00 RTU-32-201 Control voltage for RTU-32-201 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-A6-L3 Control voltage for TES-A7-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 RTU-32-201 Control voltage for RTU-32-201 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 HTF-A2-L3 Control voltage for HTF-A2-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 TES-A-L1 Control voltage for TES-A-L1 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-B1-L2 Control voltage for TES-B1-L2 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 TES-B-L1 Control voltage for TES-B-L1 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-AB1-L2 Control voltage for TES-AB1-L2 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 BOP-A Control voltage for BOP-A (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 HTF-B2-L3 Control voltage for HTF-B2-L3 (sb) 0,35 0,30 0,35 0,30 0,19 120,00 1P+N A.C. 0,85 1,00 1,00 2,94 2,94 2,94 PP-26334M2507
+00 TES-B-L2 Control voltage for TES-B-L2 (sb) 0,35 0,30 0,35 0,30 0,19 120,00 1P+N A.C. 0,85 1,00 1,00 2,94 2,94 2,94 PP-26334M2507
+00-GAR HTF-A1-L3 Control voltage for HTF-A1-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 TES-A1-L3 Control voltage for TES-A1-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00-GAR TES-A5-L3 Control voltage for TES-A5-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507 New load. Equippe d reserve will be used
+00 Equipped reserve (6) (sb) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-26334M2507
+00 TES-A2-L3 Control voltage for TES-A2-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 TES-A3-L3 Control voltage for TES-A3-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 TES-B3-L3 Control voltage for TES-B3-L3 (sb) 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2507
+00 Equipped reserve (1) (sb) 11,25 9,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 14,12 14,12 PP-26334M25
+00 Equipped reserve (2) (sb) 21,25 17,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 26,67 26,67 PP-26334M25
+00 Equipped reserve (3) (sb) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M25
+00 Equipped reserve (4) (sb) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M25
+00 TES-A-L1 Unit 5 Heat trace panel (P700) (sb) 15,79 15,00 15,79 15,00 4,93 460,00 3P A.C. 0,95 1,00 1,00 19,82 19,82 19,82 PP-26334M25
+00 UPS-26334M26 Primary feed (P579) 32,00 N/A 61,67 44,56 32,49 460,00 3P A.C. 0,85 1,00 0,85 77,41 40,16 77,41 PP-16134M
+00 PP-26334M26 Panel board UPS primary feed (Unit 6) 63,74 N/A 53,37 44,56 29,38 460,00 3P A.C. 0,83 1,00 1,00 66,99 80,00 80,00 UPS-26334M26
+00 MCC-26334M2601 MCC for freeze protection 478,05 N/A 23,44 18,75 14,06 460,00 3P A.C. 0,80 1,00 1,00 29,42 600,00 600,00 PP-26334M26
+00 6-MP-254-S1 HTF Freeze protec tion pump seal pump 1 tank 6 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 5-MP-254-S2 HTF Freeze protec tion pump seal pump 2 tank 5 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MP-201B-S1 South HTF Backup re circulation pump seal pump #3 7,81 5,00 7,81 6,25 4,69 460,00 3P A.C. 0,80 1,00 0,80 9,81 9,81 9,81 MCC-26334M2501
+00 MCC-26334M2602 MCC for bearing cooling 478,05 N/A 3,13 2,50 1,88 460,00 3P A.C. 0,80 1,00 1,00 3,92 600,00 600,00 PP-26334M26
+00 Equipped reserve (1) 2,50 2,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 3,14 3,14 MCC-26334M2501
+00 257C-F2 Pump bearing cooling system exhaust fan #2 0,78 0,50 0,78 0,63 0,47 460,00 3P A.C. 0,80 1,00 0,80 0,98 0,98 0,98 MCC-26334M2501
+00 257C-P2 Pump bearing cooling system pump #2 2,34 1,50 2,34 1,88 1,41 460,00 3P A.C. 0,80 1,00 0,80 2,94 2,94 2,94 MCC-26334M2501
+00 AT-26334M2607 Transformer for control voltage 15,00 N/A 12,03 7,81 8,34 460,00 3P A.C. 0,68 1,00 0,95 15,10 18,83 18,83 PP-26334M26
+00 PP-26334M2607 Panel board for electrical panel control voltage 21,62 N/A 11,43 7,81 8,34 208,00 3P+N A.C. 0,68 1,00 1,00 31,72 60,00 60,00 AT-26334M2507
+00 LVSWG 163 Control voltage for LVSWG 163 0,29 0,20 0,29 0,20 0,20 120,00 1P+N A.C. 0,70 1,00 1,00 2,38 2,38 2,38 PP-26334M2607
+00 HTF-B1-L3 Control voltage for HTF-B1-L3 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 VSD-6-MP-254 Control voltage for VSD-6-MP-254 0,01 0,01 0,01 0,01 0,01 120,00 1P+N A.C. 0,70 1,00 1,00 0,12 0,12 0,12 PP-26334M2607
+00 RTU-32-202 Control voltage for RTU-32-202 2,00 1,40 2,00 1,40 1,43 120,00 1P+N A.C. 0,70 1,00 1,00 16,67 16,67 16,67 PP-26334M2607
+00-GAR TES-B6-L3 Control voltage for TES-B7-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+00 RTU-32-202 Control voltage for RTU-32-202 (sb) 2,00 1,40 2,00 1,40 1,43 120,00 1P+N A.C. 0,70 1,00 1,00 16,67 16,67 16,67 PP-26334M2607
+00 HTF-A1-L2 Control voltage for HTF-A1-L2 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A4-L3 Control voltage for TES-A4-L3 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 HTF-B1-L2 Control voltage for HTF-B1-L2 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A-L1 Control voltage for TES-A-L1 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 HTF-A2-L2 Control voltage for HTF-A2-L2 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-26334M2607
+00 TES-B-L1 Control voltage for TES-B-L1 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-B-L2 Control voltage for TES-B-L2 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A-L2 Control voltage for TES-A-L2 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00-GAR TES-A1-L2 Control voltage for TES-A1-L2 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+00 Equipped reserve (4) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 PP-26334M2607
+00-GAR HTF-B1-L3 Control voltage for HTF-B1-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+
+[page 6]
+Document:
+No. Req'd:
+Issue: Dated:
+15/12/2016 JCC JCC JRL
+Date By Chk'd App'd Description
+Rev ISA code Load description Installed 
+Power (kVA)
+Installed 
+Power (kW)
+Consumed 
+Power (kVA)
+Consumed 
+Power (kW)
+Cosumed Power 
+(KVAr) Voltage (V) Phases Current 
+type Cos Phi Simultaneity 
+factor Efficiency Consumed 
+current (A)
+Installed current 
+(A)
+Max. Design 
+current (A) Feed from Comments
+Ref.:
+0-GAR
+Rev.
+ABENER TEYMA 
+SOLANA
+SOLANA 250 MW Solar Power Plant
+Job: 4521-LIS-AGE-39-40-0010
+ABEINSA ENGINEERING
+Item No.:
+Project: Solana
+TES Area Electric consumer list Unit 5-6
+00-GAR TES-B5-L3 Control voltage for TES-B5-L3 0,50 0,30 0,50 0,30 0,40 120,00 1P+N A.C. 0,60 1,00 1,00 4,17 4,17 4,17 PP-26334M2607 New load. Equippe d reserve will be used
+00 TES-B1-L3 Control voltage for TES-B1-L3 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-B2-L3 Control voltage for TES-B2-L3 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-A3-L3 Control voltage for TES-A3-L3 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 TES-B3-L3 Control voltage for TES-B3-L3 0,43 0,30 0,43 0,30 0,31 120,00 1P+N A.C. 0,70 1,00 1,00 3,57 3,57 3,57 PP-26334M2607
+00 Equipped reserve (1) 11,25 9,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 14,12 14,12 PP-26334M26
+00 Equipped reserve (2) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M26
+00 TES-B-L1 Unit 6 Heat trace panel (P700) 16,32 15,50 16,32 15,50 5,09 460,00 3P A.C. 0,95 1,00 1,00 20,48 20,48 20,48 PP-26334M26
+00 Equipped reserve (3) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M26
+00 Equipped reserve (4) 15,00 12,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 18,83 18,83 PP-26334M26
+00 2-MH-254 Nitrogen heater for cold salk tank 3,16 2,85 3,16 3,00 0,99 460,00 3P A.C. 0,95 1,00 0,95 3,96 3,96 3,96 PP-16134M
+00 2-MH-255 Nitrogen heater for hot salk tank 3,16 2,85 3,16 3,00 0,99 460,00 3P A.C. 0,95 1,00 0,95 3,96 3,96 3,96 PP-16134M
+00 ATS-26334M37 Emergency Feed (P572) (sb) 318,70 N/A 314,50 296,98 103,50 460,00 3P A.C. 0,94 1,00 1,00 394,73 400,00 400,00 PP-16334M
+00 PP-26334M37 Panel board ATS feed (sb) 318,70 N/A 314,50 296,98 103,50 460,00 3P A.C. 0,94 1,00 1,00 394,73 400,00 400,00 ATS-26334M37
+00-GAR TES-AB1-L2 Drain TES pipes & Drain tank Unit 5+6 57,89 55,00 57,89 55,00 18,08 460,00 3P A.C. 0,95 1,00 1,00 72,66 72,66 72,66 PP-26334M25 New load. Equippe d reserve will be used
+00-GAR Equipped reserve (7) 41,88 33,50 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 52,56 52,56 PP-26334M25
+00-GAR Equipped reserve (8) 2,38 1,90 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 2,98 2,98 PP-26334M25
+00-GAR Drain Pump Unit 5+6 17,48 11,19 17,48 13,98 10,49 460,00 3P A.C. 0,80 1,00 0,80 21,93 21,93 21,93 PP-26334M25 New load. Equippe d reserve will be used
+00 TES-A-L2 Unit 5 Heat trace panel (P700) 120,00 114,00 120,00 114,00 37,47 460,00 3P A.C. 0,95 1,00 1,00 150,61 150,61 150,61 PP-26334M25
+00 TES-B-L2 Unit 6 Heat trace panel (P700) 120,00 114,00 120,00 114,00 37,47 460,00 3P A.C. 0,95 1,00 1,00 150,61 150,61 150,61 PP-26334M25
+00-GAR Equipped reserve (6) 19,38 15,50 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 24,32 24,32 PP-26334M25
+00 Equipped reserve (3) 55,00 44,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 69,03 69,03 PP-26334M25
+00 Equipped reserve (4) 37,50 30,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 47,07 47,07 PP-26334M25
+00 Equipped reserve (5) 43,75 35,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 54,91 54,91 PP-26334M25
+00 Equipped reserve 125,00 100,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 156,89 156,89 MCC-1633
+00-GAR' TES-B6-L3 Interchange and HTF/TES pipes Unit 6 252,63 240,00 252,63 240,00 78,88 460,00 3P A.C. 0,95 1,00 1,00 317,08 317,08 317,08 MCC-1633 New load. New protection sha ll be included in space reserve
+00 PP-1634 Electrical room 32 (-P594)-Non essential loads 956,09 N/A 888,61 860,91 220,13 460,00 3P A.C. 0,97 1,00 1,00 1.115,30 1.200,00 1.200,00 LVSWGR-163
+00 TES-B2-L3 Unit 6 Heat trace panel (P700) 140,00 133,00 140,00 133,00 43,71 460,00 3P A.C. 0,95 1,00 1,00 175,72 175,72 175,72 PP-1634
+00 TES-B1-L3 Unit 6 Heat trace panel (P700) 90,00 85,50 90,00 85,50 28,10 460,00 3P A.C. 0,95 1,00 1,00 112,96 112,96 112,96 PP-1634
+00 TES-A4-L3 Unit 5 Heat trace panel (P700) 140,00 133,00 140,00 133,00 43,71 460,00 3P A.C. 0,95 1,00 1,00 175,72 175,72 175,72 PP-1634
+00 AT-163408 Transformer lighting 30,00 N/A 3,63 2,76 2,07 460,00 3P A.C. 0,80 1,00 0,95 4,56 37,65 37,65 PP-1634
+00 LP-161408 Panel board for lighting 39,84 N/A 3,45 2,76 2,07 460,00 3P+N A.C. 0,80 1,00 1,00 4,33 50,00 50,00 AT-161408
+00 Circuit 1 TES North low level & access staris 1,25 1,00 0,50 0,40 0,30 277,00 1P+N A.C. 0,80 0,40 1,00 1,81 4,51 4,51 LP-161408
+00 Circuit 2 TES North low level 1,13 0,90 0,45 0,36 0,27 277,00 1P+N A.C. 0,80 0,40 1,00 1,62 4,06 4,06 LP-161408
+00 Circuit 3 TES North low level 1,63 1,30 0,65 0,52 0,39 277,00 1P+N A.C. 0,80 0,40 1,00 2,35 5,87 5,87 LP-161408
+00 Circuit 4 TES North top level 1,13 0,90 0,45 0,36 0,27 277,00 1P+N A.C. 0,80 0,40 1,00 1,62 4,06 4,06 LP-161408
+00 Circuit 5 TES North top level 1,50 1,20 0,60 0,48 0,36 277,00 1P+N A.C. 0,80 0,40 1,00 2,17 5,42 5,42 LP-161408
+00 Circuit 6 TES North top level 1,63 1,30 0,65 0,52 0,39 277,00 1P+N A.C. 0,80 0,40 1,00 2,35 5,87 5,87 LP-161408
+00 Equipped reserve (1) 5,00 4,00 0,00 0,00 0,00 277,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,05 18,05 LP-161408
+00 Equipped reserve (2) 5,00 4,00 0,00 0,00 0,00 277,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,05 18,05 LP-161408
+00 Equipped reserve (3) 5,00 4,00 0,00 0,00 0,00 277,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,05 18,05 LP-161408
+00 Lighting contactor LC129 0,38 0,30 0,15 0,12 0,09 277,00 1P+N A.C. 0,80 0,40 1,00 0,54 1,35 1,35 LP-161408
+00 TES-B3-L3 Unit 6 Heat trace panel (P700) 30,00 28,50 30,00 28,50 9,37 460,00 3P A.C. 0,95 1,00 1,00 37,65 37,65 37,65 PP-1634
+00 WR-1634251/2 Welding receptacles 25,00 22,50 0,00 0,00 0,00 460,00 3P A.C. 0,90 0,00 1,00 0,00 31,38 31,38 PP-1634
+00 AT-163419 Transformer fo r receptable panel 45,00 N/A 8,96 6,40 5,61 460,00 3P A.C. 0,75 1,00 0,95 11,24 56,48 56,48 PP-1634
+00 RP-161419 Panel board for lighting (Non-Essential loads) 81,06 N/A 8,51 6,40 5,61 208,00 3P+N A.C. 0,75 1,00 1,00 23,62 225,00 225,00 AT-161419
+00 Lights 1,25 1,00 0,50 0,40 0,30 120,00 1P+N A.C. 0,80 0,40 1,00 4,17 10,42 10,42 RP-161419
+00 LVSWR161 (heating resistors) 1,25 1,00 1,25 1,00 0,75 120,00 1P+N A.C. 0,80 1,00 1,00 10,42 10,42 10,42 RP-161419
+00 Duplex Receptacle 1,25 1,00 1,25 1,00 0,75 120,00 1P+N A.C. 0,80 1,00 1,00 10,42 10,42 10,42 RP-161419
+00 Duplex Receptacle 1,25 1,00 1,25 1,00 0,75 120,00 1P+N A.C. 0,80 1,00 1,00 10,42 10,42 10,42 RP-161419
+00-GAR Outdoor lighting Unit 6 a 2,14 1,50 2,14 1,50 1,53 120,00 1P+N A.C. 0,70 1,00 1,00 17,86 17,86 17,86 RP-161419 New load. Equippe d reserve will be used
+00-GAR Outdoor lighting Unit 6 b 2,14 1,50 2,14 1,50 1,53 120,00 1P+N A.C. 0,70 1,00 1,00 17,86 17,86 17,86 RP-161419 New load. Equippe d reserve will be used
+00 Equipped reserve (3) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (4) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (5) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (6) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (7) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (8) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (9) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (10) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (11) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (12) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (13) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (14) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (15) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 Equipped reserve (16) 2,25 1,80 0,00 0,00 0,00 120,00 1P+N A.C. 0,80 0,00 1,00 0,00 18,75 18,75 RP-161419
+00 HTF-B1-L3 HTF South ar ea heat trace panel 20,00 19,00 20,00 19,00 6,24 460,00 3P A.C. 0,95 1,00 1,00 25,10 25,10 25,10 PP-1634
+00 Equipped reserve (1) 47,50 38,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 59,62 59,62 PP-1634
+00 BOP-A Heat trace panel 6,05 5,75 6,05 5,75 1,89 460,00 3P A.C. 0,95 1,00 1,00 7,60 7,60 7,60 PP-1634
+00 ACU-163431 Air condition unt 2 DCS room 29 11,25 9,00 11,25 9,00 6,75 460,00 3P A.C. 0,80 1,00 1,00 14,12 14,12 14,12 PP-1634
+00 ACU-163432 Air condition unt 4 EEE room 29 11,25 9,00 11,25 9,00 6,75 460,00 3P A.C. 0,80 1,00 1,00 14,12 14,12 14,12 PP-1634
+00 ACU-163437 Air condition 11,25 9,00 11,25 9,00 6,75 460,00 3P A.C. 0,80 1,00 1,00 14,12 14,12 14,12 PP-1634
+00 Equipped reserve (2) 23,75 19,00 0,00 0,00 0,00 460,00 3P A.C. 0,80 0,00 1,00 0,00 29,81 29,81 PP-1634
+00-GAR' HTF-B1-L3 Heat trace panel HTF pipes Unit 6 189,47 180,00 189,47 180,00 59,16 460,00 3P A.C. 0,95 1,00 1,00 237,81 237,81 237,81 PP-1634 New load. New protection sha ll be included in space reserve
+00-GAR' TES-B5-L3 Heat trace panel TES pipes Unit 6 252,63 240,00 252,63 240,00 78,88 460,00 3P A.C. 0,95 1,00 1,00 317,08 317,08 317,08 PP-1634 New load. New protection sha ll be included in space reserve
