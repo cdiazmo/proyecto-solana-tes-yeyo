@@ -347,14 +347,20 @@
       "source_corpus": "Documentacion con sello PE 08",
       "project_area": "General",
       "deliverable_part": "Memoria y anejos",
-      "discipline": "General",
+      "discipline": "Civil / estructuras",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
       "reuse_priority": "alta",
       "page_count": 39,
       "indexed_reference_count": 24,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T19:58:16.687157+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-05T09:23:16.659544+00:00"
+  "processed_at": "2026-06-08T19:58:16.687158+00:00"
 }

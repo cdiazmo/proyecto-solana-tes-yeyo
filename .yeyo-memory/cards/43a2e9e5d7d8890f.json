@@ -9,12 +9,12 @@
   "title": "5.10.5.7 Contrato Mto AT HI",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
-  "text_chars": 0,
-  "token_estimate": 0,
-  "chunks": 0,
+  "status": "ok",
+  "text_chars": 3581,
+  "token_estimate": 895,
+  "chunks": 3,
   "card_path": ".yeyo-memory/cards/43a2e9e5d7d8890f.json",
-  "extracted_path": null,
+  "extracted_path": ".yeyo-memory/extracted/43a2e9e5d7d8890f.txt",
   "metadata": {
     "pages": 1,
     "pdf_metadata": {
@@ -33,13 +33,25 @@
       "project_area": "Helios I",
       "deliverable_part": "Mediciones y presupuestos",
       "discipline": "Electrica",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "pendiente_ocr",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
       "page_count": 1,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng+spa",
+      "pages": 1,
+      "pages_with_text": 1,
+      "characters": 3581,
+      "generated_at": "2026-06-08T19:08:28.858355+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:32:47.081711+00:00"
+  "processed_at": "2026-06-08T19:08:28.858620+00:00"
 }

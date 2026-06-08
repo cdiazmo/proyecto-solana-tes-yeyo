@@ -27,9 +27,9 @@
     },
     "encrypted": false,
     "plan_tag": {
-      "kind": "Permiso / plano sellado",
+      "kind": "Cimentacion / foundation",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:14.094044+00:00",
+      "tagged_at": "2026-06-08T20:00:39.312245+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -155,14 +155,14 @@
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "General",
       "deliverable_part": "Planos",
-      "discipline": "Permisos / legalizacion",
+      "discipline": "Civil / estructuras",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
       "reuse_priority": "media_alta",
       "page_count": 7,
       "indexed_reference_count": 9,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:14.094046+00:00"
+  "processed_at": "2026-06-08T20:00:39.312247+00:00"
 }

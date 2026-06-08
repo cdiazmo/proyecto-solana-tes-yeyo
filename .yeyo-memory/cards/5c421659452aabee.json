@@ -79,14 +79,14 @@
     "ai_features": {
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "General",
-      "deliverable_part": "Mediciones y presupuestos",
+      "deliverable_part": "Listados e indices",
       "discipline": "Electrica",
       "extraction_quality": "archivo_comprimido_listado",
       "ai_action": "descomprimir_solo_si_indice_lo_justifica",
       "reuse_priority": "media",
       "page_count": 0,
       "indexed_reference_count": 4,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
   "processed_at": "2026-06-05T09:13:28.619370+00:00"

@@ -73,14 +73,20 @@
       "source_corpus": "Documentacion con sello PE 08",
       "project_area": "General",
       "deliverable_part": "Memoria y anejos",
-      "discipline": "General",
+      "discipline": "Civil / estructuras",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
       "reuse_priority": "alta",
       "page_count": 248,
       "indexed_reference_count": 3,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T19:58:17.165389+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-05T09:23:21.564602+00:00"
+  "processed_at": "2026-06-08T19:58:17.165391+00:00"
 }

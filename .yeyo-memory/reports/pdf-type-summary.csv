@@ -1,14 +1,14 @@
 type,pdfs,legibles,legibilidad,requiere_ocr,errores,con_codigo,text_chars,chunks,token_estimate
-Otros / sin clasificar,336,121,36.0%,176,0,3,10806415,6879,2701559
+Otros / sin clasificar,336,246,73.2%,24,0,3,11590053,7426,2897425
 Calculo,84,84,100.0%,0,0,35,7126838,4553,1781682
-Especificacion tecnica,173,170,98.3%,3,0,169,4433093,2865,1108210
-Plano / dibujo,973,367,37.7%,5,0,687,3623120,2437,905651
-Procedimiento / manual,50,48,96.0%,1,0,32,1616453,1039,404095
+Especificacion tecnica,173,171,98.8%,2,0,169,4450258,2876,1112501
+Plano / dibujo,973,367,37.7%,0,0,687,3623120,2437,905651
+Procedimiento / manual,50,49,98.0%,0,0,32,1711351,1099,427819
 Isometrico,31,15,48.4%,0,0,2,701440,450,175355
-Listado / registro,59,49,83.1%,10,0,29,549247,367,137291
-Memoria / nota tecnica,24,23,95.8%,1,0,19,493130,322,123273
+Listado / registro,59,58,98.3%,0,0,29,578712,392,144656
+Memoria / nota tecnica,24,24,100.0%,0,0,19,497012,325,124243
 Informe,22,21,95.5%,1,0,9,296419,196,74099
 Hoja de datos,4,4,100.0%,0,0,4,250424,160,62605
 Transmision / carta,20,19,95.0%,0,0,0,83815,60,20948
 Permiso / paquete oficial,11,5,45.5%,0,0,0,71174,47,17791
-Inspeccion,4,3,75.0%,1,0,1,18398,12,4598
+Inspeccion,4,4,100.0%,0,0,1,22641,15,5658

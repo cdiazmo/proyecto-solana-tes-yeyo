@@ -1,0 +1,528 @@
+[page 1]
+Zonal oS Kessiona/S
+Ke [ZAS
+(3/7) sass 8 [o/o 54520 A
+We (a 3 on
+ES; WY Y MN
+SS -- S 4 Snes YA
+ZONA VS Neonay: y
+pores: 4/30 (2022 “es A
+Client Document Title
+Arizona Soler One LLG Heat Transfer Oil to Molten Salts Heat Exchanger
+User’s Design Specification
+Contractor's Doc. No. Official Document Number Rev.
+Code
+1950201-UDS-001-00 1950201-UDS-001-00
+A EEN EE
+
+[page 2]
+Oil to Molten Salt Heat Exchanger- [renos ] o |
+User's Design Specification
+INDEX
+
+1.1 AAA]
+1.2 STE]
+2.1 Loca cccicociccoriociorocnonioononrononorororornonononnor roo rrnorr normes nnnorrnnorrrnnor error canacas A
+2.2 Jurisdictional Authority 0.0... cecssecsessssesseessvessesessesecssersosesnseseeesetesstssessneesneese 4
+2.3 Environmental Conditions...............ccsecesseeciecee neces teessseeesseessseerssensssneessnesssneecse &
+3.1 IRA A A]
+3.2 Service AAA A B
+4 VESSEL CONFIGURATION AND CONTROLLING DIMENSIONS .o.oococciccociococnionnocionnoocicnoaaacos O)
+8.1 Material Specificati0............ononiininnonionnnmmmmrrrrrrrrrrre U4
+8.2 [A AAA 14
+11.1 Additional requirements such as non-destructive examination, restricted chemistry, or
+SEA 1D
+
+11.2 Type of weld joints and the extent of required non-destructive examinations ............... 13
+11.3. Non-mandatory or optional provisions of this Division that are considered to be mandatory
+for the Subject VESSE] cinco TA
+
+11.4 A” special requirements for marking and their location (see paragraph 4.1 and Annex 2-
+11.5 Requirements for seals and/or bolting for closures and COVETS.................ccmmmccccoooresns 14,
+11.6 Any agreements which resolve the problems of operation and maintenance control
+unique to the particular pressure VeSSEl...............cscecsecssesssesssesssecseecssesssecsteesnrssneesneeses 14
+
+11.7 Specific additional requirements relating to pressure testing SUCH AS: ...............mm..... 14
+11.8 Manufacturer's Design Report... ceccsscsseseessesseseesesstessessestsssesteseesesstestesteeesesseeee 15
+11.9 Certificate of COMPLIANCE «0.0... eee tees reece tees eeesteeesseessseessieesneetenesnnneersssnseeees 16
+
+“1950207-UDS-001.00 User's Design Specification O Pagezoris.
+
+[page 3]
+DATE
+Oil to Molten Salt Heat Exchanger- [reson | o |
+User’s Design Specification
+1 INTRODUCTION
+This specification, together with the related specifications, codes and standards constitutes a
+complete "User's Design Specification" and shall contain sufficient detail to provide a complete
+basis for design, construction, examination and test in accordance with the requirements of the
+ASME Code, Section VIII, Div 2, Ed. 2017, Class 2.
+1.1 Purpose
+This specification covers all the requirements outlined in ASME Code, Section VIII, Division 2, Part
+2.2.2 for the design and construction of one train of 6 horizontal BFU type Heat Transfer Oil to Salt
+Heat Exchangers
+14WSX11 ACOO1
+14WSX12 ACO01
+14WSX13 ACO01
+14WSX14 ACO01
+14WSX15 ACO01
+14WSX16 ACO01
+Any proposed deviation from this specification by the Supplier is to be made by written request for
+approval by the User and for a revision of this specification.
+1.2 Reference Standards
+a) ASME Code, Section VIII, Division 2, 2017 Edition — "Rules for Construction of Pressure
+Vessels”
+b) ASME Code, Section II, Part A, 2017 Edition — “Ferrous Material Specifications”
+Cc) ASME Code, Section Il, Part D , 2017 Edition — “Material Properties”
+d) ASME Code, Section V, 2017 Edition — “Non-destructive Examination”
+e) ASME Code, Section IX, 2017 Edition — “Welding and Brazing Qualifications”
+It shall be used the last available revision for each standard, code or regulation of
+f) ASME B16.5 — “Pipe Flanges and Flanged Fittings”
+g) ASME B36.10 - “Welded and Seamless Wrought Steel Pipe”
+h) TEMA, Ed. 9 - “Tubular Exchanger Manufacturers Association”
+1950201-UDS-001.00 User's Design Specification Page 3 of 16
+
+[page 4]
+DATE
+7m
+Oil to Molten Salt Heat Exchanger- [rewsov | o |
+User’s Design Specification
+The present document has to be read in conjunction with
+Document Number Document Description
+4521-HDD-LOI-039-062-0001-GAR Equipment Data Sheets
+195001-CAL-101 Rev 0 Start-Up Curves
+4521-SPE-SGT-039-0062-0001 Rev 01 Shell &Tube HEX Technical Specification
+4521-ESP-ANC-00-62-0001 Project Design Criteria
+4521-ESP-ANC-039-0062-0004 Shell&Tube HEX Maximum _ allowable
+Nozzle Loads
+4521-PPI-SGT-000-212-0001 Molten Salt HEX PPI
+2 INSTALLATION SITE
+2.1 Location
+These vessels shall be erected for the Solana Generation Station. The plant site is located in Maricopa
+County, Arizona, approximately 80 miles southwest of Phoenix, and
+20 miles west of the town on Gila Bend near Interstate 8 and Painted Rock Dam Road.
+2.2 Jurisdictional Authority
+2.2.1 National Legislation Applicable
+The equipment shall comply with all American regulations, laws and requirements. Local, regional,
+national (USA) requirements shall be used for the determination and application of all loads.
+2.3 Environmental Conditions
+2.3.1 Wind Design Loads
+Wind Loads according to ASCE 7-05 Code.
+The following parameters will be considered:
+- Basic Wind Speed: 90 MPH
+- Wind Exposure Category: C
+- Wind Importance Factor: IW = 1.15 for Category III (central plant)
+- Wind Directionality Factor: KD = 0.95 for round chimneys and tanks
+- Topographic Factor: KZT = 1.0
+- Gust Effect Factor: G = 0.85 (for rigid structures)
+1950201-UDS-001.00 User's Design Specification Page 4 of 16
+
+[page 5]
+DATE
+má
+Oil to Molten Salt Heat Exchanger- [rewsow | o |
+User's Design Specification
+2.3.2 Earthquake Design Loads
+Earthquake Loads according to ASCE 7-05 Code.
+The following parameters will be considered:
+- Seismic Importance Factor: IE = 1.25 for Category III (central plant)
+- Mapped Spectral Response Acceleration Coefficients (5% damped, 2% probability of
+exceedance within 50 years, from USGS National Seismic Hazard Maps - 2002):
+o Short Period SS = 0.23
+o 1-sec Period S1 = 0.088
+- Site Class: D
+- Site Coefficients:
+o Fa=16
+o Fv=24
+- Adjusted Spectral Response Acceleration Coefficients (for Site Class D):
+o Short Period SMS = Fa*Ss = 0.368
+o 1-sec Period SM1 = FvS1 = 0.211
+- Design Spectral Response Acceleration Coefficients:
+o Short Period SDS = 2/3 SMS = 0.245
+o 1-sec Period SD1 = 2/3 SM1 = 0.142
+- Seismic Design Category:
+o Short Period SDC: B
+o 1-sec Period SDC: C
+o Governing Seismic Design Category: C
+2.3.3 Snow Loads
+N/A
+2.3.4 Temperature for Location
+From document No. 4521-ESP-ANC-00-62-0001 Project Design Criteria:
+Environmental Design Conditions
+Maximum ambient temperature - Dry Bulb Temperature (design
+Minimum ambient temperature - Dry Bulb Temperature (design min
+Maximum Relative humidity - Wet Bulb Temperature (design max
+Annual Rainfall | 7 [in |
+100 Year Rainfall - 24 hour basis
+100 Year Rainfall - 1 hour basis
+1950201-UDS-001.00 User's Design Specification Page 5 of 16
+
+[page 6]
+DATE
+Oil to Molten Salt Heat Exchanger- [revson [o |
+User's Design Specification
+3 VESSEL IDENTIFICATION
+3.1 Serial | Vessel Number
+14WSX11 ACOO1
+14WSX12 ACO01
+14WSX13 ACO01
+14WSX14 ACO01
+14WSX15 ACO01
+14WSX16 ACO01
+3.2 Service Fluid
+These vessels are oil-to-salt heat exchangers, with Molten Salt in the shell side and Therminol VP1
+in the tube side, non-lethal and corrosive service.
+4 VESSEL CONFIGURATION AND CONTROLLING DIMENSIONS
+(1) The following parameters shall be used for the mechanical design of the vessels:
+Vessel orientation: horizontal (saddle supported, STACK type) — 1° sloped
+TEMA type: BFU
+3577 U tubes, 0.625 in. diameter, 0.065 in. thick, 38.713 ft. long
+Vessel Design Data | Shell Side | Tube Side
+Shell internal diameter 84.8424 85.875 [in |
+1.9054 - 1.8425 | 0.6924-0.8120 | |
+Volume per shell 1035.7792 489.1081
+0.125 0.125 lin]
+Radiographic control FULL FULL
+Lethal service J No [— No |
+Life time of terminal At least 25 years
+(2) For closures and opening types, size and location/orientation, the main characteristics are
+depicted below:
+1950201-UDS-001.00 User's Design Specification Page 6 of 16
+
+[page 7]
+DATE
+Oil to Molten Salt Heat Exchanger- [rewsow | o |
+User's Design Specification
+- Nozzle types, quantity and sizes:
+CONE |
+Nozzle item type
+[Mm | 4 | special | NA | 1D 24"
+si/s2] 2 | 24 [| Bw | 24” x 0.5 in. thk Shell inlet, outlet
+71/72 24 24” x 0.688 in. thk Channel inlet,
+outlet
+- Nozzle orientations and locations:
+NS a ae _ =
+| | | | Ty
+| 4D
+Nozzles $1 /S2 are located in the first shell course, near the tubsheet, and oriented vertically.
+Nozzles T1 / T2 are located in the hemispherical channel head, oriented with a 30 degrees
+rotation from the vertical direction.
+Nozzle M (Manhole) is located in the hemispherical channel head, and oriented horizontally.
+5 DESIGN CONDITIONS
+(1) Specified design pressure according to the following table. The MAWP of the vessel may
+be set equal to this specified design pressure.
+Design Condition Shell Side Tube Side
+320/ FV 320/FV_ |psig |
+750.2/750.2 | 750.2/ 750.2
+Minimum Design Metal Temperature (MDMT) | 2s | as [e |
+at design pressure
+1950201-UDS-001.00 User's Design Specification Page 7 of 16
+
+[page 8]
+DATE
+Oil to Molten Salt Heat Exchanger- [rewsow | o |
+User's Design Specification
+(2) Live Loads: per paragraph 2.3 of this UDS.
+Design Applicability /
+Load Description Remarks
+Parameter
+| P_ | Internal or External Specified Design Pressure | |
+Static head from liquid or bulk material See paragraph 4 of
+this UDS
+Dead weight of the vessel, contents, and
+appurtenances at the location of interest,
+including the following:
+V Weight of vessel including internals, support
+legs and appurtenances (e.g. platforms,
+ladders, etc.)
+y Weight of vessel contents under operating
+and test conditions Weight of connected
+y Refractory linings, insulation piping is considered in
+y Static reactions from the weight of attached | nozzle loads
+equipment, such as motors, machinery and
+piping
+Appurtenance live loading and effects of fluid | Not applicable
+flow
+[E | Earthquake loads See paragraph 2.3 of
+Wind loads. this UDS
+[ S_[Snowloads _____________ |Notapplicable
+Loads from deflagration Not applicable
+Table 5-1 Design Loads of ASME Section VIII, Div.2
+Note: “L” refers to:
+-Appurtenance live loads.
+-Effects of fluid flow, steady or transient.
+-Loads resulting from wave action
+“Live loads” as loads due to occupancy (e.g. produced during maintenance by workers) or by
+movable objects, do not apply to this equipment
+6 OPERATING CONDITIONS
+{Operating Condition | Shell Side_| Tube Side | Units |
+137.702 237.603 |psia |
+73.97 73.97 [psi]
+1950201-UDS-001.00 User's Design Specification Page 8 of 16
+
+[page 9]
+DATE
+Oil to Molten Salt Heat Exchanger- [reson [o |
+User's Design Specification
+7 DESIGN FATIGUE LIFE
+
+A fatigue analysis is required for this vessel as the intended vessel operation does not satisfy
+
+the Requirement of Clause 5.5.2. of Part-5 of ASME code section VIII Div. 2:
+
+(1) This pressure vessel is not subjected to fatigue due to pressure (constant pressure in both
+sides).
+
+(2) The total number of full range pressure cycles and operating pressure cycles (including
+startup and shutdown), plus those in which the range of pressure variation exceeds 20% of
+the design pressure, is below 1000 cycles.
+
+(3) The only source of fatigue cycles is metal temperature variations (thermal cycles).
+The start-up curves considered for the thermal cycle counting are shown below for each of the six oil
+to salt heat exchangers of the train:
+e Heat Exchanger no. F: 640 thermal cycles per year as it follows:
+MOLTEN SALT
+NOZZLE | NOZZLES2| NOZZLE | NOZZLE T2
+$1 (°C) (°C) 71 (°C) (°C)
+INITIAL COND. o | 300 | 300 | 300 | 300 |
+MAX CHARGING CASE 374,5 388,23 392,01
+OPERATION 374,5 388,23 392,01
+DISCHARGING CASE 369,12 387,22
+e Heat Exchanger no. E: 640 thermal cycles per year as it follows:
+MOLTEN SALT
+TIME NOZZLE | NOZZLE S2 | NOZZLE | NOZZLE
+(min) St (ec) (ec) Tac) | T2(eC)
+INITIAL COND. [o | 300 | 300 | 300 | 300 |
+CHARGING CASE [so | 359,31 | 37496 | 37961 | 3644 |
+OPERATION 359,31 379.61 | 3644 |
+DISCHARGING CASE | 22 | 353,11 369,11 363,72
+e Heat Exchanger no. D: 640 thermal cycles per year as it follows:
+1950201-UDS-001.00 User's Design Specification Page 9 of 16
+
+[page 10]
+DATE
+Oil to Molten Salt Heat Exchanger- [nensow | o |
+User's Design Specification
+MOLTENSALT [Hr |
+NOZZLE | NOZZLE S2 | NOZZLE | NOZZLE
+Sí (°C) (°c) T1 (ec) | T2 (°C)
+INITIAL COND. lo | 300 | 300 | 300 | 300 |
+CHARGING CASE | so | 341.96 | 359,31 | 36471 | 34784 |
+OPERATION | 20 | 34196 359,31
+DISCHARGING CASE 338,15 353,11 348,12 333,28
++ Heat Exchanger no. C: 640 thermal cycles per year as it follows:
+MOLTEN SALT
+CASE TIME NOZZLE | NOZZLE S2 | NOZZLE | NOZZLE
+(min) St (ec) (°C) TA(°C) | T2(°C)
+INITIAL COND. Po | 300 | 300 | 300 | 300 |
+CHARGING CASE
+OPERATION 323,921
+DISCHARGING CASE 323,38 338,15 333,28
+e Heat Exchanger no. B: 640 thermal cycles per year as it follows:
+MOLTENSALT | HtÉ >]
+NOZZLE | NOZZLE S2| NOZZLE | NOZZLE
+$1 (°C) (°C) TA (°C) T2 (°C)
+INITIAL COND. po =| 300 | 30m | 300 | 300 |
+CHARGING CASE [so | 306,37 | 32392 | 32998 | 312,22 |
+OPERATION | 20 | 306,37 323,92 329,98 312,22
+DISCHARGING CASE 308,03 323,38 318,38
++ Heat Exchanger no. A: 640 thermal cycles per year as it follows:
+MOLTEN SALT
+NOZZLE | NOZZLE S2| NOZZLE | NOZZLE
+S1 (°C) (°C) TA(°C) | 12 (°C)
+INITIAL COND. Po | 30m [| 30m [| 30m | 300 |
+CHARGING CASE | 10 | 28023 | 30637 | 312,23 | 205,57 |
+OPERATION 290,23 295,57
+DISCHARGING CASE 291,22 308,03 302,6
+1950201-UDS-001.00 User's Design Specification Page 10 of 16
+
+[page 11]
+DATE
+me
+Oil to Molten Salt Heat Exchanger- [menso [ o |
+User's Design Specification
+8 MATERIALS OF CONSTRUCTION
+8.1 Material Specification
+The materials shall be:
+Cylindrical shell SA 533, Gr.B, Cl.2
+[Heads [SA533GrBCl2 |]
+SA 516, Gr.70
+SA 508, Gr.3, Cl.1
+SA 106, Gr.C
+[Manhole | SA 508, Gr.3, Cl.1
+SA 210, Gr.A1
+SA 285, Gr.C
+[Spacers [A179
+| Bolting [SA193,Gr.B7
+[Nuts [SA194,Gr2H
+Saddle supports SA 516, Gr.70
+8.2 Corrosion Allowance
+Corrosion allowances of 0.125 in. on shell side and 0.125 in. on tube side are considered.
+9 LOADS AND LOAD CASES
+Nozzles with attached piping shall be designed for the loads as tabulated below, which are according
+to specification 4521-ESP-ANC-039-0062-0004_Shell&Tube HEX Maximum allowable Nozzle Loads:
+1950201-UDS-001.00 User's Design Specification Page 11 of 16
+
+[page 12]
+Oil to Molten Salt Heat Exchanger- [revsow ] o |
+User's Design Specification
+VALORES ADMISIBLES EN LAS CONEXIONES/PIPING ADMISSIBLE NOZZLE LOADS
+
+CONEX .
+
+Nozzle | P(1b) | V, (1b) | Ve (1b) M,(1b.ft)|M¿(1b.ft)(M-(lb.ft)
+si29 | 6278 | 6276 | 35721 35721 | 50556 |
+st29 | 6276 | 6276 | 35721 35721 | 50556 |
+
+Load directions are considered according to the following figure:
+Pp
+Mr,
+il
+() Vi
+Mc Me Vo 0
+The expected loads and load cases combinations are shown in Table 9-1 below, as listed in Table
+4.1.5.3 of the ASME Section VIII, Div.2.
+General Primary
+Design Load Combinations (1) Membrane
+Allowable Stress
+
+o) $CO)P+PssDb || Ss |]
+
+| 3 | P+Ps+D+S
+
+| 4 | 0.9-P + Ps + D + 0.75-L + 0.75:S
+
+[ 5 | 0.9-P + Ps + D + (0.6 Wor 0.7-E)
+
+| 2 | 0.9-P + Ps + D + 0.75-(0.6 Wor 0.7-E) + 0.75:L +
+
+0.75:S
+0.6-D + (0.6 Wor 0.75-E) (3)
+[ep s+ D+F (4) Notapplicable
+Table 9-1 Design Load Combinations
+Notes: (1) The parameters used in the Design Load Combination columns are
+defined in Table 2.1 in paragraph 2.4 above.
+
+(2) S is the allowable stress for the load case combination (see paragraph
+4.1.5.3(0) of ASME VIII, Div.2)
+
+(3) This load combination addresses an overturning condition. If anchorage
+is included in the design, consideration of this load combination is not
+required
+
+(4) Loads due to deflagration are not applicable
+
+1950201-UDS-001.00 User's Design Specification Page 12 of 16
+
+[page 13]
+DATE
+me
+Oil to Molten Salt Heat Exchanger- [nevsow | o |
+User's Design Specification
+(5) Appurtenance live loading and effects of fluid flow are not applicable
+10 OVERPRESSURE PROTECTION
+Overpressure protection, per ASME Code Section VIII Division 2, Part 9, to be furnished and installed
+by others; discharge of PSV on atmosphere at safe place.
+There is not a jurisdictional acceptance requirement prior to operation of the vessel.
+11 ADDITIONAL REQUIREMENTS
+11.1 Additional requirements such as non-destructive examination, restricted chemistry, or
+heat treatments
+According to ASME V for Non-destructive Examination, ASME II for material selection and ASME VIII,
+Div.2 for the heat treatment.
+11.2 Type of weld joints and the extent of required non-destructive examinations
+The equipment act as stationary vessels as per Part 1.2.1.2.(a) of the ASME code Sect. VIII Div.2
+e Requirement related to NDE:
+Welded joints of the vessel shall be FULL Radiography examined as per Examination Group 1a per
+Table 7.1 of the Code. Inspection of weld joint shall be as per Table 7.2 and details shall be as given
+in document no. 4521-PPI-SGT-000-212-0001_Molten Salt HEX PPI and in the Table below:
+WELD CATEGORY REQUIRED NDE EXAMINATION
+[A [| 1 | 100% RT or UT & 10% MT or PT
+fo Bt 100% RT or UT & 10% MT or PT |
+Pp Ct 400% RT or UT & 10% MT or PT
+[oD tf 100% RT or UT & 10% MT or PT
+Le [wo] 100% MT or PT
+All the welds shall be inspected on internal and external surface for visual quality as per Para. 7.5.2
+of the Code.
+1950201-UDS-001.00 User's Design Specification Page 13 of 16
+
+[page 14]
+DATE
+Oil to Molten Salt Heat Exchanger- [revsiow | o |
+User's Design Specification
+Neck flanges exposed edges and manholes should be rounded to the vessel inner surface.
+The qualification of welders and welds will be performed in accordance with ASME IX & ASME VIII
+Division 2.
+Body joints shall be full penetration, butt weld. Consumable inserts or backing plates are not allowed.
+Nozzles and fittings must be welded to the body and to the heads with full penetration welds unless
+the costumer or its representative indicates otherwise.
+11.3 Non-mandatory or optional provisions of this Division that are considered to be
+mandatory for the subject vessel
+Not applicable.
+11.4 Any special requirements for marking and their location (see paragraph 4.1 and Annex
+2-F)
+Not applicable
+11.5 Requirements for seals and/or bolting for closures and covers
+Not applicable.
+11.6 Any agreements which resolve the problems of operation and maintenance control
+unique to the particular pressure vessel
+Not applicable.
+11.7 Specific additional requirements relating to pressure testing such as:
+Water will be used as fluid for the Hydrostatic Test. The use of other means requires approval of the
+customer or its representative. After completion of the Hydrostatic Test, additional welds are not
+allowed.
+The hydrostatic Test will be performing in Manufacturer’s workshop according to ASME VIII division
+2.
+1950201-UDS-001.00 User's Design Specification Page 14 of 16
+
+[page 15]
+DATE
+Oil to Molten Salt Heat Exchanger- Jrevsion | o |
+User's Design Specification
+11.8 Manufacturer's Design Report
+The manufacturer's design report shall be certified by a Registered Professional or a Professional
+Engineer which comply with the requirements of the location where the report is prepared.
+1950201-UDS-001.00 User's Design Specification Page 15 of 16
+
+[page 16]
+DATE
+Oil to Molten Salt Heat Exchanger- [revson | o |
+User's Design Specification
+11.9 Certificate of Compliance
+CERTIFICATION OF COMPLIANCE
+| (We), the undersigned, being experienced and competent in the applicable field of design related to
+pressure vessel requirements relative to this User's Design Specification certify that to the best of my
+knowledge and belief it is correct and complete with respect to the Design and Service Conditions given
+and provides a complete basis for construction in accordance with Part 2, part 2.2.2 and other applicable
+requirements of the ASME Section VIII, Division 2 Pressure Vessel Code, 2017 Edition, Class 2.
+This certification is made on behalf of the organization that will operate these vessels: -
+Certified by Professional Engineer:
+Title and areas of responsibility: Pressure vessel design
+Date:
+1950201-UDS-001.00 User's Design Specification Page 16 of 16
+
+[page 17]
+DATE
+Oil to Molten Salt Heat Exchanger- [rensow [ o |
+User's Design Specification
+11.9 Certificate of Compliance
+CERTIFICATION OF COMPLIANCE
+| (We), the undersigned, being experienced and competent in the applicable field of design related to
+pressure vessel requirements relative to this User's Design Specification certify that to the best of my
+knowledge and belief it is correct and complete with respect to the Design and Service Conditions given
+and provides a complete basis for construction in accordance with Part 2, part 2.2.2 and other applicable
+requirements of the ASME Section Vill, Division 2 Pressure Vessel Code, 2017 Edition, Class 2.
+This certification is made on behalf of the organization that will operate these vessels: -
+Certified by Professional Engineer : 4 de P 4)
+Title and areas of responsibility: Pressure vessel Úesi;
+Date: 20
+Fessional & zonal Ens
+S OS > eZ
+AS SA KS. FEO
+¡só sas2o 0 A pd gasca, NE
+o 5 3)
+B| PR IMÉFONSO Aa) (7h 3 Es
+Peas (o LER oe ¿PO
+gned 2 Sig y
+‘Pires PPP ONAU-
+ú ves O/SO/PRA
+1950201-UDS-001.00 User's Design Specification Page 16 of 16

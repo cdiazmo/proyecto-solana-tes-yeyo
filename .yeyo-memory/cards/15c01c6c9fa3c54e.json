@@ -9,12 +9,12 @@
   "title": "1.6.15 LO LA ASJ SE Col",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
-  "text_chars": 0,
-  "token_estimate": 0,
-  "chunks": 0,
+  "status": "ok",
+  "text_chars": 4414,
+  "token_estimate": 1103,
+  "chunks": 3,
   "card_path": ".yeyo-memory/cards/15c01c6c9fa3c54e.json",
-  "extracted_path": null,
+  "extracted_path": ".yeyo-memory/extracted/15c01c6c9fa3c54e.txt",
   "metadata": {
     "pages": 2,
     "pdf_metadata": {
@@ -31,13 +31,25 @@
       "project_area": "Helios I",
       "deliverable_part": "Documentacion auxiliar",
       "discipline": "Electrica",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "pendiente_ocr",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
       "page_count": 2,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng+spa",
+      "pages": 2,
+      "pages_with_text": 2,
+      "characters": 4414,
+      "generated_at": "2026-06-08T19:18:46.347396+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:39:33.153599+00:00"
+  "processed_at": "2026-06-08T19:18:46.347664+00:00"
 }

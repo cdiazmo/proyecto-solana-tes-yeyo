@@ -19,7 +19,19 @@ CONFIG_PATH = MEMORY_ROOT / "config.json"
 
 
 def norm(value: str | None) -> str:
-    return (value or "").lower()
+    text = (value or "").lower()
+    replacements = {
+        "á": "a",
+        "é": "e",
+        "í": "i",
+        "ó": "o",
+        "ú": "u",
+        "ü": "u",
+        "ñ": "n",
+    }
+    for src, dst in replacements.items():
+        text = text.replace(src, dst)
+    return text
 
 
 def load_config() -> dict[str, Any]:
@@ -27,7 +39,16 @@ def load_config() -> dict[str, Any]:
 
 
 def classify_plan_kind(card: dict[str, Any]) -> str | None:
-    text = norm(f"{card.get('path')} {card.get('title')} {card.get('doc_code')}")
+    metadata = card.get("metadata") or {}
+    index_matches = metadata.get("index_matches") or []
+    index_text = " ".join(
+        f"{item.get('title','')} {item.get('description','')} {item.get('document_title','')}"
+        for item in index_matches
+        if isinstance(item, dict)
+    )
+    pdf_metadata = metadata.get("pdf_metadata") or {}
+    pdf_metadata_text = " ".join(str(value) for value in pdf_metadata.values())
+    text = norm(f"{card.get('path')} {card.get('title')} {card.get('doc_code')} {index_text} {pdf_metadata_text}")
 
     rules = [
         ("P&ID / diagrama de proceso", ["p&id", "pids", "p&ids", "piping and instrumentation", "-70-", "process diagram"]),
@@ -38,12 +59,42 @@ def classify_plan_kind(card: dict[str, Any]) -> str | None:
         ("Soporte de tuberia MS", ["soportes para tuberias ms", "soportes para tubería ms", "ms system support", "75-63"]),
         ("Cimentacion / foundation", ["foundation", "foundations", "cimentacion", "cimentación", "exchangers foundation"]),
         ("Plataforma / estructura metalica", ["platform", "plataforma", "structural steel", "steel", "structures"]),
-        ("Layout / distribucion general", ["layout", "planning layout", "distribucion", "distribución", "general arrangement"]),
+        (
+            "Layout / distribucion general",
+            [
+                "layout",
+                "planning layout",
+                "distribucion",
+                "general arrangement",
+                "disposicion general",
+                "arrangement",
+                "-gad-",
+                " gad ",
+                "proposed locations",
+                "boreholes",
+                "layout1",
+                "autocad",
+            ],
+        ),
         ("Tanque / drain back tank", ["tank", "drain back", "drain-back", "deposito", "depósito"]),
         ("Permiso / plano sellado", ["permit", "permiso", "sealed", "sellado", "county", "condado"]),
         ("Grading / obra civil terreno", ["grading", "obra tierra", "earthwork"]),
-        ("Plano electrico", ["electrical", "electrico", "eléctrico", "heat trace", "tracing", "edl"]),
-        ("Plano instrumentacion/control", ["instrument", "control", "i&c", "charging mode", "discharging mode"]),
+        (
+            "Plano electrico",
+            [
+                "unifilar",
+                "single line",
+                "sld",
+                "esquema electrico",
+                "electrical drawing",
+                "electrico plano",
+                "plano electrico",
+                "heat trace",
+                "tracing",
+                "edl",
+            ],
+        ),
+        ("Plano instrumentacion/control", ["instrument drawing", "control drawing", "i&c", "charging mode", "discharging mode"]),
     ]
 
     for label, keywords in rules:
@@ -52,7 +103,7 @@ def classify_plan_kind(card: dict[str, Any]) -> str | None:
 
     if re.search(r"\b\d{3}-(htf|ms)-", text):
         return "Isometrico de tuberia"
-    if "pln" in text or "dra" in text or "sht" in text or "sheet" in text:
+    if any(value in text for value in ["pln", "dra", "sht", "sheet", "dwg", "plano", "drawing", "diagrama", "esquema", "gad", "autocad"]):
         return "Plano / dibujo general"
     return None
 
@@ -61,7 +112,29 @@ def is_plan_like(card: dict[str, Any]) -> bool:
     text = norm(f"{card.get('path')} {card.get('title')} {card.get('doc_code')}")
     if classify_plan_kind(card):
         return True
-    return any(value in text for value in ["isometric", "isometrico", "sht", "sheet", "layout", "pln", "dra"])
+    return any(
+        value in text
+        for value in [
+            "isometric",
+            "isometrico",
+            "sht",
+            "sheet",
+            "layout",
+            "pln",
+            "dra",
+            "dwg",
+            "plano",
+            "drawing",
+            "unifilar",
+            "single line",
+            "diagrama",
+            "esquema",
+            "general arrangement",
+            "proposed locations",
+            "boreholes",
+            "gad",
+        ]
+    )
 
 
 def update_db_for_tagged_plan(conn: sqlite3.Connection, card: dict[str, Any]) -> None:

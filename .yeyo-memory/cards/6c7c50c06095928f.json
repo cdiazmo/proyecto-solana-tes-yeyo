@@ -9,12 +9,12 @@
   "title": "4521-ESP-ANC-00-61-PS002",
   "doc_code": "4521-ESP-ANC-00-61-PS002",
   "revision": null,
-  "status": "needs_ocr_or_empty",
-  "text_chars": 0,
-  "token_estimate": 0,
-  "chunks": 0,
+  "status": "ok",
+  "text_chars": 17165,
+  "token_estimate": 4291,
+  "chunks": 11,
   "card_path": ".yeyo-memory/cards/6c7c50c06095928f.json",
-  "extracted_path": null,
+  "extracted_path": ".yeyo-memory/extracted/6c7c50c06095928f.txt",
   "metadata": {
     "pages": 8,
     "pdf_metadata": {
@@ -27,15 +27,27 @@
     "ai_features": {
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "General",
-      "deliverable_part": "Planos",
+      "deliverable_part": "Pliego de condiciones",
       "discipline": "Proceso / mecanica / tuberias",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "media",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
       "page_count": 8,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng+spa",
+      "pages": 8,
+      "pages_with_text": 8,
+      "characters": 17165,
+      "generated_at": "2026-06-08T19:07:48.552171+00:00"
     }
   },
-  "processed_at": "2026-06-05T09:14:56.349840+00:00"
+  "processed_at": "2026-06-08T19:07:48.552519+00:00"
 }

@@ -27,9 +27,9 @@
     "encrypted": true,
     "empty_password_decrypt_result": "1",
     "plan_tag": {
-      "kind": "Plano / dibujo general",
+      "kind": "Layout / distribucion general",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:15.085333+00:00",
+      "tagged_at": "2026-06-08T19:58:16.770715+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -915,8 +915,8 @@
       "reuse_priority": "media_alta",
       "page_count": 2,
       "indexed_reference_count": 67,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:15.085335+00:00"
+  "processed_at": "2026-06-08T19:58:16.770719+00:00"
 }

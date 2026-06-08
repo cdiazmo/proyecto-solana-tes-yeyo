@@ -30,15 +30,21 @@
     "ai_features": {
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "General",
-      "deliverable_part": "Pliego de condiciones",
+      "deliverable_part": "Planos",
       "discipline": "General",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
-      "reuse_priority": "alta",
+      "reuse_priority": "media",
       "page_count": 1,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T19:58:17.121159+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-05T09:21:26.021188+00:00"
+  "processed_at": "2026-06-08T19:58:17.121160+00:00"
 }

@@ -69,10 +69,20 @@ def project_area(card: dict[str, Any]) -> str:
 
 def deliverable_part(card: dict[str, Any], pdf: dict[str, str], plan: dict[str, str]) -> str:
     text = f"{card.get('path','')} {card.get('title','')} {pdf.get('type','')} {pdf.get('topic','')} {plan.get('plan_kind','')}"
+    code = norm(card.get("doc_code") or "")
+    name = norm(f"{card.get('path','')} {card.get('title','')}")
+    if "-esp-" in code or contains(name, "especificacion", "specification", "technical specification", "pliego"):
+        return "Pliego de condiciones"
+    if "-cal-" in code or "-tn-" in code or contains(name, "calculo", "memoria", "anejo", "nota tecnica", "technical note"):
+        return "Memoria y anejos"
+    if "-lis-" in code or contains(name, "lista de", "listado", "document list", "indice de documentos"):
+        return "Listados e indices"
+    if "-pid-" in code:
+        return "Planos"
+    if contains(name, "presupuesto", "medicion", "mto", "recuento", "partida", "budget", "quantity"):
+        return "Mediciones y presupuestos"
     if card.get("status") == "tagged_plan" or contains(text, "dwg", "plano", "drawing", "pid", "p&id", "isometrico", "layout"):
         return "Planos"
-    if contains(text, "presupuesto", "medicion", "mto", "recuento", "partida", "budget", "quantity"):
-        return "Mediciones y presupuestos"
     if contains(text, "pliego", "condiciones", "spec", "especificacion", "ppi", "procedimiento", "manual"):
         return "Pliego de condiciones"
     if contains(text, "memoria", "anejo", "calculo", "nota tecnica", "technical note", "tn-", "cal-"):

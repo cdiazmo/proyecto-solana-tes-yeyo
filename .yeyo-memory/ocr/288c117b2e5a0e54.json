@@ -1,0 +1,12 @@
+{
+  "engine": "tesseract",
+  "local_only": true,
+  "pdf_renderer": "pdftoppm",
+  "dpi": 150,
+  "psm": 6,
+  "lang": "eng+spa",
+  "pages": 4,
+  "pages_with_text": 4,
+  "characters": 4562,
+  "generated_at": "2026-06-08T19:14:53.348241+00:00"
+}

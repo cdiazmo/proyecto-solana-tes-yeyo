@@ -26,9 +26,9 @@
     },
     "encrypted": false,
     "plan_tag": {
-      "kind": "Tanque / drain back tank",
+      "kind": "Cimentacion / foundation",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:16.005495+00:00",
+      "tagged_at": "2026-06-08T19:58:16.988377+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -160,8 +160,8 @@
       "reuse_priority": "media_alta",
       "page_count": 3,
       "indexed_reference_count": 9,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:16.005496+00:00"
+  "processed_at": "2026-06-08T19:58:16.988378+00:00"
 }

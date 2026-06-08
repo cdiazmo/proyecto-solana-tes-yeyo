@@ -9,12 +9,12 @@
   "title": "S2009117-Solana HEX Planing",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
-  "text_chars": 0,
-  "token_estimate": 0,
-  "chunks": 0,
+  "status": "ok",
+  "text_chars": 22335,
+  "token_estimate": 5583,
+  "chunks": 14,
   "card_path": ".yeyo-memory/cards/ccf9c9475ae19f15.json",
-  "extracted_path": null,
+  "extracted_path": ".yeyo-memory/extracted/ccf9c9475ae19f15.txt",
   "metadata": {
     "pages": 3,
     "pdf_metadata": {
@@ -34,13 +34,25 @@
       "project_area": "TES / almacenamiento",
       "deliverable_part": "Pliego de condiciones",
       "discipline": "Proceso / mecanica / tuberias",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "pendiente_ocr",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
       "page_count": 3,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng+spa",
+      "pages": 3,
+      "pages_with_text": 3,
+      "characters": 22335,
+      "generated_at": "2026-06-08T19:08:19.638880+00:00"
     }
   },
-  "processed_at": "2026-06-05T09:21:14.578137+00:00"
+  "processed_at": "2026-06-08T19:08:19.639165+00:00"
 }

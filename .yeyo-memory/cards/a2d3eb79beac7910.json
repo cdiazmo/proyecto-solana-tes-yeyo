@@ -26,23 +26,23 @@
     },
     "encrypted": false,
     "plan_tag": {
-      "kind": "Tanque / drain back tank",
+      "kind": "Layout / distribucion general",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:16.294412+00:00",
+      "tagged_at": "2026-06-08T19:58:17.038262+00:00",
       "local_only": true
     },
     "ai_features": {
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "General",
-      "deliverable_part": "Documentacion auxiliar",
+      "deliverable_part": "Planos",
       "discipline": "Fabricacion / compras / calidad",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
       "reuse_priority": "media",
       "page_count": 4,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:16.294416+00:00"
+  "processed_at": "2026-06-08T19:58:17.038263+00:00"
 }

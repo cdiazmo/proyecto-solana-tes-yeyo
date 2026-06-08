@@ -9,7 +9,7 @@
   "title": "110708 Plano Parcelas",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
+  "status": "tagged_plan",
   "text_chars": 0,
   "token_estimate": 0,
   "chunks": 0,
@@ -33,13 +33,19 @@
       "project_area": "Helios I",
       "deliverable_part": "Planos",
       "discipline": "Electrica",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
+      "extraction_quality": "plano_etiquetado_sin_ocr",
+      "ai_action": "usar_solo_etiqueta_y_metadatos",
       "reuse_priority": "media",
       "page_count": 1,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T19:58:16.687446+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-08T18:32:48.885531+00:00"
+  "processed_at": "2026-06-08T19:58:16.687447+00:00"
 }

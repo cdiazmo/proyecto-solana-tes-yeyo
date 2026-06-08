@@ -25,9 +25,9 @@
     },
     "encrypted": false,
     "plan_tag": {
-      "kind": "Plano / dibujo general",
+      "kind": "Isometrico de tuberia nitrogeno",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:16.900659+00:00",
+      "tagged_at": "2026-06-08T19:58:17.297685+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -81,8 +81,8 @@
       "reuse_priority": "media_alta",
       "page_count": 1,
       "indexed_reference_count": 3,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:16.900661+00:00"
+  "processed_at": "2026-06-08T19:58:17.297686+00:00"
 }

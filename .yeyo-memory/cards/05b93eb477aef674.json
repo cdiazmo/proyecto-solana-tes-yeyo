@@ -31,21 +31,21 @@
     "plan_tag": {
       "kind": "P&ID / diagrama de proceso",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:14.087262+00:00",
+      "tagged_at": "2026-06-08T20:00:39.309786+00:00",
       "local_only": true
     },
     "ai_features": {
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "General",
-      "deliverable_part": "Planos",
+      "deliverable_part": "Pliego de condiciones",
       "discipline": "Proceso / mecanica / tuberias",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
-      "reuse_priority": "media",
+      "reuse_priority": "alta",
       "page_count": 8,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:14.087264+00:00"
+  "processed_at": "2026-06-08T20:00:39.309788+00:00"
 }

@@ -29,21 +29,21 @@
     "plan_tag": {
       "kind": "Cimentacion / foundation",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:16.565561+00:00",
+      "tagged_at": "2026-06-08T19:58:17.203920+00:00",
       "local_only": true
     },
     "ai_features": {
       "source_corpus": "Servidor Atlantica",
       "project_area": "General",
-      "deliverable_part": "Planos",
+      "deliverable_part": "Mediciones y presupuestos",
       "discipline": "Proceso / mecanica / tuberias",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
-      "reuse_priority": "media",
+      "reuse_priority": "alta",
       "page_count": 18,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:16.565563+00:00"
+  "processed_at": "2026-06-08T19:58:17.203921+00:00"
 }

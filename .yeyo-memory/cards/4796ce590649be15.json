@@ -9,12 +9,12 @@
   "title": "5.10.1.7 Formulario APM",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
-  "text_chars": 0,
-  "token_estimate": 0,
-  "chunks": 0,
+  "status": "ok",
+  "text_chars": 11752,
+  "token_estimate": 2938,
+  "chunks": 8,
   "card_path": ".yeyo-memory/cards/4796ce590649be15.json",
-  "extracted_path": null,
+  "extracted_path": ".yeyo-memory/extracted/4796ce590649be15.txt",
   "metadata": {
     "pages": 4,
     "pdf_metadata": {
@@ -28,13 +28,25 @@
       "project_area": "Helios I",
       "deliverable_part": "Documentacion auxiliar",
       "discipline": "Electrica",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "pendiente_ocr",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
       "page_count": 4,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng+spa",
+      "pages": 4,
+      "pages_with_text": 4,
+      "characters": 11752,
+      "generated_at": "2026-06-08T19:16:51.312401+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:39:24.230135+00:00"
+  "processed_at": "2026-06-08T19:16:51.312749+00:00"
 }

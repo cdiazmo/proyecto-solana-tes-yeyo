@@ -9,7 +9,7 @@
   "title": "boreholes Proposed locations",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
+  "status": "tagged_plan",
   "text_chars": 0,
   "token_estimate": 0,
   "chunks": 0,
@@ -26,15 +26,21 @@
     "ai_features": {
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "General",
-      "deliverable_part": "Documentacion auxiliar",
+      "deliverable_part": "Planos",
       "discipline": "Permisos / legalizacion",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "pendiente_ocr",
+      "extraction_quality": "plano_etiquetado_sin_ocr",
+      "ai_action": "usar_solo_etiqueta_y_metadatos",
+      "reuse_priority": "media",
       "page_count": 1,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T19:58:17.210581+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-05T09:17:45.849427+00:00"
+  "processed_at": "2026-06-08T19:58:17.210582+00:00"
 }

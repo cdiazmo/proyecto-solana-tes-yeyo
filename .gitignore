@@ -13,6 +13,10 @@
 13_Documentos de Inspección Final
 Documentacion con sello PE 08
 .yeyo-agents/config/local.env
+.yeyo-memory/cache/
+.yeyo-memory/**/*.sqlite-wal
+.yeyo-memory/**/*.sqlite-shm
+.yeyo-memory/**/*.rebuild-tmp
 Documentos en Servidor Atlántica
 Ejemplo PCI
 Helios Sole

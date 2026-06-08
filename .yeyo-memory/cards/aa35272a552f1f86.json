@@ -57,15 +57,21 @@
     "ai_features": {
       "source_corpus": "Repositorio Solana / Yeyo",
       "project_area": "TES / almacenamiento",
-      "deliverable_part": "Pliego de condiciones",
+      "deliverable_part": "Planos",
       "discipline": "Proceso / mecanica / tuberias",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
-      "reuse_priority": "alta",
+      "reuse_priority": "media_alta",
       "page_count": 20,
       "indexed_reference_count": 2,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T19:58:17.075857+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-05T09:14:07.107880+00:00"
+  "processed_at": "2026-06-08T19:58:17.075859+00:00"
 }

@@ -9,12 +9,12 @@
   "title": "110523 Formulario solicitud APS ínea 15kV",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
-  "text_chars": 0,
-  "token_estimate": 0,
-  "chunks": 0,
+  "status": "ok",
+  "text_chars": 12909,
+  "token_estimate": 3227,
+  "chunks": 9,
   "card_path": ".yeyo-memory/cards/5e129bf365dc652c.json",
-  "extracted_path": null,
+  "extracted_path": ".yeyo-memory/extracted/5e129bf365dc652c.txt",
   "metadata": {
     "pages": 5,
     "pdf_metadata": {
@@ -33,13 +33,25 @@
       "project_area": "Helios I",
       "deliverable_part": "Documentacion auxiliar",
       "discipline": "Electrica",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "pendiente_ocr",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
       "page_count": 5,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng+spa",
+      "pages": 5,
+      "pages_with_text": 5,
+      "characters": 12909,
+      "generated_at": "2026-06-08T19:13:46.176317+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:32:47.301917+00:00"
+  "processed_at": "2026-06-08T19:13:46.176684+00:00"
 }

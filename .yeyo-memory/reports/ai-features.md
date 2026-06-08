@@ -1,6 +1,6 @@
 # Features para IA
 
-- Generado: 2026-06-08T18:48:59.739698+00:00
+- Generado: 2026-06-08T20:00:39.318696+00:00
 - Documentos enriquecidos: 2717
 
 Estas features sirven para filtrar y priorizar contexto antes de enviarlo a un modelo IA.
@@ -29,23 +29,23 @@ Estas features sirven para filtrar y priorizar contexto antes de enviarlo a un m
 
 | Valor | Documentos |
 |---|---:|
-| Planos | 1761 |
-| Documentacion auxiliar | 608 |
-| Pliego de condiciones | 138 |
-| Listados e indices | 94 |
-| Memoria y anejos | 78 |
-| Mediciones y presupuestos | 38 |
+| Planos | 1581 |
+| Documentacion auxiliar | 535 |
+| Pliego de condiciones | 311 |
+| Listados e indices | 130 |
+| Memoria y anejos | 88 |
+| Mediciones y presupuestos | 72 |
 
 ## Disciplina
 
 | Valor | Documentos |
 |---|---:|
-| Proceso / mecanica / tuberias | 1452 |
-| General | 760 |
-| Electrica | 231 |
-| Civil / estructuras | 102 |
-| Permisos / legalizacion | 67 |
-| Instrumentacion y control | 58 |
+| Proceso / mecanica / tuberias | 1454 |
+| General | 751 |
+| Electrica | 237 |
+| Civil / estructuras | 113 |
+| Permisos / legalizacion | 58 |
+| Instrumentacion y control | 57 |
 | Fabricacion / compras / calidad | 41 |
 | PCI | 6 |
 
@@ -53,34 +53,34 @@ Estas features sirven para filtrar y priorizar contexto antes de enviarlo a un m
 
 | Valor | Documentos |
 |---|---:|
-| alta_texto_extraido | 1125 |
-| plano_etiquetado_sin_ocr | 656 |
+| alta_texto_extraido | 1262 |
+| plano_etiquetado_sin_ocr | 689 |
 | formato_tecnico_metadata_only | 425 |
-| requiere_ocr | 198 |
 | archivo_comprimido_listado | 149 |
 | metadata_only | 117 |
-| baja_texto_escaso_por_pagina | 41 |
+| baja_texto_escaso_por_pagina | 42 |
+| requiere_ocr | 27 |
 | error | 6 |
 
 ## Acción recomendada IA
 
 | Valor | Documentos |
 |---|---:|
-| usar_chunks | 1166 |
-| usar_solo_etiqueta_y_metadatos | 656 |
+| usar_chunks | 1304 |
+| usar_solo_etiqueta_y_metadatos | 689 |
 | usar_indices_o_pdf_equivalente | 425 |
-| ocr_local_si_es_relevante | 198 |
 | descomprimir_solo_si_indice_lo_justifica | 149 |
 | usar_metadatos | 123 |
+| ocr_local_si_es_relevante | 27 |
 
 ## Prioridad de reutilización
 
 | Valor | Documentos |
 |---|---:|
-| media | 1603 |
-| media_alta | 732 |
-| alta | 193 |
-| pendiente_ocr | 183 |
+| media | 1625 |
+| media_alta | 680 |
+| alta | 379 |
+| pendiente_ocr | 27 |
 | baja | 6 |
 
 Archivo generado:

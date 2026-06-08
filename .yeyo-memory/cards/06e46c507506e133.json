@@ -26,9 +26,9 @@
     },
     "encrypted": false,
     "plan_tag": {
-      "kind": "Plano / dibujo general",
+      "kind": "Layout / distribucion general",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:14.092586+00:00",
+      "tagged_at": "2026-06-08T20:00:39.311638+00:00",
       "local_only": true
     },
     "ai_features": {
@@ -41,8 +41,8 @@
       "reuse_priority": "media",
       "page_count": 3,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:14.092588+00:00"
+  "processed_at": "2026-06-08T20:00:39.311639+00:00"
 }

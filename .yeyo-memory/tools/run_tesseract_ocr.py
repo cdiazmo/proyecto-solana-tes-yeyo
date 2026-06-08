@@ -139,6 +139,14 @@ def read_queue() -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
+def read_priority_queue() -> list[dict[str, str]]:
+    path = REPORTS_DIR / "ocr-priority.csv"
+    if not path.exists():
+        return read_queue()
+    with path.open(newline="", encoding="utf-8") as handle:
+        return list(csv.DictReader(handle))
+
+
 def read_plan_paths() -> set[str]:
     if not PLAN_TAGS_PATH.exists():
         return set()
@@ -308,6 +316,10 @@ def main() -> int:
     parser.add_argument("--limit", type=int, help="Process only N files.")
     parser.add_argument("--top-dir", help="Only process files in this top-level folder.")
     parser.add_argument("--contains", help="Only process paths containing this text.")
+    parser.add_argument("--priority-queue", action="store_true", help="Use ocr-priority.csv instead of needs-ocr.csv.")
+    parser.add_argument("--min-ocr-priority", type=int, default=0)
+    parser.add_argument("--max-pages", type=int)
+    parser.add_argument("--max-size-mb", type=float)
     parser.add_argument("--dpi", type=int, default=200)
     parser.add_argument("--psm", type=int, default=6)
     parser.add_argument("--keep-images", action="store_true")
@@ -324,15 +336,26 @@ def main() -> int:
     (MEMORY_ROOT / "extracted").mkdir(parents=True, exist_ok=True)
     (MEMORY_ROOT / "chunks").mkdir(parents=True, exist_ok=True)
 
-    queue = read_queue()
+    queue = read_priority_queue() if args.priority_queue else read_queue()
     if not args.include_plans:
         plan_paths = read_plan_paths()
         queue = [row for row in queue if row["path"] not in plan_paths]
+        queue = [row for row in queue if row.get("deliverable_part") != "Planos"]
     if args.top_dir:
         queue = [row for row in queue if row["top_dir"] == args.top_dir]
     if args.contains:
         needle = args.contains.lower()
         queue = [row for row in queue if needle in row["path"].lower()]
+    if args.min_ocr_priority:
+        queue = [row for row in queue if int(row.get("ocr_priority") or 0) >= args.min_ocr_priority]
+    if args.max_pages:
+        queue = [row for row in queue if not row.get("page_count") or int(row.get("page_count") or 0) <= args.max_pages]
+    if args.max_size_mb:
+        queue = [
+            row
+            for row in queue
+            if not row.get("path") or (ROOT / row["path"]).stat().st_size <= args.max_size_mb * 1024 * 1024
+        ]
     if args.limit:
         queue = queue[: args.limit]
 
@@ -348,6 +371,8 @@ def main() -> int:
         for index, row in enumerate(queue, start=1):
             card = json.loads((ROOT / row["card_path"]).read_text(encoding="utf-8"))
             if card.get("status") == "ok" and card.get("extracted_path"):
+                continue
+            if not args.include_plans and (card.get("status") == "tagged_plan" or (card.get("metadata") or {}).get("plan_tag")):
                 continue
             print(f"[{index}/{len(queue)}] OCR {card['path']}", file=sys.stderr)
             rows.append(process_card(card, config, conn, pdftoppm, tesseract, lang, args.dpi, args.psm, args.keep_images))

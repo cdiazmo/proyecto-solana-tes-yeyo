@@ -9,12 +9,12 @@
   "title": "5.10.3.5 Certificado OCA",
   "doc_code": null,
   "revision": null,
-  "status": "needs_ocr_or_empty",
-  "text_chars": 0,
-  "token_estimate": 0,
-  "chunks": 0,
+  "status": "ok",
+  "text_chars": 3474,
+  "token_estimate": 868,
+  "chunks": 3,
   "card_path": ".yeyo-memory/cards/1ad290fd58efca30.json",
-  "extracted_path": null,
+  "extracted_path": ".yeyo-memory/extracted/1ad290fd58efca30.txt",
   "metadata": {
     "pages": 3,
     "pdf_metadata": {
@@ -28,13 +28,25 @@
       "project_area": "Helios I",
       "deliverable_part": "Documentacion auxiliar",
       "discipline": "Electrica",
-      "extraction_quality": "requiere_ocr",
-      "ai_action": "ocr_local_si_es_relevante",
-      "reuse_priority": "pendiente_ocr",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
       "page_count": 3,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "ocr": {
+      "engine": "tesseract",
+      "local_only": true,
+      "pdf_renderer": "pdftoppm",
+      "dpi": 150,
+      "psm": 6,
+      "lang": "eng+spa",
+      "pages": 3,
+      "pages_with_text": 3,
+      "characters": 3474,
+      "generated_at": "2026-06-08T19:13:02.975696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:32:39.066079+00:00"
+  "processed_at": "2026-06-08T19:13:02.975912+00:00"
 }

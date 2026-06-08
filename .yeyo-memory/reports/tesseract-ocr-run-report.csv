@@ -1,2 +1,32 @@
 status,path,pages,chars,chunks,seconds,message,ocr_path,metadata_path
-ok,01 GD AE/C&S/Plataforma de acero TES/4521-PLN-AGE-58-54-2002.pdf,1,7955,5,23.72,,.yeyo-memory/ocr/f7daafdf3195e61f.txt,.yeyo-memory/ocr/f7daafdf3195e61f.json
+ok,Helios Sole/Helios I/3.3.4 Cumplimiento DIA HI.pdf,5,8083,5,5.74,,.yeyo-memory/ocr/06ef8a243faf2b19.txt,.yeyo-memory/ocr/06ef8a243faf2b19.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.3 Certificado Instalacion.pdf,1,2683,2,1.90,,.yeyo-memory/ocr/fe6ea111d74be513.txt,.yeyo-memory/ocr/fe6ea111d74be513.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.5 Acreditacion AT.pdf,3,8764,6,5.56,,.yeyo-memory/ocr/0ac6d4fb2e8f91da.txt,.yeyo-memory/ocr/0ac6d4fb2e8f91da.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.6 Protocolo ensayo trafo.pdf,2,2381,2,5.17,,.yeyo-memory/ocr/5174264586825114.txt,.yeyo-memory/ocr/5174264586825114.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.8 Solicitud APM.pdf,1,1869,2,1.01,,.yeyo-memory/ocr/dd38091f5a7432eb.txt,.yeyo-memory/ocr/dd38091f5a7432eb.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.3 Cert Instalacion.pdf,1,2404,2,1.35,,.yeyo-memory/ocr/fc0741dbf8daa6fb.txt,.yeyo-memory/ocr/fc0741dbf8daa6fb.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.5 Acreditacion AT.pdf,3,8764,6,5.56,,.yeyo-memory/ocr/ba29588f3ea7c37f.txt,.yeyo-memory/ocr/ba29588f3ea7c37f.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.8 Formulario SE Elevadora HI.pdf,3,11697,8,7.03,,.yeyo-memory/ocr/6e197fda230314c1.txt,.yeyo-memory/ocr/6e197fda230314c1.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.3 CIEAT HI.pdf,1,3553,3,2.30,,.yeyo-memory/ocr/5c41efb771756bf5.txt,.yeyo-memory/ocr/5c41efb771756bf5.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.5 Acreditacion AT.pdf,3,8764,6,5.59,,.yeyo-memory/ocr/07daef04e01a988d.txt,.yeyo-memory/ocr/07daef04e01a988d.json
+ok,Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.8 Formulario AT HI.pdf,3,11972,8,6.66,,.yeyo-memory/ocr/9e4106dc4e19c0b7.txt,.yeyo-memory/ocr/9e4106dc4e19c0b7.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.2 CDO.pdf,4,6644,5,4.37,,.yeyo-memory/ocr/dd19ab277025dd8e.txt,.yeyo-memory/ocr/dd19ab277025dd8e.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.4 Acreditacion instalador.pdf,3,5794,4,2.54,,.yeyo-memory/ocr/6042895770cf7aba.txt,.yeyo-memory/ocr/6042895770cf7aba.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.6 APM.pdf,1,2171,2,1.19,,.yeyo-memory/ocr/bfb7668c3d23c1de.txt,.yeyo-memory/ocr/bfb7668c3d23c1de.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.2 CDO EP.pdf,1,2560,2,1.41,,.yeyo-memory/ocr/e05b28ec91ed0323.txt,.yeyo-memory/ocr/e05b28ec91ed0323.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.3 Certificado instalacion EP.pdf,2,3915,3,2.23,,.yeyo-memory/ocr/3342d8f553b7f7ff.txt,.yeyo-memory/ocr/3342d8f553b7f7ff.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.4 Acreditacion instalador.pdf,3,5794,4,2.58,,.yeyo-memory/ocr/8916a0d285e40064.txt,.yeyo-memory/ocr/8916a0d285e40064.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.6 Solicitud modificacion.pdf,2,2401,2,1.54,,.yeyo-memory/ocr/a8980475ab20aa6a.txt,.yeyo-memory/ocr/a8980475ab20aa6a.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.7 Acta puesta marcha.pdf,1,1888,2,1.01,,.yeyo-memory/ocr/a3fe5cc1eac2e59f.txt,.yeyo-memory/ocr/a3fe5cc1eac2e59f.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.2 Certificado fabricacion tanque.pdf,2,2307,2,1.79,,.yeyo-memory/ocr/268162402eb7513a.txt,.yeyo-memory/ocr/268162402eb7513a.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.4 Solicitud APS.pdf,4,6339,4,4.29,,.yeyo-memory/ocr/e88751e47a5f915d.txt,.yeyo-memory/ocr/e88751e47a5f915d.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.1 Solicitud cambio titular.pdf,2,3031,2,1.62,,.yeyo-memory/ocr/9de22a0d144ecc01.txt,.yeyo-memory/ocr/9de22a0d144ecc01.json
+ok,Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.2 Cambio titular.pdf,2,3219,2,2.00,,.yeyo-memory/ocr/9f0b24ba0ea709a6.txt,.yeyo-memory/ocr/9f0b24ba0ea709a6.json
+ok,Helios Sole/Helios II/3.3.3 Acta señalamiento HII.pdf,2,5171,4,2.62,,.yeyo-memory/ocr/d9040aba9b17602a.txt,.yeyo-memory/ocr/d9040aba9b17602a.json
+ok,Helios Sole/Helios II/3.3.4 Cumplimiento DIA HII.pdf,5,8083,5,5.82,,.yeyo-memory/ocr/758c6f3ae26aa9a6.txt,.yeyo-memory/ocr/758c6f3ae26aa9a6.json
+ok,Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.3 CIEAT SE HII.pdf,1,3435,3,2.66,,.yeyo-memory/ocr/a22c8d17a6f8ee01.txt,.yeyo-memory/ocr/a22c8d17a6f8ee01.json
+ok,Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.5 Acreditacion AT.pdf,3,8764,6,5.62,,.yeyo-memory/ocr/357333c90022da38.txt,.yeyo-memory/ocr/357333c90022da38.json
+ok,Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.8 Solicitud APM SE Elevadora HII.pdf,3,11686,8,6.58,,.yeyo-memory/ocr/79bd3642e1edaae6.txt,.yeyo-memory/ocr/79bd3642e1edaae6.json
+ok,Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.3 CIEAT HII.pdf,1,3478,3,2.49,,.yeyo-memory/ocr/f41f461e20aa004b.txt,.yeyo-memory/ocr/f41f461e20aa004b.json
+ok,Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.5 Acreditacion AT.pdf,3,8764,6,5.63,,.yeyo-memory/ocr/0eac2fc59421f933.txt,.yeyo-memory/ocr/0eac2fc59421f933.json
+ok,Helios Sole/SE Elevadora Helios II/120213 Solicitud APM SE Elevadora HII.pdf,3,11686,8,6.56,,.yeyo-memory/ocr/0fa914cb58e38735.txt,.yeyo-memory/ocr/0fa914cb58e38735.json

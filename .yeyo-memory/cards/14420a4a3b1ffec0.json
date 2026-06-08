@@ -35,8 +35,14 @@
       "reuse_priority": "media",
       "page_count": 3,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Layout / distribucion general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T20:00:39.336354+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-08T18:27:45.097355+00:00"
+  "processed_at": "2026-06-08T20:00:39.336355+00:00"
 }

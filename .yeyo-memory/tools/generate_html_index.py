@@ -34,10 +34,17 @@ def load_cards() -> list[dict[str, Any]]:
     return [json.loads(path.read_text(encoding="utf-8")) for path in sorted(CARDS_DIR.glob("*.json"))]
 
 
-def compact_doc(card: dict[str, Any], pdf_data: dict[str, dict[str, str]], plan_data: dict[str, dict[str, str]], match_counts: dict[str, int]) -> dict[str, Any]:
+def compact_doc(
+    card: dict[str, Any],
+    pdf_data: dict[str, dict[str, str]],
+    plan_data: dict[str, dict[str, str]],
+    match_counts: dict[str, int],
+    readiness_data: dict[str, dict[str, str]],
+) -> dict[str, Any]:
     path = card.get("path", "")
     pdf = pdf_data.get(path, {})
     plan = plan_data.get(path, {})
+    readiness = readiness_data.get(path, {})
     metadata = card.get("metadata") or {}
     ai_features = metadata.get("ai_features") or {}
     index_matches = metadata.get("index_matches") or []
@@ -69,6 +76,10 @@ def compact_doc(card: dict[str, Any], pdf_data: dict[str, dict[str, str]], plan_
         "ai_action": ai_features.get("ai_action") or "",
         "reuse_priority": ai_features.get("reuse_priority") or "",
         "page_count": int(ai_features.get("page_count") or (metadata.get("pages") or 0) or 0),
+        "ai_score": int(readiness.get("score") or 0),
+        "send_policy": readiness.get("send_policy") or "",
+        "ocr_priority": int(readiness.get("ocr_priority") or 0),
+        "score_reasons": readiness.get("score_reasons") or "",
         "index_match_count": len(index_matches) or match_counts.get(card.get("card_path") or "", 0),
         "index_kinds": ", ".join(index_kinds),
         "card_path": card.get("card_path") or "",
@@ -110,12 +121,14 @@ def main() -> int:
     pdf_rows = read_csv(REPORTS_DIR / "pdf-catalog.csv")
     plan_rows = read_csv(REPORTS_DIR / "plan-tags.csv")
     match_rows = read_csv(REPORTS_DIR / "document-index-matches.csv")
+    readiness_rows = read_csv(REPORTS_DIR / "ai-readiness.csv")
 
     pdf_data = {row["path"]: row for row in pdf_rows}
     plan_data = {row["path"]: row for row in plan_rows}
+    readiness_data = {row["path"]: row for row in readiness_rows}
     match_counts = Counter(row.get("matched_card_path", "") for row in match_rows)
 
-    docs = [compact_doc(card, pdf_data, plan_data, match_counts) for card in cards]
+    docs = [compact_doc(card, pdf_data, plan_data, match_counts, readiness_data) for card in cards]
     docs.sort(key=lambda item: (item["top_dir"], item["path"]))
     summary = summarize(docs)
 
@@ -131,6 +144,7 @@ def main() -> int:
         "discipline": sorted({doc["discipline"] for doc in docs if doc["discipline"]}),
         "ai_action": sorted({doc["ai_action"] for doc in docs if doc["ai_action"]}),
         "reuse_priority": sorted({doc["reuse_priority"] for doc in docs if doc["reuse_priority"]}),
+        "send_policy": sorted({doc["send_policy"] for doc in docs if doc["send_policy"]}),
     }
 
     generated_at = datetime.now(timezone.utc).isoformat()
@@ -329,12 +343,15 @@ def main() -> int:
       <select id="discipline"><option value="">Disciplina</option></select>
       <select id="ai_action"><option value="">Acción IA</option></select>
       <select id="reuse_priority"><option value="">Prioridad</option></select>
+      <select id="send_policy"><option value="">Política envío</option></select>
       <select id="sort">
         <option value="path">Orden: ruta</option>
         <option value="size_desc">Orden: tamaño</option>
         <option value="text_desc">Orden: info extraída</option>
         <option value="index_desc">Orden: cruces con índices</option>
         <option value="priority">Orden: prioridad IA</option>
+        <option value="ai_score">Orden: score IA</option>
+        <option value="ocr_priority">Orden: OCR</option>
       </select>
     </section>
     <div class="toolbar">
@@ -379,6 +396,7 @@ def main() -> int:
       discipline: '',
       ai_action: '',
       reuse_priority: '',
+      send_policy: '',
       sort: 'path',
     }};
 
@@ -400,6 +418,7 @@ def main() -> int:
       discipline: document.getElementById('discipline'),
       ai_action: document.getElementById('ai_action'),
       reuse_priority: document.getElementById('reuse_priority'),
+      send_policy: document.getElementById('send_policy'),
     }};
 
     function fmt(n) {{
@@ -423,7 +442,7 @@ def main() -> int:
       select.appendChild(opt);
     }}
 
-    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority']) {{
+    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority', 'send_policy']) {{
       for (const value of filters[key]) option(els[key], value);
     }}
 
@@ -432,6 +451,7 @@ def main() -> int:
       const tagged = list.filter(d => d.status === 'tagged_plan').length;
       const indexed = list.filter(d => d.index_match_count > 0).length;
       const highPriority = list.filter(d => d.reuse_priority === 'alta' || d.reuse_priority === 'media_alta').length;
+      const sendable = list.filter(d => String(d.send_policy || '').startsWith('enviar_')).length;
       const chunks = list.reduce((sum, d) => sum + d.chunks, 0);
       const cards = [
         ['Documentos', list.length],
@@ -439,13 +459,14 @@ def main() -> int:
         ['Planos etiquetados', tagged],
         ['Con índice XLS', indexed],
         ['Prioridad IA', highPriority],
+        ['Enviables IA', sendable],
         ['Chunks', chunks],
       ];
       els.stats.innerHTML = cards.map(([label, value]) => `<div class="stat"><b>${{fmt(value)}}</b><span>${{esc(label)}}</span></div>`).join('');
     }}
 
     function matches(doc) {{
-      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority']) {{
+      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority', 'send_policy']) {{
         if (state[key] && doc[key] !== state[key]) return false;
       }}
       if (!state.q) return true;
@@ -454,6 +475,7 @@ def main() -> int:
         doc.status, doc.type, doc.topic, doc.plan_kind, doc.index_kinds,
         doc.source_corpus, doc.project_area, doc.deliverable_part, doc.discipline,
         doc.extraction_quality, doc.ai_action, doc.reuse_priority
+        , doc.send_policy, doc.score_reasons
       ].join(' ').toLowerCase();
       return haystack.includes(state.q.toLowerCase());
     }}
@@ -463,6 +485,8 @@ def main() -> int:
       if (state.sort === 'size_desc') sorted.sort((a, b) => b.size_bytes - a.size_bytes || a.path.localeCompare(b.path));
       else if (state.sort === 'text_desc') sorted.sort((a, b) => b.text_chars - a.text_chars || a.path.localeCompare(b.path));
       else if (state.sort === 'index_desc') sorted.sort((a, b) => b.index_match_count - a.index_match_count || a.path.localeCompare(b.path));
+      else if (state.sort === 'ai_score') sorted.sort((a, b) => b.ai_score - a.ai_score || a.path.localeCompare(b.path));
+      else if (state.sort === 'ocr_priority') sorted.sort((a, b) => b.ocr_priority - a.ocr_priority || a.path.localeCompare(b.path));
       else if (state.sort === 'priority') {{
         const rank = {{ alta: 5, media_alta: 4, media: 3, pendiente_ocr: 2, baja: 1 }};
         sorted.sort((a, b) => (rank[b.reuse_priority] || 0) - (rank[a.reuse_priority] || 0) || b.text_chars - a.text_chars || a.path.localeCompare(b.path));
@@ -488,7 +512,10 @@ def main() -> int:
           doc.deliverable_part ? `<span class="tag">${{esc(doc.deliverable_part)}}</span>` : '',
           doc.discipline ? `<span class="tag">${{esc(doc.discipline)}}</span>` : '',
           doc.reuse_priority ? `<span class="tag">Prioridad: ${{esc(doc.reuse_priority)}}</span>` : '',
+          doc.ai_score ? `<span class="tag">Score: ${{fmt(doc.ai_score)}}</span>` : '',
+          doc.ocr_priority ? `<span class="tag">OCR: ${{fmt(doc.ocr_priority)}}</span>` : '',
           doc.ai_action ? `<div class="muted small">${{esc(doc.ai_action)}}</div>` : '',
+          doc.send_policy ? `<div class="muted small">${{esc(doc.send_policy)}}</div>` : '',
         ].filter(Boolean).join('<br>');
         const links = [
           doc.href ? `<a href="${{fileHref(doc.href)}}">Abrir documento</a>` : '',
@@ -532,7 +559,7 @@ def main() -> int:
       renderRows(list);
     }}
 
-    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority', 'sort']) {{
+    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority', 'send_policy', 'sort']) {{
       els[key].addEventListener('change', () => {{
         state[key] = els[key].value;
         update();
@@ -544,7 +571,7 @@ def main() -> int:
     }});
     els.reset.addEventListener('click', () => {{
       for (const key of Object.keys(state)) state[key] = key === 'sort' ? 'path' : '';
-      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority']) els[key].value = '';
+      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority', 'send_policy']) els[key].value = '';
       els.sort.value = 'path';
       els.q.value = '';
       update();

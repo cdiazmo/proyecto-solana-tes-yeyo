@@ -30,9 +30,9 @@
     },
     "encrypted": false,
     "plan_tag": {
-      "kind": "Plataforma / estructura metalica",
+      "kind": "Cimentacion / foundation",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:14.461855+00:00",
+      "tagged_at": "2026-06-08T19:58:16.680367+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -359,8 +359,8 @@
       "reuse_priority": "alta",
       "page_count": 39,
       "indexed_reference_count": 24,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:14.461857+00:00"
+  "processed_at": "2026-06-08T19:58:16.680369+00:00"
 }

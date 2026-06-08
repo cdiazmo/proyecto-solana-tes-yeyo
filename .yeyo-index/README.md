@@ -1,7 +1,7 @@
 # Document index
 
-- Generated: 2026-06-08T18:27:26.252Z
-- Files: 2717
+- Generated: 2026-06-08T20:02:23.604Z
+- Files: 2718
 - Total size: 6.6 GB
 - Top-level folders: 17
 
@@ -19,7 +19,7 @@
 | 03 GD Fabricacion LOI TES 6 | 81 | 144 MB |
 | 04 GD Fabricacon LOI TES 3 | 70 | 139 MB |
 | 09 Miscelanea | 2 | 129 MB |
-| 02 GD LOI | 98 | 98 MB |
+| 02 GD LOI | 99 | 98 MB |
 | 13_Documentos de Inspección Final | 10 | 48 MB |
 | Planos Solana | 42 | 44 MB |
 | Ejemplo PCI | 1 | 33 MB |
@@ -41,8 +41,8 @@
 | docx | 14 |
 | nwd | 13 |
 | doc | 7 |
+| [no_ext] | 4 |
 | rar | 4 |
-| [no_ext] | 3 |
 | 7z | 2 |
 | bak | 2 |
 | png | 2 |

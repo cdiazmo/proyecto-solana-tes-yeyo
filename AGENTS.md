@@ -86,6 +86,11 @@ Resultados principales:
 - `.yeyo-memory/reports/document-indexes.csv`: libros detectados como indices.
 - `.yeyo-memory/reports/document-index-entries.csv`: filas extraidas de indices.
 - `.yeyo-memory/reports/document-index-matches.csv`: cruces entre indices y documentos.
+- `.yeyo-memory/reports/ai-features.md`: features de filtrado para IA.
+- `.yeyo-memory/reports/ai-readiness.md`: ranking RAG/IA y OCR prioritario.
+- `.yeyo-memory/reports/ocr-priority.csv`: cola recomendada de OCR selectivo.
+- `.yeyo-memory/context-packs/*.json`: paquetes prefiltrados por parte del proyecto y disciplina.
+- `.yeyo-memory/prompts/*.md`: plantillas de prompts para agentes/IA.
 - `.yeyo-memory/reports/pending-cost-estimate.md`: estimacion de coste pendiente.
 
 ## Scripts principales
@@ -134,6 +139,15 @@ Regla vigente: los planos se etiquetan por tipo y no se OCRan completos salvo pe
 ```
 
 Estos indices son muy importantes. Muchos XLS/XLSX sirven como lista maestra de documentos, soportes, EDL, MTO, listas de valvulas, instrumentos, etc. Usarlos antes de intentar OCR o inferencias desde nombres.
+
+### Enriquecer features para IA
+
+```bash
+/Users/carlosdiaz/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 .yeyo-memory/tools/enrich_ai_features.py
+/Users/carlosdiaz/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 .yeyo-memory/tools/build_ai_readiness.py
+```
+
+Esto añade parte documental, disciplina, calidad de extracción, prioridad de reutilización, política de envío a IA y paquetes de contexto. Ejecutarlo después de `report_pdfs.py`, `tag_plan_pdfs.py` y `extract_document_indexes.py`.
 
 ### Generar HTML navegable
 
@@ -220,7 +234,8 @@ Tipos de plano detectados incluyen:
 
 1. Usar `document-indexes` y `plan-tags` para consolidar catalogo.
 2. Usar `search_memory.py` para localizar informacion por tema.
-3. Generar capitulos por disciplina:
+3. Usar `enrich_ai_features.py` y `build_ai_readiness.py` para priorizar que documentos entran en IA.
+4. Generar capitulos por disciplina:
    - Proceso y mecanica.
    - Tuberias e isometricos.
    - Civil y estructuras.
@@ -229,8 +244,8 @@ Tipos de plano detectados incluyen:
    - Fabricacion/compras/calidad.
    - Permisos/inspecciones.
    - As built.
-4. Usar IA solo para sintetizar chunks y fichas seleccionadas.
-5. Mantener trazabilidad con rutas relativas a documentos originales.
+5. Usar IA solo para sintetizar chunks y fichas seleccionadas.
+6. Mantener trazabilidad con rutas relativas a documentos originales.
 
 ## Archivos portables importantes
 

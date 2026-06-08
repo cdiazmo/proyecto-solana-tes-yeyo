@@ -31,7 +31,7 @@
     "plan_tag": {
       "kind": "Plano / dibujo general",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:14.081759+00:00",
+      "tagged_at": "2026-06-08T20:00:39.307618+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -143,15 +143,15 @@
     "ai_features": {
       "source_corpus": "Documentacion con sello PE 08",
       "project_area": "General",
-      "deliverable_part": "Planos",
+      "deliverable_part": "Memoria y anejos",
       "discipline": "Proceso / mecanica / tuberias",
       "extraction_quality": "alta_texto_extraido",
       "ai_action": "usar_chunks",
-      "reuse_priority": "media_alta",
+      "reuse_priority": "alta",
       "page_count": 12,
       "indexed_reference_count": 8,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:14.081761+00:00"
+  "processed_at": "2026-06-08T20:00:39.307620+00:00"
 }

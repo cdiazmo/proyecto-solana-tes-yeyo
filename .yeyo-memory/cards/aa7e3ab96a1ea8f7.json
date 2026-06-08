@@ -16,7 +16,7 @@
   "card_path": ".yeyo-memory/cards/aa7e3ab96a1ea8f7.json",
   "extracted_path": null,
   "metadata": {
-    "error": "Package not found at '/Users/carlosdiaz/Downloads/Yeyo/Documentos en Servidor Atlántica/260422_02 LIS cargas Sc y Hl/Observaciones a la instalacion electrica TES Hl.docx'",
+    "error": "Package not found at 'Documentos en Servidor Atlántica/260422_02 LIS cargas Sc y Hl/Observaciones a la instalacion electrica TES Hl.docx'",
     "ai_features": {
       "source_corpus": "Servidor Atlantica",
       "project_area": "TES / almacenamiento",
@@ -27,7 +27,7 @@
       "reuse_priority": "baja",
       "page_count": 0,
       "indexed_reference_count": 0,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
   "processed_at": "2026-06-08T18:29:18.215172+00:00"

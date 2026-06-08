@@ -1,5 +1,5 @@
 status,pdfs,legibles,legibilidad,requiere_ocr,errores,con_codigo,text_chars,chunks,token_estimate
-ok,929,929,100.0%,0,0,612,30069966,19387,7517157
-tagged_plan,656,0,0.0%,0,0,377,0,0,0
-needs_ocr_or_empty,198,0,0.0%,198,0,1,0,0,0
+ok,1067,1067,100.0%,0,0,613,31003257,20036,7750433
+tagged_plan,689,0,0.0%,0,0,377,0,0,0
+needs_ocr_or_empty,27,0,0.0%,27,0,0,0,0,0
 metadata_only,8,0,0.0%,0,0,0,0,0,0

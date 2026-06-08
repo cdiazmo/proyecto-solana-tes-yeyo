@@ -19,6 +19,7 @@ const IGNORED_DIRS = new Set([
 
 const IGNORED_FILES = new Set([
   '.DS_Store',
+  '.gitattributes',
   '.gitignore',
   'AGENTS.md',
   'PROPUESTA-SISTEMA-MULTIAGENTE.md',
@@ -120,7 +121,7 @@ async function main() {
 
   const manifest = {
     generated_at: new Date().toISOString(),
-    root: ROOT,
+    root: '.',
     file_count: files.length,
     total_bytes: totalBytes,
     total_size_human: humanSize(totalBytes),

@@ -76,8 +76,14 @@
       "reuse_priority": "alta",
       "page_count": 3,
       "indexed_reference_count": 3,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
+    },
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T19:58:17.212311+00:00",
+      "local_only": true
     }
   },
-  "processed_at": "2026-06-05T09:24:05.596992+00:00"
+  "processed_at": "2026-06-08T19:58:17.212313+00:00"
 }

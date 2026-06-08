@@ -28,9 +28,9 @@
     "encrypted": true,
     "empty_password_decrypt_result": "1",
     "plan_tag": {
-      "kind": "Soporte de tuberia MS",
+      "kind": "Soporte de tuberia HTF",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-08T18:41:14.767187+00:00",
+      "tagged_at": "2026-06-08T19:58:16.714315+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -149,8 +149,8 @@
       "reuse_priority": "media_alta",
       "page_count": 1,
       "indexed_reference_count": 8,
-      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+      "enriched_at": "2026-06-08T20:00:39.318696+00:00"
     }
   },
-  "processed_at": "2026-06-08T18:41:14.767190+00:00"
+  "processed_at": "2026-06-08T19:58:16.714316+00:00"
 }
