@@ -1,0 +1,68 @@
+{
+  "id": "f863eca91309242d",
+  "path": "Documentos en Servidor Atlántica/1950801-DOC-4190-00 Rev00 RECUENTO DE TUBERIA.xlsx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "xlsx",
+  "size_bytes": 1447366,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-DOC-4190-00 Rev00 RECUENTO DE TUBERIA",
+  "doc_code": null,
+  "revision": "Rev00",
+  "status": "ok",
+  "text_chars": 2556796,
+  "token_estimate": 639199,
+  "chunks": 1619,
+  "card_path": ".yeyo-memory/cards/f863eca91309242d.json",
+  "extracted_path": ".yeyo-memory/extracted/f863eca91309242d.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "RECUENTO REVA",
+        "rows_seen": 215,
+        "non_empty_rows": 71
+      },
+      {
+        "name": "Hoja5",
+        "rows_seen": 4,
+        "non_empty_rows": 1
+      },
+      {
+        "name": "pipe_rec_12032026",
+        "rows_seen": 76,
+        "non_empty_rows": 74
+      },
+      {
+        "name": "PIPE12032026 (sin val)",
+        "rows_seen": 1308,
+        "non_empty_rows": 1308
+      },
+      {
+        "name": "valve list12032026",
+        "rows_seen": 102,
+        "non_empty_rows": 102
+      },
+      {
+        "name": "PIPE12032026",
+        "rows_seen": 1412,
+        "non_empty_rows": 1412
+      },
+      {
+        "name": "RECUENTO REVB (260326)",
+        "rows_seen": 205,
+        "non_empty_rows": 76
+      },
+      {
+        "name": "REC-260326",
+        "rows_seen": 83,
+        "non_empty_rows": 81
+      },
+      {
+        "name": "PIPE-260326 (SIN VAL)",
+        "rows_seen": 1254,
+        "non_empty_rows": 1254
+      }
+    ]
+  },
+  "processed_at": "2026-06-08T18:27:42.830395+00:00"
+}

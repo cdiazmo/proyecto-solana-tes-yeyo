@@ -1,0 +1,37 @@
+{
+  "id": "ffcce27b9b28af2a",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/05 Cimentacion Kaxu/Hot salt tank.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 7719930,
+  "size_human": "7.4 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "Hot salt tank",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 45361,
+  "token_estimate": 11340,
+  "chunks": 29,
+  "card_path": ".yeyo-memory/cards/ffcce27b9b28af2a.json",
+  "extracted_path": ".yeyo-memory/extracted/ffcce27b9b28af2a.txt",
+  "metadata": {
+    "pages": 17,
+    "pdf_metadata": {
+      "Title": "DOSSIER FINAL TANQUES SALES 1996 HOT",
+      "Producer": "macOS Versión 10.15.3 (Compilación 19D76) Quartz PDFContext",
+      "Author": "Miguel Peinado",
+      "Creator": "PDF Expert",
+      "CreationDate": "D:20200227152932Z00'00'",
+      "ModDate": "D:20200227152932Z00'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:17.118854+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:17.118856+00:00"
+}

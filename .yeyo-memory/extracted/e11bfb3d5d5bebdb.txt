@@ -1,0 +1,2243 @@
+[page 1]
+ 
+Sheet 
+ 
+1 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+ 
+ 
+CONTENTS 
+1. GENERAL 
+2. OPERATING AREA 
+3. LIMITS OF VARIATI ON OF RATED CONDITIO NS 
+4. RATE OF VARIATION OF ADMISSION CONDIT IONS 
+5. OUTPUT LIMITATION S 
+6. ADMISSION STEAM P IPE HEATING REQUIREM ENTS 
+7. START UP CONDITIO NS 
+8. START UP 
+9. BY -PASS OPERATION 
+10. VACUUM BREAKING REQUIRE MENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Central Solar 50 MW CCP ABENGOA 
+SOLAR ABENER № Plano 
+ 0000 –ESP -25 -62 -1000 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 2]
+ 
+Sheet 
+ 
+2 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+1. GENERAL 
+ 
+• These values shall be used for this specific turbine unit together with the general start up 
+and operation instructions given in the TURBINE MANUAL. 
+• The full set of values for alarm, trip or limitations is to be found in the document "Setting 
+list". 
+• More details about the instrumentation can be found in the document “Additional 
+Settings for Turbine Protection” 
+• HP refers to the high pressure module (HP16RH). 
+• LP refers to the reheated low pressure module (LP357 ). 
+• Terms and definitions refer to IEC 45 -1. 
+• Steam quality is specified in STI 0700 -01E. 
+ 
+a Admission conditions HP -module 
+• Admission pressure 
+Rated 101.0 bara/ 1464.9 psia 
+Normal 100.0 bara/ 1450.4 psia 
+ 
+• Admission temperature 
+ 
+Rated 386.3 °C/ 727.3 °F 
+Normal 377.5 °C/ 711.5 °F 
+b Admission conditions LP -module 
+• Admi ssion pressure 
+Rated 16.7 bara/ 242.2 psia 
+Normal 16.7 bara/ 242.2 psia 
+• Admission temperature 
+Rated 389.8 °C/ 733.6 °F 
+Normal 377.5 °C/ 711.5 °F 
+ c Exhaust conditions, HP -module 
+• Exhaust (back pressure) pressure 
+Normal 19.1 bara/ 277.0 psia 
+Alarm high 21.0 bara/ 304.6 psia 
+Trip high 22.0 bara/ 319.1 psia 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 3]
+ 
+Sheet 
+ 
+3 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+• Exhaust temperature 
+Normal 210.0 °C/ 410.0 °F 
+Alarm high (max 1 h operation) 250.0 °C/ 482.0 °F 
+Automatic shut down 360.0 °C/ 680.0 °F 
+d Exhaust conditions, LP -module 
+• Exhaust (condenser) pressure 
+Normal 0.060 bara/ 0.87 psia/ 1.8 "HgA 
+Alarm high 0.15 bara/ 2.2 psia/ 4.4 "HgA 
+Trip high 0.22 bara/ 3.2 psia/ 6.5 "HgA 
+ 
+• Exhaust temperature at blade row L -1 
+Normal 57.0 °C/ 134.6 °F 
+Alarm high (max 1.0 h operation) 180.0 °C/ 356.0 °F 
+Automatic shut down 200.0 °C/ 392.0 °F 
+ 
+• Exhaust temperature at blade row L -0 
+Normal 36.0 °C/ 96.8 °F 
+Alarm high (max 1.0 h operation) 85.0 °C/ 185.0 °F 
+Automatic shut down 105.0 °C/ 221.0 °F 
+ 
+e Operating area HP - and LP -modules inlet conditions 
+• Area for pressure and temperature at modules inlets is summarised in diagrams, see section 
+OPERATING AREA. 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 4]
+ 
+Sheet 
+ 
+4 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+2. OPERATING AREA 
+ 
+Curve 1: Rated temperature HP -turbine inlet (386.3 oC) 
+Curve 2: Rated pressure HP -turbine inlet (101.0 bara) 
+Curve 3: HP -turbine exhaust m oisture limitation (VWO) 
+Curve 4: HP -turbine start -up limit: 
+30 oC superheat at loads less than 6 MW, otherwise 50 oC superheat 
+Curve 5: HP start -up limit low boiler pressure (15.4 bara) 
+ 
+VWO: valves wide open 
+ 
+Additional restrictions for admission temperatu res and cold reheat pressure during start up are given 
+under sections “START UP CONDITIONS” and “START UP”. 
+ 
+ 
+HP Turbine Operating Area 
+200 
+210 
+220 
+230 
+240 
+250 
+260 
+270 
+280 
+290 
+300 
+310 
+320 
+330 
+340 
+350 
+360 
+370 
+380 
+390 
+400 
+10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 105 
+PRESSURE [bara] 
+TEMPERATURE [deg C] 
+Curve 1 
+Curve 2 
+Curve 3 
+Curve 4 
+Curve 5 
+ 
+ 
+HP Area for continuous oper ation 
+Only temporary operation in 
+this area . Turbine automatic shut 
+down after one hour accumulated 
+operation per 24 hour period 
+(0.00h – 24.00h)! 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 5]
+ 
+Sheet 
+ 
+5 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+ 
+Curve 6: Rated temperature LP -turbine inlet (389.8 oC) 
+Curve 7: Rated pressure LP -turbine inlet (16.7 bara) 
+Curve 8: LP -turbine exhaust moisture limitation (VWO) 
+Curve 9: LP -turbine start -up limit: 
+ 50 o C superheat but not lower than 200 oC 
+Curve 10: LP -turbine low inlet temperature (280 oC) 
+VWO: valves wide open 
+ 
+Additional restrictions for admission temperature s and cold reheat pressure during start up are given 
+under sections “START UP CONDITIONS” and “START UP”. 
+ 
+LP Turbine Operating Area 
+180 
+190 
+200 
+210 
+220 
+230 
+240 
+250 
+260 
+270 
+280 
+290 
+300 
+310 
+320 
+330 
+340 
+350 
+360 
+370 
+380 
+390 
+400 
+0 5 10 15 20 
+PRESSURE [bara] 
+TEMPERATURE [deg C] 
+Curve 1 
+Curve 2 
+Curve 3 
+Curve 4 
+Curve 5 
+Curve 6 
+Curve 7 
+Curve 8 
+Curve 9 
+Curve 10 
+ 
+ 
+LP Area for continuous operation 
+Only temporary operation in this area 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 6]
+ 
+Sheet 
+ 
+6 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+3. LIMITS OF VARIATION OF RATED CONDITIONS 
+ 
+a Initial pressure 
+The average initial pressure at the turbine inlet over any 12 months of operation shall not exceed the 
+rated pressure. In maintaining this average, the pressure shall not exceed 105% of the rated pressure. 
+Further accidental swings not exceeding 120% of the rated pressure are permitted, provided that the 
+aggregate duration of such swings over any 12 months of operation does not exceed 12 h. 
+ 
+b Initial temperature 
+The average steam temperature at any inlet to the turbine over any 12 months of operation shall not 
+exceed the rated temperature. In maintaining this average, the temperature shall not normally exceed 
+the rated temperature by more than 8 K (15 ˚F). If, exceptionally, the temperature exceeds the rated 
+temperature by more than 8 K (15 ˚F), the instantaneous value of the temperature may vary between 
+this figure and a value of 14 K (25 ˚F) in excess of the rated temperature, provided that the total 
+operating time between these two limits does not exceed 400 h during any 12 months operating period. 
+Operating between limits of 14 K (25 ˚F) and 28 K (50 ˚F) in excess of rated temperature may be 
+permitted, for brief swings of 15 min or less, provid ed that the total operating time between these two 
+limits does not exceed 80 h during any 12 months operating period. In no case shall the temperature 
+exceed the rated temperature by more than 28 K (50 ˚F). 
+ 
+ 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 7]
+ 
+Sheet 
+ 
+7 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+4. RATE OF VARIATION OF ADMISSION CONDITIONS 
+ 
+a Initial temperature, HP -module 
+ 
+Inlet temperature variation shall be within following: 
+ Step ± 50 oC momentary, max. 1 step / hour 
+ Ramp ± 3 oC /minute added to above step range. 
+ 
+ 
+b Initial temperature, LP -module 
+ 
+Inlet temperature variation shall be within following: 
+ Step ± 50 oC momentary, max. 1 step / hour 
+ Ramp ± 3 oC /minute added to above step range. 
+ 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 8]
+ 
+Sheet 
+ 
+8 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+5. OUTPUT LIMITATIONS 
+ 
+ 
+• Maximum generator output: 52.5 MW. 
+ 
+• Maximum output HP -turbine to gear 17.4 MW. 
+ 
+ 
+Supervision of minimum cooling flo w for the HP -turbine is done by pressure drop measurement over 
+turbine. Supervision of sufficient cooling flow for the LP -turbine is done by temperature measurement 
+downstream last stage (L -0) and downstream second last stage (L -1). 
+ 
+• Minimum continuous loa d: 5 MW at a condenser pressure not larger than 0.06 bara (0.9 psia, 
+1.8 “HgA). Lower load is permitted during start -up provided that it is limited to maximum 
+one (1) hour and the exhaust temperature is below its maximum allowed value (section 1d). 
+ 
+ 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 9]
+ 
+Sheet 
+ 
+9 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+6. ADMISSION STEAM PIPE HEATING REQUIREMENTS 
+Prior to turbine start -up the turbine admission steam pipes must be heated. 
+Heating lines of sufficient size shall be connected as close as possible to the inlet valves of the turbine 
+modules (recommendation to mee t temperature requirements in 7d). 
+ 
+Drains are required upstream the valves at the HP - and LP -module. 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 10]
+ 
+Sheet 
+ 
+10 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+7. START UP CONDITIONS 
+a Turning gear 
+1. Minimum inlet oil temperature for start of gear 15 oC. 
+• If not in operation, start turning gear at least 2 hours bef ore running up. 
+• Do not stop turning gear until HP and LP metal temperatures are below 120 oC (about 60 
+hours after turbine shutdown). 
+b Gland steam conditions 
+Normal gland steam source (main steam header): 
+ 
+• Temperature: 175 o C to 386 oC (347 oF to 727 o F) 
+ recommended ± 50 o C (± 90 oF) of the highest 
+ measured turbine casing metal temperature but 
+ not lower than 200 oC (360 oF) below the highest 
+ measured turbine metal temperature. 
+• Pressure before gland steam valve: 7 bara to1 01 bara (102 psia to 1464 psia) 
+• Min. superheat: see curves below 
+ Solnova, gland steam 
+0
+10 
+20 
+30 
+40 
+50 
+60 
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 105 
+upstream pressure (bara) 
+degree of superheat (deg C) 
+minimum superheat (deg C), warm and hot start 
+recommended degree of superheat 
+Cold start may be done with saturated gland steam. 
+ 
+Gland steam for cold start only! : 
+• Min. temperature: 165 oC (329 oF) (saturated steam) 
+• Min. pressure before gland steam valve: 7 bara (102 psia) 
+• Min. superheat: saturated in the supp ly line, 
+ 50 oC recommended. 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 11]
+ 
+Sheet 
+ 
+11 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+ 
+c Preheating of HP -module 
+At a cold start the HP -turbine shall be preheated from the cold reheat line during at least 10 minutes 
+with a steam pressure of about 6 bara before running up. Prior to opening the preheating v alve in the 
+cold reheat line the pressure in that line shall be less than 6 bara (87 psia) to minimize thermal stress. 
+At a warm and hot start no preheating period is necessary. 
+ 
+d Steam conditions 
+• Minimum temperature upstream the turbine shall guarantee d ry steam. This is depending on 
+pressure but can be expressed as min superheat. 
+ HP -module: Min superheat: 30 oC at loads less than 6 MW, otherwise 50 o C superheat 
+ LP -module: Min superheat: 50 oC but not lower than 200 oC 
+ 
+• Steam temperature at HP -turbine inlet not lower than 50 oC below metal temperature at turbine 
+casing inlet. 
+• Steam temperature at LP -turbine inlet not lower than 50 oC below metal temperature at turbine 
+casing inlet. 
+• Steam pressure upstream the turbine, see d iagram OPERATING AREA. 
+• To follow the loading sequence curves in the diagrams for START UP a minimum boiler 
+flow capacity of 10% is necessary before running up. 
+ 
+e HP exhaust pressure 
+The same limits as for continuous operation are valid. No limit on minimu m pressure beside for 
+prewarming prior to cold start. 
+ 
+f Condenser pressure 
+To release the running up of the turbine the condenser pressure must be below 0.22 bara (3.2 psia/6.5 
+inHGA), see also section 9c “By -pass operation”. When initiating turbine run -up the condenser 
+pressure should be below 0.15 bara (2.2 psia/4.4 inHGA) to avoid alarm due to high condenser 
+pressure. 
+ 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 12]
+ 
+Sheet 
+ 
+12 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+8. START UP 
+a Start -up categories 
+The start -up categories are defined by the metal temperature Tm measured at both HP - and LP -module 
+just before run -up begins. The metal temperature which gives the slowest start -up curve defines the 
+start -up conditions: 
+ 
+Main steam temperature OR hot reheat steam temperature are larger than 300 ºC: 
+Start mode Tm HP Tm LP 
+Cold start < 200 oC < 230 oC 
+Warm start 200 oC – 290 o C 230 oC – 280 oC 
+Hot start > 290 oC > 280 oC 
+ 
+Main steam temperature AND hot reheat steam temperature are not larger than 300 ºC: 
+Start mode Tm HP Tm LP 
+Cold start < 160 oC < 160 oC 
+Warm start 160 oC – 290 o C 160 oC - 280 oC 
+Hot s tart > 290 oC > 280 oC 
+ 
+Main steam temperature AND hot reheat steam temperature are not larger than 250 ºC: 
+Start mode Tm HP Tm LP 
+Cold start < 140 oC < 160 oC 
+Warm start 140 oC – 250 o C 160 oC - 250 oC 
+ 
+ 
+b Running up sequence 
+Running up is guided by the start -up categories and shown as n/no curve in the below graphs. Run -up 
+is not allowed until Ts and Tr are greater than Tm -50 oC .(Use turbine by -pass to raise Ts and Tr) 
+Delay in running up may show up due to low oil inlet temperature or high vibrati on level. Time for 
+synchronization is not included in the start -up graphs. 
+ 
+c Loading sequence 
+Loading times after running up and synchronizing are shown as N1 to N6 curves in the following 
+graphs. Loading is guided by the metal temperatures Tm HP and Tm LP . Additional conditions to the 
+enclosed start -up curves: 
+ 
+• Tm HP,LP = Metal temperature measured in turbine casings before run -up. (HP and 
+ LP respectively) 
+• Ts, high = Max. steam temperature measured in the main steam line upstream the HP - 
+ module. 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 13]
+ 
+Sheet 
+ 
+13 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+• Ts, low = Min steam temperature measured in the main steam line upstream the HP -
+ module. 
+ NB! The highest of the minimum temperature shown in the start -up diagram 
+ and the temperature defined acc. to section b above defines the minimum 
+ allowed steam temperature for start -up. 
+• Tr, high =Max. steam temperature measured in the main steam line upstream the 
+ LP -module 
+• Tr, low = Min steam temperature measured in the main steam line upstream the LP -
+ module. 
+ NB! The highest of the minimum temperature shown in the start -up diagram 
+ and the temperature defined acc. to section b above defines the minimum 
+ allowed steam temperature for start -up. 
+ 
+• Ps -high = Max. steam pressure measured in the main steam line upstream the HP -module 
+• Ps -low = Min steam pressure measured in the main steam line upstream the HP -module 
+• Pr = Indication of the maximum pressure in the HP -module exhaust. 
+• N = Percentage of maximum total generator output ( see section output limitations ) 
+• n/n 0 = Actual speed / Synchro nous speed 
+ 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 14]
+ 
+Sheet 
+ 
+14 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Cold start for Ts,start above 250 º C 
+Run up curve R3 
+Load Curve N8: Tm HP or Tm LP less than 130 oC 
+Load Curve N7: Ts,start larger than 300 ºC: Tm HP < 200 oC or Tm LP < 230 oC 
+ Ts,start Less or equal than 300 ºC:Tm HP < 160 oC or Tm LP < 160 oC 
+ 
+ Cold Start 
+0
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+0 20 40 60 80 100 
+Time [min] 
+Temperature [degC] 
+0
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+Presuure [bara], 
+Speed [%], 
+Power [%] 
+1. Ts, high [C] 
+2. Ts, low [C] 
+3. Tr, high [C] 
+4. Tr, low [C] 
+5. Ps-high [bara] 
+6. Ps-low [bara] 
+7. Pr-high [bara] 
+8. R3 [%] 
+9. N7 [%] 
+10. N8 [%] 
+ 
+5 
+6 
+7 
+8 
+9 
+10 
+1 
+2 
+4 
+3 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 15]
+ 
+Sheet 
+ 
+15 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Cold start for Ts,start less or equal 250 º C 
+Run up curve R3 
+Load Curve N8: Tm HP <120 oC or Tm LP < 120 oC 
+Load Curve N7: Tm HP <140 oC or Tm LP < 160 oC 
+ 
+ 
+Cold start, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+0 10 20 30 40 50 60 70 80 90 100 
+time (min) 
+Speed (%), Load (%) 
+1. R3 (%) 
+2. N8 (%) 
+3. N7 (%) 
+ 
+The cold starts with reduced admission steam temperature as collected in the diagram above require 
+accurate admission steam temperature control. The detailed curves for each start up showing the 
+admission steam conditions are given in the following two diagrams. 
+ 
+A deviation of ± 10K from the nominal admission st eam temperature is acceptable. If the temperature 
+is more than 10K below nominal the steam turbine trips because of too low degree of superheat for the 
+HP -admission. If the temperature is more than 10K above nominal this will be registered for future 
+evalu ation, because it has a negative impact on component life time. 
+ 
+It is important that the admission steam temperature increase is not higher than given in the curves 
+especially below minimum load. Above minimum load the temperature can be increased with t he 
+given ramp rates even if load is not further increased. 
+ 
+ 
+1 
+2 
+3 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 16]
+ 
+Sheet 
+ 
+16 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Cold start N8, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220 
+240 
+260 
+280 
+300 
+320 
+340 
+360 
+380 
+400 
+0 10 20 30 40 50 60 70 80 90 100 
+time (min) 
+Temperature (degC) 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+Speed (%), 
+Load (%), 
+ Pressure (bara), 
+ degree of superheat (degC) 
+1. Ts-max, Tr-max (degC) 
+2. Ts-nom, Tr-nom (degC) 
+3. Ts-min, Tr-min (degC) 
+4. superheat Ts-nom (deg C) 
+5. Ps (bara) 
+6. Pr (bara) 
+7. R3 (%) 
+8. N8 (%) 
+ 
+Cold start N7, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220 
+240 
+260 
+280 
+300 
+320 
+340 
+360 
+380 
+400 
+0 10 20 30 40 50 60 70 80 
+time (min) 
+Temperature (degC) 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+Speed (%), 
+Load (%), 
+ Pressure (bara), 
+ degree of superheat (degC) 
+1. Ts-max, Tr-max (degC) 
+2. Ts-nom, Tr-nom (degC) 
+3. Ts-min, Tr-min (degC) 
+4. superheat Ts-nom (deg C) 
+5. Ps (bara) 
+6. Pr (bara) 
+7. R3 (%) 
+8. N7 (%) 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 17]
+ 
+Sheet 
+ 
+17 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Warm start for Ts,start larger than 300 º C 
+Run up curve R2 
+Curve N6: Tm HP <210 oC or Tm LP < 240 oC 
+Curve N5: Tm HP <220 oC or Tm LP < 250 oC 
+Curve N4: Tm HP <230 oC or Tm LP < 260 oC 
+Curve N3: Tm HP <290 oC or Tm LP < 280 oC 
+ Warm Start 
+0
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+0 10 20 30 
+Time (min) 
+Temperature (degC) 
+0
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+. Pressure (bara), 
+ Speed (%), 
+ Power (%) 
+1. Ts, high (C) 
+2. Ts, low (C) 
+3. Tr, high (C) 
+4. Tr, low [C] 
+5. Ps-high (bara) 
+6. Ps-low (bara) 
+7. Pr-high (bara) 
+8. N6 (%) 
+9. N5 (%) 
+10. N4 (%) 
+11. N3 (%) 
+12. R2 (%) 
+ 
+3 
+5 
+6 
+7 12 
+9 
+8 
+4 
+2 
+1 
+10 11 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 18]
+ 
+Sheet 
+ 
+18 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Warm start for Ts,start less or equal 300 º C 
+Run up curve R2 
+Curve N6: Tm HP <170 oC or Tm LP < 170 oC 
+Curve N5: Tm HP <190 oC or Tm LP < 190 oC 
+Curve N4: Tm HP <220 oC or Tm LP < 220 oC 
+Curve N3: Tm HP <290 oC or Tm LP < 280 oC 
+ Warm Start 
+0
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+0 10 20 30 40 50 
+Time (min) 
+Temperature (degC) 
+0
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+. Pressure (bara), 
+ Speed (%), 
+ Power (%) 
+1. Ts, high (C) 
+2. Ts, low (C) 
+3. Tr, high (C) 
+4. Tr, low [C] 
+5. Ps-high (bara) 
+6. Ps-low (bara) 
+7. Pr-high (bara) 
+8. N6 (%) 
+9. N5 (%) 
+10. N4 (%) 
+11. N3 (%) 
+12. R2 (%) 
+ 
+3 
+5 
+6 
+7 12 
+9 
+8 
+4 
+2 
+1 
+10 
+11 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 19]
+ 
+Sheet 
+ 
+19 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Warm start for Ts,start less or equal 250 º C 
+Run up curve R2 
+Load Curve N6: Tm HP <170 oC or Tm LP < 170 oC 
+Load Curve N5: Tm HP <190 oC or Tm LP < 190 oC 
+Load Curve N4: Tm HP <220 oC or Tm LP < 220 oC 
+Load Curve N3: Tm HP <250 oC or Tm LP < 250 oC 
+ 
+Warm start, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+0 10 20 30 40 50 60 
+time (min) 
+Speed (%), Load (%) 
+1. R2 (%) 
+2. N6 (%) 
+3. N5 (%) 
+4. N4 (%) 
+5. N3 (%) 
+ 
+The warm starts with reduced admission steam temperature as collected in the diagram above require 
+accurate admission steam temperature control. The detailed curves for each start up showing the 
+admission steam conditions are given in the following four diagrams. 
+ 
+A deviation of ± 10K from the nominal admission steam temperature is acceptable. If the temperature 
+is more than 10K below nominal the steam turbine trips bec ause of too low degree of superheat for the 
+HP -admission. If the temperature is more than 10K above nominal this will be registered for future 
+evaluation, because it has a negative impact on component life time. 
+ 
+It is important that the admission steam t emperature increase is not higher than given in the curves 
+especially below minimum load. Above minimum load the temperature can be increased with the 
+given ramp rates even if load is not further increased. 
+5 
+4 
+1 
+2 
+3 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 20]
+ 
+Sheet 
+ 
+20 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Warm start N6, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220 
+240 
+260 
+280 
+300 
+320 
+340 
+360 
+380 
+400 
+0 10 20 30 40 50 60 
+time (min) 
+Temperature (degC) 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+Speed (%), 
+Load (%), 
+ Pressure (bara), 
+ degree of superheat (degC) 
+1. Ts-max, Tr-max (degC) 
+2. Ts-nom, Tr-nom (degC) 
+3. Ts-min, Tr-min (degC) 
+4. superheat Ts-nom (deg C) 
+5. Ps (bara) 
+6. Pr (bara) 
+7. R2 (%) 
+8. N6 (%) 
+ 
+Warm start N5, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220 
+240 
+260 
+280 
+300 
+320 
+340 
+360 
+380 
+400 
+0 10 20 30 40 50 60 
+time (min) 
+Temperature (degC) 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+Speed (%), 
+ Load (%), 
+ Pressure (bara), 
+ degree of superheat (degC) 
+1. Ts-max, Tr-max (degC) 
+2. Ts-nom, Tr-nom (degC) 
+3. Ts-min, Tr-min (degC) 
+4. superheat Ts-nom (deg C) 
+5. Ps (bara) 
+6. Pr (bara) 
+7. R2 (%) 
+8. N5 (%) 
+ 
+6 
+4 
+1 
+2 
+3 
+5 
+8 
+7 
+6 
+4 
+1 
+2 
+3 
+5 8 
+7 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 21]
+ 
+Sheet 
+ 
+21 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Warm start N4, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220 
+240 
+260 
+280 
+300 
+320 
+340 
+360 
+380 
+400 
+0 10 20 30 40 50 60 
+time (min) 
+Temperature (degC) 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+Speed (%), 
+ Load (%), 
+ Pressure (bara), 
+ degree of superheat (degC) 
+1. Ts-max, Tr-max (degC) 
+2. Ts-nom, Tr-nom (degC) 
+3. Ts-min, Tr-min (degC) 
+4. superheat Ts-nom (deg C) 
+5. Ps (bara) 
+6. Pr (bara) 
+7. R2 (%) 
+8. N4 (%) 
+ 
+Warm start N3, Ts,start < 250 degC 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220 
+240 
+260 
+280 
+300 
+320 
+340 
+360 
+380 
+400 
+0 10 20 30 40 50 60 
+time (min) 
+Temperature (degC) 
+0
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+Speed (%), 
+Load (%), 
+Pressure (bara), 
+degree of superheat (degC) 
+1. Ts-max, Tr-max (degC) 
+2. Ts-nom, Tr-nom (degC) 
+3. Ts-min, Tr-min (degC) 
+4. superheat Ts-nom (deg C) 
+5. Ps (bara) 
+6. Pr (bara) 
+7. R2 (%) 
+8. N3 (%) 
+ 
+6 
+4 
+1 
+2 
+3 
+5 8 
+7 
+6 
+4 
+1 
+2 
+3 
+5 
+8 
+7 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 22]
+ 
+Sheet 
+ 
+22 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+Hot sta rt 
+Run up curve R1 
+Curve N2: Tm HP < 340 oC or Tm LP < 330 oC 
+Curve N1: Tm HP > 340 oC and Tm LP > 330 oC 
+ Hot Start 
+0
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+550 
+0 5 10 15 
+Time [min] 
+Temperature [degC] 
+0
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+Pressure [bara], 
+Speed [%], 
+Power [%] 
+1. Ts-high [C] 
+2. Ts-low [C] 
+3. Tr-high [C] 
+4. Tr-low [C] 
+5. Ps-high [bara] 
+6. Ps-low [bara] 
+7. Pr-high [bara] 
+8. R1 [%] 
+9. N1 [%] 
+10. N2 [%] 
+ 
+1 
+2 
+10 
+8 
+7 
+9 
+6 
+5 
+3 
+4 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 23]
+ 
+Sheet 
+ 
+23 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+9. BY -PASS OPERATION 
+a General 
+When the by -pass is in operation without turbine operation there are some requi rements which have to 
+be fulfilled for protection of the steam turbine. 
+ 
+• The lubricating oil system shall be in operation. 
+• The sealing steam system and the leak off steam system shall be in operation. 
+• The turning gear shall be in operation. 
+ 
+For bypass ope ration with turbine operation the same requirements as for normal steam turbine 
+operation are valid. 
+b Temperature 
+The temperature requirements in the turbine exhaust are the same as for normal turbine operation. 
+ 
+c Pressure 
+The turbine sets the following limits for the by -pass operation. See diagram below. 
+At start -up when condenser pressure is less than 0.5 bara (14.7 inHgA) the by -pass system is released. 
+Before run -up of the turbine is initiated the condenser pressure must be below the trip limit given in 
+1d, “Exhaust conditions, LP module”. 
+Allowable Condenser Pressure for By-pass Operation 
+0.0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+0.8 
+0.9 
+1.0 
+0 20 40 60 80 100 
+Turbine speed [%] 
+Condenser pressure [bara] 
+a) By-pass trip 
+ 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson
+
+[page 24]
+ 
+Sheet 
+ 
+24 ( 24 ) 
+Respons. dept 
+DAC 
+Orig. date 
+2008 -03 -07 
+Reg. 
+B043558 - B043561 
+B043578 - B043583 
+B043644 - B043647 
+B043654 - B043657 
+CONDITIONS FOR TURBINE OPERATION 
+CONDENSING TUR BINE 
+SST -700RH 
+Prepared 
+Markus Jöcker 
+ 
+ 
+ 
+ 
+Approved 
+ 
+Archive 
+28,30 
+HG 
+9722 
+Checked 
+ 
+Latest revision/ date 
+Rev e: Chapt. 8: cold start for low steam temperature added, label corrections 
+(MJ 110908) 
+Rev f: Par 1c updated (MJ 120322) No. 
+1CSD 379 111 
+ 
+A 087 0474 -B 00 -03 MS Word 97 
+We reserve all righ ts in this document and in the information 
+contained therein. Reproduction, use or disclosure to third 
+Parties without express authority is strictly forbidden. 
+ © Siemens Industrial Turbomachinery AB 
+10. VACUUM BREAKING REQUIREMENTS 
+ 
+a The vacuum breaking system has the following tasks. 
+ 
+• Vacuum breaking is allowed when the turbine speed is less than 10% of rated turbine 
+speed. 
+• Full b reaking of the vacuum shall be initiated at loss of gland steam supply when the 
+turbine speed is less than 10% of rated turbine speed. 
+• Emergency vacuum breaking. The purpose of this procedure is to decelerate the rotor 
+shaft down in the shortest possible t ime. When the vacuum breaking valve is opened, air 
+flows into the condenser and turbine. 
+The resulting rapid rise in pressure has a powerful braking effect on the turbine shaft 
+ensuring that the critical speed zones are passed through as quick as possible. 
+Vacuum breaking at steam turbine speed above 10% of rated speed may only be initiated 
+in an absolute emergency (e.g. extremely high vibrations) by the operator manually 
+activating the vacuum breaker. At the same time as the vacuum breaking is initiated a 
+steam turbine trip is made. 
+Automatic emergency vacuum breaking is made in case of durable high high vibrations, 
+on turbine or generator. 
+High -high condensate level in a low -pressure pre -heater not equipped with a check valve 
+will automatically initiate va cuum breaking to avoid water entering the turbine. 
+ 
+b Vacuum breaking for night stand still 
+The gland steam system must be kept in operation until vacuum breaking is complete! 
+ 
+When vacuum is broken for night stand still it is recommended to keep the humi dity in the turbine 
+exhausts as low as possible to avoid corrosion of blades and internal turbine parts. 
+ 
+• In order to reduce humidity in the turbine it is important to provide cold areas in which the 
+steam may condensate. It has been shown to be effective to keep the condenser cold, which 
+requires operating the cooling water pumps. Probably relative little cooling water circulation 
+would already improve the situation for the turbine. 
+ 
+• The source of humidity during the night stand still should be minimized . So no steam should be 
+submitted to the condenser system. Preferably, the hotwell should be emptied during stand still 
+if possible. 
+ 
+This document is issued in Pulse.
+2008-03-14
+Rolf Wikström
+2008-03-14
+Arne Karlsson

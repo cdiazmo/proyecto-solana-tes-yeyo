@@ -1,0 +1,28 @@
+{
+  "id": "478339824fd50793",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.7 Formulario LAAT parcial.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 354960,
+  "size_human": "347 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.1.7 Formulario LAAT parcial",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/478339824fd50793.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Canon iR-ADV C2030i PDF",
+      "CreationDate": "D:20120110142751Z00'00'",
+      "Producer": "Adobe PSL 1.0e for Canon\u0000"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:24.247301+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6f6366a0daa0b0e2",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.3 CIBT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 142300,
+  "size_human": "139 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.2.3 CIBT",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/6f6366a0daa0b0e2.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120528160733+02'00'",
+      "ModDate": "D:20120528160733+02'00'",
+      "Title": "120525 Helios I_Certif.Inst. BT nº Expte. 453.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:30.830704+00:00"
+}

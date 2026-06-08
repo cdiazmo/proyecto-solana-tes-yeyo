@@ -1,0 +1,29 @@
+{
+  "id": "2f153c221f55b35a",
+  "path": "Helios Sole/Helios II/3.3.2 Publicacion DIA HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 247373,
+  "size_human": "242 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "3.3.2 Publicacion DIA HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 35358,
+  "token_estimate": 8839,
+  "chunks": 23,
+  "card_path": ".yeyo-memory/cards/2f153c221f55b35a.json",
+  "extracted_path": ".yeyo-memory/extracted/2f153c221f55b35a.txt",
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Creator": "pdftk 1.41 - www.pdftk.com",
+      "Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+      "ModDate": "D:20110809074708Z",
+      "CreationDate": "D:20110809074708Z"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:13.738734+00:00"
+}

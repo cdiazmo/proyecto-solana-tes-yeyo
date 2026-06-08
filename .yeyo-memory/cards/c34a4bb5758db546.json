@@ -1,0 +1,27 @@
+{
+  "id": "c34a4bb5758db546",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/CIEBT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 99638,
+  "size_human": "97 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "CIEBT",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/c34a4bb5758db546.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "CreationDate": "D:20170623100557",
+      "ModDate": "D:20190103100716+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:02.154854+00:00"
+}

@@ -29,7 +29,7 @@
     "plan_tag": {
       "kind": "Soporte de tuberia MS",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:59.747660+00:00",
+      "tagged_at": "2026-06-08T18:41:16.254706+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -87,5 +87,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:59.747662+00:00"
+  "processed_at": "2026-06-08T18:41:16.254708+00:00"
 }

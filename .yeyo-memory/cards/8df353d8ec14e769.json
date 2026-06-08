@@ -31,7 +31,7 @@
     "plan_tag": {
       "kind": "Isometrico de tuberia nitrogeno",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:58.797684+00:00",
+      "tagged_at": "2026-06-08T18:41:15.997121+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -63,5 +63,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:58.797685+00:00"
+  "processed_at": "2026-06-08T18:41:15.997122+00:00"
 }

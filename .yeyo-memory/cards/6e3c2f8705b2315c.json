@@ -1,0 +1,39 @@
+{
+  "id": "6e3c2f8705b2315c",
+  "path": "Helios Sole/Helios II/5.8 N2/5.8.3 Cert OCA.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 652569,
+  "size_human": "637 KB",
+  "mtime_iso": "2026-06-08T16:20:00.000Z",
+  "title": "5.8.3 Cert OCA",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/6e3c2f8705b2315c.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120725135544+02'00'",
+      "ModDate": "D:20120725135544+02'00'",
+      "Title": "varios.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia nitrogeno",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:15.481619+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:15.521373+00:00"
+}

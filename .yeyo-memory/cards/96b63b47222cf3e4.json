@@ -1,0 +1,33 @@
+{
+  "id": "96b63b47222cf3e4",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.3 C Instalacion.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 141828,
+  "size_human": "139 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.5.3 C Instalacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/96b63b47222cf3e4.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120605095216+02'00'",
+      "ModDate": "D:20120605095216+02'00'",
+      "Title": "5.9.5.3 C Instalacion2.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:55.754649+00:00"
+}

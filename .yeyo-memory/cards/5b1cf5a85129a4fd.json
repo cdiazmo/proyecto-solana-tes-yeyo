@@ -1,0 +1,33 @@
+{
+  "id": "5b1cf5a85129a4fd",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.8 Presentacion proyecto.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 93279,
+  "size_human": "91 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.3.8 Presentacion proyecto",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/5b1cf5a85129a4fd.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120119165926+01'00'",
+      "ModDate": "D:20120119165926+01'00'",
+      "Title": "120117 Helios I Registro Líneas.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:39.197431+00:00"
+}

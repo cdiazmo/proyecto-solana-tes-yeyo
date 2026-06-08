@@ -1,0 +1,31 @@
+{
+  "id": "d51c4e1b1751dd2b",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.4 Acreditacion instalador.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 368426,
+  "size_human": "360 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.1.4 Acreditacion instalador",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d51c4e1b1751dd2b.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "Juan",
+      "CreationDate": "D:20110302095625+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20110302095625+01'00'",
+      "Producer": "GPL Ghostscript 8.15",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:19.960769+00:00"
+}

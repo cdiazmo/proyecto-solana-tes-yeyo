@@ -1,0 +1,28 @@
+{
+  "id": "de6cf17861d33aea",
+  "path": "Helios Sole/Línea 15 kV/110719 APM Línea 15 kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 183405,
+  "size_human": "179 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "110719 APM Línea 15 kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/de6cf17861d33aea.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "I.R.I.S.",
+      "Producer": "5,0,0,255 1236832",
+      "CreationDate": "D:20110720085310+02'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:32.990327+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1e0a0e3d7c837347",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/2046-PLN-INA-23-22-0003 Principal y comprobante.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 193229,
+  "size_human": "189 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "2046-PLN-INA-23-22-0003 Principal y comprobante",
+  "doc_code": "2046-PLN-INA-23-22-0003",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/1e0a0e3d7c837347.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "Administrador",
+      "CreationDate": "D:20111028140120+02'00'",
+      "Creator": "PScript5.dll Version 5.2",
+      "ModDate": "D:20111031112355+01'00'",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "Title": "\\\\Central\\CENTRAL_1\\TRABAJOS\\1697 HELIOS\\CONTROL SUB COLECTORA\\L_03 ARENAS DE SAN JUAN (REE)\\DESARROLLADOS\\2046-PLN-INA-23-22-0"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.422524+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.459690+00:00"
+}

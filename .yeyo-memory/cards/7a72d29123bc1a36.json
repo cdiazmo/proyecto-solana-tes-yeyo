@@ -27,7 +27,7 @@
     "plan_tag": {
       "kind": "Plano / dibujo general",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:57.938694+00:00",
+      "tagged_at": "2026-06-08T18:41:15.738529+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -98,5 +98,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:57.938700+00:00"
+  "processed_at": "2026-06-08T18:41:15.738532+00:00"
 }

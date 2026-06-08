@@ -1,0 +1,33 @@
+{
+  "id": "e88751e47a5f915d",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.4 Solicitud APS.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 331900,
+  "size_human": "324 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.7.4 Solicitud APS",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/e88751e47a5f915d.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110606114603+02'00'",
+      "ModDate": "D:20110606114603+02'00'",
+      "Title": "110606114453_0001.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:22.282831+00:00"
+}

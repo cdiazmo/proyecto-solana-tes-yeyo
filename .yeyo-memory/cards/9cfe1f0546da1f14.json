@@ -1,0 +1,41 @@
+{
+  "id": "9cfe1f0546da1f14",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-PLN-0040-00 Planificacion.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 506938,
+  "size_human": "495 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-PLN-0040-00 Planificacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 10236,
+  "token_estimate": 2559,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/9cfe1f0546da1f14.json",
+  "extracted_path": ".yeyo-memory/extracted/9cfe1f0546da1f14.txt",
+  "metadata": {
+    "pages": 8,
+    "pdf_metadata": {
+      "Author": "Begoña Egurbide",
+      "Company": "SENER",
+      "CreationDate": "D:20260324153512+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "Keywords": "",
+      "ModDate": "D:20260324153532+01'00'",
+      "Producer": "Adobe PDF Library 17.11.238",
+      "SourceModified": "D:20260324142933",
+      "Subject": "",
+      "Title": "Manual de Organización de ZABALGARBI"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.213063+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:16.213065+00:00"
+}

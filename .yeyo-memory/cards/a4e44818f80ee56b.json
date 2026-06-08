@@ -1,0 +1,31 @@
+{
+  "id": "a4e44818f80ee56b",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/Separata/Modificado tramo aéreo rev 1.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 2666389,
+  "size_human": "2.5 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "Modificado tramo aéreo rev 1",
+  "doc_code": null,
+  "revision": "rev 1",
+  "status": "ok",
+  "text_chars": 118931,
+  "token_estimate": 29732,
+  "chunks": 76,
+  "card_path": ".yeyo-memory/cards/a4e44818f80ee56b.json",
+  "extracted_path": ".yeyo-memory/extracted/a4e44818f80ee56b.txt",
+  "metadata": {
+    "pages": 93,
+    "pdf_metadata": {
+      "Producer": "Nitro PDF PrimoPDF",
+      "CreationDate": "D:20110916113302-02'00'",
+      "ModDate": "D:20110916113302-02'00'",
+      "Title": "(Microsoft Word - modificaci\\363n de conductor 15_09_2011.doc)",
+      "Creator": "PrimoPDF http://www.primopdf.com",
+      "Author": "GLJMB"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:44.304218+00:00"
+}

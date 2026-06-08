@@ -1,0 +1,36 @@
+{
+  "id": "fb29cd46b534342c",
+  "path": "Planos Solana/Foundations.zip",
+  "top_dir": "Planos Solana",
+  "ext": "zip",
+  "size_bytes": 7593867,
+  "size_human": "7.2 MB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "Foundations",
+  "doc_code": null,
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 445,
+  "token_estimate": 111,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/fb29cd46b534342c.json",
+  "extracted_path": ".yeyo-memory/extracted/fb29cd46b534342c.txt",
+  "metadata": {
+    "archive_entries": 11,
+    "archive_sample": [
+      "Newer versions/",
+      "Newer versions/4521-PLN-PRT-39-52-0001.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0002.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0003.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0004.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0005.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0006.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0007.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0008.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0009.pdf",
+      "Newer versions/4521-PLN-PRT-39-52-0010.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 7694204
+  },
+  "processed_at": "2026-06-08T18:39:57.339138+00:00"
+}

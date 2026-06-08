@@ -1,0 +1,36 @@
+{
+  "id": "5060bafe6d02f0f2",
+  "path": "Documentos en Servidor Atlántica/E87-15-3020-FT-026-000003-5 P&ID.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 3622249,
+  "size_human": "3.5 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "E87-15-3020-FT-026-000003-5 P&ID",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 539,
+  "token_estimate": 134,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/5060bafe6d02f0f2.json",
+  "extracted_path": ".yeyo-memory/extracted/5060bafe6d02f0f2.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "CreationDate": "D:20260416145510Z",
+      "Creator": "AutoCAD 2024 - Español (Spanish) 2024 (24.3s (LMS Tech))",
+      "ModDate": "D:20260416151704+02'00'",
+      "Producer": "pdfplot16.hdi 16.03.171.00000",
+      "Title": "Modelo"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.994976+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.994978+00:00"
+}

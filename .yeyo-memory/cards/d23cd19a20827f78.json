@@ -1,0 +1,29 @@
+{
+  "id": "d23cd19a20827f78",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.4 Certificado pyc SE Col.PDF",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 122421,
+  "size_human": "120 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.2.4 Certificado pyc SE Col",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12738,
+  "token_estimate": 3184,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/d23cd19a20827f78.json",
+  "extracted_path": ".yeyo-memory/extracted/d23cd19a20827f78.txt",
+  "metadata": {
+    "pages": 11,
+    "pdf_metadata": {
+      "ModDate": "D:20111223085504+01'00'",
+      "Producer": "PDF-XChange 4.0.199.0 (Windows XP Professional Service Pack 3 (Build 2600))",
+      "CreationDate": "D:20111223085358+01'00'",
+      "PXCViewerInfo": "PDF-XChange Viewer;2.5.199.0;Sep 27 2011;19:41:29;D:20111223085504+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:57.435255+00:00"
+}

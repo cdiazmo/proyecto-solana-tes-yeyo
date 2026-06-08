@@ -1,0 +1,31 @@
+{
+  "id": "240448c1a6a45386",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.4 Acreditacion instalador.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 759851,
+  "size_human": "742 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.3.4 Acreditacion instalador",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/240448c1a6a45386.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Author": "Juan",
+      "CreationDate": "D:20110302111419+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20110302111419+01'00'",
+      "Producer": "GPL Ghostscript 8.15",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:21.608313+00:00"
+}

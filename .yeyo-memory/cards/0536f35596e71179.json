@@ -1,0 +1,31 @@
+{
+  "id": "0536f35596e71179",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.4 Cert OCA.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1458440,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.6.4 Cert OCA",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/0536f35596e71179.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Canon iR C2380",
+      "CreationDate": "D:20120514115403+02'00'",
+      "Author": "",
+      "Producer": "Canon iR C2380",
+      "Title": "",
+      "Subject": "Image"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:01.904748+00:00"
+}

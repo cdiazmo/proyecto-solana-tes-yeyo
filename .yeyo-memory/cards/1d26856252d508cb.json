@@ -1,0 +1,31 @@
+{
+  "id": "1d26856252d508cb",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.5 Formulario PS.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 11772494,
+  "size_human": "11 MB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.3.5 Formulario PS",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/1d26856252d508cb.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 9,
+    "pdf_metadata": {
+      "Author": "cgrpm",
+      "CreationDate": "D:20110302112325+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20110302112325+01'00'",
+      "Producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:21.643401+00:00"
+}

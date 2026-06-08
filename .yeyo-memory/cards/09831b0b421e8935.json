@@ -1,0 +1,28 @@
+{
+  "id": "09831b0b421e8935",
+  "path": "Documentos en Servidor Atlántica/Comentarios documentación Lointek - 260428.xlsx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "xlsx",
+  "size_bytes": 21740,
+  "size_human": "21 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "Comentarios documentación Lointek - 260428",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 9944,
+  "token_estimate": 2486,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/09831b0b421e8935.json",
+  "extracted_path": ".yeyo-memory/extracted/09831b0b421e8935.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Hoja1",
+        "rows_seen": 37,
+        "non_empty_rows": 37
+      }
+    ]
+  },
+  "processed_at": "2026-06-08T18:29:58.572176+00:00"
+}

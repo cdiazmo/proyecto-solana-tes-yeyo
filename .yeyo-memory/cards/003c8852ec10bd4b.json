@@ -1,0 +1,28 @@
+{
+  "id": "003c8852ec10bd4b",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/111115 Boletín baja tensión.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 419482,
+  "size_human": "410 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "111115 Boletín baja tensión",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/003c8852ec10bd4b.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20111216094617+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:49.886305+00:00"
+}

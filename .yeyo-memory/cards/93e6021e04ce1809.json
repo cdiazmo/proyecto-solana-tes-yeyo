@@ -1,0 +1,32 @@
+{
+  "id": "93e6021e04ce1809",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.2 CDO AT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 272650,
+  "size_human": "266 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.3.2 CDO AT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3036,
+  "token_estimate": 759,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/93e6021e04ce1809.json",
+  "extracted_path": ".yeyo-memory/extracted/93e6021e04ce1809.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20120224153158Z",
+      "Author": "cgaam",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20120227094403+01'00'",
+      "Title": ""
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:39:31.734143+00:00"
+}

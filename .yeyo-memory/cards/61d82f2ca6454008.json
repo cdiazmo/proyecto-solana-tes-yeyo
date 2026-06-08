@@ -1,0 +1,29 @@
+{
+  "id": "61d82f2ca6454008",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.6 Protocolo ensayo.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 3915954,
+  "size_human": "3.7 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.2.6 Protocolo ensayo",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/61d82f2ca6454008.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 50,
+    "pdf_metadata": {
+      "CreationDate": "D:20110608132748+01'00'",
+      "Creator": "Canon iR2525",
+      "ModDate": "D:20110608133005+02'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:31.479125+00:00"
+}

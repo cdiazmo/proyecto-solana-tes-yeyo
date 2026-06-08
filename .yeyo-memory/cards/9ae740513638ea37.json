@@ -1,0 +1,30 @@
+{
+  "id": "9ae740513638ea37",
+  "path": "Documentos en Servidor Atlántica/1950801-TN-3000-00-Rev.01-Memoria Técnica.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 2321486,
+  "size_human": "2.2 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-TN-3000-00-Rev.01-Memoria Técnica",
+  "doc_code": null,
+  "revision": "Rev.01",
+  "status": "ok",
+  "text_chars": 37510,
+  "token_estimate": 9377,
+  "chunks": 24,
+  "card_path": ".yeyo-memory/cards/9ae740513638ea37.json",
+  "extracted_path": ".yeyo-memory/extracted/9ae740513638ea37.txt",
+  "metadata": {
+    "pages": 19,
+    "pdf_metadata": {
+      "Author": "Asier Aurrekoetxea Palacios",
+      "CreationDate": "D:20260427165017+02'00'",
+      "ModDate": "D:20260427165017+02'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": "Microsoft Word - 1950801-TN-3000-00-Rev.01-Memoria TÃ©cnica"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:27:53.296575+00:00"
+}

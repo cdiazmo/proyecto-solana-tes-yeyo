@@ -1,0 +1,28 @@
+{
+  "id": "b942f44ff0a3c0d2",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.9 APM.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 270835,
+  "size_human": "264 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.5.9 APM",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4129,
+  "token_estimate": 1032,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/b942f44ff0a3c0d2.json",
+  "extracted_path": ".yeyo-memory/extracted/b942f44ff0a3c0d2.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "slamp",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:47.158746+00:00"
+}

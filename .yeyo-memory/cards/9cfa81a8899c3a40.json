@@ -29,7 +29,7 @@
     "plan_tag": {
       "kind": "Tanque / drain back tank",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:59.568964+00:00",
+      "tagged_at": "2026-06-08T18:41:16.212788+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -165,5 +165,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:59.568965+00:00"
+  "processed_at": "2026-06-08T18:41:16.212789+00:00"
 }

@@ -1,0 +1,33 @@
+{
+  "id": "955a21b8b51a62fd",
+  "path": "Helios Sole/SE Colectora/Solicitud APM linea auxiliar SE Colectora.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 120775,
+  "size_human": "118 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "Solicitud APM linea auxiliar SE Colectora",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 19520,
+  "token_estimate": 4880,
+  "chunks": 13,
+  "card_path": ".yeyo-memory/cards/955a21b8b51a62fd.json",
+  "extracted_path": ".yeyo-memory/extracted/955a21b8b51a62fd.txt",
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120215165354+01'00'",
+      "ModDate": "D:20120215165354+01'00'",
+      "Title": "Formulario Registro PM Instalaciones.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:57.250826+00:00"
+}

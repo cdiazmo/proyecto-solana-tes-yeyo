@@ -1,0 +1,28 @@
+{
+  "id": "31f41b1610e72e4d",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/Solicitud Industria.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 123602,
+  "size_human": "121 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "Solicitud Industria",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 944,
+  "token_estimate": 236,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/31f41b1610e72e4d.json",
+  "extracted_path": ".yeyo-memory/extracted/31f41b1610e72e4d.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Angel Ramon Menor Pozo",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:50.861972+00:00"
+}

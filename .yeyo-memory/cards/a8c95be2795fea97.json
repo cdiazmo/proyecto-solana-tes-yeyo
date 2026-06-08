@@ -1,0 +1,33 @@
+{
+  "id": "a8c95be2795fea97",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.1 Proyecto AA SE col.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 3381100,
+  "size_human": "3.2 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.2.1 Proyecto AA SE col",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 159573,
+  "token_estimate": 39893,
+  "chunks": 101,
+  "card_path": ".yeyo-memory/cards/a8c95be2795fea97.json",
+  "extracted_path": ".yeyo-memory/extracted/a8c95be2795fea97.txt",
+  "metadata": {
+    "pages": 86,
+    "pdf_metadata": {
+      "Author": "sergio",
+      "CreationDate": "D:20101013131650+02'00'",
+      "Creator": "C:\\Archivos de programa\\Microsoft Office\\Office12\\WINWORD.EXE",
+      "Producer": "StampPDF Batch 4.0.4 Windows SPDF_1096+ May 4 2004",
+      "Title": "Microsoft Word - SUBESTACION HELIOS.doc",
+      "ModDate": "D:20101013190601+02'00'",
+      "SPDF": "1096"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:31:57.274046+00:00"
+}

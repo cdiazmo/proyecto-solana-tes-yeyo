@@ -1,0 +1,32 @@
+{
+  "id": "ac36b17287ac81e8",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.4 Certificado pruebas LSAT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1102023,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.1.4 Certificado pruebas LSAT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 15502,
+  "token_estimate": 3875,
+  "chunks": 10,
+  "card_path": ".yeyo-memory/cards/ac36b17287ac81e8.json",
+  "extracted_path": ".yeyo-memory/extracted/ac36b17287ac81e8.txt",
+  "metadata": {
+    "pages": 21,
+    "pdf_metadata": {
+      "CreationDate": "D:20120123192102+01'00'",
+      "Author": "104865",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "Producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "ModDate": "D:20120123192305+01'00'",
+      "Title": "Microsoft Word - Informe INABENSA HELIOS 2 - 220 kV.doc"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:39:24.052739+00:00"
+}

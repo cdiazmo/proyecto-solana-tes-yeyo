@@ -1,0 +1,34 @@
+{
+  "id": "31c25047203f15c3",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.2 CDO.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 58851,
+  "size_human": "57 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.6.2 CDO",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4415,
+  "token_estimate": 1103,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/31c25047203f15c3.json",
+  "extracted_path": ".yeyo-memory/extracted/31c25047203f15c3.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Emilio",
+      "Producer": "GPL Ghostscript 9.02",
+      "ModDate": "D:20120509183806+02'00'",
+      "Keywords": "",
+      "Creator": "PDFCreator Version 1.2.2",
+      "Title": "CERTIFICADO DIRECCIÓN DE OBRA POZO 5.pdf",
+      "Subject": "",
+      "CreationDate": "D:20120509131724+02'00'"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:39:01.821692+00:00"
+}

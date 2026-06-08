@@ -1,0 +1,28 @@
+{
+  "id": "e00f7e0051dc36f0",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.7 Formulario LAT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 379861,
+  "size_human": "371 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.1.7 Formulario LAT",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/e00f7e0051dc36f0.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120120121502+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:24.286244+00:00"
+}

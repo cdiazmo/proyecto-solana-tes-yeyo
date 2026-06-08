@@ -1,0 +1,30 @@
+{
+  "id": "1f1c3b5a7b3aad80",
+  "path": "Helios Sole/LSAT Helios II/120131 Solicitud APM  LSAT Helios II.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 498593,
+  "size_human": "487 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "120131 Solicitud APM LSAT Helios II",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 12840,
+  "token_estimate": 3210,
+  "chunks": 8,
+  "card_path": ".yeyo-memory/cards/1f1c3b5a7b3aad80.json",
+  "extracted_path": ".yeyo-memory/extracted/1f1c3b5a7b3aad80.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "ModDate": "D:20120201090526+01'00'",
+      "CreationDate": "D:20120201090444+01'00'",
+      "Author": "slamp",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:34.548660+00:00"
+}

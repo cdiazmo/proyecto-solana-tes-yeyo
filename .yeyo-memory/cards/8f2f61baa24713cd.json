@@ -1,0 +1,35 @@
+{
+  "id": "8f2f61baa24713cd",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-PPI-001 Rev.00 - PPI MONTAJE.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 896545,
+  "size_human": "876 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-PPI-001 Rev.00 - PPI MONTAJE",
+  "doc_code": null,
+  "revision": "Rev.00",
+  "status": "ok",
+  "text_chars": 4183,
+  "token_estimate": 1045,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/8f2f61baa24713cd.json",
+  "extracted_path": ".yeyo-memory/extracted/8f2f61baa24713cd.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "Begoña Egurbide",
+      "Company": "SENER",
+      "CreationDate": "D:20260401082416+02'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "Keywords": "",
+      "ModDate": "D:20260401082436+02'00'",
+      "Producer": "Adobe PDF Library 17.11.238",
+      "SourceModified": "D:20260401062407",
+      "Subject": "",
+      "Title": "Manual de Organización de ZABALGARBI"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:24.798851+00:00"
+}

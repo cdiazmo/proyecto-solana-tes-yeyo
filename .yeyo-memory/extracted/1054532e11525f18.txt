@@ -1,0 +1,984 @@
+[page 1]
+Informe nº: 28/99/0XXX/11 
+Página 1 de 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EDIFICIO ELECTRICO I EN PLANTA TERMOSOLAR 
+HELIOS II 
+911/168885/12-3 
+ 
+ANGEL GARCIA GIL 
+ALBERTO RODRIGO VAQUERO 
+
+[page 2]
+Informe nº: 911/168885/12-3 
+ 
+ Página 2 de 8 
+ 
+ÍNDICE 
+ 
+ 
+1.- INTRODUCCIÓN 
+ 
+ 
+2.- REGLAMENTACIÓN APLICABLE 
+ 
+ 
+3.- MEDIDAS REALIZADAS. 
+ 
+ 
+ 3.1.- MEDIDAS DE TENSIONES DE PASO Y CONTACTO 
+ 
+ 3.2.- MEDIDA DE RESISTENCIA DE PUESTA A TIERRA 
+ 
+ 
+4.- OBSERVACIONES 
+ 
+ANEXO I: PUNTOS DE MEDICIÓN EN PLANO DE PLANTA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+Informe nº: 911/168885/12-3 
+ 
+ Página 3 de 8 
+ 
+ 
+ 
+1.-INTRODUCCIÓN.
+ 
+ 
+Este informe recoge el resultado de las medidas de tensi ones de Paso y 
+Contacto y medida de Resistencia de Puesta a Tierra real izada por SGS 
+Inspecciones Reglamentarias, S.A. en calidad de OCA en e l Edificio Eléctrico 
+I de la Planta Termosolar Helios II ubicada en el tér mino municipal de Arenas 
+de San Juan (Ciudad Real). 
+Dichas medidas se efectuaron el día 29 de Febrero de 2012. 
+ 
+2.-REGLAMENTACIÓN APLICABLE.
+ 
+ 
+• Reglamento sobre Condiciones Técnicas y Garantías de Seg uridad en 
+Centrales Eléctricas, Subestaciones y Centros de Transforma ción e 
+Instrucciones Técnicas Reglamentarias (Diciembre-1982). 
+ 
+• Reglamento Electrotécnico para baja tensión e Instruccio nes Técnicas 
+Complementarias. 
+ 
+• Procedimiento, de SGS-Inspecciones Reglamentarias, de i nspección 
+reglamentaria de instalaciones eléctricas de alta tensión. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+Informe nº: 911/168885/12-3 
+ 
+ Página 4 de 8 
+ 
+3.-MEDIDAS REALIZADAS. 
+ 
+A continuación se desglosan las medidas realizadas en la instalación de 
+referencia. 
+ 
+ 
+ 
+3.1.- MEDIDA DE TENSIONES DE PASO Y CONTACTO 
+ 
+Las medidas de tensiones de paso y contacto, se han realiz ado de acuerdo 
+con lo indicado en la Instrucción Técnica MIE RAT 13, Apd o. 8.1 es decir: 
+Electrodos de medida de 200 cm 2, fuerza mínima ejercida sobre el suelo por 
+cada electrodo superior a 25 kg y método de ensayo por i nversión de 
+polaridad. 
+ 
+Como red auxiliar de inyección, se han utilizado picas auxiliares. 
+ 
+Por este circuito auxiliar se ha inyectado una intensidad de entorno al valor de 
+5,1 A, siendo un valor aceptado por el RCE, MIE-RAT 13.8.1. 
+ 
+Las medidas se han efectuado por el interior del Edifi co Eléctrico I prestando 
+especial atención a todas aquellas zonas donde se prevea la posible aparición 
+de tensiones elevadas. 
+ 
+En las hojas de medida que se incluyen a continuación, se indican todas las 
+medidas efectuadas y los resultados obtenidos en cada una de ellas. En estas 
+hojas de medida se indican los aspectos siguientes: 
+ 
+Punto medido: indicando de forma escueta el punto donde se ha efectu ado 
+la medida. Están numerados correlativamente. 
+
+[page 5]
+Informe nº: 911/168885/12-3 
+ 
+ Página 5 de 8 
+ 
+Tipo de medida: indica el tipo de medida, de acuerdo a las abreviatur as 
+siguientes: 
+ 
+· P: tensión de paso. 
+· C: tensión de contacto. 
+· DDP: diferencia de potencial (entre dos elementos metálicos). 
+ 
+Suelo: Indica el tipo de suelo sobre el que se sitúan los elect rodos de 
+medida, de acuerdo a las abreviaturas siguientes: 
+ 
+· G : grava. 
+· C : cemento. 
+· T : tierra. 
+· M: metal. 
+· GO : goma. 
+· H : hierba. 
+· B : baldosa. 
+· A: asfalto. 
+ 
+Ie: Intensidad de ensayo, en amperios. 
+ 
+Tensión resultante a I e.: Es la tensión, en milivoltios, que se obtiene en las 
+medidas: 
+ 
+· V o : tensión errática, sin inyectar corriente. 
+· V1 y V2 : tensión de ensayo invirtiendo la polari dad. 
+· V : tensión resultante , es la suma vectorial de Vo , V1 y V2 
+ aplicando la ecuación: 
+ 
+ 
+V V Vo= + −V 1
+2
+2
+2
+2
+2
+ 
+
+[page 6]
+Informe nº: 911/168885/12-3 
+ 
+ Página 6 de 8 
+ 
+Tensión extrapolada a If.: Es la tensión previsible en la instalación en caso 
+de falta real. 
+ 
+Para el cálculo de la intensidad de falta real, y de l a tensión máxima admisible 
+en la instalación, se han utilizado los datos siguientes: 
+ 
+ 
+· I. falta real: 7600 A. 
+ 
+· Tiempo de actuación protecciones: 0,5 seg. 
+ 
+De acuerdo a estos datos, y según lo indicado en la Instru cción MIE RAT 13, 
+Apdo. 1.1 y Apdo. 5., la tensión máxima admisible en la instalación será de: 
+ 
+V k
+t n= 
+ 
+siendo k = 72 y n = 1 para 0,1 seg. ≤ t ≤ 0,9 seg., luego para t = 0,5 seg. la 
+tensión máxima admisible en la instalación será de 144 V 
+ 
+ 
+ 
+ Los equipos utilizados para la realización de las medidas han sido los siguientes: 
+ 
+Polímetro: 911-0521 
+Pinza amperimétrica: 911-0508 
+ 
+
+[page 7]
+Informe nº: 911/168885/12-3 
+ 
+ Página 7 de 8 
+ 
+EMPRESA :Helios II Hyperion Energy Investment, S.L. INTENSIDAD FALTA REAL (A) 7.600
+INSTALACION :EDIFICIO ELECTRICO I PLANTA TERMOSOLAR HELIOS II I. DE FALTA PARA CALCULO (A) 7.600
+RED DE INYECCION :RED GENERALTIERRAS TIEMPO DISPARO PROTECCION (s) 0,5
+RED AUXILIAR DE INYECCION :PICAS AUXILIARES. TENSION MAX. ADM. (a If) (V) 144
+TIPO Ie TENSION RESULTANTE A Ie (mv) TENSION
+PUNTO DESCRIPCION DEL PUNTO SUELO EXTRAPOL
+MEDIDA (A) V0 V1 V2 V a If (V)
+1 ESCALERA ENTRADA EDIFICIO P C-C 5,1 0 0 0 0 0
+2 ESCALERA ENTRADA EDIFICIO C C-M 5,1 0 56 56 56 83
+3 PUERTA ENTRADA EXTERIOR EDIFICIO P M-M 5,1 0 0 0 0 0
+4 PUERTA ENTRADA EXTERIOR EDIFICIO C M-M 5,1 0 0 0 0 0
+5 PUERTA ENTRADA - ESCALERA DE ENTRADA DDP M-M 5,1 0 0 0 0 0
+6 PUERTA ENTRADA INTERIOR P C-C 5,1 0 0 0 0 0
+7 PUERTA ENTRADA INTERIOR C C-M 5,1 0 0 0 0 0
+8 CABINAS 15 KV HELIOS II P C-C 5,1 0 0 0 0 0
+9 CABINAS 15 KV HELIOS II C C-M 5,1 0 1 1 1 1
+10 CUADROS UPS P C-C 5,1 1 1 1 0 0
+11 CUADROS UPS C C-M 5,1 1 2 2 2 3
+12 CUADRO DISTRIBUCION SAI P M-M 5,1 0 0 0 0 0
+13 CUADRO DISTRIBUCION SAI C M-M 5,1 0 0 0 0 0
+14 CABINAS: EQUIPO Nº1/DISTRIBUCION/EQUIPO Nº2 P C-C 5,1 0 0 0 0 0
+15 CABINAS: EQUIPO Nº1/DISTRIBUCION/EQUIPO Nº2 C C-M 5,1 0 0 0 0 0
+16 PUNTO ANTERIOR - CUADRO DISTRIBUCION SAI DDP C-M 5,1 0 0 0 0 0
+17 CABINAS Q1CSA01 P C-C 5,1 0 0 0 0 0
+18 CABINAS Q1CSA01 C C-M 5,1 0 0 0 0 0
+19 CCM HELIOS II P C-C 5,1 0 0 0 0 0
+20 CCM HELIOS II C C-M 5,1 0 0 0 0 0
+21 PUERTA TRASERA EDIFICIO P M-M 5,1 0 0 0 0 0
+22 PUERTA TRASERA EDIFICIO C M-M 5,1 0 0 0 0 0
+23 SOPORTE CABLES A.T. P M-M 5,1 0 0 0 0 0
+24 SOPORTE CABLES A.T. C M-M 5,1 0 0 0 0 0
+25 SOPORTE CABLES A.T.- CABINAS 15 KV DDP M-M 5,1 0 0 0 0 0
+26 SOPORTE CABLES A.T.- CCM HELIOS II DDP M-M 5,1 1 1 1 0 0
+27 ARMARIO BATERIAS Q1BTA20 P C-C 5,1 0 0 0 0 0
+28 ARMARIO BATERIAS Q1BTA20 C C-M 5,1 0 0 0 0 0
+29 ARMARIO BATERIAS Q1BTA10 P C-C 5,1 0 0 0 0 0
+30 ARMARIO BATERIAS Q1BTA10 C C-M 5,1 0 0 0 0 0
+31 ARMARIO BAT. Q1BTA20 - ARMARIO BAT. Q1BTA10 DDP M-M 5,1 0 0 0 0 0
+32 ARMARIO BATERIAS Q1BTA40 P M-M 5,1 0 0 0 0 0
+33 ARMARIO BATERIAS Q1BTA40 C M-M 5,1 0 0 0 0 0
+34 ARMARIO BATERIAS Q1BTA30 P M-M 5,1 0 0 0 0 0
+35 ARMARIO BATERIAS Q1BTA30 C M-M 5,1 0 0 0 0 0
+36 BATERIAS Q1BTA40 - BATERIAS Q1BTA30 DDP M-M 5,1 0 0 0 0 0
+MEDIDAS DE TENSIONES DE PASO Y CONTACTO
+ 
+
+[page 8]
+Informe nº: 911/168885/12-3 
+ 
+ Página 8 de 8 
+3.2.- MEDIDA DE RESISTENCIA DE PUESTA A TIERRA 
+ 
+ 
+TITULAR: Helios II Hyperion Energy Investment, S.L. 
+INSTALACION: EDIFICIO ELECTRICO I PLANTA TERMOSOLAR HELIOS II 
+ 
+ 
+CIRCUITO VALOR (ΩΩ ΩΩ) 
+HERRAJES A.T. CIRCUITO CERRADO 0,37 
+ 
+EQUIPOS DE MEDIDA : TELUROMETRO 911 – 0421 
+ 
+OBSERVACIONES : ESTADO DEL TERRENO: SECO 
+ 
+ 
+ 
+4.- OBSERVACIONES.
+ 
+ 
+Las medidas en el interior del Edificio Eléctrico I se r ealizan sobre suelo 
+cemento al no estar instalado el suelo técnico. 
+ 
+De acuerdo a los valores obtenidos durante la realizació n de las medidas de 
+Tensiones de Paso y Contacto en el Edificio Eléctrico I d e la Planta 
+Termosolar “Helios II” se observa que el resultado del ensayo es 
+Satisfactorio. 
+ 
+ 
+ 
+ 
+Fdo. Angel García Gil 
+Fdo. Alberto Rodrigo Vaquero 
+SGS Inspecciones Reglamentarias, S.A. 
+Delegación Madrid. 
+
+[page 9]
+Informe nº: 28/99/0XXX/11 
+Página 1 de 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EDIFICIO ELECTRICO II EN PLANTA TERMOSOLAR 
+HELIOS II 
+911/168885/12-4 
+ 
+ANGEL GARCIA GIL 
+ALBERTO RODRIGO VAQUERO 
+
+[page 10]
+Informe nº: 911/168885/12-4 
+ 
+ Página 2 de 9 
+ 
+ÍNDICE 
+ 
+ 
+1.- INTRODUCCIÓN 
+ 
+ 
+2.- REGLAMENTACIÓN APLICABLE 
+ 
+ 
+3.- MEDIDAS REALIZADAS. 
+ 
+ 
+ 3.1.- MEDIDAS DE TENSIONES DE PASO Y CONTACTO 
+ 
+ 3.2.- MEDIDA DE RESISTENCIA DE PUESTA A TIERRA 
+ 
+ 
+4.- OBSERVACIONES 
+ 
+ANEXO I: PUNTOS DE MEDICIÓN EN PLANO DE PLANTA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 11]
+Informe nº: 911/168885/12-4 
+ 
+ Página 3 de 9 
+ 
+ 
+ 
+1.-INTRODUCCIÓN.
+ 
+ 
+Este informe recoge el resultado de las medidas de tensi ones de Paso y 
+Contacto y medida de Resistencia de Puesta a Tierra real izada por SGS 
+Inspecciones Reglamentarias, S.A. en calidad de OCA en e l Edificio Eléctrico 
+II de la Planta Termosolar Helios II ubicada en el té rmino municipal de Arenas 
+de San Juan (Ciudad Real). 
+Dichas medidas se efectuaron el día 29 de Febrero de 2012. 
+ 
+2.-REGLAMENTACIÓN APLICABLE.
+ 
+ 
+• Reglamento sobre Condiciones Técnicas y Garantías de Seg uridad en 
+Centrales Eléctricas, Subestaciones y Centros de Transforma ción e 
+Instrucciones Técnicas Reglamentarias (Diciembre-1982). 
+ 
+• Reglamento Electrotécnico para baja tensión e Instruccio nes Técnicas 
+Complementarias. 
+ 
+• Procedimiento, de SGS-Inspecciones Reglamentarias, de i nspección 
+reglamentaria de instalaciones eléctricas de alta tensión. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 12]
+Informe nº: 911/168885/12-4 
+ 
+ Página 4 de 9 
+ 
+ 
+3.-MEDIDAS REALIZADAS. 
+ 
+A continuación se desglosan las medidas realizadas en la instalación de 
+referencia. 
+ 
+ 
+ 
+3.1.- MEDIDA DE TENSIONES DE PASO Y CONTACTO 
+ 
+Las medidas de tensiones de paso y contacto, se han real izado de 
+acuerdo con lo indicado en la Instrucción Técnica MIE RAT 1 3, Apdo. 8.1 es 
+decir: Electrodos de medida de 200 cm 2, fuerza mínima ejercida sobre el 
+suelo por cada electrodo superior a 25 kg y método de e nsayo por inversión 
+de polaridad. 
+ 
+Como red auxiliar de inyección, se han utilizado picas auxiliares. 
+ 
+Por este circuito auxiliar se ha inyectado una intensidad de entorno al valor de 
+5,6 A, siendo un valor aceptado por el RCE, MIE-RAT 13.8.1. 
+ 
+Las medidas se han efectuado por el interior del Edifico Eléctrico II así como 
+los punto indicados en la tabla que se encuentran en el exterior del Edificio; 
+prestando especial atención a todas aquellas zonas donde se prevea la 
+posible aparición de tensiones elevadas. 
+ 
+En las hojas de medida que se incluyen a continuación, se indican todas las 
+medidas efectuadas y los resultados obtenidos en cada una de ellas. En estas 
+hojas de medida se indican los aspectos siguientes: 
+ 
+Punto medido: indicando de forma escueta el punto donde se ha efectu ado 
+la medida. Están numerados correlativamente. 
+
+[page 13]
+Informe nº: 911/168885/12-4 
+ 
+ Página 5 de 9 
+ 
+Tipo de medida: indica el tipo de medida, de acuerdo a las abreviatur as 
+siguientes: 
+ 
+· P: tensión de paso. 
+· C: tensión de contacto. 
+· DDP: diferencia de potencial (entre dos elementos metálicos). 
+ 
+Suelo: Indica el tipo de suelo sobre el que se sitúan los elect rodos de 
+medida, de acuerdo a las abreviaturas siguientes: 
+ 
+· G : grava. 
+· C : cemento. 
+· T : tierra. 
+· M: metal. 
+· GO : goma. 
+· H : hierba. 
+· B : baldosa. 
+· A: asfalto. 
+ 
+Ie: Intensidad de ensayo, en amperios. 
+ 
+Tensión resultante a I e.: Es la tensión, en milivoltios, que se obtiene en las 
+medidas: 
+ 
+· V o : tensión errática, sin inyectar corriente. 
+· V1 y V2 : tensión de ensayo invirtiendo la polari dad. 
+· V : tensión resultante , es la suma vectorial de Vo , V1 y V2 
+ aplicando la ecuación: 
+ 
+ 
+V V Vo= + −V 1
+2
+2
+2
+2
+2
+ 
+
+[page 14]
+Informe nº: 911/168885/12-4 
+ 
+ Página 6 de 9 
+ 
+Tensión extrapolada a If.: Es la tensión previsible en la instalación en caso 
+de falta real. 
+ 
+Para el cálculo de la intensidad de falta real, y de l a tensión máxima admisible 
+en la instalación, se han utilizado los datos siguientes: 
+ 
+ 
+· I. falta real: 7600 A. 
+ 
+· Tiempo de actuación protecciones: 0,5 seg. 
+ 
+De acuerdo a estos datos, y según lo indicado en la Instru cción MIE RAT 13, 
+Apdo. 1.1 y Apdo. 5., la tensión máxima admisible en la instalación será de: 
+ 
+V k
+t n= 
+ 
+siendo k = 72 y n = 1 para 0,1 seg. ≤ t ≤ 0,9 seg., luego para t = 0,5 seg. la 
+tensión máxima admisible en la instalación será de 144 V 
+ 
+ 
+ 
+ Los equipos utilizados para la realización de las medidas han sido los siguientes: 
+ 
+Polímetro: 911-0521 
+Pinza amperimétrica: 911-0508 
+
+[page 15]
+Informe nº: 911/168885/12-4 
+ 
+ Página 7 de 9 
+ 
+ 
+ 
+EMPRESA : Helios II Hyperion Energy Investment, S.L. INTENSIDAD FALTA REAL (A)
+7.600
+INSTALACION : EDIFICIO ELECTRICO II PLANTA TERMOSOLAR HELIOS II I. DE FALTA PARA CALCULO (A) 7.600
+RED DE INYECCION : RED GENERALTIERRAS TIEMPO DISPARO PROTECCION (s) 0,5
+RED AUXILIAR DE INYECCION : PICAS AUXILIARES. TENSION MAX. ADM. (a If) (V) 144
+TIPO Ie TENSION RESULTANTE A Ie (mv) TENSION
+PUNTO DESCRIPCION DEL PUNTO SUELO EXTRAPOL
+MEDIDA (A) V0 V1 V2 V a If (V)
+1 ESCALERA ACCESO P C-C 5,6 0 0 0 0 0
+2 ESCALERA ACCESO C C-M 5,6 0 0 0 0 0
+3 ESCALERA ACCESO - PUERTA EDIFICIO DDP M-M 5,6 0 0 0 0 0
+4 PUERTA EDIFICIO EXTERIOR P M-M 5,6 0 0 0 0 0
+5 PUERTA EDIFICIO EXTERIOR C M-M 5,6 0 0 0 0 0
+6 CGBT Q1BMA20 HELIOS II P M-M 5,6 0 0 0 0 0
+7 CGBT Q1BMA20 HELIOS II C M-M 5,6 0 0 0 0 0
+8 CGBT Q1BFA30 HELIOS II P C-C 5,6 0 0 0 0 0
+9 CGBT Q1BFA30 HELIOS II C C-M 5,6 0 0 0 0 0
+10 CGBT Q1BMA20 - Q1BFA30 DDP M-M 5,6 0 0 0 0 0
+11 Q1BJE14 P C-C 5,6 0 0 0 0 0
+12 Q1BJE14 C C-M 5,6 0 0 0 0 0
+13 CCM N1BJA10 HELIOS II P C-C 5,6 0 0 0 0 0
+14 CCM N1BJA10 HELIOS II C C-M 5,6 0 0 0 0 0
+15 CUADRO Q1BJ (E07 A E24) P M-M 5,6 0 0 0 0 0
+16 CUADRO Q1BJ (E07 A E24) C M-M 5,6 0 0 0 0 0
+17 CUADRO Q1BJE26 P M-M 5,6 1 1 1 0 0
+18 CUADRO Q1BJE26 C M-M 5,6 0 0 0 0 0
+19 CUADRO Q1BJE38/29/32 P C-C 5,6 1 1 1 0 0
+20 CUADRO Q1BJE38/29/32 C C-M 5,6 0 0 0 0 0
+21 CUADRO Q1BJE26 - CUADRO Q1BJE38/29/32 DDP M-M 5,6 0 0 0 0 0
+22 CUADRO Q1BJE27/25 P M-M 5,6 1 1 1 0 0
+23 CUADRO Q1BJE27/25 C M-M 5,6 24 24 24 0 0
+24 CUADRO Q1BJE37/31/30 P M-M 5,6 1 1 1 0 0
+25 CUADRO Q1BJE37/31/30 C M-M 5,6 5 5 5 0 0
+26 CUADRO Q1CSA02 P C-C 5,6 0 0 0 0 0
+27 CUADRO Q1CSA02 C C-M 5,6 0 0 0 0 0
+28 CGBT Q1BFA50 HELIOS II P M-M 5,6 0 0 0 0 0
+29 CGBT Q1BFA50 HELIOS II C M-M 5,6 0 1 1 1 1
+30 CGBT Q1BFA40 HELIOS II P M-M 5,6 7 7 7 0 0
+31 CGBT Q1BFA40 HELIOS II C M-M 5,6 6 8 8 5 7
+32 CGBT Q1BFA50 - Q1BFA40 DDP M-M 5,6 1 1 1 0 0
+33 VIGA METALICA EN PARED POSTERIOR P M-M 5,6 0 0 0 0 0
+34 VIGA METALICA EN PARED POSTERIOR C M-M 5,6 1 1 1 0 0
+35 VIGA METALICA - Q1BJE33 DDP M-M 5,6 1 1 1 0 0
+36 Q1BJE33 P M-M 5,6 0 0 0 0 0
+37 Q1BJE33 C M-M 5,6 1 1 1 0 0
+38 Q1BLA12 P M-M 5,6 1 1 1 0 0
+MEDIDAS DE TENSIONES DE PASO Y CONTACTO
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 16]
+Informe nº: 911/168885/12-4 
+ 
+ Página 8 de 9 
+ 
+EMPRESA : Helios II Hyperion Energy Investment, S.L. INTENSIDAD FALTA REAL (A) 7.600
+INSTALACION : EDIFICIO ELECTRICO II PLANTA TERMOSOLAR HELIOS II I. DE FALTA PARA CALCULO (A) 7.600
+RED DE INYECCION : RED GENERALTIERRAS TIEMPO DISPARO PROTECCION (s) 0,5
+RED AUXILIAR DE INYECCION : PICAS AUXILIARES. TENSION MAX. ADM. (a If) (V) 144
+TIPO Ie TENSION RESULTANTE A Ie (mv) TENSION
+PUNTO DESCRIPCION DEL PUNTO SUELO EXTRAPOL
+MEDIDA (A) V0 V1 V2 V a If (V)
+39 Q1BLA12 C M-M 5,6 0 0 0 0 0
+40 PUERTA TRAFO 1 DERECHA EXTERIOR P C-C 5,6 1 1 1 0 0
+41 PUERTA TRAFO 1 DERECHA EXTERIOR C C-M 5,6 0 0 0 0 0
+42 PUERTA TRAFO 1 DERECHA INTERIOR P G-G 5,6 0 0 0 0 0
+43 PUERTA TRAFO 1 DERECHA INTERIOR C G-M 5,6 0 0 0 0 0
+44 TRAFO 1 DERECHA - VALLA DDP M-M 5,6 1 1 1 0 0
+45 TRAFO 1 DERECHA P G-G 5,6 1 1 1 0 0
+46 TRAFO 1 DERECHA C G-M 5,6 9 9 9 0 0
+47 PUERTA TRAFO 2 DERECHA EXTERIOR P C-C 5,6 0 0 0 0 0
+48 PUERTA TRAFO 2 DERECHA EXTERIOR C C-M 5,6 0 0 0 0 0
+49 PUERTA TRAFO 2 DERECHA INTERIOR P G-G 5,6 1 1 1 0 0
+50 PUERTA TRAFO 2 DERECHA INTERIOR C G-M 5,6 0 0 0 0 0
+51 TRAFO 2 DERECHA - VALLA DDP M-M 5,6 1 2 2 2 2
+52 TRAFO 2 DERECHA P G-G 5,6 1 1 1 0 0
+53 TRAFO 2 DERECHA C G-M 5,6 1 2 2 2 2
+54 PUERTA TRAFO 1 IZQUIERDA EXTERIOR P C-C 5,6 0 0 0 0 0
+55 PUERTA TRAFO 1 IZQUIERDA EXTERIOR C C-M 5,6 0 7 7 7 10
+56 PUERTA TRAFO 1 IZQUIERDA INTERIOR P G-G 5,6 0 0 0 0 0
+57 PUERTA TRAFO 1 IZQUIERDA INTERIOR C G-M 5,6 0 0 0 0 0
+58 TRAFO 1 IZQUIERDA - VALLA DDP M-M 5,6 1 1 1 0 0
+59 TRAFO 1 IZQUIERDA P G-G 5,6 1 1 1 0 0
+60 TRAFO 1 IZQUIERDA C G-M 5,6 3 3 3 0 0
+61 PUERTA TRAFO 2 IZQUIERDA EXTERIOR P C-C 5,6 0 0 0 0 0
+62 PUERTA TRAFO 2 IZQUIERDA EXTERIOR C C-M 5,6 0 12 12 12 16
+63 PUERTA TRAFO 2 IZQUIERDA INTERIOR P G-G 5,6 1 1 1 0 0
+64 PUERTA TRAFO 2 IZQUIERDA INTERIOR C G-M 5,6 3 4 4 3 4
+65 TRAFO 2 IZQUIERDA - VALLA DDP M-M 5,6 0 0 0 0 0
+66 TRAFO 2 IZQUIERDA P G-G 5,6 1 1 1 0 0
+67 TRAFO 2 IZQUIERDA C G-M 5,6 0 1 1 1 1
+68 PUERTA TRAFO 3 IZQUIERDA EXTERIOR P C-C 5,6 0 0 0 0 0
+69 PUERTA TRAFO 3 IZQUIERDA EXTERIOR C C-M 5,6 0 8 8 8 11
+70 PUERTA TRAFO 3 IZQUIERDA INTERIOR P G-G 5,6 0 0 0 0 0
+71 PUERTA TRAFO 3 IZQUIERDA INTERIOR C G-M 5,6 0 0 0 0 0
+72 TRAFO 3 IZQUIERDA - VALLA DDP M-M 5,6 0 0 0 0 0
+73 TRAFO 3 IZQUIERDA P G-G 5,6 0 0 0 0 0
+74 TRAFO 3 IZQUIERDA C G-M 5,6 0 0 0 0 0
+75 SOPORTE BANDEJAS EXTERIOR P G-G 5,6 0 0 0 0 0
+76 SOPORTE BANDEJAS EXTERIOR C G-M 5,6 1 1 1 0 0
+MEDIDAS DE TENSIONES DE PASO Y CONTACTO
+ 
+
+[page 17]
+Informe nº: 911/168885/12-4 
+ 
+ Página 9 de 9 
+3.2.- MEDIDA DE RESISTENCIA DE PUESTA A TIERRA 
+ 
+ 
+TITULAR: Helios II Hyperion Energy Investment, S.L. 
+INSTALACION: EDIFICIO ELECTRICO II PLANTA TERMOSOLAR HELIOS II 
+ 
+ 
+CIRCUITO VALOR (ΩΩ ΩΩ) 
+HERRAJES A.T. CIRCUITO CERRADO 0,8 
+ 
+EQUIPOS DE MEDIDA : TELUROMETRO 911 – 0421 
+ 
+OBSERVACIONES : ESTADO DEL TERRENO: SECO 
+ 
+ 
+ 
+4.- OBSERVACIONES.
+ 
+ 
+Las medidas en el interior del Edificio Eléctrico II se realizan sobre suelo 
+cemento al no estar instalado el suelo técnico. 
+ 
+De acuerdo a los valores obtenidos durante la realizació n de las medidas de 
+Tensiones de Paso y Contacto en el Edificio Eléctrico II de la Planta 
+Termosolar “Helios II” se observa que el resultado del ensayo es 
+Satisfactorio. 
+ 
+ 
+ 
+ Fdo. Angel García Gil 
+Fdo. Alberto Rodrigo Vaquero 
+SGS Inspecciones Reglamentarias, S.A. 
+Delegación Madrid. 
+
+[page 18]
+Informe nº: 28/99/0XXX/11 
+Página 1 de 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CT REUSO PLANTA TERMOSOLAR HELIOS II 
+911/168885/12-5 
+ 
+ANGEL GARCIA GIL 
+ALBERTO RODRIGO VAQUERO 
+
+[page 19]
+Informe nº: 911/168885/12-5 
+ 
+ Página 2 de 8 
+ 
+ÍNDICE 
+ 
+ 
+1.- INTRODUCCIÓN 
+ 
+ 
+2.- REGLAMENTACIÓN APLICABLE 
+ 
+ 
+3.- MEDIDAS REALIZADAS. 
+ 
+ 
+ 3.1.- MEDIDAS DE TENSIONES DE PASO Y CONTACTO 
+ 
+ 3.2.- MEDIDA DE RESISTENCIA DE PUESTA A TIERRA 
+ 
+ 
+4.- OBSERVACIONES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 20]
+Informe nº: 911/168885/12-5 
+ 
+ Página 3 de 8 
+ 
+ 
+ 
+1.-INTRODUCCIÓN.
+ 
+ 
+Este informe recoge el resultado de las medidas de tensi ones de Paso y 
+Contacto y medida de Resistencia de Puesta a Tierra real izada por SGS 
+Inspecciones Reglamentarias, S.A. en calidad de OCA en el Centro de 
+Transformación Reuso de la Planta Termosolar Helios II ubicada en el término 
+municipal de Arenas de San Juan (Ciudad Real). 
+Dichas medidas se efectuaron el día 29 de Febrero de 2012. 
+ 
+2.-REGLAMENTACIÓN APLICABLE.
+ 
+ 
+• Reglamento sobre Condiciones Técnicas y Garantías de Seg uridad en 
+Centrales Eléctricas, Subestaciones y Centros de Transforma ción e 
+Instrucciones Técnicas Reglamentarias (Diciembre-1982). 
+ 
+• Reglamento Electrotécnico para baja tensión e Instruccio nes Técnicas 
+Complementarias. 
+ 
+• Procedimiento, de SGS-Inspecciones Reglamentarias, de i nspección 
+reglamentaria de instalaciones eléctricas de alta tensión. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 21]
+Informe nº: 911/168885/12-5 
+ 
+ Página 4 de 8 
+ 
+3.-MEDIDAS REALIZADAS. 
+ 
+A continuación se desglosan las medidas realizadas en la instalación de 
+referencia. 
+ 
+ 
+ 
+3.1.- MEDIDA DE TENSIONES DE PASO Y CONTACTO 
+ 
+Las medidas de tensiones de paso y contacto, se han realiz ado de acuerdo 
+con lo indicado en la Instrucción Técnica MIE RAT 13, Apd o. 8.1 es decir: 
+Electrodos de medida de 200 cm 2, fuerza mínima ejercida sobre el suelo por 
+cada electrodo superior a 25 kg y método de ensayo por i nversión de 
+polaridad. 
+ 
+Como red auxiliar de inyección, se han utilizado picas auxiliares. 
+ 
+Por este circuito auxiliar se ha inyectado una intensidad de entorno al valor de 
+12,2 A, siendo un valor aceptado por el RCE, MIE-RAT 13.8.1. 
+ 
+Las medidas se han efectuado por el interior del Centro de transformación 
+prestando especial atención a todas aquellas zonas donde se prevea la 
+posible aparición de tensiones elevadas. 
+ 
+En las hojas de medida que se incluyen a continuación, se indican todas las 
+medidas efectuadas y los resultados obtenidos en cada una de ellas. En estas 
+hojas de medida se indican los aspectos siguientes: 
+ 
+Punto medido: indicando de forma escueta el punto donde se ha efectu ado 
+la medida. Están numerados correlativamente. 
+
+[page 22]
+Informe nº: 911/168885/12-5 
+ 
+ Página 5 de 8 
+ 
+Tipo de medida: indica el tipo de medida, de acuerdo a las abreviatur as 
+siguientes: 
+ 
+· P: tensión de paso. 
+· C: tensión de contacto. 
+· DDP: diferencia de potencial (entre dos elementos metálicos). 
+ 
+Suelo: Indica el tipo de suelo sobre el que se sitúan los elect rodos de 
+medida, de acuerdo a las abreviaturas siguientes: 
+ 
+· G : grava. 
+· C : cemento. 
+· T : tierra. 
+· M: metal. 
+· GO : goma. 
+· H : hierba. 
+· B : baldosa. 
+· A: asfalto. 
+ 
+Ie: Intensidad de ensayo, en amperios. 
+ 
+Tensión resultante a I e.: Es la tensión, en milivoltios, que se obtiene en las 
+medidas: 
+ 
+· V o : tensión errática, sin inyectar corriente. 
+· V1 y V2 : tensión de ensayo invirtiendo la polari dad. 
+· V : tensión resultante , es la suma vectorial de Vo , V1 y V2 
+ aplicando la ecuación: 
+ 
+ 
+V V Vo= + −V 1
+2
+2
+2
+2
+2
+ 
+
+[page 23]
+Informe nº: 911/168885/12-5 
+ 
+ Página 6 de 8 
+ 
+Tensión extrapolada a If.: Es la tensión previsible en la instalación en caso 
+de falta real. 
+ 
+Para el cálculo de la intensidad de falta real, y de l a tensión máxima admisible 
+en la instalación, se han utilizado los datos siguientes: 
+ 
+ 
+· I. falta real: 7600 A. 
+ 
+· Tiempo de actuación protecciones: 0,5 seg. 
+ 
+De acuerdo a estos datos, y según lo indicado en la Instru cción MIE RAT 13, 
+Apdo. 1.1 y Apdo. 5., la tensión máxima admisible en la instalación será de: 
+ 
+V k
+t n= 
+ 
+siendo k = 72 y n = 1 para 0,1 seg. ≤ t ≤ 0,9 seg., luego para t = 0,5 seg. la 
+tensión máxima admisible en la instalación será de 144 V 
+ 
+ 
+ 
+ Los equipos utilizados para la realización de las medidas han sido los siguientes: 
+ 
+Polímetro: 911-0521 
+Pinza amperimétrica: 911-0508 
+ 
+
+[page 24]
+Informe nº: 911/168885/12-5 
+ 
+ Página 7 de 8 
+ 
+EMPRESA :Helios II Hyperion Energy Investment, S.L. INTENSIDAD FALTA REAL (A) 7.600
+INSTALACION :CT REUSO I. DE FALTA PARA CALCULO (A) 7.600
+RED DE INYECCION :RED GENERALTIERRAS TIEMPO DISPARO PROTECCION (s) 0,5
+RED AUXILIAR DE INYECCION :PICAS AUXILIARES. TENSION MAX. ADM. (a If) (V) 144
+TIPO Ie TENSION RESULTANTE A Ie (mv) TENSION
+PUNTO DESCRIPCION DEL PUNTO SUELO EXTRAPOL
+MEDIDA (A) V0 V1 V2 V a If (V)
+1 PUERTA TRAFO EXTERIOR P C-C 12,2 0 0 0 0 0
+2 PUERTA TRAFO EXTERIOR C C-M 12,2 0 1 1 1 1
+3 PUERTA ENTRADA CABINAS SALIDA TRAFO P C-C 12,2 0 0 0 0 0
+4 PUERTA ENTRADA CABINAS SALIDA TRAFO C C-M 12,2 0 1 1 1 1
+5 CABINAS SALIDA TRAFO V1BFT90 P C-C 12,2 1 1 1 0 0
+6 CABINAS SALIDA TRAFO V1BFT90 C C-M 12,2 1 2 2 2 1
+7 PUNTO ANTERIOR- DEFENSA TRAFO DDP M-M 12,2 0 0 0 0 0
+8 DEFENSA TRAFO - PUERTA ENTRADA CABINAS SALIDA DDP M-M 12,2 5 6 6 3 2
+9 PUERTA ENTRADA CABINAS SALIDA TRAFO - CABINA SA DDP M-M 12,2 2 3 3 2 1
+10 CCM REUSO ZONA P M-M 12,2 0 0 0 0 0
+11 CCM REUSO ZONA C M-M 12,2 1 2 2 2 1
+12 CGBT P C-C 12,2 0 0 0 0 0
+13 CGBT C C-M 12,2 1 1 1 0 0
+14 PUNTO ANTERIOR - CUADRO CONTROL VALVULAS DDP M-M 12,2 1 2 2 2 1
+15 CUADRO CONTROL VALVULAS P M-M 12,2 0 0 0 0 0
+16 CUADRO CONTROL VALVULAS C M-M 12,2 9 9 9 0 0
+17 CUADRO CONTROL REUSO P C-C 12,2 0 0 0 0 0
+18 CUADRO CONTROL REUSO C C-M 12,2 0 1 1 1 1
+19 CUADRO BOMBAS P C-C 12,2 0 0 0 0 0
+20 CUADRO BOMBAS C C-M 12,2 3 13 13 13 8
+21 PUERTA ENTRADA BT EXTERIOR P C-C 12,2 3 3 3 0 0
+22 PUERTA ENTRADA BT EXTERIOR C C-M 12,2 3 5 5 4 2
+MEDIDAS DE TENSIONES DE PASO Y CONTACTO
+ 
+
+[page 25]
+Informe nº: 911/168885/12-5 
+ 
+ Página 8 de 8 
+3.2.- MEDIDA DE RESISTENCIA DE PUESTA A TIERRA 
+ 
+ 
+TITULAR: Helios II Hyperion Energy Investment, S.L. 
+INSTALACION: CT REUSO PLANTA TERMOSOLAR HELIOS II 
+ 
+ 
+CIRCUITO VALOR (ΩΩ ΩΩ) 
+HERRAJES A.T. CIRCUITO CERRADO 0,21 
+ 
+EQUIPOS DE MEDIDA : TELUROMETRO 911 – 0421 
+ 
+OBSERVACIONES : ESTADO DEL TERRENO: SECO 
+ 
+ 
+ 
+4.- OBSERVACIONES.
+ 
+ 
+Las medidas en el interior del Centro de transformació n de Reuso se 
+realizan sobre suelo cemento al no estar instalado el suelo técnico. 
+ 
+De acuerdo a los valores obtenidos durante la realizació n de las medidas de 
+Tensiones de Paso y Contacto en el Centro de transform ación de Reuso de la 
+Planta Termosolar “Helios II” se observa que el result ado del ensayo es 
+Satisfactorio. 
+ 
+ 
+ 
+ 
+Fdo. Angel García Gil 
+Fdo. Alberto Rodrigo Vaquero 
+SGS Inspecciones Reglamentarias, S.A. 
+Delegación Madrid.

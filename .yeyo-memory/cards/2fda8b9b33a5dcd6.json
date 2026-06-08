@@ -1,0 +1,31 @@
+{
+  "id": "2fda8b9b33a5dcd6",
+  "path": "Helios Sole/Helios I/2.4 Plan SyS HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 13193994,
+  "size_human": "13 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "2.4 Plan SyS HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1525324,
+  "token_estimate": 381331,
+  "chunks": 966,
+  "card_path": ".yeyo-memory/cards/2fda8b9b33a5dcd6.json",
+  "extracted_path": ".yeyo-memory/extracted/2fda8b9b33a5dcd6.txt",
+  "metadata": {
+    "pages": 720,
+    "pdf_metadata": {
+      "Author": "cgarva",
+      "CreationDate": "D:20100810164742+02'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20110209164432+01'00'",
+      "Producer": "Acrobat Distiller 7.0 (Windows)",
+      "Title": "Microsoft Word - PSS-PRL-2046-H1 Rev1.doc"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:03.338830+00:00"
+}

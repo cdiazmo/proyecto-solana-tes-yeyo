@@ -1,0 +1,381 @@
+[page 1]
+ 
+ 
+ 
+ATLANTICA 
+LISTA DE INSTRUMENTOS 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-LIS-6000-00 
+ 
+DATE 
+Fecha: 31/03/2026 Pag 1/1 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+LISTA DE INSTRUMENTOS 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-LIS-6000-00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 31/03/2026 INITIAL ISSUE A.A.P U.O.A D.S.Z. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Listado de Instrumentos
+Doc.:1950801-LIS-6000-00
+Rev.:00
+Fecha: 31-03-2026
+Pág. 1 de 3
+Rev TAG Instrument type Protect Service P&ID Equipment / Line Notes
+02 10WSN10FE001 Oriffice plate IP65 Nitrogen 1950801-PID-3030-00 Sh 1 2"AAA3
+02 10WSN10CF001 Flow transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 1 2"AAA3
+02 10WSC11CP501 Pressure gauge IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC11CP101 Pressure transmitter IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC11CP102 Pressure transmitter IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC12CP501 Pressure gauge IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC12CP101 Pressure transmitter IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC12CP102 Pressure transmitter IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC13CP501 Pressure gauge IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC13CP101 Pressure transmitter IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSC13CP102 Pressure transmitter IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 10"BAF9
+02 10WSX10CF001 Flow transmitter IP65 Cold Molten Salt 1950801-PID-3030-00 Sh 1 20"BAF9
+02 10WSN11CF001 Rotameter IP65 Nitrogen 1950801-PID-3030-00 Sh 1 1"AAA3
+02 10WSN11CF002 Rotameter IP65 Nitrogen 1950801-PID-3030-00 Sh 1 1"AAA3
+02 10WSN11CF003 Rotameter IP65 Nitrogen 1950801-PID-3030-00 Sh 1 1"AAA3
+02 10WSC10CP101 Pressure transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 2 2"AAA3
+02 10WSC10CP102 Pressure transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 2 2"AAA3
+02 10WSC10CP103 Pressure transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 2 2"AAA3
+02 10WSC10CL101 Level transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2
+02 10WSC10CL102 Level transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2
+02 10WSC10CL103 Level transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2
+02 10WSC10CT001 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G1
+02 10WSC10CT002 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G1
+02 10WSC10CT003 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G1
+02 10WSC10CT004 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G1
+02 10WSC10CT005 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G2
+02 10WSC10CT006 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G2
+02 10WSC10CT007 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G2
+02 10WSC10CT008 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G2
+02 10WSC10CT009 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G3
+02 10WSC10CT010 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G3
+02 10WSC10CT011 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G3
+02 10WSC10CT012 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G3
+02 10WSC10CT013 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G4
+02 10WSC10CT014 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G4
+02 10WSC10CT015 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G4
+02 10WSC10CT016 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G4
+02 10WSC10CT017 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G4
+02 10WSC10CT018 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G5
+02 10WSC10CT019 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G5
+02 10WSC10CT020 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G5
+02 10WSC10CT021 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G5
+02 10WSC10CT022 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G5
+02 10WSC10CT023 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G6
+02 10WSC10CT024 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G6
+02 10WSC10CT025 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G6
+02 10WSC10CT026 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G6
+02 10WSC10CT027 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G6
+02 10WSC10CT028 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G7
+02 10WSC10CT029 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G7
+02 10WSC10CT030 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G7
+02 10WSC10CT031 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G8
+02 10WSC10CT032 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G8
+02 10WSC10CT033 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G8
+02 10WSC10CT034 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G9
+02 10WSC10CT035 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G9
+02 10WSC10CT036 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G9
+02 10WSC10CT037 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G10
+02 10WSC10CT038 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G10
+02 10WSC10CT039 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G10
+02 10WSC10CT040 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G11
+02 10WSC10CT041 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G11
+02 10WSC10CT042 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G11
+02 10WSC10CT043 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G12
+02 10WSC10CT044 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G12
+02 10WSC10CT045 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G12
+02 10WSC10CT051 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT052 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT053 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT054 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT055 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT056 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT057 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT058 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT059 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 2 G13
+02 10WSC10CT065 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G14
+02 10WSC10CT066 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G14
+02 10WSC10CT067 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G14
+02 10WSC10CT068 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G14
+02 10WSC10CT069 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G15
+02 10WSC10CT070 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G15
+02 10WSC10CT071 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G15
+02 10WSC10CT072 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G15
+02 10WSC10CT073 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G15
+02 10WSC10CT074 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 2 G15
+02 10WTX13CP001 Pressure transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX13CT101 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX13CT102 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX12CT101 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX12CT102 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX12CP001 Pressure transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX12CT501 Temperature gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX12CP501 Pressure gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX11CP001 Pressure transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX11CT101 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX11CT102 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX11CT103 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX11CT501 Temperature gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX11CP501 Pressure gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WSX11CP001 Pressure transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX13CT101 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX13CT102 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX13CT001 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 4"BAF9
+02 10WSX13CP001 Pressure transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX12CT101 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+
+[page 3]
+ 
+Listado de Instrumentos
+Doc.:1950801-LIS-6000-00
+Rev.:00
+Fecha: 31-03-2026
+Pág. 2 de 3
+Rev TAG Instrument type Protect Service P&ID Equipment / Line Notes
+02 10WSX12CT102 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX12CP001 Pressure transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX12CT501 Temperature gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX12CP501 Pressure gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX11CT501 Temperature gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX11CP501 Pressure gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX11CT101 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX11CT102 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX11CT103 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WTX15CP001 Pressure transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX15CT101 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX15CT102 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX14CT101 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX14CT102 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX14CP001 Pressure transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX14CT501 Temperature gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX14CP501 Pressure gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX13CT501 Temperature gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX13CP501 Pressure gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WSX15CT001 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 4"BAF9
+02 10WSX15CT101 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX15CT102 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX14CT101 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX14CT102 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX14CP001 Pressure transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX14CT501 Temperature gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX14CP501 Pressure gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX13CT501 Temperature gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX13CP501 Pressure gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WTX17CT101 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX17CT102 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX17CT103 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX17CP001 Pressure transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX17CT501 Temperature gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX17CP501 Pressure gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX16CT101 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX16CT102 Temperature transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX16CP001 Pressure transmitter IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX16CT501 Temperature gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX16CP501 Pressure gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX15CT501 Temperature gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WTX15CP501 Pressure gauge IP65 HTF 1950801-PID-3030-00 Sh 3 24"BAA8
+02 10WSX17CT001 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 4"BAF9
+02 10WSX17CT101 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX17CT102 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX17CT103 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX17CP001 Pressure transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX17CT501 Temperature gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX17CP501 Pressure gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX16CT101 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX16CT102 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX16CP001 Pressure transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX16CT501 Temperature gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX16CP501 Pressure gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX15CT501 Temperature gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX15CP501 Pressure gauge IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSX15CP001 Pressure transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 3 20"BAF9
+02 10WSD10CP101 Pressure transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 6"BAF9
+02 10WSD10CP102 Pressure transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 6"BAF9
+02 10WSD10CP121 Pressure transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt Tank
+02 10WSD10CP122 Pressure transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt Tank
+02 10WSD10CT001 Temperature Transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt Tank
+02 10WSD10CL101 Level transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt Tank
+02 10WSD10CL102 Level transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt Tank
+02 10WSD10CL103 Level transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt Tank
+02 10WSD10CT003 Temperature Transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt PIT
+02 10WSD10CT005 Temperature Transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt PIT
+02 10WSD10CT004 Temperature Transmitter IP65 molten salt drain system 1950801-PID-3030-00 Sh 4 Drain salt Tank
+02 10WSH11CP501 Pressure gauge IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH11CP101 Pressure transmitter IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH11CP102 Pressure transmitter IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH12CP501 Pressure gauge IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH12CP101 Pressure transmitter IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH12CP102 Pressure transmitter IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH13CP501 Pressure gauge IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH13CP101 Pressure transmitter IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSH13CP102 Pressure transmitter IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 10"BAF9
+02 10WSX18CF001 Flow transmitter IP65 Hot Molten Salt 1950801-PID-3030-00 Sh 5 20"BAF9
+02 10WSN12FE001 Oriffice plate IP65 Nitrogen 1950801-PID-3030-00 Sh 5 2"AAA3
+02 10WSN12CF001 Flow transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 5 2"AAA3
+02 10WSN10AT001 Analisis transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 5 12"AAA3
+02 10WSN13CF001 Rotameter IP65 Nitrogen 1950801-PID-3030-00 Sh 5 1"AAA3
+02 10WSN13CF002 Rotameter IP65 Nitrogen 1950801-PID-3030-00 Sh 5 1"AAA3
+02 10WSN13CF003 Rotameter IP65 Nitrogen 1950801-PID-3030-00 Sh 5 1"AAA3
+02 10WSH10CP101 Pressure transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 6 2"AAA3
+02 10WSH10CP102 Pressure transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 6 2"AAA3
+02 10WSH10CP103 Pressure transmitter IP65 Nitrogen 1950801-PID-3030-00 Sh 6 2"AAA3
+02 10WSH10CL101 Level transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6
+02 10WSH10CL102 Level transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6
+02 10WSH10CL103 Level transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6
+02 10WSH10CT001 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G1
+02 10WSH10CT002 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G1
+02 10WSH10CT003 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G1
+02 10WSH10CT004 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G1
+02 10WSH10CT005 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G2
+02 10WSH10CT006 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G2
+02 10WSH10CT007 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G2
+02 10WSH10CT008 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G2
+02 10WSH10CT009 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G3
+02 10WSH10CT010 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G3
+02 10WSH10CT011 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G3
+02 10WSH10CT012 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G3
+02 10WSH10CT013 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G4
+02 10WSH10CT014 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G4
+
+[page 4]
+ 
+Listado de Instrumentos
+Doc.:1950801-LIS-6000-00
+Rev.:00
+Fecha: 31-03-2026
+Pág. 3 de 3
+Rev TAG Instrument type Protect Service P&ID Equipment / Line Notes
+02 10WSH10CT015 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G4
+02 10WSH10CT016 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G4
+02 10WSH10CT017 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G4
+02 10WSH10CT018 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G5
+02 10WSH10CT019 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G5
+02 10WSH10CT020 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G5
+02 10WSH10CT021 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G5
+02 10WSH10CT022 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G5
+02 10WSH10CT023 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G6
+02 10WSH10CT024 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G6
+02 10WSH10CT025 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G6
+02 10WSH10CT026 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G6
+02 10WSH10CT027 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G6
+02 10WSH10CT028 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G7
+02 10WSH10CT029 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G7
+02 10WSH10CT030 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G7
+02 10WSH10CT031 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G8
+02 10WSH10CT032 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G8
+02 10WSH10CT033 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G8
+02 10WSH10CT034 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G9
+02 10WSH10CT035 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G9
+02 10WSH10CT036 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G9
+02 10WSH10CT037 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G10
+02 10WSH10CT038 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G10
+02 10WSH10CT039 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G10
+02 10WSH10CT040 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G11
+02 10WSH10CT041 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G11
+02 10WSH10CT042 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G11
+02 10WSH10CT043 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G12
+02 10WSH10CT044 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G12
+02 10WSH10CT045 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G12
+02 10WSH10CT051 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT052 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT053 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT054 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT055 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT056 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT057 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT058 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT059 Temperature transmitter IP65 Tank Foundation 1950801-PID-3030-00 Sh 6 G13
+02 10WSH10CT065 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G14
+02 10WSH10CT066 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G14
+02 10WSH10CT067 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G14
+02 10WSH10CT068 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G14
+02 10WSH10CT069 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G15
+02 10WSH10CT070 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G15
+02 10WSH10CT071 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G15
+02 10WSH10CT072 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G15
+02 10WSH10CT073 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G15
+02 10WSH10CT074 Temperature transmitter IP65 Molten Salt 1950801-PID-3030-00 Sh 6 G15

@@ -1,0 +1,28 @@
+{
+  "id": "cf2eb48f59d46971",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/120117 Solicitud cambio de titularidad línea 15kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 136416,
+  "size_human": "133 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "120117 Solicitud cambio de titularidad línea 15kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1317,
+  "token_estimate": 329,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/cf2eb48f59d46971.json",
+  "extracted_path": ".yeyo-memory/extracted/cf2eb48f59d46971.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "Angel Ramon Menor Pozo",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:49.017651+00:00"
+}

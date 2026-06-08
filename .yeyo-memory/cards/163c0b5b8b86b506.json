@@ -27,7 +27,7 @@
     "plan_tag": {
       "kind": "Layout / distribucion general",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:52.911114+00:00",
+      "tagged_at": "2026-06-08T18:41:14.336260+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -72,5 +72,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:52.932760+00:00"
+  "processed_at": "2026-06-08T18:41:14.336263+00:00"
 }

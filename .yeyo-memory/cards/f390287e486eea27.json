@@ -1,0 +1,38 @@
+{
+  "id": "f390287e486eea27",
+  "path": "Documentos en Servidor Atlántica/PRESUPUESTO PROYECTO OFICIAL CLIENTE Rev 0.xlsx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "xlsx",
+  "size_bytes": 44466,
+  "size_human": "43 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "PRESUPUESTO PROYECTO OFICIAL CLIENTE Rev 0",
+  "doc_code": null,
+  "revision": "Rev 0",
+  "status": "ok",
+  "text_chars": 25119,
+  "token_estimate": 6279,
+  "chunks": 16,
+  "card_path": ".yeyo-memory/cards/f390287e486eea27.json",
+  "extracted_path": ".yeyo-memory/extracted/f390287e486eea27.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Presupuesto Cliente",
+        "rows_seen": 51,
+        "non_empty_rows": 50
+      },
+      {
+        "name": "Pres. Estruc. TES ",
+        "rows_seen": 119,
+        "non_empty_rows": 106
+      },
+      {
+        "name": "RESUMEN MONTAJE TUBERIAS",
+        "rows_seen": 80,
+        "non_empty_rows": 80
+      }
+    ]
+  },
+  "processed_at": "2026-06-08T18:30:06.918503+00:00"
+}

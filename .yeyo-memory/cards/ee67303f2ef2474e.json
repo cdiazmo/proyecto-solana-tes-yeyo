@@ -1,0 +1,29 @@
+{
+  "id": "ee67303f2ef2474e",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.5 APM tanque.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 286048,
+  "size_human": "279 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.7.5 APM tanque",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2815,
+  "token_estimate": 703,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/ee67303f2ef2474e.json",
+  "extracted_path": ".yeyo-memory/extracted/ee67303f2ef2474e.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20110502153343+02'00'",
+      "Creator": "Adobe Acrobat 7.1",
+      "Producer": "Adobe Acrobat 7.1 Paper Capture Plug-in",
+      "ModDate": "D:20110502153526+02'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:22.324866+00:00"
+}

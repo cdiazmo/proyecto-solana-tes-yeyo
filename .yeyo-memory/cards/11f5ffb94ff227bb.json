@@ -1,0 +1,31 @@
+{
+  "id": "11f5ffb94ff227bb",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260325/1950801-LIS-6500-00_Lista de Consumidores Eléctricos.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 288143,
+  "size_human": "281 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-6500-00 Lista de Consumidores Eléctricos",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 6881,
+  "token_estimate": 1720,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/11f5ffb94ff227bb.json",
+  "extracted_path": ".yeyo-memory/extracted/11f5ffb94ff227bb.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "asieraurrekoetxea",
+      "CreationDate": "D:20260324182509+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20260324182509+01'00'",
+      "Producer": "Acrobat Distiller 17.0 (Windows)",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:26.101096+00:00"
+}

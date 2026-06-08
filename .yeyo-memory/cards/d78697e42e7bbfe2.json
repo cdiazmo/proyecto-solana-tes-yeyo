@@ -1,0 +1,30 @@
+{
+  "id": "d78697e42e7bbfe2",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.1 Proyecto.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 21703853,
+  "size_human": "21 MB",
+  "mtime_iso": "2026-06-08T16:16:00.000Z",
+  "title": "5.7.1.1 Proyecto",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d78697e42e7bbfe2.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 191,
+    "pdf_metadata": {
+      "CreationDate": "D:20110302094825+01'00'",
+      "Creator": "Canon iR2525",
+      "ModDate": "D:20110302094825+01'00'",
+      "Producer": "Adobe Acrobat Pro 10.0.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:19.860937+00:00"
+}

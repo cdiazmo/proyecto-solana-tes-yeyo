@@ -1,0 +1,7 @@
+[sheet Hoja1]
+Document | Date | Ownner | Comment
+1950801-PID-3030-00 1/6 | 2026-03-27 00:00:00 | MMA | Incluir un testigo de fugas de HTF en el HEX de los tanques. Consiste en un pequeño depósito ubicado en la parte superior, con nitrógeno del tanque en su interior. Si se produce una fuga, el HTF presente en la atmósfera se condensa en el testigo, indicando que el HEX presenta una picadura/perforación.
+1950801-PID-3030-00 1/6 | 2026-03-27 00:00:00 | MMA | En Kaxu, en las líneas de alimentación de nitrógeno a las bombas, en lugar de instalar válvulas antirretorno (el simbolo está al reves?) se han instalado válvulas automáticas. Pendiente de valoración.
+1950801-PID-3030-00 3/6 | 2026-03-27 00:00:00 | MMA | Cambiar nomenclatura de las valvulas de HTF para adaptarlas a la de Kaxu (0328-PLN-AEPC-75-71-0001): WTX18 por WTX05, WTX19 por WTX28 y WSX19 (ojo, es de HTF) por WTX23. Ademas, hay que añadir bpass de HTF (WTX40) ya que la distancia del TES al BOP va a ser relevante
+1950801-CAL-0550-25 H&MB | 2026-03-27 00:00:00 | MMA | De acuerdo con la potencia térmica del intercambiador (138 MWth); sin embargo, la temperatura de entrada de HTF debería reducirse a 388 ºC (ver Kaxu H&M balances) en lugar de 393 ºC.
+1950801-PID-3030-00 3/6 | 2026-03-27 00:00:00 | MMA | Aunque hemos acordado en el proyecto administrativo no incluir las resistencias eléctricas, por favor incluir en los P&ID una tee con un cap para poder conectar en el futuro en la línea caliente WTX23 y en la línea fría WTX28, en para lelo con el intercambiador

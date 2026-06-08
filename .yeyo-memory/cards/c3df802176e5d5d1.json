@@ -1,0 +1,33 @@
+{
+  "id": "c3df802176e5d5d1",
+  "path": "Helios Sole/Helios I/5.8 N2/5.8.1 Proyecto N2 HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 16673404,
+  "size_human": "16 MB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.8.1 Proyecto N2 HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/c3df802176e5d5d1.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 77,
+    "pdf_metadata": {
+      "CreationDate": "D:20111229145839+01'00'",
+      "ModDate": "D:20111230074741+01'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia nitrogeno",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.479685+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:16.516318+00:00"
+}

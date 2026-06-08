@@ -1,0 +1,39 @@
+{
+  "id": "cf56238b9c171805",
+  "path": "Helios Sole/Helios I/5.8 N2/5.8.8 APM.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 247497,
+  "size_human": "242 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.8.8 APM",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/cf56238b9c171805.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120316130530+01'00'",
+      "ModDate": "D:20120316130530+01'00'",
+      "Title": "HELIOS I.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia nitrogeno",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.566321+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:16.602760+00:00"
+}

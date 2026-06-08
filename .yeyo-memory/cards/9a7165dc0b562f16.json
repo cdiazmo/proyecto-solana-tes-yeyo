@@ -1,0 +1,33 @@
+{
+  "id": "9a7165dc0b562f16",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/110607 Plano Línea Valeriano Lorenzo.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 6961850,
+  "size_human": "6.6 MB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "110607 Plano Línea Valeriano Lorenzo",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/9a7165dc0b562f16.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110607134722+02'00'",
+      "ModDate": "D:20110607134722+02'00'",
+      "Title": "Z:\\\\Promocion Proyectos\\\\Prom NP\\\\Helios 01-02 \\(Ciudad Real\\)\\\\Contratos\\\\Terrenos\\\\Contratos centrales\\\\Línea 15 kV\\\\Línea 15 kV_versió",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "slamp",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:48.740099+00:00"
+}

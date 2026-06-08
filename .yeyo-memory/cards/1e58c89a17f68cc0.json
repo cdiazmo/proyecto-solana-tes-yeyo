@@ -1,0 +1,29 @@
+{
+  "id": "1e58c89a17f68cc0",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/03 H&M Balances/0328-CAL-AEPC-001-012-0712_H&MB.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 551265,
+  "size_human": "538 KB",
+  "mtime_iso": "2026-06-08T16:13:00.000Z",
+  "title": "0328-CAL-AEPC-001-012-0712 H&MB",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 66444,
+  "token_estimate": 16611,
+  "chunks": 42,
+  "card_path": ".yeyo-memory/cards/1e58c89a17f68cc0.json",
+  "extracted_path": ".yeyo-memory/extracted/1e58c89a17f68cc0.txt",
+  "metadata": {
+    "pages": 42,
+    "pdf_metadata": {
+      "Creator": "pdfsam-console (Ver. 2.4.0e)",
+      "Producer": "iText 2.1.7 by 1T3XT",
+      "ModDate": "D:20121005085052+02'00'",
+      "CreationDate": "D:20121005085052+02'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:28:01.845373+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2a9bba4df2dc4895",
+  "path": "Helios Sole/Línea 15 kV/120227 Helios I Remisión Justificación AT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 401868,
+  "size_human": "392 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "120227 Helios I Remisión Justificación AT",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/2a9bba4df2dc4895.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Title": "Nuance Communications, Inc.",
+      "Author": "Eva María Ruiz Sánchez",
+      "Keywords": "None",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc.",
+      "CreationDate": "D:20120301092100+01'00'",
+      "ModDate": "D:20120301092119+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:33.072722+00:00"
+}

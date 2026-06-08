@@ -1,0 +1,203 @@
+[page 1]
+ 
+ 
+ 
+ATLANTICA 
+LISTA DE CONSUMIDORES ELÉCTRICOS 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-LIS-6500-00 
+ 
+DATE 
+Fecha: 27/04/2026 Pag 1/1 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+LISTA DE CONSUMIDORES 
+ELÉCTRICOS 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-LIS-6500-00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 24/03/2026 INITIAL ISSUE A.A.P U.O.A D.S.Z. 
+1 27/04/2026 ATLANTICA’S AMENDMENTS A.A.P U.O.A. D.S.Z. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+Lista de consumidores eléctricos
+Doc.:1950801-LIS-6500-00
+Rev.:01
+Fecha: 27-04-2026
+Pág. 1 de 2
+TAG 
+IDENTIFICATIONDESCRIPTION RATED POWER 
+(kW)
+VOLTAGE 
+TYPE VOLTAGE (V) POWER FACTOR
+RATED 
+CURRENT In 
+(A)
+Nº OF PHASES AREA CLASSIF LOAD CLASSIFSTARTER 
+TYPE COMMENTS
+10WPH10AP001Bomba de sales caliente A 290,00 AC 400 0,88 475,66 3F SAFE NORMAL VSD Ver Nota (1)
+10WPH10AP002Bomba de sales caliente B 290,00 AC 400 0,88 475,66 3F SAFE NORMAL VSD Ver Nota (1)
+10WPH10AP003Bomba de sales caliente C 290,00 AC 400 0,88 475,66 3F SAFE NORMAL VSD Ver Nota (1)
+10WPC10AP001Bomba de sales fria A 290,00 AC 400 0,88 475,66 3F SAFE NORMAL VSD Ver Nota (1)
+10WPC10AP002Bomba de sales fria B 290,00 AC 400 0,88 475,66 3F SAFE NORMAL VSD Ver Nota (1)
+10WPC10AP003Bomba de sales fria C 290,00 AC 400 0,88 475,66 3F SAFE NORMAL VSD Ver Nota (1)
+10WPD10AP001Bomba de drenaje de sales 20,00 AC 400 0,70 41,24 3F SAFE DIESEL Feeder
+Resistencia caldeo 0,30 AC 230 1,00 1,30 F+N SAFE NORMAL Feeder
+Resistencia caldeo 0,30 AC 230 1,00 1,30 F+N SAFE NORMAL Feeder
+Resistencia caldeo 0,30 AC 230 1,00 1,30 F+N SAFE NORMAL Feeder
+Resistencia caldeo 0,30 AC 230 1,00 1,30 F+N SAFE NORMAL Feeder
+Resistencia caldeo 0,30 AC 230 1,00 1,30 F+N SAFE NORMAL Feeder
+Resistencia caldeo 0,30 AC 230 1,00 1,30 F+N SAFE NORMAL Feeder
+10WSH10AH001Resistencia tanque caliente 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSH10AH002Resistencia tanque caliente 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSH10AH003Resistencia tanque caliente 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSH10AH004Resistencia tanque caliente 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSH10AH005Resistencia tanque caliente 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSH10AH006Resistencia tanque caliente 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSC10AH001Resistencia tanque frio 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSC10AH002Resistencia tanque frio 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSC10AH003Resistencia tanque frio 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSC10AH004Resistencia tanque frio 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSC10AH005Resistencia tanque frio 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+10WSC10AH006Resistencia tanque frio 50,00 AC 400 1,00 72,17 3F SAFE DIESEL Feeder
+- Traceado no esencial 275,00 AC 400 1,00 396,93 3F SAFE NORMAL Feeder
+- Traceado esencial 25,00 AC 400 1,00 36,08 3F SAFE DIESEL Feeder
+10WTX11AA301MOV (300lb; 2") 0,25 AC 400 1,00 0,36 3F SAFE NORMAL Feeder
+10WSX11AA301MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WTX13AA301MOV (300lb; 2") 0,25 AC 400 1,00 0,36 3F SAFE NORMAL Feeder
+10WSX13AA301MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSX13AA302MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSX13AA303MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSN10AA301MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSN10AA302MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WTX13AA302MOV (300lb; 2") 0,25 AC 400 1,00 0,36 3F SAFE NORMAL Feeder
+10WSX13AA304MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSX19AA301MOV (300lb; 6") 0,80 AC 400 1,00 1,15 3F SAFE DIESEL Feeder
+10WSD10AA371MOV (300lb; 6") 0,80 AC 400 1,00 1,15 3F SAFE DIESEL Feeder
+10WSD10AA373MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSD10AA312MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSD10AA313MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSD10AA311MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+© Ingeniería y Técnicas de Montajes Lointek, S.L. DIFUSIÓN LIMITADA
+
+[page 3]
+Lista de consumidores eléctricos
+Doc.:1950801-LIS-6500-00
+Rev.:01
+Fecha: 27-04-2026
+Pág. 2 de 2
+TAG 
+IDENTIFICATIONDESCRIPTION RATED POWER 
+(kW)
+VOLTAGE 
+TYPE VOLTAGE (V) POWER FACTOR
+RATED 
+CURRENT In 
+(A)
+Nº OF PHASES AREA CLASSIF LOAD CLASSIFSTARTER 
+TYPE COMMENTS
+10WTX17AA301MOV (300lb; 2") 0,25 AC 400 1,00 0,36 3F SAFE NORMAL Feeder
+10WSX17AA303MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSN10AA303MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSX17AA302MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSX17AA301MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WTX15AA302MOV (300lb; 2") 0,25 AC 400 1,00 0,36 3F SAFE NORMAL Feeder
+10WSX15AA304MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSX19AA302MOV (300lb; 6") 0,80 AC 400 1,00 1,15 3F SAFE DIESEL Feeder
+10WSX15AA303MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WTX15AA301MOV (300lb; 2") 0,25 AC 400 1,00 0,36 3F SAFE NORMAL Feeder
+10WSX15AA302MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WSX15AA301MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE DIESEL Feeder
+10WTX28AA203MOV (300lb; 24") 3,80 AC 400 1,00 5,48 3F SAFE NORMAL Feeder
+10WTX11AA201MOV (300lb; 24") 3,80 AC 400 1,00 5,48 3F SAFE NORMAL Feeder
+10WTX17AA302MOV (300lb; 4") 0,65 AC 400 1,00 0,94 3F SAFE NORMAL Feeder
+10WSN10AT001Analizador de hidrocarburos 1,10 AC 230 1,00 1,30 F+N SAFE NORMAL Feeder
+- Alimentación Cuadro Iluminación Exterior 5,00 AC 400 1,00 7,22 3F+N SAFE NORMAL Feeder
+- Central de Incendios y Extractor 0,50 AC 400 1,00 1,25 F+N SAFE NORMAL Feeder
+© Ingeniería y Técnicas de Montajes Lointek, S.L. DIFUSIÓN LIMITADA
+
+[page 4]
+Lista de consumidores eléctricos
+Doc.:1950801-LIS-6500-00
+Rev.:01
+Fecha: 27-04-2026
+Pág. 1 de 1
+NOTAS:
+ (1) Los cables de los variadores (VSD) son apantallados aguas arriba y debajo de los variadores.
+© Ingeniería y Técnicas de Montajes Lointek, S.L. DIFUSIÓN LIMITADA

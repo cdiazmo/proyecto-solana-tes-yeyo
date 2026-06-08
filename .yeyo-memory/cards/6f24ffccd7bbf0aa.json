@@ -1,0 +1,31 @@
+{
+  "id": "6f24ffccd7bbf0aa",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.4 OCA LSAT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1004665,
+  "size_human": "981 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.1.4 OCA LSAT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/6f24ffccd7bbf0aa.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Canon iR C2380",
+      "CreationDate": "D:20120125151508+01'00'",
+      "Author": "",
+      "Producer": "Canon iR C2380",
+      "Title": "",
+      "Subject": "Image"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:24.098327+00:00"
+}

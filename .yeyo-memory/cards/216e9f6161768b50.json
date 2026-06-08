@@ -1,0 +1,33 @@
+{
+  "id": "216e9f6161768b50",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.7 Cambio titularidad.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 101137,
+  "size_human": "99 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.3.7 Cambio titularidad",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/216e9f6161768b50.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120119165305+01'00'",
+      "ModDate": "D:20120119165305+01'00'",
+      "Title": "120117 Helios I Registro Líneas.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:39.164493+00:00"
+}

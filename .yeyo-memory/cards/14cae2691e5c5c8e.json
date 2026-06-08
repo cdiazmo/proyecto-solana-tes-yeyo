@@ -1,0 +1,31 @@
+{
+  "id": "14cae2691e5c5c8e",
+  "path": "Helios Sole/Helios I/3.3.2 Publicacion DIA HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 120330,
+  "size_human": "118 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "3.3.2 Publicacion DIA HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 29643,
+  "token_estimate": 7410,
+  "chunks": 19,
+  "card_path": ".yeyo-memory/cards/14cae2691e5c5c8e.json",
+  "extracted_path": ".yeyo-memory/extracted/14cae2691e5c5c8e.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Author": "apsc187",
+      "CreationDate": "D:20080422103143+03'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20110126161427+01'00'",
+      "Producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "Title": "docm-084-fasc I.qxd"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:03.464250+00:00"
+}

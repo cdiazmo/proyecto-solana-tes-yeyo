@@ -1,0 +1,2968 @@
+[page 1]
+Visado y Firma Digitales
+Fecha:
+Nºde visado:
+Firma Colegio
+Descripción del Trabajo Profesional.
+Nombre:
+Colegiado:
+Nombre:
+Colegiado:
+Nombre:
+Colegiado:
+Nombre:
+Colegiado:
+Espacio reservado para el colegio.
+Documento visado con firma electrónica del colegio nacional de
+ingenieros de icai cuyo original está depositado en los archivos
+de dicho colegio.
+Colegio Nacional de Ingenieros de ICAI
+
+[page 2]
+ 
+ 
+ 
+ 
+HH HHELIOS I ELIOS I ELIOS I ELIOS I HYPERIO HYPERIO HYPERIO HYPERION ENERGY INVESTMENTS, S.L. N ENERGY INVESTMENTS, S.L. N ENERGY INVESTMENTS, S.L. N ENERGY INVESTMENTS, S.L. 
+ 
+ 
+ 
+ 
+ 
+ 
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperion Energy Investments, S.L. 
+en Arenas de San Juan (Ciudad Real ) 
+ 
+ 
+ 
+ 
+ 
+ 
+Proyecto Eléctrico 
+de Alta Tensión 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INABENSA INABENSA INABENSA INABENSA JGL/jgl 
+
+[page 3]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperion Energy Investments , S.L. 
+ en Arenas de San Juan (Ciudad Real) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0. Índice General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ Memoria 
+1.1 Objeto del proyecto 
+1.2 . Reglamentación y disposiciones oficiales 
+1.3 . Titular 
+1.4 . Emplazamiento 
+1.5 . Características generales de la subestación eléct rica 
+1.5.1. Condiciones ambientales , de operación y procedencia de la energía 
+1.5.2. Condiciones de operación 
+1.5.3. Datos de diseño 
+1.5.4. Alcance del Suministro y Características de las Instalaciones 
+1.6 . Programa de necesidades y potencia instalada en k VA 
+1.7 . Descripción de la instalación 
+1.7.1. Obra Civil 
+1.7.2. Instalación Eléctrica 
+1.7.3. Medida de la energía eléctrica 
+1.7.4. Puesta a tierra 
+1.7.5. Instalaciones secundarias 
+1.8. Conclusión 
+1.9. Documentos 
+ 
+ 
+ 
+
+[page 4]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 2
+2. Cálculos 
+2.1. Intensidad de alta tensión (220 kV ) 
+2.2. Intensidad de media tensión (15 kV ) 
+2.3. Cortocircuitos 
+2.4. Dimensionado del embarrado 
+2.4.1. Cable de Interconexión de Equipos. Embarra do 
+2.4.2. Cálculo por densidad de corriente (Intensid ad nominal) 
+2.4.3. Cálculo por solicitación electrodinámica (In tensidad de 
+cortocircuito) 
+2.5. Selección de fusibles de alta tensión y baja tensión 
+2.6. Dimensionado de la ventilación del centro de transformación 
+2.7. Dimensiones del pozo apagafuegos 
+2.8 . Cálculo de las instalaciones de puesta a ti erra 
+2.81. Objeto 
+2.8.2. Método de cálculo 
+2.8.3. Tensiones de paso y contacto admisibles 
+2.8.4. Cálculo de las tensiones de paso y contacto 
+2.8.4.1. Datos de partida 
+2.8.4.2. Cálculos justificativos 
+2.8.4.2.1. Conductor de tierra 
+2.8.4.2.2. Resistencia de Malla 
+2.8.4.2.3. Corrientes de puesta a tierra 
+2.8.4.2.4. Tensiones de paso y contacto previstas 
+2.9. Documentos 
+ 
+3. Pliego de condiciones 
+3.1. Calidad de los materiales 
+3.2. Normas de ejecución de las instalaciones 
+3.3. Pruebas reglamentarias 
+3.4. Condiciones de uso, mantenimiento y seguridad 
+3.5. Certificados y documentación 
+3.6 Documentos 
+ 
+ 
+ 
+4. 
+ Presupuesto 
+ 
+ 
+
+[page 5]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 3
+5. Estudio Seguridad y Salud 
+5.1. Objeto del estudio 
+5.2. Características de la obra 
+5.2.1. Situación y descripción de la obra 
+5.2.2. Presupuesto, plazo de ejecución y mano de ob ra 
+5.2.3. Control de accesos 
+5.2.4. Unidades constructivas que componen las obra s 
+5.2.4.1. Movimientos de tierra 
+5.2.4.2. Obra civil 
+5.2.4.3. Montaje de estructuras y equipos 
+5.2.5. Identificación de riesgos 
+5.2.5.1. Organización de la seguridad 
+5.2.5.2. Principios generales aplicables a la obra 
+5.2.5.3. Formación 
+5.2.5.4. Medicina preventiva 
+5.2.5.5. Medios de protección 
+5.2.6. Locales de descanso y servicios higiénicos 
+5.2.7. Disposiciones de emergencia 
+5.2.7.1. Vías de evacuación 
+5.2.7.2. Iluminación 
+5.2.7.3. Suministro y reparto de energía 
+5.2.7.4. Ventilación 
+5.2.7.5. Ambientes nocivos y factores atmosféricos 
+5.2.7.6. Detección y lucha contra incendios 
+5.2.7.7. Primeros auxilios 
+5.2.8. Plan de seguridad 
+5.3. Pliego de condiciones 
+5.4. Presupuesto de seguridad 
+ 
+6. Planos 
+ 
+ 
+ 
+
+[page 6]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperion Energy Investments , S.L. 
+ en Arenas de San Juan (Ciudad Real) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Memoria 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1. Objeto del proyecto 
+El Objeto de este Proyecto es relacionar el alcance de las instalaciones de Alta 
+Tensión (Subestación Elevadora), de 62,5 MVA para e vacuar la energía producida 
+aguas abajo en la Planta Solar Termoeléctrica Helios I (Ciudad Real) 
+ 
+ 
+ 
+1.2. Reglamentación y Disposiciones Oficiales 
+ Las instalaciones serán realizadas dando cumplimie nto a: 
+ 
+Técnicas 
+- Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en Centrales 
+Eléctricas, Subestaciones y Centros de Transformación, aprobado por RD Nº 3.275/82 
+(BOE Nº 288 de 1-12-82). 
+ 
+ - Instrucciones Técnicas Complementarias MIE-RAT, según Orden de 18 de octubre 
+de 1.984 (BOE Nº 256, de 25-10-84). 
+ 
+
+[page 7]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 2
+ - Reglamento Electrotécnico para Baja Tensión (Re al Decreto 842/2002 de 2 de 
+ Agosto de 2002). 
+ 
+ - Instrucciones Complementarias del Reglamento El ectrotécnico para Baja Tensión 
+(Instrucciones ITC-BT) 
+ 
+ - Ley 31/95 de Prevención de Riesgos Laborales 
+ 
+ - Real Decreto 1627/1997 de 24 de octubre, por e l que se establecen Disposiciones 
+ Mínimas de Seguridad y Salud en obras en construcc ión. 
+ 
+ 
+ 
+ 
+ 
+ Condiciones de seguridad y medioambientales 
+ Ley 31/1995 de 8 de Noviembre. “Ley de Prevención de Riesgos Laborales” y 
+disposiciones posteriores complementarias, actualmente vigentes. 
+ 
+ Real Decreto 1627/1997 de 24 de Octubre, por el q ue se establecen las 
+“Disposiciones mínimas de Seguridad y Salud en Obras en Construcción”. 
+ 
+ RD 1477/2004 de 18 de Junio, por el que se desarr olla la estructura orgánica básica 
+del Ministerio de Medio Ambiente. 
+ 
+ Ley 38/72 de 22/12, de protección del ambiente at mosférico y posteriores 
+desarrollos y modificaciones, actualmente vigentes. 
+ 
+ Orden 18/10/1976 sobre prevención y corrección de la contaminación industrial 
+atmosférica. 
+ 
+1.3. Titular 
+El peticionario y promotor es Helios I Hyperion En ergy Investments, S.L.. con 
+domicilio social en Campus Palmas Altas, c/ Energía Solar 1, 41004 Sevilla con 
+CIF = B85588606. 
+ 
+La Ingeniería y montaje de este Proyecto, será lle vada a cabo por Instalaciones 
+Inabensa S.A., con sede social en C/ Energía Solar nº1 (Campus Palmas Altas), 41014 
+de Sevilla. 
+/telephonesolid = 954970450, CIF = A41694266, DCE = 41/0944E, Nº Registro = 41/14.475 
+ 
+ 
+
+[page 8]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 3
+1.4. Emplazamiento 
+Las instalaciones proyectadas están ubicadas en los términos municipales de Arenas 
+de San Juan, Villarta de San Juan y Puerto Lápice, provincia de Ciudad Real, aunque el 
+acceso a la planta se realizará a través de la carretera N-420, PK 251, 13679, Arenas 
+de San Juan. 
+ 
+Una descripción exhaustiva de la ubicación de la Obra se refleja en el Plano nº 1116-
+02-001 en Edic 01 del 12-05-2010 denominado Implant ación General Mapa de 
+Localización. 
+ 
+ 
+ 
+1.5. Características generales de la subestación e léctrica 
+1.5.1. Condiciones ambientales, de operación y pr ocedencia de la energía 
+ Condiciones Ambientales 
+ La S/E estará sometida a las siguientes condicio nes ambientales y climatológicas. 
+Altitud > 500 m. 
+Ambiente atmosférico Continental 
+ 
+ 
+ 
+1.5.2. Condiciones de Operación 
+Los materiales y equipos utilizados estarán diseñados, fabricados y ensayados de 
+acuerdo con los siguientes valores: 
+ 
+/square4 Tensión Circuitos de potencia de C.A. 400/230 ± 15 % c.a. 
+/square4 Tensión Circuitos de corriente continua: 125 V +1 0% -15% c.c. 
+/square4 Variaciones de frecuencia: ± 5 % 
+ 
+
+[page 9]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 4
+1.5.3. Datos de Diseño 
+ La Subestación de 220/15 kV a instalar denominada Helios I tiene como misión la 
+evacuación de la energía eléctrica generada en la Planta Solar Termoeléctrica Helios 
+I (Ciudad Real) hasta la Subestación Colectora (no es objeto de este Proyecto), 
+mediante el aumento de tensión de 15 kV (tensión de generación) hasta 220 kV 
+(tensión de transporte a SE Colectora). 
+ 
+ La energía eléctrica se exportará a 220 kV. 
+ 
+ La subestación se encuentra a menos de 500 metros de altitud sobre el nivel del 
+mar, con lo que se adoptarán sobrecargas correspondientes a Zona A. 
+ 
+Característica Magnitud 
+Tensión nominal 220 kV 
+Tensión más elevada para el material 245 kV 
+Frecuencia nominal 50 Hz 
+Tensión soportada a frecuenc ia industrial 460 kV 
+Tensión soportada tipo rayo 1425 kV 
+Tensión soportada impulsos tipo maniobra 1050 kV 
+Neutro Rígido a Tierra 
+ 
+ 
+Valores de Cortocircuito 
+ Para el cálculo de esfuerzos térmicos y dinámicos de cortocircuito en los campos 
+de 220 kV, se considerarán las siguientes magnitudes: 
+ 
+Potencia de cortocircuito trifásica 3.772 MVA 
+Relación de impedancia/resistencia de corto trifásica X/R 4,295 
+ 
+ 
+Datos para cálculo de la Red de Tierra 
+ A efectos de cálculo se considerarán los siguient es datos de partida: 
+ -Resistividad representativa del terreno 75 Ω x m 
+ -Intensidad de falta a tierra 7,6 kA 
+ -Tiempo de duración de la falta 0,5 seg. 
+
+[page 10]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 5
+1.5.4. Alcance del Suministro y Características d e las Instalaciones 
+ Equipos 
+ El alcance incluye el diseño, replanteo, cálculos, suministro, embalaje, transporte, 
+carga, descarga, montaje en obra, todas las labores auxiliares y obra civil necesaria, 
+puesta en servicio de la instalación eléctrica en 2 20/15 kV completa, incluyendo 
+también el suministro, montaje y puesta en servicio de todos los elementos 
+necesarios para los servicios auxiliares en baja te nsión, Cuadros de Baja Tensión, 
+alumbrado normal y de emergencia, tomas de corrient e, red de tierras, edificio 
+auxiliar, etc. 
+ 
+ En el esquema unifilar del Plano nº 2046-PLN-INA-2 1-01-1001 se define la 
+estructura de la Subestación. La subestación y sus instalaciones auxiliares, se 
+deberá entregar funcionando en perfectas condiciones y legalizada. 
+ 
+ Los límites del Proyecto serán los siguientes: 
+ 
+ * En el lado de 220 kV, soporte de terminales de cable enterrado de conexión con 
+S/E Nodal con los elementos necesarios para la recepción. 
+ 
+ * En el lado de 15 kV, bornas de baja tensión del transformador de 62,5 MVA, 
+ 
+ 
+ 
+ 
+ 
+
+[page 11]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 6
+1.6.. Programa de Necesidades y potencia instalad a en kVA 
+ Esta subestación se alimenta en 15 kV desde una ce lda denominada “ Cabina 15 kV 
+Acometida I1BBA05“ a cuyo embarrado esta conectada en la celda 
+correspondiente de el Turbo Grupo de 63,4 MVA de la Planta Termosolar , por lo 
+que en la potencia máxima de rendimiento de la Planta Termosolar puede 
+soportarla y elevarla a 220 kV para su exportación 
+ 
+1.7. Descripción de la instalación 
+1.7.1. Obra Civil 
+ Alcance 
+ 
+ La obra civil incluirá, en términos generales, el siguiente alcance: 
+ 
+- Conjunto de cerramiento metálico formado por perf ilería y malla acorde a las 
+características habituales para este tipo de subest ación en el exterior y en todo el 
+perímetro, incluyendo puerta de entrada de vehículo s y personas y señalizaciones 
+de peligro "Alta tensión". 
+ 
+- Conjunto de cimentaciones para los equipos y pórticos de la instalación. 
+ 
+- Cimentaciones para un (1) transformador de potenc ia de 62,5 MVA., relación 
+220/15 kV. 
+ 
+- Depósito de recogida de aceites y tubos y arquetas necesarias. 
+ 
+- Caminos de cables necesarios a la instalación (canales, bandejas, conductos, etc.) 
+dentro del recinto de la subestación. 
+ 
+- Capa de grava de 10 cm. de espesor mínimo, limpia y clasificada de 0,5 a 
+0,002m extendida en toda la superficie de la subestación. 
+ 
+-P.A. de auxiliares necesarios para conseguir un bu en grado de acabado de la 
+instalación. 
+
+[page 12]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 7
+ 
+La obra civil prevista a ejecutar es la que figura en los planos del cuadrante 
+siguiente, que se aportan en el apartado correspondiente: 
+ 
+Planos Planos Planos Planos Edic. Edic. Edic. Edic. Denomi Denomi Denomi Denomi nación nación nación nación 
+2046 -PLN -INA -23 -52 -1001 3 Subestación 220/15 kV Obra Civil Planta 
+2046 -PLN -INA -23 -52 -1002 2 Subestación 220/15 kV Obra Civil Planta 
+2046 -PLN -INA -23 -52 -1002 2 Subestación 220/15 kV Disposición General 
+Fundación Trafo de Potencia (F4) 
+ 
+ 
+ 
+Local 
+Es una Subestación intemperie de 27 metros x 24 metros ( 648 m 2 ) completamente 
+cerrada 
+ 
+ 
+ Fundaciones 
+Dadas las características geotécnicas del terreno, se han diseñado fundaciones, 
+para todos los apoyos de los pórticos y los soporte s de aparatos, del tipo 
+monobloque, en hormigón sin armar y de dimensiones adecuadas a las bases de 
+las estructuras y soportes y a las cargas que tienen que soportar. 
+ 
+ La fijación de las estructuras y soportes a las f undaciones se hará mediante pernos 
+ de anclaje embutidos en la fundación y con la cab eza roscada. 
+ 
+ La nivelación y fijación de las bases metálicas a los pernos se hará con tuercas, que 
+ posteriormente serán cubiertas con hormigón con a cabado en punta de diamante. 
+ 
+ La fijación de los soportes de alumbrado a sus fu ndaciones será mediante tacos de 
+ expansión. 
+ Cuando sea de aplicación se dejarán tubos embutid os en las fundaciones para el 
+ paso de los cables de control, protecciones, medi da y alumbrado necesarios, desde 
+ los canales de cables. 
+ 
+ Para el transformador de Potencia se ha previsto una bancada, formada por una 
+ losa central, adecuada para soportar el transform ador y rodeada de un canal 
+ perimetral, incorporado a la losa, destinado a la recogida de aceite para su 
+ canalización y vertido al pozo de recogida, situa do próximo a la bancada. El canal 
+ de recogida de aceite se rellenará de piedra pica da para cumplir las funciones de 
+ cortafuegos. 
+ 
+
+[page 13]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 8
+Canales de Cables y Drenajes 
+Para el tendido de los cables de la subestación se construirán canales con bloques 
+normalizados de hormigón prefabricado, con tapas. 
+ 
+ Se han previsto dos tipos de canales de cables, u no de 300 mm de anchura para 
+ recoger los cables de cada campo y otro de 550 mm de anchura para los tramos 
+ de canales comunes a varios campos o para los cab les de media tensión. 
+ 
+ La profundidad de los canales se ha previsto de 2 00 mm y 400 mm 
+ respectivamente. 
+ 
+ Los cables se tenderán sobre el suelo de los cana les, en varias capas si fuera 
+ necesario. 
+ 
+ Por debajo de los canales se colocará un tubo de drenaje de 150 mm de diámetro, 
+ rodeado de piedra picada y sobre ésta se colocará n los módulos prefabricados de 
+ los canales de cables. 
+ 
+ En las zonas donde no hay canales se instalarán l os tubos de drenaje a la 
+ profundidad que corresponda, para su enlace con e l resto de canalizaciones de 
+ drenaje, con objeto de conseguir un drenaje de to da la superficie ocupada por la 
+ subestación. 
+ 
+ Los tubos colocados bajo los canales se conectará n a las arquetas colectoras de 
+ drenaje, instaladas junto a uno de los laterales del cerramiento, para su conexión a 
+ la red de drenajes de la Planta. 
+ 
+
+[page 14]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 9
+ Cerramiento 
+A lo largo de todo el perímetro de la Subestación s e colocará un cerramiento 
+metálico reglamentario. 
+ 
+ El cerramiento se construirá con los siguientes e lementos: 
+ 
+ - Malla metálica galvanizada, simple torsión de 5 0/50/2,5, de 2 m de altura 
+ 
+ - Postes de tubo de acero galvanizado de 2" 
+ 
+ - Tornapuntas de tubo de acero de 2" en las esqui nas 
+ 
+ - Puerta de dos hojas de 6 m de anchura con una p uerta de personal de 1 m de 
+ anchura incorporada en una de las hojas 
+ 
+ - Soportes para las puertas formadas por dos perf iles UPN –100 
+ 
+ - Murete de 0.3 m sobre el nivel del suelo para a nclaje de los postes, tornapuntas y 
+ soportes de la puerta 
+ 
+ - Tres alambres de espino a colocar en la parte s uperior del cerramiento, por 
+ encima de la malla. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 15]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 10 
+1.7.2. Instalación eléctrica 
+Características de la red de alimentación 
+ Esta Subestación Eléctrica es elevadora y se alimenta en 15 kV a través de un blindo 
+de la casa VILFER ELECTRIC de 17,5 kV / 3150 A que puede transportar los 2.405,63 
+amperios que es la potencia máxima que puede transformar el transformador de 
+62,5 MVA de esta Subestación. 
+ 
+ En proyecto especifico de 15 kV cuyo titulo es : 
+Helios I 
+Proyecto de Ejecución 
+de la Instalación de Media 
+Tensión de la Planta 
+ 
+ se detalla con mas amplitud esta aparamenta. 
+ 
+ 
+Características de la aparamenta de alta tensión 
+ Transformador 220/15 kV 62,5 MVA (TP) 
+ El transformador será de tipo trifásico con las s iguientes características principales: 
+ 
+Instalación Intemperie 
+Relación de Transformación 220 ± 10 x 1,5 % / 15 kV 
+Potencia 62,5 MVA 
+Grupo de Conexión YNd11 
+Frecuencia Nominal 50 Hz 
+Niveles de Tensión 
+ Primario 
+ Secundario 
+ 
+220 kV 
+15 kV 
+Niveles de Aislamiento (BIL) 
+ Primario 
+ Secundario 
+ Neutro AT 
+ 
+1050 kV 
+95 kV 
+450 kV 
+ 
+ 
+ 
+
+[page 16]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 11 
+Transformadores de Intensidad 
+ Los TIs embebidos en los pasatapas del primario de l trafo tienen las siguientes 
+características: 
+ 
+Intensidad nominal primaria 200 A 
+Intensidades nominales secundarias 5-5-5-5 A 
+Frecuencia nominal 50 Hz 
+Características de los arr ollamientos secundarios : 
+Secundario nº 1 (Protección) 
+Secundario nº 2 (Protección) 
+Secundario nº 3 (Protección) 
+Secundario nº 4 (Proteccion) 
+ 
+Cl. 5P30 - 30 VA 
+Cl. 5P30 - 30 VA 
+Cl 5P30 - 30 VA 
+Cl. 5P30 – 30 VA 
+Tensión de ensayo a impulso 1,2/50 µs ( kV cresta ) 1050 kV 
+Tensión de ensayo a frec. industrial, 1 min 460 kV 
+Tensión de ensayo a frec. industrial de los sec., 1 min 3 kV 
+Intensidad límite térmica nominal 1,2 In 
+Intensidad límite térmica,1s 40 kA 
+Intensidad límite térmica (cresta 100 KA 
+ 
+ 
+ 
+
+[page 17]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 12 
+Seccionador (89 L2/PTL2) 
+ Seccionador con PaT tripolar de dos columnas por polo y apertura central, con las 
+siguientes características principales: 
+ 
+Instalación Intemperie 
+Tensión nominal 220 kV 
+Tensión máxima de servicio 245 kV 
+Intensidad nomina l 2000 A 
+Frecuencia nominal 50 Hz 
+Accionamiento cuchillas principales Eléctrico y manual 
+Accionamiento cuchillas PaT Manual 
+Intensidad admisible de corta duración (1s) 40 kA 
+Sobreintensidad dinámica (valor cresta) 80 kA 
+Tensión de ensayo a impulso, 1,2/50 µs (kV cresta) : 
+A tierra 
+Sobre distancia de seccionamiento 
+ 
+1050 kV 
+1200 kV 
+Tensión de ensayo a frecuencia industrial, 1 min : 
+A tierra 
+Sobre distancia de seccionamiento 
+ 
+460 kV 
+530 kV 
+Tensiones auxiliares: 
+Tensión para mando de motores 
+Tensión para calefacción 
+ 
+125 V cc 
+230 V ca 
+ 
+ 
+Pararrayos Autoválvula (PY1L y PY2T) 
+ Pararrayos de öxido de Zinc, con envolvente cerámi ca , con las siguientes 
+características principales: 
+ 
+Instalación Intemperie 
+Tipo de pararrayos ZnO 
+Tensión nominal del sistema 220 kV 
+Frecuencia nominal 50 Hz 
+Tensión máxima de servicio entre fases 245 kV 
+Tensión nominal del pararrayos 198 kV 
+Tensión de operación continua > 141 kV 
+Intensidad nominal de descarga 10 kA 
+Tensión máxima residual, 10 kA, Onda 8/20 µs 476 kV 
+Clase de descarga, según CEI 3 
+Longitud de la línea de fuga 25 mm / kV 
+ 
+
+[page 18]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 13 
+ Reactancia ( L1 ) 
+ Reactancia para formación de neutro, con las sigu ientes características: 
+ 
+Instalación Intemperie 
+Refrigeración ONAN 
+Conexión y grupo Zig - Zag 
+Tensión nominal 15 kV 
+Intensidad permanente del neutro 10 A. 
+Intensidad de defecto por neutro 300 – 30 seg. 
+Impedancia homopolar 86,6 Ω 
+ 
+Resistencia de puesta a tierra (R1) 
+ Reactancia para formación de neutro, con las sigu ientes características 
+ 
+Intensidad Intemperie 
+Valor óhmico nominal 866 Ω ( ± 10 % ) 
+Tensión nominal del sistema 15 kV 
+Corriente de fallo nominal 10 A – 30 seg 
+ 
+1.7.3. Medida de la energía eléctrica 
+Esta Subestación dispone de equipo de medida en 220 kV, estando está 
+representada en el Unifilar de este proyecto 
+ 
+ 
+1.7.4. Puesta a tierra 
+El plano 2046-PLN-INA-23-33-001 en Edic 2 del 20-06-2011 queda indicada la red 
+de herrajes de este proyecto. 
+ 
+Atendiendo a la reglamentación vigente, para este t ipo de instalaciones, se 
+conectarán a tierra todos los elementos metálicos que no estén bajo tensión. 
+ 
+De acuerdo con esto, se ha previsto la conexión a t ierra del cerramiento metálico y 
+de todos los soportes metálicos y las bases de los equipos y los elementos 
+auxiliares que lo requieran y que forman parte de l a Subestación, con cable de 
+cobre de 95 mm 
+2. 
+ 
+Estas conexiones se harán hasta una malla enterrada en el área ocupada por los 
+equipos e instalaciones incluidas dentro del recint o de la Subestación, formada por 
+cable de cobre de 70 mm 2, en cuadrículas de 4x4 m aproximadamente, colocada a 
+una profundidad de 0,6 m. 
+
+[page 19]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 14 
+ 
+La Superficie de la Subestación estará cubierta por una capa de grava de 10 cm es 
+espesor y tamaño 0,02 a 0,025 m. 
+ 
+Las conexiones entre cables de la malla enterrada y a las derivaciones desde esta 
+malla para conexión a los diferentes elementos, se harán por medio de soldaduras 
+aluminotérmicas. 
+ 
+Las conexiones a las bases de los soportes se harán por medio de petacas para dos 
+cables paralelos, a las que se conectarán el cable de derivación de la malla 
+enterrada y el cable de subida para conexión a tier ra de la base del equipo y 
+elementos auxiliares que lo requieran. 
+ 
+Las conexiones a las bases de los equipos o element os auxiliares se harán con 
+terminales. 
+ 
+
+[page 20]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 15 
+Se emplearán para estas conexiones grapas y terminales adecuados de aleación de 
+cobre. 
+Se instalarán unas conexiones de tierra desde la ma lla enterrada hasta dos puntos 
+de conexión situados en los canales de cables de ca da uno de los edificios, para 
+posterior conexión a estos puntos de todos los paneles y equipos que lo requieran. 
+ 
+ 
+Se conectarán directamente a tierra, sin uniones de smontables intermedias, por lo 
+que se harán estas uniones con soldaduras, las cone xiones de los siguientes 
+elementos: 
+ 
+• Neutro de 220 kV del transformador de potencia 
+• Neutros de los transformadores de medida 
+• Cables de tierra de las líneas aéreas 
+• Cuchillas de puesta a tierra de los seccionadores 
+• La puesta a tierra de los pararrayos. 
+ 
+ 
+Se colocarán 6 picas de Tierra de 2 metros de longi tud de acero recubierto de 
+cobre en arqueta de 60x60x60 cms. Se dispondrán per imetralmente a la 
+Subestación tal y como se refleja en el Plano nº 20 53-PLN-INA-23-33-1001 del 
+documento Planos del presente Proyecto. 
+ 
+El dimensionamiento de la malla de tierra se ha hec ho en base a la recomendación 
+de la IEEE8086, partiendo de los datos siguientes: 
+ 
+-Potencia de cortocircuito monofásica y tiempo de d espeje del defecto en la 
+Subestación según datos de Compañía Suministradora y documento “SE Nodal 
+400/220 kV, Memoria de Cálculo, Flujo de Cargas y C orrientes de Cortocircuito 
+ref: TMO0-4012-CC-0005” 
+ 
+-Resistividad del terreno estimada según la composición del mismo 
+ 
+ 
+
+[page 21]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 16 
+1.7.5. Instalaciones secundarias 
+Alumbrado 
+El plano 2046-PLN-INA-23-31-2014 es el plano del alumbrado previsto, consistente 
+en alumbrado de lámparas de descarga de vapor de sodio de alta presión instalado 
+en proyectores adosados a paramentos verticales y en columnas. 
+ 
+También se ha previsto dos tomas de corriente estanca que nos pudiera ser útil en 
+futuras actuaciones de mantenimiento, conservación, tarados de relés, etc. 
+ 
+ 
+ Cableado de Baja Tensión 
+El cableado de baja tensión y sus elementos auxilia res asociados se usará para la 
+ejecución de las distintas interconexiones de Baja Tensión. 
+ 
+Para las interconexiones de B. T. entre los equipos de campo y los bastidores y 
+paneles de protecciones y control, se utilizan cabl es de cobre tipo RZ1 0,6/1 kV, 
+con número de conductores y secciones de los mismos , de acuerdo con las 
+necesidades y los agrupamientos que se hagan. 
+ 
+ Todos los conductores de control y protecciones s erán con conductores 
+ numerados y de las siguientes secciones: 
+ 
+• 1,5 mm 
+2 para los circuitos de control y señalizaciones 
+• 2,5 mm 2 para los circuitos de mando 
+• 4 mm 2 para los circuitos tensiones e intensidades (excepto facturación) 
+• 6 mm 2 para los circuitos tensiones e intensidades para facturación 
+ 
+ Para las alimentaciones de Servicios Auxiliares s e utilizarán las secciones adecuadas 
+ a las cargas a soportar. 
+ 
+ Para las señales analógicas se utilizarán cables apantallados. 
+ 
+Los cables estarán tendidos en canales registrables y protegidos con tubos de PVC 
+en las salidas desde los canales hasta las proximid ades de las cajas de formación o 
+de conexión de cada uno de los equipos de intemperi e, como protección 
+mecánica, haciéndose la entrada de los cables en la s correspondientes cajas por 
+medio de prensaestopas. 
+ 
+Todos los cables e hilos están convenientemente ide ntificados en cada una de sus 
+puntas, con señalizadores numerados para los hilos y placas con la denominación 
+del cable escrita con rotulador indeleble. 
+
+[page 22]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 17 
+ 
+Se utilizarán cajas de formación para el agrupamien to de los cables de campo de 
+los secundarios de los transformadores de medida y protección, una por cada 
+conjunto de tres transformadores. 
+ 
+Las cajas de formación serán metálicas, para instal ación intemperie y contendrán 
+las regletas de bornas y elementos auxiliares necesarios de acuerdo con los criterios 
+definidos en los Esquemas Desarrollados. 
+ 
+En las cajas de formación de tensiones se instalará n magnetotérmicos, para 
+protección de los circuitos secundarios, equipados con contactos auxiliares para 
+dar alarma en caso de apertura de los magnetotérmicos correspondientes. 
+ 
+Una resistencia de 50 Ω se instalará en las cajas de formación de tensione s, 
+cuando proceda, para cerrar el secundario conectado en triángulo abierto. 
+ 
+ 
+ Elementos de Seguridad 
+ La subestación dispondrá el conjunto de elementos de seguridad siguiente 
+ 
+ - Cable de P. a T. con grapas y pivotes para Kcc= 40 kA–0.5 s 
+ 
+ - Pértiga aislante de 6 a 8 m 
+ 
+ - Detector de tensión 220 kV, luminoso y acústico . 
+ 
+ - Detector de tensión 15 kV, luminoso y acústico. 
+ 
+ - Pértiga aislante para maniobra a 220 kV. 
+ 
+ - Pértiga aislante para maniobra a 15 kV. 
+ 
+ - Pértiga de salvamento 
+ 
+ - Banqueta aislante 
+ 
+ - Guantes aislantes 
+ 
+ - Pipeta de respiración artificial 
+ 
+ - Frasco de sales 
+
+[page 23]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ - Extintores 
+ 
+ - Instrucciones de primeros auxilios, de maniobra y esquema unifilar de la instalación. 
+ 
+ - Placas de Peligro de Muerte. 
+ 
+ - Cartel con las 5 Reglas de Oro. 
+ 
+ - Banderola de señalización y placa de prohibido maniobrar. 
+ 
+ -Todos aquellos otros elementos necesarios para el cumplimiento con la normativa y 
+legislación vigente. 
+ 
+ 
+. 
+1.8. Conclusión 
+Con todo lo anteriormente expuesto y con los planos que se acompañan, creemos 
+haber dado una clara idea de la obra a realizar, esperando por ello la autorización del 
+presente proyecto. 
+ 
+ 
+1.9. Documentos 
+ Además de la presente Memoria, se acompañan los s iguientes documentos: 
+ 
+ Cálculos 
+ Pliego de Condiciones 
+ Presupuesto 
+Estudio Seguridad y Salud 
+Planos. 
+ 
+ 
+En Arenas de San Juan, diciembre de 2011 
+ 
+ El Ingeniero Autor del Proyecto 
+ 
+ 
+ Fdo: Julio Canon Guillamón 
+ Colegiado nº 2788 (ICAI) 
+
+[page 24]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperión Energy Investments , S.L. 
+ en Arenas de San Juan (Ciudad Real) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Cálculos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1. Intensidad de Alta Tensión (220 KV) 
+ En un sistema trifásico la intensidad primaria vi ene determinada por la expresión: 
+ IP = P/ √ 3 x VP 
+ 
+ siendo: 
+ P = Potencia en KVA del transformador 
+ VP Tensión primaria en KV. . 
+ IP = Intensidad primaria en A. 
+ 
+ 
+ Sustituyendo valores, tendremos: 
+ IP = 62.500 / √ 3 x 132 = 164,02 A. 
+ 
+ Para la conducción de esta corriente se recurrirá al empleo de el cable CONDOR 
+que admite una carga de 889 A 
+ 
+
+[page 25]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 2
+2.2. Intensidad de Media Tensión (15 KV) 
+ En un sistema trifásico la intensidad secundaria viene determinada por la 
+expresión: 
+ 
+ IS = P / √ 3 x VS 
+ 
+ siendo: 
+ 
+ P = Potencia en KVA . 
+ VS = Tensión compuesta secundaria en KV. 
+ IS = Intensidad secundaria en A. 
+ Sustituyendo valores, tendremos: 
+ 
+ IS = 62.500 / 1,73 x 15 = 2.405,63 A. 
+ 
+ Para la unión del secundario del transformador y las cabinas correspondientes de 
+20 KV el circuito previsto el empleo de blindo de 3.1500 A. 
+
+[page 26]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 3
+2.3. Cortocircuitos 
+ Observaciones 
+ Cálculos de la corrientes de cortocircuitos 
+Partimos de la potencia de cortocircuito prevista d e 9.145 MVA, en esta 
+Subestación. 
+ 
+ Para la realización del cálculo de la corriente d e cortocircuito utilizaremos las 
+expresiones : 
+ 
+ Alta Tensión: Alta Tensión: Alta Tensión: Alta Tensión: 
+ 
+ ICCP = Pcc1 / √ 3 x VP 
+ 
+ Siendo : 
+ 
+ Pfz = Potencia de cortocircuito de la red en MVA (ONAF) 
+ VP = Tensión primaria en KV. 
+ ICCP = Intensidad de cortocircuito primaria en KA 
+ 
+ 
+ 
+ Media Tensión: Media Tensión: Media Tensión: Media Tensión: 
+ 
+ ICCS = P / ( √ 3 x (VCC /100) x VS x 1000) 
+ 
+ Siendo : 
+ 
+ Pfz = Potencia del transformador en KVA (ONAF) 
+ VCC = Tensión porcentual de cortocircuito del tra nsformador 
+ VS = Tensión secundaria en KV. 
+ ICCS = Intensidad de cortocircuito secundaria en KA. 
+ 
+ 
+
+[page 27]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 4
+Con los formularios anteriores obtenemos los siguientes resultados : 
+ 
+Cortocircuito en el lado de alta tensión (132 kV) 
+ Utilizando la fórmula expuesta anteriormente, y s ustituyendo valores, tendremos : 
+ 
+ ICCP = 3.772 / 1,73 x 132 = 9,90 KA 
+ 
+La aparamenta de 132 kV es toda de 40 kA. . 
+ 
+ 
+ 
+ Cortocircuito en el lado de media tensión (15 kV) 
+ Utilizando la fórmula expuesta anteriormente, y s ustituyendo valores, tendremos: 
+ 
+ ICCS = 62.500 / (1,73 x (13 /100) x 15 x 1.000) = 18,5 KA. 
+ 
+ La potencia de cortocircuito en 15 KV será : 
+ Pcc2 = 1,73 x 18,5 kA x 15 KV = 481 MVA. 
+ 
+ 
+ 
+ 
+
+[page 28]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 5
+2.3. Dimensionado del embarrado 
+2.4.1. Cable de Interconexión de Equipos. Embarrad o. 
+ El cable elegido para realizar las interconexione s de equipos es el denominado 
+Condor y tiene las siguientes características: 
+ 
+ 
+Cable de Aluminio -Acero. Denominación Condor 
+Características Características Características Características Magnitudes Magnitudes Magnitudes Magnitudes 
+Denominación Cóndor 
+Sección Total (Acero y Aluminio) 454.5 mm 2 
+Formación 54x3.08 Al / 7x3.08 Ac 
+Diámetro total 27.76 mm. 
+Carga de rotura [Cr] 12.950 Kg. 
+Peso [Pp] 1.514 Kg. /km. 
+Resistencia Eléctrica a 20º C. [ R] 0,07191 Ω / Km. 
+Intensidad máxima admisible [Imáx] 889 A. 
+Sección de Conductor de Aluminio 402,84 mm 2 
+ 
+2.4.2. Cálculo por densidad de corriente ( Intensi dad nominal ) 
+ La intensidad nominal del cable elegido es I n,c = 889 A según el fabricante. 
+ 
+ La intensidad máxima permanente de la instalación en estudio es: 
+ 
+ 
+AI MVA 02 ,164
+2203
+62500
+5 , 62 =
+⋅
+= 
+ 
+ Puesto que la intensidad nominal del cable es muy superior a la intensidad máxima 
+ permanente (889>>>164,02 A) que se puede producir en la Subestación, el cable 
+Condor elegido es válido desde el punto de vista de la intensidad nominal. 
+ 
+Conclusión Cálculos Sección de Cable I n SE Helios I 
+Conductor Cóndor 454 mm 2 
+Imax In Criterio 
+889 A 164,02 A Válido 
+ 
+
+[page 29]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 6
+2.4.3. Cálculo por solicitación electrodinámica (I ntensidad de cortocircuito 
+Según se cita en el punto 3 de este documento, la i ntensidad de cortocircuito 
+máxima que se puede producir en la Subestación Helios I es de 
+ 
+Icc,3f = 9,90 kA 
+ 
+A este valor eficaz de corriente le corresponde un valor de pico igual a: 
+ 
+Ip, = 9,90 *2,55 = 25,24 kA 
+ 
+La intensidad térmica en cortocircuito viene dada s egún UNE-EN 60865 por la 
+expresión: 
+ 
+)( nmII p +×=θ 
+ 
+El valor “m”, denominado disipación térmica correspondiente a la componente de 
+corriente continua en sistemas trifásicos y monofás icos, se obtiene mediante el 
+diagrama de la fig. 12.a de la norma UNE-EN 60865-1:1993. 
+ 
+Para obtener el valor m del diagrama comentado, es necesario previamente 
+obtener el valor k con el que se “entra” en dicho d iagrama. Dicho valor k viene 
+definido por la siguiente ecuación exponencial, que es función de la relación entre 
+la impedancia y la reactancia: 
+X
+R
+xk
+3
+98 , 002 , 1
+−
++= λ 
+ 
+En nuestro sistema, tal y como se define en el punt o 3 del presente documento, la 
+relación X/R=4,295. Sustituyendo valores se obtiene: 
+ 
+ k=1,5073 
+ 
+Mediante los valores obtenidos de k y f*T 
+k (frecuencia de la red y tiempo de disparo) se 
+puede obtener m entrando en el diagrama de la figur a 12.a de UNE-EN 60865-1:1993 o 
+bien sustituyendo en la siguiente ecuación, de la cual se obtiene el mencionado diagrama: 
+ 
+ 
+02947, 0) 1(2
+) 1( ) 1 (4
+=−
+−=
+−
+kLfT
+em
+n k
+k L fTn k
+ 
+ 
+ 
+
+[page 30]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 7
+ 
+El valor de “n” se obtiene mediante el diagrama 12. b de UNE-EN 60865-1:1993, 
+obteniendo el siguiente valor de n: 
+ 
+ n = 0,65 
+ 
+Aplicando los valores comentados, se obtiene finalm ente una intensidad térmica de 
+cortocircuito: 
+ 
+KAnmII pS 807. 20)(, =+×=θ 
+ 
+Este valor debe ser menor que la capacidad térmica del cable I θ,c , que viene dada por el 
+producto de la densidad máxima de corriente del cable ( ρ ) y su sección (S). 
+ 
+Según UNE-EN 60865, para un cable de tipo ACSR como el utilizado, ρ = 110 A/mm 2 
+(proceso adiabático, T b=80ºC y T e=300ºC), por tanto 
+ 
+KAI C 67 , 62284 ,402110, =⋅⋅=θ 
+ 
+EL valor de la densidad de corriente se obtiene mediante el diagrama 13.b de UNE-EN 
+60865-1:1993, para una temperatura inicial de 80ºC y una final de 300ºC. 
+A su vez, dicha ecuación es multiplicada por 
+2puesto que el valor de la densidad de 
+corriente que se obtiene del diagrama 13.b es para tiempos de despeje de falta de T kr =0,5 
+sg, teniendo nuestro sistema un T k=0,5 sg: 
+ 
+ 
+k
+kr
+thrth
+T
+TSS ≤ 
+ 
+Puesto que I 
+θ,c > I θ,S , el cable elegido es apropiado para la subestación proyectada desde 
+el punto de vista del esfuerzo de cortocircuito a efectos térmicos. 
+ 
+ 
+ 
+Conclusión Cálculos Icc a efectos térmicos SE Helios I 
+Iθ,C (KA) Iθ,s (KA) Criterio Resultado 
+62,67 20,807 Iθ,C > I θ,s Sistema Válido 
+ 
+
+[page 31]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 8
+ 
+2.5. Selección de fusibles de alta tensión baja te nsión 
+ No aplica ya que no se emplean en estas instalaci ones 
+ 
+ 
+2.6. Dimensionado de la ventilación de la subestac ión 
+ No aplica por ser una instalación intemperie 
+ 
+ 
+2.7. Dimensionado del pozo apagafuegos 
+ El foso será de revestimiento estanco. 
+ 
+En el foso de revestimiento estanco la capacidad de este será es siempre superior a la 
+del dieléctrico de la maquina transformadora. En este proyecto su ubicación es en la 
+verticalidad del mismo transformador. 
+ 
+Se aporta el plano constructivo del mismo 
+ 
+ 
+ 
+ 
+
+[page 32]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 9
+2.8. Cálculo de las Instalaciones de puesta a tierra 
+2.8.1. Objeto 
+El objeto de este estudio es la justificación técnica de la red de tierra enterrada a 
+instalar en la nueva Subestación 220/15 kV denominada “Helios 1”. Esta 
+subestación se construye para evacuar la energía de la planta solar Helios 1. 
+ 
+ 
+2.8.2. Método de cálculo 
+El método de cálculo está basado en la norma ANSI/IEEE Standard 80-2000 IEEE 
+Guide For Safety in Substation Grounding , documento de amplio uso en el cálculo 
+de redes de tierra. 
+ 
+Las tensiones de paso y contacto obtenidas por el citado método se compararán 
+con los valores admitidos por el Reglamento sobre Condiciones Técnicas y 
+Garantías de Seguridad en Centrales Eléctricas, Subestaciones y Centros de 
+Transformación e Instrucciones Técnicas Complementarias MIE-RAT (RCE en 
+adelante). Esta norma, de obligado cumplimiento, es la norma de referencia en 
+España. 
+ 
+ 
+2.8.3. Tensiones de paso y contacto admisibles 
+Según el RCE, los niveles de tensión admisibles en función del tiempo de 
+exposición se recogen en la Instrucción Técnica Com plementaria MIE-RAT 13. Las 
+tensiones máximas de paso y contacto, en voltios, que se pueden aceptar, vienen 
+dadas por: 
+ 
+
+
+
+
+ ρ+= 000. 1
+61t
+K10Vp
+s
+n V 
+Vc = 
+
+
+
+ ρ+= 000. 1
+5 , 11t
+KVc
+s
+n V 
+ 
+donde 
+K = 72 y n = 1 para tiempos de despeje de falta (t) menores 0,9 seg. 
+K = 78,5 y n = 0,18 para 0,9 < (t) < 3 seg. 
+ρ
+s = Resistencia superficial en Ω x m 
+ 
+
+[page 33]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 10 
+y se ha supuesto que 
+ 
+R cuerpo humano = 1.000 Ω 
+Resistencia del terreno bajo cada pie = 3 ρs , 
+ 
+Para el caso de la Subestación Helios los valores que tenemos son. 
+ 
+t = 0,5 s 
+ρ
+s = 3000 Ω x m, conseguida con la capa de piedra machacada q ue cubre 
+toda la superficie de la SE 
+ 
+Por lo tanto, las tensiones admisibles de paso y contacto son: 
+ 
+Vp = 27360 V 
+Vc = 792 V 
+
+[page 34]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 11 
+2.8.4. Cálculo de las tensiones de paso y contacto 
+2.8.4.1. Datos de partida 
+Los datos de partida para diseño para el diseño de la red de tierra, son: 
+ 
+Intensidad de defecto a tierra, I E = 7,6 kA 
+Duración del defecto, t = 0,5 s (tiempo de despeje hab. de la falta) 
+Resistividad del terreno ρ = 75 Ω x m (Valor estimado de resistividad) 
+ 
+La malla se enterrará a una profundidad de 0,6 m 
+ 
+ 
+ 
+2.8.4.2. Cálculos justificativos 
+2.8.4.2.1. Conductor de tierra 
+La intensidad de falta monofásica máxima es, de acu erdo a la información del 
+cliente, I E = 7,6 kA. 
+ 
+De acuerdo a ITC MIE-RAT 13, la sección mínima resu ltante para un cable de 
+cobre es por tanto: 
+ 
+250 , 47160
+7600 mmS == 
+ 
+El conductor que se va a utilizar es de 70 mm 2. ( Plano pone 9 
+ 
+Nota: En el cálculo de la sección se ha optado por el criterio conservador de 
+considerar riesgo de incendio por elevación de la t emperatura del 
+conductor. (200 ºC max.) 
+ 
+Este conductor se tenderá en retículas de dimension es medias 4 x 4 m, y se 
+instalarán 4 picas de 2 m en el perímetro de la sub estación. La longitud total 
+de cable enterrado será de 660 m. El diseño de la m alla se puede ver en el 
+plano 2046-PLN-INA-23-33-0001. 
+ 
+ 
+
+[page 35]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 12 
+2.8.4.2.2. Resistencia de Malla 
+Según se recoge en la IEEE 80/2000, la resistencia de la red se calcula 
+aplicando la siguiente fórmula: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
++
++×+=
+AhALR
+m
+/20*1
+11
+*20
+11*ρ 
+ 
+donde: 
+Rm = Resistencia de la malla en Ω . 
+ρ = Resistividad del terreno natural en Ω *m. 
+A = Area cubierta por la red en m 2. 
+Lc = Longitud total del conductor enterrado en m. 
+h = Profundidad del enterramiento en m. 
+ 
+Para la Subestación Helios se tiene: 
+ 
+ρ = 75 Ω *m 
+A = 1221 m 2 
+Lc = 660 m 
+ h = 0,6 m 
+ 
+Con los valores indicados, R m = 1,039 Ω . 
+ 
+Nota: No se está teniendo en cuenta que la red que la red de la 
+subestación está conectada a la red de la planta, c uya longitud de cable 
+enterrado se puede estimar en 3000 m y cubre una s uperficie muy 
+superior. 
+ 
+
+[page 36]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 13 
+2.8.4.2.3. Corriente de puesta a tierra 
+ 
+Al ser una instalación de más de 100 kV, según la I TC MIE-RAT 13, se 
+considera, a efectos de tensiones aplicadas de paso y contacto, el 70% de 
+la intensidad de corriente de puesta a tierra. Por tanto la corriente de 
+defecto a tierra en la instalación (I g) será: 
+ 
+Ig = 0,7 x IE = 0,7 x 7600 = 5320 A 
+ 
+Parte de esta corriente pasará a la red de tierra de la subestación y parte se 
+derivará por las conexiones a tierra de las pantall as del cable de 220 kV 
+que alimenta a la subestación. 
+ 
+Las pantallas se ponen a tierra en 4 puntos a lo la rgo del recorrido, 
+estimando la resistencia de puesta a tierra de cada una de estas 
+conexiones en R Emp = 10 Ω , y despreciando la resistencia de las propias 
+pantallas, la resistencia de la derivación (R der ) será: 
+ 
+Rder ~ R Emp /4 = 2,5 Ω 
+ 
+Por tanto, la corriente de puesta a tierra (I pt ) será: 
+ 
+ARR
+RII
+mder
+derg
+pt 3724
+'
+=+
+⋅= 
+ 
+ 
+
+[page 37]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 14 
+2.8.4.2.4. Tensiones de paso y contacto previstas 
+Como se ha mencionado, para calcular los valores teóricos de las tensiones 
+de paso y contacto se utiliza el método que figura en la norma IEEE Guide 
+for Safety in AC Substation Grounding . Según esta norma 
+ 
+Tensión de contacto: E c = ρ x K i x K m x l pt /L M 
+ 
+Tensión de paso: E 
+s = ρ x K i x K s x l pt /L S 
+ 
+Donde l pt y ρ se conocen de apartados anteriores 
+ 
+Km, K i y K s son tres coeficientes que permiten tener en cuenta la 
+irregularidad de la malla, el espaciamiento de cond uctores, etc, cuyas 
+fórmulas se indican a continuación: 
+ 
+nK i 148, 0644, 0 += 
+( )
+( ) 
+
+
+
+
+
+
+
+−+
+
+
+
+
+
+−++= 12
+8ln48
+2
+1612
+1
+22
+nK
+K
+d
+h
+Dd
+hD
+hd
+DnK
+h
+ii
+m
+ππ
+ 
+( ) 
+
+
+
+
+ −+++=
+−25 , 0111
+2
+11 n
+s
+DhDhK π
+ 
+ 
+LM y L S representan la superficie efectiva de conductor en terrado para el 
+cálculo de las tensiones de contacto y de paso resp ectivamente. Vienen 
+dados por las siguientes expresiones: 
+ 
+R
+yx
+r
+cM L
+LL
+LLL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+++=
+22
+22 , 155 , 1 
+ 
+ 
+RcS LLL ⋅+⋅= 85 , 075 , 0 
+ 
+ 
+
+[page 38]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 15 
+Siendo: 
+ 
+h = Profundidad de enterramiento de la malla = 0,6 m 
+D = Separación entre conductores paralelos = 4 m 
+d = Diámetro del conductor = 0,01085 m 
+1=iiK en mallas con picas 
+1 / 6 , 01/1 +=+= hohK h = 1,265 
+( 1ho = , profundidad de referencia de enterramiento) 
+Lx = Longitud de la malla en la dirección x = 37 m 
+Ly = Longitud de la malla en la dirección y = 33 m 
+Lr = Longitud de cada pica = 2 m 
+LR = Longitud total de las picas = 8 m 
+LP = Longitud del perímetro de la malla = 140 m 
+Pc LLn /2⋅= , numero efectivo de cond. paralelos = 10 
+ 
+Sustituyendo los valores citados: 
+ 
+Ki = 2,046 
+Km = 0,611 
+Ks = 0,414 
+ 
+Con estos coeficientes resulta una tensión de contacto prevista: 
+ 
+Ec = 516,66 V 
+ 
+Y una tensión de paso prevista: 
+ 
+Ep = 468,83 V 
+ 
+Como se ha referido en el apartado 3 de este docume nto, según la ITC 
+MIE-RAT 13, las tensiones de paso y contacto admisi bles en la instalación 
+son: 
+ 
+Tensión de contacto, Vc = 792 V. 
+ 
+Tensión de paso, Vp = 27360 V 
+ 
+
+[page 39]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 16 
+Comparando los valores de Ep y Ec, con Vp y Vc, se obtiene que 
+ 
+Ec < Vc y Ep < Vp 
+ 
+Podemos concluir por tanto que la red de tierra pre vista cumple con la 
+normativa aplicable ya que las tensiones generadas ante un defecto son 
+inferiores a las máximas admisibles. 
+ 
+ 
+2.9. Documentos 
+ Además de los presentes Cálculos, se acompañan los siguientes documentos: 
+ Memoria 
+ Pliego de Condiciones 
+ Presupuesto 
+ Estudio Básico de Seguridad y Salud 
+ Planos 
+ 
+En Arenas de San Juan, diciembre de 2011 
+ 
+ El Ingeniero Autor del Proyecto 
+ 
+ 
+ Fdo: Julio Canon Guillamón 
+ Colegiado nº 2788 (ICAI) 
+
+[page 40]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+
+[page 41]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperión Energy Investments , S.L. 
+ en Arenas de San Juan (Ciudad Real) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Pliego de condiciones 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.1. Calidad de los materiales 
+ Obra civil 
+ Corresponde al Contratista de la obra la responsabi lidad en la ejecución de los 
+trabajos que 
+ deberán realizarse conforme a las reglas del arte . 
+ 
+Previo al perforamiento del terreno para la prepar ación de las cimentaciones 
+necesarias se procederá a una adecuación de este. 
+ 
+ Todas las canalizaciones “zanjas” se realizarán guardando paralelismos y simetrías. 
+ 
+ En ninguna de las canalizaciones se realizarán cur vas con radios mínimos por lo que 
+una supuesta reposición o cambio de algún circuito puede hacerse con facilidad. 
+ 
+
+[page 42]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 2
+ El Trazado estará señalizado con arreglo a las no rmas vigentes, siendo obligatorio el 
+empleo de mojones cuando sean zanjas. 
+ 
+ Las zanjas tendrán unas dimensiones mínimas de 0 ,6 metros de profundidad por 0,3 
+metros 
+ de ancho. 
+ 
+ Todos los tubos de “hierro, fibrocemento y PVC” a emplear serán de paredes lisas. 
+Los de fibrocementos y PVC irán siempre con aportac ión de hormigón para 
+aumentar su resistencia mecánica en los pasos de carreteras. 
+ 
+ En los cambios de dirección siempre se emplearon a rquetas de hormigón. 
+ 
+ Todas las arquetas llevan tapas de hormigón, con argollas o perforaciones que 
+faciliten su 
+ levantamiento. 
+ 
+ Todas las arquetas estarán preparadas con los medi os usuales para ser permeables y 
+eviten el estancamiento de las aguas de lluvia. 
+ 
+ 
+ Aparamenta de AT 
+ Se omitirá este apartado expresamente puesto que en el apartado Memoria se ha 
+descrito 
+ de forma exhaustiva la misma. 
+ 
+ Transformadores 
+ En el apartado 1.7.2 se ha descrito el transformad or de potencia de 62,5 MVA 
+objeto de este proyecto. 
+ 
+ Equipo de medida 
+ 
+ No es necesario su utilización, la medida se efect uar en la Subestación Colectora que 
+es objeto de otro proyecto 
+ 
+
+[page 43]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 3
+3.2. Normas de ejecución de las instalaciones 
+ Generalidades 
+ En principio, las normas aceptadas para este proy ecto son las siguientes: 
+ 
+ - Normas UNE. 
+ - Recomendaciones de CEI. 
+ - Normas DIN. 
+ - Normas VDE. 
+ 
+ Tendido de Cables 
+ a.- En ternas de cables unipolares cada metro y medio van sujetos por bridas, 
+cintas o abrazaderas aislantes formando siempre un solo conjunto, en 
+instalación en bandeja. 
+ 
+ b.- En ningún caso, por un mismo tubo hay más de un ci rcuito. 
+ 
+ c.- Los cables entrarán en los edificios (salas de co ntrol y de mando) mediante 
+tubos y 
+posteriormente canalizados por zanjas en el suelo provista de tapa, hasta las 
+correspondientes cabinas (A.T.) o cuadros (B.T.) 
+ 
+ d.- Los tubos permitirán la instalación de los cables con la mayor facilidad 
+posible, siendo su disposición tal que los radios d e curvatura a que deban 
+someterse los cables no serán en ningún caso inferi or a 10 veces su 
+diámetro. 
+ 
+ e.- Una vez instalados los cables, se sellarán las boc as de los tubos de forma que 
+se asegure la estanqueidad de los mismos y la entra da de roedores que 
+puedan dañar la instalación. Así mismo, y para evi tar riesgo de corrosión 
+de los aislamientos de los cables, se mantendrá una limpieza extrema de la 
+zona evitando la presencia de substancias que entra ñen el riesgo de 
+corrosión. 
+ 
+f.- Los cables serán inmediatamente introducidos en s us terminales, estando 
+prohibido que queden los extremos de los cables de un día para otro sin 
+protección contra la entrada de polvo y humedad en el interior de su 
+aislamiento. Las pantallas de los cables quedarán conectadas a tierra. 
+ 
+
+[page 44]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 4
+g.- En todo momento se tomarán las medidas necesarias para asegurar la 
+protección mecánica de los cables y su identificac ión de acuerdo con 
+los esquemas correspondientes. 
+ 
+h.- Una vez tendidos los cables, se realizará un ensa yo de rigidez dieléctrica 
+sobre cada uno de ellos en presencia de la Propiedad. 
+ 
+i.- Todo el cableado de B.T. se realizará con conduct ores de cobre flexible, de 
+clase 5 S/UNE 21-02282, con aislamiento de PVC reta rdante al fuego, 
+fabricados de acuerdo con la norma aplicable 
+ 
+ j.- La unión cable-terminal (B.T.),estará protegida por un manguito aislante de 
+material retardante al fuego. 
+ 
+ 
+ k.- Todas las puntas de los cables se identificarán c on el nombre del aparato y el 
+ número de la borna a la que se conecta por medio de señalizadores 
+indelebles. 
+ 
+ l.- Los orificios de paso de cables a través de panele s metálicos se protegerán 
+mediante 
+ perfiles de material aislante que impidan el daño superficial de los 
+conductores. 
+. 
+ ll.- El acceso a los cuadros de los cables exteriores d e conexión, se realizará a ser 
+posible 
+ por la parte inferior de los mismos, donde se sitú an los huecos de paso de 
+cables 
+ correspondientes. 
+ 
+ m.- Las conexiones de B.T. se ajustarán a lo dispuesto en el Reglamento 
+Electrotécnico 
+ para Baja Tensión. 
+ 
+ 
+ Señalización de canalizaciones 
+ Todas las canalizaciones en zanja ,llevarán una ci nta de aviso de acuerdo a la 
+Recomendación UNESA 0205 colocada como mínimo a 0,4 0 metros bajo el nivel 
+del suelo. 
+ 
+
+[page 45]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 5
+ 
+ Identificación de los Conductores 
+ Todos los conductores llevan identificados en su c ubierta el nombre del fabricante, 
+código de identificación y la norma UNE de fabricación 
+ 
+ 
+ Puesta a Tierra de las Pantallas de los Conducto res 
+ Todas las pantallas de los cables están puesta a t ierra en los dos extremos del cable. 
+ En los cables unipolares y cuando las pantallas son aisladas solo esta puesta a tierra 
+en un solo extremo. 
+ 
+ 
+ Condiciones de los Circuitos de Puesta a Tierra 
+ Las puestas a tierra se realizarán de la forma ind icada en el documento Memoria, 
+debiendo observarse, además, las siguientes condiciones: 
+ 
+ a. a. a. a.-- -- En ninguno de los circuitos de puesta a tierra se intercalarán elementos de 
+ seccionamiento. 
+ 
+ b. b. b. b.-- -- Los circuitos de tierra se establecerán de manera que se eviten deterioros 
+debido a 
+ acciones mecánicas, químicas o de otra índole. 
+ 
+ c. c. c. c.-- -- La conexión del conductor de tierra se efectuará de manera que no exista 
+riesgo de 
+ aflojarse y/o soltarse. 
+ 
+ d. d. d. d.-- -- Los conductores de tierra serán de cobre y su sec ción será de 70 mm 2 Cu. 
+ 
+ e. e. e. e.-- -- Las derivaciones a equipos siempre son directas, n unca a través de masas 
+ metálicas u otro equipo. 
+ 
+ f. f. f. f.-- -- Todas las conexiones son o con clemas de bronce o cobre o con soldaduras 
+ aluminotérmicas. 
+ 
+ g. g. g. g.-- -- Las cubiertas metálicas de los conductores subterr áneos van todas puestas a 
+tierras. 
+ 
+ 
+ Alumbrado 
+
+[page 46]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 6
+ a. a. a. a.-- -- El mando del alumbrado se realiza por mecanismos l ocales situados dentro 
+del mismo recinto. 
+ 
+ b. b. b. b.-- -- En nuestros planos se indican los recursos instala dos que actualmente 
+cumplen estas necesidades. 
+ 
+ 
+ 
+ 
+ 
+
+[page 47]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 7
+3.3. Pruebas reglamentarias 
+ a. a. a. a.-- -- Como es natural todas las instalaciones serán prob adas y certificándose 
+estas en las 
+ propias instalaciones de este proyecto. 
+ 
+ b. b. b. b.-- -- No obstante la Autoridad Administrativa podrá exig ir cuantas pruebas y 
+protocolos 
+ estime conveniente para tener una clarividencia re al de la calidad y buen uso 
+que 
+ se está haciendo de estas instalaciones. 
+ 
+3.4. Condiciones de uso, mantenimiento y seguridad 
+ Cada uno de los fabricantes y/o suministradores de los equipos que integran este 
+proyecto 
+ entregarán, junto con el material y/o equipo de s u suministro, los manuales de 
+operación, 
+ mantenimiento y seguridad de sus equipos, los cua les serán integrados para formar el 
+ Manual de la Subestación. 
+ 
+ 
+3.5 Certificados y documentación 
+ La instalación objeto de este proyecto mantendrá actualizado un Libro de Ordenes de 
+ acuerdo con los requisitos de la reglamentación vigente para Unidades de 
+Cogeneración. 
+ 
+3.6 Documentos 
+Además del presente Pliego de Condiciones, se acomp añan los siguientes 
+documentos: 
+ Memoria 
+ Cálculos 
+ Presupuesto 
+Estudio Básico de Seguridad y Salud 
+Planos. 
+ 
+En Arenas de San Juan, diciembre de 2011 
+ 
+ El Ingeniero Autor del Proyecto 
+ 
+ Fdo: Julio Canon Guillamón 
+ Colegiado nº 2788 (ICAI) 
+
+[page 48]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+
+[page 49]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperión Energy Investments , S.L. 
+ en Arenas de San Juan (Ciudad Real) 
+ 
+ 
+ 
+ 
+4. Presupuesto 
+ 
+ 
+ 
+ 
+Concepto Concepto Concepto Concepto Euros Euros Euros Euros 
+ 
+Ingeniería 63.659,55 
+Obra civil 115.982,02 
+Suministro y montaje de aparamenta 49.712,64 
+Estructur as y soportes 9.689,87 
+Cuadros de protecciones y medida 139.036,55 
+Sistemas de comunicaciones 
+Embarrados y piezas de conexión 1.561,84 
+Tendido y conexionado de cables 35.126,91 
+Panoplia, pértiga y extintores 4.787,89 
+Servicios auxiliares 15.042,41 
+Alumbrado y tomas de corriente 6.217,87 
+Red de tierras 11.329,77 
+Pruebas y puesta en marcha 
+Transformador de potencia 760.000,00 
+Total presupuesto Total presupuesto Total presupuesto Total presupuesto 1.212.147,32 1.212.147,32 1.212.147,32 1.212.147,32 
+ 
+El presupuesto total de la subestación asciende a u n millón doscientas doce mil 
+cuarenta y siete euros y treinta y dos céntimos. 
+ 
+En Arenas de San Juan, diciembre de 2011 
+ 
+ El Ingeniero Autor del Proyecto 
+ 
+ 
+ Fdo: Julio Canon Guillamón 
+ Colegiado nº 2788 (ICAI) 
+
+[page 50]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 
+ 1
+
+[page 51]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+ 
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperión Energy Investments , S.L. 
+ en Arenas de San Juan (Ciudad Real) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Estudio Seguridad y Salud 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1. Objeto del estudio 
+ Este Estudio de Seguridad y Salud establece las me didas de Seguridad que deben 
+adoptarse en los trabajos de obra civil y montaje e lectromecánico a realizar en la 
+Sub. Helios I Facilitando la aplicación que la Dire cción Facultativa debe realizar de 
+tales medidas, conforme establece el R.D. 1627/97 p or el que se establecen 
+disposiciones mínimas de Seguridad en las Obras de Construcción. 
+ 
+ El presente Estudio de Seguridad y Salud Laboral t iene carácter obligatorio y 
+contractual para todas las empresas que participan en el desarrollo de la Obra. 
+ 
+ La Empresa Contratista quedará obligada a elaborar un Plan de Seguridad y Salud 
+en el que se analicen, estudien, desarrollen y comp lementen, en función de su 
+propio sistema de ejecución de la Obra, las previsiones contenidas en este Estudio. 
+ 
+ Helios I Hyperión Energy Investments, S.L., se reserva el derecho de la interpretación 
+última del Plan de Seguridad que se apruebe. 
+
+[page 52]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 2
+5.2. Características de la obra 
+5.2.1. Situación y descripción de la obra 
+ Las instalaciones proyectadas pertenecen al términ o municipal de Arenas de San 
+Juan (Ciudad Real ) Las condiciones ambientales del emplazamiento son las 
+siguientes: 
+Altura sobre el nivel del mar m. 
+Tipo de Zona (según R.L.A.T.) 
+Temperaturas extremas - º C / + º C 
+Contaminación ambiental Media 
+Nivel de niebla 
+ 
+ La obra básicamente consiste en: 
+ - La construcción de una Subestación intemperie co n un solo campo, que 
+comprende el propio campo línea-trafo de 220 kV, un campo de transformación 
+con un transformador de 220/15 kV, y sus elementos de maniobra, protección y 
+control necesarios, para la interconexión de la Planta con la Red de 220 kV. 
+ 
+Las actividades a realizar durante el transcurso de la obra serán las siguientes: 
+* Las cimentaciones de la estructura metálica de so porte de la aparamenta, los 
+embarrados, y el apoyo de línea intermedio. 
+* Bancada y depósito de recogida de aceite del transformador 
+* Se construirán canales cables de reducida profund idad que unirán el parque de 
+220/15 kV con el edificio de control y cabinas. 
+* Se instalarán los tubos drenantes necesarios para evacuar las aguas 
+* Montaje de las estructuras metálicas de soportes de aparamenta. 
+* Se dispondrán las cajas de centralización para lo s transformadores de medida. 
+* Montaje de embarrados entre equipos. 
+* Se instalará el Sistema de Control, Protección y Medida en el edificio de control y 
+cabinas. 
+* Se montará el cuadro de Servicios Auxiliares de c.a. y c.c., y se realizará la 
+instalación de fuerza y alumbrado. 
+* Se tenderá la red de tierra enterrada y las conexiones a equipos. 
+* Se procederá al cerramiento perimetral de la zona del Banco. 
+ 
+Las distancias eléctricas a respetar serán: 
+ 
+Distancias fase-tierra: 
+ a) Conductor-estructura .......................... ....................................... 1900 mm 
+ b) Punta-estructura .............................. .......................................... 2400 mm 
+Distancias fase-fase: 
+ a) Conductores paralelos ......................... ....................................... 2100 mm 
+
+[page 53]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 3
+ 
+5.2.2. Presupuesto, plazo de ejecución y mano de obra 
+En virtud de los valores de presupuesto y conforme a lo establecido en el art. 4 del 
+R.D. 1627/1997 para Obras de Construcción o Ingenie ría Civil, donde se expone 
+que hay obligatoriedad de elaborar un Estudio de Se guridad en los casos en que se 
+superen alguna de las de las circunstancias siguientes: 
+ 
+Cuando el presupuesto total adjudicado de Obra supere 450 Kilo€uros 
+Cuando el Volumen de Mano de Obra supere 500 jornadas – hombre 
+Cuando la duración sea superior a 30 días y haya 20 o más trabajadores 
+ 
+Se procede entonces a elaborar este Estudio de Seguridad y Salud. 
+ 
+ 
+ 
+5.2.3. Control de accesos 
+Dado que la situación de la subestación, está aleja da de núcleos urbanos o zonas 
+de paso, la presencia de personal ajeno a la obra e s improbable, Además, los 
+trabajos de la subestación se realizarán al mismo t iempo que los de la planta de 
+energía, por lo que el control de accesos serán el dispuesto para el conjunto de 
+las obras. 
+ 
+ 
+ 
+5.2.4. Unidades constructivas que componen las obras 
+5.2.4.1. Movimientos de tierras 
+Dado que la superficie ocupada por el banco de cond ensadores excede de los 
+límites actuales de la plataforma de la subestación , será necesario el desmonte y 
+acondicionamiento de un área aproximada de 1500 m 2. 
+ 
+ Drenajes y saneamientos 
+La red cubrirá todo el parque. Se realizará con tub o drenante en distribución que 
+no produzca un efluente masivo. La zanja principal alcanzará en su punto más 
+bajo una profundidad que se estima en 0,7 m. 
+ 
+
+[page 54]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 4
+5.2.4.2. Obra civil 
+Consiste en la realización de: cimentaciones de estructuras para aparamenta, 
+bancada y deposito de aceite para el transformador; y canales de cables. 
+ 
+Se dispondrá de campa de almacenaje de materiales de construcción en zona 
+que no interfiera a los restantes trabajos y a las vías de circulación de vehículos. 
+ 
+La preparación de armaduras de encofrados se ubicará fuera las zonas de paso. 
+ 
+Cimentaciones de soportes 
+Las cimentaciones para los pórticos y estructuras soportantes de la nueva 
+aparamenta y de las cajas de centralización se realizarán en dados de hormigón 
+armado. 
+ 
+Canales de cables 
+Se diseñan para proteger los cables de control y fuerza en su recorrido desde los 
+mandos de cada equipo a la caseta de relés y a los canales existentes. Los 
+canales de cables serán prefabricados. 
+ 
+ 
+ 
+5.2.4.3. Montaje de estructuras y equipos 
+En esta fase se instalarán apoyos, las estructuras soportantes de los equipos, los 
+propios equipos y los embarrados de conexión. 
+ 
+Se planificarán las actividades de montaje de forma que no interfieran entre sí y 
+especialmente se cuidará que no afecten a las de Obra Civil que aún persistan. 
+ 
+Las estructuras metálicas y soportes de la aparamen ta se construirán con perfiles 
+normalizados de alma llena. 
+ 
+Trabajos de cableado y trabajos en b.t 
+El tendido de cables de fuerza y control desde los equipos de los parques de 220 
+kV y del Banco de Condensadores a las casetas de re lés se realizará 
+manualmente siguiendo el trazado marcado por los canales. 
+ 
+El montaje de los equipos de Control, Protecciones, Comunicaciones y Medidas 
+se realizará simultáneamente a los trabajos de cableado. 
+
+[page 55]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 5
+ 
+Puesta en Servicio 
+Se prevé que la puesta en servicio se realice por f ases terminadas conectando 
+eléctricamente la nueva posición / instalación a la red eléctrica. 
+ 
+Las calles y equipos puestos en servicio se delimit arán y se aislarán, de forma que 
+permitan la ejecución de las posteriores fases de trabajo. 
+ 
+ 
+ 
+5.2.5. Identificación de riesgos 
+Las Empresa adjudicatarias de las obras han de considerar que la evaluación de 
+los riesgos asociados a cada una de las actividades de construcción de 
+Subestaciones supone el análisis previo de: 
+* Las condiciones generales del trabajo, a las máquinas y equipos que se 
+manejen, a las instalaciones próximas existentes y a los agentes físicos, químicos 
+y biológicos que puedan existir. 
+* Las características de organización y control del trabajo que cada Empresa tiene 
+establecidas, lo que influye en la magnitud de los riesgos. 
+* La inadecuación de los puestos de trabajo a las características de los 
+trabajadores especialmente sensibles a ciertos riesgos. 
+ 
+Por ello las Empresas Contratistas adjudicatarias d e los trabajos deben disponer 
+de una Evaluación de Riesgos genérica concerniente a sus trabajos.No obstante 
+se prevé que los riesgos que se pueden presentar son: 
+Situaciones pormenorizadas d Situaciones pormenorizadas d Situaciones pormenorizadas d Situaciones pormenorizadas d e riesgo e riesgo e riesgo e riesgo 
+Caídas de personas al Caídas de personas al Caídas de personas al Caídas de personas al 
+mismo nivel mismo nivel mismo nivel mismo nivel 
+Caída por deficiencias en el suelo, por pisar o tropezar 
+con objetos, por existencia de vertidos o líquidos, por 
+superficies en mal estado por condiciones atmosféricas 
+(heladas, nieve, agua, etc.). 
+Caídas de per Caídas de per Caídas de per Caídas de per sonas a sonas a sonas a sonas a 
+distinto nivel distinto nivel distinto nivel distinto nivel 
+Caída desde escaleras portátiles, desde andamios y 
+plataformas temporales, desniveles, huecos, zanjas, 
+taludes, desde estructuras pórticos. 
+Caídas de objetos Caídas de objetos Caídas de objetos Caídas de objetos Caída por manipulación manual de objetos y 
+herramientas o de elementos manipulados con 
+aparatos elevadores. 
+Desprendimientos Desprendimientos Desprendimientos Desprendimientos 
+desplomes y desplomes y desplomes y desplomes y 
+derrumbes derrumbes derrumbes derrumbes 
+Desprendimientos de elementos de montaje fijos, 
+desplome de muros o hundimiento de zanjas o galerías 
+Choques y golpes Choques y golpes Choques y golpes Choques y golpes Choques contra objetos fijos, contra objetos móviles, 
+golpes por herramientas manuales y eléctricas. 
+
+[page 56]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 6
+Situaciones pormenorizadas d Situaciones pormenorizadas d Situaciones pormenorizadas d Situaciones pormenorizadas d e riesgo e riesgo e riesgo e riesgo 
+Maquinaria automotriz Maquinaria automotriz Maquinaria automotriz Maquinaria automotriz 
+y vehículos y vehículos y vehículos y vehículos 
+Atropello a peatones, choques y golpes entre vehículos, 
+vuelco de vehículos y caída de cargas 
+Atrapamientos por Atrapamientos por Atrapamientos por Atrapamientos por 
+mecanismos en mecanismos en mecanismos en mecanismos en 
+movimiento movimiento movimiento movimiento 
+Atrapamientos por herramientas manuales, por tátiles 
+eléctricas. 
+Atrapamientos por mecanismos en movimiento. 
+Cortes Cortes Cortes Cortes Cortes por herramientas portátiles eléctricas o 
+manuales y cortes por objetos superficiales o 
+punzantes. 
+Proyecciones Proyecciones Proyecciones Proyecciones Impacto por fragmentos, partículas sólidas o líquidas. 
+Contactos Contactos Contactos Contactos térmicos térmicos térmicos térmicos Contactos con fluidos o sustancias calientes / fríos. 
+Contacto con proyecciones. 
+Contactos químicos Contactos químicos Contactos químicos Contactos químicos Contacto con sustancias corrosivas, irritantes/ 
+alergizantes u otras. 
+Contactos eléctricos Contactos eléctricos Contactos eléctricos Contactos eléctricos Contactos directos, indirectos o descargas eléctricas 
+Arcos eléctricos Arcos eléctricos Arcos eléctricos Arcos eléctricos Calor, proyecciones o radiaciones no ionizantes. 
+Sobreesfuerzos Sobreesfuerzos Sobreesfuerzos Sobreesfuerzos Esfuerzos al empujar, tirar de objetos. 
+Esfuerzos al levantar, sostener o manipular cargas. 
+Explosiones Explosiones Explosiones Explosiones Máquinas, equipos y botellas de gases. 
+Incendios Incendios Incendios Incendios Acumulación de ma terial combustible. 
+Almacenamiento y trasvase de productos inflamables. 
+Focos de ignición, proyecciones de chispas o partículas 
+calientes. 
+Confinamiento Confinamiento Confinamiento Confinamiento Golpes, choques, cortes o atrapamientos por espacio 
+reducido. 
+Dificultades para rescate. 
+Tráfico Tráfico Tráfico Tráfico Choq ues entre vehículos o contra objetos fijos 
+Atropello de peatones o en situaciones de trabajo 
+Vuelco de vehículos por accidente de tráfico. 
+Agresión de animales Agresión de animales Agresión de animales Agresión de animales Picadura de insectos, ataque de perros o agresión por 
+otros animales. 
+Estrés térmico Estrés térmico Estrés térmico Estrés térmico Exposició n prolongada al calor o al frío 
+Cambios bruscos de temperatura. 
+Radiaciones no Radiaciones no Radiaciones no Radiaciones no 
+ionizantes ionizantes ionizantes ionizantes 
+Exposición a radiación ultravioleta, infrarroja o visible. 
+Carga física Carga física Carga física Carga física Movimientos repetitivos. Carga estática o postural 
+(espacios de trabajo) o dinámica (actividad física). 
+Condiciones climáticas exteriores. 
+Carga mental Distribución de tiempos. Horario de trabajo 
+
+[page 57]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 7
+ 
+5.2.5.1. Organización de la seguridad 
+Coordinador en Materia de Seguridad y Salud 
+Las tareas de Obra Civil y Montaje Electromecánico si bien estarán programadas 
+en su mayor parte en periodos distintos, pueden que en algún momento 
+interfieran entre sí, por lo que si así fuera sobre la base del Art. 3 del R.D. 1627, 
+Solaben electricidad Dos., en su calidad de Promoto r procederá a nombrar 
+Coordinador en Materia de Seguridad. 
+ 
+Jefes de Trabajo de las Empresas Contratistas 
+Las personas que ejerzan in situ las funciones Jefe s dirigiendo y planificando las 
+actividades de los operarios garantizarán que los t rabajadores conocen los 
+principios de acción preventiva y velarán por su aplicación. 
+ 
+Vigilante de Seguridad de la Empresa Contratista 
+La Empresa Contratista reflejará en el Plan de Segu ridad el nombre de una 
+persona de su organización que actuará como su Vigi lante de Seguridad para los 
+trabajos, bien a tiempo total o compartido, con fo rmación en temas de 
+Seguridad (cursillo, prueba, etc.) o con suficiente experiencia para desarrollar este 
+cometido. 
+ 
+Quien actúe como Jefe de Obra organizará la labor d el Vigilante y pondrá a su 
+disposición los medios precisos para que pueda desa rrollar las funciones 
+preventivas. 
+ 
+ 
+5.2.5.2. Principios generales aplicables durante l a obra 
+De conformidad con la Ley de Prevención de Riesgos Laborales, los principios de 
+la acción preventiva que se recogen en su artículo 15 se aplicarán durante la 
+ejecución de la obra y en particular: 
+a) Garantizar que solo los trabajadores que hayan r ecibido información suficiente 
+y adecuada pueden acceder a las zonas de riesgo grave o específico. 
+b) Dar las debidas instrucciones a los empleados. 
+c) El mantenimiento de la obra en buen estado de orden y limpieza. 
+d)La manipulación de los distintos materiales y la utilización de los medios 
+auxiliares. 
+e)El mantenimiento de los medios y dispositivos necesarios para la ejecución de la 
+obra. 
+f)La delimitación y el acondicionamiento de las zonas de trabajo. 
+g)La recogida de los materiales peligrosos utilizados. 
+h)La adaptación, en función de la evolución de obra , del periodo de tiempo 
+efectivo que habrá de dedicarse a los distintos trabajos o fases de trabajo. 
+
+[page 58]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 8
+i) La cooperación entre propietario y el Contratista. 
+5.2.5.3. Formación 
+El personal de la Empresa Contratista que sea habit ual en estos trabajos debe 
+estar instruido en Seguridad. No obstante en las fe chas inmediatas a la 
+incorporación recibirá información específica acorde al trabajo que va a realizar. 
+ 
+La empresa Contratista garantizará que el personal de sus Empresas 
+Subcontratadas será informado del contenido del Plan de Seguridad. 
+ 
+Los operarios que realicen trabajos con riesgo eléc trico tendrán la categoría de 
+“personal autorizado o cualificado” para las funcio nes que le asigna el R.D. 
+614/2001. 
+ 
+ 
+ 
+5.2.5.4. Medicina preventiva 
+La Empresa Contratista queda obligada a aportar a l a obra trabajadores con 
+reconocimiento médico realizado. Si como consecuenc ia de este reconocimiento 
+fuera aconsejable el cambio de puesto de trabajo, l a Empresa Contratista queda 
+obligada a realizarlo. 
+ 
+En cualquier momento el propietario, podrá solicita r certificados de estos 
+reconocimientos. 
+ 
+ 
+ 
+5. 5. 5. 5.2.5.5. Medios de protección 
+Antes del inicio de los trabajos todo el material d e seguridad estará disponible en 
+la obra, tanto el de asignación personal como el de utilización colectiva. 
+ 
+Así mismo, todos los equipos de protección individu al se ajustarán a lo indicado en 
+el R.D. 773/1997 sobre disposiciones mínimas de seg uridad y salud relativas a la 
+utilización por los trabajadores de equipos de protección individual. 
+ 
+ 
+
+[page 59]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 9
+5.2.6. Locales de descanso y servicios higiénicos 
+A tenor de lo establecido en el R.D. 486/1997 sobre Disposiciones Mínima de 
+Seguridad y Salud en los Lugares de Trabajo y parti cularmente en su Anexo V, el 
+Contratista dispondrá de los locales y servicios higiénicos necesarios. 
+ 
+Si se utilizasen instalaciones permanentes existent es en la instalación, no será 
+preciso dotar a la Obra de instalaciones temporales . Esta circunstancia será 
+reflejada en el Plan de Seguridad. 
+ 
+ 
+ 
+5.2.7. Disposiciones de emergencia 
+5.2.7.1. Vías de evacuación 
+Dadas las características de la obra, trabajos en e xterior y caseta de pequeñas 
+dimensiones no es necesario la definición de vías o salidas de emergencia para una 
+posible evacuación. 
+ 
+Cuando sea necesario, la decisión de la evacuación del lugar trabajo será tomada 
+por el Coordinador de Seguridad, y en el caso de qu e no esté presente, del 
+supervisor de la propiedad . Siendo el punto de reu nión el portón principal de 
+entrada a la subestación. 
+ 
+Dado el limitado número de personas que se prevén v an a coincidir en la Obra y la 
+no existencia de recintos cerrados no se considera necesario establecer Equipos de 
+Evacuación ni realizar simulacros al respecto. 
+ 
+ 
+ 
+5.2.7.2. Iluminación 
+Al tratarse de trabajos que se realizarán a la inte mperie y en horario diurno, no 
+será necesaria la instalación de alumbrado. 
+ 
+En el caso, que se realicen trabajos en horario noc turno, se instalará un sistema de 
+alumbrado adecuado al trabajo que se va a realizar y que incluirá las vías de acceso 
+los puntos de trabajo. Complementando al sistema de alumbrado se dispondrá de 
+una alternativa de emergencia de suficiente intensi dad (linternas o cualquier otro 
+sistema portátil o fijo). 
+ 
+ 
+ 
+
+[page 60]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 10 
+5.2.7.3. Suministro y reparto de energía 
+El suministro eléctrico se tomará de la red existente 
+ 
+Las instalaciones de suministro y reparto de energí a en la obra deberán instalarse y 
+utilizarse de manera que no entrañen peligro de inc endio ni de explosión y de 
+modo que las personas estén debidamente protegidas contra riesgos de 
+electrocución por contacto directo o indirecto. 
+ 
+Cuando se trate de instalaciones eléctricas el acce so a las partes activas de las 
+mismas quedará limitado a trabajadores autorizados o cualificados. 
+ 
+ 
+ 
+5.2.7.4. Ventilación 
+No se prevé la necesidad de realizar controles de ventilación dado el tipo de obra. 
+ 
+En los trabajos en galerías, centros subterráneos, etc. Previo al acceso al recinto y 
+durante su permanencia en el mismo, se procederá a las determinaciones 
+higiénicas oportunas de la atmósfera confinada que posibiliten conocer si los 
+valores de oxigeno son suficientes o si los niveles de contaminantes tóxicos o 
+inflamables están por encima de los niveles máximos permitidos. 
+ 
+Los trabajos a realizar en este tipo de recintos de berán en todo momento tener 
+vigilancia desde el exterior, con una comunicación continua entre los trabajadores 
+que permanezcan en el interior y exterior del recin to confinado. Tomándose todas 
+las debidas precauciones para que se le pueda prestar auxilio eficaz e inmediato. 
+ 
+Dado que será necesario utilizar herramientas o máq uinas que producen gases o 
+vapores que reducen de forma peligrosa la concentración de oxigeno (<18%), y no 
+está asegurada una buena renovación del aire existe nte en el lugar de trabajo, se 
+instalará un sistema de ventilación de aire limpio. 
+ 
+Al preverse la existencia de contaminantes inflamab les, las herramientas a utilizar 
+serán compatibles con el riesgo detectado (herramientas antideflagrantes). 
+ 
+ 
+
+[page 61]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 11 
+5.2.7.5. Ambientes nocivos y factores atmosféricos 
+Dado que se trata de un trabajo a la intemperie, la planificación de tareas que 
+requieran un consumo metabólico alto se planificará n para que no coincidan con 
+los periodos de temperatura extremos. 
+ 
+En caso de tormenta eléctrica se suspenderán los trabajos. 
+Los trabajadores no deberán estar expuestos a niveles sonoros nocivos ni a factores 
+externos nocivos (gases, vapores, polvo,...), sin la protección adecuada. 
+ 
+ 
+5.2.7.6. Detección y lucha contra incendios 
+No se prevé en la obra la existencia de carga térmi ca elevada, para facilitarlo se 
+mantendrán adecuadas condiciones de orden y limpieza. 
+ 
+La Obra dispondrá de extintores la cantidad suficie nte. Los extintores deberán 
+situarse en lugares de fácil acceso. 
+ 
+No existirán B.I.E. Al no disponer el recinto de acometida de aguas. 
+ 
+ 
+ 
+ 
+5.2.7.7. Primeros auxilios 
+Todo el personal debe conocer que el número de soli citud de ayuda de primeros 
+auxilios es el 112. La Administración dispondrá ayu da técnica o sanitaria que se 
+solicite en dicho número. 
+ 
+La Empresa Contratista dispondrá de un botiquín de obra para prestar primero 
+auxilios. Se podrá hacer uso de los medios de prime ros auxilios (camilla, elementos 
+de cura, etc.) que exista en la Subestación . Asimismo deberá estar disponible en la 
+obra un vehículo, para evacuar a un posible accidentado. 
+ 
+El Contratista expondrá, para conocimiento de todos sus trabajadores la dirección 
+de los Centros de Asistencia más próximos. 
+ 
+
+[page 62]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 12 
+ 
+5.2.8. Plan de seguridad 
+El Plan de Seguridad que elabore la Empresa adjudic ataria de los trabajos debe 
+establecer su forma particular de ejecutarlos, debe ser un documento ajustado a 
+las situaciones de riesgos previsibles en la Obra. 
+ 
+El Plan de Seguridad una vez aprobado debe ser el d ocumento aplicable en Obra, 
+para lo cual debe permanecer en poder del Jefe de T rabajo y del Coordinador de 
+Seguridad. 
+5.3. Pliego de condiciones 
+La ejecución de la obra, objeto del Estudio de Segu ridad, estará regulada por la 
+normativa que a continuación se cita, siendo de obl igado cumplimiento para las 
+partes implicadas. 
+- Ley 31/95 de 8 de Noviembre de Prevención de Riesgos Laborales 
+- R.D. 1627/97 de 24 de Octubre sobre Disposiciones Mínimas de Seguridad y 
+Salud en las Obras de Construcción 
+- R.D. 614/2001 de 8 de Junio sobre Disposiciones M ínimas para la Protección de 
+la Salud y Seguridad de los Trabajadores frente al Riesgo Eléctrico. 
+- R.D. 1435/92 de 27 de Noviembre Aproximación de l as Legislaciones de los 
+Estados Miembros sobre Maquinas 
+- R.D. 486/97 de 14 de Abril sobre Disposiciones Mí nimas de Seguridad y Salud en 
+los Lugares de Trabajo. 
+- R.D. 487/97 de 14 de Abril sobre Manipulación Manual de Cargas. 
+- R.D. 773/97 de 30 de Mayo sobre utilización por l os Trabajadores de Equipos de 
+Protección Individual. 
+- O.M. de 18 de Octubre de 1994. Reglamento sobre C ondiciones Técnicas y 
+Garantías de Seguridad en Centrales Eléctricas, Sub estaciones y Centros de 
+Transformación. 
+ 
+5. 5. 5. 5.4. 4. 4. 4. Presupuesto de seguridad Presupuesto de seguridad Presupuesto de seguridad Presupuesto de seguridad 
+ Capitulo I. Capitulo I. Capitulo I. Capitulo I.-- -- Protecciones individuales Protecciones individuales Protecciones individuales Protecciones individuales 
+Num. 
+Ord. 
+Descripción Num. 
+Udes. 
+Precio 
+unitario 
+Precio 
+total 
+1 Ud. casco de seguridad homologado 8 2,70 21,60 
+2 Ud. pantalla de seguridad para soldador 2 9,98 19,96 
+3 Ud. Pa ntalla inactínica para soldador acoplada al 
+casco 
+2 10,25 20,50 
+4 Pantalla facial de protección inactínica acopladas al 
+casco 
+2 7,80 15,60 
+5 Ud. gafa antipolvo y antiimpactos 8 2,74 21,92 
+
+[page 63]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 13 
+Num. 
+Ord. 
+Descripción Num. 
+Udes. 
+Precio 
+unitario 
+Precio 
+total 
+6 Ud. gafa de seguridad para oxicorte 1 5,71 5,71 
+7 Ud. mascaril la, respiración antipolvo 8 7,79 62,32 
+8 Ud. filtro para mascarilla antipolvo 10 2,15 21,50 
+9 Ud. protector auditivo 8 0,25 2,00 
+10 Ud. mono o buzo de trabajo 8 15,95 127,60 
+11 Ud. Impermeable 8 19,23 153,84 
+12 Ud. mandil de cuero para soldador 2 12,3 3 24,66 
+13 Par manguitos para soldador 2 6,84 13,68 
+14 Par polainas para soldador 2 8,14 16,28 
+15 Par guantes para soldador 2 6,84 13,68 
+16 Par guantes dieléctricos 2 48,83 97,66 
+17 Par guantes de goma finos 20 2,60 52,00 
+18 Par guantes de cuero 16 1,90 30,40 
+19 Par botas impermeables al agua y a la humedad 4 13,53 54,12 
+20 Par botas de seguridad de cuero 8 21,78 174,24 
+21 Par botas dieléctricas 2 31,85 63,71 
+22 Chalecos reflectantes 8 21,04 168,28 
+23 Arnés con cinturón de Seguridad 4 49,04 196, 16 
+ TOTAL CAPITULO I..................................... .. .......... ................ 1.181,26 
+ 
+ 
+
+[page 64]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ Capitulo II.- Protecciones colectivas 
+Num. Num. Num. Num. 
+Ord. Ord. Ord. Ord. 
+Descripción Descripción Descripción Descripción Num. Num. Num. Num. 
+Udes. Udes. Udes. Udes. 
+Precio Precio Precio Precio 
+unitario unitario unitario unitario 
+Precio Precio Precio Precio 
+total total total total 
+1 Señal normalizada de tráfico, con s oporte metálico e 
+incluida la colocación. 
+2 37,84 75,68 
+2 Cartel indicativo de riesgo, con soporte metálico e 
+incluida la colocación. 
+2 7,99 15,97 
+3 Cartel indicativo de riesgo, sin soportemetálico e 
+incluida la colocación 
+4 2,38 9,52 
+4 Ud. De Manta ign ifuga para trabajos de soldadura y 
+oxicorte (1x1) 
+4 32,09 128,36 
+5 Cinta de balizamiento bicolor amarilla y negra, 
+incluidos soportes, colocación y desmontaje, como 
+medida de señalización y delimitación de zonas de 
+trabajo para evitar intromisión de trabajadores y 
+terceras personas. 
+500 1,33 664,12 
+6 Ud. de valla normalizada para señalización de 
+acopios y zonas de trabajo, incluida la colocación. 
+6 39,42 236,52 
+7 Ud. de baliza luminosa intermitente 4 56,06 224,25 
+8 Jalón de señalización, incluida la co locación. 2 11,21 22,42 
+9 Mano de obra de brigada de seguridad empleada en 
+mantenimiento y reposición de protecciones. 
+32 12,00 384,00 
+10 Extintor de polvo polivalente, incluido el soporte. (6 
+Kg.) 
+3 25,27 75,81 
+ 
+ TOTAL CAPITULO II................................. ..... .......... ................ 1.836,65 
+ 
+
+[page 65]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+Capitulo III.- Protecciones eléctrica 
+Num. Num. Num. Num. 
+Ord. Ord. Ord. Ord. 
+Descripción Descripción Descripción Descripción Num. Num. Num. Num. 
+Udes. Udes. Udes. Udes. 
+Precio Precio Precio Precio 
+unitario unitario unitario unitario 
+Precio Precio Precio Precio 
+total total total total 
+1 Ud. Instalación de puesta a tierra compuesta por 
+cable de cobre, electrodo conectado a tierra en 
+masas metálicas, etc 
+1 60,10 60,10 
+2 Ud. Interruptor diferencial de media sensibilidad 
+(300 mA), incluida instalación. 
+1 80,12 80,12 
+3 Ud. interruptor diferencial de alta sensibilidad (30 
+mA), incluida instalación. 
+1 90,60 90,60 
+ TOTAL CAPITULO III................................ ..... .......... ................ 230,82 
+ 
+ 
+ 
+ Capitulo IV.- Instalación de higiene y bienestar 
+Num. Num. Num. Num. 
+Ord. Ord. Ord. Ord. 
+Descripción Descripción Descripción Descripción Num. Num. Num. Num. 
+Udes. Udes. Udes. Udes. 
+Precio Precio Precio Precio 
+unitario unitario unitario unitario 
+Precio Precio Precio Precio 
+total total total total 
+1 Ud. recipiente para recogida de basuras 3 24,04 72,12 
+2 Mes alquiler de barracón para Oficina 8 130,00 1.040,00 
+3 Mes alquiler de barracón para Almacén. 8 70,00 560,00 
+4 Mes alquiler de barracón para vestuario / Comedor. 8 80,00 640,00 
+5 Mes alquiler de barracón para aseos. 8 90,00 720,00 
+6 Ud. Reposición de material higiénico 100 0,33 33,00 
+7 Ud. taquilla metálica individual con llave 4 18,92 75,68 
+8 Ud. banco de madera con capacidad para 5 
+personas 
+2 17,73 35,46 
+9 Ud. radiador infrarrojos 2 35,04 70,08 
+
+[page 66]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 16 
+10 Mano de obra empleada en limpieza y conservación 
+de instalaciones de personal. Se considera un peón, 
+una hora diaria durante todo el 
+160 12,00 1.920,00 
+ transcurso de la obra) 
+11 
+Acometida de agua para aseos y energía eléctrica 
+para 1 108,18 
+ 108,18 
+ vestuarios y aseos, totalmente terminados 
+ TOTAL CAPITULO IV................................. .... .......... ................ 5.274,52 
+ 
+ 
+ 
+ 
+ Capitulo V.- Organización de la prevención 
+Num. Num. Num. Num. 
+Ord. Ord. Ord. Ord. 
+Descripción Descripción Descripción Descripción Num. Num. Num. Num. 
+Udes. Udes. Udes. Udes. 
+Precio Precio Precio Precio 
+unitario unitario unitario unitario 
+Precio Precio Precio Precio 
+total total total total 
+1 Ud. botiquín 1 45,08 45,08 
+2 Ud. reposición material sanitario durante el 
+transcurso de la obra 
+1 5,71 5,71 
+3 Ud. reconocimiento medico obligatorio 8 24,04 192,32 
+ TOTAL CAPITULO V.................................. .... .......... ................ 243,11 
+ 
+ 
+ 
+ 
+
+[page 67]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ Capitulo VI.- Formación y reunión de obligado cumplimiento 
+Num. 
+Ord. 
+Descripción Num. 
+Udes. 
+Precio 
+unitario 
+Precio 
+total 
+1 H. formación en seguridad e higiene en el trabajo 4 12,00 48,00 
+ TOTAL CAPITULO VI................................. .... .......... ................ 48,00 
+ 
+ 
+ 
+ Resumen Resumen Resumen Resumen 
+ 
+CAP.I Protecciones Individuales……………………………………. 1.181,26 
+CAP.II Protecciones Colectivas………………………………………. 1.836,65 
+CAP.III Protección Eléctrica y Contraincendios……………… 230,82 
+CAP.IV Instalaciones de Higiene y Bienestar…………………. 5.274,52 
+CAP.V Organización de la Prevención…………………………… 243,11 
+CAP.VI Formación………………………………………………………..… 48,00 
+ 
+ Total…………………………………………………… … 8.814,36 
+ 
+El presente presupuesto de seguridad y salud, corre spondiente a la obra de la 
+construcción de subestación con un solo campo línea -trafo de 220 kV un campo 
+de transformación con transformador de 220 kv/15 kV para la interconexión de 
+la planta con la Red de 220 kV , asciende a la cant idad de ocho mil ochocientos 
+catorce Euros con treinta y seis céntimos. 
+ En Arenas de San Juan, diciembre de 2011 
+ 
+ El Ingeniero Autor del Proyecto 
+ 
+ Fdo: Julio Canon Guillamón 
+ Colegiado nº 2788 (ICAI) 
+
+[page 68]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 1
+ 
+
+[page 69]
+Cod.5213 SE 220/15 kV Solaben 2 JCR 
+Proyecto Eléctrico de Subestación Eléctrica de 220 /15 kV 
+de Helios I Hyperión Energy Investments , S.L. 
+ en Arenas de San Juan (Ciudad Real) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Planos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nº Plano Edic Tam Fecha Descripción 
+1116 -02 -001 01 A2 12/05/10 Implantación General . Map a de 
+Localización 
+20 46 -PLN -INA -23 -21 -1001 0 A2 18/05/2011 Subestación 2220/15 kV. 
+Esquema Unifilar 
+20 46 -PLN -INA -23 -03 -1001 1 A1 08 /06 /2011 Subestación 220/15 kV 
+Disposición General, Planta 
+2046 -PLN -INA -23 -03 -1002 1 A1 08 /06 /2011 Subestación 220/15 kV 
+Disposición General, Secciones. 
+2046 -PLN -INA -23 -31-10 14 1 A1 27/1 1/2011 Subestación 220/15 kV 
+Alumbrado parque. Planta 
+2046 -PLN -INA -23 -33-100 1 2 A1 20/06 /2011 Subestación 2220/15 kV 
+Red de tierra enterrada. Planta 
+2046 -PLN -INA -23 -52 -100 1 3 A1 28 /07 /2011 Subestación 2220/15 kV 
+Obra Civil .Planta 
+2046 -PLN -INA -23 -52 -100 2 2 A1 28 /07 /2011 Subestación 2220/15 kV 
+Obra Civil .Planta 
+2046 -PLN -INA -23 -52 -100 3 2 A1 10 /05 /2011 Subestación 2220/15 kV 
+Disposición General Fundaciones 
+Trafo de Potencia (F4) 
+
+[page 70]
+M5219 AT Sub Helios I JGL / jgl 
+ 
+ 
+ 
+ 
+ 2
+Nº Plano Edic Tam Fecha Descripción 
+2046 -PLN -IN A-23 -52 -100 4 0 A1 10 /05 /2011 Subestación 2220/15 kV 
+Obra Civil Deposito de Recogida de 
+Aceite-F7 
+2046 -PLN -INA -23 -54-100 1 1 A1 08 /06 /2011 Subestación 2220/15 kV 
+Obra Civil Detalles tipicos Puertas y 
+Cerramiento 
+ 
+ 
+ 
+En Arenas de San Juan, diciembre de 2011 
+ 
+ El Ingeniero Autor del Proyecto 
+ 
+ 
+ Fdo: Julio Canon Guillamón 
+ Colegiado nº 2788 (ICAI)

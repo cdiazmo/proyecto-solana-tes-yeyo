@@ -1,0 +1,33 @@
+{
+  "id": "1495e8a3f345b351",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-0020-00_Rev01 Lista de documentos-260428.xlsx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "xlsx",
+  "size_bytes": 68249,
+  "size_human": "67 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-0020-00 Rev01 Lista de documentos-260428",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4233,
+  "token_estimate": 1058,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/1495e8a3f345b351.json",
+  "extracted_path": ".yeyo-memory/extracted/1495e8a3f345b351.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "AVANCE  ",
+        "rows_seen": 15,
+        "non_empty_rows": 9
+      },
+      {
+        "name": "Vendor Document List",
+        "rows_seen": 117,
+        "non_empty_rows": 103
+      }
+    ]
+  },
+  "processed_at": "2026-06-08T18:27:45.258087+00:00"
+}

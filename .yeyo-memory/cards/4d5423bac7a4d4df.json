@@ -31,7 +31,7 @@
     "plan_tag": {
       "kind": "P&ID / diagrama de proceso",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:55.432814+00:00",
+      "tagged_at": "2026-06-08T18:41:14.948213+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -115,5 +115,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:55.455063+00:00"
+  "processed_at": "2026-06-08T18:41:14.948215+00:00"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "237a1e82a47287de",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-DWG-1000-00-DISPOSICION GENERAL.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1979459,
+  "size_human": "1.9 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-DWG-1000-00-DISPOSICION GENERAL",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2266,
+  "token_estimate": 566,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/237a1e82a47287de.json",
+  "extracted_path": ".yeyo-memory/extracted/237a1e82a47287de.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "CreationDate": "D:20260325154224+01'00'",
+      "Creator": "AutoCAD 2022 - Español (Spanish) 2022 (24.1s (LMS Tech))",
+      "ModDate": "D:20260325154224+01'00'",
+      "Producer": "pdfplot16.hdi 16.01.191.00000",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:22.372203+00:00"
+}

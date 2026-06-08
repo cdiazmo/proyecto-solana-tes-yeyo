@@ -1,0 +1,30 @@
+{
+  "id": "9f0b24ba0ea709a6",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.2 Cambio titular.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 251574,
+  "size_human": "246 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.8.2 Cambio titular",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/9f0b24ba0ea709a6.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Title": "Nuance Communications, Inc.",
+      "Author": "Eva María Ruiz Sánchez",
+      "Keywords": "None",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:22.389201+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5743732704fe3d17",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Lineas 15 kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 248007,
+  "size_human": "242 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "Lineas 15 kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/5743732704fe3d17.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.64",
+      "CreationDate": "D:20110407220240+02'00'",
+      "ModDate": "D:20110412121400+02'00'",
+      "Title": "C:\\\\Documents and Settings\\\\CIZQUIERDO\\\\Escritorio\\\\Ingeniería OC. Control de Planos\\\\Sitio\\\\Implantación de areas y edificios I Plan",
+      "Creator": "PDFCreator Version 0.9.8",
+      "Author": "cizquierdo",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:51.399714+00:00"
+}

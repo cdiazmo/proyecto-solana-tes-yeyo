@@ -1,0 +1,30 @@
+{
+  "id": "c193f78743088f20",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/111230 Contrato Transferencia de titularidad líneas 15 kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 189321,
+  "size_human": "185 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "111230 Contrato Transferencia de titularidad líneas 15 kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3481,
+  "token_estimate": 870,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/c193f78743088f20.json",
+  "extracted_path": ".yeyo-memory/extracted/c193f78743088f20.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "ModDate": "D:20120116152152+01'00'",
+      "CreationDate": "D:20120116152132+01'00'",
+      "Author": "Angel Ramon Menor Pozo",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:49.926003+00:00"
+}

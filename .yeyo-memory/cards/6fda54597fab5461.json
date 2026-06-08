@@ -1,0 +1,29 @@
+{
+  "id": "6fda54597fab5461",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.6 Protocolo ensayos trafo.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 4482027,
+  "size_human": "4.3 MB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.4.6 Protocolo ensayos trafo",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/6fda54597fab5461.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 61,
+    "pdf_metadata": {
+      "CreationDate": "D:20110608132220+01'00'",
+      "Creator": "Canon iR2525",
+      "ModDate": "D:20110608182822+02'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:46.486514+00:00"
+}

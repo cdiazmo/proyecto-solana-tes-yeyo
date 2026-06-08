@@ -1,0 +1,42 @@
+{
+  "id": "912923f9610e67ea",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260326/1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-015.zip",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "zip",
+  "size_bytes": 4053360,
+  "size_human": "3.9 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-015",
+  "doc_code": null,
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 1036,
+  "token_estimate": 259,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/912923f9610e67ea.json",
+  "extracted_path": ".yeyo-memory/extracted/912923f9610e67ea.txt",
+  "metadata": {
+    "archive_entries": 17,
+    "archive_sample": [
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-015.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-016.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-001.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-001.png",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-002.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-003.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-004.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-005.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-006.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-007.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-008.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-009.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-010.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-011.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-012.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-013.jpg",
+      "1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO-014.jpg"
+    ],
+    "archive_total_uncompressed_bytes": 4155093
+  },
+  "processed_at": "2026-06-08T18:29:27.767255+00:00"
+}

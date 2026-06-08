@@ -1,0 +1,445 @@
+[page 1]
+ 
+ 
+ 
+ATLANTICA 
+Balances Másicos Energéticos 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-CAL-0550-25 
+ 
+DATE 
+Fecha: 16/04/2026 Pag 1/1 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+Balances Másicos Energéticos 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-CAL-0550-25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 24/03/2026 INITIAL ISSUE U.O.A. U.O.A. D.S.Z. 
+1 16/04/2026 ACCORDING TO COMMENTS U.O.A. U.O.A. D.S.Z. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+x
+Distance, support to tubesheet Inlet mm
+Number of rows supported Inlet Outlet
+HEAT EXCHANGER SPECIFICATION SHEET
+ LOINTEK
+Floating Head
+Outlet
+5,000
+17,000
+4,200
+THERMINOL VP1
+5,000
+ID
+294,82388,00
+mm
+Tube Type
+@
+1,651
+Shell
+Plain
+CS 2363
+11480Length mm
+24" BW
+Shell Cover
+@
+CS
+25 & FV
+1
+1
+/
+Material
+24" BW
+24" BW
+1,600
+@
+@
+24" BW
+381,00
+950,00 578,69
+0,7122 0,82311,8470Specific Gravity
+578,69
+ Water
+ Vapor (In/Out)
+ Steam
+Fluid Quantity, Total
+ Liquid
+Shell Side
+PERFORMANCE OF ONE UNIT
+Tube Side
+kg/sec
+mm2363 11480
+Surf/Unit (Gross) m2
+Released to the following HTRI Member Company:
+100% CHARGING MODE
+HorizontalBFU
+Fluid Name
+6Shell/Unit
+MOLTEN SALT
+Surf/Shell (Gross)
+Series6
+Customer
+Address
+Page 1
+ATLANTICA
+ SI-bar Units 
+Item No.
+Rev 1
+950,00
+578,69
+Parallel1
+08/04/2026
+m2
+Fluid Allocation
+Size
+Job No.
+Reference No.
+Proposal No.
+Date
+Type Connected In
+ Noncondensables
+Plant Location
+ACEITE SALESService of Unit
+950,00
+Molecular Weight
+CTemperature (In/Out)
+mPa-sViscosity
+Molecular Weight, Noncondensables
+Thermal Conductivity
+Latent Heat
+Specific Heat kJ/kg-C
+Pressure Drop, Allow/Calc
+Heat Exchanged
+4,200
+1,4990
+W/m-K
+kJ/kg
+bar
+barInlet Pressure
+CONSTRUCTION OF ONE SHELL Sketch (Bundle/Nozzle Orientation)
+MegaWatts131,15
+barG
+C
+mm
+1
+@
+15,875
+@
+1,600
+Tube SideShell Side
+398,00
+2
+CODE CODE
+2
+398,00
+INTERCONNECTING PIPING PRESSURE DROP NOT INCLUDED
+Supports-Tube
+ASME VIII
+Gaskets-Shell Side
+U-Bend
+Type
+-
+TOTAL SIX (6) HEAT EXCHANGERS IN SERIES REQUIRED PER UNIT
+Remarks: 
+Tube-Tubesheet Jointpairs seal strips
+Tube Side
+Seal Type
+Expansion Joint
+TEMA Class
+Type
+No Passes per Shell
+Design/Test Pressure
+Design Temperature
+Corrosion Allowance
+Code Requirements
+Floating Head Cover
+Bypass Seal Arrangement
+Connections
+Out
+In
+Size &
+Intermediate
+mmOD
+in
+Rating
+Baffles-Long
+3306U
+Tubesheet-Stationary CS
+mm
+Thk(Avg)
+CS
+Tube No.
+in
+Channel or Bonnet
+Reprinted with Permission
+CS
+Tubesheet-Floating
+Channel Cover
+RECTANGULAR PLATE
+CS
+1,9592
+Impingement Plate
+9,000
+25 & FV /
+1
+OD
+0,2266
+289,00
+1,9061
+3,5356
+22714 3785,6
+1,5129 2,5785 2,2985
+0,4982 0,5163 0,0784 0,0969
+0,1532
+
+[page 3]
+x
+Distance, support to tubesheet Inlet mm
+Number of rows supported Inlet Outlet
+HEAT EXCHANGER SPECIFICATION SHEET
+ LOINTEK
+Floating Head
+Outlet
+5,000
+17,000
+4,200
+THERMINOL VP1
+5,000
+ID
+374,00283,00
+mm
+Tube Type
+@
+1,651
+Shell
+Plain
+CS 2363
+11480Length mm
+24" BW
+Shell Cover
+@
+CS
+25 & FV
+1
+1
+/
+Material
+24" BW
+24" BW
+1,600
+@
+@
+24" BW
+290,00
+950,00 576,00
+0,8355 0,73121,9055Specific Gravity
+576,00
+ Water
+ Vapor (In/Out)
+ Steam
+Fluid Quantity, Total
+ Liquid
+Shell Side
+PERFORMANCE OF ONE UNIT
+Tube Side
+kg/sec
+mm2363 11480
+Surf/Unit (Gross) m2
+Released to the following HTRI Member Company:
+100% DISCHARGING MODE
+HorizontalBFU
+Fluid Name
+6Shell/Unit
+MOLTEN SALT
+Surf/Shell (Gross)
+Series6
+Customer
+Address
+Page 1
+ATLANTICA
+ SI-bar Units 
+Item No.
+Rev 1
+950,00
+576,00
+Parallel1
+08/04/2026
+m2
+Fluid Allocation
+Size
+Job No.
+Reference No.
+Proposal No.
+Date
+Type Connected In
+ Noncondensables
+Plant Location
+ACEITE SALESService of Unit
+950,00
+Molecular Weight
+CTemperature (In/Out)
+mPa-sViscosity
+Molecular Weight, Noncondensables
+Thermal Conductivity
+Latent Heat
+Specific Heat kJ/kg-C
+Pressure Drop, Allow/Calc
+Heat Exchanged
+4,200
+1,5129
+W/m-K
+kJ/kg
+bar
+barInlet Pressure
+CONSTRUCTION OF ONE SHELL Sketch (Bundle/Nozzle Orientation)
+MegaWatts127,89
+barG
+C
+mm
+1
+@
+15,875
+@
+1,600
+Tube SideShell Side
+398,00
+2
+CODE CODE
+2
+398,00
+INTERCONNECTING PIPING PRESSURE DROP NOT INCLUDED
+Supports-Tube
+ASME VIII
+Gaskets-Shell Side
+U-Bend
+Type
+-
+TOTAL SIX (6) HEAT EXCHANGERS IN SERIES REQUIRED PER UNIT
+Remarks: 
+Tube-Tubesheet Jointpairs seal strips
+Tube Side
+Seal Type
+Expansion Joint
+TEMA Class
+Type
+No Passes per Shell
+Design/Test Pressure
+Design Temperature
+Corrosion Allowance
+Code Requirements
+Floating Head Cover
+Bypass Seal Arrangement
+Connections
+Out
+In
+Size &
+Intermediate
+mmOD
+in
+Rating
+Baffles-Long
+3306U
+Tubesheet-Stationary CS
+mm
+Thk(Avg)
+CS
+Tube No.
+in
+Channel or Bonnet
+Reprinted with Permission
+CS
+Tubesheet-Floating
+Channel Cover
+RECTANGULAR PLATE
+CS
+3,5115
+Impingement Plate
+9,000
+25 & FV /
+1
+OD
+0,1616
+381,00
+1,8470
+1,9592
+22714 3785,6
+1,4992 2,2665 2,5286
+0,5163 0,4983 0,0993 0,0811
+0,2403

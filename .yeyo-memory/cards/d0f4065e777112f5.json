@@ -1,0 +1,29 @@
+{
+  "id": "d0f4065e777112f5",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.4 Cert OCA LAAT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1005031,
+  "size_human": "981 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.1.4 Cert OCA LAAT",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3200,
+  "token_estimate": 800,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/d0f4065e777112f5.json",
+  "extracted_path": ".yeyo-memory/extracted/d0f4065e777112f5.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20120109183530+01'00'",
+      "Creator": "Color Network ScanGear V2.3",
+      "Producer": "Adobe Acrobat 8.13 Paper Capture Plug-in",
+      "ModDate": "D:20120109183548+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:23.893424+00:00"
+}

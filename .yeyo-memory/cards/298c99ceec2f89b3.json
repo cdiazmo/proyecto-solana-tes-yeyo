@@ -1,0 +1,29 @@
+{
+  "id": "298c99ceec2f89b3",
+  "path": "Helios Sole/Helios I/3.3.1 Resolucion DIA HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 5893624,
+  "size_human": "5.6 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "3.3.1 Resolucion DIA HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/298c99ceec2f89b3.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "ModDate": "D:20080418103817+02'00'",
+      "CreationDate": "D:20080418103810+02'00'",
+      "Producer": "Adobe PDF Library 5.0.5",
+      "Creator": "HP PDF Formatter version 7.0.0.175"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:03.393633+00:00"
+}

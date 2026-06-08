@@ -1,0 +1,30 @@
+{
+  "id": "dd19ab277025dd8e",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.2 CDO.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 525910,
+  "size_human": "514 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.2.2 CDO",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/dd19ab277025dd8e.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "CreationDate": "D:20110302105203+01'00'",
+      "Creator": "Adobe Acrobat Pro 10.0.0",
+      "ModDate": "D:20110302105504+01'00'",
+      "Producer": "Adobe Acrobat Pro 10.0.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:20.242181+00:00"
+}

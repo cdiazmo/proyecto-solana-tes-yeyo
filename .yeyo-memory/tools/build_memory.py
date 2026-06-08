@@ -248,6 +248,10 @@ def extract_text(source: SourceFile, config: dict[str, Any]) -> tuple[str, dict[
     return "", {}, "metadata_only"
 
 
+def metadata_only_card_reason(source: SourceFile, reason: str) -> tuple[str, dict[str, Any], str]:
+    return "", {"reason": reason, "size_bytes": source.size_bytes}, "metadata_only"
+
+
 def chunk_text(text: str, chunk_chars: int, overlap: int) -> list[str]:
     if not text:
         return []
@@ -377,7 +381,10 @@ def export_chunks_jsonl(conn: sqlite3.Connection, path: Path) -> None:
 
 def process_source(source: SourceFile, config: dict[str, Any]) -> tuple[dict[str, Any], list[dict[str, Any]]]:
     did = doc_id(source.rel_path)
-    text, metadata, extraction_status = extract_text(source, config)
+    if "_pre_extracted" in config:
+        text, metadata, extraction_status = config["_pre_extracted"]
+    else:
+        text, metadata, extraction_status = extract_text(source, config)
     min_text = int(config["min_text_chars"])
     status = extraction_status
     if extraction_status == "ok" and len(text) < min_text:
@@ -518,6 +525,11 @@ def main() -> int:
     parser.add_argument("--top-dir", help="Only process documents under a top-level folder.")
     parser.add_argument("--limit", type=int, help="Only process the first N matching files.")
     parser.add_argument("--force", action="store_true", help="Reprocess unchanged files.")
+    parser.add_argument(
+        "--skip-large-pdf-mb",
+        type=int,
+        help="Treat PDFs larger than this size as metadata-only for this run.",
+    )
     args = parser.parse_args()
 
     config = load_config()
@@ -541,17 +553,36 @@ def main() -> int:
     for source in sources:
         did = doc_id(source.rel_path)
         card_path = MEMORY_ROOT / "cards" / f"{did}.json"
-        unchanged = (
-            not args.force
-            and seen.get(source.rel_path, {}).get("size_bytes") == source.size_bytes
-            and seen.get(source.rel_path, {}).get("mtime_iso") == source.mtime_iso
-            and card_path.exists()
-        )
+        existing_card = read_existing_state(card_path)
+        unchanged = False
+        if not args.force and card_path.exists():
+            state_match = (
+                seen.get(source.rel_path, {}).get("size_bytes") == source.size_bytes
+                and seen.get(source.rel_path, {}).get("mtime_iso") == source.mtime_iso
+            )
+            card_match = (
+                existing_card.get("size_bytes") == source.size_bytes
+                and existing_card.get("mtime_iso") == source.mtime_iso
+            )
+            unchanged = state_match or card_match
         if unchanged:
-            card = json.loads(card_path.read_text(encoding="utf-8"))
+            card = existing_card
             skipped += 1
         else:
-            card, chunks = process_source(source, config)
+            if (
+                args.skip_large_pdf_mb
+                and source.ext == "pdf"
+                and source.size_bytes > args.skip_large_pdf_mb * 1024 * 1024
+            ):
+                text, metadata, extraction_status = metadata_only_card_reason(
+                    source,
+                    f"skipped_large_pdf_over_{args.skip_large_pdf_mb}_mb",
+                )
+                card, chunks = process_source(source, {**config, "_pre_extracted": (text, metadata, extraction_status)})
+                card["metadata"] = metadata
+                card["status"] = extraction_status
+            else:
+                card, chunks = process_source(source, config)
             write_json(card_path, card)
             replace_chunks(conn, did, chunks)
             seen[source.rel_path] = {

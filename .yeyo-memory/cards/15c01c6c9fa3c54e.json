@@ -1,0 +1,31 @@
+{
+  "id": "15c01c6c9fa3c54e",
+  "path": "Helios Sole/LSAT - LAAT Helios I/1.6.15 LO_LA ASJ SE Col.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 472234,
+  "size_human": "461 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "1.6.15 LO LA ASJ SE Col",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/15c01c6c9fa3c54e.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Canon iR C5185",
+      "CreationDate": "D:20110414164042+01'00'",
+      "Author": "",
+      "Producer": "Canon iR C5185",
+      "Title": "",
+      "Subject": "Image"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:33.153599+00:00"
+}

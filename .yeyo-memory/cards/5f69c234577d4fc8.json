@@ -1,0 +1,30 @@
+{
+  "id": "5f69c234577d4fc8",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.1 Proyecto SE Elevadora HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 11974618,
+  "size_human": "11 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.2.1 Proyecto SE Elevadora HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 83104,
+  "token_estimate": 20776,
+  "chunks": 53,
+  "card_path": ".yeyo-memory/cards/5f69c234577d4fc8.json",
+  "extracted_path": ".yeyo-memory/extracted/5f69c234577d4fc8.txt",
+  "metadata": {
+    "pages": 76,
+    "pdf_metadata": {
+      "CreationDate": "D:20120203164221-01'00'",
+      "Creator": "pdftk 1.41 - www.pdftk.com",
+      "Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+      "ModDate": "D:20120207112845+01'00'"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:39:31.222651+00:00"
+}

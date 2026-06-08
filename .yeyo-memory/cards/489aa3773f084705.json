@@ -1,0 +1,33 @@
+{
+  "id": "489aa3773f084705",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.1 Proyecto LAAT - LSAT HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 17937215,
+  "size_human": "17 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.1.1 Proyecto LAAT - LSAT HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 548647,
+  "token_estimate": 137161,
+  "chunks": 348,
+  "card_path": ".yeyo-memory/cards/489aa3773f084705.json",
+  "extracted_path": ".yeyo-memory/extracted/489aa3773f084705.txt",
+  "metadata": {
+    "pages": 301,
+    "pdf_metadata": {
+      "Author": "sergio",
+      "CreationDate": "D:20101014174104+02'00'",
+      "Creator": "C:\\Archivos de programa\\Microsoft Office\\Office12\\WINWORD.EXE",
+      "Producer": "StampPDF Batch 4.0.4 Windows SPDF_1096+ May 4 2004",
+      "Title": "Microsoft Word - PROYECTO DEFINITIVO LSAT-LAAT HELIOS I.doc",
+      "ModDate": "D:20101014183804+02'00'",
+      "SPDF": "1096"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:31:21.326745+00:00"
+}

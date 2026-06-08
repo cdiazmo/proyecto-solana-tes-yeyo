@@ -1,0 +1,28 @@
+{
+  "id": "3342d8f553b7f7ff",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.3 Certificado instalacion EP.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 154474,
+  "size_human": "151 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.5.3 Certificado instalacion EP",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/3342d8f553b7f7ff.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20110407092218+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:21.922417+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "3f469b7aff931fe9",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/05 Cimentacion Kaxu/0328-PLN-ARS-75-52-0001_Rev03 Pipe's distribution.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1578117,
+  "size_human": "1.5 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "0328-PLN-ARS-75-52-0001 Rev03 Pipe's distribution",
+  "doc_code": "0328-PLN-ARS-75-52-",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/3f469b7aff931fe9.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Title": "I:\\\\2.1 Proyecto Sudáfrica\\\\2. Engineering\\\\2. KaXu\\\\11.Civil Engineering\\\\2. Power Block\\\\2. Areas\\\\2. TES zone\\\\1. TES Tanks\\\\5. Detai",
+      "Author": "abfsr",
+      "Creator": "PDFCreator Version 1.0.2",
+      "ModDate": "D:20130212101215+01'00'",
+      "Subject": "",
+      "Keywords": "",
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20130212101047+01'00'",
+      "PXCViewerInfo": "PDF-XChange Viewer;2.5.207.0;Nov 12 2012;20:01:37;D:20130212101215+01'00'"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.725022+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.761472+00:00"
+}

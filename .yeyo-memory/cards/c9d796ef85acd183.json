@@ -1,0 +1,32 @@
+{
+  "id": "c9d796ef85acd183",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.10 Carta no AA.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 401868,
+  "size_human": "392 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.3.10 Carta no AA",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/c9d796ef85acd183.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Title": "Nuance Communications, Inc.",
+      "Author": "Eva María Ruiz Sánchez",
+      "Keywords": "None",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc.",
+      "CreationDate": "D:20120301092100+01'00'",
+      "ModDate": "D:20120301092119+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:38.822898+00:00"
+}

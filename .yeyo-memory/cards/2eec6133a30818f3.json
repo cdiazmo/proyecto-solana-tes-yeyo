@@ -1,0 +1,36 @@
+{
+  "id": "2eec6133a30818f3",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260325/1950801-CAL-0002.00-Calculo Estructural estructura plataforma soporte bombas de sales.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1508590,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-CAL-0002.00-Calculo Estructural estructura plataforma soporte bombas de sales",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13165,
+  "token_estimate": 3291,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/2eec6133a30818f3.json",
+  "extracted_path": ".yeyo-memory/extracted/2eec6133a30818f3.txt",
+  "metadata": {
+    "pages": 15,
+    "pdf_metadata": {
+      "CreationDate": "D:20260324152808+01'00'",
+      "Creator": "Microsoft® Word para Microsoft 365",
+      "ModDate": "D:20260324152833+01'00'",
+      "Producer": "Microsoft® Word para Microsoft 365",
+      "Title": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plataforma / estructura metalica",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.591114+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.591116+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "d0725e0531fafb0b",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.5 Acreditacion BT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1132564,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.2.5 Acreditacion BT",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d0725e0531fafb0b.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Creator": "pdftk 1.41 - www.pdftk.com",
+      "Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+      "ModDate": "D:20111228161233-01'00'",
+      "CreationDate": "D:20111228161233-01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:57.505071+00:00"
+}

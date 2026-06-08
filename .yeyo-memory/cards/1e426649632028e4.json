@@ -1,0 +1,26 @@
+{
+  "id": "1e426649632028e4",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/CFO Visado Bombeo Helios.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 216829,
+  "size_human": "212 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "CFO Visado Bombeo Helios",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/1e426649632028e4.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20160409125803"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:02.118083+00:00"
+}

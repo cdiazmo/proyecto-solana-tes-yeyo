@@ -1,0 +1,33 @@
+{
+  "id": "dacf7460ad027293",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.7 Contrato Mto AT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 131921,
+  "size_human": "129 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.2.7 Contrato Mto AT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/dacf7460ad027293.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20111230113410+01'00'",
+      "ModDate": "D:20111230113410+01'00'",
+      "Title": "Contrato Mantenimiento AT.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:31.522184+00:00"
+}

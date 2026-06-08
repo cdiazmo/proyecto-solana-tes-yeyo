@@ -1,0 +1,28 @@
+{
+  "id": "6e197fda230314c1",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.8 Formulario SE Elevadora HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 372020,
+  "size_human": "363 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.4.8 Formulario SE Elevadora HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/6e197fda230314c1.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Canon iR-ADV C2030i PDF",
+      "CreationDate": "D:20120110142709Z00'00'",
+      "Producer": "Adobe PSL 1.0e for Canon\u0000"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:46.555932+00:00"
+}

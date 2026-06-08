@@ -1,0 +1,30 @@
+{
+  "id": "64d5fc5bcee6fda8",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-LIS-3660-00 Rev00_Lista Valvulas General.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1218165,
+  "size_human": "1.2 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-3660-00 Rev00 Lista Valvulas General",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 9978,
+  "token_estimate": 2494,
+  "chunks": 7,
+  "card_path": ".yeyo-memory/cards/64d5fc5bcee6fda8.json",
+  "extracted_path": ".yeyo-memory/extracted/64d5fc5bcee6fda8.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "Asier Aurrekoetxea Palacios",
+      "CreationDate": "D:20260401094718+02'00'",
+      "ModDate": "D:20260401094752+02'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": "Microsoft Word - 1950801-LIS-3660-00 Rev00 Portada Lista Valvulas General"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:22.613388+00:00"
+}

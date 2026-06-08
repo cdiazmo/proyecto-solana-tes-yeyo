@@ -1,0 +1,3557 @@
+[page 1]
+ 
+ 
+ 
+ATLANTICA 
+Especificación de tuberías 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-DOC-4170-05 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 1/1 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+Especificación de tuberías 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-DOC-4170-05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 24/03/2026 INITIAL ISSUE I.U.A. I.U.A. D.S.Z. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+Realizado Comprobado Aprobado 
+IUA IUA IUA 
+ 
+ 
+ 
+ 
+ 
+ 
+ESPECIFICACION PARTICULAR DE MATERIAL 
+DE TUBERIA 
+ 
+ 
+ 
+ 
+C O N T R O L D E R E V I S I O N E S 
+REVISIÓN FECHA MOTIVO HOJAS REVISADAS 
+0 21/07/10 Edición inicial Todas 
+1A 18/11/10 Actualización Todas 
+2 23/03/26 Esp BAF9 y AAA3. Actualización 
+BAA8 
+Todas 
+ 
+ 
+ 
+ 
+ 
+ 
+TIPO: ESPECIFICACIONES PARTICULAR HOJA 1 de 33 
+IDENTIFIC.: 137002-ET-003 REV.: 2 FECHA: 23-03-26 
+ 
+ 
+ GARANTÍA DE CALIDAD Sí 
+
+[page 3]
+ 
+ HOJA 2 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ÍNDICE 
+1. OBJETO 3 
+2. ABREVIATURAS Y SIMBOLOS 4 
+3. TUBERÍAS 5 
+3.1 Designación de las especificaciones de materiales de tubería 5 
+3.2 Curvado de tubería 6 
+4. VÁLVULAS 7 
+5. TABLA DE DISEÑO Y SELECCIÓN DE ESPECIFICACIONES 8 
+6. LISTA DE ESPECIFICACIONES. CURVAS P-T 9 
+7. ANEXO: HOJAS DE ESPECIFICACIÓN DE TUBERIAS 10 
+Especificación AAA1 11 
+Especificación AAA3 14 
+Especificación BAA4 17 
+Especificación BAA7 19 
+Especificación BAA8 21 
+Especificación BAF9 23 
+Especificación DAA2 25 
+Especificación DAA4 27 
+Especificación FAA3 29 
+Especificación FAA8 31 
+
+[page 4]
+ 
+ HOJA 3 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+1. OBJETO 
+El objeto del presente documento es establecer las presiones y temperaturas a emplear en 
+el diseño de las tuberías y describir los requisitos aplicables a los materiales de tubería y 
+valvulería (manuales, operadas por motor eléctrico -abierto-cerrado, sin modulación - y de 
+diafragma con accionamiento neumático) a usar para el diseño, fabricación y montaje de 
+los sistemas de tuberías para una Central Termosolar SOLACOR 1&2. 
+ 
+En el apartado 5 de este documento se recoge la tabla de selección donde se asignan las 
+especificaciones incluidas en el apartado 7, según los distintos servicios del proyecto en 
+función de sus condiciones de presión y temperatura. 
+
+[page 5]
+ 
+ HOJA 4 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+2. ABREVIATURAS Y SIMBOLOS 
+BF Brida ciega (Blind flange) 
+B’FLG Conexión entre bridas 
+BHN Grado de dureza Brinell 
+BW Butt welding (soldadura a tope) 
+EF Enchufe y fusión 
+FF Cara lisa 
+FLG Conexión por bridas 
+FT Fusión térmica 
+Gr Grado 
+LB Libra 
+LT Brida loca (Lap joint) 
+NPT Rosca nacional americana de tubería 
+Ra=AARH Grado de mecanizado de las caras de las bridas (valor de rugosidad) 
+RF Cara con resalte 
+RTJ Junta de anillo 
+SCH Schedule 
+SW Socket welding (soldadura de enchufe) 
+TH Conexión roscada 
+TL Unión a tope por laminación 
+WN Brida de cuello 
+
+[page 6]
+ 
+ HOJA 5 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+3. TUBERÍAS 
+Las Especificaciones de Materiales de Tubería, describen los componentes y materiales 
+que deberán utilizarse en la fabricación e instalación de sistemas de tuberías. 
+3.1 Designación de las especificaciones de materiales de tubería 
+La identificación de estas especificaciones se desarrolla por medio de la combinación de 
+tres caracteres alfabéticos y uno numérico. Los tres caracteres alfabéticos se 
+seleccionarán de la tabla adjunta. 
+El carácter numérico es un número de orden para diferenciar especificaciones de 
+materiales que teniendo los mismos tres caracteres alfabéticos, sin embargo, debido, bien 
+a la distinta aplicación de las relaciones presión -temperatura-, o a diferencias en algunas 
+de las características de los elementos definidos en la especificación, son especificaciones 
+diferentes. Para este último carácter una vez agotados los números (desde 1 a 0) se pasa 
+a letras en orden alfabético. 
+ 
+Los ratings primarios que aparecen en la Lista de Especificaciones de Materiales se han 
+tomado, de acuerdo con el Código ANSI B16.5, B16.47 y B16.34. 
+
+[page 7]
+ 
+ HOJA 6 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+TABLA 
+PRIMERA LETRA SEGUNDA LETRA TERCERA LETRA 
+ RATING MATERIAL CODIGO APLICABLE 
+A ANSI 150 LB A ACERO AL CARBONO A ASME B31.1 POWER PIPING CODE 
+B ANSI 300 LB B Aº INOXIDABLE B DIN 
+C ANSI 400 LB C COBRE C NATIONAL FIRE PROTECTION ASSOC 
+D ANSI 600 LB D ACERO ALEADO D ASME B31.8 Gas Transmission & distribution Piping Systems 
+E ANSI 900 LB E SS-TUBING E ASME BPVC 
+F ANSI 1500 LB F PLASTICO F ASME B31.3 Process Piping 
+G ANSI 2500LB G AºCº GALVANIZADO G 
+H H H 
+J J J 
+K K K 
+L L L 
+M M M 
+N N N 
+P P P 
+Q Q Q 
+R R R 
+S S S 
+T T T 
+U U U 
+V V V 
+W W W 
+X X X 
+Y Y Y 
+Z Z Z 
+3.2 Curvado de tubería 
+En caso de que se pretenda doblar tubería mayor de 2” y no esté explícitamente permitido 
+se deberá pedir autorización a LOINTEK y se verificará que se cumplen los requisitos 
+establecidos por el párrafo 102.4.5 de ANSI B31.1 para poder realizarlo. En este cálculo 
+se deberán tener en cuenta la tolerancia de fabricación, el sobree spesor de corrosión 
+aplicado en la correspondiente hoja de especificación, y las condiciones de presión y 
+temperatura de diseño de proyecto particular de la línea que se pretende doblar. 
+
+[page 8]
+ 
+ HOJA 7 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+4. VÁLVULAS 
+ 
+En cuanto al material de los internos de las válvulas, se seguirá la siguiente tabla que 
+relaciona el Número de Trim de las válvulas con dichos materiales. 
+ 
+Nº Trim Vástago Superficies de cierre 
+1 13%Cr 13%Cr 
+5 13%Cr Stellite / Stellite 
+8 13%Cr Asiento 13%Cr y disco / obturador Stellite 
+10 (316 y 316L) Inox. 316 ó 316L Inoxidable 316 ó 316L 
+12 (316) Inox. 316 Inoxidable 316 / Stellite 
+ 
+
+[page 9]
+ 
+ HOJA 8 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+5. TABLA DE DISEÑO Y SELECCIÓN DE ESPECIFICACIONES 
+ 
+REV. SIST. SUBSISTEMA PD TD Esp. Rev Material Clase NOTAS 
+(bar g) (ºC) 
+0 JS_ ACEITE GENERADOR VAPOR 25 398 BAA8 0 A106 Gr. B 300# 
+2 WTX ACEITE EN ALMACENAMIENTO DE SALES 25 398 BAA8 2 A106 Gr. B 300# 
+ 
+0 HAF VAPOR SOBRECALENTADO -GENERADOR VAPOR 120 398 FAA3 1 A106 Gr. B 1500# 
+0 HAD VAPOR SATURADO SOBRECALENTADOR 120 398 FAA3 1 A106 Gr. B 1500# 
+1 HAA AGUA DE ALIMENTACION HASTA VALVULA 
+ANTIRRETORNO 155 270 FAA8 0 A106 Gr. B 1500# 
+1 HAA AGUA DE ALIMENTACION DESDE VALVULA 
+ANTIRRETONONO HASTA PRECALENTADOR 135,5 270 FAA3 1 A106 Gr. B 1500# 
+0 HAC AGUA DE ALIMENTACION DEPUESDE PRECALENTADOR 120 270 FAA3 1 A106 Gr. B 1500# 
+0 HAG RECALENTADO CALIENTE GENERADOR VAPOR 25 398 BAA7 0 A106 Gr. B 300# 
+0 HAB RECALENTADO FRIO GENERADOR DE VAPOR 25 398 BAA7 0 A106 Gr. B 300# 
+ 
+1 HAD PURGA CONTINUA – antes válvulas aislamiento- 120 318 FAA3 1 A106 Gr. B 1500# 
+0 HAH PURGA CONTINUA - después válvulas aislamiento- 62 280 DAA4 0 A106 Gr. B 600# 
+1 HAD PURGA INTERMITENTE – antes válvulas aislamiento- 120 318 FAA3 1 A106 Gr. B 1500# 
+0 HAH PURGA INTERMITENTE – después válvulas aislamiento- 62 280 DAA4 0 A106 Gr. B 600# 
+0 HAH DRENAJE VACIADO POTES – antes válvulas aislamiento- 120 398 FAA3 1 A106 Gr. B 1500# 
+0 HAH DRENAJE VACIADO POTES – después válvulas 
+aislamiento- 7 105 AAA1 0 A106 Gr. B 150# 
+ 
+0 HAF DRENAJES DE VAPOR AP – después válvulas de 
+aislamiento 62 398 DAA2 0 A106 Gr. B 600# 
+0 HAG DRENAJES DE VAPOR RC – después válvulas de 
+aislamiento 17,5 398 BAA4 0 A106 Gr. B 300# 
+0 HAB DRENAJES DE VAPOR RF – después válvulas de 
+aislamiento 17,5 215 BAA4 0 A106 Gr. B 300# 
+ 
+0 QF_ AIRE COMPRIMIDO INSTRUMENTOS 11 50 PENDIENTE 0 A106 Gr. B 
+0 JC_ DESCARGA VALVULAS DE SEGURIDAD HTF 12,5 398 BAA4 0 A106 Gr. B 300# 
+0 GM_ EFLUENTES CALIENTES 0,5 100 AAA1 0 A106 Gr. B 150# 
+0 GM_ EFLUENTES FRÍOS 0,5 50 AAA1 0 A106 Gr. B 150# 
+2 WSN NITROGENO 3.5 400 AAA3 0 A106 Gr. B 150# 
+2 AIRE REFIRGERACION TANQUES AAA1 0 A106 Gr. B 150# 
+ 
+2 WSX SALES EN ALMACENAMIENTO DE SALES 25 398 BAF9 0 A106 Gr. B 300# 
+
+[page 10]
+ 
+ HOJA 9 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+6. LISTA DE ESPECIFICACIONES. CURVAS P-T 
+Presiones de la tabla en bar g. 
+ 
+ 
+MATERIAL Hoja de Hoja CURVA P-T 
+Rating Especific. BPVC 
+ACERO AL CARBONO ºC -28,9 93,3 148,9 204,4 260,0 315,6 343,3 371,1 398,9 412,8 
+s/ASME 
+B31.1 ºF -20,0 200,0 300,0 400,0 500,0 600,0 650,0 700,0 750,0 775,0 
+150 Lb AAA1 - 19,7 17,9 15,9 13,8 
+ AAA2 AAE2 19,7 17,9 15,9 13,8 11,7 9,7 8,6 7,6 6,6 6,0 
+ Nitrogeno AAA3 - 19,7 17,9 15,9 13,8 
+ AAA5 - 19,7 17,9 15,9 13,8 
+300 Lb BAA1 BAE1 47,2 46,5 45,2 43,8 41,4 37,9 36,9 36,9 34,8 31,5 
+ BAA2 BAE2 37,2 37,2 37,2 37,2 37,2 37,2 36,9 35,7 32,3 29,5 
+ BAA4 BAE4 23,1 23,1 23,1 23,1 23,1 23,1 23,1 22,1 20,0 18,3 
+ BAA6 BAE6 43,7 43,7 43,7 43,7 41,4 37,9 36,9 36,9 34,8 31,5 
+ BAA7 31 31 31 31 31 31 31 30 27 24 
+ ACEITE BAA8 31 31 31 31 31 31 31 30 27 24 
+SALES BAF9 31 31 31 31 31 31 31 30 27 24 
+600 Lb DAA1 DAE1 102,0 93,1 90,7 87,6 82,7 75,5 74,1 73,4 69,6 63,3 
+ DAA2 DAE2 89,4 89,4 89,4 87,6 82,7 75,5 74,1 73,4 69,6 63,3 
+ DAA4 DAE4 67,8 67,8 67,8 67,8 67,8 67,8 67,8 65,1 58,8 53,8 
+ DAA5 DAE5 48,0 48,0 48,0 48,0 48,0 48,0 48,0 46,1 41,6 38,1 
+ DAA7 47,2 47,2 47,2 47,2 47,2 
+ DAA8 DAE8 58,1 58,1 58,1 58,1 58,1 58,1 58,1 55,8 50,4 46,1 
+ DAA0 DAE0 68,7 68,7 68,7 68,7 68,7 68,7 68,7 66,0 59,6 54,5 
+900 Lb EAA1 EAE1 136,0 136,0 135,8 131,0 123,8 113,1 111,0 110,3 104,1 94,6 
+ EAA2 EAE2 113,2 113,2 113,2 113,2 113,2 113,1 111,0 108,7 98,1 89,8 
+ EAA3 EAE3 89,4 89,4 89,4 89,4 89,4 89,4 89,4 85,8 77,5 70,9 
+1500 Lb FAA1 FAE1 213,9 213,9 213,9 213,9 206,5 188,6 185,1 183,7 173,7 157,9 
+ FAA2 FAE2 222,2 222,2 222,2 218,6 206,5 188,6 185,1 183,7 173,7 157,9 
+ FAA3 FAE3 141 141 141 141 141 141 141 136 122 112 
+ FAA4 FAE4 187,8 187,8 187,8 187,8 187,8 187,8 185,1 178,1 158,8 143,8 
+ FAA5 FAE5 183,4 183,4 183,4 183,4 183,4 183,4 183,4 176,0 158,9 145,5 
+ FAA8 FAE8 158,6 158,6 158,6 158,6 158,6 158,6 158,6 158,6 152,3 137,5 
+2500 Lb GAA1 GAE1 230,3 230,3 230,3 230,3 229,3 208,6 202,7 195,8 173,7 157,9 
+ GAA2 GAE2 225,0 225,0 225,0 225,0 225,0 208,6 202,7 195,8 173,7 157,9 
+ GAA3 GAE3 240,5 240,5 240,5 240,5 229,3 208,6 202,7 195,8 173,7 157,9 
+ 
+ ºC -28,9 93,3 148,9 204,4 260,0 315,6 371,1 398,9 426,7 454,4 
+ACERO INOXIDABLE ºF -20 200 300 400 500 600 700 750 800 850 
+ 1500 Lb 316L FBA3 - 153,4 129,9 116,3 105,5 97,7 91,8 87,9 86,0 84,0 82,1 
+ ºC 37,8 93,3 204,4 398,9 565,6 621,1 648,9 676,7 704,4 760,0 815,6 
+TUBING ºF 100 200 400 750 1050 1150 1200 1250 1300 1400 1500 
+Hasta 600 
+Lb 316 DBA1 - 216,9 186,9 154,6 129,2 118,6 81,7 63,8 
+ 316H DBA2 - 216,9 186,9 154,6 129,2 118,6 81,7 63,8 50,7 40,3 26,2 14,1 
+ 316L DBA3 - 110,3 93,1 75,8 61,7 
+De 900 Lb 
+ a 2500 Lb 316 EEA1 - 294,2 253,5 209,7 175,2 164,3 135,8 106,5 
+ 316H EEA2 - 294,2 253,5 209,7 175,2 164,3 135,8 106,5 84,8 66,9 38,6 21,8 
+
+[page 11]
+ 
+ HOJA 10 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+7. ANEXO: HOJAS DE ESPECIFICACIÓN DE TUBERIAS 
+Índice de hojas anexas: 
+ 
+Esp. Rev. 
+AAA1 0 
+AAA3 0 
+BAA4 0 
+BAA7 1 
+ BAA8 2 
+ BAF9 0 
+DAA2 0 
+ DAA4 1 
+FAA3 1 
+FAA8 0 
+ 
+
+[page 12]
+ 
+ HOJA 11 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación AAA1 Rev.0 
+ Bar g 19,7 17,9 15,9 13,8 RATING PRIMARIO 150 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Ciclo agua-vapor 
+ Psi g 285 260 230 200 
+ ºF -20/100 200 300 400 
+ ºC -28/37 93 148 204 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+80 
+STD 
+A 106 Gr B 
+A 106 Gr B 
+ACCESORIOS 1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) (3) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (4) (5) 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+150 
+150 
+A105 SW/RF s/ANSI B16.5 125-250AARH 
+A105 WN/RF s/ANSI B16.5 125-250AARH 
+JUNTAS 
+TODOS - 150 
+Espirometálica (304 SS) de grafito con anillo de centrado 
+exterior s/ANSI B16.20 (Servicio vapor) 
+Junta plana s/ANSI B16.21, espesor 1,5 mm. Fibra sin 
+amianto C4430 o similar (Servicio liquido Nota (7) ) 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413ºC. 
+ (3) Cuando se indique en planos de diseño podrán utilizarse accesorios roscados < 2” 
+ (4) Las bridas de orificio serán 300 Lb A105 s/ANSI B16.5 
+ (5) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (6) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ (7) A partir de 230ºC de temperatura de diseño, utilizar espirometálica 
+ 
+ 
+
+[page 13]
+ 
+ HOJA 12 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (6): AAA1 (Especificación en rev. 0) 
+ 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Cuña sólida. Paso total 
+Trim nº 5 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Cuña sólida. Paso reducido 
+Trim nº 5 
+COMPUERTA 150 Lb Todos Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y. Cuña sólida Trim nº 5 
+COMPUERTA 150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y. Cuña sólida Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO Y 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Paso total 
+Trim nº 5 
+AGUJA 800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Paso reducido 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO 
+TIPO Y 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO 
+TIPO T 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO 
+TIPO Y 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó 
+A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105, pistón de 
+A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+Paso total 
+Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105, pistón de 
+A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+Paso reducido 
+Trim nº 5 
+RETENCIÓN 
+DE DOBLE 
+DISCO 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y placas 
+de A216 Gr.WCB 
+ó A105 
+Wafer para 
+bridas ANSI 
+B16.5 
+ Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANT
+E 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANT
+E 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada Trim nº 5 
+
+[page 14]
+ 
+ HOJA 13 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+MARIPOSA 150 Lb 2 1/2" a 
+24" 
+Cuerpo y disco de 
+A536 Gr.60-40-18 
+ó A395 
+Wafer para 
+bridas ANSI 
+B16.5 
+Disco y asiento concéntricos Recubrimie
+nto interno 
+de EPDM 
+MARIPOSA 150 Lb 2 1/2" a 
+24" 
+Cuerpo y disco de 
+A536 Gr.60-40-18 
+ó A395 
+Lug para 
+bridas ANSI 
+B16.5 
+Disco y asiento concéntricos Recubrimie
+nto interno 
+de EPDM 
+MARIPOSA 150 Lb Todos Cuerpo de A216 
+Gr.WCB ó A105 y 
+disco de 
+inoxidable 
+BW s/ANSI 
+B16.25 
+Disco y asiento concéntricos Asiento 
+metálico 
+MARIPOSA 150 Lb Todos Cuerpo de A216 
+Gr.WCB ó A105 y 
+disco de 
+inoxidable 
+BW s/ANSI 
+B16.25 
+Disco y asiento doble descentrado Asiento 
+metálico 
+MARIPOSA 150 Lb Todos Cuerpo de A216 
+Gr.WCB ó A105 y 
+disco de 
+inoxidable 
+BW s/ANSI 
+B16.25 
+Disco y asiento triple descentrado Asiento 
+metálico 
+CIERRE-
+RETENCIÓN 
+TIPO Y 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 15]
+ 
+ HOJA 14 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (1) Especificación AAA3 Rev.0 
+ Bar g 19,7 17,9 15,9 13,8 RATING PRIMARIO 150 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Gas natural BP, N 2, CO 2, H 2, 
+vacío. 
+ 
+ 
+Psi g 285 260 230 200 
+ ºF -20/100 200 300 356 500 600 650 700 750 800 
+ ºC -28/37 93 148 180 260 315 343 371 398 426 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+½” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+80 
+STD 
+A 106 Gr B 
+ACCESORIOS 
+ 
+½” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (2) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (3) (5) 
+½” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+150 
+150 
+A105 SW/RF s/ANSI B16.5 125-250 AARH 
+A105 WN/RF s/ANSI B16.5 125-250 AARH 
+JUNTAS TODOS - 150 Junta plana s/ANSI B16.21, espesor 1,5 mm. 
+Fibra sin amianto C4430 o similar 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Temperatura máxima 180ºC 
+ (2) Cuando se indique en planos de diseño podrán utilizarse accesorios roscados < 2” 
+ (3) Las bridas de orificio serán 300 Lb A105 s/ANSI B16.5 
+ (4) Válidas para servicio con gas combustible. Las válvulas de bola son además de uso exclusivo para gases combustibles 
+ (5) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (6) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ (7) Para servicios de vacío y extración de aire. 
+ (8) Válvulas de DN ≤ 8” 
+ (9) Válvulas de DN ≥ 10” 
+ (10) Como alternativa se pueden utilizar las válvulas de extremos soldados 
+ 
+ 
+ 
+ 
+
+[page 16]
+ 
+ HOJA 15 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (6): AAA3 (Especificación en rev. 0) 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA (7) 150 Lb Todos Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+Bridada RF 
+s/ANSI B16.5 
+Tapa atornillada. OS&Y. 
+Cuña sólida 
+Trim nº 8 
+COMPUERTA(10) 150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y. 
+Cuña sólida 
+Trim nº 8 
+ASIENTO TIPO T 
+(4) 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada 
+y soldada. OS&Y. Paso 
+total 
+Trim nº 8 
+ASIENTO TIPO Y 
+(4) 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada 
+y soldada. OS&Y. Paso 
+total 
+Trim nº 8 
+AGUJA (4) 800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada 
+y soldada. OS&Y 
+Trim nº 8 
+ASIENTO TIPO T 
+(4) 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada 
+y soldada. OS&Y. Paso 
+reducido 
+Trim nº 8 
+ASIENTO TIPO T 
+(10) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 8 
+ASIENTO TIPO Y 
+(10) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 8 
+ASIENTO EN 
+ÁNGULO (10) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 8 
+ASIENTO TIPO T 
+(4) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+Bridada RF 
+s/ANSI B16.5 
+Tapa atornillada. OS&Y Trim nº 8 
+ASIENTO TIPO Y 
+(4) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+Bridada RF 
+s/ANSI B16.5 
+Tapa atornillada. OS&Y Trim nº 8 
+ASIENTO EN 
+ÁNGULO (4) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa de 
+A216 Gr.WCB ó A105 
+Bridada RF 
+s/ANSI B16.5 
+Tapa atornillada. OS&Y Trim nº 8 
+RETENCIÓN DE 
+PISTÓN (4) 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105, pistón de A182 
+Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada 
+y soldada. Paso total 
+Trim nº 8 
+RETENCIÓN DE 
+PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa de 
+A105, pistón de A182 
+Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada 
+y soldada. Paso reducido 
+Trim nº 8 
+RETENCIÓN DE 
+DOBLE DISCO 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo y placas de 
+A216 Gr.WCB ó A105 
+Wafer para 
+bridas ANSI 
+B16.5 
+ Trim nº 8 
+RETENCIÓN DE 
+CLAPETA (10) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y disco 
+de A216 Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 8 
+RETENCIÓN DE 
+CLAPETA (4) 
+150 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y disco 
+de A216 Gr.WCB ó 
+A105 
+Bridada RF 
+s/ANSI B16.5 
+Tapa atornillada Trim nº 8 
+BOLA (8) 150 Lb 6" y 
+menores 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+Bridada RF 
+s/ANSI B16.5 
+Paso total. Flotante. 
+Cuerpo partido 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (9) 150 Lb 8" y 
+mayores 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+Bridada RF 
+s/ANSI B16.5 
+Paso total. Trunnion 
+mounted. Cuerpo partido 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (10) 150 Lb 2 ½” hasta 
+6” 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+BW s/ANSI 
+B16.25 
+Paso total.Flotante.Cuerpo 
+integral Top Entry. 
+FireSafe.AntiStatic.CavityR
+elief 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (10) 150 Lb 2 ½” hasta 
+6” 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+BW s/ANSI 
+B16.25 
+Paso reducido.Flotante. 
+Cuerpo integral. Top Entry. 
+Fire Safe. AntiStatic. 
+Cavity Relief 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+
+[page 17]
+ 
+ HOJA 16 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+BOLA (10) 150 Lb 8" y 
+mayores 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+BW s/ANSI 
+B16.25 
+Paso total. Trunnion 
+mounted. Integral.Top 
+Entry. Fire Safe. Anti-
+Static. Cavity Relief 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (10) 150 Lb 8" y 
+mayores 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+BW s/ANSI 
+B16.25 
+Paso reducido.Trunnion 
+mounted. Integral Top 
+Entry. Fire Safe. Anti-
+Static. Cavity Relief 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (4) (8) 150 Lb 2 ½” hasta 
+6” 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+Bridada RF 
+s/ANSI B16.5 
+Paso total. Flotante. 
+Cuerpo integral End Entry. 
+Fire Safe.Anti-Static. 
+Cavity Relief 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (4) (8) 150 Lb 2 ½” hasta 
+6” 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+Bridada RF 
+s/ANSI B16.5 
+Paso reducido. 
+Flotante.Cuerpo integral. 
+End Entry. Fire Safe. Anti-
+Static. Cavity Relie f 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (4) (9) 150 Lb 8" y 
+mayores 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+Bridada RF 
+s/ANSI B16.5 
+Paso total. Trunnion 
+mounted. Cuerpo partido. 
+Fire Safe. Anti-Static. 
+Cavity Relief 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+BOLA (4) (9) 150 Lb 8" y 
+mayores 
+Cuerpo de A216 
+Gr.WCB ó A105 y Bola 
+de A351 Gr.CF8M ó 
+A182 Gr.F316 
+Bridada RF 
+s/ANSI B16.5 
+Paso reducido. Trunnion 
+mounted. Cuerpo partido. 
+Fire Safe. Anti-Static. 
+Cavity Relief 
+Asientos PTFE, 
+tórica Vitón, 
+husillo 13% Cr 
+ 
+ 
+ 
+
+[page 18]
+ 
+ HOJA 17 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación BAA4 Rev.0 
+ Bar g 23,1 23,1 23,1 23,1 23,1 23,1 23,1 22,1 20,0 18,3 RATING PRIMARIO 300 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Ciclo Agua-vapor 
+ Psi g 334 334 334 334 334 334 334 321 290 265 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+80 
+STD 
+A 106 Gr B 
+ACCESORIOS 
+ 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (3) 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+300 
+300 
+A105 SW/RF s/ANSI B16.5 125-250AARH 
+A105 WN/RF s/ANSI B16.5 125-250AARH 
+JUNTAS TODOS - 300 Espirometálica (304 SS) de grafito con anillo de 
+centrado exterior s/ANSI B16.20 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413 ºC 
+ (3) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ (5) Para servicios donde el fluido no esta en estado vapor se utilizaran las válvulas de extremos 
+bridados. 
+ 
+ 
+
+[page 19]
+ 
+ HOJA 18 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): BAA4 (Especificación en rev. 0) 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Cuña sólida. Paso total 
+Trim nº 5 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Cuña sólida. Paso reducido 
+Trim nº 5 
+COMPUERTA
+(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y. Cuña flexible Trim nº 5 
+COMPUERTA
+(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y. Cuña flexible Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO Y 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Paso total 
+Trim nº 5 
+AGUJA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+OS&Y. Paso reducido 
+Trim nº 5 
+ASIENTO 
+TIPO T (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO 
+TIPO Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO 
+TIPO T (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO 
+TIPO Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+Paso total 
+Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y soldada. 
+Paso reducido 
+Trim nº 5 
+RETENCIÓN 
+DE 
+CLAPETA(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANT
+E(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE 
+CLAPETA(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANT
+E(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ 
+
+[page 20]
+ 
+ HOJA 19 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación BAA7 Rev.1 
+ Bar g 31 31 31 31 31 31 31 30 27 24 RATING PRIMARIO 300 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Ciclo Agua-vapor 
+ Psi g 449 449 449 449 449 449 449 435 391 348 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+1/2” a 2” 
+2 ½” a 18” 
+20” 
+24” 
+SW 
+BW 
+BW 
+BW 
+80 
+STD 
+XS 
+XS 
+A 106 Gr B 
+A 106 Gr B 
+A 106 Gr B 
+A 106 Gr B 
+ACCESORIOS 
+ 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (3) 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+300 
+300 
+A105 SW/RF s/ANSI B16.5 125-250AARH 
+A105 WN/RF s/ANSI B16.5 125-250AARH 
+JUNTAS TODOS - 300 Espirometálica (304 SS) de grafito con anillo de 
+centrado exterior s/ANSI B16.20 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413 ºC 
+ (3) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ (5) Para servicios donde el fluido no esta en estado vapor se utilizaran las válvulas de extremos 
+bridados. 
+ 
+
+[page 21]
+ 
+ HOJA 20 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): BAA7 (Especificación en rev. 0) 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Cuña sólida. 
+Paso total 
+Trim nº 5 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Cuña sólida. 
+Paso reducido 
+Trim nº 5 
+COMPUERTA 
+(5) 
+300 Lb Todos Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y. Cuña 
+flexible 
+Trim nº 5 
+COMPUERTA 
+(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y. Cuña 
+flexible 
+Trim nº 5 
+ASIENTO TIPO 
+T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso total 
+Trim nº 5 
+ASIENTO TIPO 
+Y 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso total 
+Trim nº 5 
+AGUJA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y 
+Trim nº 5 
+ASIENTO TIPO 
+T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso reducido 
+Trim nº 5 
+ASIENTO TIPO 
+T (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO TIPO 
+Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO TIPO 
+T (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO TIPO 
+Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. Paso total 
+Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. Paso reducido 
+Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANTE 
+(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANTE 
+(5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y (5) 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+Bridada RF 
+s/ANSI 
+B16.5 
+Tapa atornillada. OS&Y Trim nº 5 
+
+[page 22]
+ 
+ HOJA 21 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación BAA8 Rev.2 
+ Bar g 31 31 31 31 31 31 31 30 27 24 RATING PRIMARIO 300 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: ACEITE 
+ Psi g 449 449 449 449 449 449 449 435 391 348 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+1/2” a 2” 
+2 ½” a 18” 
+20” 
+24” 
+SW 
+BW 
+BW 
+BW 
+80 
+STD 
+XS 
+XS 
+A 106 Gr B 
+A 106 Gr B 
+A 106 Gr B 
+A 106 Gr B 
+ACCESORIOS 
+ 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (3) 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+300 
+300 
+A105 SW/RTJ s/ANSI B16.5 <63AARH 
+A105 WN/RTJ s/ANSI B16.5 <63AARH 
+JUNTAS TODOS - 300 Anillo oval s/ANSI B16.20, material acero dulce 
+<90 BHN 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413 ºC 
+ (3) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ (5) Para servicios donde el fluido no esta en estado vapor se utilizaran las válvulas de extremos 
+bridados. Eliminadas todas las válvulas bridadas y todas las válvulas de retención 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 23]
+ 
+ HOJA 22 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): BAA8 (Especificación en rev. 2) 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada. 
+OS&Y. Cuña 
+sólida. Paso total. 
+Bellow seal 
+Trim 12. Lattygraph 6940 EF, 
+Garlock 1303 FEP (Graphite shall 
+not be in contact with HTF). 
+Bonnet/cover to body seal metal O-
+ring or C-ring without silver coated 
+Inconel. 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada. 
+OS&Y. Cuña 
+sólida. Paso 
+reducido. Bellow 
+seal 
+Trim 12. Lattygraph 6940 EF, 
+Garlock 1303 FEP (Graphite shall 
+not be in contact with HTF.). 
+Bonnet/cover to body seal metal O-
+ring or C-ring without silver coated 
+Inconel. 
+COMPUERTA 300 Lb 2 1/2" y 
+mayores 
+Cuerpo y 
+tapa de 
+A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. 
+OS&Y. Cuña 
+flexible. Bellow 
+seal 
+Trim 12. Lattygraph 6940 EF, 
+Garlock 1303 FEP (Graphite shall 
+not be in contact with HTF.). 
+Bonnet/cover to body seal metal O-
+ring or C-ring without silver coated 
+Inconel. 
+ASIENTO TIPO 
+T 
+800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada. 
+OS&Y. Paso total. 
+Bellow seal 
+Trim 12. Lattygraph 6940 EF, 
+Garlock 1303 FEP (Graphite shall 
+not be in contact with HTF.). 
+Bonnet/cover to body seal metal O-
+ring or C-ring without silver coated 
+Inconel. 
+ASIENTO TIPO 
+T 
+800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de 
+A105 
+SW s/ANSI 
+B16.11 
+Tapa 
+atornillada.OS&Y. 
+Paso reducido. 
+Bellow seal 
+Trim 12. Lattygraph 6940 EF, 
+Garlock 1303 FEP (Graphite shall 
+not be in contact with HTF.). 
+Bonnet/cover to body seal metal O-
+ring or C-ring without silver coated 
+Inconel. 
+ASIENTO TIPO 
+T 
+300 Lb 2 1/2" y 
+mayores 
+Cuerpo y 
+tapa de 
+A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. 
+OS&Y. Bellow 
+seal 
+Trim 12. Lattygraph 6940 EF, 
+Garlock 1303 FEP (Graphite shall 
+not be in contact with HTF). 
+Bonnet/cover to body seal metal O-
+ring or C-ring without silver coated 
+Inconel. 
+MARIPOSA 300 Lb 8" y 
+mayores 
+Cuerpo y 
+disco de 
+A216 
+Gr.WCB 
+BW s/ANSI 
+B16.25 
+TRIPLE 
+EXCENTRICA 
+Trim 12. Garlock 1200 PBI + 
+ceramic rings + zinc plates, or 
+equivalent system (Graphite shall 
+not be in contact with HTF) 
+
+[page 24]
+ 
+ HOJA 23 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación BAF9 Rev.0 
+ Bar g 31 31 31 31 31 31 31 30 27 24 RATING PRIMARIO 300 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: SALES 
+ Psi g 449 449 449 449 449 449 449 435 391 348 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+2” 
+2 ½” a 18” 
+20” 
+24” 
+SW 
+BW 
+BW 
+BW 
+80 
+STD 
+XS 
+XS 
+A 106 Gr B 
+A 106 Gr B 
+A 106 Gr B 
+A 106 Gr B 
+ACCESORIOS 
+ 
+2” 
+2 ½” a 24” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (3) 
+2” 
+2 ½” a 24” 
+SW 
+BW 
+300 
+300 
+A105 SW/RTJ s/ANSI B16.5 <63AARH 
+A105 WN/RTJ s/ANSI B16.5 <63AARH 
+JUNTAS TODOS - 300 Anillo oval s/ANSI B16.20, material acero dulce 
+<90 BHN 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413 ºC 
+ (3) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ (5) Graphite shall not be in contact with salts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 25]
+ 
+ HOJA 24 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): BAF9 (Especificación en rev. 0) 
+ 
+Tipo Rating Tamaño Material Extremos Característic
+as Internos 
+ASIENTO TIPO 
+T 
+300 Lb 2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa 
+atornillada y 
+extendida. 
+OS&Y. Bellow 
+seal. 
+Trim 12. Lattygraph 6940 EF, 
+Garlock 1303 FEP (Graphite 
+shall not be in contact with 
+salts.). Bonnet/cover to body 
+seal metal O-ring or C-ring 
+without silver coated Inconel. 
+MARIPOSA 300 Lb 2" y 
+mayores 
+Cuerpo y disco 
+de A216 
+Gr.WCB 
+BW s/ANSI 
+B16.25 
+Triple 
+excentrica 
+Trim 12. Garlock 1200 PBI + 
+ceramic rings + zinc plates, or 
+equivalent system (Graphite 
+shall not be in contact with 
+salts.) 
+
+[page 26]
+ 
+ HOJA 25 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación DAA2 Rev.0 
+ Bar g 89,4 89,4 89,4 87,6 82,7 75,5 74,1 73,4 69,6 63,3 RATING PRIMARIO 600 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Ciclo agua-vapor 
+ Psi g 1297 1297 1297 1270 1200 1095 1075 1065 1010 918 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+80 
+80 
+A 106 Gr B 
+ACCESORIOS 
+ 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+ 
+1/2” a 2” 
+2 ½” a 24” 
+SW 
+BW 
+600 
+600 
+A105 SW/RF s/ANSI B16.5 125-250AARH 
+A105 WN/RF s/ANSI B16.5 125-250AARH 
+JUNTAS TODOS - 600 Espirometálica (304 SS) de grafito con anillo de 
+centrado exterior s/ANSI B16.20 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 bicromatado 
+A194 Gr2H s/ANSI B18.2.2 bicromatado 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413 ºC 
+ (3) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ 
+
+[page 27]
+ 
+ HOJA 26 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): DAA2 (Especificación en rev. 0) 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Cuña sólida. 
+Paso total 
+Trim nº 5 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Cuña sólida. 
+Paso reducido 
+Trim nº 5 
+COMPUERTA 600 Lb 2 1/2" y 
+mayores 
+Cuerpo y 
+tapa de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y. Cuña 
+flexible 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO Y 
+800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso total 
+Trim nº 5 
+AGUJA 800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso reducido 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo y 
+tapa de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo y 
+tapa de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de 
+A105, pistón 
+de A182 
+Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. Paso total 
+Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y 
+tapa de 
+A105, pistón 
+de A182 
+Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. Paso reducido 
+Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa 
+y disco de 
+A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANT
+E 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa 
+y disco de 
+A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+EN Y 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa 
+y disco de 
+A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa 
+y disco de 
+A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ 
+
+[page 28]
+ 
+ HOJA 27 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (1) Especificación DAA4 Rev.1 
+ Bar g 67,8 67,8 67,8 67,8 67,8 67,8 67,8 65,1 58,8 53,8 RATING PRIMARIO 600 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Ciclo Agua-Vapor 
+ Psi g 983 983 983 983 983 983 983 944 852 780 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+1/2” a 2” 
+2 ½” a 4” 
+6” a 8” 
+SW 
+BW 
+BW 
+80 
+STD 
+XS 
+A 106 Gr B 
+A 106 Gr B 
+A 106 Gr B 
+ACCESORIOS 
+ 
+1/2” a 2” 
+2 ½” a 8” 
+SW 
+BW 
+3000 
+s/tubería 
+A105 s/ANSI B16.11 Nota (3) 
+A234WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (2) 
+1/2” a 2” 
+2 ½” a 8” 
+SW 
+BW 
+600 
+600 
+A105 SW/RF s/ANSI B16.5 125-250AARH 
+A105 WN/RF s/ANSI B16.5 125-250AARH 
+JUNTAS TODOS - 600 Espirometálica (304 SS) de grafito con anillo de 
+centrado exterior s/ANSI B16.20 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Temperatura máxima 413 ºC 
+ (2) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (3) Se podrá curvar la tubería a 5D 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ 
+
+[page 29]
+ 
+ HOJA 28 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): DAA4 (Especificación en rev. 1) 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Cuña sólida. 
+Paso total 
+Trim nº 5 
+COMPUERTA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Cuña sólida. 
+Paso reducido 
+Trim nº 5 
+COMPUERTA 600 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y. Cuña 
+flexible 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO Y 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso total 
+Trim nº 5 
+AGUJA 800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. OS&Y. Paso 
+reducido 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ASIENTO EN 
+ÁNGULO 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. Paso total 
+Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+800 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa atornillada o roscada y 
+soldada. Paso reducido 
+Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANTE 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+EN Y 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y 
+600 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó 
+A105 
+BW s/ANSI 
+B16.25 
+Tapa atornillada. OS&Y Trim nº 5 
+ 
+ 
+ 
+ 
+ 
+
+[page 30]
+ 
+ HOJA 29 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación FAA3 Rev.1 
+ Bar g 141 141 141 141 141 141 141 136 122 112 RATING PRIMARIO 1500 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Ciclo agua-vapor 
+ Psi g 2045 2045 2045 2045 2045 2045 2045 1972 1769 1726 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+1/2” a 2” 
+2 ½” a 3” 
+4” a 8” 
+10” a 12” 
+SW 
+BW 
+BW 
+BW 
+160 
+160 
+120 
+140 
+A 106 Gr. B 
+A 106 Gr. B 
+A 106 Gr. B 
+A 106 Gr. B 
+ACCESORIOS 
+ 
+1/2” a 2” 
+2 ½” a 3” 
+4” a 8” 
+10” a 12” 
+SW 
+BW 
+BW 
+BW 
+6000 
+s/tubería 
+s/tubería 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) 
+A234 WPB (sin costura) s/ANSI B16.9 
+A 234 WPB (sin costura) s/ANSI B16.9 
+A 234 WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (3) 
+1/2” a 2” 
+2 ½” a 10” 
+SW 
+BW 
+1500 
+1500 
+A105 SW/RTJ s/ANSI B16.5 <63AARH 
+A105 WN/RTJ s/ANSI B16.5 <63AARH 
+JUNTAS TODOS - 1500 Anillo oval s/ANSI B16.20, material acero dulce 
+<90 BHN 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413 ºC 
+ (3) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ 
+
+[page 31]
+ 
+ HOJA 30 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): FAA3 (Especificación en rev. 0) 
+ 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 1500 Lb 2" y 
+menoress 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+total 
+ 
+Trim nº 5 
+COMPUERTA 
+EXTENDED 
+BODY 
+ 
+1500 Lb 2" y 
+menoress 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+reducido 
+ 
+Trim nº 5 
+COMPUERTA 
+TIPO VAL-O-
+LET 
+ 
+1500 Lb 2" y 
+menoress 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+reducido 
+ 
+Trim nº 5 
+COMPUERTA 1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+reducido 
+ 
+Trim nº 5 
+COMPUERTA 1500 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y. 
+Cuña flexible 
+ 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO Y 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. OS&Y. Paso reducido 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y Trim nº 5 
+ASIENTO 
+TIPO Y 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. Paso total 
+Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. Paso reducido 
+Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANT
+E 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+EN Y 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y Trim nº 5 
+ 
+ 
+ 
+ 
+
+[page 32]
+ 
+ HOJA 31 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+ Tabla Presión-Temperatura Nota (2) Especificación FAA8 Rev.0 
+ Bar g 158.6 158.6 158.6 158.6 158.6 158.6 158.6 152.3 137.5 114.2 RATING PRIMARIO 1500 LB 
+MATERIAL ACERO AL CARBONO 
+CODIGO ASME B 31.1 
+CORROSION ADMISIBLE 0.063 INCH. 
+SERVICIO: Ciclo agua-vapor 
+ Psi g 2301 2301 2301 2301 2301 2301 2301 2209 1994 1657 
+ ºF -20/100 200 300 400 500 600 650 700 750 775 
+ ºC -28/37 93 148 204 260 315 343 371 398 413 
+COMPONENTE TAMAÑO EXTREMOS SCHEDULE / 
+RATING 
+DESCRIPCION DEL MATERIAL 
+TUBERIA 
+ 
+1/2” a 2” 
+2 ½” a 6” 
+8” a 12” 
+SW 
+BW 
+BW 
+160 
+160 
+140 
+A 106 Gr. B 
+A 106 Gr. B 
+A 106 Gr. B 
+ACCESORIOS 
+ 
+1/2” a 2” 
+2 ½” a 6” 
+8” a 12” 
+SW 
+BW 
+BW 
+6000 
+s/tubería 
+s/tubería 
+A105 s/ANSI B16.11 Nota (1) 
+A234 WPB (sin costura) s/ANSI B16.9 
+A 234 WPB (sin costura) s/ANSI B16.9 
+BRIDAS 
+Nota (3) 
+1/2” a 2” 
+2 ½” a 10” 
+SW 
+BW 
+1500 
+1500 
+A105 SW/RTJ s/ANSI B16.5 <63AARH 
+A105 WN/RTJ s/ANSI B16.5 <63AARH 
+JUNTAS TODOS - 1500 Anillo oval s/ANSI B16.20, material acero dulce 
+<90 BHN 
+ESPARRAGOS 
+TUERCAS 
+TODOS 
+TODOS 
+- 
+- 
+- 
+- 
+A193 GrB7 s/ANSI B18.2.1 
+A194 Gr2H s/ANSI B18.2.2 
+DERIVACIONES TODOS - - Ver tabla TD1. Derivaciones de tubería 
+NOTAS.- (1) Se podrá curvar la tubería a 5D 
+ (2) Temperatura máxima 413 ºC 
+ (3) Para bridas de cuello detallar espesor igual que el de la tubería 
+ (4) Para válvulas de extremos soldados indicar espesor de la tubería a conectar según la especificación 
+ 
+ 
+ 
+ 
+
+[page 33]
+ 
+ HOJA 32 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+Listado de Válvulas de la Especificación NOTA (4): FAA8 (Especificación en rev. 0) 
+ 
+Tipo Rating Tamaño Material Extremos Características Internos 
+COMPUERTA 1500 Lb 2" y 
+menoress 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+total 
+ 
+Trim nº 5 
+COMPUERTA 
+EXTENDED 
+BODY 
+ 
+1500 Lb 2" y 
+menoress 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+reducido 
+ 
+Trim nº 5 
+COMPUERTA 
+TIPO VAL-O-
+LET 
+ 
+1500 Lb 2" y 
+menoress 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+reducido 
+ 
+Trim nº 5 
+COMPUERTA 1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o cierre por 
+presión. OS&Y. Cuña sólida. Paso 
+reducido 
+ 
+Trim nº 5 
+COMPUERTA 1500 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y. 
+Cuña flexible 
+ 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO Y 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. OS&Y. Paso total 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. OS&Y. Paso reducido 
+Trim nº 5 
+ASIENTO 
+TIPO T 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y Trim nº 5 
+ASIENTO 
+TIPO Y 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo y tapa 
+de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. Paso total 
+Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+1500 Lb 2" y 
+menores 
+Cuerpo y tapa 
+de A105, pistón 
+de A182 Gr.F6 
+SW s/ANSI 
+B16.11 
+Tapa roscada y soldada o de cierre 
+por presión. Paso reducido 
+Trim nº 5 
+RETENCIÓN 
+DE CLAPETA 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión Trim nº 5 
+RETENCIÓN 
+DE DISCO 
+BASCULANT
+E 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión Trim nº 5 
+RETENCIÓN 
+DE PISTÓN 
+EN Y 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión Trim nº 5 
+CIERRE-
+RETENCIÓN 
+TIPO Y 
+1500 Lb 2 1/2" y 
+mayores 
+Cuerpo, tapa y 
+disco de A216 
+Gr.WCB ó A105 
+BW s/ANSI 
+B16.25 
+Tapa de cierre por presión. OS&Y Trim nº 5 
+ 
+ 
+ 
+ 
+
+[page 34]
+ 
+ HOJA 33 de 33 
+IDENTIF.: 137002-ET-003 FECHA: 23-03-26 
+TÍTULO: ESPECIFICACION DE MATERILA DE TUBERIA 
+ 
+REV.: 
+ 
+2 
+ 
+ 
+ 
+ 
+TABLA DE DERIVACIONES TUBERÍAS TD1 Rev. 0 
+LEYENDA 
+S - Sockolet, thredolet o latrolet (2) 
+T - Te soldada a tope 
+TR - Te reductora soldada a tope 
+W - Weldolet 
+TE - Te soldada a enchufe 
+TER - Te soldada a enchufe y reducción 
+SWT- Te reductora soldada a tope. En caso de no disponibilidad usar la unión tipo sweepolet 
+Notas: 
+1. Las conexiones estarán de acuerdo al Código ANSI B31.1. 
+2. Usar sockolets, thredolets o latrolets de acuerdo con las conexiones de la Hoja de Especificación de 
+Tubería en particular. No se permiten “half couplings” 
+3. No se admite weldolet si la tubería principal tiene espesor menor de 0,180”. 
+0,5 0,8 1 1,5 2 2,5 3 4 6 8 10 12 14 16 18 20 24 30 32 36
+0,5 TE TER TER TER TER S S S S S S S S S S S S S S S
+0,8 TE TER TER TER S S S S S S S S S S S S S S S
+1 TE TER TER S S S S S S S S S S S S S S S
+1,5 TE TER S S S S S S S S S S S S S S S
+2 TE S S S S S S S S S S S S S S S
+2,5 T TR TR TR W W W W W W W W W W W
+3 T TR TR W W W W W W W W W W W
+4 T TR TR TR W W W W W W W W W
+6 T TR TR TR W W W W W W W W
+8 T TR TR TR W W W W W W W
+10 T TR TR TR SWT SWT SWT SWT SWT SWT
+12 T TR TR TR SWT SWT SWT SWT SWT
+14 T TR TR TR SWT SWT SWT SWT
+16 T TR TR TR SWT SWT SWT
+18 T TR TR TR SWT SWT
+20 T TR TR TR SWT
+24 T TR TR TR
+30 T TR TR
+32 T TR
+36 T
+0,5 0,8 1 1,5 2 2,5 3 4 6 8 10 12 14 16 18 20 24 30 32 36
+DIÁMETRO DE LA TUBERÍA PRINCIPAL (pulgadas)
+DIÁMETRO DEL RAMAL (pulgadas)
+DIÁMETRO DE LA TUBERÍA PRINCIPAL (pulgadas)

@@ -1,0 +1,28 @@
+{
+  "id": "9de22a0d144ecc01",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.1 Solicitud cambio titular.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 93501,
+  "size_human": "91 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.8.1 Solicitud cambio titular",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/9de22a0d144ecc01.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120322105637+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:22.357035+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "37d5db13a6e3a66f",
+  "path": "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0002_unlocked.pdf",
+  "top_dir": "Planos Solana",
+  "ext": "pdf",
+  "size_bytes": 751232,
+  "size_human": "734 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "4521-PLN-PRT-39-52-0002 unlocked",
+  "doc_code": "4521-PLN-PRT-39-52-",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/37d5db13a6e3a66f.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "iLovePDF",
+      "ModDate": "D:20260529094857Z"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.599825+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.637209+00:00"
+}

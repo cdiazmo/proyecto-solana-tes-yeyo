@@ -1,0 +1,37 @@
+{
+  "id": "d74143c260b03c1a",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260325/1950801-PID-3030-00 P&ID.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 786975,
+  "size_human": "769 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-PID-3030-00 P&ID",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 13724,
+  "token_estimate": 3431,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/d74143c260b03c1a.json",
+  "extracted_path": ".yeyo-memory/extracted/d74143c260b03c1a.txt",
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Author": "unaioyarzabal",
+      "CreationDate": "D:20260324173550+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20260324175816+01'00'",
+      "Producer": "Acrobat Distiller 17.0 (Windows)",
+      "Title": "X:\\03_Obras\\1950801 ATLANTICA Sist Almac HELIOS 1&2 ANTEPROYECTO\\03 INGENIERIA\\01_PROCESO\\03_P&ID (3030-01)\\C25-180 PID Rev.01"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "P&ID / diagrama de proceso",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.613929+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:16.613931+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5d8137d0020b1747",
+  "path": "Helios Sole/Helios I/2.3 Estudio SyS HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 6477671,
+  "size_human": "6.2 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "2.3 Estudio SyS HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/5d8137d0020b1747.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 202,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20110602111056+02'00'",
+      "ModDate": "D:20110602111056+02'00'",
+      "Title": "2.3 Estudio Seguridad y Salud Helios I.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:30:58.920407+00:00"
+}

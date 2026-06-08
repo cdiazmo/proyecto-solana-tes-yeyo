@@ -1,0 +1,37 @@
+{
+  "id": "cf0c2affa8d3f2a2",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/05 Cimentacion Kaxu/0328-PLN-CYD-75-62-0013 Rev06 Cold salt tank.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 5735011,
+  "size_human": "5.5 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "0328-PLN-CYD-75-62-0013 Rev06 Cold salt tank",
+  "doc_code": "0328-PLN-CYD-75-62-0013",
+  "revision": "Rev06",
+  "status": "ok",
+  "text_chars": 49152,
+  "token_estimate": 12288,
+  "chunks": 31,
+  "card_path": ".yeyo-memory/cards/cf0c2affa8d3f2a2.json",
+  "extracted_path": ".yeyo-memory/extracted/cf0c2affa8d3f2a2.txt",
+  "metadata": {
+    "pages": 18,
+    "pdf_metadata": {
+      "Title": "",
+      "Author": "",
+      "Creator": "Tracker's PDF-Tools",
+      "Subject": "",
+      "Keywords": "",
+      "Producer": "PDF-XChange (PDFTools4.exe v4.0.0211.0000) (Windows)"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.565561+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:16.565563+00:00"
+}

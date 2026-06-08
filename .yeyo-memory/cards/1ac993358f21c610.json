@@ -1,0 +1,33 @@
+{
+  "id": "1ac993358f21c610",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.3 C Instalacion.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 144996,
+  "size_human": "142 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.3.3 C Instalacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/1ac993358f21c610.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120605095702+02'00'",
+      "ModDate": "D:20120605095702+02'00'",
+      "Title": "110307 Certif. Instalación Eléctrica BT nº 462.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:39.375230+00:00"
+}

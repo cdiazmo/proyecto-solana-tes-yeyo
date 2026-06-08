@@ -1,0 +1,37 @@
+{
+  "id": "b7143c40f78f2ef5",
+  "path": "Ejemplo PCI/PC-MA-E-4965-1-8-001 REV.2.pdf",
+  "top_dir": "Ejemplo PCI",
+  "ext": "pdf",
+  "size_bytes": 34483545,
+  "size_human": "33 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "PC-MA-E-4965-1-8-001 REV.2",
+  "doc_code": null,
+  "revision": "REV.2",
+  "status": "ok",
+  "text_chars": 819311,
+  "token_estimate": 204827,
+  "chunks": 519,
+  "card_path": ".yeyo-memory/cards/b7143c40f78f2ef5.json",
+  "extracted_path": ".yeyo-memory/extracted/b7143c40f78f2ef5.txt",
+  "metadata": {
+    "pages": 543,
+    "pdf_metadata": {
+      "Author": "Ioana Bucatariu",
+      "Comments": "",
+      "Company": "Grupo OHL",
+      "ContentTypeId": "0x0101006E452229A17967418DF33640A1281E27002D181C6E5C93134A809273C5B3A888A8",
+      "CreationDate": "D:20260325193227+01'00'",
+      "Creator": "Acrobat PDFMaker 25 para Word",
+      "Keywords": "",
+      "ModDate": "D:20260325193900+01'00'",
+      "Producer": "Adobe PDF Library 25.1.40",
+      "SourceModified": "",
+      "Subject": "",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:30:52.804287+00:00"
+}

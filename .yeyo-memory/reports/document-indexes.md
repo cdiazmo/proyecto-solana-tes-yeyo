@@ -1,8 +1,8 @@
 # Indices documentales XLS/XLSX
 
-- Generado: 2026-06-05T13:16:42.848168+00:00
-- Libros candidatos: 39
-- Filas de indice extraidas: 4937
+- Generado: 2026-06-08T18:41:07.696851+00:00
+- Libros candidatos: 45
+- Filas de indice extraidas: 5037
 - Cruces con documentos existentes: 3595
 - Documentos unicos enriquecidos por indice: 355
 
@@ -11,12 +11,12 @@
 | Tipo | Libros |
 |---|---:|
 | support-list | 11 |
+| index-like-workbook | 6 |
+| document-list | 6 |
 | valve-list | 5 |
 | mto | 5 |
+| ic-list | 5 |
 | edl | 4 |
-| ic-list | 4 |
-| document-list | 4 |
-| index-like-workbook | 3 |
 | equipment-list | 2 |
 | as-built-list | 1 |
 

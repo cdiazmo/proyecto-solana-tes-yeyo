@@ -1,0 +1,676 @@
+[page 1]
+NOTA 4
+10WSM01AH001
+10WSM01AF001
+ATM
+NOTA 1
+NOTA 1
+NOTA 1
+NOTA 1
+NOTA 1
+ANILLO DIFUSOR FRIO #1
+NOTA 8
+NOTA 11 (B)
+NOTA 7
+NOTA 11 (A)
+10WSC01AH001
+ANILLO DIFUSOR FRIO #2
+NOTA 1
+NOTA 9
+N16
+N20
+N18
+NOTA 2
+NOTA 2
+N10B
+N10A
+N11
+N3
+N15
+N17
+N14
+PRECALENTAMIENTO
+25,500 barg
+ DE SALES FUNDIDAS FRIAS
+SISTEMA DE MANEJO DE SAL
+NOTA 3
+10WSX10 CF001
+FT
+A0
+SOLACOR I & II TES SYSTEM
+1950801-PID-3030-00
+00
+SISTEMA DE
+DE LOS TANQUES
+NOTA 2
+Y UNIDAD DE FUSION
+TANQUE DE ALMACENAMIENTO
+10WSC13 CP501
+PG
+10WSC13 CP102
+PT
+10WSC13 CP101
+PT
+10WSC12 CP501
+PG
+10WSC12 CP101
+PT
+10WSC12 CP102
+PT
+10WSC11 CP501
+PG
+10WSC11 CP101
+PT
+10WSC11 CP102
+PT
+NOTA 10 (A)
+NOTA 13
+NOTA 10(B)
+10WSN11 CF001
+FI
+10WSN11 CF002
+FI
+10WSN11 CF003
+FI
+NOTA 13
+M
+M
+NOTA 5
+NOTA 5NOTA 5
+M
+BOMBAS DE SALES FRIAS (3X33%)
+VFD
+NOTA 6
+VFD
+NOTA 6
+VFD
+NOTA 6
+N9
+NOTA 12
+N13
+N1C N1B
+N12
+N1A
+NOTA 4
+(2 X 100%)
+NOTAS:
+1 - Esta distancia deberá ser la menor posible con respecto a la válvula de aislamiento de sales fundidas.
+2 - Las válvulas de control de recirculación/venteo de sales fundidas deberán estar equipadas con finales de carrera.
+3 - Caudalímetros bidireccionales. Se deberá instalar un tramo recto de tubería de 10D aguas arriba y 10D aguas abajo de los
+caudalímetros a confirmar por el proveedor del caudalímetro.
+4 - Deberá conducirse a una ubicación segura.
+5 - Los fuelles de las bombas de sales fundidas están traceados y aislados. Deben ser suministrados por el proveedor de las bombas de
+sales fundidas.
+6 - Los variadores de frecuencia ︵VFD︶ instalados para las bombas de sales fundidas serán de uso compartido entre las bombas de
+sales calientes y frías, permitiendo controlar alternativamente unas u otras según la operación requerida.
+7 - Conexión de repuesto del tanque de almacenamiento de sales fundidas. Se dispondrá con un brida ciega hasta que sea necesaria.
+8 - Boca de hombre en la envolvente del tanque de almacenamiento de sales fundidas.
+9 - Conexión de drenaje del tanque de almacenamiento de sales fundidas, sellada mediante soldadura para vaciado completo del tanque.
+10 - Boca de hombre de entrada ︵A ︶ / salida ︵B ︶ para el precalentamiento. Se deberá instalar una brida ciega una vez finalizado el
+precalentamiento del tanque.
+11 - Los sistemas de precalentamiento ︵A ︶ y de fusión ︵B ︶ son sistemas temporales. Deben ser desmantelados tras el proceso de
+puesta en marcha.
+12 - Línea temporal a retirar tras el proceso de fusión de las sales fundidas.
+13 - Líneas temporales a retirar una vez finalizado el precalentamiento del tanque, con excepción de las líneas de drenaje de emergencia
+de sales fundidas del tanque, que se instalarán únicamente cuando sean necesarias.
+14 - Las líneas y los elementos asociados con traceado electrico se indican mediante:
+15 - Toda la instrumentación de medición de presión ︵SF y HTF︶utiliza separador de diafragma.
+16 - Los PT en las líneas de sales fundidas están conectados mediante una brida RTJ.
+N4
+PSV/VB
+10WSN10 CF001
+FTI
+10WSN10 CF001
+FE
+N19
+N21
+
+[page 2]
+A0
+SOLACOR I & II TES SYSTEM
+1950801-PID-3030-00
+00
+10WSC10CT014
+TT
+10WSC10CT007
+TT
+10WSC10CT008
+TT
+10WSC10CP101
+PT
+10WSC10CT010
+TT
+10WSC10CT021
+TT
+10WSC10CT016
+TT
+10WSC10CP103
+PT
+10WSC10CT022
+TT
+10WSC10CT012
+TT
+10WSC10CT006
+TT
+10WSC10CT055
+TT
+10WSC10CT018
+TT
+10WSC10CT009
+TT
+10WSC10CT003
+TT
+10WSC10CL102
+LT
+10WSC10CT013
+TT
+10WSC10CT005
+TT
+10WSC10CT015
+TT
+10WSC10CT001
+TT
+10WSC10CT020
+TT
+10WSC10CT017
+TT
+10WSC10CT011
+TT
+10WSC10CT059
+TT
+10WSC10CT057
+TT
+10WSC10CL103
+LT
+10WSC10CT004
+TT
+10WSC10CT019
+TT
+10WSC10CT002
+TT
+10WSC10CP102
+PT
+10WSC10CL101
+LT
+10WSC10CT053
+TT
+10WSC10CT051
+TT
+(2X100%)
+NOTA 2NOTA 3 NOTA 3
+NOTA 2
+NOTA 2
+N8C
+N6A
+N6B
+N8BN5AN5BN5C
+N8A
+N7A
+10WSC10CT052
+TT
+10WSC10CT054
+TT
+10WSC10CT056
+TT
+10WSC10CT058
+TT
+SALES FUNDIDAS FRIAS
+TANQUE DE ALMACENAMIENTO DE
+CALENTADORES
+ELECTRICOS
+12"N2A-N2F
+NOTA 1
+NOTA 6
+NOTA 6
+N7B N6C
+VENTILADOR DE AIRE #1 DE LA CIMENTACIÓN
+DEL TANQUE FRIO DE SALES FUNDIDAS
+VENTILADOR DE AIRE #2 DE LA CIMENTACIÓN
+DEL TANQUE FRIO DE SALES FUNDIDAS
+10WSC10CT070
+TT
+10WSC10CT072
+TT
+10WSC10CT071
+TT
+10WSC10CT073
+TT
+10WSC10CT069
+TT
+N9BN9A
+NOTA 5
+10WSC10CT023
+TT
+10WSC10CT027
+TT
+10WSC10CT025
+TT
+10WSC10CT024
+TT
+10WSC10CT026
+TT
+NOTA 3
+N7C
+NOTA 4
+10WSC10CT065
+TT
+10WSC10CT067
+TT
+10WSC10CT066
+TT
+10WSC10CT068
+TT
+NOTA 4
+TT
+10WSC10CT037
+TT
+10WSC10CT043
+TT
+10WSC10CT042
+TT
+10WSC10CT035
+TT
+TT
+10WSC10CT040
+TT
+10WSC10CT039
+TT
+TT
+10WSC10CT036
+TT
+10WSC10CT038
+TT
+10WSC10CT044
+TT
+10WSC10CT041
+TT
+10WSC10CT034
+TT
+10WSC10CT045
+TT
+TT
+10WSC10CT029
+TT
+10WSC10CT030
+TT
+10WSC10CT028
+10WSC10CT031
+10WSC10CT032
+10WSC10CT033
+NOTAS:
+1 - Seis ︵6 ︶ calentadores eléctricos con sensores de temperatura, tres︵3 ︶ sensores por calefactor, ubicados de la siguiente manera: uno︵1 ︶en contacto
+con las resistencias, uno︵1 ︶en el espacio entre las resistencias y la vaina, y
+otro︵1 ︶en contacto con el material de la vaina, deberán ser suministrados
+por el proveedor.
+2 - Tres︵3 ︶stand pipes multipunto con cuatro︵4 ︶sensores en cada tanque
+de almacenamiento de sales fundidas, ubicadas a 120°. Tres︵3 ︶de los
+sensores sumergidos en las sales fundidas para controlar la temperatura del
+volumen de las sales, y uno︵1 ︶ubicado en la atmósfera de nitrógeno.
+3 - Tres︵3 ︶series de termopozos tipo skinpoints con cinco︵5 ︶sensores
+cada uno en cada tanque de almacenamiento de sales fundidas para
+monitorear la temperatura. Al menos un︵1 ︶skinpoint deberá ubicarse cerca
+de la succión de cada bomba de sales fundidas. El resto se distribuirá de
+manera homogénea en las paredes y el fondo de los tanques.
+4 - Se dispondrán nueve︵9 ︶sensores de temperatura multipunto instalados
+horizontalmente en el interior del tanque, introducidos desde la parte superior.
+Cinco︵5 ︶se instalarán desde un lado y cuatro︵4 ︶desde el opuesto,
+distribuidos de forma equidistante para el control de la temperatura interna.
+5 - Se dispondrán nueve︵9 ︶termopares en la cimentación del tanque para el
+control de su temperatura. Uno︵1 ︶se ubicará en el centro y los
+ocho︵8︶restantes se distribuirán uniformemente cada 45°.
+6 - Los tubos de enfriamiento de la cimentación de los tanques de
+almacenamiento de sales fundidas están dispuestos alternando el flujo de aire
+proveniente de los ventiladores de aire.
+7- Las líneas y los elementos asociados con traceado electrico se indican
+mediante:
+VENTILADOR DE AIRE #3 DE LA CIMENTACIÓN
+DEL TANQUE FRIO DE SALES FUNDIDAS
+VENTILADOR DE AIRE #4 DE LA CIMENTACIÓN
+DEL TANQUE FRIO DE SALES FUNDIDAS
+(2X100%)
+
+[page 3]
+NOTAS:
+1 - Venteo usado durante el primer llenado. Válvula cerrada y bloqueada en operación normal.
+2 - Conexión flexible roscada para drenaje de HTF e inyección de N2.
+3 - Todos los PT del lado de sales fundidas se configurarán ︵2oo7︶para disparar un trip en
+caso de fuga de HTF.
+4 - Lo más cerca posible de las líneas principales de proceso.
+5 - Cámara y cuerpo del intercambiador con traceado eléctrico.
+6 - Las líneas y los elementos asociados con traceado electrico se indican mediante:
+7 - Toda la instrumentación de medición de presión ︵SF y HTF︶utiliza separador de diafragma.
+8 - Los PT en las líneas de sales fundidas están conectados mediante una brida RTJ.
+9 - La posición de fallo de todas las válvulas motorizadas será 'última posición'.
+A0
+SOLACOR I & II TES SYSTEM
+1950801-PID-3030-00
+00
+
+[page 4]
+NOTAS:
+1 - Tipo radar.
+2 - Tipo multipunto con cuatro mediciones, tres sumergidas en sales fundidas y una para N₂.
+3 - La línea de rebose está ubicada al nivel HH.
+4 - La posición de fallo de todas las válvulas motorizadas será "última posición".
+5 - Tanque de drenaje con trazado eléctrico de calor.
+6 - Bombas de drenaje con trazado eléctrico de calor.
+7 - Los PT en líneas de sales fundidas están conectados mediante una brida RTJ.
+8 - Las líneas y los elementos asociados con traceado electrico se indican mediante:
+9 - Toda la instrumentación de medición de presión ︵SF y HTF︶utiliza separador de diafragma.
+A0
+SOLACOR I & II TES SYSTEM
+1950801-PID-3030-00
+00
+M
+
+[page 5]
+N18
+10WSN10 AT001
+ATA
+NOTA 10(A)
+NOTA 1
+NOTA 1
+NOTA 1
+NOTA 1
+ANILLO DIFUSOR CALIENTE #2
+ANILLO DIFUSOR CALIENTE #1
+NOTA 9
+N15
+N4
+N3N12
+N9
+N1B
+N1A
+N10AN10B
+N13
+N17
+NOTA 2
+NOTA 2
+NOTA 8
+NOTA 3
+10WSX18 CF001
+FT
+NOTA 4
+ATM
+A0
+SOLACOR I & II TES SYSTEM
+1950801-PID-3030-00
+00
+NOTA 1
+NOTA 5
+NOTA 5NOTA 5
+M
+10WSN13 CF001
+FI
+10WSN13 CF002
+FI
+10WSN13 CF003
+FI
+10WSH13 CP101
+PT
+10WSH13 CP102
+PT
+10WSH13 CP501
+PG
+10WSH12 CP501
+PG
+10WSH12 CP102
+PT
+10WSH12 CP101
+PT
+10WSH11 CP101
+PT
+10WSH11 CP102
+PT
+10WSH11 CP501
+PG
+NOTA 1
+BOMBAS DE SALES CALIENTES (3X33%)
+10WSN12 CF001
+FTI
+10WSN12 CF001
+FE
+VFD
+NOTA 6
+NOTA 2
+NOTA 4
+PSV/VB
+(2 X 100%)
+N1C
+NOTA 7
+N16
+N14
+NOTA 10 (B)
+M
+VFD
+NOTA 6
+M
+VFD
+NOTA 6
+NOTAS:
+1 - Esta distancia deberá ser la menor posible con respecto a la válvula de aislamiento de sales fundidas.
+2 - Las válvulas de control de recirculación/venteo de sales fundidas deberán estar equipadas con finales de carrera.
+3 - Caudalímetros bidireccionales. Se deberá instalar un tramo recto de tubería de 10D aguas arriba y 10D aguas abajo de los
+caudalímetros a confirmar por el proveedor del caudalímetro.
+4 - Deberá conducirse a una ubicación segura.
+5 - Los fuelles de las bombas de sales fundidas están traceados y aislados. Deben ser suministrados por el proveedor de las bombas de
+sales fundidas.
+6 - Los variadores de frecuencia ︵VFD︶ instalados para las bombas de sales fundidas serán de uso compartido entre las bombas de
+sales calientes y frías, permitiendo controlar alternativamente unas u otras según la operación requerida.
+7 - Conexión de repuesto del tanque de almacenamiento de sales fundidas. Se dispondrá con un brida ciega hasta que sea necesaria.
+8 - Boca de hombre en la envolvente del tanque de almacenamiento de sales fundidas.
+9 - Conexión de drenaje del tanque de almacenamiento de sales fundidas, sellada mediante soldadura para vaciado completo del tanque.
+10 - Boca de hombre de entrada ︵A ︶ / salida ︵B ︶ para el precalentamiento. Se deberá instalar una brida ciega una vez finalizado el
+precalentamiento del tanque.
+11 - Analizador de hidrocarburos en linea de balanceo.
+12 - Las líneas y los elementos asociados con traceado electrico se indican mediante:
+13 - Toda la instrumentación de medición de presión ︵SF y HTF︶utiliza separador de diafragma.
+14 - Los PT en las líneas de sales fundidas están conectados mediante una brida RTJ.
+NOTA 11
+N11
+
+[page 6]
+A0
+SOLACOR I & II TES SYSTEM
+1950801-PID-3030-00
+00
+10WSH10CT007
+TT
+10WSH10CT008
+TT
+10WSH10CP101
+PT
+10WSH10CT010
+TT
+10WSH10CT021
+TT
+10WSH10CP103
+PT
+10WSH10CT022
+TT
+10WSH10CT012
+TT
+10WSH10CT006
+TT
+10WSH10CT055
+TT
+10WSH10CT018
+TT
+10WSH10CT009
+TT
+10WSH10CT003
+TT
+10WSH10CL102
+LT
+10WSH10CT005
+TT
+10WSH10CT001
+TT
+10WSH10CT020
+TT
+10WSH10CT011
+TT
+10WSH10CT059
+TT
+10WSH10CT057
+TT
+10WSH10CL103
+LT
+10WSH10CT004
+TT
+10WSH10CT019
+TT
+10WSH10CT002
+TT
+10WSH10CP102
+PT
+10WSH10CL101
+LT
+10WSH10CT053
+TT
+10WSH10CT051
+TT
+(2X100%)
+NOTA 2NOTA 3
+NOTA 2
+NOTA 2
+N8C
+N6A
+N6B
+N8BN5AN5BN5C
+N8A
+10WSH10CT052
+TT
+10WSH10CT054
+TT
+10WSH10CT056
+TT
+10WSH10CT058
+TT
+SALES FUNDIDAS CALIENTES
+TANQUE DE ALMACENAMIENTO DE
+CALENTADORES
+ELECTRICOS
+12"
+TT
+10WSH10CT037
+TT
+10WSH10CT043
+TT
+10WSH10CT042
+TT
+10WSH10CT035
+TT
+TT
+10WSH10CT040
+TT
+10WSH10CT039
+TT
+TT
+10WSH10CT036
+TT
+10WSH10CT038
+TT
+10WSH10CT044
+TT
+10WSH10CT041
+TT
+10WSH10CT034
+TT
+10WSH10CT045
+TT
+TT
+10WSH10CT029
+TT
+10WSH10CT030
+TT
+10WSH10CT028
+N2A-N2F
+NOTA 1
+NOTA 6
+NOTA 6
+N7B N6C
+VENTILADOR DE AIRE #1 DE LA CIMENTACIÓN
+DEL TANQUE CALIENTE DE SALES FUNDIDAS
+VENTILADOR DE AIRE #2 DE LA CIMENTACIÓN
+DEL TANQUE CALIENTE DE SALES FUNDIDAS
+10WSH10CT031
+10WSH10CT032
+10WSH10CT033
+NOTA 5
+10WSH10CT014
+TT
+10WSH10CT016
+TT
+10WSH10CT013
+TT
+10WSH10CT015
+TT
+10WSH10CT017
+TT
+NOTA 3
+N7A
+10WSH10CT070
+TT
+10WSH10CT072
+TT
+10WSH10CT071
+TT
+10WSH10CT073
+TT
+10WSH10CT069
+TT
+N9BN9A
+10WSH10CT023
+TT
+10WSH10CT027
+TT
+10WSH10CT025
+TT
+10WSH10CT024
+TT
+10WSH10CT026
+TT
+NOTA 3
+N7C
+NOTA 4
+10WSH10CT065
+TT
+10WSH10CT067
+TT
+10WSH10CT066
+TT
+10WSH10CT068
+TT
+NOTA 4
+NOTAS:
+1 - Seis ︵6 ︶ calentadores eléctricos con sensores de temperatura, tres︵3 ︶ sensores por calefactor, ubicados de la siguiente manera: uno︵1 ︶en contacto
+con las resistencias, uno︵1 ︶en el espacio entre las resistencias y la vaina, y
+otro︵1 ︶en contacto con el material de la vaina, deberán ser suministrados
+por el proveedor.
+2 - Tres︵3 ︶stand pipes multipunto con cuatro︵4 ︶sensores en cada tanque
+de almacenamiento de sales fundidas, ubicadas a 120°. Tres︵3 ︶de los
+sensores sumergidos en las sales fundidas para controlar la temperatura del
+volumen de las sales, y uno︵1 ︶ubicado en la atmósfera de nitrógeno.
+3 - Tres︵3 ︶series de termopozos tipo skinpoints con cinco︵5 ︶sensores
+cada uno en cada tanque de almacenamiento de sales fundidas para
+monitorear la temperatura. Al menos un︵1 ︶skinpoint deberá ubicarse cerca
+de la succión de cada bomba de sales fundidas. El resto se distribuirá de
+manera homogénea en las paredes y el fondo de los tanques.
+4 - Se dispondrán nueve︵9 ︶sensores de temperatura multipunto instalados
+horizontalmente en el interior del tanque, introducidos desde la parte superior.
+Cinco︵5 ︶se instalarán desde un lado y cuatro︵4 ︶desde el opuesto,
+distribuidos de forma equidistante para el control de la temperatura interna.
+5 - Se dispondrán nueve︵9 ︶termopares en la cimentación del tanque para el
+control de su temperatura. Uno︵1 ︶se ubicará en el centro y los
+ocho︵8︶restantes se distribuirán uniformemente cada 45°.
+6 - Los tubos de enfriamiento de la cimentación de los tanques de
+almacenamiento de sales fundidas están dispuestos alternando el flujo de aire
+proveniente de los ventiladores de aire.
+7- Las líneas y los elementos asociados con traceado electrico se indican
+mediante:
+VENTILADOR DE AIRE #3 DE LA CIMENTACIÓN
+DEL TANQUE CALIENTE DE SALES FUNDIDAS
+VENTILADOR DE AIRE #4 DE LA CIMENTACIÓN
+DEL TANQUE CALIENTE DE SALES FUNDIDAS
+(2X100%)

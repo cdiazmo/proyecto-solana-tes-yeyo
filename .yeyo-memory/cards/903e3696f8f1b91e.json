@@ -29,7 +29,7 @@
     "plan_tag": {
       "kind": "Isometrico de tuberia HTF",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:58.846589+00:00",
+      "tagged_at": "2026-06-08T18:41:16.000465+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -74,5 +74,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:58.868160+00:00"
+  "processed_at": "2026-06-08T18:41:16.000468+00:00"
 }

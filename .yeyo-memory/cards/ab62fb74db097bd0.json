@@ -1,0 +1,28 @@
+{
+  "id": "ab62fb74db097bd0",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.4 Cert OCA.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 210058,
+  "size_human": "205 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.5.4 Cert OCA",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/ab62fb74db097bd0.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120321162540+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:55.795058+00:00"
+}

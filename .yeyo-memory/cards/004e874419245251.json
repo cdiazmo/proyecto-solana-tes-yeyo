@@ -1,0 +1,33 @@
+{
+  "id": "004e874419245251",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/03 H&M Balances/Combine Balances H&M.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 40009041,
+  "size_human": "38 MB",
+  "mtime_iso": "2026-06-08T16:13:00.000Z",
+  "title": "Combine Balances H&M",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/004e874419245251.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "ModDate": "D:20250617114248+02'00'",
+      "CreationDate": "D:20250617114245+02'00'",
+      "Producer": "GPL Ghostscript 8.70",
+      "Title": "2053-PLN-UTE-17-12-0001_Rev01 1 de 2",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "CGMAM",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:28:11.933557+00:00"
+}

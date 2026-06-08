@@ -1,0 +1,33 @@
+{
+  "id": "46ab69a2480d9a9d",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.1 Proy LSAT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 7542906,
+  "size_human": "7.2 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.1.1 Proy LSAT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 331777,
+  "token_estimate": 82944,
+  "chunks": 210,
+  "card_path": ".yeyo-memory/cards/46ab69a2480d9a9d.json",
+  "extracted_path": ".yeyo-memory/extracted/46ab69a2480d9a9d.txt",
+  "metadata": {
+    "pages": 178,
+    "pdf_metadata": {
+      "Author": "sergio",
+      "CreationDate": "D:20101013160724+02'00'",
+      "Creator": "C:\\Archivos de programa\\Microsoft Office\\Office12\\WINWORD.EXE",
+      "Producer": "StampPDF Batch 4.0.4 Windows SPDF_1096+ May 4 2004",
+      "Title": "Microsoft Word - PROYECTO DEFINITIVO LSAT HELIOS II.doc",
+      "ModDate": "D:20101013190848+02'00'",
+      "SPDF": "1096"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:39:23.669752+00:00"
+}

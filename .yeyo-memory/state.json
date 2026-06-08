@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T13:17:00.366466+00:00",
+  "updated_at": "2026-06-08T18:40:22.944970+00:00",
   "files": {
     "01 GD AE/C&S/CAL/4521-CAL-AEE-75-52-0001-GAR_Rev00_exchangers_foundation.zip": {
       "id": "fdfb8a2f89b37421",
@@ -13457,6 +13457,1236 @@
       "id": "a1f6bdc0a1c30263",
       "size_bytes": 269649,
       "mtime_iso": "2026-06-05T06:28:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.16 Obra civil/5.16.1 Proyecto OC HI.pdf": {
+      "id": "6084eb38c18bbb16",
+      "size_bytes": 725688809,
+      "mtime_iso": "2026-06-08T16:15:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios I/5.16 Obra civil/5.16.2 CDO OC HI.pdf": {
+      "id": "62aa5154abdf212f",
+      "size_bytes": 245274,
+      "mtime_iso": "2026-06-08T16:16:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.1 Proyecto.pdf": {
+      "id": "d78697e42e7bbfe2",
+      "size_bytes": 21703853,
+      "mtime_iso": "2026-06-08T16:16:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.2 CDO.pdf": {
+      "id": "f325b0b947482c46",
+      "size_bytes": 1382216,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.3 CIBT.pdf": {
+      "id": "d028bf758f5b68a2",
+      "size_bytes": 2341402,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.4 Acreditacion instalador.pdf": {
+      "id": "d51c4e1b1751dd2b",
+      "size_bytes": 368426,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.5 Cert OCA.pdf": {
+      "id": "f2fc7824bfb15d9e",
+      "size_bytes": 2281062,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.6 Formulario PS.pdf": {
+      "id": "48f205a2d4c0cd88",
+      "size_bytes": 12037325,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.1 Proyecto.pdf": {
+      "id": "9a0314589319f584",
+      "size_bytes": 21703853,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.2 CDO.pdf": {
+      "id": "dd19ab277025dd8e",
+      "size_bytes": 525910,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.3 Cert instalacion.pdf": {
+      "id": "68cb350ced9c6339",
+      "size_bytes": 4240129,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.4 Acreditacion instalador.pdf": {
+      "id": "6042895770cf7aba",
+      "size_bytes": 413751,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.5 Formulario PS.pdf": {
+      "id": "3259302d7156d15f",
+      "size_bytes": 11412280,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.6 APM.pdf": {
+      "id": "bfb7668c3d23c1de",
+      "size_bytes": 82204,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.1 Proyecto.pdf": {
+      "id": "c4e144debcf7ded2",
+      "size_bytes": 21703853,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.2 CDO.pdf": {
+      "id": "e68ba2f5105a0e17",
+      "size_bytes": 59914,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.3 Cert instalacion.pdf": {
+      "id": "68a01aedb6346557",
+      "size_bytes": 857204,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.4 Acreditacion instalador.pdf": {
+      "id": "240448c1a6a45386",
+      "size_bytes": 759851,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.5 Formulario PS.pdf": {
+      "id": "1d26856252d508cb",
+      "size_bytes": 11772494,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.1 Proyecto modificacion.pdf": {
+      "id": "98fce190ec5cdfa9",
+      "size_bytes": 96569839,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.2 CDO.pdf": {
+      "id": "737902f6c99d06aa",
+      "size_bytes": 112093,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.3 CIBT.pdf": {
+      "id": "1bd35c0dfe92d54a",
+      "size_bytes": 90819,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.4 Acreditacion instalador.pdf": {
+      "id": "bef0ad280775a0ca",
+      "size_bytes": 368426,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.5 Cert OCA.pdf": {
+      "id": "7e69ccc2df393668",
+      "size_bytes": 215332,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.6 Formulario PS.pdf": {
+      "id": "b2c7d0d8abbe59b4",
+      "size_bytes": 77955,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.1 Proyecto modificacion.pdf": {
+      "id": "6e96d2b9f7155535",
+      "size_bytes": 96569839,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.2 CDO EP.pdf": {
+      "id": "e05b28ec91ed0323",
+      "size_bytes": 90728,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.3 Certificado instalacion EP.pdf": {
+      "id": "3342d8f553b7f7ff",
+      "size_bytes": 154474,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.4 Acreditacion instalador.pdf": {
+      "id": "8916a0d285e40064",
+      "size_bytes": 413751,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.6 Solicitud modificacion.pdf": {
+      "id": "a8980475ab20aa6a",
+      "size_bytes": 140055,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.7 Acta puesta marcha.pdf": {
+      "id": "a3fe5cc1eac2e59f",
+      "size_bytes": 71329,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.1 Memoria de instalacion.pdf": {
+      "id": "2209a97bfc430deb",
+      "size_bytes": 169992,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.2 Certificado fabricacion tanque.pdf": {
+      "id": "268162402eb7513a",
+      "size_bytes": 579127,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.4 Solicitud APS.pdf": {
+      "id": "e88751e47a5f915d",
+      "size_bytes": 331900,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.5 APM tanque.pdf": {
+      "id": "ee67303f2ef2474e",
+      "size_bytes": 286048,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.1 Solicitud cambio titular.pdf": {
+      "id": "9de22a0d144ecc01",
+      "size_bytes": 93501,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.2 Cambio titular.pdf": {
+      "id": "9f0b24ba0ea709a6",
+      "size_bytes": 251574,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.8 N2/5.8.1 Proyecto N2 HI.pdf": {
+      "id": "c3df802176e5d5d1",
+      "size_bytes": 16673404,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.8 N2/5.8.3 Cert OCA.pdf": {
+      "id": "c5aaadd99bf6838d",
+      "size_bytes": 404495,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.8 N2/5.8.5 DC.pdf": {
+      "id": "3b99a0ed0d775883",
+      "size_bytes": 318713,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.8 N2/5.8.6 Acreditacion instalador.pdf": {
+      "id": "20f4aab8880d8cdd",
+      "size_bytes": 78072,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.8 N2/5.8.7 Carta presentacion doc.pdf": {
+      "id": "dc38b3a871b2b9f9",
+      "size_bytes": 77577,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.8 N2/5.8.8 APM.pdf": {
+      "id": "cf56238b9c171805",
+      "size_bytes": 247497,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.1 Anexo Final BT HI.pdf": {
+      "id": "e664ea4e8b06e375",
+      "size_bytes": 78732096,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.1 Proy BT HI.pdf": {
+      "id": "94d77c7d2b3c57bb",
+      "size_bytes": 115953810,
+      "mtime_iso": "2026-06-08T16:17:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.2 CDO.pdf": {
+      "id": "3ac9b052b8f928f6",
+      "size_bytes": 272092,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.3 Cert Instalacion.pdf": {
+      "id": "e4ee9f6a4768ff90",
+      "size_bytes": 87114,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.4 Cert Inspeccion.pdf": {
+      "id": "edcdfc6094a0c665",
+      "size_bytes": 197481,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.5 Acreditacion BT.pdf": {
+      "id": "c2923f856a442d95",
+      "size_bytes": 1132564,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.6 Formulario BT planta.pdf": {
+      "id": "9cc2ad35e8032404",
+      "size_bytes": 750881,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.1 Proyecto.pdf": {
+      "id": "d87421594379014f",
+      "size_bytes": 5887210,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.2 CDO.pdf": {
+      "id": "3bf1a17a0a91ae36",
+      "size_bytes": 122504,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.3 CIBT.pdf": {
+      "id": "6f6366a0daa0b0e2",
+      "size_bytes": 142300,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.4 Cert OCA.pdf": {
+      "id": "288c117b2e5a0e54",
+      "size_bytes": 204579,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.5 Acreditacion instalador.pdf": {
+      "id": "25f58f458765a9e1",
+      "size_bytes": 402797,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.6 Formulario pozo 1.pdf": {
+      "id": "5a25b97b0f54b914",
+      "size_bytes": 731872,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.7 Anexo erratas.pdf": {
+      "id": "04f7c857a7874491",
+      "size_bytes": 231755,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.8 Presentacion anexo erratas.pdf": {
+      "id": "6b0dab6948c3c1a0",
+      "size_bytes": 68003,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.1 Proyecto.pdf": {
+      "id": "83e8f4e9ef22e9ba",
+      "size_bytes": 6014403,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.2 CDO.pdf": {
+      "id": "cd80b012f66c82a6",
+      "size_bytes": 125064,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.3 C Instalacion.pdf": {
+      "id": "1ac993358f21c610",
+      "size_bytes": 144996,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.4 Cert OCA.pdf": {
+      "id": "bf3d2abe529160ea",
+      "size_bytes": 212186,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.5 Acreditacion instalador.pdf": {
+      "id": "8051517f852c427e",
+      "size_bytes": 402797,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.6 Formulario pozo 2.pdf": {
+      "id": "0c511241e583f707",
+      "size_bytes": 727377,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.1 Proyecto.pdf": {
+      "id": "ce2ada7e06e0126e",
+      "size_bytes": 5942121,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.2 CDO.pdf": {
+      "id": "780598edc9fe5a45",
+      "size_bytes": 124530,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.3 C Instalacion.pdf": {
+      "id": "40af81abe2cd1281",
+      "size_bytes": 141531,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.4 Cert OCA.pdf": {
+      "id": "e779b72b9887f2b9",
+      "size_bytes": 215324,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.5 Acreditacion instalador.pdf": {
+      "id": "4ff6e1023571522d",
+      "size_bytes": 402797,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.6 Formulario pozo 3.pdf": {
+      "id": "c74e86c48879780a",
+      "size_bytes": 740252,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.1 Proyecto.pdf": {
+      "id": "cc6e4a447bc3c54f",
+      "size_bytes": 6331253,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.2 CDO.pdf": {
+      "id": "80423cc08ccbbc18",
+      "size_bytes": 126715,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.3 C Instalacion.pdf": {
+      "id": "96b63b47222cf3e4",
+      "size_bytes": 141828,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.4 Cert OCA.pdf": {
+      "id": "ab62fb74db097bd0",
+      "size_bytes": 210058,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.5 Acreditacion instalador.pdf": {
+      "id": "26b812265c19cf2c",
+      "size_bytes": 402797,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.6 Formulario pozo 4.pdf": {
+      "id": "844f0c8afa22408f",
+      "size_bytes": 740437,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.1 Proyecto.pdf": {
+      "id": "0bafbfecded08cea",
+      "size_bytes": 4304597,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.2 CDO.pdf": {
+      "id": "31c25047203f15c3",
+      "size_bytes": 58851,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.3 CIBT.pdf": {
+      "id": "78e4cd2c203436dd",
+      "size_bytes": 141156,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.4 Cert OCA.pdf": {
+      "id": "0536f35596e71179",
+      "size_bytes": 1458440,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.5 Acreditacion instalador.pdf": {
+      "id": "11ca2b08d1460e7c",
+      "size_bytes": 402797,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.6 Formulario PM pozo 5.pdf": {
+      "id": "183bdbdf17f72801",
+      "size_bytes": 705108,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/Cert OCA.pdf": {
+      "id": "8b0c82435e8f3916",
+      "size_bytes": 66490,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/CFO Visado Bombeo Helios.pdf": {
+      "id": "1e426649632028e4",
+      "size_bytes": 216829,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/CIEBT.pdf": {
+      "id": "c34a4bb5758db546",
+      "size_bytes": 99638,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/Proyecto Electrico Helios Visado 03.03.16.pdf": {
+      "id": "1b9d94bd9b54cb15",
+      "size_bytes": 10522479,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.1 Proyecto.pdf": {
+      "id": "ade548f5117a382b",
+      "size_bytes": 5001989,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.2 CDO.pdf": {
+      "id": "9c19070165951d81",
+      "size_bytes": 79181,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.3 CIBT.pdf": {
+      "id": "420f0b70800db147",
+      "size_bytes": 140762,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.4 Cert OCA.pdf": {
+      "id": "853154a016261bc1",
+      "size_bytes": 1444930,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.5 Acreditacion instalador.pdf": {
+      "id": "896f46e8b7615543",
+      "size_bytes": 402797,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.6 Formulario PM.pdf": {
+      "id": "076f0cbc0216bf8a",
+      "size_bytes": 732018,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/3.3.1 Resolucion DIA HII.pdf": {
+      "id": "cca6fb620fcbcb4e",
+      "size_bytes": 6376654,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/3.3.2 Publicacion DIA HII.pdf": {
+      "id": "2f153c221f55b35a",
+      "size_bytes": 247373,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/3.3.3 Acta señalamiento HII.pdf": {
+      "id": "d9040aba9b17602a",
+      "size_bytes": 835900,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/3.3.4 Cumplimiento DIA HII.pdf": {
+      "id": "758c6f3ae26aa9a6",
+      "size_bytes": 2000645,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/3.3.5 DIA balsa.pdf": {
+      "id": "1df261629e6bc936",
+      "size_bytes": 2978609,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.1 Proy LSAT HII.pdf": {
+      "id": "46ab69a2480d9a9d",
+      "size_bytes": 7542906,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.2 CDO LSAT HII.PDF": {
+      "id": "ff465b8bc02ea990",
+      "size_bytes": 2323410,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.3 CIAT LSAT HII.pdf": {
+      "id": "57e4ee4b3b2da9ed",
+      "size_bytes": 338031,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.4 Certificado pruebas LSAT HII.pdf": {
+      "id": "ac36b17287ac81e8",
+      "size_bytes": 1102023,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.4 OCA LSAT HII.pdf": {
+      "id": "6f24ffccd7bbf0aa",
+      "size_bytes": 1004665,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.5 Acreditacion AT.pdf": {
+      "id": "fa0211a059543c80",
+      "size_bytes": 498983,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.6 Contrato Mto AT HII.pdf": {
+      "id": "ac95638c61d9dd86",
+      "size_bytes": 131921,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.7 Formulario APM.pdf": {
+      "id": "4796ce590649be15",
+      "size_bytes": 345923,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.8 APM.pdf": {
+      "id": "834ea5246fadcc44",
+      "size_bytes": 266965,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.1 Proyecto SE Elevadora HII.pdf": {
+      "id": "5f69c234577d4fc8",
+      "size_bytes": 11974618,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.2 CDO SE Elevadora HII.pdf": {
+      "id": "84e91a1718595db2",
+      "size_bytes": 273213,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.3 CIEAT SE HII.pdf": {
+      "id": "a22c8d17a6f8ee01",
+      "size_bytes": 194047,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.4 Cert PyC HII.pdf": {
+      "id": "cb96000371981dde",
+      "size_bytes": 5517802,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.5 Acreditacion AT.pdf": {
+      "id": "357333c90022da38",
+      "size_bytes": 498983,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.6 Protocolo ensayo.pdf": {
+      "id": "61d82f2ca6454008",
+      "size_bytes": 3915954,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.7 Contrato Mto AT HII.pdf": {
+      "id": "dacf7460ad027293",
+      "size_bytes": 131921,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.8 Solicitud APM SE Elevadora HII.pdf": {
+      "id": "79bd3642e1edaae6",
+      "size_bytes": 435538,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.9 APM.pdf": {
+      "id": "db3a94d6a289dac3",
+      "size_bytes": 265904,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.1 Proy AT HII.pdf": {
+      "id": "ecccf6a480cf719f",
+      "size_bytes": 75332764,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.2 CDO AT HII.pdf": {
+      "id": "93e6021e04ce1809",
+      "size_bytes": 272650,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.3 CIEAT HII.pdf": {
+      "id": "f41f461e20aa004b",
+      "size_bytes": 216490,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.4 Certif PyC HII.pdf": {
+      "id": "1054532e11525f18",
+      "size_bytes": 3853892,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.5 Acreditacion AT.pdf": {
+      "id": "0eac2fc59421f933",
+      "size_bytes": 498983,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.6 Prot ensayos.pdf": {
+      "id": "c6929e74f457a9c6",
+      "size_bytes": 7280129,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.7 Contrato Mto AT HII.pdf": {
+      "id": "998261b7e2808b4f",
+      "size_bytes": 131921,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.8 Solicitud APM AT HII .pdf": {
+      "id": "89ebc7eb683731bb",
+      "size_bytes": 347269,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.9 APM.pdf": {
+      "id": "d260158c20fdcdd2",
+      "size_bytes": 275384,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.16 Obra civil/5.16.1 Proy OC HII.pdf": {
+      "id": "b2dc4625c4ce87b9",
+      "size_bytes": 816517998,
+      "mtime_iso": "2026-06-08T16:18:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios II/5.16 Obra civil/5.16.2 CDO OC HII.pdf": {
+      "id": "51512a2e7d52201e",
+      "size_bytes": 271508,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.8 N2/5.8.1 Poyecto N2.pdf": {
+      "id": "e4cdf5dc84ad7820",
+      "size_bytes": 12477749,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.8 N2/5.8.3 Cert OCA.pdf": {
+      "id": "6e3c2f8705b2315c",
+      "size_bytes": 652569,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.8 N2/5.8.5 DC.pdf": {
+      "id": "23588cd7cb8c3394",
+      "size_bytes": 1371815,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.8 N2/5.8.6 Acreditacion instalador.pdf": {
+      "id": "f9eccb130291e82f",
+      "size_bytes": 77547,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.8 N2/5.8.7 Carta presentacion.pdf": {
+      "id": "67c1380e17523488",
+      "size_bytes": 85831,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.8 N2/5.8.8 APM HII.pdf": {
+      "id": "a7c04fb1c7001406",
+      "size_bytes": 247040,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.1 Proyecto BT HII.pdf": {
+      "id": "e03e56f44c07c8b5",
+      "size_bytes": 253962017,
+      "mtime_iso": "2026-06-08T16:20:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.2 CDO BT HII.pdf": {
+      "id": "2c0bc7d7b67ad1d1",
+      "size_bytes": 272321,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.3 CIBT HII.pdf": {
+      "id": "dce4f93dbabbc426",
+      "size_bytes": 87858,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.4 Cert OCA.pdf": {
+      "id": "1962be7d5845ac08",
+      "size_bytes": 199808,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.5 Acreditacion BT.pdf": {
+      "id": "757f5110bf12b529",
+      "size_bytes": 1132564,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.6 Formulario PS.pdf": {
+      "id": "91433feb15f29edd",
+      "size_bytes": 1111301,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Línea 15 kV/110516 Línea particular MT.pdf": {
+      "id": "7286a81b96e88a74",
+      "size_bytes": 4399723,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Línea 15 kV/110526 BT Casetas de obra.pdf": {
+      "id": "39a1c1d817704248",
+      "size_bytes": 2122607,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Línea 15 kV/110719 APM Línea 15 kV.pdf": {
+      "id": "de6cf17861d33aea",
+      "size_bytes": 183405,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Línea 15 kV/111115 Boletín baja tensión.pdf": {
+      "id": "f6073d0f0fb8847d",
+      "size_bytes": 419482,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Línea 15 kV/120227 Helios I Remisión Justificación AT.pdf": {
+      "id": "2a9bba4df2dc4895",
+      "size_bytes": 401868,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/Línea 15 kV/120312 Helios I Cambio titular línea 15 kV.pdf": {
+      "id": "988af6d6dcb63d65",
+      "size_bytes": 356341,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/LSAT - LAAT Helios I/1.6.15 LO_LA ASJ SE Col.pdf": {
+      "id": "15c01c6c9fa3c54e",
+      "size_bytes": 472234,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/LSAT - LAAT Helios I/120120 Sol. APM LSAT Helios I.pdf": {
+      "id": "b034b27bac42c5f6",
+      "size_bytes": 379861,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/LSAT - LAAT Helios I/5.10.1.2 CDO y Proyecto LAAT - LSAT HI 220 kV.PDF": {
+      "id": "44a5f669e4612b2b",
+      "size_bytes": 6127409,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/LSAT Helios II/120131 Solicitud APM  LSAT Helios II.pdf": {
+      "id": "1f1c3b5a7b3aad80",
+      "size_bytes": 498593,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/SE Colectora/111229 Solicitud APM SE Colectora Helios.pdf": {
+      "id": "c7836f82ce758bb3",
+      "size_bytes": 105116,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/SE Colectora/120117 Helios I Línea 15 kV suministro auxiliar.pdf": {
+      "id": "996a78ee46bb3d97",
+      "size_bytes": 256036,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/2046-PLN-INA-23-22-0001 Principal y redundante Helios I.pdf": {
+      "id": "9629b1d72d8027bb",
+      "size_bytes": 182514,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/2046-PLN-INA-23-22-0002 Principal y redundante Helios II.pdf": {
+      "id": "f4cd58feae84c5d4",
+      "size_bytes": 188915,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/2046-PLN-INA-23-22-0003 Principal y comprobante.pdf": {
+      "id": "5dbd20f4c7d51ebc",
+      "size_bytes": 193229,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/2046-PLN-INA-23-22-0101 rev 00 Unifilar general.pdf": {
+      "id": "5b8e223159dcf578",
+      "size_bytes": 206943,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/2046-PLN-INA-23-22-0101 rev 01 Unifilar general.pdf": {
+      "id": "ff08ccfeb66f6099",
+      "size_bytes": 299186,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/5.10.2.2 CDO SE Colectora.pdf": {
+      "id": "c405c3d6c35dfb0a",
+      "size_bytes": 395383,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/SE Colectora/E87-15-3005-SE-021-000001 rev 00 Unifilar general.pdf": {
+      "id": "8444678e446af6e8",
+      "size_bytes": 206943,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/E87-15-3005-SE-022-000002 rev 01 Línea L1 Helios I.pdf": {
+      "id": "e326be062cc11ba6",
+      "size_bytes": 2652005,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/E87-15-3005-SE-022-000003 rev 01 Línea L2 Helios II.pdf": {
+      "id": "b764917b61f3728a",
+      "size_bytes": 2622562,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/E87-15-3005-SE-022-000004 rev 01 Línea L3 Arenas de San Juan.pdf": {
+      "id": "5a36b3a89abd2777",
+      "size_bytes": 3383480,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Helios Sole/SE Colectora/INGENIERIA HELIOS FISCAL.rar": {
+      "id": "2506a6088a67768f",
+      "size_bytes": 3075674,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "metadata_only"
+    },
+    "Helios Sole/SE Colectora/Solicitud APM linea auxiliar SE Colectora.pdf": {
+      "id": "955a21b8b51a62fd",
+      "size_bytes": 120775,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Helios Sole/SE Elevadora Helios II/120213 Solicitud APM SE Elevadora HII.pdf": {
+      "id": "0fa914cb58e38735",
+      "size_bytes": 435538,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations.zip": {
+      "id": "fb29cd46b534342c",
+      "size_bytes": 7593867,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "archive_listed"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0001.pdf": {
+      "id": "7a042af6c317979e",
+      "size_bytes": 729702,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0002.pdf": {
+      "id": "9edc719ffe89d812",
+      "size_bytes": 819296,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0003.pdf": {
+      "id": "97ed17e760e58bd3",
+      "size_bytes": 706701,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0004.pdf": {
+      "id": "4b91693986cfdbae",
+      "size_bytes": 760772,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0005.pdf": {
+      "id": "987d1040fdc39a92",
+      "size_bytes": 808612,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0006.pdf": {
+      "id": "ee1f5dcda7429383",
+      "size_bytes": 789126,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0007.pdf": {
+      "id": "14cdab51a4ab0f4d",
+      "size_bytes": 732427,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0008.pdf": {
+      "id": "85e039634473ec93",
+      "size_bytes": 816579,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0009.pdf": {
+      "id": "78f486b0f2a707cb",
+      "size_bytes": 808154,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/4521-PLN-PRT-39-52-0010.pdf": {
+      "id": "854a2b4b1e4481ad",
+      "size_bytes": 722835,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0001_unlocked.pdf": {
+      "id": "506bb59d207d4587",
+      "size_bytes": 661640,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0002_unlocked.pdf": {
+      "id": "37d5db13a6e3a66f",
+      "size_bytes": 751232,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0003_unlocked.pdf": {
+      "id": "43a08bba83a1f3c6",
+      "size_bytes": 638632,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0004_unlocked.pdf": {
+      "id": "89d0c2fc46c3a678",
+      "size_bytes": 692717,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0005_unlocked.pdf": {
+      "id": "97b80582a5892960",
+      "size_bytes": 740557,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0006_unlocked.pdf": {
+      "id": "18a9b77638015670",
+      "size_bytes": 721064,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0007_unlocked.pdf": {
+      "id": "f03608b3e0fdb833",
+      "size_bytes": 664360,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0008_unlocked.pdf": {
+      "id": "62fd76bd74916fe6",
+      "size_bytes": 748526,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0009_unlocked.pdf": {
+      "id": "7f89899bea9e335e",
+      "size_bytes": 740091,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/4521-PLN-PRT-39-52-0010_unlocked.pdf": {
+      "id": "461a90829a38531c",
+      "size_bytes": 654778,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Foundations/unlocked/MERGE.pdf": {
+      "id": "b035c9eb64a5f289",
+      "size_bytes": 3357476,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "needs_ocr_or_empty"
+    },
+    "Planos Solana/Tanks.zip": {
+      "id": "76262bae9b827499",
+      "size_bytes": 6105348,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "archive_listed"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0001.pdf": {
+      "id": "fd3be8aae7b055bd",
+      "size_bytes": 341266,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0002.pdf": {
+      "id": "6f43434478323083",
+      "size_bytes": 349533,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0003.pdf": {
+      "id": "313cb7b8556f4f4c",
+      "size_bytes": 370133,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0004.pdf": {
+      "id": "7e5f38cc680b3e04",
+      "size_bytes": 391644,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0005.pdf": {
+      "id": "680659cd3a9413e5",
+      "size_bytes": 353902,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0006.pdf": {
+      "id": "55ea29ba17032797",
+      "size_bytes": 374438,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0007.pdf": {
+      "id": "30287cfdb2cff8b8",
+      "size_bytes": 308460,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0008.pdf": {
+      "id": "f40ac44d2a952808",
+      "size_bytes": 335024,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0009.pdf": {
+      "id": "52d86192848940dc",
+      "size_bytes": 323267,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0010.pdf": {
+      "id": "66ef08721f837488",
+      "size_bytes": 347782,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0011.pdf": {
+      "id": "46508db1e02ce963",
+      "size_bytes": 325202,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0012.pdf": {
+      "id": "0f44fe8bcc0aafa5",
+      "size_bytes": 360373,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0013.pdf": {
+      "id": "1a3704aa8e87c774",
+      "size_bytes": 304286,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0014.pdf": {
+      "id": "1112bb3211cc5475",
+      "size_bytes": 377353,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0015.pdf": {
+      "id": "df2cfcb08ee480fa",
+      "size_bytes": 369560,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0016.pdf": {
+      "id": "5941684b079cc837",
+      "size_bytes": 377030,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0017.pdf": {
+      "id": "0e4c60b9c1538bcb",
+      "size_bytes": 312432,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/4521-PLN-PRT-39-62-0018.pdf": {
+      "id": "52fa66c8a8e9f932",
+      "size_bytes": 317863,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
+      "status": "ok"
+    },
+    "Planos Solana/Tanks/MERGE.pdf": {
+      "id": "0bb5613fd5e6bf11",
+      "size_bytes": 7960841,
+      "mtime_iso": "2026-06-08T16:21:00.000Z",
       "status": "ok"
     }
   }

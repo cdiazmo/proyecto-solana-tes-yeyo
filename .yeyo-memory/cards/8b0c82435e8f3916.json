@@ -1,0 +1,30 @@
+{
+  "id": "8b0c82435e8f3916",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/Cert OCA.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 66490,
+  "size_human": "65 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "Cert OCA",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4461,
+  "token_estimate": 1115,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/8b0c82435e8f3916.json",
+  "extracted_path": ".yeyo-memory/extracted/8b0c82435e8f3916.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "Alberto Campos Perez",
+      "Creator": "Microsoft® Word 2019",
+      "CreationDate": "D:20220302120958+01'00'",
+      "ModDate": "D:20220302120958+01'00'",
+      "Producer": "Microsoft® Word 2019"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:02.080580+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "a9a071b9a5959b0f",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.2 CDO.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1000288,
+  "size_human": "977 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.3.2 CDO",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 4269,
+  "token_estimate": 1067,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/a9a071b9a5959b0f.json",
+  "extracted_path": ".yeyo-memory/extracted/a9a071b9a5959b0f.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Title": "Microsoft Word - CDO Modelo CLM 16_01_2012 emb 1.doc",
+      "Author": "gljmb",
+      "Producer": "Nitro PDF PrimoPDF; modified using iTextSharp 4.1.6 by 1T3XT",
+      "Creator": "PrimoPDF http://www.primopdf.com",
+      "ModDate": "D:20120216172944+01'00'",
+      "CreationDate": "D:20120116100536-01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:38.965375+00:00"
+}

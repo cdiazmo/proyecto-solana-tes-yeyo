@@ -1,0 +1,28 @@
+{
+  "id": "25c3ec5e97697055",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/120224 Solicitud baja 15 kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 180237,
+  "size_human": "176 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "120224 Solicitud baja 15 kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2172,
+  "token_estimate": 543,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/25c3ec5e97697055.json",
+  "extracted_path": ".yeyo-memory/extracted/25c3ec5e97697055.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "Angel Ramon Menor Pozo",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:49.094979+00:00"
+}

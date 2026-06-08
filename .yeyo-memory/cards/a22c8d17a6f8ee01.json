@@ -1,0 +1,30 @@
+{
+  "id": "a22c8d17a6f8ee01",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.3 CIEAT SE HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 194047,
+  "size_human": "189 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.2.3 CIEAT SE HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/a22c8d17a6f8ee01.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Title": "Nuance Communications, Inc.",
+      "Author": "Jesus Castilla Rastrollo",
+      "Keywords": "None",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:31.341191+00:00"
+}

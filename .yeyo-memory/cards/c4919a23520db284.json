@@ -1,0 +1,31 @@
+{
+  "id": "c4919a23520db284",
+  "path": "Helios Sole/Helios I/3.3.3 Acta señalamiento HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 2827465,
+  "size_human": "2.7 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "3.3.3 Acta señalamiento HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/c4919a23520db284.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "Author": "WinuE",
+      "CreationDate": "D:20110303133642+01'00'",
+      "Creator": "Microsoft® Office Word 2007",
+      "ModDate": "D:20110303133642+01'00'",
+      "Producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "Title": "20110105_INF_AMB_PVSA_HELIOS_I_1_FULL.pdf"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:03.496802+00:00"
+}

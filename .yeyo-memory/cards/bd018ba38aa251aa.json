@@ -1,0 +1,32 @@
+{
+  "id": "bd018ba38aa251aa",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Proyectos 15kV Masa/Proyecto ampliación C.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 2087170,
+  "size_human": "2.0 MB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "Proyecto ampliación C",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/bd018ba38aa251aa.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 30,
+    "pdf_metadata": {
+      "CreationDate": "D:20101213173103+01'00'",
+      "Subject": "Image",
+      "Author": "",
+      "Creator": "Canon iR C2880",
+      "Producer": "Canon iR C2880",
+      "ModDate": "D:20110721142426+02'00'",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:52.105109+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6c893bf83e03b73b",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.6 Protocolos ensayo trafos.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 8779140,
+  "size_human": "8.4 MB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.5.6 Protocolos ensayo trafos",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 6165,
+  "token_estimate": 1541,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/6c893bf83e03b73b.json",
+  "extracted_path": ".yeyo-memory/extracted/6c893bf83e03b73b.txt",
+  "metadata": {
+    "pages": 29,
+    "pdf_metadata": {
+      "Creator": "pdftk 1.41 - www.pdftk.com",
+      "Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+      "ModDate": "D:20120109155431-01'00'",
+      "CreationDate": "D:20120109155431-01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:47.045654+00:00"
+}

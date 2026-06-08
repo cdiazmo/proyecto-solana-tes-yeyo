@@ -1,0 +1,37 @@
+{
+  "id": "f4cd58feae84c5d4",
+  "path": "Helios Sole/SE Colectora/2046-PLN-INA-23-22-0002 Principal y redundante Helios II.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 188915,
+  "size_human": "184 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "2046-PLN-INA-23-22-0002 Principal y redundante Helios II",
+  "doc_code": "2046-PLN-INA-23-22-0002",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/f4cd58feae84c5d4.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "CreationDate": "D:20111028140313+02'00'",
+      "Author": "Administrador",
+      "Creator": "PScript5.dll Version 5.2",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "ModDate": "D:20111028140320+02'00'",
+      "Title": "\\\\Central\\CENTRAL_1\\TRABAJOS\\1697 HELIOS\\CONTROL SUB COLECTORA\\L_02 HELIOS II\\DESARROLLADOS\\2046-PLN-INA-23-22-0002-14.dwg Mode"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.902931+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:16.941907+00:00"
+}

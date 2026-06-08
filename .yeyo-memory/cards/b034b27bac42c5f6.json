@@ -1,0 +1,28 @@
+{
+  "id": "b034b27bac42c5f6",
+  "path": "Helios Sole/LSAT - LAAT Helios I/120120 Sol. APM LSAT Helios I.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 379861,
+  "size_human": "371 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "120120 Sol. APM LSAT Helios I",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b034b27bac42c5f6.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120120121502+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:33.196113+00:00"
+}

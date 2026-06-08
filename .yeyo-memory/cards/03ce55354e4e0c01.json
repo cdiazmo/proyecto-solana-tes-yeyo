@@ -1,0 +1,31 @@
+{
+  "id": "03ce55354e4e0c01",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 520536,
+  "size_human": "508 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 31470,
+  "token_estimate": 7867,
+  "chunks": 20,
+  "card_path": ".yeyo-memory/cards/03ce55354e4e0c01.json",
+  "extracted_path": ".yeyo-memory/extracted/03ce55354e4e0c01.txt",
+  "metadata": {
+    "pages": 20,
+    "pdf_metadata": {
+      "Author": "imanolmenika",
+      "CreationDate": "D:20260326143814+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20260326144355+01'00'",
+      "Producer": "Acrobat Distiller 17.0 (Windows)",
+      "Title": "CANTIDAD ESTRUCTURA_FORMATO CLIENTE.xlsx"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:19.275262+00:00"
+}

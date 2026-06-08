@@ -1,0 +1,31 @@
+{
+  "id": "9ae10bfdf738a5f2",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-6500-00_Lista de Consumidores Eléctricos_Rev01.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1342291,
+  "size_human": "1.3 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-6500-00 Lista de Consumidores Eléctricos Rev01",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 6746,
+  "token_estimate": 1686,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/9ae10bfdf738a5f2.json",
+  "extracted_path": ".yeyo-memory/extracted/9ae10bfdf738a5f2.txt",
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Author": "Asier Aurrekoetxea Palacios",
+      "CreationDate": "D:20260427170946+02'00'",
+      "Creator": "Adobe Acrobat Pro 2017 17.12.30262",
+      "ModDate": "D:20260427171225+02'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:27:45.589647+00:00"
+}

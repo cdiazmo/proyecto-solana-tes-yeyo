@@ -1,0 +1,889 @@
+[page 1]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 1/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEMORIA TÉCNICA 
+ 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-TN-3000-00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 31/03/2026 INITIAL ISSUE A.A.P D.S.Z. D.S.Z. 
+1 27/04/2026 ATLANTICA’S AMENDMENTS A.A.P U.O.A. D.S.Z. 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 2/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+INDICE 
+1 INTRODUCCIÓN 3 
+2 MEMORIA TÉCNICA 4 
+2.1 Descripción general del proceso 4 
+2.2 Descripción de los elementos del sistema 4 
+2.2.1 Almacenamiento de sales frías y calientes 5 
+2.2.2 Intercambiadores de calor 8 
+2.2.3 Recirculación de sales 10 
+2.2.4 Sistema de drenaje 10 
+2.2.5 Sistema de Nitrógeno 11 
+2.2.6 Sistema de fusión 12 
+2.2.7 Traceado eléctrico sistema de almacenamiento 12 
+2.2.8 Obra civil (a desarrollar por otros) 15 
+2.2.9 Estructuras metálicas 16 
+2.3 Lista de Equipos Principales del Sistema de almacenamiento 17 
+2.4 Límites de batería 18 
+3 ANEXOS 19 
+ 
+
+[page 3]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 3/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+1 INTRODUCCIÓN 
+Atlantica (en adelante el CLIENTE) desarrolla una mejora de sus plantas SOLACOR 1 y 2 y HELIOS 
+1 y 2, consistente en la instalación de sistemas de almacenamiento de calor con sales fundidas. 
+ 
+
+[page 4]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 4/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+2 MEMORIA TÉCNICA 
+Esta memoria está vinculada al almacenamiento térmico de 2 horas de las plantas termosolares del 
+Cliente. 
+2.1 Descripción general del proceso 
+La finalidad del Sistema de Sales es almacenar energía térmica, para extender la operación de la 
+planta durante las noches o cuando no se dispone de radiación solar suficiente. 
+El medio en el que se almacena la energía térmica consiste en una mezcla de sales fundidas constituida 
+por 60% en peso de Nitrato de Sodio y 40% en peso de Nitrato de Potasio. 
+Para el almacenamiento de sales fundidas se dispone de dos Tanques. En uno se almacenan las sales 
+fundidas “frías” a aproximadamente 292ºC. Las sales se hacen pasar por una serie de 
+Intercambiadores de calor, donde se calientan desde 292ºC hasta 381ºC con el HTF proveniente del 
+Campo Solar durante las horas de insolación. Las sales calentadas a 381ºC se almacenan en el otro 
+Tanque, “caliente”, de modo que pueda devolverse la Energía Térmica al HTF durante las horas de 
+no insolación. En este caso, las sales “frías” son enviadas al Tanque “frío”. 
+El Almacenamiento Térmico está diseñado para almacenar aproximadamente 262-300 MWh 
+calentando las sales fundidas desde 289ºC hasta 381ºC. 
+La carga térmica (calentamiento de las sales) se lleva a cabo entre 7,5 o 2 h con un intercambio 
+térmico entre el HTF y las sales fundidas de 131 MW. El caudal de diseño de sales, que es bombeado 
+desde el tanque frío al tanque caliente es de 950 kg/s. 
+La descarga del almacenamiento, es decir, la transferencia del calor acumulado en las sales fundidas 
+al HTF, está diseñada para vaciar el tanque caliente en 2 horas con un intercambio térmico de 127 
+MW. El caudal de sales fundidas en la descarga es 950 kg/s. De este modo, el HTF se calienta desde 
+283ºC hasta 374ºC. 
+Los intercambiadores, las válvulas y las tuberías disponen de traceado eléctrico para evitar la 
+congelación de las sales. En caso de parada larga, existe un sistema de recirculación de sales en el 
+tanque frío que evita su estratificación. 
+Los tanques de almacenamiento se mantienen inertizados con nitrógeno con el fin de evitar la 
+existencia de oxígeno ante la eventualidad de que haya HTF en cualquiera de los tanques debido a 
+una ruptura de tubos en alguno de los intercambiadores. 
+Durante los procesos de carga y descarga térmica, se produce el trasvase de nitrógeno de un tanque a 
+otro a través de un colector de unión entre ambos (línea de balanceo). 
+2.2 Descripción de los elementos del sistema 
+ 
+
+[page 5]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 5/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+2.2.1 Almacenamiento de sales frías y calientes 
+Para almacenar los aproximadamente 262–300 MWh mencionados previamente, se emplearán 
+tanques de almacenamiento de 21 metros de diámetro y 13,1 metros de altura. No obstante, la 
+totalidad de esta altura no será operativa. Por un lado, se reserva un talón de 0,6 metros en la base del 
+tanque, necesario para garantizar la correcta succión de las bombas. Por otro, se deja un margen 
+superior de 0,5 metros destinado a la formación de una atmósfera de nitrógeno. 
+Los tanques se mantienen inertizados con nitrógeno ante la eventual presencia de HTF debido a una 
+ruptura de tubos en alguno de los Intercambiadores. Durante los procesos de carga y descarga del 
+almacenamiento térmico, ocurre un trasvase de Nitrógeno de un tanque a otro. Cuando se lleva a cabo 
+la carga del almacenamiento térmico las sales provenientes del Tanque frío han intercambiado calor 
+con el HTF proveniente del campo solar. 
+La temperatura de diseño de los tanques es de 398 ºC para ambos tanques y ambos se encontrarán a 
+una presión prácticamente atmosférica. Para mantener la presión en los tanques existe una válvula de 
+control de presión (10 WSC/WSH 10AA201) de 6” con Set Point de 14 mbarg para evacuar los 
+caudales normales de exceso de N2 en operación normal. Adicionalmente, se cuenta con unas 
+válvulas de seguridad de presión-vacío (PSV 10 WSC/WSH 10AA 901/902) de 12” con presiones de 
+tarado de 18/-3 mbarg. El tanque está provisto de doble redundancia de válvulas de seguridad tanto 
+para evitar la sobrepresión como para romper el vacío. 
+Los tanques de almacenamiento de sales se diseñarán, fabricarán, construirán y montarán de acuerdo 
+con lo establecido en la norma API 650, en la medida en que sea aplicable, así como con los requisitos 
+específicos aquí definidos. Este enfoque garantiza que las instalaciones cumplan con los criterios 
+reconocidos internacionalmente en cuanto a seguridad, integridad estructural y fiabilidad operativa. 
+La cubierta de los tanques será de tipo autoportante, incorporando una estructura interna de soporte 
+conforme a lo indicado en la sección 3.10.6 de la misma norma. Este diseño se adopta con el objetivo 
+de minimizar y evitar problemas derivados de las cargas térmicas, especialmente relevantes en 
+aplicaciones termosolares donde las variaciones de temperatura pueden ser significativas. 
+En cuanto a las uniones, todas las juntas verticales de las virolas en ambos tanques serán soldadas a 
+tope (butt-welded) con penetración completa. Las juntas del fondo también se ejecutarán mediante 
+soldadura a tope, empleando pletinas de respaldo (backing strips). Asimismo, todas las uniones entre 
+el fondo y la primera virola se realizarán con soldadura de penetración completa, excepto en el caso 
+de chapas de inserción en el fondo, donde el elevado espesor de las placas podría comprometer sus 
+propiedades si se aplicase este tipo de soldadura. En estas situaciones, el espesor de la costura soldada 
+será equivalente al del resto de la envolvente del tanque. 
+El tanque estará fabricado en acero ASTM A516 Grade 70, un material ampliamente utilizado por su 
+buena resistencia mecánica y comportamiento a temperaturas elevadas. Además, dispondrá de un 
+sistema de aislamiento térmico compuesto por 300 mm de lana mineral tanto en la envolvente como 
+en la cubierta, lo que permitirá reducir las pérdidas de calor y mejorar la eficiencia global del sistema 
+de almacenamiento. 
+ 
+
+[page 6]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 6/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+Bajo los tanques de sales, tras el fondo metálico, se dispone de una capa de arcilla expandida de 1,4m, 
+seguida de una segunda capa de tierra compactada en la que se colocará una parrilla de tubos (20 
+tubos en el tanque frio y 24 en el caliente) de 6” embebidos con la finalidad de que circule aire a 
+través de ellos por convección forzada (ventiladores) y mantengan la temperatura de la tierra 
+compactada por debajo de los 150ºC. Dichos tubos dispondrán de unas chapas o tapaderas con el fin 
+de poder cerrar total o parcialmente el paso de aire por los mismos en caso de ser necesarios para 
+evitar pérdida de calor excesiva. 
+ 
+Casi todas las entradas de tuberías e instrumentación se realizan a través del techo. Esto se debe a 
+que, al estar los tanques sometidos a variaciones cíclicas de nivel y temperatura, las conexiones 
+laterales estarían expuestas a fatiga, constituyendo un punto débil en su estructura. Las únicas 
+conexiones que se realizarán por la envolvente del tanque son una conexión de drenaje, una boca de 
+hombre y los calentadores eléctricos. 
+ 
+Sistema de calentamiento: 
+Sobre el fondo de cada tanque se disponen seis calentadores eléctricos, insertados radialmente, cuya 
+función es compensar las pérdidas de calor a través de las paredes y la base. Estas resistencias, 
+montadas sobre brida, se introducen en el interior del tanque mediante vainas, lo que permite una 
+transferencia de calor eficiente al fluido almacenado. Además, esta configuración facilita su 
+extracción sin necesidad de vaciar el tanque. 
+Las resistencias presentan un diámetro de 8 pulgadas y una longitud de 8,2 m, con el objetivo de 
+alcanzar zonas próximas al centro del tanque y favorecer así una distribución térmica lo más 
+homogénea posible. 
+Cada resistencia cuenta con una potencia total del orden de 50 kW (la potencia total para cada Tanque 
+es de 300 kW), distribuida en dos etapas, lo que permite modular el aporte térmico en función de las 
+necesidades operativas. Los elementos calefactores presentan una configuración en forma de U y se 
+disponen de manera perimetral, favoreciendo una distribución homogénea del calor dentro del tanque. 
+
+[page 7]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 7/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+El control de la temperatura se realiza mediante sondas térmicas, que permiten regular el 
+funcionamiento de las resistencias y asegurar que las sales se mantengan dentro del rango de 
+operación requerido. Asimismo, el sistema dispone de un cuadro eléctrico asociado que integra los 
+elementos de maniobra, control y protección necesarios para su funcionamiento seguro y fiable. 
+ 
+Bombas de sales: 
+Las bombas de sales fundidas empleadas en el sistema de almacenamiento térmico son de tipo vertical 
+sumergido, instaladas directamente en el interior de los tanques de almacenamiento. Estas bombas 
+disponen de motores situados externamente al tanque, lo que facilita su mantenimiento y operación, 
+y están soportadas por una estructura o plataforma independiente del propio tanque. Además, cada 
+unidad está equipada con un variador de frecuencia que permite modular la velocidad de operación 
+y, por tanto, ajustar el caudal en función de las necesidades del sistema. Cabe destacar que los 
+variadores de frecuencia instalados para las bombas de sales fundidas serán de uso compartido entre 
+las bombas de sales calientes y frías, permitiendo controlar alternativamente unas u otras según la 
+operación requerida (carga o descarga). 
+En cada tanque se instalan tres bombas, cada una de ellas dimensionada para suministrar 
+aproximadamente el 33,3% del caudal de diseño. En caso de fallo de 1 bomba, la carga y la descarga 
+se alargaría a 3 horas. 
+Desde el punto de vista de funcionamiento, se trata de bombas verticales multietapa (en este caso, 
+con tres etapas), diseñadas para proporcionar la altura manométrica necesaria para impulsar las sales 
+fundidas hacia el sistema de intercambiadores. El diseño multietapa permite alcanzar presiones 
+elevadas de forma eficiente, manteniendo un funcionamiento estable incluso en condiciones exigentes 
+de temperatura. 
+ 
+
+[page 8]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 8/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+Para gestionar las posibles fugas de sales a lo largo del eje, se emplea un sistema de presurización 
+mediante nitrógeno (N₂). Este gas se inyecta en la parte superior del tubo de apaciguamiento (stilling 
+tube), manteniendo en esa zona una presión ligeramente superior (del orden de 0,7–1,0 bar) a la 
+presión del fluido en el recipiente de succión. Esta sobrepresión contribuye a evitar la entrada de sales 
+en zonas críticas y favorece que cualquier fuga a través de elementos como el casquillo de 
+estrangulación (throttle bushing) sea empujada hacia las líneas de drenaje, retornando al tanque a un 
+ritmo que impide la acumulación de sal en el tubo del eje. 
+ 
+Asimismo, para garantizar unas condiciones adecuadas de aspiración y evitar fenómenos como la 
+cavitación, es necesario disponer de un nivel mínimo de sal en el fondo del tanque. En este diseño se 
+establece un talón mínimo de aproximadamente 0,6 metros en la base del tanque, que asegura que la 
+bomba permanezca correctamente cebada y pueda operar de forma segura. 
+ 
+2.2.2 Intercambiadores de calor 
+El tren de intercambio está compuesto por 6 intercambiadores dispuestos en serie y dispuestos en dos 
+pisos (stack) para minimizar el espacio requerido. Los intercambiadores son de tipo BFU según 
+TEMA, con una longitud de 14,4m y un diámetro interno de 2,36m. El intercambio de calor se 
+realizará a contracorriente pura gracias al bafle longitudinal del lado cuerpo. 
+La selección de materiales del intercambiador de calor se ha realizado conforme a los criterios y 
+recomendaciones establecidos por la AMERICAN SOCIETY OF MECHANICAL ENGINEERS 
+(ASME VIII), ampliamente reconocida como referencia en el diseño y fabricación de 
+intercambiadores de carcasa y tubos. En base a sus criterios, se han seleccionado los materiales más 
+adecuados para cada uno de los distintos elementos del intercambiador (tales como la cámara, tubos, 
+placas tubulares y cuerpo entre otros), garantizando así la integridad estructural y la durabilidad del 
+equipo. 
+Además de las normas de diseño, LOINTEK, como líder mundial en la fabricación y suministro de 
+este tipo de intercambiadores de calor, ha seleccionado los materiales y espesores que mejor se ajustan 
+a las condiciones de operación cíclicas y de proceso basándose en su amplia experiencia y 
+conocimiento. 
+
+[page 9]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 9/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+A continuación, se presenta una tabla resumen con los materiales asignados a cada uno de los 
+componentes principales del intercambiador. 
+COMPONENTES PRINCIPALES MATERIAL 
+Tubos SA-210 A1 
+Placa tubular SA508 Gr.3 Cl.1 
+Cuerpo SA-533 Gr.B Cl2 
+Cámara SA-533 Gr.B Cl2 
+El HTF es el fluido de más alta presión y circula por los tubos, mientras que las sales fundidas circulan 
+por el lado cuerpo. Los tubos están soldados a la placa tubular y la placa tubular está soldada a su vez 
+tanto a la cámara como al cuerpo con el fin de hacer hermético el intercambiador de calor a posibles 
+fugas. 
+El flujo de diseño de las sales durante la fase de carga del Almacenamiento es de 950 kg/s, y el calor 
+intercambiado es 131.15MW. El caudal de diseño del HTF es 578,7 kg/s, que se enfría desde 388ºC 
+hasta 295ºC. 
+Durante la fase de descarga 950 kg/s de sales a 381ºC calientan 576 kg/s de HTF hasta 374ºC, 
+intercambiando 128 MW. 
+Los intercambiadores llevarán aislamiento, así como traceado eléctrico para evitar la congelación de 
+las sales. 
+Los elementos principales a destacar en el sistema de cambiadores son: 
+ Instrumentación para el control de la temperatura y presión de las sales. En el sentido de flujo 
+de Sales tanque “frío” a “caliente” se dispone de los instrumentos de presión y de temperatura. 
+ Instrumentación para el control de la temperatura y presión del HTF. En el sentido de 
+enfriamiento de HTF (carga térmica de sales) se dispone de los instrumentos de temperatura. 
+Los elementos de presión están a la entrada y a la salida de cada cambiador. 
+ Se dispone de tres venteos para las sales a través de las líneas, mediante la apertura de tres 
+válvulas motorizadas y todas ellas de 4” al igual que la línea. De estas tres líneas de venteo 
+salen tres reboses, de 4”, con el fin de reconducir las sales procedentes del venteo a las líneas 
+de drenaje, mediante la apertura de las válvulas motorizadas también de 4’’. 
+ Las líneas de HTF de interconexión de los cambiadores, cuentan, igualmente con tres líneas 
+de venteo de 2”, con sus correspondientes válvulas motorizadas. El posible HTF contenido en 
+esas líneas, será llevado a la línea de expansión de HTF mediante la apertura de la válvula 
+motorizada que estará candada cerrada en operación normal. Existe un venteo con la válvula 
+manual, utilizado para el primer llenado de los cambiadores. 
+
+[page 10]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 10/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ Existen válvulas de corte del HTF con el fin de controlar el flujo de entrada del mismo al 
+sistema de intercambiadores de calor: 
+o La línea de entrada de HTF a los cambiadores para la descarga térmica, dispone de 
+una válvula de acción neumática de corte de 24”, al igual que la línea. Así mismo esta 
+línea posee un bypass con una válvula de acción neumática de 6”. 
+o La línea de entrada para la carga térmica de HTF al cambiador dispone de la válvula 
+de acción neumática de regulación de 24”, al igual que la línea. 
+o En la línea de retorno de HTF al “tanque de expansión”, dispone de la válvula 
+motorizada de 24”, igual que la línea. 
+ Línea de 2” de aporte de nitrógeno a los intercambiadores en el lado sales. Esta línea hace 
+posible inertizar y presurizar con nitrógeno el sistema de cambiadores durante la puesta en 
+marcha del sistema, mediante la apertura de las válvulas motorizadas y la antirretorno 
+correspondiente. La línea de sales hasta la check consta de traceado y sus válvulas motorizadas 
+permanecerán cerradas en operación normal. 
+2.2.3 Recirculación de sales 
+La finalidad principal del sistema de recirculación es alcanzar la temperatura deseada para comenzar 
+a enviar sales fundidas al tanque de almacenamiento de sales calientes, durante una operación de 
+carga térmica. Esta recirculación a su vez favorece la homogeneización de la temperatura de las sales 
+en el tanque frío. 
+El sistema de recirculación permite en las horas de espera del almacenamiento recircular las sales a 
+través de las líneas y de los Intercambiadores mediante la operación manual de únicamente una de 
+las Bombas del Tanque frío a mínimas revoluciones. La línea de recirculación permite el retorno al 
+tanque frío de las sales que salen del último intercambiador a través de la válvula de control. 
+Adicionalmente, el sistema de recirculación posibilita la compensación de pérdidas de calor, haciendo 
+circular por los Intercambiadores una mínima cantidad de HTF previo calentamiento de HTF (caldera 
+o campo solar). Si no se dispone de HTF caliente, los calentadores eléctricos del Tanque frío 
+posibilitan compensar las pérdidas de energía térmica de las tuberías y del Tanque frío. 
+Existe la posibilidad de realizar la recirculación de tres de las bombas a mínimas revoluciones sobre 
+el tanque de sales frías durante la fusión inicial o en momentos de parada prolongada de la planta. 
+Para ello existen tres válvulas neumáticas de 6” pulgadas que permiten el retorno de la sal al tanque. 
+2.2.4 Sistema de drenaje 
+Se dispone de un Recipiente de Drenajes de 4,5 m3 situado en un foso a 2,75 m de altura bajo el 
+suelo, que recoge los drenajes de las tuberías y de los intercambiadores. El depósito estará provisto 
+de traceado eléctrico redundante con posibilidad de conexión simultánea. 
+El vaciado del recipiente de drenaje hacia el tanque de sales frías se hará mediante una bomba de 
+sales vertical. El volumen estimado de las tuberías e Intercambiadores a drenar (en caso de estar 
+llenos) es de 200 m3. 
+ 
+ 
+
+[page 11]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 11/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+El sistema de drenajes consta de las siguientes líneas principales: 
+ Para la entrada de sales de las tuberías e intercambiadores se dispone de dos líneas de 6” que 
+convergen en una línea de 8”. Las dos líneas de 6” disponen de una válvula motorizada de 
+igual tamaño que la línea. Los tres reboses de sales de 4” de las líneas de venteo también 
+convergen en la línea de 8”. 
+ Tubuladura de 6” para la impulsión de las sales hacia el tanque de sales frías. Las sales 
+impulsadas por la bomba recorrerán la línea de 6” a través de una válvula motorizada, entrando 
+en el tanque a través del techo. 
+ La línea de impulsión dispone de una línea de caudal mínimo de 4” que retorna al tanque de 
+drenaje. A su vez, existe otra línea de 4” que conecta en la parte baja del tanque, para el 
+vaciado de los restos de sales no bombeados y los posibles retornos sobre una bandeja de 0.05 
+m3 situada en el foso. En caso de rebose de la bandeja, el excedente sería contenido en el foso 
+en el que se encuentra el tanque de drenaje. 
+ Instrumentación. Para la medida de nivel se cuenta con redundancia, mediante tres 
+instrumentos tipo radar. 
+ 
+2.2.5 Sistema de Nitrógeno 
+Los objetivos del sistema son: 
+ Mantener inertizados los tanques de almacenamiento de sales para evitar que haya oxígeno 
+ante la eventualidad de que exista HTF en cualquiera de los tanques debido a una ruptura en 
+alguno de los tubos de los intercambiadores. 
+ Aporte de nitrógeno al sistema de intercambiadores de calor para inertizar y presurizar la línea. 
+ El aporte de N2 es necesario para compensar posibles fugas de N2 a través de las bombas y 
+evitar que este fugue a alta temperatura. 
+ 
+
+[page 12]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 12/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+El sistema de nitrógeno se compone de: 
+ Aporte de nitrógeno a Tanques de sales frías y calientes por las líneas. El control del caudal 
+introducido en los tanques lo realizan las correspondientes válvulas de control. También se 
+produce el trasvase de nitrógeno de un tanque a otro a través de un colector de unión entre 
+ambos. 
+ Aporte de nitrógeno a intercambiadores lado sales. La línea hace posible presurizar con 
+nitrógeno el sistema de intercambiadores, mediante la apertura de las válvulas motorizadas. 
+ Aporte de N2 a bombas de sales: La aportación de nitrógeno tiene lugar desde la línea, en 
+donde se dispone una válvula de aguja para una fina regulación. Desde esta línea salen las 
+correspondientes a cada bomba. En cada una de ellas se instala un rotámetro para el control 
+del caudal. 
+Condesados de HTF en línea de balanceo 
+Entre los dos tanques de almacenamiento se dispone una conexión a la línea de balanceo de nitrógeno 
+que conduce a una tubería vertical de 36” de diámetro y 2 metros de altura, fabricada en acero 
+inoxidable, que actúa como condensador de HTF en caso de producirse una fuga. Esta tubería no se 
+encuentra calorifugada, con el fin de favorecer la condensación del fluido, si bien dispone de 
+protección personal adecuada. Para la detección y supervisión del posible condensado, el sistema 
+cuenta con un sensor de nivel con standpipe, así como una mirilla instalada en el drenaje que permite 
+la inspección visual. 
+Asimismo, la instalación incorpora los elementos necesarios para su operación y mantenimiento, 
+incluyendo una válvula de seccionamiento que permite aislar la línea de balanceo, un venteo y una 
+boca de hombre que facilita el acceso al interior de la tubería. Cabe destacar que el tramo de conexión 
+desde la línea de balanceo se encuentra parcialmente aislado, manteniéndose sin calorifugar en su 
+sección final antes de la entrada al condensador, la cual también dispone de protección personal. 
+2.2.6 Sistema de fusión 
+La planta de fusión está formada por un horno para la fusión de sales y un tanque postfusión 
+intermedio entre el horno y el tanque de almacenamiento de sales frías. 
+Tanto el sistema de manejo de sales sólidas y alimentación al horno y el propio horno y tanque de 
+postfusión son instalaciones que se desmantelaran tras la puesta en marcha. 
+2.2.7 Traceado eléctrico sistema de almacenamiento 
+Todas las líneas de sales, así como las carcasas de los intercambiadores disponen de traceado eléctrico 
+mediante cable aislado mineral. El traceado de aquellos elementos requeridos para el vaciado del 
+sistema se alimentan del sistema eléctrico de emergencia. 
+El sistema de traceado será instalado para el precalentamiento y mantenimiento de temperatura del 
+sistema de sales incluyendo tuberías con sus codos, accesorios y soportes, válvulas y equipos. Para el 
+montaje del cable calefactor en tubería siempre se hará a 45º del eje y repartido en función de la 
+cantidad de cables necesarios, tal y como es posible ver en la siguiente imagen: 
+ 
+
+[page 13]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 13/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+Para el montaje del cable calefactor por el paso de curvas y codos hay que realizarlo por la parte 
+exterior tal y como se muestra a continuación: 
+ 
+En aras a mejorar la conducción térmica y evitar puntos fríos, se instalará un foil como recubrimiento 
+de todo el cable de traceado eléctrico. 
+Para el montaje del cable calefactor por el paso de soportes aislados es necesario tener en cuenta: 
+ Si el/los soporte/s van aislado/s; no será necesario incrementar el cable calefactor en este 
+punto. 
+ Si el/los soporte/s NO van aislado/s; donde si el diámetro de la tubería es ≥ 50 mm será 
+necesario incrementar el cable calefactor según se muestra en la siguiente imagen: 
+ 
+ 
+Nota: En el presente proyecto, los soportes de las líneas de sales están aislados con silicato. 
+Las válvulas presentan dos partes que pueden ser traceadas: 
+ El cuerpo de la válvula y el bonete: 
+ 
+Los instrumentos con traceado pueden tener: 
+ 
+ 
+ 
+
+[page 14]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 14/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+En ambos casos, se debe tener en cuenta los siguientes puntos: 
+ Que debe estar en contacto con el elemento a tracear. 
+ Que interfiera lo menos posible en una intervención de mantenimiento sobre este equipo. 
+ Dejando una distancia considerable entre los conductores y asegurando que en ningún 
+momento se crucen. 
+En los equipos el montaje del cable calefactor se distribuirá en hasta 2/3 partes de su altura como 
+mejor se considere según disposición: 
+Consideraciones para el sistema de traceado: 
+La solución que se propone para el sistema de traceado está compuesta por los siguientes elementos: 
+Cable calefactor de aislamiento mineral (MI): 
+Este tipo de cable se caracteriza por: 
+ Resistir temperaturas de diseño de hasta 600 ºC gracias a una cubierta de ALLOY que ofrece 
+una alta resistencia a temperaturas elevadas. 
+ Estar fabricado a medida para las condiciones específicas donde vaya a ir instalado (tensión, 
+longitud, resistencia, etc.). 
+ Soldadura manual. 
+ Estar hecho de los siguientes materiales: 
+o 1: El conductor es una aleación entre Cobre-Níquel. 
+o 2: Aislamiento de Oxido de Magnesio (MgO). 
+o 3: Chapa de Acero inoxidable: AISI 321. 
+ 
+
+[page 15]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 15/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+Tipo de Control en campo: 
+Para el control de temperatura se usan sondas PT-100 en campo (1 sonda por circuito eléctrico) 
+prolongada mediante convertidor 4-20mA hasta panel de potencia y control. No incluye los 
+cables de control desde caja de sonda hasta la caja de Modulo. 
+Panel de Potencia y Control: 
+Se han previsto 120 circuitos por tren y 300 kW. 
+ 
+2.2.8 Obra civil (a desarrollar por otros) 
+Las obras civiles contemplan principalmente: 
+ Cimentaciones de tanques e intercambiadores 
+ Torres de hormigón soporte estructura de bombas de sales 
+ Cubeto de sales 
+ Cubeto de aceite 
+ Foso de tanque de drenaje de sales 
+ Cimentación de racks de tuberías 
+ Viales y drenajes pluviales 
+ 
+
+[page 16]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 16/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+2.2.9 Estructuras metálicas 
+El proyecto contempla la ejecución de la estructura metálica requerida para la suportación de las 
+bombas de sales sobre los tanques, así como de todos sus equipos y alcance. Dicha estructura metálica 
+se apoyará sobre torres de hormigón que actuarán como elementos de soporte de la misma. 
+Asimismo, se incluyen otras estructuras metálicas correspondientes al rack de tuberías, 
+distinguiéndose dos tipologías: un rack convencional, con una distancia entre pórticos de 6 metros y 
+una altura de 3 metros, y un rack de cruce de carretera, en el que la distancia entre pórticos es de 12 
+metros y la altura es de 6 metros. Se adjuntan vistas de la estructura metálica prevista. 
+ 
+ 
+ 
+La pasarela que une las dos plataformas de soporte de las bombas de sales se ha definido como un 
+elemento estructural integrado en el conjunto de los castilletes, permitiendo tanto la inspección de los 
+equipos como el tránsito seguro entre ambas estructuras, separadas entre sí una distancia de 16 metros. 
+
+[page 17]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 17/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+Para su análisis se ha considerado dentro del modelo estructural de los soportes de las bombas, 
+desarrollándose su definición mediante una solución tipo celosía que optimiza el comportamiento 
+resistente y la rigidez del sistema. La pasarela dispone de un ancho de 4 metros, garantizando 
+condiciones adecuadas de operación, mantenimiento y accesibilidad entre los dos castilletes. 
+ 
+2.3 Lista de Equipos Principales del Sistema de almacenamiento 
+A continuación, se presenta la lista de equipos propuesto por Lointek para el suministro del sistema 
+de intercambio sales – aceite. 
+ 
+DESCRIPCIÓN DEL EQUIPO 
+Tanque de Almacenamiento Sales Frías 
+Tanque de Almacenamiento Sales Calientes 
+Bombas de Sales Frías 
+Bombas de Sales Calientes 
+Bomba de Drenaje de Sales 
+Calentadores Eléctricos en el Tanque Frío 
+Calentadores Eléctricos en el Tanque Caliente 
+Intercambiadores de Calor HTF/Sales 
+Recipiente de Drenajes de Sales 
+ 
+
+[page 18]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 18/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+2.4 Límites de batería 
+Los límites de batería del alcance de ingeniería son: 
+ Conexiones con el sistema de aceite térmico (aceite caliente y frío) 
+ Conexión con el sistema de nitrógeno 
+ Obra civil conexión de viales 
+ Conexión con el Sistema de Control de Planta (DCS) 
+ Conexión eléctrica (Pendiente definir por Atlántica) 
+ 
+
+[page 19]
+ 
+ 
+ATLANTICA 
+MEMORIA TÉCNICA 
+ 
+REV: 
+DIV: 
+ 
+01 
+ENER 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-TN-3000-00 
+DATE 
+Fecha: 27/04/2026 Pag 19/19 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+3 ANEXOS 
+ Diagramas de instrumentación y control 
+ Implantación 
+ Planificación del proyecto 
+ Lista de equipos mecánicos 
+ Lista de válvulas 
+ Lsta de instrumentos 
+ Cálculos de estructura metálica 
+ Lista de cargas eléctricas 
+ Recuentos de estructura 
+ Recuentos de tuberías

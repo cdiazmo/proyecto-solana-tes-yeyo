@@ -31,7 +31,7 @@
     "plan_tag": {
       "kind": "Grading / obra civil terreno",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:31:02.676291+00:00",
+      "tagged_at": "2026-06-08T18:41:16.607749+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -76,5 +76,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:31:02.676295+00:00"
+  "processed_at": "2026-06-08T18:41:16.607751+00:00"
 }

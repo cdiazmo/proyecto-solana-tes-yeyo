@@ -1,0 +1,33 @@
+{
+  "id": "a8980475ab20aa6a",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.6 Solicitud modificacion.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 140055,
+  "size_human": "137 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.5.6 Solicitud modificacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/a8980475ab20aa6a.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120612172730+02'00'",
+      "ModDate": "D:20120612172730+02'00'",
+      "Title": "5.7.5.4 Solicitud modificacion.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:21.991372+00:00"
+}

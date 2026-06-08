@@ -1,0 +1,16 @@
+[sheet Hoja1]
+400 V | 690V
+Solacor 1 | Solacor 2 | Solacor 1 | Solacor 2
+KW | KW | KW | KW
+Potencia instalada | N1BFA10 | 1723 | Potencia instalada | O1BFA10 | 1729 | Potencia instalada | N1BFA40 | 3340 | Potencia instalada | O1BFA40 | 3340
+N1BMA20 | 2091 | O1BMA20 | 1959 | N1BFA50 | 3689 | O1BFA50 | 3689
+Coef. Simult. 0,75 | Coef. Simult. 0,75 | Coef. Simult. 0,75 | Coef. Simult. 0,75
+Potencia consumida | N1BFA10 | 1292.25 | Potencia consumida | O1BFA10 | 1296.75 | Potencia consumida | N1BFA40 | 2505 | Potencia consumida | O1BFA40 | 2505
+N1BMA20 | 1568.25 | O1BMA20 | 1469.25 | N1BFA50 | 2766.75 | O1BFA50 | 2766.75
+Potencia Trafo. | N1BFT10 | 1700 | Potencia Trafo. | O1BFA10 | 1700 | Potencia Trafo. | N1BFA40 | 3000 | Potencia Trafo. | O1BFA40 | 3000
+N1BFT20 | 1700 | O1BMA20 | 1700 | N1BFA50 | 3000 | O1BFA50 | 3000
+Potencia sobrante | N1BFA10 | 407.75 | Potencia sobrante | O1BFA10 | 403.25 | Potencia sobrante | N1BFA40 | 495 | Potencia sobrante | O1BFA40 | 495
+N1BMA20 | 131.75 | O1BMA20 | 230.75 | N1BFA50 | 233.25 | O1BFA50 | 233.25
+Potencia requerida | 2701.21 | Potencia requerida | 2701.21 | Potencia requerida | 2701.21 | Potencia requerida | 2701.21
+KVA * Cos ᴓ | KW | KVA * Cos ᴓ | KW
+(2000 * 0,85) | 1700 | (4000 * 0,85) | 3000

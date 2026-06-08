@@ -1,0 +1,34 @@
+{
+  "id": "62aa5154abdf212f",
+  "path": "Helios Sole/Helios I/5.16 Obra civil/5.16.2 CDO OC HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 245274,
+  "size_human": "240 KB",
+  "mtime_iso": "2026-06-08T16:16:00.000Z",
+  "title": "5.16.2 CDO OC HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1968,
+  "token_estimate": 492,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/62aa5154abdf212f.json",
+  "extracted_path": ".yeyo-memory/extracted/62aa5154abdf212f.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20120518093805+02'00'",
+      "Subject": "",
+      "Author": "cgrpm",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Keywords": "",
+      "Producer": "GPL Ghostscript 8.70",
+      "ModDate": "D:20120518123112+02'00'",
+      "Title": "CDO OC HI"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:38:19.696335+00:00"
+}

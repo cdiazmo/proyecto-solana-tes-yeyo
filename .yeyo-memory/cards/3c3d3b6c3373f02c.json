@@ -1,0 +1,23 @@
+{
+  "id": "3c3d3b6c3373f02c",
+  "path": "Documentos en Servidor Atlántica/1950801-TN-3000-00-Rev.01-Memoria Técnica.docx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "docx",
+  "size_bytes": 2884099,
+  "size_human": "2.8 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-TN-3000-00-Rev.01-Memoria Técnica",
+  "doc_code": null,
+  "revision": "Rev.01",
+  "status": "ok",
+  "text_chars": 28544,
+  "token_estimate": 7136,
+  "chunks": 18,
+  "card_path": ".yeyo-memory/cards/3c3d3b6c3373f02c.json",
+  "extracted_path": ".yeyo-memory/extracted/3c3d3b6c3373f02c.txt",
+  "metadata": {
+    "paragraphs": 165,
+    "table_rows": 26
+  },
+  "processed_at": "2026-06-08T18:27:52.962404+00:00"
+}

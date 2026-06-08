@@ -1,0 +1,28 @@
+{
+  "id": "2209a97bfc430deb",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.1 Memoria de instalacion.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 169992,
+  "size_human": "166 KB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.7.1 Memoria de instalacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/2209a97bfc430deb.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20110606115355+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:22.059829+00:00"
+}

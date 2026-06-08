@@ -1,0 +1,39 @@
+{
+  "id": "f9eccb130291e82f",
+  "path": "Helios Sole/Helios II/5.8 N2/5.8.6 Acreditacion instalador.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 77547,
+  "size_human": "76 KB",
+  "mtime_iso": "2026-06-08T16:20:00.000Z",
+  "title": "5.8.6 Acreditacion instalador",
+  "doc_code": null,
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/f9eccb130291e82f.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120725135829+02'00'",
+      "ModDate": "D:20120725135829+02'00'",
+      "Title": "varios.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Isometrico de tuberia nitrogeno",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.985018+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:17.026152+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "39a1c1d817704248",
+  "path": "Helios Sole/Línea 15 kV/110526 BT Casetas de obra.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 2122607,
+  "size_human": "2.0 MB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "110526 BT Casetas de obra",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/39a1c1d817704248.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "ModDate": "D:20110607092201+02'00'",
+      "CreationDate": "D:20110607092200+02'00'",
+      "Producer": "ImageToPDF",
+      "Creator": "ImageToPDF"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:32.951309+00:00"
+}

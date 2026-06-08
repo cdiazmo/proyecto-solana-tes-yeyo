@@ -1,0 +1,28 @@
+{
+  "id": "17fc3e733057041c",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.11 Solicitud APM linea 15 kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 65619,
+  "size_human": "64 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.3.11 Solicitud APM linea 15 kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/17fc3e733057041c.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120221120841+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:38.864703+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "56918d8d7cd2878b",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.4 Certificado pruebas LSAT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 3007928,
+  "size_human": "2.9 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.1.4 Certificado pruebas LSAT",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 62063,
+  "token_estimate": 15515,
+  "chunks": 40,
+  "card_path": ".yeyo-memory/cards/56918d8d7cd2878b.json",
+  "extracted_path": ".yeyo-memory/extracted/56918d8d7cd2878b.txt",
+  "metadata": {
+    "pages": 44,
+    "pdf_metadata": {
+      "Creator": "pdftk 1.41 - www.pdftk.com",
+      "Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+      "ModDate": "D:20120119161918-01'00'",
+      "CreationDate": "D:20120119161918-01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:24.138331+00:00"
+}

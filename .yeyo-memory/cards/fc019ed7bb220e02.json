@@ -1,0 +1,28 @@
+{
+  "id": "fc019ed7bb220e02",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/120227 Solicitud baja instalaciones.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 43171,
+  "size_human": "42 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "120227 Solicitud baja instalaciones",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/fc019ed7bb220e02.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120227123218+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:49.125494+00:00"
+}

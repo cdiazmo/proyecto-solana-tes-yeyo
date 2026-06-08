@@ -1,0 +1,28 @@
+{
+  "id": "fc0741dbf8daa6fb",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.3 Cert Instalacion.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 118267,
+  "size_human": "115 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.4.3 Cert Instalacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/fc0741dbf8daa6fb.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120104180750+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:46.334240+00:00"
+}

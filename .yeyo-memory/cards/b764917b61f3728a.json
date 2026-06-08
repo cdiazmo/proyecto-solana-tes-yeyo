@@ -1,0 +1,31 @@
+{
+  "id": "b764917b61f3728a",
+  "path": "Helios Sole/SE Colectora/E87-15-3005-SE-022-000003 rev 01 Línea L2 Helios II.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 2622562,
+  "size_human": "2.5 MB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "E87-15-3005-SE-022-000003 rev 01 Línea L2 Helios II",
+  "doc_code": null,
+  "revision": "rev 01",
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b764917b61f3728a.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 44,
+    "pdf_metadata": {
+      "Author": "Admin",
+      "CreationDate": "D:20111003122302+02'00'",
+      "Creator": "PScript5.dll Version 5.2",
+      "ModDate": "D:20111005180149+02'00'",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "Title": "\\\\Central\\central_1\\TRABAJOS\\1697 HELIOS\\CONTROL SUB COLECTORA\\L_02 HELIOS II\\DESARROLLADOS\\2046-PLN-INA-23-22-0002-00.dwg Mode"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:49.684365+00:00"
+}

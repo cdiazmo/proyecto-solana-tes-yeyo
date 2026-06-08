@@ -1,0 +1,32 @@
+{
+  "id": "2c0bc7d7b67ad1d1",
+  "path": "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.2 CDO BT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 272321,
+  "size_human": "266 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "5.9.1.2 CDO BT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2247,
+  "token_estimate": 561,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/2c0bc7d7b67ad1d1.json",
+  "extracted_path": ".yeyo-memory/extracted/2c0bc7d7b67ad1d1.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20120417025012Z",
+      "Author": "cgaam",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20120419100732+02'00'",
+      "Title": ""
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:39:32.689459+00:00"
+}

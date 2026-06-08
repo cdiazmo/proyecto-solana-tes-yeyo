@@ -1,0 +1,31 @@
+{
+  "id": "943db98c723777bb",
+  "path": "Helios Sole/Helios I/3.3.5 DIA balsa.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 2978609,
+  "size_human": "2.8 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "3.3.5 DIA balsa",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/943db98c723777bb.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Creator": "Canon iR C5185",
+      "CreationDate": "D:20120607094457+01'00'",
+      "Author": "",
+      "Producer": "Canon iR C5185",
+      "Title": "",
+      "Subject": "Image"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:03.558687+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "04f7c857a7874491",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.7 Anexo erratas.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 231755,
+  "size_human": "226 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.2.7 Anexo erratas",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 28014,
+  "token_estimate": 7003,
+  "chunks": 18,
+  "card_path": ".yeyo-memory/cards/04f7c857a7874491.json",
+  "extracted_path": ".yeyo-memory/extracted/04f7c857a7874491.txt",
+  "metadata": {
+    "pages": 12,
+    "pdf_metadata": {
+      "CreationDate": "D:20120506120513+02'00'",
+      "Subject": "",
+      "Author": "Administrador",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Keywords": "",
+      "Producer": "StampPDF Batch 4.0.4 Windows SPDF_1096+ May 4 2004",
+      "ModDate": "D:20120509185023+02'00'",
+      "Title": "portada proyecto.cdr",
+      "SPDF": "1096"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:38:31.084557+00:00"
+}

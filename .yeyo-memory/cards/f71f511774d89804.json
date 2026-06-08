@@ -1,0 +1,31 @@
+{
+  "id": "f71f511774d89804",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260326/1950801-DOC-4190-00 Rev00  RECUENTO DE TUBERIA.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 221923,
+  "size_human": "217 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-DOC-4190-00 Rev00 RECUENTO DE TUBERIA",
+  "doc_code": null,
+  "revision": "Rev00",
+  "status": "ok",
+  "text_chars": 4631,
+  "token_estimate": 1157,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/f71f511774d89804.json",
+  "extracted_path": ".yeyo-memory/extracted/f71f511774d89804.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "asieraurrekoetxea",
+      "CreationDate": "D:20260326172823+01'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20260326172823+01'00'",
+      "Producer": "Acrobat Distiller 17.0 (Windows)",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:28.174247+00:00"
+}

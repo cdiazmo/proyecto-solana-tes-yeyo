@@ -1,0 +1,33 @@
+{
+  "id": "48305fe8e1183d58",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Plano 15 kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 13374780,
+  "size_human": "13 MB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "Plano 15 kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/48305fe8e1183d58.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20111205165126+01'00'",
+      "ModDate": "D:20111205165126+01'00'",
+      "Title": "Z:\\\\Promocion Proyectos\\\\Prom NP\\\\Helios 01-02 \\(Ciudad Real\\)\\\\Contratos\\\\Terrenos\\\\Contratos centrales\\\\Línea 15 kV\\\\111205 Línea 15 kV",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "slamp",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:51.950975+00:00"
+}

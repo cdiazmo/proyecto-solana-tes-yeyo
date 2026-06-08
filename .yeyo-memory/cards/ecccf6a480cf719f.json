@@ -1,0 +1,23 @@
+{
+  "id": "ecccf6a480cf719f",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.1 Proy AT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 75332764,
+  "size_human": "72 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.10.3.1 Proy AT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/ecccf6a480cf719f.json",
+  "extracted_path": null,
+  "metadata": {
+    "reason": "skipped_large_pdf_over_50_mb",
+    "size_bytes": 75332764
+  },
+  "processed_at": "2026-06-08T18:39:31.659490+00:00"
+}

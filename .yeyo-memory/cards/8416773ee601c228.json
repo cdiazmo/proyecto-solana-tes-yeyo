@@ -1,0 +1,35 @@
+{
+  "id": "8416773ee601c228",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260325/1950801-DOC-4170-05 Espec. Tuberia.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1063753,
+  "size_human": "1.0 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-DOC-4170-05 Espec. Tuberia",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 61601,
+  "token_estimate": 15400,
+  "chunks": 39,
+  "card_path": ".yeyo-memory/cards/8416773ee601c228.json",
+  "extracted_path": ".yeyo-memory/extracted/8416773ee601c228.txt",
+  "metadata": {
+    "pages": 34,
+    "pdf_metadata": {
+      "Author": "Begoña Egurbide",
+      "Company": "SENER",
+      "CreationDate": "D:20260324154246+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "Keywords": "",
+      "ModDate": "D:20260324154316+01'00'",
+      "Producer": "Adobe PDF Library 17.11.238",
+      "SourceModified": "D:20260324144224",
+      "Subject": "",
+      "Title": "Manual de Organización de ZABALGARBI"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:26.000041+00:00"
+}

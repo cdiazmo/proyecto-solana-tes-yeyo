@@ -1,0 +1,23 @@
+{
+  "id": "94d77c7d2b3c57bb",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.1 Proy BT HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 115953810,
+  "size_human": "111 MB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.9.1.1 Proy BT HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/94d77c7d2b3c57bb.json",
+  "extracted_path": null,
+  "metadata": {
+    "reason": "skipped_large_pdf_over_50_mb",
+    "size_bytes": 115953810
+  },
+  "processed_at": "2026-06-08T18:38:22.651008+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "853154a016261bc1",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.4 Cert OCA.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1444930,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.7.4 Cert OCA",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/853154a016261bc1.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Creator": "Canon iR C2380",
+      "CreationDate": "D:20120514115420+02'00'",
+      "Author": "",
+      "Producer": "Canon iR C2380",
+      "Title": "",
+      "Subject": "Image"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:13.532819+00:00"
+}

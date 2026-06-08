@@ -29,7 +29,7 @@
     "plan_tag": {
       "kind": "Permiso / plano sellado",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:51.686921+00:00",
+      "tagged_at": "2026-06-08T18:41:14.077521+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -113,5 +113,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:51.686926+00:00"
+  "processed_at": "2026-06-08T18:41:14.077523+00:00"
 }

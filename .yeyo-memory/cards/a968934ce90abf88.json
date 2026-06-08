@@ -1,0 +1,32 @@
+{
+  "id": "a968934ce90abf88",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.2 CDO SE Elevadora HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 273264,
+  "size_human": "267 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.4.2 CDO SE Elevadora HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3058,
+  "token_estimate": 764,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/a968934ce90abf88.json",
+  "extracted_path": ".yeyo-memory/extracted/a968934ce90abf88.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20111229023217Z",
+      "Author": "cgaam",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20111229162407+01'00'",
+      "Title": ""
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:32:46.300881+00:00"
+}

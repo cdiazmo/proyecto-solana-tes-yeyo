@@ -1,0 +1,115 @@
+[sheet AVANCE ]
+OBRA | TOTAL DOCUMENTOS | APROBADOS | AC | PTE respuesta HALDOR | PTE 1ª EMISION LOINTEK | TOTAL
+0
+% avance
+Docs. TOTALES s/VDL | 0
+Docs. PTE. emisión LOI | 0 | #DIV/0!
+Docs. Aprobados (A) | 0 | #DIV/0!
+Docs. PTE. respuesta LOI (AC) | 0 | #DIV/0!
+Docs. PTE. respuesta HALDOR | 0 | #DIV/0!
+Total | 0 | #DIV/0!
+
+[sheet Vendor Document List]
+SOLARCOR I&II TES SYSTEM CORDOBA (SPAIN) | 1950801-LIS-0020-00
+ATLANTICA YIELD | REVISION | 1
+SISTEMA DE ALMACENAMIENTO TÉRMICO ACEITE SALES | DATE | 2026-04-27 00:00:00
+N. | Document Title | Vendor Document Number | SUBMISSION DATE | STATUS | LATEST REVISION | REVISIONS | REVISIONS | REVISONS | REVISONS | REVISONS | REVISONS | REVISONS | REVISONS | REVISONS
+REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS | REVISION | Date of Submission | Date Client Comments | STATUS
+1 | Lista de documentos | 1950801-LIS-0020-00 | 2026-03-25 00:00:00 | Para Información | 1 | 2026-04-16 00:00:00 | Para Información | 0 | 2026-03-25 00:00:00 | Para Información
+2 | Memoria técnica de la instalación | 1950801-TN-3000-00 | 2026-04-01 00:00:00 | Para Información | 1 | 2026-04-27 00:00:00 | Para Información | 0 | 2026-04-01 00:00:00 | 2026-04-06 00:00:00 | Para Información
+3 | Balances Másicos Energéticos | 1950801-CAL-0550-25 | 2026-03-24 00:00:00 | Para Información | 1 | 2026-04-16 00:00:00 | Para Información | 0 | 2026-03-24 00:00:00 | Para Información
+4 | Calculo Estructural estructura plataforma soporte bombas de sales | 1950801-INF-6001-00 | 2026-03-24 00:00:00 | Para Información | 0 | 2026-03-24 00:00:00 | 2026-04-06 00:00:00 | Para Información
+5 | PIDs | 1950801-PID-3030-00 | 2026-03-24 00:00:00 | Para Información | 1 | 2026-04-16 00:00:00 | Para Información | 0 | 2026-03-24 00:00:00 | 27/03/2026 - 06/04/2026 | Para Información
+6 | Puntos de interconexión ATLANTICA - LOINTEK | E87-15-3020-FT-026-000002-5 P&ID | 2026-04-14 00:00:00 | Para Información | 0 | 2026-04-16 00:00:00 | Para Información
+7 | Programa de Puntos de Inspección (PPI) | 1950801-PPI-001 | 2026-04-01 00:00:00 | Para Información | 0 | 2026-04-01 00:00:00 | Para Información
+8 | Planificación del Proyecto | 1950801-PLN-0040-00 | 2026-03-24 00:00:00 | Para Información | 0 | 2026-03-24 00:00:00 | Para Información
+9 | Lista de equipos | 1950801-LIS-3010-00 | 2026-03-24 00:00:00 | Para Información | 0 | 2026-03-24 00:00:00 | Para Información
+10 | Lista de cargas eléctricas | 1950801-LIS-6500-00 | 2026-03-24 00:00:00 | Para Información | 1 | 2026-04-27 00:00:00 | Para Información | 0 | 2026-03-24 00:00:00 | Para Información
+11 | Lista de instrumentos | 1950801-LIS-6000-00 | 2026-04-01 00:00:00 | Para Información | 1 | 2026-04-16 00:00:00 | Para Información | 0 | 2026-04-01 00:00:00 | Para Información
+12 | Lista de valvulas | 1950801-LIS-3660-00 | 2026-04-01 00:00:00 | Para Información | 1 | 2026-04-16 00:00:00 | Para Información | 0 | 2026-04-01 00:00:00 | Para Información
+13 | Especificación de tuberias | 1950801-DOC-4170-05 | 2026-03-24 00:00:00 | Para Información | 0 | 2026-03-24 00:00:00 | Para Información
+14 | Recuento de tuberias | 1950801-DOC-4190-00 | 2026-03-25 00:00:00 | Para Información | 0 | 2026-03-25 00:00:00 | Para Información
+15 | Recuento de estructura | 1950801-DOC-4130-00 | 2026-03-25 00:00:00 | Para Información | 0 | 2026-03-25 00:00:00 | Para Información
+16 | Planos de implantación | 1950801-DWG-1000-00 | 2026-03-25 00:00:00 | Para Información | 0 | 2026-03-25 00:00:00 | Para Información
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98

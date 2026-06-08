@@ -1,0 +1,383 @@
+[page 1]
+ 
+ 
+ 
+ATLANTICA 
+Planificación del Proyecto 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-PLN-0040-00 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 1/1 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+Planificación del Proyecto 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-PLN-0040-00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 24/03/2026 INITIAL ISSUE E.S.G. U.O.A. D.S.Z. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+Id Nombre de tarea Com Fin
+1 1 PLANTA HELIOS 1 vie 01/01/27 mié 01/11/28
+2 1.1 HITOS DE PROYECTO vie 01/01/27 jue 19/10/28
+11 1.2 INGENIERIA BASICA SISTEMA DE INTERCAMBIO ACEITE SALES vie 08/01/27 mié 26/07/28
+12 1.2.1 DIRECCIÓN DE PROYECTO vie 08/01/27 jue 11/02/27
+17 1.2.2 INGENIERIA TERMICA lun 11/01/27 mié 26/07/28
+26 1.2.3 INGENIERIA MECANICA vie 15/01/27 mar 25/05/27
+41 1.2.4 INGENIERIA DE IMPLANTACION vie 15/01/27 mar 02/11/27
+75 1.2.5 INGENIERIA PROCESO vie 15/01/27 lun 02/08/27
+87 1.2.6 INGENIERÍA DE ELECTRICIDAD E I&C mié 10/02/27 jue 08/07/27
+96 1.2.7 INGENIERIA DE PEM mar 29/02/28 mié 14/06/28
+102 1.3 LEGALIZACIONES mié 14/04/27 jue 01/06/28
+106 1.4 COMPRAS SUMINISTROS vie 08/01/27 mié 07/06/28
+179 1.5 FABRICACION lun 15/02/27 mar 22/02/28
+180 1.5.1 EQUIPOS SISTEMA INTERCAMBIO ACEITE SALES lun 15/02/27 mar 22/02/28
+181 1.5.1.1 INTERCAMBIADORES DE ACEITE SALES lun 03/05/27 mar 22/02/28
+182 1.5.1.1.1 Fabricacion equipo HEX-1 lun 03/05/27 mar 14/12/27
+191 1.5.1.1.2 Fabricacion equipo HEX-2 lun 17/05/27 mar 28/12/27
+200 1.5.1.1.3 Fabricacion equipo HEX-3 lun 31/05/27 mar 11/01/28
+209 1.5.1.1.4 Fabricacion equipo HEX-4 lun 14/06/27 mar 25/01/28
+01/11
+19/10
+26/07
+11/02
+26/07
+25/05
+02/11
+02/08
+2 08/07
+29/02 14/06
+14/04 01/06
+07/06
+02 22/02
+02 22/02
+03/05 22/02
+03/05 14/12
+17/05 28/12
+31/05 11/01
+14/06 25/01
+Semestre 1, 2027Semestre 2, 2027Semestre 1, 2028Semestre 2, 2028Semestre 1, 2029S
+Cliente: Atlantica Yield
+Ref Oferta: 1950801
+SISTEMA DE INTERCAMBIO ACEITE SALES
+PLANTA TERMOSOLAR HELIOS I y II
+mar 24/03/26
+Página 1 de 7 
+
+[page 3]
+Id Nombre de tarea Com Fin
+218 1.5.1.1.5 Fabricacion equipo HEX-5 lun 28/06/27 mar 08/02/28
+227 1.5.1.1.6 Fabricacion equipo HEX-6 lun 12/07/27 mar 22/02/28
+236 1.5.1.2 TANQUE DE DRENAJE DE SALES lun 15/02/27 mar 24/08/27
+241 1.5.2 SUMINISTRO Y PREFABRICACION TUBERIA, SOPORTES TUBERIA mar 10/08/27 mié 09/02/28
+252 1.5.3 ESTRUCTURA SOPORTE, RACKS Y PLATAFORMAS Y ESCALERAS DE ACCESO jue 08/04/27 mié 27/10/27
+259 1.6 TANQUES DE SALES vie 01/01/27 mié 14/06/28
+260 1.6.1 Adjudicacion Pedido vie 01/01/27 vie 01/01/27
+261 1.6.2 Ingenieria vie 01/01/27 jue 17/06/27
+265 1.6.3 Compras vie 26/03/27 jue 24/06/27
+268 1.6.4 Fabricacion vie 02/04/27 jue 16/09/27
+271 1.6.5 TK Tanques Sales Frias jue 08/07/27 mar 18/04/28
+332 1.6.6 TK Tanque Sales Calientes jue 05/08/27 lun 15/05/28
+393 1.6.7 Proceso de Sales Fundidas mar 16/05/28 mié 14/06/28
+396 1.7 MONTAJE jue 29/04/27 mié 13/09/28
+397 1.7.1 MONTAJE EN OBRA jue 29/04/27 mié 13/09/28
+398 1.7.1.1 Implantación Personal en obra Lointek jue 29/04/27 jue 31/08/28
+399 1.7.1.1.1 Direccion de Obra jue 29/04/27 jue 29/04/27
+400 1.7.1.1.2 Responsable Calidad jue 29/04/27 jue 29/04/27
+401 1.7.1.1.3 Seguridad e Higiene jue 29/04/27 jue 29/04/27
+28/06 08/02
+12/07 22/02
+02 24/08
+10/08 09/02
+08/04 27/10
+14/06
+01/01
+17/06
+26/03 24/06
+02/04 16/09
+08/07 18/04
+05/08 15/05
+16/05 14/06
+29/04 13/09
+29/04 13/09
+29/04 31/08
+29/04
+29/04
+29/04
+Semestre 1, 2027Semestre 2, 2027Semestre 1, 2028Semestre 2, 2028Semestre 1, 2029S
+Cliente: Atlantica Yield
+Ref Oferta: 1950801
+SISTEMA DE INTERCAMBIO ACEITE SALES
+PLANTA TERMOSOLAR HELIOS I y II
+mar 24/03/26
+Página 2 de 7 
+
+[page 4]
+Id Nombre de tarea Com Fin
+402 1.7.1.1.4 Documentalista jue 29/04/27 jue 29/04/27
+403 1.7.1.1.5 Supervisor Obra Civil jue 29/04/27 jue 29/04/27
+404 1.7.1.1.6 Supervisor tanques jue 29/04/27 jue 29/04/27
+405 1.7.1.1.7 Supervisor BOP vie 28/04/28 vie 28/04/28
+406 1.7.1.1.8 Supervisor I&C vie 28/04/28 vie 28/04/28
+407 1.7.1.1.9 Puesta en Marcha jue 31/08/28 jue 31/08/28
+408 1.7.1.1.10 Ayudantes PEM jue 31/08/28 jue 31/08/28
+409 1.7.1.2 Obra Civil jue 13/05/27 jue 28/10/27
+412 1.7.1.3 Estructura y Accesos vie 29/10/27 jue 11/05/28
+426 1.7.1.4 Piping y Valvuleria vie 12/05/28 lun 11/09/28
+438 1.7.1.5 Instrumentacion y Control vie 12/05/28 jue 07/09/28
+442 1.7.1.6 HandOver planta a Commissioning vie 08/09/28 mié 13/09/28
+443 1.8 PUESTA EN MARCHA jue 14/09/28 mié 01/11/28
+444 1.8.1 Cold Commissioning jue 14/09/28 mié 11/10/28
+452 1.8.2 Hot Commissioning jue 14/09/28 mié 01/11/28
+465 1.8.3 RECEPCION PROVISIONAL jue 19/10/28 jue 19/10/28
+467 2 PLANTA HELIOS 2 vie 01/01/27 jue 22/03/29
+468 2.1 FABRICACION lun 28/06/27 mar 18/04/28
+469 2.1.1 EQUIPOS SISTEMA INTERCAMBIO ACEITE SALES lun 28/06/27 mar 18/04/28
+29/04
+29/04
+29/04
+28/04
+28/04
+31/08
+31/08
+13/05 28/10
+29/10 11/05
+12/05 11/09
+12/05 07/09
+14/09 01/11
+14/09 11/10
+14/09 01/11
+19/10
+22/03
+28/06 18/04
+28/06 18/04
+Semestre 1, 2027Semestre 2, 2027Semestre 1, 2028Semestre 2, 2028Semestre 1, 2029S
+Cliente: Atlantica Yield
+Ref Oferta: 1950801
+SISTEMA DE INTERCAMBIO ACEITE SALES
+PLANTA TERMOSOLAR HELIOS I y II
+mar 24/03/26
+Página 3 de 7 
+
+[page 5]
+Id Nombre de tarea Com Fin
+470 2.1.1.1 INTERCAMBIADORES DE ACEITE SALES lun 28/06/27 mar 18/04/28
+471 2.1.1.1.1 Fabricacion equipo HEX-1 lun 28/06/27 mar 08/02/28
+480 2.1.1.1.2 Fabricacion equipo HEX-2 lun 12/07/27 mar 22/02/28
+489 2.1.1.1.3 Fabricacion equipo HEX-3 lun 26/07/27 mar 07/03/28
+498 2.1.1.1.4 Fabricacion equipo HEX-4 lun 09/08/27 mar 21/03/28
+507 2.1.1.1.5 Fabricacion equipo HEX-5 lun 23/08/27 mar 04/04/28
+516 2.1.1.1.6 Fabricacion equipo HEX-6 lun 06/09/27 mar 18/04/28
+525 2.1.1.2 TANQUE DE DRENAJE DE SALES lun 20/09/27 mar 08/02/28
+528 2.1.2 SUMINISTRO Y PREFABRICACION TUBERIA, SOPORTES TUBERIA jue 22/07/27 mié 05/04/28
+539 2.1.3 ESTRUCTURA SOPORTE, RACKS Y PLATAFORMAS Y ESCALERAS DE ACCESO jue 01/07/27 mié 22/12/27
+540 2.1.3.1 PREFABRICACION Estructura y plataforma (Opcional) ver 277 jue 01/07/27 vie 17/12/27
+543 2.1.3.2 Transporte lun 20/12/27 mié 22/12/27
+544 2.2 MONTAJE vie 01/01/27 jue 22/03/29
+545 2.2.1 MONTAJE EN OBRA vie 01/01/27 mié 14/02/29
+546 2.2.1.1 Implantación Personal en obra Lointek vie 10/12/27 jue 07/12/28
+547 2.2.1.1.1 Direccion de Obra vie 10/12/27 vie 10/12/27
+548 2.2.1.1.2 Responsable Calidad vie 10/12/27 vie 10/12/27
+549 2.2.1.1.3 Seguridad e Higiene vie 10/12/27 vie 10/12/27
+550 2.2.1.1.4 Documentalista vie 10/12/27 vie 10/12/27
+28/06 18/04
+28/06 08/02
+12/07 22/02
+26/07 07/03
+09/08 21/03
+23/08 04/04
+06/09 18/04
+20/09 08/02
+22/07 05/04
+01/07 22/12
+01/07 17/12
+22/03
+14/02
+10/12 07/12
+10/12
+10/12
+10/12
+10/12
+Semestre 1, 2027Semestre 2, 2027Semestre 1, 2028Semestre 2, 2028Semestre 1, 2029S
+Cliente: Atlantica Yield
+Ref Oferta: 1950801
+SISTEMA DE INTERCAMBIO ACEITE SALES
+PLANTA TERMOSOLAR HELIOS I y II
+mar 24/03/26
+Página 4 de 7 
+
+[page 6]
+Id Nombre de tarea Com Fin
+551 2.2.1.1.5 Supervisor Obra Civil vie 10/12/27 vie 10/12/27
+552 2.2.1.1.6 Supervisor tanques vie 10/12/27 vie 10/12/27
+553 2.2.1.1.7 Supervisor BOP vie 29/09/28 vie 29/09/28
+554 2.2.1.1.8 Supervisor I&C vie 29/09/28 vie 29/09/28
+555 2.2.1.1.9 Puesta en Marcha jue 07/12/28 jue 07/12/28
+556 2.2.1.1.10 Ayudantes PEM jue 07/12/28 jue 07/12/28
+557 2.2.1.2 Obra Civil vie 24/12/27 jue 30/03/28
+560 2.2.1.3 Estructura y Accesos mié 16/02/28 jue 12/10/28
+574 2.2.1.4 Piping y Valvuleria vie 13/10/28 lun 12/02/29
+586 2.2.1.5 Instrumentacion y Control vie 13/10/28 jue 08/02/29
+590 2.2.1.6 HandOver planta a Commissioning vie 09/02/29 mié 14/02/29
+591 2.2.1.7 TANQUES DE SALES vie 01/01/27 mié 29/11/28
+592 2.2.1.7.1 Adjudicacion Pedido vie 01/01/27 vie 01/01/27
+593 2.2.1.7.2 Prefabricacion vie 15/10/27 jue 17/02/28
+596 2.2.1.7.3 TK Tanques Sales Frias jue 09/12/27 jue 07/09/28
+657 2.2.1.7.4 TK Tanque Sales Calientes jue 20/01/28 lun 30/10/28
+718 2.2.1.7.5 Proceso de Sales Fundidas mar 31/10/28 mié 29/11/28
+721 2.2.2 PUESTA EN MARCHA jue 21/12/28 jue 22/03/29
+722 2.2.2.1 Cold Commissioning jue 21/12/28 mié 17/01/29
+10/12
+10/12
+29/09
+29/09
+07/12
+07/12
+24/12 30/03
+16/02 12/10
+13/10 12/02
+13/10 08/02
+29/11
+01/01
+15/10 17/02
+09/12 07/09
+20/01 30/10
+31/10 29/11
+21/12 22/03
+21/12 17/01
+Semestre 1, 2027Semestre 2, 2027Semestre 1, 2028Semestre 2, 2028Semestre 1, 2029S
+Cliente: Atlantica Yield
+Ref Oferta: 1950801
+SISTEMA DE INTERCAMBIO ACEITE SALES
+PLANTA TERMOSOLAR HELIOS I y II
+mar 24/03/26
+Página 5 de 7 
+
+[page 7]
+Id Nombre de tarea Com Fin
+723 2.2.2.1.1 Calibracion Instrumentacion y cableado jue 21/12/28 mié 17/01/29
+727 2.2.2.1.2 Equipo listo para recibir HTF y SALES mié 17/01/29 mié 17/01/29
+730 2.2.2.2 Hot Commissioning jue 18/01/29 jue 22/03/29
+731 2.2.2.2.1 Llenado HTF y Sales jue 18/01/29 vie 16/02/29
+735 2.2.2.2.2 Pruebas de seguridades y Funcionales lun 19/02/29 mié 07/03/29
+741 2.2.2.2.3 Pruebas de performance del sistema jue 08/03/29 jue 22/03/29
+744 2.2.3 RECEPCION PROVISIONAL jue 22/03/29 jue 22/03/29
+745 2.2.3.1 Recepcion provisional jue 22/03/29 jue 22/03/29
+21/12 17/01
+17/01
+18/01 22/03
+18/01 16/02
+19/02 07/03
+08/03 22/03
+22/03
+22/03
+Semestre 1, 2027Semestre 2, 2027Semestre 1, 2028Semestre 2, 2028Semestre 1, 2029S
+Cliente: Atlantica Yield
+Ref Oferta: 1950801
+SISTEMA DE INTERCAMBIO ACEITE SALES
+PLANTA TERMOSOLAR HELIOS I y II
+mar 24/03/26
+Página 6 de 7 
+
+[page 8]
+Tarea
+Linea base
+Hito
+Hito linea base
+Resumen
+Resumen linea base
+Hito inactivo
+Resumen inactivo
+Tarea manual
+solo duración
+Informe de resumen manual
+Resumen manual
+solo el comienzo
+solo fin
+Tareas externas
+Hito externo
+Progreso
+Cliente: Atlantica Yield
+Ref Oferta: 1950801
+SISTEMA DE INTERCAMBIO ACEITE SALES
+PLANTA TERMOSOLAR HELIOS I y II
+mar 24/03/26
+Página 7 de 7

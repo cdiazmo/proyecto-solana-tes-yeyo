@@ -1,0 +1,37 @@
+{
+  "id": "45124712d4f16bd8",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/05 Cimentacion Kaxu/0328-PLN-ARS-75-52-0003_Rev07 Details Detail.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1455943,
+  "size_human": "1.4 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "0328-PLN-ARS-75-52-0003 Rev07 Details Detail",
+  "doc_code": "0328-PLN-ARS-75-52-",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/45124712d4f16bd8.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "tedab",
+      "CreationDate": "D:20130514084357+02'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20200915141744+02'00'",
+      "Producer": "Acrobat Distiller 10.1.5 (Windows)",
+      "Title": "C:\\Users\\tedab\\Desktop\\2013.05.14 Revisión TES Cubeto\\0328-PLN-ARS-75-52-0003_Rev07 Details Detail (1)"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.817821+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.859328+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "420f0b70800db147",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.3 CIBT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 140762,
+  "size_human": "137 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.7.3 CIBT",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/420f0b70800db147.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120528173144+02'00'",
+      "ModDate": "D:20120528173144+02'00'",
+      "Title": "~2114677.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:13.492704+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0bb5613fd5e6bf11",
+  "path": "Planos Solana/Tanks/MERGE.pdf",
+  "top_dir": "Planos Solana",
+  "ext": "pdf",
+  "size_bytes": 7960841,
+  "size_human": "7.6 MB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "MERGE",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 6294,
+  "token_estimate": 1573,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/0bb5613fd5e6bf11.json",
+  "extracted_path": ".yeyo-memory/extracted/0bb5613fd5e6bf11.txt",
+  "metadata": {
+    "pages": 18,
+    "pdf_metadata": {
+      "CreationDate": "D:20260529121432+02'00'",
+      "Creator": "Online2PDF.com",
+      "ModDate": "D:20260529125207+02'00'",
+      "Producer": "Online2PDF.com"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Tanque / drain back tank",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.195142+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.195144+00:00"
+}

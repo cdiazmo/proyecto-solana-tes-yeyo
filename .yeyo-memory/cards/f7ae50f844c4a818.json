@@ -1,0 +1,30 @@
+{
+  "id": "f7ae50f844c4a818",
+  "path": "Documentos en Servidor Atlántica/1950801-PID-3030-00 Rev.01.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 2603993,
+  "size_human": "2.5 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-PID-3030-00 Rev.01",
+  "doc_code": null,
+  "revision": "Rev.01",
+  "status": "ok",
+  "text_chars": 7373,
+  "token_estimate": 1843,
+  "chunks": 5,
+  "card_path": ".yeyo-memory/cards/f7ae50f844c4a818.json",
+  "extracted_path": ".yeyo-memory/extracted/f7ae50f844c4a818.txt",
+  "metadata": {
+    "pages": 7,
+    "pdf_metadata": {
+      "CreationDate": "D:20260416151050+02'00'",
+      "Creator": "AutoCAD 2024 - Español (Spanish) 2024 (24.3s (LMS Tech))",
+      "ModDate": "D:20260416151050+02'00'",
+      "Producer": "pdfplot16.hdi 16.03.171.00000",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:27:52.432832+00:00"
+}

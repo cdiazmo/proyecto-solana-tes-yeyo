@@ -1,0 +1,30 @@
+{
+  "id": "996a78ee46bb3d97",
+  "path": "Helios Sole/SE Colectora/120117 Helios I Línea 15 kV suministro auxiliar.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 256036,
+  "size_human": "250 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "120117 Helios I Línea 15 kV suministro auxiliar",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/996a78ee46bb3d97.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Title": "Nuance Communications, Inc.",
+      "Author": "Eva María Ruiz Sánchez",
+      "Keywords": "None",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:34.635584+00:00"
+}

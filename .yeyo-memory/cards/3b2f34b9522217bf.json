@@ -1,0 +1,35 @@
+{
+  "id": "3b2f34b9522217bf",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-LIS-0020-00-Portada_Lista_Documentos.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 382940,
+  "size_human": "374 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-0020-00-Portada Lista Documentos",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2419,
+  "token_estimate": 604,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/3b2f34b9522217bf.json",
+  "extracted_path": ".yeyo-memory/extracted/3b2f34b9522217bf.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "Begoña Egurbide",
+      "Company": "SENER",
+      "CreationDate": "D:20260326172550+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "Keywords": "",
+      "ModDate": "D:20260326172607+01'00'",
+      "Producer": "Adobe PDF Library 17.11.238",
+      "SourceModified": "D:20260325132031",
+      "Subject": "",
+      "Title": "Manual de Organización de ZABALGARBI"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:29:22.436010+00:00"
+}

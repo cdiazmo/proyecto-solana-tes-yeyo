@@ -1,0 +1,35 @@
+{
+  "id": "6ccd70648298aa92",
+  "path": "Documentos en Servidor Atlántica/1950801-CAL-0550-25 H&MB Rev.01.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 454132,
+  "size_human": "443 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-CAL-0550-25 H&MB Rev.01",
+  "doc_code": null,
+  "revision": "Rev.01",
+  "status": "ok",
+  "text_chars": 5316,
+  "token_estimate": 1329,
+  "chunks": 4,
+  "card_path": ".yeyo-memory/cards/6ccd70648298aa92.json",
+  "extracted_path": ".yeyo-memory/extracted/6ccd70648298aa92.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "Begoña Egurbide",
+      "Company": "SENER",
+      "CreationDate": "D:20260416154024+02'00'",
+      "Creator": "Acrobat PDFMaker 17 para Word",
+      "Keywords": "",
+      "ModDate": "D:20260416154104+02'00'",
+      "Producer": "Adobe PDF Library 17.11.238",
+      "SourceModified": "D:20260416134013",
+      "Subject": "",
+      "Title": "Manual de Organización de ZABALGARBI"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:27:40.834486+00:00"
+}

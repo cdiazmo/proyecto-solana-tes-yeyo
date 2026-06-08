@@ -1,0 +1,37 @@
+{
+  "id": "85e039634473ec93",
+  "path": "Planos Solana/Foundations/4521-PLN-PRT-39-52-0008.pdf",
+  "top_dir": "Planos Solana",
+  "ext": "pdf",
+  "size_bytes": 816579,
+  "size_human": "797 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "4521-PLN-PRT-39-52-0008",
+  "doc_code": "4521-PLN-PRT-39-52-0008",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/85e039634473ec93.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "sxia",
+      "CreationDate": "D:20110323132742Z",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20110323160615-05'00'",
+      "Producer": "GPL Ghostscript 8.15",
+      "Title": "C:\\Documents and Settings\\sxia\\Desktop\\sandra xia\\project\\2009\\PRT0090217\\2011-02-07 PRTs CAD Drawings_Modified on 2011-03-21\\N"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:15.912432+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:15.950858+00:00"
+}

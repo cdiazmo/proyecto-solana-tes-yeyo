@@ -32,7 +32,7 @@
     "plan_tag": {
       "kind": "Plano instrumentacion/control",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:55.095783+00:00",
+      "tagged_at": "2026-06-08T18:41:14.902046+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -64,5 +64,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:55.095786+00:00"
+  "processed_at": "2026-06-08T18:41:14.902049+00:00"
 }

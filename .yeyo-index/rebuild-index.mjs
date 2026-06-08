@@ -5,7 +5,25 @@ const ROOT = process.cwd();
 const OUT = path.join(ROOT, '.yeyo-index');
 const TOP_OUT = path.join(OUT, 'top-level');
 
-const IGNORED_DIRS = new Set(['.git', '.yeyo-index', '.yeyo-memory', 'node_modules']);
+const IGNORED_DIRS = new Set([
+  '.git',
+  '.venv',
+  '.venv312',
+  '.yeyo-agents',
+  '.yeyo-index',
+  '.yeyo-memory',
+  'knowledge-base-rag',
+  'node_modules',
+  '__pycache__',
+]);
+
+const IGNORED_FILES = new Set([
+  '.DS_Store',
+  '.gitignore',
+  'AGENTS.md',
+  'PROPUESTA-SISTEMA-MULTIAGENTE.md',
+  'indice-documental.html',
+]);
 
 function humanSize(bytes) {
   const units = ['B', 'KB', 'MB', 'GB', 'TB'];
@@ -41,6 +59,7 @@ async function walk(dir, relBase = '') {
       continue;
     }
     if (!entry.isFile()) continue;
+    if (relBase === '' && IGNORED_FILES.has(entry.name)) continue;
     const relPath = path.join(relBase, entry.name);
     const fullPath = path.join(dir, entry.name);
     const stat = await fs.stat(fullPath);

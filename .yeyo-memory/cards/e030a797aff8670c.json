@@ -1,0 +1,31 @@
+{
+  "id": "e030a797aff8670c",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.1 Proyecto visado.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 9278665,
+  "size_human": "8.8 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.3.1 Proyecto visado",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 197333,
+  "token_estimate": 49333,
+  "chunks": 125,
+  "card_path": ".yeyo-memory/cards/e030a797aff8670c.json",
+  "extracted_path": ".yeyo-memory/extracted/e030a797aff8670c.txt",
+  "metadata": {
+    "pages": 121,
+    "pdf_metadata": {
+      "Title": "Microsoft Word - proyecto LAAT 15 kV 04_01_2012 emb 1.doc",
+      "Author": "gljmb",
+      "Producer": "Nitro PDF PrimoPDF; modified using iTextSharp 4.1.6 by 1T3XT",
+      "Creator": "PrimoPDF http://www.primopdf.com",
+      "ModDate": "D:20120113101907+01'00'",
+      "CreationDate": "D:20120104170734-01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:27.768946+00:00"
+}

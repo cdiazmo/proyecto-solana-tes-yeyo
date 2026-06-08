@@ -1,0 +1,30 @@
+{
+  "id": "d87421594379014f",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.1 Proyecto.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 5887210,
+  "size_human": "5.6 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.2.1 Proyecto",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1060086,
+  "token_estimate": 265021,
+  "chunks": 671,
+  "card_path": ".yeyo-memory/cards/d87421594379014f.json",
+  "extracted_path": ".yeyo-memory/extracted/d87421594379014f.txt",
+  "metadata": {
+    "pages": 138,
+    "pdf_metadata": {
+      "CreationDate": "D:20120319113800Z",
+      "Creator": "UnknownApplication",
+      "ModDate": "D:20120319124438+01'00'",
+      "Producer": "GPL Ghostscript 8.56",
+      "Title": "Untitled"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:30.734775+00:00"
+}

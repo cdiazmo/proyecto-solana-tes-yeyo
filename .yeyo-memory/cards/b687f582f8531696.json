@@ -1,0 +1,33 @@
+{
+  "id": "b687f582f8531696",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/130215 Rm_ Cambio titularidad UF.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 124509,
+  "size_human": "122 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "130215 Rm Cambio titularidad UF",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 29726,
+  "token_estimate": 7431,
+  "chunks": 19,
+  "card_path": ".yeyo-memory/cards/b687f582f8531696.json",
+  "extracted_path": ".yeyo-memory/extracted/b687f582f8531696.txt",
+  "metadata": {
+    "pages": 14,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20130308122605+01'00'",
+      "ModDate": "D:20130308122605+01'00'",
+      "Title": "130215 Rm: Cambio titularidad",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "slamp",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:49.194060+00:00"
+}

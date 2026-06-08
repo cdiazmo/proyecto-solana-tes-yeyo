@@ -1,0 +1,28 @@
+{
+  "id": "620500fef184d07a",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/110414175639_0001 Plano Abener.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 190489,
+  "size_human": "186 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "110414175639 0001 Plano Abener",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/620500fef184d07a.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20110414175639+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:47.190752+00:00"
+}

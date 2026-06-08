@@ -1,0 +1,23 @@
+{
+  "id": "b2dc4625c4ce87b9",
+  "path": "Helios Sole/Helios II/5.16 Obra civil/5.16.1 Proy OC HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 816517998,
+  "size_human": "779 MB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.16.1 Proy OC HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/b2dc4625c4ce87b9.json",
+  "extracted_path": null,
+  "metadata": {
+    "reason": "skipped_large_pdf_over_50_mb",
+    "size_bytes": 816517998
+  },
+  "processed_at": "2026-06-08T18:39:32.233369+00:00"
+}

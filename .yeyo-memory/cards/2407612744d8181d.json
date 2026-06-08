@@ -1,0 +1,31 @@
+{
+  "id": "2407612744d8181d",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.2 CDO lineas_parcial.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 4824414,
+  "size_human": "4.6 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.1.2 CDO lineas parcial",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 153004,
+  "token_estimate": 38251,
+  "chunks": 97,
+  "card_path": ".yeyo-memory/cards/2407612744d8181d.json",
+  "extracted_path": ".yeyo-memory/extracted/2407612744d8181d.txt",
+  "metadata": {
+    "pages": 101,
+    "pdf_metadata": {
+      "Title": "Microsoft Word - CerFinaObra COIIAOc LAAT Helios emb 4.doc",
+      "Author": "gljmb",
+      "Producer": "Nitro PDF PrimoPDF; modified using iTextSharp 4.1.6 by 1T3XT",
+      "Creator": "PrimoPDF http://www.primopdf.com",
+      "ModDate": "D:20120109094337+01'00'",
+      "CreationDate": "D:20120105143320-01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:23.709544+00:00"
+}

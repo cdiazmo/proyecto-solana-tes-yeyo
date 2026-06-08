@@ -1,0 +1,23 @@
+{
+  "id": "e03e56f44c07c8b5",
+  "path": "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.1 Proyecto BT HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 253962017,
+  "size_human": "242 MB",
+  "mtime_iso": "2026-06-08T16:20:00.000Z",
+  "title": "5.9.1.1 Proyecto BT HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/e03e56f44c07c8b5.json",
+  "extracted_path": null,
+  "metadata": {
+    "reason": "skipped_large_pdf_over_50_mb",
+    "size_bytes": 253962017
+  },
+  "processed_at": "2026-06-08T18:39:32.619499+00:00"
+}

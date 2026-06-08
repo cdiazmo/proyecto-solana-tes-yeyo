@@ -1,0 +1,33 @@
+{
+  "id": "26b812265c19cf2c",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.5 Acreditacion instalador.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 402797,
+  "size_human": "393 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.5.5 Acreditacion instalador",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/26b812265c19cf2c.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 9.02",
+      "CreationDate": "D:20120319190146+01'00'",
+      "ModDate": "D:20120319190146+01'00'",
+      "Title": "DOC_ENVIADA INDUSTRIA CR.pdf",
+      "Creator": "PDFCreator Version 1.2.2",
+      "Author": "Emilio",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:55.833804+00:00"
+}

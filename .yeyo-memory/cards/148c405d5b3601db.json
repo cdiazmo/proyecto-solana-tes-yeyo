@@ -1,0 +1,31 @@
+{
+  "id": "148c405d5b3601db",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-3010-00_Lista de Equipos Mecanicos TES.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 170126,
+  "size_human": "166 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-3010-00 Lista de Equipos Mecanicos TES",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 2890,
+  "token_estimate": 722,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/148c405d5b3601db.json",
+  "extracted_path": ".yeyo-memory/extracted/148c405d5b3601db.txt",
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "27465",
+      "CreationDate": "D:20260324182443+01'00'",
+      "Creator": "Acrobat PDFMaker 17 para Excel",
+      "ModDate": "D:20260324182444+01'00'",
+      "Producer": "Adobe PDF Library 17.11.238",
+      "Title": "CAS-SRTM-LT-0002 Rev 0 Lista Equipos Mecánicos.xlsx"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:27:45.356095+00:00"
+}

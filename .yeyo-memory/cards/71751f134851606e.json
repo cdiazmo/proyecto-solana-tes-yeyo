@@ -1,0 +1,37 @@
+{
+  "id": "71751f134851606e",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/2046-PLN-INA-23-22-0001 Principal y redundante Helios I.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 182514,
+  "size_human": "178 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "2046-PLN-INA-23-22-0001 Principal y redundante Helios I",
+  "doc_code": "2046-PLN-INA-23-22-0001",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/71751f134851606e.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Author": "Administrador",
+      "CreationDate": "D:20111028140526+02'00'",
+      "Creator": "PScript5.dll Version 5.2",
+      "ModDate": "D:20111031112535+01'00'",
+      "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "Title": "\\\\Central\\CENTRAL_1\\TRABAJOS\\1697 HELIOS\\CONTROL SUB COLECTORA\\L_01 HELIOS 1\\DESARROLLADOS\\2046-PLN-INA-23-22-0001-14.dwg Model"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano / dibujo general",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:15.527317+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:15.567059+00:00"
+}

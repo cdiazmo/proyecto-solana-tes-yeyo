@@ -31,7 +31,7 @@
     "plan_tag": {
       "kind": "Plataforma / estructura metalica",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:31:05.177394+00:00",
+      "tagged_at": "2026-06-08T18:41:17.118538+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -89,5 +89,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:31:05.198875+00:00"
+  "processed_at": "2026-06-08T18:41:17.118539+00:00"
 }

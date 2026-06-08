@@ -1,0 +1,462 @@
+[page 1]
+ATISAE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTROL DE LA RED DE TIERRA 
+EN CENTRALES ELECTRICAS, SUBESTACIONES Y 
+CENTROS DE TRANSFORMACION 
+(Instrucción MIE-RAT 13) 
+ 
+ 
+ 
+ 
+ 
+ 
+CLIENTE : INSTALACIONES INABENSA, S. A. 
+DIRECCION : C/ ENERGIA SOLAR, Nº 1 EDIFICIO C 
+ PALMAS ALTAS 
+ 41014 - SEVILLA 
+ 
+INFORME : SE-ECN-110060 
+ 
+FECHA : 14/12/2011 
+ 
+INSTALACION : SUBESTACIÓN COLECTORA HELIOS 220 KV 
+ T. M. ARENAS DE SAN JUAN (CIUDAD REAL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 2 
+ 
+ 
+ 
+ 
+ 
+I N D I C E 
+ 
+ 
+ 
+ 
+01.- PRELIMINARES Y OBJETO 
+ 
+02.- NORMATIVA APLICABLE 
+ 
+03.- ALCANCE DE LAS INSTALACIONES 
+ 
+04.- CARACTERISTICAS DE LAS INSTALACIONES Y ENSAYOS 
+ 
+05.- CONCLUSIONES FINALES 
+ 
+ANEXO.- 
+ 
+x Medición tensiones de paso y contacto 
+ 
+ 
+ 
+ 
+ 
+
+[page 3]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 3 
+ 
+ 
+01.- PRELIMINARES Y OBJETO.- 
+ 
+ 
+A solicitud de INSTALACIONES INABENSA, S. A. , en nombre de HELIOS I 
+HYPERION ENERGY INVESTMENTS, S. L., con domicilio en C/ Claudio Coello, nº 
+37 de Madrid, el Organismo de Control Autorizado ATISAE, acreditado por ENAC, con 
+acreditación nº OC-O/025, procedió el día 08 de Agosto de 2.011, a realizar la medición y 
+el control de la instalación de puesta a tierra de las instalaciones que se describen en el 
+alcance del Informe, de acuerdo a la Instrucción MIE-RAT 13 del Reglamento. 
+ 
+El objeto de los trabajos es comprobar que las tensiones de paso y contacto 
+medidas, conforme a las condiciones de ensayo, no superan los valores establecidos 
+reglamentariamente en caso de un defecto a tierra, de acuerdo a las características de la 
+instalación y la medida de la resistencia de puesta a tierra. 
+ 
+En el ANEXO del Informe, se incluyen los resultados obtenidos, así como la 
+descripción de los puntos anómalos, caso de existir, a fin de que sean reparados por el 
+usuario, antes de emitir la certificación favorable de la instalación. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 4]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 4 
+ 
+ 
+02.- NORMATIVA APLICABLE.- 
+ 
+ 
+Las mediciones y controles se han realizado conforme a la siguiente normativa: 
+ 
+ Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en Centrales 
+Eléctricas, Subestaciones y Centros de Transformación (R.D. 3275/1982 de 12 de 
+Noviembre B.O.E. nº 288 de 1 de Diciembre de 1.982). 
+ 
+ Instrucciones Técnicas Complementarias (Orden de 6 de Julio de 1.984) y en particular 
+la Instrucción MIE-RAT 13. 
+ 
+ 
+Así mismo es de aplicación la Ordenanza de Seguridad e Higiene en el Trabajo y 
+otras normas de interés. 
+ 
+La citada normativa se ha aplicado conforme a las modificaciones que se han 
+producido hasta el momento de la realización de los ensayos. 
+ 
+La ejecución de los trabajos se ha efectuado de acuerdo a los Procedimientos 
+internos de ATISAE y especificaciones particulares del cliente. 
+ 
+ 
+ 
+ 
+
+[page 5]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 5 
+ 
+ 
+03.- ALCANCE DE LAS INSTALACIONES.- 
+ 
+ 
+Las instalaciones a las que se refiere el presente informe, corresponden a las 
+siguientes: 
+ 
+ PROTECCIONES 
+ EDIFICIO DE CONTROL 
+ VALLADO PERIMETRAL 
+ 
+Las características principales de las mismas, así como de los ensayos y pruebas 
+efectuadas se describen a continuación. 
+ 
+ 
+ 
+
+[page 6]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 6 
+ 
+04.- CARACTERISTICAS DE LAS INSTALACIONES Y ENSAYOS.- 
+ 
+ 
+ Características de las instalaciones: 
+ 
+x T i p o . - Intemperie 
+ 
+x Nº de parques 1 de 220 KV 
+ 
+x Nº de trafos de potencia.- ------------ 
+ 
+x Puesta a tierra de neutros.- A través de impedancia 
+ 
+x Constitución y características.- Conductor trenzado desnudo de Cu de 
+120 mm² 
+ 
+x Características de la malla o 
+cerramiento.- Vallado metálico de 2 m. de altura 
+sobre base de obra 
+ 
+x De acuerdo a las características de puesta a tierra del neutro del trafo y a la tensión 
+del parque, se utiliza el 100 % de IE. 
+ 
+ Características de los ensayos: 
+ 
+x Método de inyección.- M e d i a n t e 3 p i c a s c l a v a d a s a 1 m . d e 
+profundidad y separadas 10 m. entre si 
+ 
+x Punto de inyección en la instalación.- Herrajes de la subestación 
+ 
+x Distancia de inyección desde la malla 
+exterior y dirección.- 250 M 
+ 
+x Tipo de electrodo de medición utilizado.- Suelas de Cu de 200 cm² 
+ 
+x Características del terreno y tipo de 
+superficie.- SUBESTACIÓN.- Cemento y grava 
+ EDIFICIO.- Cemento y aislante 
+ 
+
+[page 7]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 7 
+ 
+ 
+05.- CONCLUSIONES FINALES.- 
+ 
+ 
+Conforme a lo establecido en la Instrucción MIE-RAT 13 del Reglamento sobre 
+Condiciones Técnicas y Garantías de Seguridad, las instalaciones de puesta a tierra a las 
+que se refiere el presente informe, han sido medidas y controladas, no habiéndose 
+detectado puntos defectuosos que superen las tensiones de paso y contacto aplicadas 
+conforme a sus características, siendo por tanto los resultados SATISFACTORIOS. 
+ 
+Las instalaciones de tierra serán revisadas, al menos, una vez cada TRES AÑOS a 
+fin de comprobar el estado de las mismas. (Apartado 8.2. Inst. MIE-RAT 13). 
+ 
+ 
+ASISTENCIA TECNICA INDUSTRIAL, S.A.E. 
+ 
+ 
+ 
+Fdo.: José Antonio Medina Duran 
+Inspector Técnico 
+ 
+ 
+ANEXO: Resultado de las pruebas y controles realizados. 
+
+[page 8]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEDICION DE LAS TENSIONES DE PASO Y CONTACTO 
+ 
+Y MEDIDA DE LA RESISTENCIA DE PUESTA A TIERRA 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO 
+ 
+ 
+ 
+ Medición tensiones de paso y contacto 
+ 
+ 
+ 
+ 
+
+[page 9]
+ATISAE Informe: SEECN110060 
+Fecha: 14/12/2011 
+Hoja nº 9 
+ 
+ 
+ 
+MEDICIONES TENSIONES DE PASO Y CONTACTO APLICADAS 
+ 
+INSTALACION: SUBESTACIÓN COLECTORA HELIOS 
+ 
+ 
+CARACTERISTICAS DE LAS INSTALACIONES 
+ 
+ 
+TENSION NOMINAL (KV) 
+ 
+CARACTERISTICAS DE LOS PARQUES 
+220 
+Tiempo máx. desconexión (Seg.) 0,3 
+Corriente puesta a tierra (Amp.) 12000 
+ 
+ESTADO SUPERFICIAL DEL TERRENO TIPO DE CONEXIÓN DEL NEUTRO 
+ 
+> x @ seco EDIFICIO > @ aislado 
+> @ húmedo > x @ a través de impedancia 
+> x @ mojado PARQUE DE 220 KV > @ rígido a tierra 
+ 
+ 
+CARACTERISTICAS DE LOS ENSAYOS 
+ 
+Intensidad de inyección (Ii) Amp. 56 Amp. 
+ 
+Electrodo auxiliar utilizado : > x @ Picas 
+ > @ Tierra sub. próxima 
+ > @ Tierra apoyo l. 15 KV 
+ 
+Dist. elect. aux. desde vallado : 250 mts. 
+ 
+Método medida resistencia p. a t. : > x @ Caída de potencial 
+ > @ Pendiente 
+Valor : > x @ 0,0658 : 
+ 
+ 
+VALORES MAXIMOS ADMISIBLES 
+ 
+(Id) Intensidad de defecto (Amp) : 12000 
+(t) Tiempo máx. desconexión protecciones (seg.) : 0,3 
+(Vca) Tensión máxima de contacto aplicada (volt.) : 240 
+ 
+
+[page 10]
+Informe: SEECN110060
+Fecha : 14/12/11
+Hoja nº 10
+Descripción : Tipo M. Superf. V+ (mV) V- (mV) Vo (mV) Vm (mV) V (V) R OBSERVACIONES
+1 BOTELLA FASE 0 LINEA HELIOS 2 VC G 34,00 34,00 2,00 33,94 7,27 PARQUE 220 KV
+2 BOTELLA FASE 8 LINEA HELIOS 2 VC G 41,00 41,00 3,00 40,89 8,76 
+3 AUTOVALVULA FASE 8 LINEA HELIOS 2 VC G 8,00 11,00 2,00 9,41 2,02 
+4 AUTOVALVULA FAES 4 LINEA HELIOS 2 VC G 14,00 16,00 2,00 14,90 3,19 
+5 TT FASE 4 LINEA HELIOS 2 VC G 15,00 15,00 2,00 14,87 3,19 
+6 TT FASE 8 LINEA HELIOS 2 VC G 19,00 19,00 4,00 18,57 3,98 
+7 SECCIONADOR LINEA HELIOS 2 VC M 441,00 441,00 15,00 440,74 94,45 
+8 TI FASE 8 LINEA HELIOS 2 VC G 29,00 29,00 3,00 28,84 6,18 
+9 TI FASE 0 LINEA HELIOS 2 VP C 2,00 2,00 1,00 1,73 0,37 
+10 INT. LINEA HELIOS 2 VC G 6,00 6,00 2,00 5,66 1,21 
+11 INT. LINEA HELIOS 2 VP G 2,00 2,00 1,00 1,73 0,37 
+12 SECCIONADOR BARRAS L. HELIOS 2 VC G 24,00 23,00 2,00 23,42 5,02 
+13 BOTELLA FASE 4 LINEA HELIOS 1 VC G 38,00 40,00 4,00 38,81 8,32 
+14 AUTOVALVULAS FASE 0 LINEA HELIOS 1 VC G 12,00 12,00 2,00 11,83 2,54 
+15 AUTOVALVULAS FASE 8 LINEA HELIOS 1 VC G 53,00 60,00 5,00 56,39 12,08 
+16 PARARRAYOS VC G 27,00 27,00 6,00 26,32 5,64 
+17 TT FASE 8 LINEA HELIOS 1 VC G 26,00 26,00 2,00 25,92 5,55 
+18 SECCIONADOR LINEA HELIOS 1 VC C 172,00 172,00 10,00 171,71 36,79 
+19 TI FASE 0 LINEA HELIOS 1 VC G 19,00 19,00 3,00 18,76 4,02 
+20 TI FASE 8 LINEA HELIOS 1 VC G 19,00 22,00 3,00 20,33 4,36 
+21 INT. LINEA HELIOS 1 VC G 56,00 56,00 3,00 55,92 11,98 
+22 INT. LINEA HELIOS 1 VP G 2,00 2,00 1,00 1,73 0,37 
+23 SECCIONADOR BARRAS L. HELIOS 1 VC G 7,00 7,00 2,00 6,71 1,44 
+24 PORTICO DE BARRAS VC G 4,00 4,00 2,00 3,46 0,74 
+25 SECCIONADOR BARRAS LINEA SAN JUAN VC G 16,00 16,00 3,00 15,72 3,37 
+26 PARARRAYOS VC C 915,00 915,00 4,00 914,99 196,07 
+27 INT. LINEA SAN JUAN VC G 19,00 19,00 2,00 18,89 4,05 
+28 INT. LINEA SAN JUAN VP G 2,00 2,00 1,00 1,73 0,37 
+29 TI FASE 4 LINEA SAN JUAN VC G 14,00 14,00 12,00 7,21 1,55 
+30 SECCIONADOR LINEA SAN JUAN VC C 421,00 421,00 11,00 420,86 90,18 
+31 TT FASE 0 LINEA SAN JUAN VC G 13,00 13,00 3,00 12,65 2,71 
+32 AUTOVALVULA FASE 0 L. SAN JUAN VC G 26,00 26,00 4,00 25,69 5,51 
+33 AUTOVALVULA FASE 8 L. SAN JUAN VC G 41,00 41,00 7,00 40,40 8,66 
+34 ESQUINA VALLADO VC G 62,00 62,00 4,00 61,87 13,26 VALLADO INTERIOR
+35 ESQUINA VALLADO - FOCO VD G 2,00 2,00 1,00 1,73 0,37 
+36 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 
+37 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 
+38 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 VALLADO INTERIOR
+39 A 2 MTS. PUNTO ANTERIOR (VALLADO) VC M 2,00 2,00 1,00 1,73 0,37 
+40 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 
+41 ESQUINA VALLADO VC G 42,00 42,00 3,00 41,89 8,98 
+42 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 
+43 ESQUINA VALLADO VC G 72,00 72,00 3,00 71,94 15,42 
+44 VALLADO - FOCO VD G 9,00 9,00 2,00 8,77 1,88 
+45 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 
+46 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 
+47 FOCO - VALLADO VD G 2,00 2,00 1,00 1,73 0,37 
+48 ESQUINA VALLADO VC G 37,00 37,00 3,00 36,88 7,90 
+49 VALLADO - FOCO VD G 2,00 2,00 1,00 1,73 0,37 
+50 GRUPO ELECTROGENO VC M 2,00 2,00 1,00 1,73 0,37 
+51 FOCO - VALLADO VD G 32,00 32,00 3,00 31,86 6,83 
+52 PUERTA TRAFO SERV. AUX. VC C 7,00 7,00 1,00 6,93 1,48 EDIF. CONTROL
+53 PUERTA TRAFO SERV. AUX. (HOJAS) VD G 3,00 1,00 1,00 2,00 0,43 
+54 PUERTA ACCESO EDIFICIO VC C 5,00 6,00 2,00 5,15 1,10 
+55 PUERTA ACCESO EDIF. (HOJAS) VD C 2,00 2,00 1,00 1,73 0,37 
+56 BATERIA RECTIF. - CUADRO SERV. AUX. VD O 2,00 2,00 1,00 1,73 0,37 
+57 C. SERV. AUX. - C. CONMUTACION VD O 2,00 2,00 1,00 1,73 0,37 
+58 PUERTA - BASTIDORES PROT. LINEA VD O 15,00 15,00 14,00 5,39 1,15 
+59 BASTIDOR PROT. LINEA - UCS VD O 2,00 2,00 1,00 1,73 0,37 
+60 PUERTA SERVICIO - CUADRO ALUMB. VD O 2,00 2,00 1,00 1,73 0,37 
+61 PUERTA ACCESO SSEE VC C 84,00 84,00 2,00 83,98 17,99 VALLADO EXTERIOR
+62 PUERTA ACCESO SSEE VP C 3,00 4,00 1,00 3,39 0,73 
+63 PUERTA - VALLADO VD C 3,00 3,00 2,00 2,24 0,48 
+64 PUERTA ACESO SSEE (HOJAS) VD C 2,00 2,00 1,00 1,73 0,37 
+65 PUERTA ACCESO PERSONAL - VALLADO VD C 2,00 2,00 1,00 1,73 0,37 
+66 ESQUINA VALLADO VC G 71,00 71,00 3,00 70,94 15,20 
+67 ESQUINA VALLADO VP G 2,00 2,00 1,00 1,73 0,37 
+68 ESQUINA VALLADO VC G 262,00 262,00 4,00 261,97 56,14 
+69 ESQUINA VALLADO VP G 3,00 4,00 1,00 3,39 0,73 
+70 ESQUINA VALLADO VC G 31,00 36,00 3,00 33,46 7,17 
+71 ESQUINA VALLADO VP G 2,00 2,00 1,00 1,73 0,37 
+72 ESQUINA VALLADO VC G 53,00 55,00 2,00 53,97 11,57 
+73 ESQUINA VALLADO VP G 7,00 9,00 1,00 8,00 1,71 
+TIPO DE MEDIDA.. PASO: VP; CONTACTO: VC; DIF. POTENCIAL: VD
+TIPO DE SUPERFICIE.- GRAVA: G; CEMENTO: C; HIERBA: H; METAL: M; AISLANTE: O
+
+[page 11]
+ATISAE 
+ASUNTO Nº : SEECN110060 
+ 
+ 
+CONTROL DE LA RED DE PUESTA A TIERRA 
+(INST. MIE-RAT 13) 
+ 
+ 
+ 
+TITULAR: HELIOS I HYPERION ENERGY INVESTMENTS, S. L. 
+DIRECCION: C/ CLAUDIO COELLO, Nº 37 
+28001 – MADRID 
+INSTALACION: SUBESTACION COLECTORA HELIOS DE 220 KV 
+CTRA. CM 420, PKM. 20 
+13679 – ARENAS DE SAN JUAN (CIUDAD REAL) 
+ 
+RAT / EXPTE. : 13240100144 
+ 
+ 
+ 
+ASISTENCIA TÉCNICA INDUSTRIAL, S. A. E. (ATISAE) , Organismo de 
+Control Autorizado, acreditado por ENAC con acreditación Nº OC-I-025 para la 
+aplicación de la normativa eléctrica, con domicilio en Sevilla, Polígono Industrial Parsi 
+C/ Parsi 7, Nº 11 Puerta 4; 
+ 
+ CERTIFICA: 
+Que ha procedido el día 14 de Diciembre de 2.011 a realizar el control y 
+verificación de la red de puesta a tierra de las instalaciones descritas, consistente en la 
+medición de las tensiones de paso y contacto aplicadas y resistencia de puesta a 
+tierra, conforme al apartado 8.1 de la Instrucción MIE-RAT 13, del Reglamento sobre 
+condiciones técnicas y garantías de seguridad en Centrales Eléctricas, Subestaciones 
+y Centros de Transformación (R. D. 3275/1982) y Procedimiento IE-05. 
+ 
+Que conforme a los resultados obtenidos durante las mediciones, se emite 
+el siguiente: 
+ 
+DICTAMEN FAVORABLE 
+ 
+ASISTENCIA TECNICA INDUSTRIAL, S. A. E. 
+ En Ciudad Real, a 14 de Diciembre de 2.011 
+ 
+ 
+ 
+ Fdo.: José Antonio Medina Duran 
+Inspector Técnico 
+ 
+ 
+ 
+ 
+ 
+ 
+LA VALIDEZ DEL PRESENTE CERTIFICADO, ES DE TRES AÑOS (8.2. Inst. MIE-RAT 13)

@@ -1,0 +1,542 @@
+[page 1]
+ 
+ 
+* El presente documento concierne única y exclusivamente a la instalación sometida a ensayo y al momento y condiciones en que se realizaron las pruebas. 
+* Queda terminantemente prohibida la reproducción parcial del presente documento, salvo autorización expresa por escrito de TECNALIA. 
+ 
+ 
+4/LE148 
+ 
+ 
+ 
+FUNDACIÓN TECNALIA RESEARCH & INNOVATION 
+C/ Vega de Tapia, s/n 
+48903 Barakaldo (Bizkaia) 
+Teléfono: 902 760 004 - Fax: 901 706 009 
+CIF: G48975767 
+ 
+Informe de Ensayos 
+Nº B23-12-220Helios2-01 Página 1 de 21 
+ 
+ 
+ENSAYOS DE PUESTA EN SERVICIO EN INSTALACIONES 
+SUBTERRÁNEAS DE ALTA TENSIÓN 
+PLANTA TERMOSOLAR HELIOS 2 220 kV 
+ 
+ 
+ 
+
+[page 2]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 2 de 21 
+ 
+ 
+ 
+ENSAYOS DE PUESTA EN SERVICIO EN INSTALACIONES 
+SUBTERRÁNEAS DE ALTA TENSIÓN 
+PLANTA TERMOSOLAR HELIOS 2 220 kV 
+ 
+ 
+ 
+ UNIDAD DE ENERGÍA SERVICIOS 
+ Informe: Nº B23-12-220Helios2-01 
+ Fecha de Emisión: 23-01-2012 
+ 
+ 
+ 
+ Datos del Solicitante: 
+ INSTALACIONES INABENSA S.A. 
+ Campus Palmas Altas. C/ Energía Solar 1, Palmas Altas 
+ 41014 SEVILLA 
+ 
+ 
+ 
+ 
+ 
+Responsable de Ensayos Gerente Energía Servicios 
+ 
+ 
+ 
+Joxe Mari Doval Aitor Kortajarena 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 3 de 21 
+ 
+ÍNDICE 
+ 
+1. OBJETO..................................................................................................................................................4 
+2. INTRODUCCIÓN.....................................................................................................................................4 
+3. CARACTERÍSTICAS DE LA INSTALACIÓN.........................................................................................5 
+4. NORMATIVA DE REFERENCIA ............................................................................................................6 
+5. ENSAYOS REALIZADOS.......................................................................................................................6 
+6. DESCRIPCIÓN Y RESULTADO DE LOS ENSAYOS............................................................................7 
+6.1. MEDIDA DE LA RESISTENCIA DEL CONDUCTOR ....................................................................................7 
+6.2. MEDIDA DE LA RESISTENCIA DE LA PANTALLA.....................................................................................8 
+6.3. MEDIDA DE CAPACIDAD Y TANGENTE DELTA.......................................................................................9 
+6.4. ENSAYO SOBRE LA CUBIERTA DEL CABLE.........................................................................................10 
+6.5. MEDIDA DE DESCARGAS PARCIALES.................................................................................................11 
+6.6. ENSAYO RESONANTE.......................................................................................................................19 
+7. CONCLUSIONES..................................................................................................................................20 
+8. FOTOGRAFÍAS ....................................................................................................................................21 
+8.1. DISPOSICIÓN DE ENSAYO EN SUBESTACIÓN COLECTORA ..............................................................21 
+8.2. TERMINALES EN SUBESTACIÓN PLANTA TERMOSOLAR ......................................................................21 
+ 
+ 
+
+[page 4]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 4 de 21 
+ 
+1. OBJETO 
+ 
+Este informe tiene por objeto presentar el desarrollo y resultado de los ensayos previos a la puesta en servicio 
+del circuito trifásico de cable aislado de 220 kV para la evacuación a la red de la energía generada en la planta 
+termosolar HELIOS 2, situada en el municipio de Arenas de San Juan, en la provincia de Ciudad Real. 
+ 
+ 
+2. INTRODUCCIÓN 
+ 
+Los ensayos se realizaron a petición de INSTALACIONES INABENSA S.A. de acuerdo con el Pedido de 
+referencia 4500178659 de fecha 4 de Enero. 
+ 
+Para la ejecución de los ensayos, técnicos de TECNA LIA se desplazaron junto con los equipos y medios 
+necesarios a la provincia de Ciudad Real. De acuerdo c on los requerimientos del cliente, las pruebas se 
+llevaron a cabo entre los días 18 y 19 de Enero 2012. 
+ 
+El objeto de los ensayos es comprobar que el tendido del cable y el montaje de los accesorios se ha realizado 
+correctamente y, por tanto, el circuito se encuentra en condiciones de ser conectado a la red para su puesta en 
+servicio. 
+ 
+Las personas que intervinieron en la ejecución de los ensayos fueron las siguientes: 
+• Mikel Saralegi, TECNALIA 
+• Mikel Abellanal, TECNALIA 
+• Eneko Astondoa, TECNALIA 
+• David Souto, TECNALIA 
+ 
+ 
+
+[page 5]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 5 de 21 
+ 
+3. CARACTERÍSTICAS DE LA INSTALACIÓN 
+ 
+Características del Circuito 
+ 
+Identificación: HELIOS 2 
+Lugar: Arenas de San Juan, Ciudad Real 
+Tensión Nominal: 220 kV 
+Número de Circuitos: 1 Trifásico 
+Longitud: 1.970 m por fase aproximadamente 
+Empalmes: 1 cámara no accesible (conexión directa de pantallas) 
+Terminales: Exterior en Pórtico en Subestación COLECTORA 
+Exterior en Pórtico en Subestación HELIOS 2 
+ 
+Características del Cable
+ 
+ 
+Fabricante: TELE-FONIKA KABLE 
+Modelo: A2XS(FL)2Y 1X300/50 127/220 (245 kV) 
+ 
+Características de los Terminales de Exterior
+ 
+Fabricante: PFISTERER 
+Modelo: ESS245.C84 
+ 
+Características de los Empalmes 
+Fabricante: PFISTERER 
+Modelo: MSA245-DOG 
+ 
+ 
+
+[page 6]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 6 de 21 
+ 
+4. NORMATIVA DE REFERENCIA 
+ 
+Para la realización de los ensayos objeto de este Informe se han tomado como referencia las prescripciones 
+recogidas en los siguientes documentos: 
+ 
+• Norma IEC 62067:2011 - Power cables with extruded insulation and their accessories for rated voltages 
+above 150 kV (U
+m = 170 kV) up to 500 kV (Um = 550 kV) – Test methods and requirements. 
+• UNE 211006:2010 – Ensayos previos a la puesta en servic io de sistemas de cables eléctricos de alta 
+tensión en corriente alterna. 
+• Especificación Técnica ET160 de RED ELÉCTRICA (REE). Ensayos de puesta en servicio de líneas 
+subterráneas. 
+ 
+ 
+5. ENSAYOS REALIZADOS 
+ 
+A petición del cliente se llevaron a cabo los siguientes ensayos: 
+ 
+♦ Medida de la resistencia óhmica del Conductor 
+♦ Medida de la resistencia óhmica de la Pantalla 
+♦ Medida de la Capacidad 
+♦ Medida de la Tangente Delta 
+♦ Ensayo de rigidez de la cubierta 
+♦ Medida de Descargas Parciales 
+♦ Ensayo de Tensión Resonante 
+ 
+Para los ensayos de alta tensión se situó el sistema resonante en la Subestación COLECTORA, desde donde 
+se dispuso la acometida a los terminales en pórtico del circuito. 
+ 
+Se dispone del cálculo de las incertidumbres en las medidas realizadas. 
+ 
+ 
+ 
+ 
+
+[page 7]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 7 de 21 
+ 
+6. DESCRIPCIÓN Y RESULTADO DE LOS ENSAYOS 
+ 
+ 
+6.1. Medida de la Resistencia del Conductor 
+ 
+Equipo 
+ 
+Medidor universal de impedancias CPC100 con unidad de acoplamiento CP CU1 de OMICRON. 
+ 
+Procedimiento 
+ 
+La medida se llevó a cabo mediante la inyección de corriente continua en uno de los extremos de la línea entre 
+los conductores de cada dos fases, unidos entre sí en el extremo opuesto. Se sustrajo de la medida tomada la 
+resistencia del puente utilizado en la unión de dos fases. 
+ 
+Resultado
+ 
+ 
+Las medidas obtenidas son las siguientes: 
+ 
+HELIOS 2 1 2 3 
+Resistencia (mΩ @ 20ºC) 189,3 187,2 189,9 
+Resistencia (mΩ/km @ 20ºC) 96,1 95,0 96,4 
+ 
+ 
+Los valores medidos difieren en menos de un 3% con respecto al valor de resistencia calculado para una 
+sección de 300 mm2 en aluminio (94 mΩ/km). 
+ 
+
+[page 8]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 8 de 21 
+ 
+6.2. Medida de la Resistencia de la Pantalla 
+ 
+Equipo 
+ 
+Medidor universal de impedancias CPC100 con unidad de acoplamiento CP CU1 de OMICRON. 
+ 
+Procedimiento 
+ 
+La medida se llevó a cabo mediante la inyección de corriente continua en uno de los extremos de la línea entre 
+las pantallas de cada dos fases, unidos entre sí en el extremo opuesto. 
+ 
+Resultado
+ 
+ 
+Las medidas obtenidas son las siguientes: 
+ 
+HELIOS 2 1 2 3 
+Resistencia (mΩ @ 20ºC) 399,4 396,2 400,5 
+Resistencia (mΩ/km @ 20ºC) 202,7 201,1 203,3 
+ 
+ 
+Los valores medidos difieren en torno a un 40% con respecto al valor de resistencia calculado para una 
+sección de 50 mm2 en cobre (340 mΩ/km). 
+ 
+ 
+
+[page 9]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 9 de 21 
+ 
+6.3. Medida de Capacidad y Tangente Delta 
+ 
+Equipo 
+ 
+Puente de medida de capacidad y tangente de delta TETTEX 2805. 
+Condensador patrón de papel impregnado en aceite TETTEX 1010 nF, 25 kV. 
+ 
+Procedimiento
+ 
+ 
+La medida se realizó entre el conductor del cable y la pantalla metálica. 
+ 
+Resultado
+ 
+ 
+Las medidas obtenidas son las siguientes: 
+ 
+HELIOS 2 1 2 3 
+Capacidad (nF) 216,6 217,3 218,0 
+Capacidad (μF/km) 0,109 0,109 0,109 
+Tangente Delta (x 10-4) < 2 < 2 < 2 
+ 
+Los valores de capacidad medidos difieren en menos del 3% con respecto al valor especificado por el 
+fabricante (0,112 μF/km). 
+El valor de tangente de delta medido es inferior al valor máximo especificado por el fabricante (10 x 10-4). 
+
+[page 10]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 10 de 21 
+ 
+6.4. Ensayo sobre la Cubierta del Cable 
+ 
+Equipo 
+ 
+Equipo de Rigidez en Continua BAUR PGK25. 
+ 
+Procedimiento
+ 
+ 
+Se aplicó una tensión de 10 kV cc entre la pantalla metálica y tierra durante 1 minuto en cada una de las fases 
+del circuito. 
+ 
+Resultado
+ 
+ 
+No se produjo perforación de la cubierta en ninguna de las fases ensayadas. La corriente de fuga no superó en 
+ningún caso el valor de 1,5 mA/km. 
+ 
+ HELIOS 2 
+Fase 1 2 3 
+Corriente Fuga (μA) 17 120 150 
+Corriente Fuga (mA/km) 0,01 0,06 0,08 
+ 
+ 
+
+[page 11]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 11 de 21 
+ 
+6.5. Medida de Descargas Parciales 
+ 
+La medida de descargas parciales se llevó a cabo individualmente en cada uno de los accesorios accesibles y 
+con anterioridad a la ejecución del ensayo resonante. 
+ 
+Para la realización de las medidas se utilizaron los equipos y se siguieron las prescripciones que se indican a 
+continuación. 
+ 
+Sistema de Medida
+ 
+ 
+El sistema de medida consta de: 
+ Sensores Inductivos HFCT, con anchura de banda comprendida entre 800 kHz y 10 MHz. 
+ 
+ 
+Figura 1. Sensores Inductivos HFCT 
+ 
+ Advanced Partial Discharge Analysis System MP D 540 MTRONIX, con frecuencia central comprendida 
+entre 0 y 20 MHz y anchura de banda entre 100 kHz y 3 MHz. 
+
+[page 12]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 12 de 21 
+ 
+ 
+Figura 2. MPD 540 (unidad de adquisición, batería, fibra óptica, interfaz USB, portátil) 
+ 
+Procedimiento 
+ 
+Las medidas fueron realizadas en los terminales de cada una de las fases del circuito, colocando los sensores 
+inductivos HFCT abrazando los cables de puesta a tierra de las pantallas, sucesivamente en cada uno de los 
+accesorios. 
+ 
+La medida se llevó a cabo aplicando en cada una de las fases una tensión senoidal de 178 kV (1,4 Uo) a una 
+frecuencia de resonancia de 81 Hz, determinada por las características constructivas del cable y la longitud del 
+circuito. 
+ 
+Se seleccionaron para las medidas los rangos de frecuencia adecuados para conseguir optimizar la relación 
+señal/ruido. 
+ 
+Resultados
+ 
+ 
+A continuación se muestran los patrones obtenidos en las medidas realizadas en cada accesorio por fase 
+del circuito. 
+
+[page 13]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 13 de 21 
+ 
+ 
+ 
+ 
+Figura 3. Medida de Descargas Parciales, Terminal Exterior ST COLECTORA, Fase 1 
+ 
+ 
+ 
+Figura 4. Medida de Descargas Parciales, Empalme 1, Fase 1 
+ 
+ 
+ 
+ 
+
+[page 14]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 14 de 21 
+ 
+ 
+ 
+ 
+Figura 5. Medida de Descargas Parciales, Terminal Exterior ST HELIOS 2, Fase 1 
+ 
+ 
+ 
+Figura 6. Medida de Descargas Parciales, Terminal Exterior ST COLECTORA, Fase 2 
+
+[page 15]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 15 de 21 
+ 
+ 
+ 
+ 
+Figura 7. Medida de Descargas Parciales, Empalme 1, Fase 2 
+ 
+ 
+ 
+ 
+Figura 8. Medida de Descargas Parciales, Terminal Exterior ST HELIOS 2, Fase 2 
+ 
+
+[page 16]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 16 de 21 
+ 
+ 
+ 
+ 
+Figura 9. Medida de Descargas Parciales, Terminal Exterior ST COLECTORA, Fase 3 
+ 
+ 
+ 
+Figura 10. Medida de Descargas Parciales, Empalme 1, Fase 3 
+ 
+ 
+
+[page 17]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 17 de 21 
+ 
+ 
+ 
+Figura 11. Medida de Descargas Parciales, Terminal Exterior ST HELIOS 2, Fase 3 
+
+[page 18]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 18 de 21 
+ 
+Se observa en algunos patrones señales de ruido externo, de similares características en las 3 fases. Dichas 
+señales no responden a patrones de descargas parciales procedentes del aislamiento del cable o de los 
+accesorios. 
+ 
+Una vez filtrado el ruido externo acoplado, los resultados obtenidos en las medidas de descargas parciales son 
+los siguientes: 
+ 
+HELIOS 2 1 2 3 
+Terminal Exterior ST COLECTORA < 30 pC < 20 pC < 10 pC 
+Empalme 1 < 20 pC < 20 pC < 20 pC 
+Terminal Exterior ST HELIOS 2 < 30 pC < 30 pC < 30 pC 
+ 
+ 
+Los valores indicados corresponden al ruido de fondo. 
+ 
+Los niveles de descargas parciales que se indican en los empalmes se han obtenido a partir de las medidas 
+realizadas en los terminales a frecuencias inferiores de 5 MHz, al no ser posible la medida local por no 
+disponer de pantallas accesibles. 
+ 
+No se detecta la presencia de Descargas Parciales procedentes del cable o de los accesorios en ninguna de 
+las medidas realizadas. 
+
+[page 19]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 19 de 21 
+ 
+6.6. Ensayo Resonante 
+ 
+Una vez realizada la medida de Descargas Parciales sin detectar descargas generadas internamente en el 
+aislamiento del cable o en los accesorios, se proc edió a la ejecución del ensayo resonante empleando el 
+sistema de ensayo y el procedimiento que se indican a continuación. 
+ 
+Sistema de Ensayo 
+ 
+Sistema Resonante de Frecuencia Variable Tipo WRV 80/260 T de HIGHVOLT, cuyas características básicas 
+son: 
+ Tensión máxima: 260 kV 
+ Corriente máxima: 80 A 
+ Rango de frecuencia: 20-300 Hz 
+ Capacidad máxima: 3.958 nF a 160 kV; 1.515 nF a 260 kV 
+ 
+Procedimiento 
+ 
+Se aplicó una tensión de 180 kV (1,4 Uo), durante 1 hora, entre el conductor del cable y la pantalla metálica. 
+ 
+El ensayo se llevó a cabo simultáneamente en las tres fases del circuito a una frecuencia de resonancia de 48 
+Hz, determinada por las características constructivas del cable y su longitud total. 
+ 
+Resultados
+ 
+ 
+No se produjo en ninguna de las fases sometidas a ensayo la perforación del aislamiento en el cable ni en los 
+accesorios. 
+
+[page 20]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 20 de 21 
+ 
+7. CONCLUSIONES 
+ 
+Se llevaron a cabo los ensayos previos a la puesta en servicio del circuito subterráneo de cable aislado de 220 
+kV que transcurre entre la Subestación COLECTORA y la Subestación de las planta termosolar HELIOS 2. 
+ 
+Los resultados de los ensayos del aislamiento principal y de la cubierta fueron satisfactorios, sin que se 
+detectara presencia de descargas parciales por encim a del nivel de ruido de fondo existente y sin que se 
+produjera la perforación del aislamiento principal o la cubierta en el cable ni en sus accesorios. 
+ 
+La medida de la resistencia de la pantalla es un 40% inferior al valor especificado por el fabricante. 
+ 
+ 
+ 
+ 
+
+[page 21]
+ 
+ 
+Informe Nº B23-12-220Helios2-01 Página 21 de 21 
+ 
+8. FOTOGRAFÍAS 
+ 
+8.1. Disposición de Ensayo en Subestación COLECTORA 
+ 
+ 
+ 
+8.2. Terminales en Subestación Planta Termosolar

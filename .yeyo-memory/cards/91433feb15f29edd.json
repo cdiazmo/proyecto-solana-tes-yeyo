@@ -1,0 +1,30 @@
+{
+  "id": "91433feb15f29edd",
+  "path": "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.6 Formulario PS.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 1111301,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "5.9.1.6 Formulario PS",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/91433feb15f29edd.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Title": "Nuance Communications, Inc.",
+      "Author": "Angel Ramon Menor Pozo",
+      "Keywords": "None",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:32.868774+00:00"
+}

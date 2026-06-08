@@ -1,0 +1,241 @@
+[sheet Presupuesto Cliente]
+PRESUPUESTO SISTEMA ALMACENAMIENTO SOLACOR
+Fecha: | 2026-05-12 00:00:00
+Rev: | 0
+COSTE EUR
+RESUMEN TOTAL PRESUPUESTO | 26428137.709371217
+CAPÍTULO 1
+Ingeniería | 765600.0000000001
+Ingeniería (proceso, implantacion, estructura, electricidad e I&C, inc. suminsitros y PEM) | 765600.0000000001
+Ingenieria civil general | Por otros | Pendiente estimar
+Ingenieria civil tanques | Por otros | Pendiente estimar
+Ingenieria tanques | Incluido en suministro tanque | A realizar por el contratista del tanque.
+CAPÍTULO 2
+Suministros | 15693225.255550679
+Suministro tanques | 4500000 | El suministro incluye ingeniería, suministro, montaje y aislamiento de los tanques
+Resistencias eléctricas tanques | 137500 | Incluido montaje de resistencias en los tanques
+Intercambiadores | 5600000 | LOINTEK
+Bombas | 1980000.0000000002 | Estimación LOINTEK
+Válvulas Control | 550000 | Estimación LOINTEK
+Valvulas Manuales | 92400.00000000001 | Estimación LOINTEK
+Valvulas Seguridad | 66000 | Estimación LOINTEK
+Vavulas Motorizadas / Neumáticas (shut-off) | 586300 | Estimación LOINTEK
+Instrumentacion | 1320000 | Estimación LOINTEK
+DCS | N/A | No esta valorada ampliación de DCS
+Caseta eléctrica e I&C | 110000.00000000001 | Estimación LOINTEK
+CCM | Por otros | Pendiente estimar a partir de lista de cargas
+Sistema N2 | 18000 | Estimación LOINTEK
+Tanque drenaje de sales | 110000.00000000001 | Estimación LOINTEK
+Bombas drenajes sales | 154000 | Estimación LOINTEK
+Suministro Tuberia y Soportes Prefabricados | 469025.25555067824 | Sin considerar rack (interconexión)
+Transportes | Incluido en suministros
+CAPÍTULO 3
+Construcción | 9969312.453820536
+Dirección y supervisión de construcción | 1980000.0000000002 | JP, JO, Encargados, Ings de disciplina, Documentación, Planificación…
+Obra civil general | Por otros | Pendiente estimar
+Obra civil tanques | Por otros | Pendiente estimar
+Estructura (suministro, prefabricación y montaje) | 601704 | Incluye ingeniería de detalle
+PCI (inc. Montaje) | Por otros | Pendiente estimar
+Montaje de tanques de sales | Incluido en suministro tanque | A realizar por el contratista del tanque.
+Aislamiento tanques de sales | Incluido en suministro tanque | A realizar por el contratista del tanque.
+Montaje mecánico de equipos | 628985
+Montaje mecánico (tuberia, soportes) | 1878195.003634974
+Aislamiento equipos (montaje inc.) | 395212.95204117
+Aislamiento tuberia y equipos (montaje inc.) | 343215.49814439093 | No incluye aislamiento de los tanques, incluido en el suministro y montaje de los tanques
+Montaje Elect. E I&C | 1320000
+Servicios genereales (alumbrado, agua servicios, aire, red de tierras, …) | Por otros | Pendiente estimar
+Traceado (montaje inc.) | 550000
+Andamios, gruas, temporales (oficina, vestuarios…), transportes internos | 1012000.0000000001
+Fusion Sales y precalentamiento | 1260000
+Suministro Sales | Por otros | Pendiente estimar
+Suministro Aceite térmico adicional | Por otros | Pendiente estimar
+
+[sheet Pres. Estruc. TES ]
+PRESUPUESTO ESTRUCTURAS
+RESUMEN PRESUPUESTO ESTRUCTURAS
+ESTRUCTURA METÁLICA
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 75840 | 5.35 | 405744
+Suministro y montaje de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 75840 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 450 | 300 | 135000
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares. Suministro y montaje
+BARANDILLA | ml | BARANDILLA DE ACERO | 340 | 120 | 40800
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos. Suministro y montaje
+PELDAÑOS | uds | PELDAÑO TRAMEX | 112 | 180 | 20160
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm. Suministro y montaje
+TOTAL COSTE ESTRUCTURA METÁLICA | 601704
+ESTRUCTURA METÁLICA
+ESTRUCTURAS SOPORTE DE BOMBAS (AMBAS ESTRUCTURAS)
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 42960 | 5.35 | 229835.99999999997
+Suministro de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 42960 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 240 | 300 | 72000
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares.
+BARANDILLA | ml | BARANDILLA DE ACERO | 110 | 120 | 13200
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos.
+PELDAÑOS | uds | PELDAÑO TRAMEX | 22 | 180 | 3960
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm.
+ESTRUCTURA METÁLICA
+PASARELA ENTRE ESTRUCTURAS
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 9480 | 5.35 | 50718
+Suministro de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 9480 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 85 | 300 | 25500
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares.
+BARANDILLA | ml | BARANDILLA DE ACERO | 55 | 120 | 6600
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos.
+PELDAÑOS | uds | PELDAÑO TRAMEX | 0 | 180 | 0
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm.
+ESTRUCTURA METÁLICA
+ESCALERAS EN CASTILLETES (AMBOS)
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 1800 | 5.35 | 9630
+Suministro de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 1800 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 25 | 300 | 7500
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares.
+BARANDILLA | ml | BARANDILLA DE ACERO | 100 | 120 | 12000
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos.
+PELDAÑOS | uds | PELDAÑO TRAMEX | 90 | 180 | 16200
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm.
+ESTRUCTURA METÁLICA
+PLATAFORMA INTERMEDIA INFERIOR
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 4800 | 5.35 | 25680
+Suministro de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 4800 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 60 | 300 | 18000
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares.
+BARANDILLA | ml | BARANDILLA DE ACERO | 30 | 120 | 3600
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos.
+PELDAÑOS | uds | PELDAÑO TRAMEX | 0 | 180 | 0
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm.
+ESTRUCTURA METÁLICA
+PLATAFORMA INTERMEDIA SUPERIOR
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 3000 | 5.35 | 16049.999999999998
+Suministro de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 3000 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 40 | 300 | 12000
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares.
+BARANDILLA | ml | BARANDILLA DE ACERO | 45 | 120 | 5400
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos.
+PELDAÑOS | uds | PELDAÑO TRAMEX | 0 | 180 | 0
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm.
+ESTRUCTURA METÁLICA
+VANO DE 6 METROS EN RACK CONVENCIONAL (3 M DE ALTURA)
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 3600 | 5.35 | 19260
+Suministro de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 3600 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 0 | 300 | 0
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares.
+BARANDILLA | ml | BARANDILLA DE ACERO | 0 | 120 | 0
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos.
+PELDAÑOS | uds | PELDAÑO TRAMEX | 0 | 180 | 0
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm.
+ESTRUCTURA METÁLICA
+VANO DE 12 METROS EN RACK DE CARRETERA (6 M DE ALTURA)
+DEFINICIÓN | RATIO | TOTAL
+ACERO | kg | ACERO S-275 | 10200 | 5.35 | 54570
+Suministro de acero laminado S 275 JR, según CTE SE- A, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes y vigas, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+PINTURA EXTERIOR | kg | PINTURA EXTERIORES | 10200 | incluido | 0
+Repercusión por kilogramo de acero en perfiles con masividades entre 100 y 300 de un sistema de pintado para estructuras metálicas exteriores.
+TRAMEX30 | m2 | TRAMEX 30 | 0 | 300 | 0
+Rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3mm. con malla de seguridad de 8x8 mm,elementos de sujeción y medios auxiliares.
+BARANDILLA | ml | BARANDILLA DE ACERO | 0 | 120 | 0
+Incluye rodapié de chapa de, accesorios de fijación y todos los elementos.
+PELDAÑOS | uds | PELDAÑO TRAMEX | 0 | 180 | 0
+Peldaño de rejilla de pavimentación de acero galvanizado. tipo trámex o similar. en planchas de malla nominal 30x30mm pletina portante 30/3 mm. con malla de seguridad de 8x8 mm.
+
+[sheet RESUMEN MONTAJE TUBERIAS]
+PRESUPUESTO SUMINISTRO Y MONTAJE DE TUBERIAS
+El precio del suministro del material de tuberia incluye el suministro de los elementos de tuberias y soportes con sus certificados de calidad y transporte al taller de prefabricación. Los soportes son en acero laminado S 275 JR, en perfiles laminados en caliente, piezas simples de las series IPN, IPE, UPN, HEA, HEB o HEM y chapas, para soportes, mediante uniones soldadas o atornilladas. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+El precio del montaje del material de tuberiay soportes incluye la prefabricación en taller y montaje en campo de la tuberias con sus pruebas y ensayos no destructivos, certificados de calidad. Incluido con un factor de mayoración de un 20% para considerar, soldaduras, chapas de unión, tuercas, pernos de anclaje, casquillos, piezas de montaje, pequeño material y medios auxiliares.
+El precio del aislamiento de las tuberias incluye el suministro del material aislante y la colocación del mismo en campo. Incluido con un factor de mayoración de un 20% para considerar, cajas, piezas de montaje, pequeño material y medios auxiliares.
+DESCRIPCIÓN ELEMENTOS TUBERIAS | LONGITUD O UNIDADES (m o Ud.) | PESO (kg) | PRECIO SUMINISTRO TUBERIA Y SOPORTES | PRECIO MONTAJE MATERIAL | PRECIO AISLAMIENTO
+45 ELBOW-BW-4"-SCH STD-ASTM A234 WPB | 128.000026 | 3.89745 | 32.067686507053025 | 128.41391345752783 | 22.692958728419317
+45 ELBOW-BW-6"-SCH STD-ASTM A234 WPB | 760.00004 | 40.686184 | 334.76036733768905 | 1340.5360199856452 | 202.10913325889126
+45 ELBOW-SW-2"-3000LB-ASTM A105 | 50.8 | 2.44 | 20.07598688301566 | 80.39357755362296 | 4.5031330829718
+90 ELBOW-SW-2"-3000LB-ASTM A105 | 3809.9999999999936 | 171 | 1406.9646545064252 | 5634.140066257996 | 337.73498122288487
+90 LR ELBOW-BW-10"-SCH STD-ASTM A234 WPB | 8001 | 756.9435840000002 | 6228.028468674944 | 24939.919149189078 | 3546.217302840292
+90 LR ELBOW-BW-12"-SCH STD-ASTM A234 WPB | 8226 | 953.3766420000001 | 7844.252852198979 | 31412.032379688382 | 4375.130638644809
+90 LR ELBOW-BW-14"-SCH STD-ASTM A234 WPB | 2132 | 272.097172 | 2238.7783835973996 | 8965.108647255529 | 1322.9283096510069
+90 LR ELBOW-BW-2"-SCH 80-ASTM A234 WPB | 152 | 1.784418 | 14.681947689269276 | 58.79333888159049 | 13.4739415081046
+90 LR ELBOW-BW-20"-SCH XS-ASTM A234 WPB | 10668 | 2596.7792329999993 | 21365.945008112896 | 85559.1691220586 | 9456.57947424078
+90 LR ELBOW-BW-24"-SCH XS-ASTM A234 WPB | 21022 | 6170.924609999996 | 50773.525215753485 | 203320.78123426044 | 22361.778819740135
+90 LR ELBOW-BW-3"-SCH STD-ASTM A234 WPB | 114 | 2.020111 | 16.621197515670346 | 66.55899604320773 | 15.158184196617675
+90 LR ELBOW-BW-4"-SCH STD-ASTM A234 WPB | 16415.99998 | 414.0874439999996 | 3407.0549566251984 | 13643.430755408015 | 2910.371362204825
+90 LR ELBOW-BW-6"-SCH STD-ASTM A234 WPB | 7786 | 345.30437399999994 | 2841.1172471606274 | 11377.153266710753 | 2070.5547746467582
+90 LR ELBOW-BW-8"-SCH STD-ASTM A234 WPB | 1525 | 101.81714 | 837.7375275025281 | 3354.690221671348 | 540.7305473647241
+CAP-BW-4"-SCH STD-ASTM A234 WPB | 64 | 1.546626 | 12.725427577430727 | 50.958523474364625 | 11.346477059456506
+CAP-BW-8"-SCH STD-ASTM A234 WPB | 204 | 14.72675 | 121.16968845469295 | 485.21972058926923 | 72.33379125403522
+CAP-SW-2"-3000LB-ASTM A105 | 50.9 | 3.4 | 27.974735820595587 | 112.02383757472052 | 4.511997518174501
+FLANGE SW-RF-2"-SCH 80- 300LB-ASTM A105 | 260.225 | 44.4514 | 365.74005054577145 | 1464.5930628143915 | 23.067476506227095
+FLANGE SW-RF-SCH 80-150LB-ASTM A105 | 10.5875 | 2.268 | 18.660794365032586 | 74.726489299843 | 0.9385220770859043
+FLANGE WELD NECK-RF-4"-SCH STD- 300LB-ASTM A105 | 86 | 12.0202 | 98.90056456197739 | 396.0438036516635 | 15.246828548644679
+FLANGE WELD NECK-RF-SCH STD-150LB-ASTM A105 | 2233 | 671.3164000000002 | 5523.499688833317 | 22118.65863377828 | 356.7491947326774
+FLANGE WELD NECK-RTJ-10"-SCH STD- 300LB-ASTM A105 | 944 | 362.87359999999995 | 2985.6744400789635 | 11956.027419574737 | 418.4013415674586
+FLANGE WELD NECK-RTJ-2"-SCH 80- 300LB-ASTM A105 | 420 | 29.029599999999995 | 238.8515855816358 | 956.4727044879727 | 37.23062785134166
+FLANGE WELD NECK-RTJ-20"-SCH XS- 300LB-ASTM A105 | 972 | 1004.2535999999999 | 8262.861516730021 | 33088.33593242011 | 861.6231017024784
+FLANGE WELD NECK-RTJ-3"-SCH STD- 300LB-ASTM A105 | 80 | 8.1647 | 67.17803692776964 | 269.01206666068254 | 10.637322243240474
+FLANGE WELD NECK-RTJ-4"-SCH STD- 300LB-ASTM A105 | 3182 | 444.74739999999974 | 3659.320888793166 | 14653.620735111557 | 564.1326562998528
+FLANGE WELD NECK-RTJ-6"-SCH STD- 300LB-ASTM A105 | 297 | 61.2351 | 503.83404277875076 | 2017.585557726991 | 78.98211765606052
+FLANGE WELD NECK-RTJ-8"-SCH STD- 300LB-ASTM A105 | 336 | 93.8937 | 772.5445449171341 | 3093.6272347322165 | 119.13800912429332
+GASKET FLAT-4"-150LB-FIBER WITHOUT ASBESTOS C4430 OR SIMILAR (THICK 1-5 MM) | 3.2 | 1 | 8.22786347664576 | 32.94818752197663 | 0.5673238529728253
+GASKET OVAL RING-20"-300LB-MILD STEEL <90 BHN | 6.4 | 2 | 16.45572695329152 | 65.89637504395326 | 5.673238529728253
+PIPE-10"-SCH STD-ASTM A106 B | 80248.675298 | 4833.227504 | 39767.13605448135 | 159246.08613816695 | 35567.95911408324
+PIPE-12"-SCH STD-ASTM A106 B | 42690.421052000005 | 3149.8244579999996 | 25916.325615823727 | 103781.0069034924 | 22705.588271487046
+PIPE-14"-SCH STD-ASTM A106 B | 6600 | 536.242072 | 4412.126558849646 | 17668.204345429294 | 4095.369063647583
+PIPE-2"-SCH 80-ASTM A106 B | 185965.528476 | 1392.0851200000031 | 11453.886315230051 | 45866.6815803134 | 16484.79377111437
+PIPE-20"-SCH XS-ASTM A106 B | 65558.36408300001 | 10159.217319000001 | 83588.65313030715 | 334727.7973029247 | 58113.78704087944
+PIPE-24"-SCH XS-ASTM A106 B | 52591.14950900001 | 9828.087094999999 | 80864.15885424404 | 323817.6565883785 | 55942.900446967076
+PIPE-3"-SCH STD-ASTM A106 B | 3364.748997 | 37.957995000000004 | 312.31320070720244 | 1250.6471372182514 | 447.3989918588647
+PIPE-4"-SCH STD-ASTM A106 B | 288085.666051 | 4626.222042999998 | 38063.92338245324 | 152425.6313910658 | 51074.33439071742
+PIPE-6"-SCH STD-ASTM A106 B | 110085.87739500005 | 3108.1316109999993 | 25573.282562755034 | 102407.30316221128 | 29275.473807011927
+PIPE-8"-SCH STD-ASTM A106 B | 20263.258153 | 861.2722190000003 | 7086.430234159749 | 28377.358579080927 | 7184.893555714362
+REDUCER CONC-BW-24"x20"-SCH XSxRED SCH XS-ASTM A234 WPB | 1016 | 173.65558 | 1428.814404197736 | 5721.636614077614 | 1080.751939913232
+REDUCER CONC-BW-4"x2"-SCH STDxRED SCH 80-ASTM A234 WPB | 510 | 7.269465 | 59.81216556825467 | 239.51569600444577 | 90.41723906754402
+REDUCER CONC-BW-4"x3"-SCH STDxRED SCH STD-ASTM A234 WPB | 204 | 3.8114980000000003 | 31.360485185508367 | 125.5819508436389 | 36.16689562701761
+REDUCER CONC-BW-8"x4"-SCH STDxRED SCH STD-ASTM A234 WPB | 152 | 6.342397 | 52.184376630687645 | 208.97048569482197 | 53.8957660324184
+REDUCER ECC-BW-14"x10"-SCH STDxRED SCH STD-ASTM A234 WPB | 990 | 93.417954 | 768.6301717795737 | 3077.9522663113867 | 614.3053595471374
+REDUCER ECC-BW-14"x12"-SCH STDxRED SCH STD-ASTM A234 WPB | 1320 | 135.04717200000002 | 1111.149694123098 | 4449.559547368631 | 819.0738127295166
+REDUCER ECC-BW-20"x12"-SCH XSxRED SCH STD-ASTM A234 WPB | 2032 | 256.33508 | 2109.0900425150694 | 8445.776284300882 | 1801.2532331887203
+REDUCER ECC-BW-20"x14"-SCH XSxRED SCH STD-ASTM A234 WPB | 1016 | 133.221766 | 1096.130502765648 | 4389.41572817689 | 900.6266165943601
+SOCKOLET-SW-12"x2"-3000LB-ASTM A105 | 22.225 | 0.73 | 6.006340337951405 | 24.05217689104294 | 1.9701207238001628
+SOCKOLET-SW-24"x1"-3000LB-ASTM A105 | 453.20000000000016 | 5.939999999999998 | 48.87350905127582 | 195.71223388054116 | 20.086810169319097
+SOCKOLET-SW-24"x2"-3000LB-ASTM A105 | 466.7250000000002 | 15.330000000000005 | 126.13314709697944 | 505.0957147119017 | 41.37253519980344
+SOCKOLET-SW-4"x2"-3000LB-ASTM A105 | 200.02499999999998 | 6.57 | 54.05706304156264 | 216.46959201938643 | 35.46217302840293
+STUD BOLTS-20"-LENGTH 220 mm-ASTM A193 B7-WITH TWO NUTS A194 2H | 440 | 2 | 16.45572695329152 | 65.89637504395326 | 19.501757445940868
+STUD BOLTS-4"-LENGTH 100 mm-ASTM A193 B7-WITH TWO NUTS A194 2H | 100 | 1 | 8.22786347664576 | 32.94818752197663 | 4.432217601350198
+SWAGE CONC-BW X SOC_ENG-2"x1"-SCH 80xRED SCH 80-ASTM A105 | 660.4 | 3.206344 | 26.38136069116228 | 105.64322337196464 | 51.22313881880422
+TEE RED-BW-10"x4"-SCH STDxRED SCH STD-ASTM A234 WPB | 1080 | 178.03683 | 1464.8627310547904 | 5865.990860658275 | 191.47180037832854
+TEE RED-BW-10"x6"-SCH STDxRED SCH STD-ASTM A234 WPB | 1296 | 218.37313799999998 | 1796.7443664307243 | 7194.999100586479 | 344.64924068099134
+TEE RED-BW-20"x10"-SCH XSxRED SCH STD-ASTM A234 WPB | 1524 | 483.970052 | 3982.0395146411493 | 15945.936028316783 | 675.4699624457701
+TEE RED-BW-20"x14"-SCH XSxRED SCH STD-ASTM A234 WPB | 1905 | 616.811705 | 5075.042499537099 | 20322.827722090125 | 1182.0724342800977
+TEE RED-BW-6"x4"-SCH STDxRED SCH STD-ASTM A234 WPB | 143 | 12.711902 | 104.5917941845002 | 418.83413085698976 | 25.35228467972313
+TEE RED-BW-8"x4"-SCH STDxRED SCH STD-ASTM A234 WPB | 178 | 23.414005 | 192.64723658150123 | 771.4490273804985 | 31.557389321613403
+TEE RED-BW-8"x6"-SCH STDxRED SCH STD-ASTM A234 WPB | 1246 | 170.42253200000002 | 1402.2133266402936 | 5615.113542306064 | 347.1312825377475
+TEE-BW-20"-SCH XS-ASTM A234 WPB | 762 | 256.501262 | 2110.457365323345 | 8451.251679999657 | 675.4699624457701
+TEE-BW-4"-SCH STD-ASTM A234 WPB | 2100 | 100.92081900000002 | 830.3627206832776 | 3325.158069283462 | 372.3062785134165
+TEE-BW-6"-SCH STD-ASTM A234 WPB | 143 | 12.557926 | 103.32490067782021 | 413.7609007351059 | 38.02842701958469
+TEE-SW-2"-3000LB-ASTM A105 | 648.125 | 35.19 | 289.5385157431643 | 1159.446718898357 | 57.45262065750192
+THERMOWELL-BW-1 1/2"x1 1/2"-ASTM A105 | 2311.400000000001 | 49.19691400000001 | 404.7854918642825 | 1620.9491479745568 | 153.6694164564128
+TRIMMED 45 ELBOW-BW-24"-SCH XS-ASTM A234 WPB (30.00) | 246.463794 | 90.002719 | 740.5300844589115 | 2965.4264630997686 | 262.1714798069638
+TRIMMED 90 LR ELBOW-BW-24"-SCH XS-ASTM A234 WPB (60.00) | 2110.792592 | 715.46952 | 5886.785532261273 | 23573.423911218608 | 2245.3180989748817
+WELDOLET-BW-10"x4"-SCH STD-ASTM A105 | 914.3999999999997 | 30.999726000000013 | 255.06151334142606 | 1021.3847853778941 | 162.1127909869848
+WELDOLET-BW-20"x4"-SCH STD-ASTM A105 | 406.40000000000003 | 13.777656000000004 | 113.3606725961893 | 453.9487935012864 | 72.0501293275488
+WELDOLET-BW-20"x6"-SCH STD-ASTM A105 | 60.3 | 3.559456 | 29.286718019127616 | 117.27762376422484 | 16.03576328168501
+WELDOLET-BW-24"x4"-SCH STD-ASTM A105 | 711.1999999999999 | 24.11089800000001 | 198.38117704333132 | 794.4103886272512 | 126.0877263232104
+WELDOLET-BW-6"x2"-SCH 80-ASTM A105 | 152.4 | 2.244268 | 18.465530709004828 | 73.94456291357143 | 13.509399248915402
+TOTALES | 972914.8579460002 | 57004.501457999984 | 469025.25555067824 | 1878195.003634974 | 343215.49814439093

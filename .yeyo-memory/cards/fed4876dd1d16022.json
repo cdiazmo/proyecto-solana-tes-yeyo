@@ -1,0 +1,30 @@
+{
+  "id": "fed4876dd1d16022",
+  "path": "Documentos en Servidor Atlántica/1950801-DWG-1000-10-DIMENSIONES OBRA CIVIL.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 382372,
+  "size_human": "373 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-DWG-1000-10-DIMENSIONES OBRA CIVIL",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 948,
+  "token_estimate": 237,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/fed4876dd1d16022.json",
+  "extracted_path": ".yeyo-memory/extracted/fed4876dd1d16022.txt",
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Creator": "AutoCAD 2022 - Español (Spanish) 2022 (24.1s (LMS Tech))",
+      "Title": "Layout1",
+      "Producer": "pdfplot16.hdi 16.01.191.00000",
+      "CreationDate": "D:20260408133419",
+      "ModDate": "D:20260408133419"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:27:45.205646+00:00"
+}

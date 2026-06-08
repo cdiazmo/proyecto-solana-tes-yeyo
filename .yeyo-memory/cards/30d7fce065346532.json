@@ -1,0 +1,28 @@
+{
+  "id": "30d7fce065346532",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.9 APM.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 263817,
+  "size_human": "258 KB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.4.9 APM",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3927,
+  "token_estimate": 981,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/30d7fce065346532.json",
+  "extracted_path": ".yeyo-memory/extracted/30d7fce065346532.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "slamp",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:46.601974+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "844f0c8afa22408f",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.6 Formulario pozo 4.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 740437,
+  "size_human": "723 KB",
+  "mtime_iso": "2026-06-08T16:18:00.000Z",
+  "title": "5.9.5.6 Formulario pozo 4",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/844f0c8afa22408f.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 6,
+    "pdf_metadata": {
+      "Creator": "Canon iR2525",
+      "CreationDate": "D:20120322105449+01'00'",
+      "Producer": "Canon iR2525"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:55.876976+00:00"
+}

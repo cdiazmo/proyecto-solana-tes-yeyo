@@ -1,0 +1,1769 @@
+[page 1]
+ 
+ 
+* El presente documento concierne única y exclusivamente a la instalación sometida a ensayo y al momento y condiciones en que se realizaron las pruebas. 
+* Queda terminantemente prohibida la reproducción parcial del presente documento, salvo autorización expresa por escrito de TECNALIA. 
+ 
+ 
+4/LE148 
+ 
+ 
+ 
+FUNDACIÓN TECNALIA RESEARCH & INNOVATION 
+C/ Vega de Tapia, s/n 
+48903 Barakaldo (Bizkaia) 
+Teléfono: 902 760 004 - Fax: 901 706 009 
+CIF: G48975767 
+ 
+Informe de Ensayos 
+Nº B27-12-220Helios1-01 (v01)
+ Página 1 de 21 
+ 
+ 
+ENSAYOS DE PUESTA EN SERVICIO EN INSTALACIONES 
+SUBTERRÁNEAS DE ALTA TENSIÓN 
+PLANTA TERMOSOLAR HELIOS 1 220 kV 
+ 
+ 
+
+[page 2]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 2 de 21 
+ 
+ 
+ 
+ENSAYOS DE PUESTA EN SERVICIO EN INSTALACIONES 
+SUBTERRÁNEAS DE ALTA TENSIÓN 
+PLANTA TERMOSOLAR HELIOS 1 220 kV 
+ 
+ 
+ 
+ UNIDAD DE ENERGÍA SERVICIOS 
+ Informe: Nº B27-12-220Helios1-01 (v01) 
+ Fecha de Emisión: 19-01-2012 
+ 
+ 
+ 
+ Datos del Solicitante: 
+ INSTALACIONES INABENSA S.A. 
+ Campus Palmas Altas. C/ Energía Solar 1, Palmas Altas 
+ 41014 SEVILLA 
+ 
+ 
+ 
+ 
+ 
+Responsable de Ensayos Gerente Energía Servicios 
+ 
+ 
+ 
+Joxe Mari Doval Aitor Kortajarena 
+ 
+ 
+ 
+
+[page 3]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 3 de 21 
+ 
+ÍNDICE 
+ 
+1. OBJETO..................................................................................................................................................4 
+2. INTRODUCCIÓN.....................................................................................................................................4 
+3. CARACTERÍSTICAS DE LA INSTALACIÓN.........................................................................................5 
+4. NORMATIVA DE REFERENCIA ............................................................................................................6 
+5. ENSAYOS REALIZADOS.......................................................................................................................6 
+6. DESCRIPCIÓN Y RESULTADO DE LOS ENSAYOS............................................................................7 
+6.1. MEDIDA DE LA RESISTENCIA DEL CONDUCTOR ....................................................................................7 
+6.2. MEDIDA DE LA RESISTENCIA DE LA PANTALLA.....................................................................................8 
+6.3. MEDIDA DE CAPACIDAD Y TANGENTE DELTA.......................................................................................9 
+6.4. ENSAYO SOBRE LA CUBIERTA DEL CABLE.........................................................................................10 
+6.5. MEDIDA DE DESCARGAS PARCIALES.................................................................................................11 
+6.6. ENSAYO RESONANTE.......................................................................................................................19 
+7. CONCLUSIONES..................................................................................................................................20 
+8. FOTOGRAFÍAS ....................................................................................................................................21 
+8.1. DISPOSICIÓN DE ENSAYO EN SUBESTACIÓN COLECTORA ..............................................................21 
+8.2. TERMINALES EN SUBESTACIÓN PLANTA TERMOSOLAR......................................................................21 
+ 
+ 
+
+[page 4]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 4 de 21 
+ 
+1. OBJETO 
+ 
+Este informe tiene por objeto presentar el desarrollo y resultado de los ensayos previos a la puesta en servicio 
+del circuito trifásico de cable aislado de 220 kV para la evacuación a la red de la energía generada en la planta 
+termosolar HELIOS 1, situada en el municipio de Arenas de San Juan, en la provincia de Ciudad Real. 
+ 
+ 
+2. INTRODUCCIÓN 
+ 
+Los ensayos se realizaron a petición de INSTALACIONES INABENSA S.A. de acuerdo con el Pedido de 
+referencia 4500178659 de fecha 4 de Enero. 
+ 
+Para la ejecución de los ensayos, técnicos de TECNA LIA se desplazaron junto con los equipos y medios 
+necesarios a la provincia de Ciudad Real. De acuerdo con los requerimientos del cliente, las pruebas se 
+llevaron a cabo entre los días 11 y 17 de Enero 2012. 
+ 
+El objeto de los ensayos es comprobar que el tendido del cable y el montaje de los accesorios se ha realizado 
+correctamente y, por tanto, el circuito se encuentra en condiciones de ser conectado a la red para su puesta en 
+servicio. 
+ 
+Las personas que intervinieron en la ejecución de los ensayos fueron las siguientes: 
+• Mikel Saralegi, TECNALIA 
+• Mikel Abellanal, TECNALIA 
+• Eneko Astondoa, TECNALIA 
+• David Souto, TECNALIA 
+ 
+ 
+
+[page 5]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 5 de 21 
+ 
+3. CARACTERÍSTICAS DE LA INSTALACIÓN 
+ 
+Características del Circuito
+ 
+ 
+Identificación: HELIOS 1 
+Lugar: Arenas de San Juan, Ciudad Real 
+Tensión Nominal: 220 kV 
+Número de Circuitos: 1 Trifásico 
+Longitud: 1.291 m por fase 
+Empalmes: 1 cámara no accesible (conexión directa de pantallas) 
+Terminales: Exterior en Pórtico en Subestación COLECTORA 
+Exterior en Pórtico en Subestación HELIOS 1 
+ 
+Características del Cable
+ 
+ 
+Fabricante: TELE-FONIKA KABLE 
+Modelo: A2XS(FL)2Y 1X300/50 127/220 (245 kV) 
+ 
+Características de los Terminales de Exterior
+ 
+Fabricante: PFISTERER 
+Modelo: ESS245.C84 
+ 
+Características de los Empalmes
+ 
+Fabricante: PFISTERER 
+Modelo: MSA245-DOG 
+ 
+ 
+
+[page 6]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 6 de 21 
+ 
+4. NORMATIVA DE REFERENCIA 
+ 
+Para la realización de los ensayos objeto de este Informe se han tomado como referencia las prescripciones 
+recogidas en los siguientes documentos: 
+ 
+• Norma IEC 62067:2011 - Power cables with extruded insulation and their accessories for rated voltages 
+above 150 kV (Um = 170 kV) up to 500 kV (Um = 550 kV) – Test methods and requirements. 
+• UNE 211006:2010 – Ensayos previos a la puesta en servic io de sistemas de cables eléctricos de alta 
+tensión en corriente alterna. 
+• Especificación Técnica ET160 de RED ELÉCTRICA (REE). Ensayos de puesta en servicio de líneas 
+subterráneas. 
+ 
+ 
+5. ENSAYOS REALIZADOS 
+ 
+A petición del cliente se llevaron a cabo los siguientes ensayos: 
+ 
+♦ Medida de la resistencia óhmica del Conductor 
+♦ Medida de la resistencia óhmica de la Pantalla 
+♦ Medida de la Capacidad 
+♦ Medida de la Tangente Delta 
+♦ Ensayo de rigidez de la cubierta 
+♦ Medida de Descargas Parciales 
+♦ Ensayo de Tensión Resonante 
+ 
+Para los ensayos de alta tensión se situó el sistema resonante en la Subestación COLECTORA, desde donde 
+se dispuso la acometida a los terminales en pórtico del circuito. 
+ 
+Se dispone del cálculo de las incertidumbres en las medidas realizadas. 
+ 
+ 
+ 
+ 
+
+[page 7]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 7 de 21 
+ 
+6. DESCRIPCIÓN Y RESULTADO DE LOS ENSAYOS 
+ 
+ 
+6.1. Medida de la Resistencia del Conductor 
+ 
+Equipo
+ 
+ 
+Medidor universal de impedancias CPC100 con unidad de acoplamiento CP CU1 de OMICRON. 
+ 
+Procedimiento
+ 
+ 
+La medida se llevó a cabo mediante la inyección de corriente continua en uno de los extremos de la línea entre 
+los conductores de cada dos fases, unidos entre sí en el extremo opuesto. Se sustrajo de la medida tomada la 
+resistencia del puente utilizado en la unión de dos fases. 
+ 
+Resultado
+ 
+ 
+Las medidas obtenidas son las siguientes: 
+ 
+HELIOS 1 1 2 3 
+Resistencia (m ҏ @ 20ºC) 125,4 124,3 125,8 
+Resistencia (m /km @ 20ºC) 97,1 96,3 97,5 
+ 
+ 
+Los valores medidos difieren en torno a un 4% con respec to al valor de resistencia máximo definido por el 
+fabricante (100 mΩ/km). 
+ 
+
+[page 8]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 8 de 21 
+ 
+6.2. Medida de la Resistencia de la Pantalla 
+ 
+Equipo
+ 
+ 
+Medidor universal de impedancias CPC100 con unidad de acoplamiento CP CU1 de OMICRON. 
+ 
+Procedimiento
+ 
+ 
+La medida se llevó a cabo mediante la inyección de corriente continua en uno de los extremos de la línea entre 
+las pantallas de cada dos fases, unidos entre sí en el extremo opuesto. 
+ 
+Resultado
+ 
+ 
+Las medidas obtenidas son las siguientes: 
+ 
+HELIOS 1 1 2 3 
+Resistencia (m ҏ@ 20ºC) 262,6 260,2 263,2 
+Resistencia (m /km @ 20ºC) 203,4 201,6 203,9 
+ 
+ 
+Los valores medidos difieren en torno a un 46% con respecto al valor de resistencia calculado para una 
+sección de 50 mm2 en cobre (340 mΩ/km). 
+ 
+ 
+
+[page 9]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 9 de 21 
+ 
+6.3. Medida de Capacidad y Tangente Delta 
+ 
+Equipo
+ 
+ 
+Puente de medida de capacidad y tangente de delta TETTEX 2805. 
+Condensador patrón de papel impregnado en aceite TETTEX 1010 nF, 25 kV. 
+ 
+Procedimiento
+ 
+ 
+La medida se realizó entre el conductor del cable y la pantalla metálica. 
+ 
+Resultado
+ 
+ 
+Las medidas obtenidas son las siguientes: 
+ 
+HELIOS 1 1 2 3 
+Capacidad (nF) 140,73 140,85 141,15 
+Capacidad ( F/km) 0,108 0,108 0,108 
+Tangente Delta (x 10-4) < 2 < 2 < 2 
+ 
+Los valores de capacidad medidos difieren en menos del 4% con respecto al valor especificado por el 
+fabricante (0,112 ȝF/km). 
+El valor de tangente de delta medido es inferior al valor máximo especificado por el fabricante (10 x 10-4). 
+
+[page 10]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 10 de 21 
+ 
+6.4. Ensayo sobre la Cubierta del Cable 
+ 
+Equipo
+ 
+ 
+Equipo de Rigidez en Continua BAUR PGK25. 
+ 
+Procedimiento
+ 
+ 
+Se aplicó una tensión de 10 kV cc entre la pantalla metálica y tierra durante 1 minuto en cada una de las fases 
+del circuito. 
+ 
+Resultado
+ 
+ 
+No se produjo perforación de la cubierta en ninguna de las fases ensayadas. La corriente de fuga no superó en 
+ningún caso el valor de 1,5 mA/km. 
+ 
+ HELIOS 1 
+Fase 1 2 3 
+Corriente Fuga ( A) 10 12 8 
+Corriente Fuga (mA/km) 0,01 0,01 0,01 
+ 
+ 
+
+[page 11]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 11 de 21 
+ 
+6.5. Medida de Descargas Parciales 
+ 
+La medida de descargas parciales se llevó a cabo individualmente en cada uno de los accesorios accesibles y 
+con anterioridad a la ejecución del ensayo resonante. 
+ 
+Para la realización de las medidas se utilizaron los equipos y se siguieron las prescripciones que se indican a 
+continuación. 
+ 
+Sistema de Medida
+ 
+ 
+El sistema de medida consta de: 
+ Sensores Inductivos HFCT, con anchura de banda comprendida entre 800 kHz y 10 MHz. 
+ 
+ 
+Figura 1. Sensores Inductivos HFCT 
+ 
+ Advanced Partial Discharge Analysis System MP D 540 MTRONIX, con frecuencia central comprendida 
+entre 0 y 20 MHz y anchura de banda entre 100 kHz y 3 MHz. 
+
+[page 12]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 12 de 21 
+ 
+ 
+Figura 2. MPD 540 (unidad de adquisición, batería, fibra óptica, interfaz USB, portátil) 
+ 
+Procedimiento
+ 
+ 
+Las medidas fueron realizadas en los terminales de cada una de las fases del circuito, colocando los sensores 
+inductivos HFCT abrazando los cables de puesta a tierra de las pantallas, sucesivamente en cada uno de los 
+accesorios. 
+ 
+La medida se llevó a cabo aplicando en cada una de las fases una tensión senoidal de 178 kV (1,4 Uo) a una 
+frecuencia de resonancia de 98 Hz, determinada por las características constructivas del cable y la longitud del 
+circuito. 
+ 
+Se seleccionaron para las medidas los rangos de frecuencia adecuados para conseguir optimizar la relación 
+señal/ruido. 
+ 
+Resultados
+ 
+ 
+A continuación se muestran los patrones obtenidos en las medidas realizadas en cada accesorio por fase 
+del circuito. 
+
+[page 13]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 13 de 21 
+ 
+ 
+ 
+ 
+ 
+Figura 3. Medida de Descargas Parciales, Terminal Exterior ST COLECTORA, Fase 1 
+ 
+ 
+ 
+Figura 4. Medida de Descargas Parciales, Empalme 1, Fase 1 
+
+[page 14]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 14 de 21 
+ 
+ 
+ 
+ 
+Figura 5. Medida de Descargas Parciales, Terminal Exterior ST HELIOS 1, Fase 1 
+ 
+ 
+ 
+ 
+Figura 6. Medida de Descargas Parciales, Terminal Exterior ST COLECTORA, Fase 2 
+ 
+
+[page 15]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 15 de 21 
+ 
+ 
+ 
+ 
+Figura 7. Medida de Descargas Parciales, Empalme 1, Fase 2 
+ 
+ 
+ 
+ 
+Figura 8. Medida de Descargas Parciales, Terminal Exterior ST HELIOS 1, Fase 2 
+ 
+
+[page 16]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 16 de 21 
+ 
+ 
+ 
+ 
+Figura 9. Medida de Descargas Parciales, Terminal Exterior ST COLECTORA, Fase 3 
+ 
+ 
+ 
+Figura 10. Medida de Descargas Parciales, Empalme 1, Fase 3 
+ 
+ 
+
+[page 17]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 17 de 21 
+ 
+ 
+ 
+ 
+Figura 11. Medida de Descargas Parciales, Terminal Exterior ST HELIOS 1, Fase 3 
+
+[page 18]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 18 de 21 
+ 
+Se observa en algunos patrones señales de ruido externo, de similares características en las 3 fases, así como 
+perturbaciones por elementos flotantes en las proximidades de la Fase 3 en ST COLECTORA. Dichas señales 
+no responden a patrones de descargas parciales procedentes del aislamiento del cable o de los accesorios. 
+ 
+Una vez filtrado el ruido externo acoplado, los resultados obtenidos en las medidas de descargas parciales son 
+los siguientes: 
+ 
+HELIOS 1 0 4 8 
+Terminal Exterior ST COLECTORA < 20 pC < 30 pC < 20 pC 
+Empalme 1 < 30 pC < 35 pC < 35 pC 
+Terminal Exterior ST HELIOS 1 < 50 pC < 40 pC < 40 pC 
+ 
+ 
+Los valores indicados corresponden al ruido de fondo. 
+ 
+Los niveles de descargas parciales que se indican en los empalmes se han obtenido a partir de las medidas 
+realizadas en los terminales a frecuencias inferiores de 5 MHz, al no ser posible la medida local por no 
+disponer de pantallas accesibles. 
+ 
+No se detecta la presencia de Descargas Parciales procedentes del cable o de los accesorios en ninguna de 
+las medidas realizadas. 
+
+[page 19]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 19 de 21 
+ 
+6.6. Ensayo Resonante 
+ 
+Una vez realizada la medida de Descargas Parciales sin detectar descargas generadas internamente en el 
+aislamiento del cable o en los accesorios, se proc edió a la ejecución del ensayo resonante empleando el 
+sistema de ensayo y el procedimiento que se indican a continuación. 
+ 
+Sistema de Ensayo
+ 
+ 
+Sistema Resonante de Frecuencia Variable Tipo WRV 80/260 T de HIGHVOLT, cuyas características básicas 
+son: 
+ Tensión máxima: 260 kV 
+ Corriente máxima: 80 A 
+ Rango de frecuencia: 20-300 Hz 
+ Capacidad máxima: 3.958 nF a 160 kV; 1.515 nF a 260 kV 
+ 
+Procedimiento
+ 
+ 
+Se aplicó una tensión de 180 kV (1,4 Uo), durante 1 hora, entre el conductor del cable y la pantalla metálica. 
+ 
+El ensayo se llevó a cabo simultáneamente en las tres fases del circuito a una frecuencia de resonancia de 59 
+Hz, determinada por las características constructivas del cable y su longitud total. 
+ 
+Resultados
+ 
+ 
+No se produjo en ninguna de las fases sometidas a ensayo la perforación del aislamiento en el cable ni en los 
+accesorios. 
+
+[page 20]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 20 de 21 
+ 
+7. CONCLUSIONES 
+ 
+Se llevaron a cabo los ensayos previos a la puesta en servicio del circuito subterráneo de cable aislado de 220 
+kV que transcurre entre la Subestación COLECTORA y la Subestación de las planta termosolar HELIOS 1. 
+ 
+Los resultados de los ensayos del aislamiento principal y de la cubierta fueron satisfactorios, sin que se 
+detectara presencia de descargas parciales por encim a del nivel de ruido de fondo existente y sin que se 
+produjera la perforación del aislamiento principal o la cubierta en el cable ni en sus accesorios. 
+ 
+La medida de la resistencia de la pantalla difiere considerablemente del valor especificado por el fabricante. 
+ 
+ 
+ 
+ 
+
+[page 21]
+ 
+ 
+Informe Nº B27-12-220Helios1-01 (v01) Página 21 de 21 
+ 
+8. FOTOGRAFÍAS 
+ 
+8.1. Disposición de Ensayo en Subestación COLECTORA 
+ 
+ 
+ 
+8.2. Terminales en Subestación Planta Termosolar 
+ 
+ 
+
+[page 22]
+1
+ Certificate of Calibration
+ NÚMERO ZEL-B1113-MT-L110071-081 Página 1 de 3
+ Number Page 1 of
+Ref. INTERNA: ZEL B1113-MT-L110071-081 
+FUNDACIÓN TECNALIA RESEARCH & INNOVATION
+LABORATORIO METROLOGIA
+Parque Tecnológico de Bizkaia, Edificio 101
+48170 ZAMUDIO
+Tfno: 94-6073550 Fax: 94-6073540
+OBJETO: CALIBRADOR DE DESCARGAS PARCIALES
+Item
+MARCA: LDIC
+Mark
+MODELO:
+Model
+IDENTIFICACIÓN: Nº CODIGO: OE084LK1
+Identification
+SOLICITANTE: TECNALIA R & I (Unid. Energia)
+Applicant Vega de Tapia, s/n.
+48903-BURTZEÑA
+FECHA DE CALIBRACIÓN: 01/07/11
+Date of calibration
+ 
+ 
+Fecha de emisión
+Date of issue RESPONSABLE TÉCNICO
+01/07/11 Dionisio Amil 
+Este certificado Los resultados co This certificate is an The results of th -
+64325031
+Signatario/s autorizado/s
+Authorised Signatory/ies
+Este certificado expresa fielmente el resultado de las medidas realizadas. No podrá ser reproducido parcialmente, excepto cuando se haya obtenido previamente permiso por escrito del laboratorio que lo emite.
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones. El laboratorio que lo e mite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de
+los instrumentos calibrados.
+This certificate is an accurate of the results of measurements performed. This Certificate may not be partially reproduced, except whit the prior written permission of the issuing laboratory.
+The results of this Certificate refer to the moment and conditions in which the measurements were made. The issuing Laboratory assumes no responsabil ity for demages ensuing misuse of the calibrated instruments.
+LDC-5
+ CERTIFICADO DE CALIBRACION
+
+[page 23]
+2
+TECNALIA - Laboratorio Metrología www.tecnalia.com
+ NÚMERO ZEL-B1113-MT-L110071-081 
+Ref. INTERNA: ZEL B1113-MT-L110071-081 
+Página 2 de 3
+ 1. MÉTODO UTILIZADO EN LA CALIBRACIÓN.
+A petición del solicitante, el equipo ha sido calibrado en las escalas y márgenes recogidos en las páginas de resultados.
+ 2. INCERTIDUMBRE DE CALIBRACIÓN.
+ 
+ 3. TRAZABILIDAD.
+ 4. PATRONES EMPLEADOS EN LA CALIBRACIÓN.
+ 5. EMPLAZAMIENTO Y CONDICIONES AMBIENTALES.
+Esta calibración ha sido realizada en el Laboratorio de Metrología de TECNALIA.
+A una temperatura de 23 +/-2 ºC, y una humedad relativa de <70 %Hr.
+ 6. RESULTADOS.
+Los resultados de la calibración se encuentran recogidos a partir de la página 3 del certificado.
+Los valores indicados en las tablas de resultados son absolutos y en las mismas unidades que las indicadas en la columna dos.
+NOTAS:
+Los valores dados en las tablas de resultados, corresponden al valor medio aritmético de las lecturas realizadas, por lo que el número de dígitos 
+que se reseñan, puede no corresponder con el número de dígitos indicados por el mensurando.
+El análisis de los resultados sólo se realiza si existen datos en la columna de las tolerancias (TOL), pudiendo ser el resultado uno, dos o la ausencia de asteriscos.
+Un asterisco (*) en la última columna de las páginas de resultados, significa que no se puede asegurar el cumplimiento de las especificaciones en dicho punto.
+ Dos asterisco(**), significa que los valores absolutos de la corrección menos la incertidumbre, es mayor que la tolerancia, es decir:
+el equipo está fuera de las tolerancias indicadas en la columna TOL.
+La ausencia del asterisco significa que los errores intrinsecos encontrados en la calibración, son inferiores a los errores límites indicados en la columna TOL..
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones.
+El laboratorio que lo emite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de los instrumentos calibrados.
+ 
+La trazabilidad de las medidas realizadas se refieren a nuestros patrones de referencia calibrados periódicamente en los laboratorios de
+calibración CEM, INTA, LCOE, ROA Y AGILENT.
+ 
+DL9240 91H136704OSCILOSCOPIO
+ 
+CÓDIGONº SERIEMODELOEQUIPO
+En el cálculo de incertidumbre se ha tenido en cuenta las componentes de incertidumbres de los patrones, del método de calibración, las
+condiciones ambientales y la resolución del equipo a calibrar según el procedimiento indicado en el apartado 1.
+La incertidumbre típica de medición se ha determinado conforme al documento EA4/02
+La incertidumbre expandida de medida se ha obtenido multiplicando la incertidumbre típica de medida por el factor de cobertura k=2 que,
+para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%
+Para la calibración se ha aplicado el(los) procedimiento(s): PE.EB-84-C
+MARCA
+YOKOGAWA
+ 
+MT022YO01
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 24]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 3
+ NÚMERO ZEL-B1113-MT-L110071-081 
+Ref. INTERNA: ZEL B1113-MT-L110071-081 
+Página 3 de 3
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: CALIBRADOR DE DESCARGAS PARCIALES
+FABRICANTE: LDIC Nº SERIE:
+MODELO: LDC-5 CÓDIGO:
+MAGNITUD: DESCARGAS PARCIALES
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. * / **
+(Hz) MENTO CCIÓN +/- +/-
+ 
+500 pC 500.00 497.50 -2.5 2.6E+01 
+100 pC 100.00 100.75 0.8 5.3E+00 
+20 pC 20.00 20.24 0.2 1.1E+00 
+5 pC 5.000 4.995 -0.01 2.7E-01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+64325031
+OE084LK1
+
+[page 25]
+1
+ Certificate of Calibration
+ NÚMERO ZEL-17757 Página 1 de 9
+ Number Page 1 of
+ Nº 33/LC068
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+FUNDACIÓN TECNALIA RESEARCH & INNOVATION
+LABORATORIO METROLOGIA
+Parque Tecnológico de Bizkaia, Edificio 101
+48170 ZAMUDIO
+Tfno: 94-6073550 Fax: 94-6073540
+OBJETO: EQUIPO MULTIFUNCION
+Item
+MARCA: OMICRON
+Mark
+MODELO:
+Model
+IDENTIFICACIÓN: Nº CODIGO: -
+Identification
+SOLICITANTE: LABEIN - Unidad de Energía (Burtzeña)
+Applicant Vega de Tapia, s/n.
+48903-BURTZEÑA
+FECHA DE CALIBRACIÓN: 10...13/12/2010
+Date of calibration
+ 
+ 
+Fecha de emisión
+Date of issue RESPONSABLE TÉCNICO
+13/12/10 Dionisio Amil
+Este certificadoEste certifi Los resultados coENAC es firmante deThis certificate is issuThis certificate may The results of th ENAC is one of th -
+JH873Q
+Signatario/s autorizado/s
+Authorised Signatory/ies
+Este certificado se expide de acuerdo con las condiciones de la acreditación concedida por ENAC, que ha comprobado las capacidades de medida del laboratorio y su trazabilidad a patrones nacionales o internacionales.
+Este certificado no podrá ser reproducido parcialmente sin la aprobación por escrito del laboratorio que lo emite y de ENAC.
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones. El laboratorio que lo e mite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de
+los instrumentos calibrados.
+ENAC es firmante del Acuerdo de Reconocimiento Mutuo (MLA) de calibración de European Cooperation for Accreditatio (EA) y de international Laboratory Accreditation Cooperation (ILAC).
+This certificate is issued in acordance with the conditions of accreditation granted by ENAC which has assessed the measurement capability of the laboratory and its trazability to national standards.
+This certificate may not by partially reproduced, except whit the prior written permission of the issuing laboratory and ENAC.
+The results of this Certificate refer to the moment and conditions in which the measurements were made. The issuing Laboratory assumes no responsability for demages ensuing misuse of the calibrated instruments.
+ENAC is one of the signatories of the Multilateral Agreement of the European Cooperation for Accreditation (EA) and the International Laboratories Accreditation Cooperation (ILAC).
+CPC 100
+ CERTIFICADO DE CALIBRACION
+
+[page 26]
+2
+TECNALIA - Laboratorio Metrología www.tecnalia.com
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 2 de 9
+ 1. MÉTODO UTILIZADO EN LA CALIBRACIÓN.
+A petición del solicitante, el equipo ha sido calibrado en las escalas y márgenes recogidos en las páginas de resultados.
+ 2. INCERTIDUMBRE DE CALIBRACIÓN.
+ 
+ 3. TRAZABILIDAD.
+ 4. PATRONES EMPLEADOS EN LA CALIBRACIÓN.
+ 5. EMPLAZAMIENTO Y CONDICIONES AMBIENTALES.
+Esta calibración ha sido realizada en el Laboratorio de Metrología de TECNALIA.
+A una temperatura de 23 +/3 ºC, y una humedad relativa de <70 %Hr.
+ 6. RESULTADOS.
+Los resultados de la calibración se encuentran recogidos a partir de la página 3 del certificado.
+Los valores indicados en las tablas de resultados son absolutos y en las mismas unidades que las indicadas en la columna dos.
+NOTAS:
+Los valores dados en las tablas de resultados, corresponden al valor medio aritmético de las lecturas realizadas, por lo que el número de dígitos 
+que se reseñan, puede no corresponder con el número de dígitos indicados por el mensurando.
+El análisis de los resultados sólo se realiza si existen datos en la columna de las tolerancias (TOL), pudiendo ser el resultado uno, dos o la ausencia de asteriscos.
+Un asterisco (*) en la última columna de las páginas de resultados, significa que no se puede asegurar el cumplimiento de las especificaciones en dicho punto.
+ Dos asterisco(**), significa que los valores absolutos de la corrección menos la incertidumbre, es mayor que la tolerancia, es decir:
+el equipo está fuera de las tolerancias indicadas en la columna TOL.
+La ausencia del asterisco significa que los errores intrinsecos encontrados en la calibración, son inferiores a los errores límites indicados en la columna TOL..
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones.
+El laboratorio que lo emite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de los instrumentos calibrados.
+ 
+La trazabilidad de las medidas realizadas se refieren a nuestros patrones de referencia calibrados periódicamente en los laboratorios de
+calibración CEM, INTA, LCOE, ROA Y AGILENT.
+ 
+3458 A 2823A18038MULTIMETRO DIGITAL
+0E084SN1
+CÓDIGONº SERIEMODELOEQUIPO
+En el cálculo de incertidumbre se ha tenido en cuenta las componentes de incertidumbres de los patrones, del método de calibración, las
+condiciones ambientales y la resolución del equipo a calibrar según el procedimiento indicado en el apartado 1.
+La incertidumbre típica de medición se ha determinado conforme al documento EA4/02
+La incertidumbre expandida de medida se ha obtenido multiplicando la incertidumbre típica de medida por el factor de cobertura k=2 que,
+para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%
+Para la calibración se ha aplicado el(los) procedimiento(s): PE.MT-103-BF-C
+MARCA
+H.P.
+ 
+0E080HP6
+VATÍMETRO DIGITAL TRIFÁSICO YOKOGAWA WT3000 27E214116 MT084YO16
+0E080FL21
+T. INTENSIDAD SANGANO S4.A.12 B31273
+CALIBRADOR MULTIFUNCION FLUKE 5500 A 7341009
+0E081FL5
+Sistema de medida de alta tensión ELABO 94-8A EU41004 MT080EL310
+CALIBRADOR FLUKE 5700 A 5115010
+0E080TT6
+R. 1 Ohm TETTEX 3204 133379 0E080TT5
+R. 10 Ohm TETTEX 3205 134674
+0E080TT4R. 100 mOhm TETTEX 3203 134627
+
+[page 27]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 3
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 3 de 9
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: EQUIPO MULTIFUNCION
+FABRICANTE: OMICRON Nº SERIE:
+MODELO: CPC 100 CÓDIGO:
+MAGNITUD: MEDIDA TENSIÓN CORRIENTE ALTERNA
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+MEDIDA DE TENSIÓN (V1 ac)
+300 mV 50 29.9950 30.0000 0.005 3.90E-01 9.5E-02 
+300 mV 50 150.000 150.000 0.00 7.50E-01 1.7E-01 
+300 mV 50 289.900 290.000 0.10 1.17E+00 3.1E-01 
+3 V 50 0.299900 0.300000 0.00010 3.90E-03 3.2E-04 
+3 V 50 1.49980 1.50000 0.0002 7.50E-03 1.6E-03 
+3 V 50 2.89965 2.90000 0.0004 1.17E-02 3.0E-03 
+30 V 50 2.99965 3.00000 0.0004 3.90E-02 3.2E-03 
+30 V 50 14.9996 15.0000 0.000 7.50E-02 1.6E-02 
+30 V 50 29.0000 29.0000 0.000 1.17E-01 3.0E-02 
+300 V 50 30.0000 30.0000 0.000 3.90E-01 3.2E-02 
+300 V 50 89.997 90.000 0.00 5.70E-01 1.1E-01 
+300 V 50 150.000 150.000 0.00 7.50E-01 1.9E-01 
+300 V 50 210.000 210.000 0.00 9.30E-01 2.6E-01 
+300 V 50 290.000 290.000 0.00 1.17E+00 3.7E-01 
+ 
+ENTRADA DE TENSIÓN (V2 ac)
+30 mV 50 2.9900 3.0000 0.010 1.56E-01 8.4E-02 NO 
+30 mV 50 14.9900 15.0000 0.010 1.80E-01 7.9E-02 NO 
+30 mV 50 28.9900 29.0000 0.010 2.08E-01 9.2E-02 
+300 mV 50 29.9880 30.0000 0.012 1.56E+00 9.5E-02 
+300 mV 50 150.000 150.000 0.00 1.80E+00 1.7E-01 
+300 mV 50 290.000 290.000 0.00 2.08E+00 3.1E-01 
+3 V 50 0.300000 0.300000 0.00000 1.56E-02 3.2E-04 
+3 V 50 0.899900 0.900000 0.00010 1.68E-02 9.5E-04 
+3 V 50 1.49990 1.50000 0.0001 1.80E-02 1.6E-03 
+3 V 50 2.09980 2.10000 0.0002 1.92E-02 2.2E-03 
+3 V 50 2.89980 2.90000 0.0002 2.08E-02 3.0E-03 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+JH873Q
+-
+
+[page 28]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 4
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 4 de 9
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: EQUIPO MULTIFUNCION
+FABRICANTE: OMICRON Nº SERIE:
+MODELO: CPC 100 CÓDIGO:
+MAGNITUD: MEDIDA TENSIÓN CORRIENTE CONTINUA
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+ 
+10 mV 0.998000 1.000000 0.00200 3.10E-02 8.0E-04 
+10 mV -1.001000 -1.000000 0.00100 3.10E-02 8.0E-04 
+10 mV 4.99850 5.00000 0.0015 3.50E-02 2.7E-03 
+10 mV 8.99840 9.00000 0.0016 3.90E-02 4.8E-03 
+10 mV -9.00100 -9.00000 0.0010 3.90E-02 4.8E-03 
+100 mV 9.99850 10.00000 0.0015 3.10E-01 6.4E-03 
+100 mV -10.00000 -10.00000 0.0000 3.10E-01 6.4E-03 
+100 mV 50.0000 50.0000 0.000 3.50E-01 1.2E-02 
+100 mV 90.0000 90.0000 0.000 3.90E-01 2.0E-02 
+100 mV -90.0040 -90.0000 0.004 3.90E-01 2.0E-02 
+1 V 0.1000000 0.1000000 0.000000 3.10E-03 6.1E-05 
+1 V -0.1000000 -0.1000000 0.000000 3.10E-03 6.1E-05 
+1 V 0.5000200 0.5000000 -0.000020 3.50E-03 6.8E-05 
+1 V 0.9000000 0.9000000 0.000000 3.90E-03 6.5E-05 
+1 V -0.899260 -0.900000 -0.00074 3.90E-03 5.8E-04 
+10 V 1.0000000 1.0000000 0.000000 3.10E-02 6.4E-05 
+10 V -1.0000000 -1.0000000 0.000000 3.10E-02 6.4E-05 
+10 V 2.997090 3.000000 0.00291 3.30E-02 1.0E-04 
+10 V 4.997190 5.000000 0.00281 3.50E-02 1.3E-04 
+10 V 6.996840 7.000000 0.00316 3.70E-02 1.7E-04 
+10 V 8.996670 9.000000 0.00333 3.90E-02 2.0E-04 
+10 V -9.002680 -9.000000 0.00268 3.90E-02 2.0E-04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+JH873Q
+-
+
+[page 29]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 5
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 5 de 9
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: EQUIPO MULTIFUNCION
+FABRICANTE: OMICRON Nº SERIE:
+MODELO: CPC 100 CÓDIGO:
+MAGNITUD: MEDIDA DE INTENSIDAD
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+INTENSIDAD CORRIENTE CONTINUA
+1 A 0.0996010 0.1000000 0.000399 1.55E-03 7.3E-05 
+1 A -0.1006000 -0.1000000 0.000600 1.55E-03 6.8E-05 
+1 A 0.499500 0.500000 0.00050 1.75E-03 3.2E-04 
+1 A 0.899600 0.900000 0.00040 1.95E-03 5.7E-04 
+1 A -0.900600 -0.900000 0.00060 1.95E-03 5.7E-04 
+10 A 1.000000 1.000000 0.00000 1.55E-02 6.3E-04 
+10 A -1.000500 -1.000000 0.00050 1.55E-02 6.3E-04 
+10 A 2.99890 3.00000 0.0011 1.65E-02 1.9E-03 
+10 A 4.99920 5.00000 0.0008 1.75E-02 6.3E-03 
+10 A 6.99935 7.00000 0.0007 1.85E-02 8.8E-03 
+10 A 9.0001 9.0000 0.000 1.95E-02 1.1E-02 
+10 A -9.0023 -9.0000 0.002 1.95E-02 1.1E-02 
+ 
+INTENSIDAD CORRIENTE ALTERNA
+1 A 50 0.100000 0.100000 0.00000 1.55E-03 2.4E-04 
+1 A 50 0.300000 0.300000 0.00000 1.65E-03 7.0E-04 
+1 A 50 0.50000 0.50000 0.0000 1.75E-03 1.2E-03 
+1 A 50 0.70000 0.70000 0.0000 1.85E-03 1.6E-03 
+1 A 50 0.90000 0.90000 0.0000 1.95E-03 2.1E-03 *
+10 A 50 1.00006 1.00000 -0.0001 1.55E-02 2.3E-03 
+10 A 50 2.99912 3.00000 0.0009 1.65E-02 6.9E-03 
+10 A 50 4.9989 5.0000 0.001 1.75E-02 1.2E-02 
+10 A 50 6.9990 7.0000 0.001 1.85E-02 1.6E-02 
+10 A 50 8.9991 9.0000 0.001 1.95E-02 2.1E-02 *
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+JH873Q
+-
+
+[page 30]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 6
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 6 de 9
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: EQUIPO MULTIFUNCION
+FABRICANTE: OMICRON Nº SERIE:
+MODELO: CPC 100 CÓDIGO:
+MAGNITUD: FUENTE DE TENSIÓN
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+ 
+130 V 50 13.00000 12.91807 -0.0819 9.5E-03 
+130 V 50 39.0000 38.8189 -0.181 2.1E-02 
+130 V 50 65.0000 64.7343 -0.266 3.5E-02 
+130 V 50 91.0000 90.7054 -0.295 4.8E-02 
+130 V 50 120.000 119.748 -0.25 1.3E-01 
+130 V 100 65.0000 65.1356 0.136 3.5E-02 
+130 V 400 65.0000 67.8751 2.875 3.6E-02 
+500 V 50 50.0000 50.0850 0.085 5.50E-01 2.7E-02 
+500 V 50 150.000 150.069 0.07 6.50E-01 1.6E-01 
+500 V 50 250.000 250.094 0.09 7.50E-01 2.6E-01 
+500 V 50 350.000 350.215 0.22 8.50E-01 3.7E-01 
+500 V 50 480.000 480.105 0.11 9.80E-01 5.0E-01 
+500 V 100 250.000 250.172 0.17 7.50E-01 2.6E-01 
+500 V 400 250.000 250.470 0.47 7.50E-01 2.6E-01 
+1000 V 50 100.000 100.095 0.10 1.10E+00 1.1E-01 
+1000 V 50 300.000 300.139 0.14 1.30E+00 3.2E-01 
+1000 V 50 500.000 500.215 0.22 1.50E+00 5.3E-01 
+1000 V 50 700.000 700.264 0.26 1.70E+00 7.4E-01 
+1000 V 50 900.000 900.303 0.30 1.90E+00 9.5E-01 
+1000 V 100 500.000 500.366 0.37 1.50E+00 5.3E-01 
+1000 V 400 500.000 500.963 0.96 1.50E+00 5.3E-01 
+2000 V 50 200.000 199.950 -0.05 2.20E+00 2.1E-01 
+2000 V 50 600.000 600.020 0.02 2.60E+00 6.3E-01 
+2000 V 50 1000.00 1000.35 0.4 3.00E+00 1.1E+00 
+2000 V 50 1400.00 1400.60 0.6 3.40E+00 1.5E+00 
+2000 V 50 1900.00 1899.40 -0.6 3.90E+00 2.0E+00 
+2000 V 100 1000.00 1000.00 0.0 3.00E+00 1.1E+00 
+ 
+2000 V 400 1000.00 1000.00 0.0 3.00E+00 1.1E+00 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+JH873Q
+-
+
+[page 31]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 7
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 7 de 9
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: EQUIPO MULTIFUNCION
+FABRICANTE: OMICRON Nº SERIE:
+MODELO: CPC 100 CÓDIGO:
+MAGNITUD: FUENTE DE INTENSIDAD 
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+INTENSIDAD CORRIENTE CONTINUA
+6 A 0.60000 0.55860 -0.0414 4.1E-03 
+6 A 1.80000 1.73408 -0.0659 3.5E-03 
+6 A 3.00000 2.92289 -0.0771 3.9E-03 
+6 A 6.00000 5.94650 -0.0535 6.9E-03 
+400 A 40.0000 39.9556 -0.044 5.60E-01 5.8E-02 
+400 A 120.000 120.014 0.01 8.80E-01 1.9E-01 
+400 A 200.000 200.040 0.04 1.20E+00 3.0E-01 
+400 A 280.000 279.965 -0.04 1.52E+00 4.2E-01 
+400 A 400.000 400.025 0.03 2.00E+00 6.0E-01 
+ 
+INTENSIDAD CORRIENTE ALTERNA
+3 A 50 0.298880 0.300000 0.00112 6.5E-04 
+3 A 50 0.89890 0.90000 0.0011 1.9E-03 
+3 A 50 1.48850 1.50000 0.0115 3.2E-03 
+3 A 50 2.00862 2.10000 0.0914 4.4E-03 
+3 A 50 2.59818 3.00000 0.4018 6.3E-03 
+6 A 50 0.59616 0.60000 0.0038 1.3E-03 
+6 A 50 1.79596 1.80000 0.0040 3.8E-03 
+6 A 50 2.96460 3.00000 0.0354 6.3E-03 
+6 A 50 3.92192 4.20000 0.2781 8.8E-03 
+6 A 50 4.9922 6.0000 1.008 1.3E-02 
+800 A 50 79.985 80.000 0.02 1.76E+00 1.7E-01 
+800 A 50 149.970 150.000 0.03 1.90E+00 3.2E-01 
+800 A 50 239.991 240.000 0.01 2.08E+00 5.0E-01 
+800 A 50 399.700 400.000 0.30 2.40E+00 8.4E-01 
+800 A 50 559.93 560.00 0.1 2.72E+00 1.2E+00 
+800 A 50 799.94 800.00 0.1 3.20E+00 1.7E+00 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+JH873Q
+-
+
+[page 32]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 8
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 8 de 9
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: EQUIPO MULTIFUNCION
+FABRICANTE: OMICRON Nº SERIE:
+MODELO: CPC 100 CÓDIGO:
+MAGNITUD: RESISTENCIA
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+MEDIDA DE RESISTENCIA CON 100 A (salida 400 A)
+100 μΩ 99.723 100.000 0.28 9.50E-01 2.6E-01 
+MEDIDA DE RESISTENCIA CON 50 A
+100 μΩ 99.715 100.000 0.29 9.50E-01 2.6E-01 
+100 μΩ 40.104 40.000 -0.10 3.80E-01 1.1E-01 NO 
+100 μΩ 20.0850 20.0000 -0.085 1.90E-01 5.3E-02 NO 
+100 μΩ 200.150 200.000 -0.15 1.90E+00 5.3E-01 NO 
+100 μΩ 799.90 800.00 0.1 7.60E+00 2.1E+00 NO 
+100 m Ω 1.99950 2.00000 0.0005 1.90E-02 5.3E-03 NO 
+100 m Ω 9.9823 10.0000 0.018 9.50E-02 2.7E-02 
+MEDIDA RESISTENCIA SALIDA 6A
+100 m Ω 9.9980 10.0000 0.002 9.50E-02 2.6E-02 
+100 m Ω 100.070 100.000 -0.07 9.50E-01 3.7E-01 
+100 Ω 1.00017 1.00000 -0.0002 9.50E-03 2.7E-03 
+100 Ω 10.0357 10.0000 -0.036 9.50E-02 2.8E-02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+JH873Q
+-
+
+[page 33]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 9
+ NÚMERO ZEL-17757 
+Ref. INTERNA: ZEL B1013-MT-L100068-146A 
+Página 9 de 9
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: EQUIPO MULTIFUNCION
+FABRICANTE: OMICRON Nº SERIE:
+MODELO: CPC 100 CÓDIGO:
+MAGNITUD: SALIDA DE CORRIENTE
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+SALIDA CON EL AMPLIFICADOR DE CORRIENTE CP CU1 Nº DM 215 J
+10 A 50 1.00000 1.00550 0.0055 2.20E-02 1.2E-03 
+10 A 50 5.00000 4.99665 -0.0034 3.00E-02 6.4E-03 
+10 A 50 10.0000 9.9919 -0.008 4.00E-02 1.2E-02 
+20 A 50 5.00000 4.99240 -0.0076 5.00E-02 5.9E-03 
+20 A 50 10.0000 9.9840 -0.016 6.00E-02 1.2E-02 
+20 A 50 20.0000 19.9838 -0.016 8.00E-02 4.3E-02 
+50 A 50 5.0000 5.0015 0.002 1.10E-01 1.1E-02 
+50 A 50 25.000 24.966 -0.03 1.50E-01 1.4E-01 *
+50 A 50 50.000 49.945 -0.06 2.00E-01 2.8E-01 *
+100 A 50 10.0000 10.0350 0.035 2.20E-01 2.4E-02 
+100 A 50 50.000 50.025 0.03 3.00E-01 2.8E-01 *
+100 A 50 100.000 99.985 -0.02 4.00E-01 5.7E-01 *
+ 
+MEDIDA DE TENSIÓN ENTRADA V SENSE
+600 V 50 20.0150 20.0000 -0.015 1.24E+00 1.1E-02 
+600 V 50 50.0250 50.0000 -0.025 1.30E+00 2.6E-02 
+600 V 50 100.070 100.000 -0.07 1.40E+00 1.1E-01 
+600 V 50 200.045 200.000 -0.05 1.60E+00 2.1E-01 
+ 
+MEDIDA DE IMPEDANCIA
+10 Ω 50 2.26150 2.26570 0.0042 6.80E-03 4.8E-03 NO *
+10 Ω 50 4.49370 4.50160 0.0079 1.35E-02 9.5E-03 NO *
+10 Ω 50 9.0846 9.0966 0.012 2.73E-02 1.9E-02 NO *
+ 
+ 
+ 
+MEDIDA DE ÁNGULO
+360 º 50 0.330 0.750 0.42 5.00E-01 2.1E-01 NO *
+360 º 50 0.440 0.490 0.05 5.00E-01 2.2E-01 NO 
+360 º 50 0.400 0.450 0.05 5.00E-01 2.2E-01 NO 
+ 
+ 
+TODAS LA MEDIDAS DE ESTA PÁGINA SE REALIZAN A TRAVÉS DEL MÓDULO CU 1
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+JH873Q
+-
+
+[page 34]
+1
+ Certificate of Calibration
+ NÚMERO ZEL-18155 Página 1 de 4
+ Number Page 1 of
+ Nº 33/LC068
+Ref. INTERNA: ZEL B1113-MT-L110071-021 
+FUNDACIÓN TECNALIA RESEARCH & INNOVATION
+LABORATORIO METROLOGIA
+Parque Tecnológico de Bizkaia, Edificio 101
+48170 ZAMUDIO
+Tfno: 94-6073550 Fax: 94-6073540
+OBJETO: SISTEMA DE MEDIDA DE ALTA TENSION
+Item
+MARCA: HIGH VOLT
+Mark
+MODELO:
+Model
+IDENTIFICACIÓN: Nº CODIGO: 0E084HV2
+Identification
+SOLICITANTE: TECNALIA R & I (Unid. Energia)
+Applicant Vega de Tapia, s/n.
+48903-BURTZEÑA
+FECHA DE CALIBRACIÓN: 16/02/11
+Date of calibration
+ 
+ 
+Fecha de emisión
+Date of issue RESPONSABLE TÉCNICO
+22/02/11 Dionisio Amil
+Este certificadoEste certifi Los resultados coENAC es firmante deThis certificate is issuThis certificate may The results of th ENAC is one of th -
+VER PAG 3
+Signatario/s autorizado/s
+Authorised Signatory/ies
+Este certificado se expide de acuerdo con las condiciones de la acreditación concedida por ENAC, que ha comprobado las capacidades de medida del laboratorio y su trazabilidad a patrones nacionales o internacionales.
+Este certificado no podrá ser reproducido parcialmente sin la aprobación por escrito del laboratorio que lo emite y de ENAC.
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones. El laboratorio que lo e mite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de
+los instrumentos calibrados.
+ENAC es firmante del Acuerdo de Reconocimiento Mutuo (MLA) de calibración de European Cooperation for Accreditatio (EA) y de international Laboratory Accreditation Cooperation (ILAC).
+This certificate is issued in acordance with the conditions of accreditation granted by ENAC which has assessed the measurement capability of the laboratory and its trazability to national standards.
+This certificate may not by partially reproduced, except whit the prior written permission of the issuing laboratory and ENAC.
+The results of this Certificate refer to the moment and conditions in which the measurements were made. The issuing Laboratory assumes no responsability for demages ensuing misuse of the calibrated instruments.
+ENAC is one of the signatories of the Multilateral Agreement of the European Cooperation for Accreditation (EA) and the International Laboratories Accreditation Cooperation (ILAC).
+VER PAG 3
+ CERTIFICADO DE CALIBRACION
+
+[page 35]
+2
+TECNALIA - Laboratorio Metrología www.tecnalia.com
+ NÚMERO ZEL-18155 
+Ref. INTERNA: ZEL B1113-MT-L110071-021 
+Página 2 de 4
+ 1. MÉTODO UTILIZADO EN LA CALIBRACIÓN.
+A petición del solicitante, el equipo ha sido calibrado en las escalas y márgenes recogidos en las páginas de resultados.
+ 2. INCERTIDUMBRE DE CALIBRACIÓN.
+ 
+ 3. TRAZABILIDAD.
+ 4. PATRONES EMPLEADOS EN LA CALIBRACIÓN.
+ 5. EMPLAZAMIENTO Y CONDICIONES AMBIENTALES.
+Esta calibración ha sido realizada en el Laboratorio de Metrología de TECNALIA.
+A una temperatura de 18 +/-2 ºC, y una humedad relativa de <70 %Hr.
+ 6. RESULTADOS.
+Los resultados de la calibración se encuentran recogidos a partir de la página 3 del certificado.
+Los valores indicados en las tablas de resultados son absolutos y en las mismas unidades que las indicadas en la columna dos.
+NOTAS:
+Los valores dados en las tablas de resultados, corresponden al valor medio aritmético de las lecturas realizadas, por lo que el número de dígitos 
+que se reseñan, puede no corresponder con el número de dígitos indicados por el mensurando.
+El análisis de los resultados sólo se realiza si existen datos en la columna de las tolerancias (TOL), pudiendo ser el resultado uno, dos o la ausencia de asteriscos.
+Un asterisco (*) en la última columna de las páginas de resultados, significa que no se puede asegurar el cumplimiento de las especificaciones en dicho punto.
+ Dos asterisco(**), significa que los valores absolutos de la corrección menos la incertidumbre, es mayor que la tolerancia, es decir:
+el equipo está fuera de las tolerancias indicadas en la columna TOL.
+La ausencia del asterisco significa que los errores intrinsecos encontrados en la calibración, son inferiores a los errores límites indicados en la columna TOL..
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones.
+El laboratorio que lo emite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de los instrumentos calibrados.
+ 
+La trazabilidad de las medidas realizadas se refieren a nuestros patrones de referencia calibrados periódicamente en los laboratorios de
+calibración CEM, INTA, LCOE, ROA Y AGILENT.
+ 
+KVM200 01-1094DIVISOR DE TENSIÓN
+0E081FL5
+CÓDIGONº SERIEMODELOEQUIPO
+En el cálculo de incertidumbre se ha tenido en cuenta las componentes de incertidumbres de los patrones, del método de calibración, las
+condiciones ambientales y la resolución del equipo a calibrar según el procedimiento indicado en el apartado 1.
+La incertidumbre típica de medición se ha determinado conforme al documento EA4/02
+La incertidumbre expandida de medida se ha obtenido multiplicando la incertidumbre típica de medida por el factor de cobertura k=2 que,
+para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%
+Para la calibración se ha aplicado el(los) procedimiento(s): PE.MT-68-BF-C
+MARCA
+PHENIX TECHNOLOGIES
+ 
+MT080PE01
+ 
+ 
+CALIBRADOR FLUKE 5700 A 5115010
+ 
+MT080HP07
+ 
+MULTIMETRO DIGITAL HP 3458 A US28029905
+MT082HP01
+ 
+MULTIMETRO DIGITAL AGILENT 34401A US36134553
+ 
+
+[page 36]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 3
+ NÚMERO ZEL-18155 
+Ref. INTERNA: ZEL B1113-MT-L110071-021 
+Página 3 de 4
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: SISTEMA DE MEDIDA DE ALTA TENSION
+FABRICANTE: HIGH VOLT Nº SERIE:
+MODELO: VER PAG 3 CÓDIGO:
+MAGNITUD: TENSIÓN
+NS S S N N S S S S S S
+UNI FREC. INSTRU- TOL INCERT. ENAC * / **
+(Hz) MENTO +/- +/-
+IDENTIFICACIÓN DE COMPONENTES
+ 
+DIVISOR CAPACITIVO MODELO WMC 8.33/300 Nº DE SERIE: 884 308
+ 
+PARTE ALTA TENSIÓN CDOR 2018B10 Nº DE SERIE: 0521269-20 001
+ 
+PARTE BAJA TENSIÓN MODELO MC 29700-4 Nº DE SERIE: 884 309
+ 
+CABLE DE MEDIDA MODELO L34/20 ( 50 Ohm LONGITUD 20 m)
+ 
+ 
+ 
+MEDIDA DE RELACIÓN
+ 
+RELACIÓN CON UNA TENSIÓN DE 19.638 Kv +/- 1.5%
+relación 50 2614 4.1E+01 
+RELACIÓN CON UNA TENSIÓN DE 40.231 kV +/- 1.5%
+relación 50 2609 4.1E+01 
+RELACIÓN CON UNA TENSIÓN DE 60.599 kV +/- 1.5%
+relación 50 2609 4.1E+01 
+RELACIÓN CON UNA TENSIÓN DE 80.846 kV +/- 1.5%
+relación 50 2609 4.1E+01 
+RELACIÓN CON UNA TENSIÓN DE 100.533 kV +/- 1.5%
+relación 50 2610 4.1E+01 
+RELACIÓN CON UNA TENSIÓN DE 119.446 kV +/- 1.5%
+relación 50 2607 4.1E+01 
+RELACIÓN CON UNA TENSIÓN DE 139.645 kV +/- 1.5%
+relación 50 2608 4.1E+01 
+RELACIÓN CON UNA TENSIÓN DE 159.446 kV +/- 1.5%
+relación 50 2607 4.1E+01 
+ 
+RELACIÓN MEDIA ASIGNADA 2609
+ 
+ESTABILIDAD A CORTO PLAZO
+ 
+INICIO - TENSIÓN DE 99.35 kV
+relación 50 2604 4.1E+01 
+MINUTO 5 - TENSIÓN DE 99.95 kV
+relación 50 2607 4.1E+01 
+MINUTO 10 - TENSIÓN DE 100.17 kV
+relación 50 2606 4.1E+01 
+MINUTO 15 - TENSIÓN DE 100.13 kV
+relación 50 2609 4.1E+01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+VER PAG 3
+0E084HV2
+
+[page 37]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 4
+ NÚMERO ZEL-18155 
+Ref. INTERNA: ZEL B1113-MT-L110071-021 
+Página 4 de 4
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: SISTEMA DE MEDIDA DE ALTA TENSION
+FABRICANTE: HIGH VOLT Nº SERIE:
+MODELO: VER PAG 3 CÓDIGO:
+MAGNITUD: TENSIÓN
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+CALIBRACIÓN VOLTÍMETRO DIGITAL
+ 
+MARCA HIGHVOLT
+ 
+MODELO: MU18 + A2
+ 
+Nº SERIE 884271
+ 
+Las lecturas del INSTRUMENTO se han obtenido multiplicando la tensión obtenida en la salida "MONITOR", por 10 y por √2 
+ 
+CALIBRACIÓN TENSIÓN CORRIENTE CONTINUA
+1000 V 10.12300 10.00000 -0.1230 1.2E-03 
+1000 V -9.99000 -10.00000 -0.0100 1.2E-03 
+1000 V 20.00400 20.00000 -0.0040 2.2E-03 
+1000 V -20.00200 -20.00000 0.0020 2.2E-03 
+1000 V 30.05900 30.00000 -0.0590 3.2E-03 
+1000 V -30.01400 -30.00000 0.0140 3.2E-03 
+1000 V 50.08100 50.00000 -0.0810 5.3E-03 
+1000 V -50.03700 -50.00000 0.0370 5.3E-03 
+1000 V 70.10300 70.00000 -0.1030 7.4E-03 
+1000 V -70.05900 -70.00000 0.0590 7.4E-03 
+1000 V 100.1380 100.0000 -0.138 1.1E-02 
+1000 V -100.0940 -100.0000 0.094 1.1E-02 
+ 
+TENSIÓN CORRIENTE ALTERNA
+1000 V 50 100.00700 10.00000 -90.0070 2.2E-03 
+1000 V 50 20.01517 20.00000 -0.0152 4.2E-03 
+1000 V 50 30.02587 30.00000 -0.0259 6.3E-03 
+1000 V 50 50.0471 50.0000 -0.047 1.1E-02 
+1000 V 50 70.0679 70.0000 -0.068 1.5E-02 
+1000 V 50 100.0886 100.0000 -0.089 2.1E-02 
+1000 V 20 100.048 100.000 -0.05 1.6E-01 NO 
+1000 V 40 100.0886 100.0000 -0.089 2.1E-02 
+1000 V 100 100.1053 100.0000 -0.105 2.1E-02 
+ 
+1000 V 300 100.0617 100.0000 -0.062 2.1E-02 
+1000 V 500 99.9967 100.0000 0.003 2.1E-02 
+ 
+Los resultados de las filas marcadas con un NO en la columna ENAC, no están amparados por la acreditación ENAC.
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+VER PAG 3
+0E084HV2
+
+[page 38]
+1
+ Certificate of Calibration
+ NÚMERO ZEL-19161 Página 1 de 4
+ Number Page 1 of
+ Nº 33/LC068
+Ref. INTERNA: ZEL B1113-MT-L110071-078 
+FUNDACIÓN TECNALIA RESEARCH & INNOVATION
+LABORATORIO METROLOGIA
+Parque Tecnológico de Bizkaia, Edificio 101
+48170 ZAMUDIO
+Tfno: 94-6073550 Fax: 94-6073540
+OBJETO: ENSAYADOR DE RIGIDEZ
+Item
+MARCA: BAUR
+Mark
+MODELO:
+Model
+IDENTIFICACIÓN: Nº CODIGO: 0E084BA2
+Identification
+SOLICITANTE: TECNALIA R & I (Unid. Energia)
+Applicant Vega de Tapia, s/n.
+48903-BURTZEÑA
+FECHA DE CALIBRACIÓN: 29/06/11
+Date of calibration
+ 
+ 
+Fecha de emisión
+Date of issue RESPONSABLE TÉCNICO
+30/06/11 Dionisio Amil 
+Este certificadoEste certifi Los resultados coENAC es firmante deThis certificate is issuThis certificate may The results of th ENAC is one of th -
+61166015
+Signatario/s autorizado/s
+Authorised Signatory/ies
+Este certificado se expide de acuerdo con las condiciones de la acreditación concedida por ENAC, que ha comprobado las capacidades de medida del laboratorio y su trazabilidad a patrones nacionales o internacionales.
+Este certificado no podrá ser reproducido parcialmente sin la aprobación por escrito del laboratorio que lo emite y de ENAC.
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones. El laboratorio que lo e mite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de
+los instrumentos calibrados.
+ENAC es firmante del Acuerdo de Reconocimiento Mutuo (MLA) de calibración de European Cooperation for Accreditatio (EA) y de international Laboratory Accreditation Cooperation (ILAC).
+This certificate is issued in acordance with the conditions of accreditation granted by ENAC which has assessed the measurement capability of the laboratory and its trazability to national standards.
+This certificate may not by partially reproduced, except whit the prior written permission of the issuing laboratory and ENAC.
+The results of this Certificate refer to the moment and conditions in which the measurements were made. The issuing Laboratory assumes no responsability for demages ensuing misuse of the calibrated instruments.
+ENAC is one of the signatories of the Multilateral Agreement of the European Cooperation for Accreditation (EA) and the International Laboratories Accreditation Cooperation (ILAC).
+PGK25
+ CERTIFICADO DE CALIBRACION
+
+[page 39]
+2
+TECNALIA - Laboratorio Metrología www.tecnalia.com
+ NÚMERO ZEL-19161 
+Ref. INTERNA: ZEL B1113-MT-L110071-078 
+Página 2 de 4
+ 1. MÉTODO UTILIZADO EN LA CALIBRACIÓN.
+A petición del solicitante, el equipo ha sido calibrado en las escalas y márgenes recogidos en las páginas de resultados.
+ 2. INCERTIDUMBRE DE CALIBRACIÓN.
+ 
+ 3. TRAZABILIDAD.
+ 4. PATRONES EMPLEADOS EN LA CALIBRACIÓN.
+ 5. EMPLAZAMIENTO Y CONDICIONES AMBIENTALES.
+Esta calibración ha sido realizada en el Laboratorio de Metrología de TECNALIA.
+A una temperatura de 23 +/-2 ºC, y una humedad relativa de <65 %Hr.
+ 6. RESULTADOS.
+Los resultados de la calibración se encuentran recogidos a partir de la página 3 del certificado.
+Los valores indicados en las tablas de resultados son absolutos y en las mismas unidades que las indicadas en la columna dos.
+NOTAS:
+Los valores dados en las tablas de resultados, corresponden al valor medio aritmético de las lecturas realizadas, por lo que el número de dígitos 
+que se reseñan, puede no corresponder con el número de dígitos indicados por el mensurando.
+El análisis de los resultados sólo se realiza si existen datos en la columna de las tolerancias (TOL), pudiendo ser el resultado uno, dos o la ausencia de asteriscos.
+Un asterisco (*) en la última columna de las páginas de resultados, significa que no se puede asegurar el cumplimiento de las especificaciones en dicho punto.
+ Dos asterisco(**), significa que los valores absolutos de la corrección menos la incertidumbre, es mayor que la tolerancia, es decir:
+el equipo está fuera de las tolerancias indicadas en la columna TOL.
+La ausencia del asterisco significa que los errores intrinsecos encontrados en la calibración, son inferiores a los errores límites indicados en la columna TOL..
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones.
+El laboratorio que lo emite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de los instrumentos calibrados.
+ 
+La trazabilidad de las medidas realizadas se refieren a nuestros patrones de referencia calibrados periódicamente en los laboratorios de
+calibración CEM, INTA, LCOE, ROA Y AGILENT.
+ 
+KVM200 01-1094DIVISOR DE TENSIÓN
+ 
+CÓDIGONº SERIEMODELOEQUIPO
+En el cálculo de incertidumbre se ha tenido en cuenta las componentes de incertidumbres de los patrones, del método de calibración, las
+condiciones ambientales y la resolución del equipo a calibrar según el procedimiento indicado en el apartado 1.
+La incertidumbre típica de medición se ha determinado conforme al documento EA4/02
+La incertidumbre expandida de medida se ha obtenido multiplicando la incertidumbre típica de medida por el factor de cobertura k=2 que,
+para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%
+Para la calibración se ha aplicado el(los) procedimiento(s): PE.MT-068-BF-C.
+MARCA
+PHENIX TECHNOLOGIES
+ 
+MT080PE01
+Sistema de medida de alta tensión ELABO 94-8A EU41004 MT080EL310
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 40]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 3
+ NÚMERO ZEL-19161 
+Ref. INTERNA: ZEL B1113-MT-L110071-078 
+Página 3 de 4
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: ENSAYADOR DE RIGIDEZ
+FABRICANTE: BAUR Nº SERIE:
+MODELO: PGK25 CÓDIGO:
+MAGNITUD: TENSION CORRIENTE CONTINUA
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+ 
+5 kV 1.0000 0.9932 -0.007 6.6E-02 
+5 kV 2.0000 1.9975 -0.003 8.0E-02 
+5 kV 3.0000 3.0025 0.003 9.9E-02 
+5 kV 4.000 4.009 0.01 1.2E-01 
+5 kV 5.0000 5.0095 0.010 1.0E-01 
+25 kV 5.000 5.011 0.01 3.1E-01 
+25 kV 10.000 10.035 0.04 3.4E-01 
+25 kV 15.000 15.036 0.04 3.8E-01 
+25 kV 20.000 20.045 0.05 4.4E-01 
+25 kV 25.000 25.120 0.12 5.0E-01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Pagoaga, Xabier
+61166015
+0E084BA2
+
+[page 41]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 4
+ NÚMERO ZEL-19161 
+Ref. INTERNA: ZEL B1113-MT-L110071-078 
+Página 4 de 4
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: ENSAYADOR DE RIGIDEZ
+FABRICANTE: BAUR Nº SERIE:
+MODELO: PGK25 CÓDIGO:
+MAGNITUD: INTENSIDAD CORRIENTE CONTINUA
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. ENAC * / **
+(Hz) MENTO CCIÓN +/- +/-
+ 
+10 μA 2.000 2.135 0.14 1.2E-01 
+10 μA 4.000 4.205 0.21 1.2E-01 
+10 μA 6.000 6.235 0.24 1.3E-01 
+10 μA 8.000 8.285 0.29 1.3E-01 
+10 μA 10.000 10.305 0.31 1.3E-01 
+100 μA 20.00 20.39 0.4 1.2E+00 
+100 μA 40.00 40.46 0.5 1.2E+00 
+100 μA 60.00 60.59 0.6 1.3E+00 
+100 μA 80.00 80.74 0.7 1.3E+00 
+100 μA 100.00 100.83 0.8 1.3E+00 
+1 mA 0.2000 0.2005 0.001 1.2E-02 
+1 mA 0.4000 0.4035 0.004 1.2E-02 
+1 mA 0.6000 0.6045 0.005 1.3E-02 
+1 mA 0.8000 0.8095 0.010 1.3E-02 
+1 mA 1.0000 1.0115 0.012 1.3E-02 
+10 mA 1.000 0.977 -0.02 1.2E-01 
+10 mA 1.500 1.491 -0.01 1.2E-01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las calibraciones marcadas con NO en este informe, no están incluidas en el alcance de acreditación del Laboratorio por ENAC.
+TECNICO DE CALIBRACION
+Pagoaga, Xabier
+61166015
+0E084BA2
+
+[page 42]
+1
+ Certificate of Calibration
+ NÚMERO ZEL-B1013-MT-L100068-170 Página 1 de 3
+ Number Page 1 of
+Ref. INTERNA: ZEL B1013-MT-L100068-170 
+FUNDACIÓN TECNALIA RESEARCH & INNOVATION
+LABORATORIO METROLOGIA
+Parque Tecnológico de Bizkaia, Edificio 101
+48170 ZAMUDIO
+Tfno: 94-6073550 Fax: 94-6073540
+OBJETO: PUENTE MEDIDA DE CAPACIDAD Y Tg
+Item
+MARCA: TETTEX
+Mark
+MODELO:
+Model
+IDENTIFICACIÓN: Nº CODIGO: 0E084TT36
+Identification
+SOLICITANTE: LABEIN - Unidad de Energía (Burtzeña)
+Applicant Vega de Tapia, s/n.
+48903-BURTZEÑA
+FECHA DE CALIBRACIÓN: 10/12/10
+Date of calibration
+ 
+ 
+Fecha de emisión
+Date of issue RESPONSABLE TÉCNICO
+10/12/10 Dionisio Amil
+Este certificado Los resultados co This certificate is an The results of th -
+139232
+Signatario/s autorizado/s
+Authorised Signatory/ies
+Este certificado expresa fielmente el resultado de las medidas realizadas. No podrá ser reproducido parcialmente, excepto cuando se haya obtenido previamente permiso por escrito del laboratorio que lo emite.
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones. El laboratorio que lo e mite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de
+los instrumentos calibrados.
+This certificate is an accurate of the results of measurements performed. This Certificate may not be partially reproduced, except whit the prior written permission of the issuing laboratory.
+The results of this Certificate refer to the moment and conditions in which the measurements were made. The issuing Laboratory assumes no responsabil ity for demages ensuing misuse of the calibrated instruments.
+2805
+ CERTIFICADO DE CALIBRACION
+
+[page 43]
+2
+TECNALIA - Laboratorio Metrología www.tecnalia.com
+ NÚMERO ZEL-B1013-MT-L100068-170 
+Ref. INTERNA: ZEL B1013-MT-L100068-170 
+Página 2 de 3
+ 1. MÉTODO UTILIZADO EN LA CALIBRACIÓN.
+A petición del solicitante, el equipo ha sido calibrado en las escalas y márgenes recogidos en las páginas de resultados.
+ 2. INCERTIDUMBRE DE CALIBRACIÓN.
+ 
+ 3. TRAZABILIDAD.
+ 4. PATRONES EMPLEADOS EN LA CALIBRACIÓN.
+ 5. EMPLAZAMIENTO Y CONDICIONES AMBIENTALES.
+Esta calibración ha sido realizada en el Laboratorio de Metrología de TECNALIA.
+A una temperatura de 23 +/-2 ºC, y una humedad relativa de <70 %Hr.
+ 6. RESULTADOS.
+Los resultados de la calibración se encuentran recogidos a partir de la página 3 del certificado.
+Los valores indicados en las tablas de resultados son absolutos y en las mismas unidades que las indicadas en la columna dos.
+NOTAS:
+Los valores dados en las tablas de resultados, corresponden al valor medio aritmético de las lecturas realizadas, por lo que el número de dígitos 
+que se reseñan, puede no corresponder con el número de dígitos indicados por el mensurando.
+El análisis de los resultados sólo se realiza si existen datos en la columna de las tolerancias (TOL), pudiendo ser el resultado uno, dos o la ausencia de asteriscos.
+Un asterisco (*) en la última columna de las páginas de resultados, significa que no se puede asegurar el cumplimiento de las especificaciones en dicho punto.
+ Dos asterisco(**), significa que los valores absolutos de la corrección menos la incertidumbre, es mayor que la tolerancia, es decir:
+el equipo está fuera de las tolerancias indicadas en la columna TOL.
+La ausencia del asterisco significa que los errores intrinsecos encontrados en la calibración, son inferiores a los errores límites indicados en la columna TOL..
+Los resultados contenidos en el presente certificado se refieren al momento y condiciones en que se realizaron las mediciones.
+El laboratorio que lo emite no se responsabiliza de los perjuicios que puedan derivarse del uso inadecuado de los instrumentos calibrados.
+ 
+La trazabilidad de las medidas realizadas se refieren a nuestros patrones de referencia calibrados periódicamente en los laboratorios de
+calibración CEM, INTA, LCOE, ROA Y AGILENT.
+ 
+3341 6119COND. 1000 pF/2KV
+0E084TT21
+CÓDIGONº SERIEMODELOEQUIPO
+En el cálculo de incertidumbre se ha tenido en cuenta las componentes de incertidumbres de los patrones, del método de calibración, las
+condiciones ambientales y la resolución del equipo a calibrar según el procedimiento indicado en el apartado 1.
+La incertidumbre típica de medición se ha determinado conforme al documento EA4/02
+La incertidumbre expandida de medida se ha obtenido multiplicando la incertidumbre típica de medida por el factor de cobertura k=2 que,
+para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%
+Para la calibración se ha aplicado el(los) procedimiento(s): PE.MT-51-BF-C
+MARCA
+TETTEX
+ 
+0E080TT17
+COND. 100 pF/30 KV TETTEX 3390 6990 0E080TT18
+0E084TT20
+COND 0.001uF/1KV TETTEX 3312 7226
+COND. 0.01uF/1KV TETTEX 3313 6823
+0E084TT19
+PUENTE DE IMPEDANCIAS FLUKE PM 6306 LO 726827 0E080FL20
+COND. 0.1uF/1KV TETTEX 3314 6612
+ 
+ 
+ 
+ 
+
+[page 44]
+TECNALIA - Laboratorio Metrología www.tecnalia.com 3
+ NÚMERO ZEL-B1013-MT-L100068-170 
+Ref. INTERNA: ZEL B1013-MT-L100068-170 
+Página 3 de 3
+RESULTADOS DE LA CALIBRACION
+INSTRUMENTO: PUENTE MEDIDA DE CAPACIDAD Y Tg
+FABRICANTE: TETTEX Nº SERIE:
+MODELO: 2805 CÓDIGO:
+MAGNITUD: CAPACIDAD
+SS S S S S S S S S S S
+RANGO UNI FREC. INSTRU- PATRÓN CORRE- TOL INCERT. * / **
+(Hz) MENTO CCIÓN +/- +/-
+MEDIDAS REALIZADAS CON EL CONDENSADOR TETTEX 3360/1000/25 Nº 138141 DE 1013.38 pF
+ 
+MEDIDA DE CAPACIDAD
+100 pF 50 103.655 103.782 0.13 3.3E-01 
+1000 pF 50 1000.57 1000.47 -0.1 3.2E+00 
+1000 pF 50 999.88 999.81 -0.1 3.1E+00 
+10000 pF 50 10000.70 9998.80 -1.9 3.1E+01 
+100000 pF 50 100078.50 100086.00 7.5 3.2E+02 
+ 
+ 
+MEDIDA DE TANGENTE
+ 
+0.001 50 0.000490 0.000517 0.00003 1.2E-04 
+0.01 50 0.000980 0.001038 0.00006 1.4E-04 
+0.01 50 0.004980 0.005190 0.00021 2.7E-04 
+0.1 50 0.009870 0.010370 0.00050 4.3E-04 
+0.1 50 0.04980 0.05027 0.0005 1.7E-03 
+1 50 0.09852 0.10367 0.0052 3.4E-03 
+1 50 0.5160 0.5026 -0.013 1.6E-02 
+10 50 1.0370 1.0367 0.000 3.3E-02 
+10 50 5.170 5.026 -0.14 1.6E-01 
+ 
+MEDIDA DE LA CAPACIDAD DEL CONDENSADOR 3360/1000/25
+ 
+CON NÚMERO DE SERIE 138141 Y Nº DE CÓDIGO 0E084TT35
+ 
+MEDIDA A 2 KV
+1500 pF 50 1010.00 1013.25 3.3 3.2E+00 
+MEDIDA A 4 KV
+1500 pF 50 1010.00 1013.25 3.3 3.2E+00 
+MEDIDA A 6 KV
+1500 pF 50 1010.00 1013.25 3.3 3.2E+00 
+MEDIDA A 8 KV
+1500 pF 50 1010.00 1013.25 3.3 3.2E+00 
+MEDIDA A 10 KV
+1500 pF 50 1010.00 1013.25 3.3 3.2E+00 
+MEDIDA A 12 KV
+1500 pF 50 1010.00 1013.25 3.3 3.2E+00 
+ 
+ 
+TANGENTE MENOR DE 5E-5 +/- 1E-4
+ 
+ 
+ 
+TECNICO DE CALIBRACION
+Amil Iglesias Dionisio
+139232
+0E084TT36

@@ -1,0 +1,33 @@
+{
+  "id": "560201d5500d2010",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/03 H&M Balances/0501_1CSD379111_F libre.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 320214,
+  "size_human": "313 KB",
+  "mtime_iso": "2026-06-08T16:13:00.000Z",
+  "title": "0501 1CSD379111 F libre",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 43864,
+  "token_estimate": 10966,
+  "chunks": 28,
+  "card_path": ".yeyo-memory/cards/560201d5500d2010.json",
+  "extracted_path": ".yeyo-memory/extracted/560201d5500d2010.txt",
+  "metadata": {
+    "pages": 24,
+    "pdf_metadata": {
+      "Title": "Microsoft Word - 48700855.doc",
+      "Creator": "Pulse",
+      "Producer": "Artifex Ghostscript 8.64 / SEAL Systems BN97",
+      "ModDate": "D:20120427143340+02'00'",
+      "CreationDate": "D:20120322190625+01'00'",
+      "Author": "Markus Jöcker",
+      "Keywords": "1CSD379111:F",
+      "Subject": "Solnova"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:28:03.418961+00:00"
+}

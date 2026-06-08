@@ -1,0 +1,32 @@
+{
+  "id": "988af6d6dcb63d65",
+  "path": "Helios Sole/Línea 15 kV/120312 Helios I Cambio titular línea 15 kV.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 356341,
+  "size_human": "348 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "120312 Helios I Cambio titular línea 15 kV",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/988af6d6dcb63d65.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Title": "Nuance Communications, Inc.",
+      "Author": "Eva María Ruiz Sánchez",
+      "Keywords": "None",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc.",
+      "ModDate": "D:20120313124113+01'00'",
+      "CreationDate": "D:20120313124113+01'00'"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:33.114463+00:00"
+}

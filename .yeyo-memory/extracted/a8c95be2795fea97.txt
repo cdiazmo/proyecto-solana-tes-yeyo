@@ -1,0 +1,4388 @@
+[page 1]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV EN EL 
+T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL). 
+ 
+ 
+ 
+PROMOTOR: HELIOS I HYPERION ENERGY INVESTMENTS, S.L. 
+AUTOR: ANGEL CARLOS BERNÁLDEZ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Badajoz, octubre de 2.010
+Documento visado electrónicamente con número BA03151/10. Página 1 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 2]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+ 
+ 
+Í N D I C E
+ 
+ 
+ 
+DOCUMENTO Nº 1: MEMORIA
+ 
+ 
+1
+ 
+CONSIDERACIONES GENERALES ................................................................... 1
+ 
+1.1
+ 
+PROMOTOR .......................................................................................................1
+ 
+1.2
+ 
+ANTECEDENTES Y OBJETO ...........................................................................1
+ 
+1.3
+ 
+EMPLAZAMIENTO .............................................................................................1
+ 
+1.4
+ 
+REGLAMENTACIÓN. .........................................................................................2
+ 
+2
+ 
+ESQUEMA UNIFILAR .......................................................................................... 3
+ 
+2.1
+ 
+PARQUE DE INTEMPERIE DE 220 KV ...........................................................3
+ 
+2.1.1 Posición de línea de 220 kV ....................................................... 4 
+2.1.2 Posición de barra 220 kV ........................................................... 4 
+3
+ 
+CARACTERÍSTICAS GENERALES .................................................................... 4
+ 
+4
+ 
+ESTRUCTURA METÁLICA ................................................................................. 5
+ 
+5
+ 
+EMBARRADOS Y AISLADORES 220 KV ......................................................... 5
+ 
+6
+ 
+INTERUPTOR AUTOMÁTICO DE 220 KV ......................................................... 6
+ 
+7
+ 
+SECCIONADORES DE 220 KV........................................................................... 7
+ 
+8
+ 
+TRANSFORMADORES DE INTENSIDAD 245 KV ............................................ 7
+ 
+9
+ 
+TRANSFORMADORES DE TENSIÓN 245 KV .................................................. 7
+ 
+10
+ 
+PARARRAYOS 220 KV ....................................................................................... 8
+ 
+11
+ 
+SERVICIOS AUXILIARES .................................................................................... 8
+ 
+11.1
+ 
+SALA DE CELDAS TRANSFORMADOR SS.AA. .............................................8
+ 
+11.1.1 Características asignadas a la aparamenta de maniobra ........... 9 
+11.1.2 Celda de línea ............................................................................ 9 
+11.1.3 Celda de protección trafo SS.AA. ............................................... 9 
+11.1.4 Transformador de servicios auxiliares ........................................ 9 
+11.2
+ 
+SERVICIOS AUXILIARES DE C.A. ................................................................. 10
+ 
+11.3
+ 
+SERVICIOS AUXILIARES DE C.C.................................................................. 10
+ 
+12
+ 
+SISTEMA DE CONTROL Y PROTECCIONES................................................... 10
+ 
+12.1
+ 
+TECNOLOGÍA ................................................................................................. 11
+ 
+12.2
+ 
+FUNCIONES DEL SICOP ............................................................................... 11
+ 
+12.3
+ 
+FUNCIONES PRINCIPALES DE LA UCS ...................................................... 11
+ 
+12.4
+ 
+FUNCIONES PRINCIPALES DE LAS UCP ................................................... 11
+ 
+12.5
+ 
+DISPOSICIÓN CONSTRUCTIVA ................................................................... 11
+ 
+12.6
+ 
+PROTECCIONES POSICIONES DE LÍNEA HELIOS I Y HELIOS II ............. 12
+ 
+12.7
+ 
+PROTECCIONES POSICIÓN DE LINEA DE EVACUACION I...................... 12
+ 
+13
+ 
+SISTEMA DE MEDIDA ......................................................................................... 13
+ 
+14
+ 
+TELECONTROL Y COMUNICACIONES ............................................................ 13
+ 
+Documento visado electrónicamente con número BA03151/10. Página 2 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 3]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+ 
+ 
+15
+ 
+ALUMBRADO ....................................................................................................... 13
+ 
+15.1
+ 
+ALUMBRADO EXTERIOR .............................................................................. 13
+ 
+15.2
+ 
+ALUMBRADO INTERIOR................................................................................ 13
+ 
+16
+ 
+SISTEMAS COMPLEMENTARIOS EN EL EDIFICIO ........................................ 14
+ 
+16.1
+ 
+CLIMATIZACIÓN ............................................................................................. 14
+ 
+16.2
+ 
+PROTECCIÓN CONTRA INCENDIOS .......................................................... 14
+ 
+16.3
+ 
+PROTECCIÓN CONTRA INTRUSISMO ........................................................ 14
+ 
+16.3.1 Medidas activas ....................................................................... 14 
+16.3.2 Medidas pasivas ...................................................................... 14 
+17
+ 
+DISTANCIAS DE SEGURIDAD ........................................................................... 15
+ 
+17.1
+ 
+PROTECCIÓN CONTRA CONTACTOS DESDE EL EXTERIOR ................ 15
+ 
+17.1.1 Distancias de elementos en tensión al cierre. ........................... 15 
+17.1.2 Pasillos de servicio .................................................................. 15 
+18
+ 
+SISTEMA DE PUESTA A TIERRA....................................................................... 15
+ 
+18.1
+ 
+RED DE TIERRA INFERIOR .......................................................................... 15
+ 
+18.2
+ 
+RED DE TIERRA AÉREA................................................................................ 17
+ 
+19
+ 
+OBRA CIVIL .......................................................................................................... 17
+ 
+19.1
+ 
+OBRA CIVIL PARQUE INTEMPERIE ............................................................. 17
+ 
+19.1.1 Movimiento de tierras ............................................................... 17 
+19.1.2 Malla de tierra subterránea....................................................... 18 
+19.1.3 Cerramientos ........................................................................... 18 
+19.1.4 Saneamientos y drenajes ......................................................... 19 
+19.1.5 Conducciones de cables de control y potencia ......................... 19 
+19.1.6 Abastecimiento de agua y evacuación de aguas residuales ..... 19 
+19.1.7 Cimentaciones de aparellaje .................................................... 19 
+19.1.8 Urbanización de la zona y viales .............................................. 20 
+19.1.9 Extendido de capa de grava para acabado del parque ............. 20 
+19.2
+ 
+EDIFICIO .......................................................................................................... 21
+ 
+20
+ 
+ESTUDIO GENERAL DE SEGURIDAD Y SALUD ............................................. 22
+ 
+20.1
+ 
+ANTECEDENTES ........................................................................................... 22
+ 
+20.2
+ 
+DEFINICIONES ................................................................................................ 22
+ 
+20.3
+ 
+PLAN DE SEGURIDAD Y SALUD EN EL TRABAJO .................................... 24
+ 
+20.4
+ 
+OBLIGACIONES DE LOS CONTRATISTAS Y SUBCONTRATISTAS ........ 25
+ 
+20.5
+ 
+OBLIGACIONES DE LOS TRABAJADORES AUTÓNOMOS ....................... 26
+ 
+20.6
+ 
+LIBRO DE INCIDENCIAS ................................................................................ 26
+ 
+20.7
+ 
+PARALIZACIÓN DE LOS TRABAJOS ........................................................... 27
+ 
+20.8
+ 
+PRINCIPIOS GENERALES APLICABLES A LA OBRA ................................. 27
+ 
+20.9
+ 
+EVALUACIÓN DE RIESGOS .......................................................................... 28
+ 
+20.10
+ 
+NORMAS DE SEGURIDAD ............................................................................ 29
+ 
+20.11
+ 
+MEDICINA PREVENTIVA Y PRIMEROS AUXILIOS...................................... 34
+ 
+Documento visado electrónicamente con número BA03151/10. Página 3 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 4]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+ 
+ 
+20.12
+ 
+PLIEGO DE CONDICIONES ........................................................................... 34
+ 
+20.12.1 Normativa Legal de Aplicación ............................................. 34 
+20.12.2 Condiciones de los medios de protección ............................ 36 
+20.12.3 Protecciones Colectivas ....................................................... 40 
+21
+ 
+DOCUMENTOS. ................................................................................................... 40
+ 
+22
+ 
+CONSIDERACIONES FINALES. ......................................................................... 41
+ 
+23
+ 
+PRESUPUESTO. .................................................................................................. 41
+ 
+ 
+ANEJOS: 
+ 
+ANEJO I: RELACIÓN DE BIENES Y DERECHOS AFECTADOS 
+ANEJO II: CALCULO DE LA MALLA DE TIERRAS 
+ 
+DOCUMENTO Nº 2: PLIEGO DE CONDICIONES
+ 
+ 
+DOCUMENTO Nº 3: MEDICIONES Y PRESUPUESTOS
+ 
+ 
+DOCUMENTO Nº 4: PLANOS
+ 
+ 
+PLANO Nº 1: SITUACIÓN Y EMPLAZAMIENTO 
+ PLANO Nº 2: PLANTA ELECTRICA SUBESTACIÓN 
+ PLANO Nº 3: ALZADOS 
+ PLANO Nº 4: ALUMBRADO EXTERIOR 
+ PLANO Nº 5: ESQUEMA UNIFILAR Y DE PROTECCIONES 
+PLANO Nº 6: MALLA DE TIERRA 
+PLANO Nº 7: SEGURIDAD Y SALUD: PLANTA GENERAL 
+PLANO Nº 8: SEGURIDAD Y SALUD: PROTECCIONES 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 4 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 5]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+ 
+ 
+DOCUMENTO Nº1: MEMORIA
+ 
+Documento visado electrónicamente con número BA03151/10. Página 5 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 6]
+0876-0110-01-59-010314-081010-14 1 
+ 
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV EN EL T.M. DE 
+ARENAS DE SAN JUAN (CIUDAD REAL). 
+ 
+ 
+ 
+1 CONSIDERACIONES GENERALES
+ 
+ 
+1.1 PROMOTOR
+ 
+La entidad peticionaria del presente proyecto es la sociedad mercantil HELIOS I HYPERION ENERGY 
+INVESTMENTS, S.L, con C.I.F. B-85588606 y domicilio social en C/ Claudio Coello, 37, 28001 Madrid. 
+ 
+La sociedad promotora tiene por objeto llevar a cabo la construcción y explotación de una central ter-
+moeléctrica de 50 MW en los TT.MM. de Puerto Lápice, Arenas de San Juan y Villarta de San Juan 
+(Ciudad Real). 
+ 
+ 
+1.2 ANTECEDENTES Y OBJETO
+ 
+La central termoeléctrica de HELIOS I HYPERION ENERGY INVESTMENTS, S.L., tenía previsto 
+evacuar la energía producida a través de una LAAT S/C Subterránea/Aérea de 220 kV hasta la SE 
+Puerto Lapice, propiedad de REE. 
+ 
+Por otra parte, junto a la central termoeléctrica de HELIOS I, la sociedad HELIOS I HYPERION 
+ENERGY INVESTMENTS, S.L., está construyendo otra central termoeléctrica de 50 MW, que también 
+tenía como punto de evacuación una posición de línea de la subestación Puerto Lapice. 
+ 
+Debido a que REE ha unificado en una sola las dos posiciones de línea previstas para las 
+evacuaciones de HELIOS I y HELIOS II en la subestación de Puerto Lapice, HELIOS I procederá a la 
+construcción de una subestación colectora 220 kV, donde convergerán los tramos subterráneos de las 
+líneas de evacuación de 220 kV de ambas centrales termosolares, y saldrá una sola línea aérea de 220 
+kV hasta la subestación de Puerto Lapice. Siendo el objeto de este proyecto la descripción y el cálculo 
+de la subestación colectora de 220 kV necesaria para la evacuación conjunta de las plantas 
+termoeléctricas de HELIOS I y HELIOS II. 
+ 
+ 
+1.3 EMPLAZAMIENTO
+ 
+La SUB. COLECTORA HELIOS I y HELIOS II 220 kV proyectada se emplazará en el polígono 8, 
+parcela 30 del T.M. de Arenas de San Juan (Ciudad Real), en terrenos pertenecientes a HELIOS I 
+HYPERION ENERGY INVESTMENTS, S.L. 
+Documento visado electrónicamente con número BA03151/10. Página 6 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 7]
+0876-0110-01-59-010314-081010-14 2 
+ 
+1.4 REGLAMENTACIÓN.
+ 
+R.D. 3275/1982, de 12 de noviembre (BOE del 1-12-82), sobre Condiciones Técnicas y Garantías 
+de Seguridad en Centrales Eléctricas, Subestaciones y Centros de Transformación, publicado en 
+el BOE del 18-1-83, corrección de errores del R.D 3275/1982. 
+ 
+- Orden de 6 de julio de 1984 por la que aprueban las Instrucciones Técnicas Complementarias del 
+Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en Centrales Eléctricas, 
+Subestaciones y Centros de Transformación; Orden 18 de octubre de 1984 complementaria a la 
+del 6 de julio de 1984, y resto de modificaciones publicadas hasta la fecha respecto a las 
+Instrucciones Técnicas Complementarias. 
+ 
+- R. D. 1955/2000, de 1 de Diciembre, por el que se regulan las actividades de transporte, 
+distribución, comercialización, suministro y procedimientos de autorización de instalaciones de 
+energía eléctrica. 
+ 
+- R. D. 223/2008, de 15 de Febrero, por el que se aprueba el Reglamento sobre condiciones 
+técnicas y garantías de seguridad en Líneas Eléctricas de Alta Tensión y sus Instrucciones Técni-
+cas Complementarias ITC-LAT 01 a 09), publicado en el B.O.E. nº 68 de 19 de marzo de 2008. 
+ 
+- R.D. 842/2002, de 2 de agosto de 2002 (BOE de 18 de diciembre) por el que se aprueba el 
+Reglamento Electrotécnico para Baja Tensión. Instrucciones Técnicas Complementarias ITC 
+BT01 a BT51. 
+ 
+- R.D. 2267/2004. Reglamento de seguridad contra incendios en establecimientos industriales. 
+ 
+- Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación (BOE 6 de noviembre de 1999) 
+ 
+- R.D. 1432/2008 de agosto por el que se aprueba el Reglamento sobre medidas para la protección 
+de la avifauna contra la colisión y la electrocución en líneas de alta tensión, publicado en el B.O.E. 
+nº 222 de 13 de septiembre. 
+ 
+- Código Técnico de la Edificación. 
+ 
+- Instrucción del Hormigón estructural EHE-08. 
+ 
+- Normas Tecnológicas de la Edificación que sean de aplicación. 
+ 
+- Normas UNE que sean de aplicación. 
+ 
+- Normas CEI que sean de aplicación. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 7 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 8]
+0876-0110-01-59-010314-081010-14 3 
+ 
+- Ordenanzas, Regulaciones y Códigos Nacionales, Autonómicos y Locales, que sean de 
+aplicación. 
+ 
+En materia de prevención de riesgos laborales:
+ 
+ 
+Se cumplirá con la normativa de aplicación en materia de prevención de riesgos laborales, y resto de 
+normas y reglamentos relativos a la seguridad y salud en las obras de construcción, que estén vigentes 
+en el momento de ejecución de las obras. A título enunciativo, se relacionan: 
+ 
+- Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales. Y Ley 54/2003, de 12 de 
+diciembre, de reforma del marco normativo de la prevención de riesgos laborales. 
+ 
+- Real Decreto 39/1997, de 17 de enero, por el que se aprueba los Reglamentos de los Servicios 
+de Prevención. 
+ 
+- Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 24 de la Ley 31/1995 
+de Prevención de Riesgos Laborales, en materia de Coordinación de actividades empresariales. 
+ 
+- Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de 
+seguridad y salud en las obras de construcción. 
+ 
+- Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección de la salud 
+y seguridad de los trabajadores frente al riesgo eléctrico. 
+ 
+ 
+2 ESQUEMA UNIFILAR
+ 
+La subestación colectora estará formada por un parque de intemperie de 220 kV de simple barra con: 
+ 
+o 2 Posiciones de línea de 220 kV (llegada centrales HELIOS I y HELIOS II) 
+o 1 posición de línea de 220 kV (evacuación conjunta de HELIOS I y HELIOS II) 
+ 
+Las dos líneas de llegada a las posiciones de línea de HELIOS I y HELIOS II serán subterráneas con 220 
+kV, conductor XLPE 127/220 KV. Al 3(1x300 mm
+2
+); y la salida de la evacuación conjunta hasta la sub-
+estación de REE se realizará aérea S/C con conductor 242-AL1/39-ST1A (LA 278 HAWK). 
+ 
+ 
+2.1 PARQUE DE INTEMPERIE DE 220 KV
+ 
+Tipo: Exterior Convencional 
+Esquema: Simple Barra 
+Alcance: 3 Posiciones de línea de 220 kV 
+Documento visado electrónicamente con número BA03151/10. Página 8 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 9]
+0876-0110-01-59-010314-081010-14 4 
+ 
+2.1.1 Posición de línea de 220 kV
+ 
+ Cada una de las posiciones de línea de 220 kV estará constituida por: 
+ 
+ - 3 Pararrayos unipolares 198 kV, 10 kA, con contador de descarga 
+ - 3 Transformadores de tensión inductivos 220:√3/0,11:√3-0,11:√3-0,11:3 kV 
+ - 1 Seccionador tripolar motorizado de 245 kV 2000 A 40 kA, con p.a.t. 
+ - 3 Transformadores de intensidad 245 kV, 200-400-800/5-5-5-5 A 
+ - 1 Interruptor tripolar SF6 245 kV, 3150 A, 40 kA. 
+ - 1 Seccionador tripolar motorizado de barras de 245 kV, 2000 A 40 kA 
+ 
+ 
+2.1.2 Posición de barra 220 kV
+ 
+ La barra de 220 kV contará con: 
+ 
+ - 3 Transformadores de tensión inductivos 220:√3/0,11:√3-0,11:√3 -0,11:3 kV 
+ 
+ 
+3 CARACTERÍSTICAS GENERALES
+ 
+Las características generales y los parámetros básicos de diseño se relacionan en la siguiente tabla, 
+que resume lo indicado en el “Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en 
+Centrales Eléctricas, Subestaciones y Centros de transformación” y sus Instrucciones Técnicas com-
+plementarias vigentes. 
+ 
+CARACTERÍSTICAS 
+UD 
+POS. 220 kV 
+Tensión nominal kV 220 
+Tensión más elevada para el material kV 245 
+Frecuencia nominal Hz 50 
+Tensión soportada impulsos tipo rayo kV cresta 1050 
+Tensión soportada nominal corta duración a f.i. kV eficaz 460 
+Distancia mínima fase-fase en el aire cm 210 
+Distancia mín. fase-tierra en el aire cond-estruct. cm 220 
+Distancia mín. fase-tierra en el aire punta-estruct. cm 290 
+Conexión del neutro Rígido a tierra 
+Intensidad nominal de barras A 2.000 
+Intensidad nominal posición línea A 2.000 
+Intensidad nominal posición transformadores A 2.000 
+Intensidad nominal posición transf. SS.AA. A -- 
+Intensidad nominal posición batería cond. A -- 
+Intensidad máxima de defecto trifásico kA 40 
+Duración máxima del defecto tirfásico s 1 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 9 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 10]
+0876-0110-01-59-010314-081010-14 5 
+ 
+4 ESTRUCTURA METÁLICA
+ 
+Descripción General
+ 
+ 
+Las estructuras metálicas para la llegada de la línea de 220 kV y la soportación de la aparamenta y 
+embarrados estará formada por perfiles angulares, con acero S-S75J (s/ CTE DB SE-A) exigiéndole la 
+calidad soldable y llevarán una protección de superficie galvanizada, con un peso en zinc de 5 grs. por 
+dm² de superficie galvanizada. 
+ 
+Criterios de diseño
+ 
+ 
+Las torres y vigas que sirven de fijación de los conductores de amarre se dimensionarán considerando 
+la acción conjunta de las siguientes cargas: 
+ 
+ - Peso propio. 
+- Acción de un viento de 140 km/h. de velocidad actuando perpendicularmente a las superfi-
+cies sobre las que incide. 
+ - Tiro de los conductores de los siguientes valores: 
+ Conductor: 1200 kg/fase en 220 kV 
+ 
+Los soportes de aparatos están diseñados para admitir: 
+ 
+ - Peso propio. 
+ - Cargas estáticas transmitidas por los aparatos. 
+ - Cargas dinámicas transmitidas por el aparellaje de maniobra. 
+ - Acción de un viento de 120 km/h. de velocidad actuando perpendicularmente a las superfi-
+cies sobre las que incide. 
+ 
+En general todos los elementos sometidos a las acciones anteriormente citadas estarán dimensionados 
+para no sobrepasar los 2.600 kg/cm². 
+ 
+ 
+5 EMBARRADOS Y AISLADORES 220 KV
+ 
+Las características de los tubos destinados a la interconexión de la aparamenta serán las siguientes: 
+ 
+ Aleación AIMgSiO, 5 F22
+ 
+Diámetros exterior/interior 120/100 mm
+ 
+Sección 3.456 mm²
+ 
+Peso propio 9,33 kg/m
+ 
+Momento de inercia 527 cm
+4
+ 
+Momento resistente 87,8 cm
+3
+ 
+Documento visado electrónicamente con número BA03151/10. Página 10 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 11]
+0876-0110-01-59-010314-081010-14 6 
+ 
+Módulo de Young 70.000 N/mm²
+ 
+Carga de rotura 160 N/mm²
+ 
+Coeficiente de dilatación 0,023 mm/mºC
+ 
+Límite de fluencia 115,25 N/mm²
+ 
+Intensidad admisible a 85ºC 3.375 A
+ 
+ 
+Las características de los tubos destinados al embarrado principal serán las siguientes: 
+ 
+Aleación AIMgSiO, 5 F22
+ 
+Diámetros exterior/interior 150/134 mm
+ 
+Sección 3.567 mm²
+ 
+Peso propio 9,63 kg/m
+ 
+Momento de inercia 902,38 cm
+4
+ 
+Momento resistente 120,32 cm
+3
+ 
+Módulo de Young 70.000 N/mm²
+ 
+Carga de rotura 160 N/mm²
+ 
+Coeficiente de dilatación 0,023 mm/mºC
+ 
+Límite de fluencia 115,25 N/mm²
+ 
+Intensidad admisible a 85ºC 3.430 A
+ 
+ 
+Las características de los aisladores de apoyos serán: 
+ 
+Construcción Porcelana 
+ 
+Carga de rotura 6.000 N
+ 
+ 
+ 
+6 INTERUPTOR AUTOMÁTICO DE 220 KV
+ 
+Los interruptores automáticos de 220 kV contarán con las siguientes características generales: 
+ 
+Nº de polos 3
+ 
+Instalación Intemperie
+ 
+Tensión nominal 245 kV
+ 
+Intensidad nominal 3.150 A 
+ 
+Medio de Extinción SF6
+ 
+Poder de corte nominal de c.c. ( 1 seg.) 40 kA
+ 
+Valor de cresta de corriente admisible de corta duración 80 kA
+ 
+Secuencia maniobra nominal O-0,3seg-CO-3min-CO
+ 
+ Tipo Mando 
+ Cantidad 
+ Tensión auxiliar de alimentación motor y bobinas 
+Resorte 
+3 
+125 Vcc
+ 
+Documento visado electrónicamente con número BA03151/10. Página 11 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 12]
+0876-0110-01-59-010314-081010-14 7 
+ 
+7 SECCIONADORES DE 220 KV
+ 
+Serán del tipo de dos columnas, mando tripolar motorizado y con cuchillas de puesta a tierra en el caso 
+de los seccionadores de posición de línea. Las características generales serán: 
+ 
+Nº de polos 3
+ 
+Instalación Intemperie
+ 
+Tensión nominal 245 kV
+ 
+Intensidad nominal 2.000 A
+ 
+Intensidad límite térmica 40 kA
+ 
+Accionamiento cuchillas principales Eléctrico por motor a 125 Vcc y manual
+ 
+Accionamiento cuchillas p.a.t. Eléctrico por motor a 125 Vcc y manual
+ 
+ 
+ 
+8 TRANSFORMADORES DE INTENSIDAD 245 KV
+ 
+Instalación Intemperie
+ 
+Tensión nominal 245 kV
+ 
+Sobreintensidad admisible en permanencia 1,2 x In primaria
+ 
+Longitud línea de fuga 25 mm/kV
+ 
+ Relación de transformación T.I. Línea 
+ Potencias de precisión simultáneas 
+ 1º Núcleo (medida oficial) 
+ 2º Núcleo (medida) 
+ 3º Núcleo (protección) 
+ 4º Núcleo (protección) 
+200-400-800/5-5-5-5 A 
+ 
+ 15 VA cl. 0,2S – FS < 5 
+ 20 VA cl. 0,5 – FS < 5 
+30 VA 5P30 
+30 VA 5P30
+ 
+ 
+ 
+9 TRANSFORMADORES DE TENSIÓN 245 KV
+ 
+Instalación Intemperie
+ 
+Tensión nominal 245 kV
+ 
+Factor de tensión 1,2 continuo y 1,5 durante 30 seg.
+ 
+Posición Línea: 
+ Tipo 
+ Relación de transformación 
+ Potencias de precisión simultáneas 
+ 1º Núcleo 
+ 2º Núcleo 
+ 3º Núcleo 
+ 
+Inductivo 
+220:√3/0,11:√3-0,11:√3-0,11:3 kV 
+ 
+25 VA cl. 0,2 
+25 VA cl. 0,5-3P 
+10 VA 6P
+ 
+Posición Barra: 
+ Tipo 
+ 
+Inductivo 
+Documento visado electrónicamente con número BA03151/10. Página 12 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 13]
+0876-0110-01-59-010314-081010-14 8 
+ 
+ Relación de transformación 
+ Potencias de precisión simultáneas 
+ 1º Núcleo 
+ 2º Núcleo 
+ 3º Núcleo 
+220:√3/0,11:√3-0,11:√3-0,11:3kV 
+ 
+50 VA-3P 
+50 VA cl. 0,5-3P 
+10 VA 6P
+ 
+ 
+ 
+10 PARARRAYOS 220 KV 
+ 
+Se instalarán en las posiciones de línea y sus características generales serán: 
+ 
+Tensión nominal 220 kV
+ 
+Tensión asignada 198 kV
+ 
+Corriente nominal de descarga onda 8/22 μseg 10 kA
+ 
+Clase de descarga 3
+ 
+Aislamiento externo Goma-silicona
+ 
+Contador de descarga Incluido
+ 
+ 
+ 
+11 SERVICIOS AUXILIARES
+ 
+La alimentación eléctrica a los servicios auxiliares de corriente alterna será proporcionada por una línea 
+subterránea de 15 kV, con origen en un centro de seccionamiento perteneciente de los servicios 
+auxiliares de la central de HELIOS II. 
+ 
+Esta línea alimentará a un transformador 15kV/420V que suministrará la energía eléctrica en B.T. 
+necesaria para los SS.AA. de la subestación. 
+ 
+Estos SS.AA. estarán compuestos por dos sistemas de tensión (c.a. y c.c.), que alimentarán los 
+diferentes equipos de control, protección y medida. Se instalarán cuadros de centralización de c.a. y 
+c.c. en la sala de control, compartimentados de forma independiente. 
+ 
+ 
+11.1 SALA DE CELDAS TRANSFORMADOR SS.AA.
+ 
+En edificio de control contará con una sala destinada a albergar las celdas prefabricadas de 15 kV y el 
+transformador de 15kV/420 V – 100 kVA. Las celdas a instalar serán: 
+ 
+ - Celda de línea 
+ - Celda de protección del transformador 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 13 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 14]
+0876-0110-01-59-010314-081010-14 9 
+ 
+11.1.1 Características asignadas a la aparamenta de maniobra
+ 
+Tensión Asignada 24 kV
+ 
+Aislamiento y corte SF6
+ 
+Intensidad Asignada 630 A
+ 
+Capacidad de cierre 50 kA cresta
+ 
+Intensidad nominal de corta duración 20 kA (3 s)
+ 
+ 
+ 
+11.1.2 Celda de línea
+ 
+Compuesta por: 
+ 
+ - 1 Tramo tripolar de barras 
+- 1 Interruptor tripolar SF6 con 3 posiciones: conectado, seccionado y puesto a tierra 
+- 1 Compartimiento de cables de potencia con conectores enchufables 
+- 3 Captadores monofásicos de presencia de tensión con indicadores luminosos 
+ 
+ 
+11.1.3 Celda de protección trafo SS.AA.
+ 
+Compuesta por: 
+ 
+- 1 Tramo tripolar de barras 
+- 1 Interruptor tripolar SF6 con 3 posiciones: conectado, seccionado y puesto a tierra 
+- 1 Compartimiento de cables de potencia con conectores enchufables 
+- 3 Captadores monofásicos de presencia de tensión con indicadores luminosos 
+- 3 Bases fusibles equipadas con fusibles A.P.R. 10 A 
+ 
+La conexión con el transformador se realizará con cable AL HEPRZ1 + H16 3(1x95mm²) 12/20 kV. 
+ 
+ 
+11.1.4 Transformador de servicios auxiliares
+ 
+En el edificio de control se reservará un espacio para la instalación del transformador de servicios 
+auxiliares ONAN, fabricado bajo norma UNE 21428 de 100 kVA con conexión Dyn11 y relación de 
+transformación 15kV/420V. 
+ 
+La celda del transformador contará con un foso con suficiente capacidad como para recoger todo el 
+aceite del transformador y una rejilla de protección de malla electrosoldada de 1,8 m de altura, que 
+cubrirá todas las zonas susceptibles de ser tocadas accidentalmente. 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 14 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 15]
+0876-0110-01-59-010314-081010-14 10 
+ 
+11.2 SERVICIOS AUXILIARES DE C.A.
+ 
+La función del sistema de servicios auxiliares de corriente alterna será la alimentación de las siguientes 
+cargas: 
+ 
+- Equipo Rectificador.Baterías 
+- Calefacción de la aparamenta 
+- Alumbrado interior y exterior 
+- Sistemas contra-incendios y anti-instrusismo 
+- Ventilación de los transformadores 
+- Pequeños receptores 
+ 
+Los cables a utilizar en la instalación interior y en las conexiones interiores de los cuadros serán no 
+propagadores de incendio y con emisión de humos y opacidad reducida. Los tubos y bandejas utilizados 
+estarán clasificados como no propagadores de llama, de acuerdo con las normas UNE-EN 50.085-1 y 
+21.1002. 
+ 
+En la instalación interior se podrá utilizar cable con aislamiento 450/750 V, ó 0,6/1kV, con denominación 
+ES07Z1-K(AS) ó RZ1-K(AS), respectivamente, mientras que en la instalación exterior deberán utilizarse 
+cable 0,6/1 kV, con una sección mínima de 6 mm². 
+ 
+ 
+11.3 SERVICIOS AUXILIARES DE C.C
+ 
+Para los servicios auxiliares de C.C. se contará con un equipo rectificador-batería de 125 Vcc 100 Ah, 
+con un margen de empleo de + 10% y – 15% y convertidores 125/48Vcc. La función del sistema de 
+servicios auxiliares de C.C., será: 
+ 
+- Circuitos de mando, indicación de posición y alarmas de la subestación. 
+- Circuitos de 1º Protección 
+- Circuitos de 2º Protección 
+- Circuitos de energía para los motores de los accionamientos eléctricos de la aparamenta 
+- Circuitos de comunicaciones y telecontrol 
+ 
+ 
+12 SISTEMA DE CONTROL Y PROTECCIONES
+ 
+Para el control de la subestación se contará con un sistema de protección, denominado SICOP (Siste-
+ma Integrado de Control y Protección), que tendrá las siguientes características: 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 15 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 16]
+0876-0110-01-59-010314-081010-14 11 
+ 
+12.1 TECNOLOGÍA
+ 
+El SICOP será de tecnología numérica y configuración distribuida, y estará formado por una unidad de 
+control (UCS) y una unidad de control de posición (UCP) por cada posición de línea. 
+ 
+ 
+12.2 FUNCIONES DEL SICOP
+ 
+El SICOP incorporará las funciones de control local, telecontrol, protección y medida de todas las posi-
+ciones de la subestación incluidos los servicios auxiliares, tanto de corriente continua como de corriente 
+alterna. 
+ 
+ 
+12.3 FUNCIONES PRINCIPALES DE LA UCS
+ 
+Estas funciones serán: 
+ 
+ a) Mando y señalización de las posiciones. 
+ b) Ejecución de automatismos generales. 
+ c) Presentación y gestión de alarmas del sistema. 
+ d) Gestión de las comunicaciones con el sistema de telecontrol. 
+ e) Gestión de las comunicaciones con todas las UCP. 
+ f) Gestión de periféricos: terminal local, impresora y módem. 
+ g) Generación de informes. 
+ h) Sincronización horaria. 
+ i) Gestión de comunicaciones con las unidades de mantenimiento. 
+ 
+ 
+12.4 FUNCIONES PRINCIPALES DE LAS UCP 
+ 
+Las funciones principales de las UCP serán: 
+a) Medida de los valores analógicos (intensidad, tensión, potencia, etc) directamente desde los se-
+cundarios de los TT y TI. 
+ b) Protección de la posición. 
+ c) Mando y señalización remota de los dispositivos asociados a la posición. 
+ d) Adquisición de las entradas digitales procedentes de campo asociadas a la posición. 
+ e) Gestión de alarmas internas de la propia UCP. 
+ 
+ 
+12.5 DISPOSICIÓN CONSTRUCTIVA
+ 
+Los distintos elementos integrantes del SICOP se dispondrán de la siguiente forma: 
+Documento visado electrónicamente con número BA03151/10. Página 16 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 17]
+0876-0110-01-59-010314-081010-14 12 
+ 
+- Un armario en el que se instalará el equipamiento general de la subestación y que se ubicará en el 
+edificio de control. Este armario contendrá la UCS. 
+ - Un armario para las diferentes UCP. 
+- La red de comunicaciones se instalará en las conducciones de calves de la subestación y será de 
+fibra óptica protegida contra la acción de roedores. 
+ 
+ 
+12.6 PROTECCIONES POSICIONES DE LÍNEA HELIOS I Y HELIOS II
+ 
+Se instalaran en el edificio de control los bastidores con los equipos necesarios para el control y pro-
+tección de las posiciones de línea de HELIOS I y HELIOS II. Cada una de estas posiciones contará con 
+las siguientes protecciones: 
+ 
+- Relé de sobreintensidad instantánea fase y neutro (50-50N) 
+- Relé de sobreintensidad temporizado fase y neutro (51-51N) 
+- Relé de disparo y bloqueo con rearme manual (86) 
+- Relé diferencial (87) 
+- Relé de sobreintensidad homopolar direccional (67N) 
+- Relé de sobretensión homopolar (64L) 
+- Relé de máxima tensión (59L) 
+- Relé de mínima tensión (27) 
+- Relé de máxima y mínima frecuencia (81 M/m) 
+- Relé de comprobación de sincronismo (25) 
+- Protección fallo interruptor (50S-62) 
+ 
+ 
+12.7 PROTECCIONES POSICIÓN DE LINEA DE EVACUACION I
+ 
+La posición de línea para la evacuación conjunta de HELIOS I y HELIOS II contendrá las siguientes 
+posiciones: 
+ 
+- Relé de sobreintensidad instantánea fase y neutro (50-50N) 
+- Relé de protección de distancia (21) 
+- Relé de sobreintensidad temporizado fase y neutro (51-51N) 
+- Relé de disparo y bloqueo con rearme manual (86) 
+- Relé diferencial (87) 
+- Relé de sobreintensidad homopolar direccional (67N) 
+- Relé de sobretensión homopolar (64L) 
+- Relé de máxima tensión (59L) 
+- Relé de mínima tensión (27) 
+- Relé de máxima y mínima frecuencia (81 M/m) 
+- Relé de comprobación de sincronismo (25) 
+Documento visado electrónicamente con número BA03151/10. Página 17 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 18]
+0876-0110-01-59-010314-081010-14 13 
+ 
+- Oscilógrafo (OSC) 
+- Protección fallo interruptor (50S-62) 
+ 
+ 
+13 SISTEMA DE MEDIDA
+ 
+Cada una de las posiciones de línea de las centrales HELIOS I y HELIOS II de 220 kV contará con 
+medida principal y redundante que se alimentarán desde el mismo devanado de los transformadores 
+de intensidad y tensión. Los Equipos de medida (Principal y Redundante) estarán compuesto cada uno 
+de ellos por un contador electrónico combinado de potencia activa y reactiva. La medida se realiza en 
+los cuatro cuadrantes. 
+ 
+- Clase de precisión del contador de activa: 0,2 S. 
+- Clase de precisión del contador de reactiva: 0,5. 
+- Nº de hilos: 4 
+- Maxímetro configurable para cada una de las tarifas. 
+- Montaje saliente. 
+- Registradores de medida. 
+- 2 Cajas de bornes de ensayo. 
+- 2 Convertidores. 
+- 1 Módem de comunicaciones 
+ 
+ 
+14 TELECONTROL Y COMUNICACIONES
+ 
+La telecomunicación y el control se realizarán mediante un sistema de fibra óptica. 
+ 
+ 
+15 ALUMBRADO
+ 
+15.1 ALUMBRADO EXTERIOR
+ 
+Estará constituido por proyectores de VSAP IP 65, con una potencia de 250 W. 
+ 
+ 
+15.2 ALUMBRADO INTERIOR
+ 
+Se utilizaran lámparas fluorescentes estancas IP 65 2x36 W. En todas las dependencias se instalaran 
+bloques autónomos de emergencia para asegurar un nivel de iluminación mínimo de 5 lux durante 1 
+hora en caso de fallo del suministro eléctrico, o un descenso de la tensión por debajo del 70%. 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 18 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 19]
+0876-0110-01-59-010314-081010-14 14 
+ 
+16 SISTEMAS COMPLEMENTARIOS EN EL EDIFICIO
+ 
+El edificio de control contará con las siguientes instalaciones auxiliares: 
+ 
+ 
+16.1 CLIMATIZACIÓN
+ 
+El edificio estará dotado de un sistema de climatización por bomba de calor con termostato que permi-
+tirá conservar unas condiciones uniformes de temperatura en el interior del mismo. 
+ 
+ 
+16.2 PROTECCIÓN CONTRA INCENDIOS
+ 
+El alcance de los sistemas de protección contra incendios será el siguiente: 
+ 
+Sistema automático de detección de incendios
+ 
+ 
+El edificio contará con un sistema automático de detección mediante detectores iónicos de humo, 
+complementado con pulsadores de alarma y señalización acústica. 
+ 
+Extintores móviles
+ 
+ 
+En el interior de los edificios se instalarán extintores móviles de 5 kg de CO2, mientras que en las 
+proximidades de cada uno de los transformadores de potencia se instalará un extintor móvil de 25 kg 
+de polvo polivalente. 
+ 
+ 
+16.3 PROTECCIÓN CONTRA INTRUSISMO
+ 
+Se adoptarán las siguientes medidas: 
+ 
+16.3.1 Medidas activas
+ 
+- Sistema de detección anti intrusismo con detectores de movimiento. 
+ 
+ 
+16.3.2 Medidas pasivas
+ 
+- Vallado perimetral completo 
+- Ventanas exteriores con enrejado 
+- Puerta de entrada al edificio de alto nivel de resistencia 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 19 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 20]
+0876-0110-01-59-010314-081010-14 15 
+ 
+17 DISTANCIAS DE SEGURIDAD
+ 
+17.1 PROTECCIÓN CONTRA CONTACTOS DESDE EL EXTERIOR
+ 
+17.1.1 Distancias de elementos en tensión al cierre.
+ 
+De acuerdo con el punto 3.3 de la MIE-RAT 15, en el caso de cierres con enrejado de altura superior a 
+2,20 m, la distancia de elementos en tensión al cierre se fija con la expresión: 
+ 
+G = d + 150 
+ 
+Siendo d la distancia Conductor-Estructura, en cm que se indica en la tabla 6 de la MIE-RAT 12, para el 
+nivel de aislamiento de 1050 kV a los impulsos tipo rayo. En nuestro caso d = 260 cm, con lo que G al-
+canza el valor de 410 cm. 
+ 
+La distancia de proyecto será de 500 cm, superior a la distancia reglamentaria. 
+ 
+ 
+17.1.2 Pasillos de servicio
+ 
+Al ser la altura de contacto del aislador de un equipo con su zócalo puesto a tierra superior a 230 cm, 
+podrán establecerse pasillos de servicio entre los aparatos y el cierre exterior sin la necesidad de insta-
+lar pantallas de protección, según se indica en el punto 3.3.2 de la MIE-RAT 15. 
+ 
+ 
+18 SISTEMA DE PUESTA A TIERRA
+ 
+18.1 RED DE TIERRA INFERIOR
+ 
+Para la conexión de los equipos y estructuras de la subestación se realizará una malla de tierra que cu-
+brirá toda la superficie de la subestación, con una retícula de 2,5x2,50 m. 
+ 
+La malla de tierra deberá cumplir las siguientes funciones: 
+ 
+- Proteger al personal y equipo contra potenciales peligrosos. 
+- Proporcionar un camino a tierra para las intensidades originadas por descargas atmosféricas, por 
+acumulación de descargas estáticas o por defectos eléctricos. 
+- Referenciar el potencial del circuito respecto a tierra. 
+- Facilitar a los elementos de protección el despeje de falta a tierra. 
+ 
+Se dimensionará de acuerdo con los siguientes datos: 
+ 
+- Intensidad de defecto a tierra: 12 kA 
+Documento visado electrónicamente con número BA03151/10. Página 20 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 21]
+0876-0110-01-59-010314-081010-14 16 
+ 
+- Duración del defecto: 0,3 seg. 
+- Tipo de electrodo: malla 
+- Material del conductor: cobre desnudo 120 mm² 
+- Profundidad 0,8 m 
+ 
+Las tensiones de paso estarán por debajo de valores admitidos en la MIE-RAT 13. 
+ 
+- Características del sistema
+: 
+ 
+La malla de tierra estará formada por: 
+ 
+- Electrodo de puesta a tierra
+ que será una malla de cable de cobre de 120 mm², enterrada a una 
+profundidad de 0,8 m. Los conductores en el terreno se tenderán formando una retícula, estando 
+dimensionado de manera que al dispersar la máxima corriente de fallo las tensiones de paso y de 
+contacto estén dentro de los límites admisibles por el presente reglamento (Instrucción MIE-RAT-
+13). 
+ 
+- Líneas de tierra
+ que serán conductores de cobre desnudo de 120 mm², conectarán los elementos 
+que deban ponerse a tierra al electrodo de acuerdo a las instrucciones generales y particulares de 
+puesta a tierra. 
+ 
+- Instrucciones generales de puesta a tierra
+ 
+ 
+Puesta a tierra de protección
+ 
+ 
+Se pondrán a tierra las partes metálicas la instalación que no estén en tensión normalmente pero que 
+puedan estarlo a consecuencia de averías, accidentes, descargas atmosféricas o sobretensiones. Se 
+conectarán a las tierras de protección, salvo las excepciones señaladas en los apartados que se citan, 
+entre otros, los siguientes elementos: 
+ 
+a) Los chasis y bastidores de aparatos de maniobra. 
+b) Los envolventes de los conjuntos de armarios metálicos. 
+c) Las puertas metálicas. 
+d) Las vallas y las cercas metálicas. 
+e) Los soportes, etc. 
+f) Las estructuras y armaduras metálicas del edificio. 
+g) Los blindajes metálicos de los cables. 
+h) Las tuberías y conductos metálicos. 
+i) Las carcasas de los transformadores. 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 21 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 22]
+0876-0110-01-59-010314-081010-14 17 
+ 
+Puesta a tierra de servicio
+ 
+ 
+Se conectarán a las tierras de servicio los elementos de la instalación, y entre ellos: 
+ 
+a) El neutro de B.T. del transformador de S.A. 
+b) Los circuitos de baja tensión de los transformadores de medida. 
+c) Los elementos de derivación a tierra de los seccionadores de puesta a tierra. 
+ 
+Interconexión de las instalaciones de tierra
+ 
+ 
+Las puestas a tierra de protección y de servicio de una instalación deberán conectarse entre sí, constitu-
+yendo una instalación de tierra general. 
+ 
+ 
+18.2 RED DE TIERRA AÉREA
+ 
+Para la protección de la subestación frente a descargas atmosféricas (frente de onda escarpado tipo 
+rayo), se instalará una red de protección aérea basada en la colocación de pararrayos tipo Franklin 
+sobre los pórticos de amarre y mástiles auxiliares. 
+ 
+ 
+19 OBRA CIVIL
+ 
+19.1 OBRA CIVIL PARQUE INTEMPERIE
+ 
+19.1.1 Movimiento de tierras
+ 
+Accesos
+ 
+ 
+Se realiza una revisión del camino de acceso, realizando las actuaciones necesarias para adecuarlos al 
+paso de la maquinaria. 
+ 
+Replanteo de las instalaciones
+ 
+ 
+Se realiza un marcado de los ejes principales y se comprueban las cotas de altimetría. 
+ 
+Desbroce y limpieza del terreno
+ 
+ 
+En primer lugar se procederá al desbroce del terreno realizando la extracción y retirada de la zona de 
+todo el arbolado, maleza, etc, así como la capa de tierra vegetal existente, depositándola en las inme-
+diaciones de la obra para su posterior utilización. En caso de no utilizarse se llevará a un vertedero au-
+torizado. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 22 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 23]
+0876-0110-01-59-010314-081010-14 18 
+ 
+Excavaciones y rellenos
+ 
+ 
+Se ejecutan las excavaciones hasta alcanzar las cotas y niveles de explanada fijados en todos sus pun-
+tos, realizando desmontes o terraplén según los casos. 
+ 
+Una vez realizada la excavación se procede a la escarificación y compactación hasta conseguir una 
+densidad de al menos un 95% de la máxima obtenida en el ensayo Proctor, según NLT.108/98. 
+ 
+Los terraplenes se comienzan a continuación de la excavación, realizándose los rellenos por tongadas 
+con un espesor máximo de 30 cm. 
+ 
+Se cerrará el perímetro del solar para evitar que accedan al mismo personas no relacionadas con la 
+obra o sin autorización. 
+ 
+Excavaciones en zanjas y pozos
+ 
+ 
+Se realiza un replanteo de la posición de todas las excavaciones de zanjas, pozos, arquetas, ajustando 
+sus dimensiones a las indicadas en los planos del proyecto de ejecución. 
+ 
+ 
+19.1.2 Malla de tierra subterránea
+ 
+El tendido de la malla de tierra subterránea se podrá realizar de dos formas: 
+ 
+- Sobre la plataforma, si está constituida por relleno de tierras, ejecutando la red antes de rellenar 
+toda la plataforma, extendiendo toda la red de cables de acuerdo al proyecto, y procediendo a reali-
+zar las uniones con conexiones crimpadas o soldaduras “T” o en “X” tipo Cadweld. Una vez exten-
+dida la malla se continúan formando capas de relleno para el acabado de la plataforma hasta su 
+nivel de terreno explanado. Una vez terminada la explanada y montada la estructura, se escava en 
+el punto más cercano a la estructura y se instala un latiguillo mediante una soldadura Cadweld a la 
+malla de tierra. 
+ 
+- Realizando zanjas para el tendido de la red de tierra, a la profundidad indicada en los planos. 
+ 
+ 
+19.1.3 Cerramientos
+ 
+El cerramiento se realizará con malla metálica electrosoldada de 2,0 m de altura sobre un murete de 
+fabrica de bloques de 40 cm de altura, con lo que la altura total del cerramiento será de 2, 4 metros. 
+Se tendrá especial cuidado en fijar la malla de simple torsión a los bloques para evitar la entrada de 
+animales al recinto. El cerramiento deberá conectarse a la malla de tierra. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 23 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 24]
+0876-0110-01-59-010314-081010-14 19 
+ 
+19.1.4 Saneamientos y drenajes
+ 
+El drenaje se realizará mediante una red de desagüe formada por tubos perforados colocados en el 
+fondo de zanjas de gravas y rellenas de material filtrante adecuadamente compactado. 
+ 
+En la explanación del terreno se preverán unas ligeras pendientes, no inferior el 0,5%, conformando 
+distintas cuencas hacia las zanjas de cables. 
+ 
+Los colectores colocados en las zanjas de gravas evacuaran las aguas hacia una arqueta general de 
+desagües que se conectará con la red de saneamiento de la zona o punto más próximo de evacuación. 
+El desagüe general exterior estará protegido contra la entrada de animales por medio de una malla 
+metálica. 
+ 
+La conexión de los bajantes de los edificios se realizará mediante arquetas a pie de bajante que 
+conectarán con la red general antes mencionada. 
+ 
+Se incorporará una cuneta entre el borde del camino de acceso a la subestación para canalizar el agua 
+hacia la recogida general de la zona. 
+ 
+ 
+19.1.5 Conducciones de cables de control y potencia
+ 
+Con objeto de proteger el recorrido de los cables de control y potencia se construirá una red de canales 
+de hormigón prefabricado y zanjas enterradas para el tendido de los cables. 
+ 
+En los cruces con viales se utilizarán canales de hormigón armado con tapa metálica galvanizada. 
+ 
+ 
+19.1.6 Abastecimiento de agua y evacuación de aguas residuales
+ 
+Al no contar con aseos no será necesaria la realización de estas instalaciones. 
+ 
+ 
+19.1.7 Cimentaciones de aparellaje
+ 
+Las fundaciones para soportes de aparamenta de intemperie y pórticos serán de tipo "zapata aislada", 
+proyectadas de acuerdo con la naturaleza del terreno. El método de cálculo empleado será el de Sulz-
+berger que confía la estabilidad de la cimentación a las reacciones horizontales y verticales del terreno. 
+No se admitirá un ángulo de giro de la cimentación, cuya tangente sea superior a 0,01 para alcanzar el 
+equilibrio de las acciones que produzcan el máximo momento de vuelco. 
+ 
+El coeficiente de seguridad al vuelco, relación entre el momento estabilizador y el momento de vuelco 
+no será inferior a 1,5. 
+Documento visado electrónicamente con número BA03151/10. Página 24 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 25]
+0876-0110-01-59-010314-081010-14 20 
+ 
+Para la ejecución de una cimentación se realizará la excavación hasta el nivel definido en los planos. 
+En el fondo de la excavación se vierte una capa de hormigón de limpieza, hasta el nivel de cimentación 
+requerido. A continuación se dispone la armadura (si la lleva), así como los pernos de anclaje para los 
+soportes y equipos, que tendrán que ser instalados con plantilla. 
+ 
+Después se procede al vertido de hormigón en primera fase, dejando 20 cm sin hormigonar desde el 
+nivel superior de cimentación, que se realizarán en una segunda fase. Los pozos de cimentación pue-
+den hormigonarse directamente contra las paredes de la excavación, siempre que sea posible, para no 
+encofrar. 
+ 
+El hormigonado de segunda fase se realiza encofrando y rematando las aristas vivas con berenjeno 
+cuando los soportes de los equipos estén montados y nivelados sobre los pernos de anclaje. 
+ 
+ 
+19.1.8 Urbanización de la zona y viales
+ 
+Para la realización de los viales se excava hasta el nivel inferior de la cota de la caja del vial, la superfi-
+cie resultante se compacta, di fuera necesario para el correcto apoyo. A continuación se extenderá un 
+relleno para la formación de sub-base granular con encachado de grava de 15 cm de espesor. Será un 
+material seleccionado formado por zahorras de árido calizo clasificado con cantos en aristas vivas. 
+ 
+Después se coloca un bordillo perimetral, realizado con piezas prefabricadas de hormigón colocadas 
+sobre cama de asiento con hormigón en masa. Se extiende una armadura de reparto realizada con ma-
+llazo electrosoldado. 
+ 
+La solera tendrá un tratamiento superficial con fratasado ejecutada con medíos mecánicos, con forma-
+ción de pendientes, juntas de retracción y dilatación. 
+ 
+En función de la pluviometría de la zona los viales podrán llevar o no incorporados unos drenajes linea-
+les paralelos a los bordillos que captan las aguas de lluvia y mantienen la sub-base en las condiciones 
+de humedad y densidad óptimas obtenidas en el proceso de construcción. 
+ 
+ 
+19.1.9 Extendido de capa de grava para acabado del parque
+ 
+El acabado del parque se realiza con extendido de grava de piedra caliza proveniente de machaqueo y 
+su granulometría será de 10 a 25 mm de espesor sobre el terreno explanado y nivelado del parque de 
+intemperie. 
+ 
+Los materiales a emplear son áridos naturales, o bien áridos procedentes del machaqueo y trituración 
+de piedra de cantera o grava natural, o áridos artificiales. En todo caso están exentos de arcilla, margas 
+y otros materiales extraños. 
+Documento visado electrónicamente con número BA03151/10. Página 25 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 26]
+0876-0110-01-59-010314-081010-14 21 
+ 
+Dicha grava se acopia inicialmente en zonas donde no interrumpa otros tipos de trabajo. Así mismo, se 
+evita la contaminación con materiales o elementos externos. Una vez llegada la grava se procede a 
+hacer acopios parciales ahí donde se necesite, se extiende con la pala o la retro y a su vez se afina a 
+mano utilizando legonas. Con anterioridad se debe proceder a la aplicación de un producto fungicida 
+que evite el nacimiento de la vegetación en toda la plataforma de la subestación. Este producto no debe 
+“contaminar” ninguna otra zona, ni superficial ni de forma subterránea a través de posibles corrientes de 
+agua. 
+ 
+ 
+19.2 EDIFICIO
+ 
+El edificio será de construcción “in situ” o del tipo prefabricado compuesto por un cerramiento exterior 
+de paneles de hormigón armado con malla doble de acero electrosoldada. La cubierta estará formada 
+por placas de hormigón armadas con mallas electrosoldadas rematadas en su parte superior mediante 
+impermeabilización y en su interior con aislante a base de poliuretano. 
+ 
+Los espesores y armados estarán considerados para soportar una sobrecarga de 120 kg/m² y la acción 
+debida al empuje del viento de 120 km/h. 
+ 
+No se considera necesaria la instalación de un aseo ya que la subestación funcionará el régimen de 
+abandonada y el personal de mantenimiento que tenga que acceder a la subestación tiene sus aseos y 
+vestuarios en las instalaciones de la central termosolar HELIOS II. 
+ 
+La distribución del edificio comprende únicamente una sala de control, que albergará los siguientes 
+equipos de control y protección de la instalación: 
+ 
+- Armarios de control y protección. 
+- Unidad de control de la subestación (SICOP) 
+- Equipos rectificador-batería 125 Vcc. 
+- Equipos rectificador-batería 48 Vcc. 
+- Cuadros de servicios auxiliares c.c. 
+- Cuadros de servicios auxiliares c.a. 
+- Armarios de comunicaciones. 
+ 
+La sala de control de la subestación dispondrá de un suelo técnico de al menos 50 cm, para permitir el 
+paso de cables de control entre armarios, estos cables de control van en la solera de la sala de control 
+canalizados mediante bandejas. 
+ 
+La puerta de entrada de la sala de control tendrá dimensiones suficientes para permitir la entrada y sa-
+lida de equipos que en ella alberga, con dimensiones mínima de 1,6 m de anchura y 2,2 m de altura, 
+dispondrá de un sistema de enganche que evite los portazos por el viento de la zona. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 26 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 27]
+0876-0110-01-59-010314-081010-14 22 
+ 
+20 ESTUDIO GENERAL DE SEGURIDAD Y SALUD
+ 
+ 
+20.1 ANTECEDENTES
+ 
+A fin de dar cumplimiento a lo establecido por el Real Decreto 1.627/1.997, de 24 de Octubre, por el 
+que se establecen disposiciones mínimas de seguridad y de salud en las obras de construcción, se 
+redacta el presente ESTUDIO GENERAL DE SEGURIDAD Y SALUD , para la obra diseñada en este 
+proyecto de: PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV EN EL T.M. DE ARENAS 
+DE SAN JUAN (CIUDAD REAL). 
+ 
+ 
+20.2 DEFINICIONES
+ 
+Según el artículo 2 del Real Decreto 1.627/1.997, de 24 de Octubre, por el que se establecen 
+disposiciones mínimas de seguridad y de salud en las obras de construcción, en todo lo que afecte a 
+esta obra se entenderá por: 
+ 
+a) Trabajos con riesgos especiales: Trabajos cuya realización exponga a los trabajadores a riesgos 
+de especial gravedad para su seguridad y salud, tales como los que pueden darse en esta obra: 
+ 
+ - Caída de altura de objetos 
+ - Caída de operarios a distinto nivel 
+ - Proximidad de fuentes de alta y baja tensión que pudieran causar electrocución Etc. 
+ 
+ b) Promotor: Cualquier persona física o jurídica por cuenta de la cual se realice una obra. 
+ 
+c) Proyectista: El autor o autores, por encargo del promotor, de la totalidad o parte del proyecto de la 
+obra. 
+ 
+d) Coordinador en materia de seguridad y de salud durante la fase del proyecto de obra: El técnico 
+competente designado por el promotor para coordinar durante la fase del proyecto de obra, la 
+aplicación de los principios generales de prevención en materia de seguridad y salud que a 
+continuación mencionaremos. Serán sus misiones las siguientes: 
+ 
+1.- De conformidad con la Ley de Prevención de Riesgos Laborales, aplicar los principios 
+generales de prevención en materia de seguridad y de salud previstos en su artículo 15, y 
+en particular: 
+ 
+a) Al tomar las decisiones constructivas, técnicas y de organización con el fin de planificar 
+los distintos trabajos o fases de trabajo que se desarrollarán simultánea o sucesivamente. 
+ 
+b) Al estimar la duración requerida para la ejecución de estos distintos trabajos o fases del 
+trabajo. 
+Documento visado electrónicamente con número BA03151/10. Página 27 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 28]
+0876-0110-01-59-010314-081010-14 23 
+ 
+2.- Tener en cuenta cualquier estudio de seguridad y salud o estudio general, así como las 
+previsiones e informaciones útiles a que se refieren el apartado 6 del artículo 5 y el apartado 
+3 del artículo 6 del mencionado Real Decreto 1.627/1.997, de 24 de Octubre. 
+ 
+ 3.- Coordinar la aplicación de lo dispuesto en los apartados anteriores. 
+ 
+e) Coordinador en materia de seguridad y de salud durante la ejecución de la obra: el técnico 
+competente integrado en la dirección facultativa, designado por el promotor para llevar a cabo las 
+siguientes tareas: 
+ 
+ 1.- Coordinar la aplicación de los principios generales de prevención y de seguridad: 
+ 
+a) Al tomar las decisiones técnicas y de organización con el fin de planificar los distintos 
+trabajos o fases de trabajo que vayan a desarrollarse simultánea o sucesivamente. 
+ 
+b) Al estimar la duración requerida para la ejecución de estos distintos trabajos o fases de 
+trabajo. 
+ 
+2.- Coordinar las actividades de la obra para garantizar que los contratistas y los 
+trabajadores autónomos apliquen de manera coherente y responsable los principios de la 
+acción preventiva que se recogen en el artículo 15 de la Ley de Prevención de Riesgos 
+Laborales durante la ejecución de la obra y, en particular, en las tareas o actividades que 
+mencionaremos en el siguiente apartado del presente documento. 
+3.- Aprobar el plan de seguridad y salud elaborado por el contratista y, en su caso, las 
+modificaciones introducidas en el mismo. La Dirección Facultativa asumirá esta función 
+cuando no fuera necesaria la designación de coordinador. 
+ 
+4.- Organizar la coordinación de actividades empresariales prevista en el artículo 24 de la 
+Ley de Prevención de Riesgos Laborales. 
+ 
+5.- Coordinar las acciones y funciones de control de la aplicación correcta de los métodos 
+de trabajo. 
+ 
+6.- Adoptar las medidas necesarias para que sólo las personas autorizadas puedan acceder 
+a la obra. La dirección facultativa asumirá esta función cuando no fuera necesaria la 
+designación de coordinador. 
+ 
+f) Dirección facultativa: El técnico o técnicos competentes designados por el promotor, encargado 
+de la dirección y del control de la ejecución de la obra. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 28 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 29]
+0876-0110-01-59-010314-081010-14 24 
+ 
+g) Contratista: La persona física o jurídica que asume contractualmente ante el promotor, con 
+medios propios o ajenos, el compromiso de ejecutar la totalidad o parte de las obras con sujeción al 
+proyecto y al contrato. 
+ 
+h) Subcontratista: La persona física o jurídica que asume contractualmente ante el contratista, 
+empresario principal, el compromiso de realizar determinadas partes o instalaciones de la obra, con 
+sujeción al proyecto por el que se rige su ejecución. 
+ 
+i) Trabajador autónomo: La persona física distinta del contratista, que realiza de forma personal 
+directa una actividad profesional, sin sujeción a un contrato de trabajo, y que asume 
+contractualmente ante el promotor, el contratista o el subcontratista el compromiso de realizar 
+determinadas partes o instalaciones de la obra. Cuando el trabajador autónomo emplee en la obra a 
+trabajadores por cuenta ajena tendrá la consideración de contratista o subcontratista. 
+ 
+El contratista y el subcontratista tendrán la consideración de empresario a los efectos previstos en la 
+normativa sobre prevención de riesgos laborales. 
+ 
+Cuando el promotor contrate directamente trabajadores autónomos para la realización de la obra o de 
+determinados trabajos de la misma, tendrá la consideración de contratista respecto de aquéllos. 
+ 
+ 
+20.3 PLAN DE SEGURIDAD Y SALUD EN EL TRABAJO
+ 
+ 1.- Cada contratista elaborará un plan de seguridad y salud en el trabajo en donde se analicen, 
+estudien y complementen las previsiones contenidas en el presente estudio general en función de su 
+propio sistema de ejecución de la obra. En dicho plan se incluirán, en su caso, las propuestas de 
+medidas alternativas de prevención que el contratista proponga con la correspondiente justificación 
+técnica, que no podrán implicar disminución de los niveles de protección previstos en el presente 
+estudio general. 
+ 
+ 2.- El plan de seguridad y salud deberá ser aprobado antes del inicio de la obra, por el coordinador 
+en materia de seguridad y de salud durante la ejecución de la obra. Cuando no sea necesaria la 
+designación de coordinador, las funciones que se atribuyen en los párrafos anteriores serán asumidas 
+por la dirección facultativa. 
+ 
+ 3.- El plan de seguridad y salud en el trabajo es el instrumento básico de ordenación de las 
+actividades de identificación y, en su caso, evaluación de riesgos y planificación de la actividad 
+preventiva en relación con los puestos de trabajo en obra. 
+ 
+ 4.- El plan de seguridad y salud podrá ser modificado por el contratista en función del proceso de 
+ejecución de la obra, de la evolución de los trabajos y de las posibles incidencias o modificaciones que 
+puedan surgir a lo largo de la obra, pero siempre con la aprobación expresa en los términos del 
+Documento visado electrónicamente con número BA03151/10. Página 29 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 30]
+0876-0110-01-59-010314-081010-14 25 
+ 
+apartado 2. Quienes intervengan en la ejecución de la obra, así como las personas u órganos con 
+responsabilidades en materia de prevención en las empresas intervinientes en la misma y los 
+representantes de los trabajadores, podrán presentar, por escrito y de forma razonada, las sugerencias 
+y alternativas que estimen oportunas. A tal efecto, el plan de seguridad y salud estará en la obra a 
+disposición permanente de los mismos. 
+ 
+ 5.- El plan de seguridad y salud estará en la obra a disposición permanente de la dirección 
+facultativa. 
+ 
+ 
+20.4 OBLIGACIONES DE LOS CONTRATISTAS Y SUBCONTRATISTAS
+ 
+ 1.- Los contratistas y subcontratistas estarán obligados a: 
+ 
+a) Aplicar los principios de la acción preventiva que se recogen en el artículo 15 de la Ley 
+de Prevención de Riesgos Laborales, en particular al desarrollar las tareas o actividades de 
+puesta en práctica de los principios generales aplicables durante la ejecución de obra 
+contemplados por el Real Decreto 1.627/1.997. 
+ 
+b) Cumplir y hacer cumplir a su personal lo establecido en el plan de seguridad y salud. 
+ 
+c) Cumplir la normativa en materia de prevención de riesgos laborales, teniendo en cuenta, 
+en su caso, las obligaciones sobre coordinación de actividades empresariales previstas en 
+el artículo 24 de la Ley de Prevención de Riesgos Laborales, así como cumplir las 
+disposiciones mínimas establecidas en el anexo IV por el Real Decreto 1.627/1.997 durante 
+la ejecución de la obra. 
+ 
+d) Informar y proporcionar las instrucciones adecuadas a los trabajadores autónomos sobre 
+todas las medidas que hayan de adoptarse en lo que se refiere a su seguridad y salud en 
+obra. 
+ 
+e) Atender las indicaciones y cumplir las instrucciones del coordinador en materia de 
+seguridad y de salud durante la ejecución de la obra o, en su caso, de la dirección 
+facultativa. 
+ 
+ 2.- Los contratistas y subcontratistas serán responsables de la ejecución correcta de las medidas 
+preventivas fijadas en el plan de seguridad y salud en lo relativo a las obligaciones que les 
+correspondan a ellos directamente o, en su caso, a los trabajadores autónomos por ellos contratados. 
+ 
+Además, los contratistas y subcontratistas responderán solidariamente de las consecuencias que se 
+deriven del incumplimiento de las medidas previstas en el plan, en los términos del apartado 2 del 
+artículo 42 de la Ley de Prevención de Riesgos Laborales. 
+Documento visado electrónicamente con número BA03151/10. Página 30 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 31]
+0876-0110-01-59-010314-081010-14 26 
+ 
+ 3.- Las responsabilidades de los coordinadores de la dirección facultativa y del promotor no eximirán 
+de sus responsabilidades a los contratistas y a los subcontratistas. 
+ 
+ 
+20.5 OBLIGACIONES DE LOS TRABAJADORES AUTÓNOMOS
+ 
+ 1.- Los trabajadores autónomos estarán obligados a: 
+ 
+a) Aplicar los principios de la acción preventiva que se recogen en el artículo 15 de la Ley de 
+Prevención de Riesgos Laborales, en particular al desarrollar las tareas o actividades de 
+puesta en práctica de los principios generales aplicables durante la ejecución de la obra. 
+b) Cumplir las disposiciones mínimas de seguridad establecidas por el Real Decreto 
+1.627/1.997 más las establecidas en el presente estudio general de seguridad. 
+ 
+c) Cumplir las obligaciones en materia de prevención de riesgos que establece para los 
+trabajadores el artículo 29, apartados 1 y 2, de la Ley de Prevención de Riesgos Laborales. 
+ 
+d) Ajustar su actuación en la obra conforme a los deberes de coordinación de actividades 
+empresariales establecidos en el artículo 24 de la Ley de Prevención de Riesgos Laborales, 
+participando en particular en cualquier medida de actuación coordinada que se hubiera 
+establecido. 
+ 
+e) Utilizar equipos de trabajo que se ajusten a lo dispuesto en el Real Decreto 1.215/1.997, 
+de 8 de Julio, por el que se establecen las disposiciones mínimas de seguridad y salud para 
+la utilización por los trabajadores de los equipos de trabajo. 
+ 
+f) Elegir y utilizar equipos de protección individual en los términos previstos en el Real 
+Decreto 773/1.997, de 30 de Mayo, sobre disposiciones mínimas de seguridad y salud 
+relativas a la utilización por los trabajadores de equipos de protección individual. 
+ 
+g) Atender las indicaciones y cumplir las instrucciones del coordinador en materia de 
+seguridad y de salud durante la ejecución de la obra o, en su caso, de la dirección 
+facultativa. 
+ 
+ 2.- Los trabajadores autónomos deberán cumplir lo establecido en el plan de seguridad y salud. 
+ 
+ 
+20.6 LIBRO DE INCIDENCIAS
+ 
+ 1.- Con fines de control y seguimiento del plan de seguridad y salud existirá en la oficina de obra un 
+libro de incidencias que constará con hojas por duplicado, habilitado al efecto. Este libro será facilitado 
+por el Colegio Profesional del colegiado que firma este estudio general de seguridad y salud. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 31 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 32]
+0876-0110-01-59-010314-081010-14 27 
+ 
+ 2.- El libro de incidencias estará siempre en obra en poder del coordinador en materia de seguridad 
+y salud durante la ejecución de la obra o, cuando no fuera necesaria la designación de coordinador, en 
+poder de la dirección facultativa. A dicho libro tendrán acceso: 
+ 
+ - La dirección facultativa. 
+ - Los contratistas. 
+ - Los subcontratistas. 
+ - Los trabajadores autónomos. 
+- Las personas u órganos con responsabilidad en materia de prevención en las empresas 
+intervinientes en la obra. 
+ - Los representantes de los trabajadores. 
+- Los técnicos de los órganos especializados en materia de seguridad y salud en el trabajo las 
+Administraciones públicas competentes. 
+ 
+ 3.- Efectuada una anotación en el libro de incidencias, el coordinador en materia de seguridad y 
+salud durante la ejecución de la obra o, cuando no sea necesaria la designación de coordinador, la 
+dirección facultativa, estarán obligados a remitir, en el plazo de veinticuatro horas, una copia a la 
+Inspección de Trabajo y Seguridad Social de la provincia en la que se realiza la obra. Igualmente 
+deberán notificar las anotaciones en el libro al contratista afectado y a los representantes de los 
+trabajadores de éste. 
+ 
+ 
+20.7 PARALIZACIÓN DE LOS TRABAJOS
+ 
+ 1.- Sin perjuicio de lo previsto en los apartados 2 y 3 del artículo 21 y en el artículo 44 de la Ley de 
+Prevención de Riesgos Laborales, cuando el coordinador de seguridad y salud durante la ejecución de 
+la obra o cualquier otra persona integrada en la dirección facultativa observase incumplimiento de las 
+medidas de seguridad y salud, advertirá al contratista de ello, dejando constancia de tal incumplimiento 
+en el libro de incidencias, y quedando facultado para, en circunstancias de riesgo grave e inminente 
+para la seguridad y la salud de los trabajadores, disponer la paralización de los tajos o, en su caso, de 
+la totalidad de la obra. 
+ 
+ 2.- En el supuesto considerado en el apartado anterior, la persona que hubiera ordenado la 
+paralización deberá dar cuenta a los efectos oportunos a la Inspección de Trabajo y Seguridad Social 
+correspondiente, a los contratistas y, en su caso, a los subcontratistas afectados por la paralización, así 
+como a los representantes de los trabajadores de éstos. 
+ 
+ 
+20.8 PRINCIPIOS GENERALES APLICABLES A LA OBRA
+ 
+ De conformidad con la Ley de Prevención de Riesgos Laborales, los principios de la acción 
+preventiva que se recogen en su artículo 15 se aplicarán durante la ejecución de la obra y, en particular, 
+en las siguientes tareas o actividades: 
+Documento visado electrónicamente con número BA03151/10. Página 32 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 33]
+0876-0110-01-59-010314-081010-14 28 
+ 
+ a) El mantenimiento de la obra en buen estado de orden y limpieza. 
+ 
+b) La elección del emplazamiento de los puestos y áreas de trabajo, teniendo en cuenta sus 
+condiciones de acceso, y la determinación de las vías o zonas de desplazamiento o circulación. 
+ 
+ c) La manipulación de los distintos materiales y la utilización de los medios auxiliares. 
+ 
+d) El mantenimiento, el control previo a la puesta en servicio y el control periódico de las 
+instalaciones y dispositivos necesarios para la ejecución de la obra, con objeto de corregir los 
+defectos que pudieran afectar a la seguridad y salud de los trabajadores. 
+ 
+e) La delimitación y el acondicionamiento de las zonas de almacenamiento y depósito de los 
+distintos materiales, en particular si se trata de materias o sustancias peligrosas. 
+ 
+f) La recogida de los materiales peligrosos utilizados. 
+ 
+ g) El almacenamiento y la eliminación o evacuación de residuos y escombros. 
+ 
+h) La adaptación, en función de la evolución de la obra, del periodo de tiempo efectivo que habrá de 
+dedicarse a los distintos trabajos o fases de trabajo. 
+ 
+ i) La cooperación entre los distintos contratistas, subcontratistas y trabajadores autónomos. 
+ 
+j) Las interacciones e incompatibilidades con cualquier otro tipo de trabajo o actividad que se realice 
+en la obra o cerca del lugar de la obra. 
+ 
+ 
+20.9 EVALUACIÓN DE RIESGOS
+ 
+Por las características de los trabajos desarrollados por esta empresa, el personal deberá tener 
+presente las pautas a seguir para la prevención de riesgos en las siguientes actividades: 
+ 
+ A) Riesgos profesionales 
+ 
+ - Caídas de distinto nivel. 
+ - Caídas de materiales. 
+ - Cortes, pinchazos y golpes con máquinas, herramientas y materiales. 
+ - Caídas al mismo nivel. 
+ - Proyección de partículas a los ojos. 
+ - Ruidos intensos. 
+ - Electrocuciones. 
+ - Incendios y explosiones. 
+Documento visado electrónicamente con número BA03151/10. Página 33 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 34]
+0876-0110-01-59-010314-081010-14 29 
+ 
+ B) Riesgos de daños a terceros 
+ 
+ - Caídas al mismo nivel. 
+ - Caídas de objetos. 
+ - Electrocuciones. 
+ 
+ 
+20.10 NORMAS DE SEGURIDAD
+ 
+Se establecen de uso obligatorio las siguientes medidas de protección y normas para realizar los 
+trabajos. 
+ 
+ A) Protecciones personales 
+ 
+ A.1) Protecciones de la cabeza: 
+ 
+- Cascos para todas las personas que participen en la obra, incluidos visitantes. Estos 
+cascos irán marcados con las siglas C.E. indicando la función a que van destinados así 
+como el aislamiento eléctrico. 
+ 
+ - Protecciones auditivas en zonas de alto nivel de ruido. 
+ 
+ - Pantalla de protección para trabajos de soldadura eléctrica. 
+ 
+ - Gafas contra proyección de partículas en trabajos con cortadora de disco o similar. 
+ 
+ A.2) Protecciones del cuerpo: 
+ 
+- Cinturones de seguridad para trabajos con riesgo de caída desde una altura de más de 2 
+metros. 
+ 
+ A.3) Protecciones de extremidades superiores: 
+ 
+ - Guantes de cuero y anticorte para manejo de materiales y objetos. 
+ 
+- Guantes dieléctricos para trabajos en tensión. Estos serán homologados según la Norma 
+Técnica reglamentaria MT-4. Cada guante deberá llevar en sitio visible un sello con la 
+inscripción Ministerio de Trabajo, fecha y clase. 
+ 
+- Las herramientas manuales para trabajos en baja tensión estarán homologadas según la 
+norma técnica reglamentaria MT-26 sobre aislamiento de seguridad de las herramientas 
+manuales para trabajos eléctricos en baja tensión. 
+Documento visado electrónicamente con número BA03151/10. Página 34 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 35]
+0876-0110-01-59-010314-081010-14 30 
+ 
+ A.4) Protecciones de extremidades inferiores: 
+ 
+ - Botas de seguridad de clase III homologadas. 
+ 
+ B) Protecciones colectivas: 
+ 
+Deberán tenerse en cuenta las interferencias con otros grupos de trabajo, especialmente en todo en lo 
+referente a: 
+ 
+ 1) Maniobras con aparatos eléctricos de B.T. o A.T.: 
+Para realizar estos tipos de trabajos deben coordinarse con el responsable técnico de los mismos. 
+Este responsable será el único que conceda permisos para cualquier tipo de maniobra que se 
+realice. Son de uso obligatorio elementos que señalicen la zona en que se realicen este tipo de 
+trabajo. 
+ 
+ 2) Apertura de zanjas o socavones que deberán estar convenientemente balizadas. 
+ 
+ C) Trabajos en andamios: 
+ 
+Cuando los trabajos se realicen en andamios deberán tenerse presentes las siguientes normas: 
+ 
+1) La plataforma de trabajo tendrá siempre un ancho mínimo de 60 cm. , y estará construida con 
+tablas de 5 cm. de espesor como mínimo. 
+ 
+2) Los andamios con plataforma de trabajo a más de 2 metros de altura o con riesgo de caída de 
+alturas superiores, tendrán el perímetro protegido con barandillas metálicas de 90 cm. de altura y 
+rodapié de 15 cm. instalado en la vertical del extremo de la plataforma de trabajo, debiéndose 
+sujetar el operario a un punto fijo del mismo mediante cinturón de seguridad. 
+ 
+3) La plataforma de trabajo en andamios, ya sea de madera o metálica, deberá ir perfectamente 
+sujeta al resto de la estructura. 
+ 
+4) Todo andamio debe reposar en suelo firme y resistente. Queda prohibido utilizar cualquier otro 
+elemento que no sea un pie de andamio regulable para la nivelación del mismo. 
+ 
+D) Trabajos con escalera de mano: 
+ 
+Antes de utilizar una escalera de mano, el operario deberá comprobar que está en buen estado, 
+retirándola en caso contrario, así como deberá observar las siguientes normas: 
+ 
+ 1) No se utilizarán nunca escaleras empalmadas, salvo que estén preparadas para ello. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 35 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 36]
+0876-0110-01-59-010314-081010-14 31 
+ 
+2) Cuando se tenga que usar escaleras en las proximidades de instalaciones en tensión, su manejo 
+será vigilado directamente por el jefe del trabajo, delimitando la zona de trabajo e indicando la 
+prohibición de desplazar la escalera. 
+ 
+ 3) No se debe subir una carga de más de 30 Kg. sobre una escalera no reforzada. 
+ 
+4) Las escaleras de mano se deben apoyar en los largueros (nunca en los peldaños) y de modo que 
+el pie quede retirado de la vertical del punto superior de apoyo, a una distancia equivalente a la 
+cuarta parte de la altura. 
+ 
+5) Las usadas para el acceso a planos elevados, tendrán una longitud suficiente para rebasar en 1 
+metro el punto superior de apoyo y se sujetarán en la parte superior para evitar que basculen. El 
+ascenso y descenso se hará dando de frente a la escalera. 
+ 
+6) Cuando no se empleen las escaleras, se deben guardar al abrigo del sol y de la lluvia. No deben 
+dejarse nunca tumbadas en el suelo. Se barnizarán, pero nunca se pintarán. 
+ 
+ E) Trabajos en alturas: 
+ 
+Se deberán usar cinturones de seguridad en todo trabajo que por su elevada situación o cualquier otra 
+causa, presenten peligro de caída de más de 2 metros. 
+ 
+El cinto de seguridad se debe sujetar en puntos fijos y resistentes, como pueden ser cuerdas sujetas a 
+techos, horquillas metálicas o cualquier otro elemento estructural de la construcción. 
+ 
+Queda prohibido sujetar el cinto en máquinas o andamios. 
+ 
+El cinto debe estar siempre ajustado a la cintura y sujeto en puntos que deben estar preferentemente 
+sobre el nivel de la cintura. 
+ 
+ F) Herramientas eléctricas y lámparas portátiles: 
+ 
+Los útiles y herramientas eléctricas son equipos muy peligrosos dado el estrecho contacto que existe 
+entre el hombre y la máquina y más teniendo en cuenta que los trabajos son realizados en las obras, 
+en la mayoría de las ocasiones, sobre emplazamientos conductores. 
+ 
+La tensión de alimentación de las herramientas eléctricas portátiles de accionamiento manual no 
+excederá de 250 V. con relación a tierra y serán de clase II o doble aislamiento. 
+ 
+Cuando estas herramientas se utilicen en lugares húmedos o conductores serán alimentadas a través 
+de transformadores de separación de circuitos. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 36 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 37]
+0876-0110-01-59-010314-081010-14 32 
+ 
+G) Trabajos con cortadora de discos: 
+ 
+Cuando se use estas máquinas, se deberá comprobar que la protección del disco se encuentra 
+instalada cubriendo como mínimo 1 cm. de su parte superior. 
+ 
+Queda terminantemente prohibido usar la cortadora radial sin protección o con discos no diseñados 
+para esa máquina. Siempre se deberá usar gafas de protección para evitar posibles impactos en los 
+ojos. 
+ 
+ H) Equipos de soldadura: 
+ 
+Queda prohibida toda operación de corte o soldadura en las proximidades de materias combustibles 
+almacenadas, y en la de materiales susceptibles de desprender vapores o gases inflamables y 
+explosivos, a no ser que se hayan tomado precauciones especiales. 
+ 
+Con carácter general en todos los trabajos se usarán guantes y gafas protectoras. 
+Los motores generadores, los rectificadores o los transformadores de las máquinas, y todas las partes 
+conductoras estarán protegidas para evitar contactos accidentales, con partes en tensión, estando 
+conectados los armazones a tierra. 
+ 
+Los cables conectores estarán aislados en el lado de abastecimiento, estando la superficie exterior de 
+los mangos, así como de las pinzas, completamente aislada y provista de discos o pantallas para 
+proteger las manos del calor de los arcos. En caso contrario se utilizarán guantes. 
+ 
+ I) Lámparas eléctricas portátiles: 
+ 
+Estas lámparas deben responder a las normas UNE 20-417 y UNE 20-419 y estar provistas de una reja 
+de protección para evitar choques y tendrán una tulipa estanca que garantice la protección contra 
+proyecciones de agua. Serán de clase II y la tensión de utilización no será superior a 250 V., siendo 
+como máximo de 245 voltios cuando se trabaje en lugares mojados o superficies conductoras, si no son 
+alimentados por medio de transformadores de separación de circuitos. 
+ 
+ J) Trabajos con maniobras en aparatos de baja tensión: 
+ 
+No se procederá a ninguna maniobra sin el permiso del responsable de los trabajos. No se podrá 
+trabajar con elementos en tensión sin la correspondiente protección personal (botas y guantes 
+dieléctricos y pantallas protectoras). 
+ 
+Cuando se realicen trabajos sin tensión se aislarán las partes donde se desarrollen (mediante aparatos 
+de seccionamiento) de cualquier posible alimentación. Únicamente se podrá comprobar la ausencia de 
+tensión con verificadores de tensión. No se restablecerá el servicio hasta finalizar los trabajos, 
+comprobando que no exista peligro alguno. 
+Documento visado electrónicamente con número BA03151/10. Página 37 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 38]
+0876-0110-01-59-010314-081010-14 33 
+ 
+Cuando se realicen tendidos de cables provisionales, se tendrá en cuenta que no sean un riesgo de 
+caídas o electrocuciones para terceros, para lo cual las partes en tensión deben quedar 
+convenientemente protegidas y señalizadas. 
+ 
+ K) Trabajos con maniobras en equipos de alta tensión: 
+ 
+No se procederá a efectuar ninguna maniobra sin el permiso del responsable de los trabajos. El inicio y 
+finalización de los trabajos debe ser comunicado, por escrito, al responsable de los trabajos. 
+Los trabajos en las instalaciones eléctricas deberán realizarse siempre sin tensión. 
+ 
+Se prohíbe realizar trabajos en las instalaciones de alta tensión, sin adoptar las siguientes 
+precauciones: 
+ 
+1) Abrir con corte visible, todas las fuentes de tensión, mediante interruptores y seccionadores que 
+aseguren la imposibilidad de su cierre intempestivo. 
+ 
+ 2) Enclavar o bloqueo, si es posible, los aparatos de corte. 
+ 
+ 3) Reconocer mediante equipo normalizado para ello la ausencia de tensión. 
+ 
+ 4) Poner a tierra y en cortocircuito todas las posibles fuentes de tensión. 
+ 
+ 5) Colocar las señales de seguridad adecuadas, delimitando la zona de trabajo. 
+Cuando se trabaje en celdas de protección, queda prohibido abrir o retirar los resguardos de protección 
+de las celdas antes de dejar sin tensión a los conductores y aparatos contenidos en ellas. Se prohíbe 
+dar tensión a los conductores y aparatos situados en una celda, sin cerrarla previamente con el 
+resguardo de protección. 
+ 
+En la proximidad de instalaciones de alta tensión o en celdas de protección, es obligatorio que el trabajo 
+se haga por parejas de operarios, con el fin de tener mejor vigilancia y más rápido auxilio en caso de 
+accidente. 
+ 
+En cualquier caso, para cualquier trabajo a realizar en la obra las contratas se atendrán a lo dispuesto 
+por el Real Decreto 1.627/1.997, de 24 de Octubre, en su Anexo IV Parte B (Disposiciones mínimas 
+específicas relativas a los puestos de trabajo en las obras en el interior de los locales), y Parte C 
+(Disposiciones mínimas específicas relativas a los puestos de trabajo en las obras en el exterior de los 
+locales). 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 38 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 39]
+0876-0110-01-59-010314-081010-14 34 
+ 
+20.11 MEDICINA PREVENTIVA Y PRIMEROS AUXILIOS
+ 
+Las contratas que trabajen en la obra dispondrán en la misma de un botiquín suficientemente equipado 
+para el personal que tengan con material medicinal básico listo siempre para su uso. 
+ 
+El personal de obra deberá estar informado de los diferentes Centros Médicos, Ambulatorios y 
+Mutualidades Laborales donde deben trasladarse los accidentados para su más rápido y efectivo 
+tratamiento. 
+ 
+ 
+20.12 PLIEGO DE CONDICIONES
+ 
+ 
+20.12.1 Normativa Legal de Aplicación
+ 
+Son de obligado cumplimiento las disposiciones contenidas en: 
+ 
+- Estatuto de los Trabajadores (Modificado según Real Decreto Legislativo 1/1995 de 24 de Marzo). 
+Ley 31/1995 de 8 de Noviembre de Prevención de Riesgos Laborales 
+ 
+- Real Decreto 39/1997, de 17 de enero por el que se aprueba el Reglamento de los Servicios de 
+Prevención. 
+ 
+- Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de 
+seguridad y salud en las obras de construcción. 
+ 
+- Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección y salud y 
+seguridad de los trabajadores frente al riesgo eléctrico. 
+ 
+- Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y la seguridad de los 
+trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo. 
+ 
+- Real Decreto 379/2001, de 6 de abril, por el que se aprueba el Reglamento de almacenamiento de 
+productos químicos y sus instrucciones técnicas complementarias. 
+ 
+- Real Decreto 783/2001, de 6 de julio, por el que se aprueba el Reglamento sobre protección sanitaria 
+contra radiaciones ionizantes. 
+ 
+- Real Decreto 485/1997, de 14 de abril, sobre disposiciones mínimas en materia de señalización de 
+Seguridad y Salud laboral. 
+ 
+- Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de 
+Seguridad y Salud en los lugares de trabajo. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 39 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 40]
+0876-0110-01-59-010314-081010-14 35 
+ 
+- Real Decreto 487/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas a 
+la manipulación manual de cargas que entrañe riesgos, en particular dorsolumbares, para los 
+trabajadores. 
+ 
+- Real Decreto 488/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas al 
+trabajo con equipos que incluyen pantallas de visualización. 
+ 
+- Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos 
+relacionados con la exposición a agentes biológicos durante el trabajo. 
+ 
+- Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos 
+relacionados con la exposición a agentes cancerígenos durante el trabajo, así como la modificación del 
+mismo según el Real Decreto 1124/2000, de 16 de junio. 
+ 
+- Real Decreto 773/1997, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas a 
+la utilización por los trabajadores de equipos de protección individual. 
+ 
+- Real Decreto 1215/1997, de 18 de julio, por que se establecen las disposiciones mínimas de 
+seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. 
+ 
+- Real Decreto 286/2006, de 10 de marzo, sobre protección de la salud y la seguridad de los 
+trabajadores contra los riesgos relacionados con la exposición al ruido. 
+ 
+- Orden de 30 de junio de 1996 por la que se aprueba el texto revisado del Reglamento de Aparatos 
+Elevadores. 
+ 
+- Real Decreto 1435/1992, de 27 de Noviembre, de seguridad en las Máquinas. 
+ 
+- Real Decreto 1407/1992, de 20 de Noviembre, (B.O.E. 28/12/1995, rect. 24/02/1993) que regula las 
+condiciones para la comercialización y libre circulación intracomunitaria de los equipos de protección 
+individuales. 
+ 
+- Reales Decretos por los que se aprueban los Reglamentos sobre clasificación, envasado y etiquetado 
+de sustancias peligrosas (R.D. 2216 de 23 de Octubre de 1985 y R.D. 1078 de 2 de Julio de 1993). 
+ 
+- Resolución del 30 de abril de 1984 sobre las verificaciones de las instalaciones eléctricas antes de su 
+puesta en marcha. 
+ 
+- Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en Centrales Eléctricas, 
+Subestaciones y Centros de Transformación (R.D. 3275/1982 de 12 de Noviembre) e Instrucciones 
+Técnicas Complementarias. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 40 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 41]
+0876-0110-01-59-010314-081010-14 36 
+ 
+- Real Decreto 842/2002, de 2 de agosto de 2002 (BOE de 18 de diciembre) por el que se aprueba el 
+Reglamento Electrotécnico para Baja Tensión e Instrucciones Técnicas Complementarias. 
+ 
+- Real Decreto 223/2008, de 15 de Febrero, por el que se aprueba el Reglamento sobre condiciones 
+técnicas y garantías de seguridad en Líneas Eléctricas de Alta Tensión y sus Instrucciones Técnicas 
+Complementarias ITC-LAT 01 a 09), publicado en el B.O.E. nº 68 de 19 de marzo de 2008. 
+ 
+ 
+20.12.2 Condiciones de los medios de protección
+ 
+- Generalidades
+ 
+ 
+Es obligatorio la utilización de los Equipos de Protección Individual y Colectivos definidos con medidas 
+preventivas en la identificación de los riesgos por parte de todos los trabajadores, incluyendo al Jefe de 
+Obra y otras personas que pudieran visitar la obra en función de los riesgos existentes. 
+ 
+Durante el transcurso de la obra, se tomarán todas las medidas y precauciones necesarias para que los 
+elementos de Seguridad e Higiene instalados para la ejecución de estas obras y definidos en el 
+presente Plan de Seguridad y Salud se encuentren en todo momento en servicio y en buenas 
+condiciones para su finalidad, siendo responsabilidad de todo el personal en general, y de la línea de 
+mando en especial, el mantener y conservar dichas medidas en perfecto estado de uso y funcionalidad, 
+cambiando o reemplazando de lugar los elementos que así lo requieran, utilizando y exigiendo la 
+utilización a todo el personal de todas las preceptivas protecciones individuales y colectivas. 
+ 
+- Equipos de Protección Individual
+ 
+ 
+Los Equipos de Protección Individual serán homologados y llevarán el mercado CE. En caso de que 
+para alguno de ellos no existiese tal identificación, se elegirá aquel que mejor responda a las 
+necesidades y sea garantizada su calidad por el fabricante. 
+ 
+Como Equipos de Protección Individual comunes a todos los trabajos a realizar, los operarios deberán 
+utilizar OBLIGATORIAMENTE cascos, botas y guantes, utilizándose el resto de prendas descritas en las 
+medidas preventivas en función de que se esté realizando la actividad para la que están previstos. A 
+continuación se definen las condiciones de empleo de los Equipos de Protección Individual: 
+ 
+Protección de la cabeza
+ 
+ 
+La cabeza puede verse agredida dentro del ambiente laboral por distintas situaciones de riesgo, entre 
+las que cabe destacar: 
+ 
+Riesgos mecánicos. Caída de objetos, golpes y proyecciones. 
+Riesgos térmicos. Metales fundidos, calor, frío... 
+Documento visado electrónicamente con número BA03151/10. Página 41 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 42]
+0876-0110-01-59-010314-081010-14 37 
+ 
+Riesgos eléctricos. Maniobras y/u operaciones en alta o baja tensión. 
+ 
+La protección del cráneo frente a estos riesgos se realiza por medio del casco que cubre la parte 
+superior de la cabeza. 
+ 
+Protección del oído.
+ 
+ 
+Un protector auditivo es un elemento de protección personal utilizado para disminuir el nivel de ruido 
+que percibe un trabajador situado en un ambiente ruidoso. 
+ 
+Los protectores auditivos los podemos clasificar en los siguientes grupos: 
+ 
+Orejeras 
+Tapones 
+ 
+Las orejeras son protectores que envuelven totalmente el pabellón auditivo. Están compuestas por : 
+ 
+Los CASCOS, que son piezas de plástico duro que cubren y rodean la oreja. Los bordes están 
+recubiertos por unas almohadillas rellenas de espuma plástica con el fin de sellar acústicamente contra 
+la cara. 
+ 
+El ARNÉS, que es el dispositivo que sujeta y presiona los cascos contra la cabeza o sobre la nuca. 
+ 
+Hay cascos de seguridad que llevan acoplados dos cascos de protección auditiva y que pueden girarse 
+90º a una posición de descanso cuando no es preciso su uso. 
+ 
+Los TAPONES son protectores auditivos que se utilizan insertos en el conducto auditivo externo, 
+obturándolo. En general, no son adecuados para personas que sufran enfermedades de oído o 
+irritación del canal auditivo. Puede llevar un ligero arnés o cordón de sujeción para evitar su pérdida. 
+ 
+Protección de ojos y cara
+ 
+ 
+Los equipos de protección personal de ojos y cara se pueden clasificar en dos grandes grupos: 
+Pantallas: Las pantallas cubren la cara del usuario, preservándolo de las distintas situaciones de riesgo 
+a que pueda verse sometido. Las pantallas protectoras, en orden a sus características intrínsecas, 
+pueden clasificarse en: 
+ 
+Pantallas de soldadores. Pueden ser de mano o de cabeza. Las pantallas para soldadores van 
+provistas de filtros especiales inactínicos que, de acuerdo con la intensidad de las radiaciones, tendrán 
+una opacidad determinada, indicada por su grado de protección N. Estas pantallas pueden llevar 
+antecristales que protegen también contra los posibles riesgos de impactos de partículas en 
+Documento visado electrónicamente con número BA03151/10. Página 42 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 43]
+0876-0110-01-59-010314-081010-14 38 
+ 
+operaciones de limpieza o preparación de soldaduras. Estos cristales de protección mecánica pueden 
+ser de dos tipos: Antecristales y cubrefiltros. 
+ 
+Pantallas faciales: Están formadas por un sistema de adaptación a la cabeza abatible y ajustable y 
+diferentes variantes de visores. Dependiendo del tipo de visor proporciona protección contra 
+radiaciones, salpicaduras de líquidos corrosivos, proyección de partículas, etc. 
+Gafas: Tienen el objetivo de proteger los ojos del trabajador. Las gafas, en función del tipo de riesgos a 
+que se encuentre sometido el trabajador en su puesto de trabajo, debe garantizar total o parcialmente 
+la protección adicional de las zonas inferior, temporal y superior del ojo. Los oculares pueden ser tanto 
+de material mineral como de material orgánico. En cualquier caso, como la montura, requieren una 
+certificación específica. Las gafas pueden ser de los siguientes tipos: 
+ 
+Gafa tipo universal 
+Gafa tipo cazoleta 
+Gafa tipo panorámica 
+ 
+Protección de las vías respiratorias
+ 
+ 
+Los equipos de protección individual de las vías respiratorias tienen como misión hacer que el 
+trabajador que desarrolla su actividad en un ambiente contaminado o con deficiencia de oxígeno, pueda 
+disponer para su respiración de aire en condiciones apropiadas. Estos equipos se clasifican en dos 
+grandes grupos: 
+ 
+Respiradores purificadores de aire.- Son equipos que filtran los contaminantes del aire antes de que 
+sean inhalados por el trabajador. 
+ 
+Pueden ser de presión positiva o negativa. Los primeros, también llamados respiradores motorizados, 
+son aquellos que disponen de un sistema de impulsión del aire que lo pasa a través de un filtro para 
+que llegue limpio al aparato respiratorio del trabajador. Los segundos, son aquellos en los que la acción 
+ filtrante se realiza por la propia inhalación del trabajador. 
+ 
+Respiradores con suministro de aire.- Son equipos que aíslan del ambiente y proporcionan aire limpio 
+de una fuente no contaminada, 
+ 
+Equipos semiautónomos 
+Equipos autónomos 
+ 
+Protección de brazos y manos
+ 
+ 
+Un guante es un prenda del equipamiento de protección personal que protege una mano o una parte 
+de ésta, de riesgos. También pueden cubrir parte del antebrazo y brazo. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 43 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 44]
+0876-0110-01-59-010314-081010-14 39 
+ 
+Las extremidades superiores de los trabajadores pueden verse sometidas, en el desarrollo de un 
+determinado trabajo, a riesgos de diversa índole, en función de los cuales la normativa de la 
+Comunidad Europea establece la siguiente clasificación: 
+ 
+Protección contra riesgos mecánicos. 
+Protección contra riesgos químicos y microorganismos. 
+Protección contra riesgos térmicos. 
+Protección contra el frío. 
+Guantes para bomberos. 
+Protección contra radiación ionizada y contaminación radiactiva. 
+ 
+Cada guante, según el material utilizado en su confección, tiene sus limitaciones de uso, debiéndose 
+elegir el más adecuado para cada tarea en particular. 
+ 
+Protección de los pies
+ 
+ 
+Son los pies la parte del cuerpo humano con mayor riesgo de daño directo o capaz de transmitir daños 
+a otra parte del organismo por ser los puntos de contacto necesarios con el medio para desplazarnos o 
+desarrollar la mayor parte de nuestras actividades. 
+ 
+Esta circunstancia ha hecho que de forma natural la humanidad haya tendido a protegerse en primer 
+lugar de las agresiones del suelo y de los agentes meteorológicos a través del calzado. 
+ 
+El calzado de seguridad pretende ser un elemento que proteja, no solo de las agresiones a los pies, 
+sino que evite además que por éstos lleguen agresiones a otras partes del organismo a través del 
+esqueleto del que constituyen su base. Así, el calzado de seguridad no ha de verse como único 
+elemento de protección contra impactos o pinchazos sino que además, protege contra: 
+ 
+ * Vibraciones 
+ * Caídas mediante la absorción de energía 
+* Disminuye el resbalamiento proporcionando una mayor adherencia 
+ * Disminuye la influencia del medio sobre el que se apoya, calor o frío 
+ * Previenen de agresiones químicas como derrames, etc. 
+ 
+Protección del cuerpo entero
+ 
+ 
+Es aquella que protege al individuo frente a riesgos que no actúan únicamente sobre partes o zonas 
+determinadas del cuerpo, sino que afectan a su totalidad. El cubrimiento total o parcial del cuerpo del 
+trabajador tiene por misión defenderlo frente a unos riesgos determinados, los cuales pueden ser de 
+origen térmico, químico, mecánico, radiactivo o biológico. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 44 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 45]
+0876-0110-01-59-010314-081010-14 40 
+ 
+La protección se realiza mediante el empleo de prendas tales como mandiles, chaquetas, monos, etc., 
+cuyo material debe ser apropiado al riesgo existente. 
+ 
+Las prendas de señalización serán aquellas prendas reflectantes que deban utilizarse, sea de forma de 
+brazaletes, guantes, chalecos, etc., en aquellos lugares que forzosamente tengan que estar oscuros o 
+poco iluminados y existan riesgos de colisión, atropellos, etc. 
+ 
+Cinturón de Seguridad
+ 
+ 
+La finalidad del cinturón de seguridad es la de retener o sostener y frenar el cuerpo del trabajador en 
+determinadas operaciones con riesgo de caída de altura, evitando los peligros derivados de las mismas. 
+Los cinturones de seguridad pueden clasificarse en: 
+ 
+ * Cinturones de sujeción 
+ * Cinturones de suspensión 
+ * Cinturones de caída. 
+ 
+ 
+20.12.3 Protecciones Colectivas
+ 
+La eliminación/reducción de los riesgos no se conseguirá únicamente con la adecuada planificación, 
+ejecución de los trabajos y con la utilización de prendas de protección. Es necesario adoptar medidas y 
+elementos protectores de carácter colectivo. Estas protecciones consisten normalmente en: 
+Señalizaciones de Peligro y de Zonas Inseguras, Pasarelas para Acceso a los Trabajos, Sistemas 
+adecuados de Iluminación y Ventilación, detectores de Gases, Verificadores de Ausencia de Tensión, 
+etc. 
+ 
+ 
+21 DOCUMENTOS.
+ 
+La presente memoria Técnica comprende los siguientes documentos: 
+ 
+- Documento nº 1: MEMORIA 
+ 
+- Documento nº 2: PLIEGO DE CONDICIONES 
+ 
+- Documento nº 3: PRESUPUESTO. 
+ 
+- Documento nº 4: PLANOS. 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 45 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 46]
+0876-0110-01-59-010314-081010-14 41 
+ 
+22 CONSIDERACIONES FINALES.
+ 
+Con lo expresado anteriormente y los documentos que se acompañan se pretende definir suficiente-
+mente las instalaciones que componen la subestación colectora, con la intención de permitir su tramita-
+ción en los organismos oficiales. 
+ 
+ 
+23 PRESUPUESTO.
+ 
+El resumen del presupuesto de las instalaciones proyectadas asciende a: 
+ 
+CAPITULO 1.- POSICIÓN DE LÍNEA 220 KV HELIOS I 138.150,00 €
+ 
+CAPITULO 2.- POSICIÓN DE LÍNEA 220 KV HELIOS II 138.150,00 €
+ 
+CAPITULO 3.- EMBARRADO GENERAL 220 KV 36.300,00 €
+ 
+CAPITULO 4.- POSICIÓN DE LÍNEA EVACUACIÓN HELIOS I Y HELIOS II 138.150,00 €
+ 
+CAPITULO 5.- SALA DE CELDAS SS.AA. 13.800,00 €
+ 
+CAPÍTULO 6.- SISTEMA DE CONTROL Y PROTECCIONES 265.000,00 €
+ 
+CAPÍTULO 7.- RED DE TIERRAS 57.088,00 €
+ 
+CAPITULO 8.- SISTEMA COMPLEMENTARIOS 13.200 €
+ 
+CAPÍTULO 9.- EQUIPOS DE SEGURIDAD 1.888,00 €
+ 
+CAPÍTULO 10.- OBRA CIVIL 216.520,00 €
+ 
+CAPÍTULO 11.- ESTRUCTURA METÁLICA 77.000,00 €
+ 
+CAPÍTULO 12.- MONTAJE DE LA SUBESTACIÓN 197.000,00 €
+ 
+CAPÍTULO 13.- SEGURIDAD Y SALUD 6.100,00 €
+ 
+PRESUPUESTO DE EJECUCIÓN MATERIAL 1.280.346,00 €
+ 
+BENEFICIO INDUSTRIAL Y GASTOS GENERALES (22%) 281.676,12€
+ 
+PRESUPUESTO DE EJECUCIÓN POR CONTRATA 1.562.022,12 €
+ 
+ 
+Asciende el prepuesto de ejecución por contrata a la cantidad de UN MILLÓN, QUINIETOS SESENTA Y 
+DOS MIL, VEINTIDOS EUROS, CON DOCE CÉNTIMOS. 
+ 
+ Badajoz, octubre de 2.010 
+ EL INGENIERO TÉCNICO INDUSTRIAL 
+ 
+ 
+ 
+ 
+ 
+ Fdo: Sergio J. Pedrosa Ruiz 
+ Colegiado nº 702 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 46 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 47]
+0876-0110-01-59-010314-081010-14 42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO I – RELACIÓN DE BIENES Y DERECHOS AFECTADOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 47 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 48]
+0876-0110-01-59-010314-081010-14 43 
+ 
+PROPIETARIO DIRECCIÓN 
+DATOS DE LA FINCA OCUPACION 
+TÉRMINO 
+MUNICIPAL 
+POLIGONO
+ 
+Nº 
+PARCELA
+ 
+Nº m2 
+HELIOS I HIPERION 
+ENERGY INVESTIMENTS, SL 
+C/ Claudio Coello, 37, 28001 Madrid Arenas de San 
+Juan (Ciudad Real)
+ 
+8 30 3.100 
+Documento visado electrónicamente con número BA03151/10. Página 48 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 49]
+0876-0110-01-59-010314-081010-14 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO II – CÁLCULO DE LA MALLA DE TIERRAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 49 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 50]
+0876-0110-01-59-010314-081010-14 45 
+ 
+ANEXO II – CÁLCULO DE LA MALLA DE TIERRAS
+ 
+ 
+ 
+DATOS DE DISEÑO
+ 
+ 
+Para la puesta a tierra de la subestación se ha adoptado el sistema de malla enterrada, que se exten-
+derá 1 m por fuera de la valla exterior y estará formada por conductor de cobre desnudo de 120 mm² y 
+enterrada a una profundidad de 0,8 m, con picas de acero cobreado de 2 m de longitud y 19 mm de 
+diámetro instaladas por todo el perímetro. 
+ 
+Los datos de partida son: 
+ 
+ - Tensión nominal de la subestación 220 kV 
+ - Valor de la resistencia del cuerpo humano 1.000 Ohm 
+ - Resistividad media del terreno 500 Ohm x m 
+ - Intensidad de defecto (Io) 12.000 kA 
+ - Tiempo de despeje de falta 0,3 seg 
+ - Resistividad de la grava superficial 3.000 Ohm x m 
+ - Profundidad de la malla 0,8 m 
+ - Separación entre conductores 2,5 m 
+ - Longitud de conductores de malla 2.812,0 m 
+ - Nº de picas 49 
+ - Longitud de picas 2 
+ - Número de conductores en sentido longitudinal 22 conductores 
+ - Número de conductores en sentido transversal 27 conductores 
+ - Área cubierta por la malla 3.328,0 m² 
+ 
+CÁLCULO DE LA RESISTENCIA DE LA MALLA (Rg) 
+ 
+ 
+De acuerdo con la IEEE Estándar 80-1986, para una red de tierra con picas, enterrada en un terreno 
+considerado como uniforme a una profundidad superior a 0,25 m e inferior a 2,5 m se aplicará la si-
+guiente expresión para el cálculo de la resistencia de puesta a tierra de la malla de tierra: 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+AhALRg
+201
+11
+20
+1 1
+
+ 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 50 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 51]
+0876-0110-01-59-010314-081010-14 46 
+ 
+ Donde: 
+ 
+ ρ = Resistividad del terreno en Ohm x m (500 Ohm x m) 
+ L = Longitud total del conductor enterrado (conductor + picas), en m (2.910,0 m) 
+ A = Superficie cubierta por la malla en m² (3.328,0 m²) 
+ h = Profundidad de la malla enterrada en m (0,8 m) 
+ 
+Se obtiene: 
+ 
+Rg = 3,93 Ohm 
+ 
+CÁLCULO DE LA RESISTENCIA DE P.A.T. DE LOS APOYOS DE LA LÍNEAS DE 220 kV (Zs)
+ 
+ 
+La impedancia en cadena (Zs) del conjunto constituido por la puesta a tierra de los apoyos metálicos de 
+las líneas se considera como una resistencia en paralelo con la malla de tierra y se puede determinar 
+por la siguiente tabla para líneas aéreas con un cable de tierra, al ser este caso el más desfavorable: 
+ 
+Líneas con un cable de tierra 
+Cable de tierra Ra (Ohm) Zs (Ohm) 
+ 
+Acero cubierto de Al ARLE 9,78 
+20 4,2 
+15 3,6 
+10 3,1 
+ 
+Aluminio-Acero LA 125 
+20 3,6 
+15 3,1 
+10 2,6 
+ 
+Cable compuesto Tierra-Óptico OPGW (50AY/30ACS) 
+20 2,5 
+15 2,1 
+10 1,8 
+ 
+Se considera que el cable de tierra utilizado en la línea de 220 kV de la subestación es el cable com-
+puesto Tierra-Óptico OPGW (50AY/30ACS), y estimando una resistencia de puesta a tierra de cada 
+apoyo Ra de 20 Ohm, obtenemos: 
+ 
+Zs = 2,5 Ohm 
+ 
+ 
+CÁLCULO TOTAL DE RESISTENCIA DE PUESTA A TIERRA (Re) 
+ 
+ 
+Para el cálculo de la resistencia total de puesta a tierra se considerarán en paralelo las impedancias en 
+cadena de la línea y la resistencia de la malla, así tendremos: 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 51 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 52]
+0876-0110-01-59-010314-081010-14 47 
+ 
+Rg Zs
+1 1
+Re
+1  
+ 
+ 
+Re = 1,53 Ohm 
+ 
+CORRIENTE DE PUESTA A TIERRA (Ig)
+ 
+ 
+A la intensidad de cortocircuito aportada por las líneas se le puede aplicar un coeficiente reductor debi-
+do a la existencia de cable de tierra por el que se irá parte de la intensidad de defecto. De acuerdo con 
+la siguiente tabla, para líneas de 220 kV con cable de tierra: 
+ 
+Cable de tierra Nº de Cables Factor P 
+Acero cubierto de Al ARLE 9,78 1 0,88 
+Aluminio-Acero LA-125 1 0,85 
+Cable compuesto Tierra Óptico OPGW 1 0,70 
+ 
+Ii = Io (1 – P) = 12 kA (1 – 0,70) = 3,6 kA 
+ 
+ Donde: 
+ 
+ Io = Intensidad de defecto (12 kA) 
+Ii = Intensidad que sale por el cable de tierra en caso de defecto, en kA 
+ P = Factor reductor para el cálculo de la Ii, en kA 
+ 
+ Luego la elevación del potencial (Ee) en el electrodo de tierra se puede calcular como: 
+ 
+Ee = Re (Io – Ii) = 12,84 kV 
+ 
+ Luego, la corriente a través de la resistencia de tierra del electrodo de puesta a tierra será: 
+ 
+kAOhm
+kV
+Rg
+EeIg 26 , 393 , 3
+48 , 12  
+ 
+ 
+ 
+TENSIÓN DE LA MALLA (Ep)
+ 
+ 
+En caso de defecto a tierra, existirá una elevación del potencial de la red de tierras de: 
+ 
+Ep = Ig x Rg = 3,26 kA x 3,93 Ohm = 12,84 kV 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 52 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 53]
+0876-0110-01-59-010314-081010-14 48 
+ 
+SECCIÓN MÍNIMA DEL CONDUCTOR (Sm)
+ 
+ 
+La sección mínima del conductor de la malla de tierra se calculará aplicando la siguiente expresión que 
+se encuentra en la Standard 80 IEEE: 
+ 
+
+
+
+
+
+
+
+
+
+Ta ko
+Tm koLn TCAP
+tc IgSm
+r r
+10000
+ 
+ 
+ 
+ Donde: 
+ 
+ Ig = Intensidad que circula a través de la malla de tierra en kA 
+ tc = Tiempo de duración de la falta, aplicando un criterio conservador se tomará 1 s. 
+ α
+o
+ = Coeficiente térmico de resistividad a 0º C. (0,00427 ºC) 
+ 
+α
+r
+ = Coeficiente térmico de resistividad a temperatura de referencia (0,00397 ºC) 
+ ρ
+r
+ = Resistividad del conductor de tierra a la temperatura de referencia (1,72μOhmxcm) 
+ Ko = 1/ α
+r
+ 
+ TCAP = Factor de capacidad térmica para el Cu (3,42 J/cm³/ºC) 
+ Tm = Temperatura máxima permisible en º C, se considera 200 ºC 
+ Ta = Temperatura ambiente en º C, se considera 25 ºC 
+ 
+ Se obtiene: 
+ 
+Sm = 13,64 mm² 
+ 
+Por otro lado según la MIE-RAT 13 no debe superarse la densidad de corriente de 160 A/mm² en con-
+ductores de tierra de cobre. La sección mínima con esta condición será: 
+ 
+2
+2
+40 , 20
+160
+mm
+mm
+IgSm  
+ 
+ 
+Se utilizará cable de 120 mm². 
+ 
+ 
+TENSIONES DE CONTACTO Y PASO (Em y Es) 
+ 
+ 
+La tensión máxima de contacto calculada se obtiene de la expresión: 
+ 
+L
+Ig x Ki x Km xEm
+
+
+ 
+ 
+La tensión máxima de paso calculada: 
+Documento visado electrónicamente con número BA03151/10. Página 53 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 54]
+0876-0110-01-59-010314-081010-14 49 
+ 
+L
+Ig x Ki x Ks xEs
+
+
+ 
+ 
+ Donde: 
+ 
+ ρ = Resistividad media del terreno (500 Ohm x m) 
+ Ig = Intensidad que circula por la malla de tierra (3,26 kA) 
+ Km = Factor de espaciado de conductores 
+ Kii = 1 si existen picas localizadas en perímetro 
+ 1/(2n)
+2/n
+ si no existen picas 
+ Kh = Factor de profundidad 
+ D = Distancia entre conductores de la red en m (2,5 m) 
+ h = Profundidad de la red horizontal (0,8 m) 
+ h
+o
+ =Profundidad de referencia (1 m)
+ 
+ Ki = Factor mayorador por efecto de la densidad de corriente en los extremos de la red 
+ Ks = Factor de espaciamiento de los conductores para la tensión de paso 
+n = nº de conductores paralelos en una dirección, tomamos n = 27, por ser más desfavorable 
+ d = diámetro del conductor en m (0,0124 m) 
+ L = Longitud de conductores de la malla y las picas (2.910 m) 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   1 2
+8
+4 8
+2
+16 2
+1
+22
+nLnKh
+Kii
+d
+h
+d D
+h D
+d h
+DLn Km
+ 
+ 
+ 
+o
+h
+hKh  1
+ 
+ 
+ 
+
+
+
+   
+2
+5 , 0 11 1
+2
+1 1
+n
+D h D hKs
+
+, Si 0,25 < h < 2,5 m 
+ 
+Ki = 0,644 + 0,148n 
+ 
+ Los resultados obtenidos de los coeficientes son: 
+ 
+- Kh = 1,342 
+- Km = 0,36 
+- Ks = 0,42 
+- Ki = 4,64 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 54 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 55]
+0876-0110-01-59-010314-081010-14 50 
+ 
+Con estos valores las tensiones máximas de contacto y paso serán: 
+ 
+Tensión máxima de contacto:
+ 
+ 
+Vx x xEm 49 , 932
+910
+.
+2
+260 . 3 64 , 4 36 , 0 500 
+ 
+ 
+ Tensión máxima de paso:
+ 
+ 
+Vx x xEs 0 , 099 . 1
+910
+.
+2
+260 . 3 64 , 4 42 , 0 500 
+ 
+ 
+TENSIONES DE CONTACTO Y PASO DE REFERENCIA 
+ 
+ 
+La tensión máxima aplicable al cuerpo humano es, según la MIE-RAT 13: 
+ 
+n
+t
+KVca 
+ 
+ 
+En nuestro caso, al tratarse de un tiempo de duración de la falta inferior a 0,9 segundos: 
+ 
+ K = 72 
+ n = 1 
+ t = Tiempo de duración de la falta (0,3 s) 
+ 
+Así obtenemos un valor: 
+ 
+Vca = 240 V 
+ 
+De acuerdo con la MIE-RAT 13 a efectos de cálculo de proyecto y teniendo en cuenta las caídas de 
+tensión que aparecen al considerar todas las resistencias del circuito en que interviene el cuerpo huma-
+no, se pueden empelar para la estimación de las tensiones de paso y contacto máximas admisibles las 
+siguientes fórmulas: 
+ 
+- Tensión de paso máxima admisible en el interior (V):
+ 
+ 
+Vpi = 10 x Vca (1 + 6ps/1000) ) = 31.128 V 
+ 
+- Tensión de contacto máxima admisible en el interior (V):
+ 
+ 
+Vci = Vca (1 + 1.5ps/1000) = 958,2 V 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 55 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 56]
+0876-0110-01-59-010314-081010-14 51 
+ 
+ ps : resistividad superficial del terreno, en el interior de la subestación. 
+ 
+Se utilizará un coeficiente reductor de la resistividad en el interior del recinto Cs = 0,665, con lo que: 
+ 
+ps = 3.000 Ohm m x Cs = 3.000 Ohm m x 0,665 = 1995 Ohm x m 
+ 
+- Tensión de paso máxima admisible en el exterior (V):
+ 
+ 
+Vpe = 10 x Vca (1 + 6ps/1000) ) = 9.600 V 
+ 
+- Tensión de contacto máxima admisible en el exterior (V):
+ 
+ 
+Vce = Vca (1 + 1.5ps/1000) = 420,0 V 
+ 
+ ps : resistividad superficial del terreno, en el exterior de la subestación (5000 Ohm x m) 
+ 
+CONCLUSIONES
+ 
+ 
+Se resumen en la siguiente tabla: 
+ 
+Tensiones Interior (V) Exterior (V) 
+Es (tensión máxima paso) 1.099,0 1.099,0 
+Vp 31.128,0 9.600 
+Em (tensión máxima contacto) 932,49 923,49 
+Vc 958,2 420,0 
+ 
+Los criterios de aceptación son que: 
+ 
+Es < Vpe y Es < Vpi 
+ 
+Em < Vci y Em < Vce 
+ 
+Para que se cumpla que la tensión máxima de contacto (Em) sea inferior a la tensión de contacto ad-
+misible en el exterior (Vce) se realizará la malla un 1 m por fuera de la valla perimetral exterior y se co-
+nectará a esta. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 56 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 57]
+0876-0110-01-59-010314-081010-14 52 
+ 
+DOCUMENTO Nº 2: PLIEGO DE CONDICIONES
+ 
+Documento visado electrónicamente con número BA03151/10. Página 57 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 58]
+0876-0110-01-59-010314-081010-14 53 
+ 
+DESARROLLO DE LAS OBRAS. CONDICIONES TÉCNICO-ECONÓMICAS
+ 
+ 
+ 
+ARTÍCULO 1.- MODIFICACIONES DEL PROYECTO
+ 
+ 
+La empresa promotora, podrá introducir en el proyecto, antes de empezar las obras o durante su 
+ejecución, las modificaciones que sean precisas para la normal construcción de las mismas, aunque no 
+se hayan previsto en el proyecto y siempre que no varíen las características principales de las obras. 
+ 
+También podrá introducir aquellas modificaciones que produzcan aumento o disminución y aun 
+supresión de las unidades de obra marcadas en el presupuesto, o sustitución de una clase de fábrica 
+por otra, siempre que esta sea de las comprendidas en el contrato. 
+ 
+Cuando se trate de aclarar o interpretar preceptos de los Pliegos de Condiciones o indicaciones de los 
+planos o dibujos, las órdenes o instrucciones se comunicarán exclusivamente por escrito al 
+CONTRATISTA, estando obligado este a su vez a devolver una copia suscribiendo con su firma el 
+enterado. 
+ 
+Todas estas modificaciones serán obligatorias para el CONTRATISTA, y siempre que, a los precios del 
+Contrato, sin ulteriores omisiones, no alteren el Presupuesto total de Ejecución Material contratado en 
+más de un 35%, tanto en más como en menos, el CONTRATISTA no tendrá derecho a ninguna 
+variación en los precios ni a indemnización de ninguna clase. 
+ 
+Si la cuantía total de la certificación final, correspondiente a la obra ejecutada por el CONTRATISTA, 
+fuese a causa de las modificaciones del Proyecto, inferior al Presupuesto Total de Ejecución Material 
+del Contrato en un porcentaje superior al 35%, el CONTRATISTA tendrá derecho a indemnizaciones. 
+ 
+Para fijar su cuantía, el contratista deberá presentar a la EMPRESA PROMOTORA en el plazo máximo 
+de dos meses a partir de la fecha de dicha certificación final, una petición de indemnización con las 
+justificaciones necesarias debido a los posibles aumentos de los gastos generales e insuficiente 
+amortización de equipos e instalaciones, y en la que se valore el perjuicio que le resulte de las 
+modificaciones introducidas en las previsiones del Proyecto. Al efectuar esta valoración el 
+CONTRATISTA deberá tener en cuenta que el primer 35% de reducción no tendrá repercusión a estos 
+efectos. 
+ 
+Si por el contrario, la cuantía de la certificación final, correspondiente a la obra ejecutada por el 
+CONTRATISTA, fuese, a causa de las modificaciones del Proyecto, superior al Presupuesto Total de 
+Ejecución Material del Contrato y cualquiera que fuere el porcentaje de aumento, no procederá el pago 
+de ninguna indemnización ni revisión de precios por este concepto. 
+No se admitirán mejoras de obra más que en el caso de que la Dirección de la Obra haya ordenado por 
+escrito, la ejecución de trabajos nuevos o que mejoren la calidad de los contratados. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 58 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 59]
+0876-0110-01-59-010314-081010-14 54 
+ 
+Tampoco se admitirán aumentos de obra en las unidades contratadas, salvo caso de error en las 
+mediciones del Proyecto, o salvo que la Dirección de Obra, ordene también por escrito la ampliación de 
+las contratadas. Se seguirá el mismo criterio y procedimiento, cuando se quieran introducir innovaciones 
+que supongan una reducción apreciable en las unidades de obra contratadas. 
+ 
+ 
+ARTÍCULO 2.- MODIFICACIONES DE LOS PLANOS
+ 
+ 
+Los planos de construcción podrán modificar a los provisionales de concurso, respetando los principios 
+esenciales y el CONTRATISTA no puede por ello hacer reclamación alguna a la EMPRESA 
+PROMOTORA. 
+ 
+El carácter complejo y los plazos limitados de que se dispone en la ejecución de un Proyecto, obligan a 
+una simultaneidad entre las entregas de las especificaciones técnicas de los suministradores de 
+equipos y la elaboración de planos definitivos de Proyecto. 
+Esta simultaneidad implica la entrega de planos de detalle de obra civil, relacionada directamente con 
+la implantación de los equipos, durante todo el plazo de ejecución de la obra. 
+ 
+La EMPRESA PROMOTORA tomará las medidas necesarias para que estas modificaciones no alteren 
+los planos de trabajo del CONTRATISTA entregando los planos con la suficiente antelación para que la 
+preparación y ejecución de estos trabajos se realice de acuerdo con el programa previsto. 
+ 
+El CONTRATISTA por su parte no podrá alegar desconocimiento de estas definiciones de detalle, no 
+incluidas en el proyecto base, y que quedará obligado a su ejecución dentro de las prescripciones 
+generales del Contrato. 
+ 
+El CONTRATISTA deberá confrontar, inmediatamente después de recibidos, todos los planos que le 
+hayan sido facilitados, debiendo informar por escrito a la PROMOTORA en el plazo máximo de 15 días 
+y antes de proceder a su ejecución, de cualquier contradicción, error u omisión que detecte. 
+ 
+ 
+ARTÍCULO 3.- REPLANTEO DE LAS OBRAS
+ 
+ 
+La EMPRESA PROMOTORA entregará al CONTRATISTA los hitos de triangulación y referencias de 
+nivel establecidos por ella en la zona de obras a realizar. La posición de estos hitos y sus coordenadas 
+figurarán en un plano general de situación de las obras. 
+ 
+Dentro de los 15 días siguientes a la fecha de adjudicación el CONTRATISTA verificará en presencia 
+de los representantes de la EMPRESA PROMOTORA el plano general de replanteo y las coordenadas 
+de los hitos, levantándose el Acta correspondiente. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 59 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 60]
+0876-0110-01-59-010314-081010-14 55 
+ 
+La EMPRESA PROMOTORA precisará sobre el plano de replanteo las referencias a estos hitos de los 
+ejes principales de cada una de las obras. 
+ 
+El CONTRATISTA será responsable de la conservación de todos los hitos y referencias que se le 
+entreguen. Si durante la ejecución de los trabajos, se destruyese alguno, deberá reponerlos por su 
+cuenta y bajo su responsabilidad. 
+ 
+El CONTRATISTA establecerá en caso necesario, hitos secundarios y efectuará todos los replanteos 
+precisos para la perfecta definición de las obras a ejecutar, siendo de su responsabilidad los perjuicios 
+que puedan ocasionarse por errores cometidos en dichos replanteos. 
+ 
+ 
+ARTÍCULO 4.- ACCESOS A LAS OBRAS
+ 
+ 
+Los caminos y accesos provisionales a los diferentes tajos de obra, serán construidos por el 
+CONTRATISTA por su cuenta y cargo. 
+ 
+Para que la EMPRESA PROMOTORA apruebe su construcción en el caso de que afecten a terceros 
+interesados, el CONTRATISTA habrá debido llegar a un previo acuerdo con estos. 
+ 
+Los caminos y accesos estarán situados en la medida de lo posible, fuera del lugar de emplazamiento 
+de las obras definitivas. En el caso de que necesariamente hayan de transcurrir por el emplazamiento 
+de obras definitivas, las modificaciones posteriores, necesarias para la ejecución de los trabajos, serán 
+a cargo del CONTRATISTA. 
+ 
+Si los mismos caminos han de ser utilizados por varios Contratistas, estos deberán ponerse de acuerdo 
+entre sí sobre el reparto de sus gastos de construcción y conservación. 
+ 
+La EMPRESA PROMOTORA se reserva el derecho de transitar libremente por todos los caminos y 
+accesos provisionales de la obra, sin que pueda hacerse repercutir sobre ella gasto alguno en concepto 
+de conservación. 
+ 
+ 
+ARTÍCULO 5.- ORGANIZACIÓN DE LAS OBRAS
+ 
+ 
+El CONTRATISTA tendrá un conocimiento completo de la disposición de conjunto de los terrenos, de la 
+importancia y situación de las obras objeto de contrato, de las zonas reservadas para la obra, de los 
+medios de acceso, así como de las condiciones climáticas de la región, especialmente del régimen de 
+las aguas y de la frecuencia e importancia de las crecidas de los ríos, que puedan afectar a los 
+trabajos. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 60 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 61]
+0876-0110-01-59-010314-081010-14 56 
+ 
+La EMPRESA PROMOTORA pondrá gratuitamente a disposición del CONTRATISTA, mientras duren 
+los trabajos, todos los terrenos cuya ocupación definitiva sea necesaria para la implantación de las 
+obras objeto del contrato. 
+ 
+También pondrá la EMPRESA PROMOTORA gratuitamente a disposición del CONTRATISTA, los 
+terrenos de su propiedad y que puedan ser adecuados para las obras auxiliares e instalaciones. 
+ 
+En el plazo de un mes a partir de la fecha del Contrato, se determinarán contradictoriamente los 
+terrenos afectados por los párrafos 2 y 3 que se representarán en el plano de la zona. En caso de 
+desavenencia en esta determinación contradictoria, será vinculante el plano previo incorporado al 
+Pliego de Condiciones Particulares. 
+ 
+La obligación de la EMPRESA PROMOTORA en cuanto entrega de los terrenos necesarios queda 
+limitada a los que figuran y se reseñan en el plano de referencia que, al mismo tiempo, definirá lo que 
+se entiende por zona de obras. 
+ 
+Si por conveniencia del CONTRATISTA este desease disponer de otros terrenos distintos de los 
+figurados y reseñados en el plano antes citado, será de su cargo su adquisición o la obtención de las 
+autorizaciones pertinentes, debiendo el contratista someter previamente a la conformidad de la 
+EMPRESA PROMOTORA las modalidades de adquisición o de obtención de la autorización respectiva. 
+ 
+ 
+ARTÍCULO 6.- VIGILANCIA Y POLICIA DE LAS OBRAS
+ 
+ 
+El CONTRATISTA es responsable del orden, limpieza y condiciones sanitarias de las obras objeto de 
+contrato. Deberá adoptar a este respecto, a su cargo y bajo su responsabilidad, las medidas que le 
+sean señaladas por las autoridades competentes y con la representación de la EMPRESA 
+PROMOTORA. 
+ 
+En caso de conflicto de cualquier clase, que pudiera implicar alteraciones del orden público, 
+corresponde al CONTRATISTA la obligación de ponerse en contacto con las autoridades competentes 
+y convenir con ellos y disponer las medidas adecuadas para evitar incidentes. 
+ 
+ 
+ARTÍCULO 7.- UTILIZACION DE LAS INSTALACCIONES AUXILIARES Y EQUIPOS DEL 
+CONTRATISTA
+ 
+ 
+El CONTRATISTA deberá poder facilitar a la EMPRESA PROMOTORA, todos los medios auxiliares que 
+figuran en el programa o tengan servicio en la obra. Para ello la EMPRESA PROMOTORA comunicará 
+por escrito al CONTRATISTA las instalaciones o equipos o máquinas que desea utilizar y fecha y 
+duración de la prestación. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 61 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 62]
+0876-0110-01-59-010314-081010-14 57 
+ 
+Cuando razonablemente no haya inconveniente para ello, no se perturbe la organización y desarrollo 
+de los trabajos, o exista una causa grave de fuerza mayor, el CONTRATISTA deberá atender la 
+solicitud de la EMPRESA PROMOTORA, abonándose las horas de utilización conforme a los baremos 
+de administración aprobados. 
+ 
+En todo caso, el manejo y entretenimiento de las máquinas e instalaciones será realizado por personal 
+del CONTRATISTA. 
+ 
+ 
+ARTÍCULO 8.- EMPLEO DE MATERIALES NUEVOS O DE DEMOLICION PERTENECIENTES A LA 
+EMPRESA ELECTRICA
+ 
+ 
+Cuando fuera de las previsiones del Contrato, la EMPRESA PROMOTORA juzgue conveniente emplear 
+materiales nuevos o de recuperación que le pertenezcan, el CONTRATISTA no podrá oponerse a ello y 
+las condiciones que regulen este suministro serán establecidas de común acuerdo o, en su defecto, se 
+establecerá mediante Arbitraje de Derecho Privado. 
+ 
+ 
+ARTÍCULO 9.- USO ANTICIPADO DE LAS INSTALACIONES DEFINITIVAS
+ 
+ 
+La EMPRESA PROMOTORA se reserva el derecho de hacer uso de las partes terminadas de la obra 
+contratada, antes de que los trabajos prescritos en el contrato se hayan terminado en su totalidad, bien 
+por necesidades de servicio, bien para permitir la realización de otros trabajos que no forman parte del 
+contrato. 
+ 
+Si la EMPRESA PROMOTORA desease hacer uso del citado derecho, se lo comunicará al 
+CONTRATISTA con una semana de antelación a la fecha de utilización. El uso de este derecho por 
+parte de la EMPRESA PROMOTORA no implica recepción provisional de la zona afectada. 
+ 
+ 
+ARTÍCULO 10.- PLANES DE OBRA Y MONTAJE
+ 
+ 
+Independientemente del plan de trabajos que los Contratistas ofertantes deben presentar con sus 
+ofertas, de acuerdo a lo establecido en el artículo 6, el CONTRATISTA presentará con posterioridad a 
+la firma del Contrato, un plan más detallado que el anterior. 
+ 
+En el Pliego Particular de Condiciones de cada obra, se indicará el plazo máximo a partir de la 
+formalización del Contrato, en el que debe presentarlo y tipo de programa exigido. De no indicarse el 
+plazo, se entenderá establecido éste en un mes. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 62 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 63]
+0876-0110-01-59-010314-081010-14 58 
+ 
+Este Plan, que deberá ser lo más completo, detallado y razonado posible, respetará obligatoriamente 
+los plazos parciales y finales fijados en el Concurso, y deberá venir acompañado del programa de 
+certificaciones mensuales. 
+ 
+Tanto el Plan de Obra como el programa de Certificaciones mensuales, deberán destacar 
+individualmente cada una de las unidades correspondientes a la Obra Característica. 
+ 
+Las unidades de Obra Complementaria podrán agruparse tanto en uno como en otro documento, 
+dentro de bloques homogéneos cuya determinación quedará a juicio del CONTRATISTA. En el caso de 
+que éste, decidiera proponer un adelanto en alguno de los plazos fijados, deberá hacerlo como una 
+variante suplementaria, justificando expresamente en este caso todas las repercusiones económicas a 
+que diese lugar. 
+ 
+El Plan de Obra deberá ser aprobado oficialmente por la EMPRESA PROMOTORA adquiriendo desde 
+este momento el carácter de documento contractual. No podrá ser modificado sin autorización expresa 
+de la EMPRESA PROMOTORA y el CONTRATISTA vendrá obligado a respetarlo en el desarrollo de 
+los trabajos. 
+ 
+En caso de desacuerdo sobre el Plan de Obra, una vez rechazado por la EMPRESA PROMOTORA el 
+tercero consecutivo se someterá la controversia a arbitraje, siendo desempeñado por un solo árbitro, 
+que habrá de ser el profesional competente y habilitado, según la índole del tema considerado, 
+designado por el Colegio Profesional correspondiente. 
+ 
+En este Plan, el CONTRATISTA indicará los medios auxiliares y mano de obra que ofrece emplear en 
+la ejecución de cada una de las unidades de Obra Característica, con indicación expresa de los 
+rendimientos a obtener. Las unidades de Obra complementaria podrán agruparse a estos efectos, en 
+bloques homogéneos. 
+ 
+Los medios ofrecidos, que han de ser como mínimo los de la propuesta inicial, salvo que la EMPRESA 
+PROMOTORA, a la vista del Plan de Obra, autorice otra cosa, quedarán afectos a la obra y no podrán 
+ser retirados o sustituidos salvo aprobación expresa de la Dirección de la misma. 
+La aceptación del Plan y relación de medios auxiliares propuestos por el CONTRATISTA no implica 
+exención alguna de responsabilidad para el mismo en el caso de incumplimiento de los plazos 
+parciales, o final convenido. 
+ 
+Si el desarrollo de los trabajos no se efectuase de acuerdo al Plan aprobado y ello pudiera dar lugar al 
+incumplimiento de plazos parciales o final, la EMPRESA PROMOTORA podrá exigir del 
+CONTRATISTA la actualización del Plan vigente, reforzando las plantillas de personal, medios 
+auxiliares e instalaciones necesarias a efectos de mantener los plazos convenidos y sin que el 
+CONTRATISTA pueda hacer recaer sobre la EMPRESA PROMOTORA las repercusiones económicas 
+que este aumento de medios puede traer consigo. El Plan de Obra actualizado sustituirá a todos los 
+efectos contractuales al anteriormente vigente, con la salvedad que se indica en el apartado siguiente. 
+Documento visado electrónicamente con número BA03151/10. Página 63 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 64]
+0876-0110-01-59-010314-081010-14 59 
+ 
+En cualquier caso, la aceptación por parte de la EMPRESA PROMOTORA de los Planes de Obra 
+actualizados que se vayan confeccionando para adecuar el desarrollo real de los trabajos al 
+mantenimiento de los plazos iniciales, no liberará al CONTRATISTA de las posibles responsabilidades 
+económicas en que incurra por el posible incumplimiento de los plazos convenidos. 
+ 
+El desarrollo de todas las obras habrá de subordinarse al montaje de las instalaciones para cuyo 
+servicio se construyen. 
+ 
+Esta circunstancia ya se tiene en cuenta al establecer los plazos de cada obra que se fijan en su 
+correspondiente Pliego Particular, por lo que en ningún caso pueden ser causa de concesión de 
+prorroga las interferencias que al curso de la obra pueda originar el montaje, siempre y cuando el 
+suministro de equipos y el propio montaje se mantengan en líneas generales dentro de los plazos y 
+planes previstos. 
+ 
+ 
+ARTÍCULO 11.- PLAZOS DE EJECUCIÓN
+ 
+ 
+En el Pliego Particular de Condiciones de cada obra, se establecerán los plazos parciales y plazo final 
+de terminación, a los que el CONTRATISTA deberá ajustarse obligatoriamente. 
+ 
+Los plazos parciales corresponderán a la terminación y puesta a disposición de determinados 
+elementos, obras o conjuntos de obras, que se consideren necesario para la prosecución de otras fases 
+de la construcción o del montaje. 
+ 
+Estas obras o conjunto de obras que condicionan un plazo parcial, se definirán bien por un estado de 
+dimensiones, bien por la posibilidad de prestar en ese momento y sin restricciones, el uso, servicio o 
+utilización que de ellas se requiere. 
+ 
+En consecuencia, y a efectos del cumplimiento del plazo, la terminación de la obra y su puesta a 
+disposición, será independiente del importe de los trabajos realizados a precio de Contrato, salvo que el 
+importe de la Obra Característica realizada supere como mínimo en un 10% el presupuesto asignado 
+para esa parte de la obra. 
+ 
+Para valorar a estos efectos la obra realizada, no se tendrá en cuenta los aumentos del coste 
+producidos por revisiones de precios y sí únicamente los aumentos reales del volumen de obra. 
+ 
+ 
+ARTÍCULO 12.- RETENCIONES POR RETRASOS DURANTE LA EJECUCIÓN DE LA OBRA
+ 
+ 
+Los retrasos sobre el plan de obra y programa de certificaciones imputables al CONTRATISTA, tendrán 
+como sanción económica para cada mes la retención por la EMPRESA PROMOTORA, con abono a 
+una cuenta especial denominada "Retenciones", del 50% de la diferencia entre el 90% de la Obra 
+Documento visado electrónicamente con número BA03151/10. Página 64 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 65]
+0876-0110-01-59-010314-081010-14 60 
+ 
+Característica que hasta ese mes debería haberse justificado y la que realmente se haya realizado. 
+Para este cómputo de obra realizada no se tendrá en cuenta la correspondiente a Obras 
+complementarias. 
+ 
+El CONTRATISTA que en meses sucesivos realizase Obra Característica por un valor superior a lo 
+establecido en el Plan de trabajos para esos meses, tendrá derecho a recuperar de la cuenta de 
+"Retenciones" la parte proporcional que le corresponda. 
+ 
+Cuando se alcance el plazo total previsto para la ejecución de la obra con un saldo acreedor en la 
+cuenta de "Retenciones" quedará éste bloqueado a disposición de la EMPRESA PROMOTORA para 
+responder de las posibles multas y sanciones correspondientes a una posible rescisión. En el momento 
+de la total terminación y liquidación de la obra contratada, se procederá a saldar esta cuenta abonando 
+al CONTRATISTA el saldo acreedor si lo hubiere o exigiéndole el deudor si así resultase. 
+ 
+ 
+ARTÍCULO 13.- INCUMPLIMIENTO DE LOS PLAZOS Y MULTAS
+ 
+ 
+En el caso de incumplimiento de los plazos fijados por causas directamente imputables al 
+CONTRATISTA, satisfará éste las multas que se indiquen en el Pliego Particular de la obra, con cargo 
+a las certificaciones, fondo de retenciones o fianza definitiva, sucesivamente, sin perjuicio de la 
+responsabilidad por daños. 
+ 
+Si el retraso producido en el cumplimiento de los plazos ocasionara a su vez retrasos en otros 
+contratistas, lesionando los intereses de estos, la EMPRESA PROMOTORA podrá hacer repercutir 
+sobre el CONTRATISTA las indemnizaciones a que hubiera lugar por tales perjuicios. 
+ 
+En el caso de que los retrasos se produzcan por causas imputables a la EMPRESA PROMOTORA en 
+los suministros a que venga obligada la Empresa, por órdenes expresas de la Dirección de Obra o por 
+demoras en los montajes de maquinaria o equipos, se prorrogarán los plazos en un tiempo igual al 
+estimado por la EMPRESA PROMOTORA como retraso producido. 
+ 
+ 
+ARTÍCULO 14.- SUPRESIÓN DE LAS MULTAS
+ 
+ 
+Cuando la EMPRESA PROMOTORA advierta la posibilidad de que un retraso en la ejecución de las 
+obras o en el montaje, no va a repercutir en la puesta en marcha de la instalación ni causar perjuicios a 
+terceros, podrá acordar libremente la supresión de multas, o la ampliación de los plazos de ejecución. 
+ 
+En este último caso, la EMPRESA PROMOTORA podrá diferir a la nueva fecha de terminación, y en el 
+supuesto de que ésta tampoco se cumpla, la aplicación de las multas establecidas. 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 65 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 66]
+0876-0110-01-59-010314-081010-14 61 
+ 
+ARTÍCULO 15.- PREMIOS Y PRIMAS
+ 
+ 
+En el Pliego Particular de Condiciones de la Obra, la EMPRESA PROMOTORA podrá establecer 
+premios en el caso de cumplimiento de los plazos parciales y totales contratados y/o un sistema de 
+primas para premiar los posibles adelantos sobre dichos plazos de terminación de obras. 
+ 
+En el Pliego Particular, se especificarán así mismo, las condiciones que deberán concurrir para que el 
+CONTRATISTA pueda obtener dichos premios y/o primas. 
+ 
+La EMPRESA PROMOTORA podrá supeditar el pago de los premios, siempre que así lo indique 
+expresamente, al cumplimiento estricto de los plazos, incluso en el caso de retrasos producidos por 
+causas no imputables al CONTRATISTA o de fuerza mayor. 
+ 
+ 
+ARTÍCULO 16.- RETRASOS OCASIONADOS POR LA EMPRESA PROMOTORA
+ 
+ 
+Los retrasos que pudieran ocasionar la falta de planos, demoras en el suministro de materiales que 
+deba ser realizado por la EMPRESA PROMOTORA, o interferencias ocasionadas por otros 
+Contratistas, serán valorados en tiempo por la Dirección de la Obra, después de oír al CONTRATISTA, 
+prorrogándose los plazos conforme a dicha estimación. 
+ 
+Para efectuar ésta, la Dirección tendrá en cuenta la influencia sobre la parte de obra realmente 
+afectada, y la posibilidad de adelantar la ejecución de obras y unidades de obras, cuya realización 
+estuviese prevista para fecha posterior. 
+ 
+ 
+ARTÍCULO 17.- DAÑOS Y AMPLIACIÓN DE PLAZO EN CASO DE FUERZA MAYOR
+ 
+ 
+Cuando se produjeran daños en las obras por causa de fuerza mayor, si su prevención o minoración 
+hubiera correspondido a las partes, la que hubiese sido negligente soportará sus consecuencias. 
+ 
+Si fuese por completo ajena a la actuación del CONTRATISTA el riesgo sobre la obra ejecutada será 
+soportado por la EMPRESA PROMOTORA en cuanto a las unidades de que se hubiese hecho previa 
+medición. 
+ 
+Si por causa de fuerza mayor no imputable al CONTRATISTA hubiese de sufrir demora el curso de la 
+obra, lo pondrá en conocimiento de la EMPRESA PROMOTORA con la prontitud posible, concretando 
+el tiempo en que estima necesario prorrogar los plazos establecidos, la EMPRESA PROMOTORA 
+deberá manifestar su conformidad o reparos a la procedencia y alcance de la prorroga propuesta en un 
+plazo igual al que hubiese mediado entre el hecho originario y la comunicación del CONTRATISTA. 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 66 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 67]
+0876-0110-01-59-010314-081010-14 62 
+ 
+ARTÍCULO 18.- MEDICIONES DE LAS UNIDADES DE OBRA
+ 
+ 
+Servirán de base para la medición y posterior abono de las obras los datos del replanteo general y los 
+replanteos parciales que haya exigido el curso de la obra; los vencimientos y demás partes ocultas de 
+las obras, tomados durante la ejecución de los trabajos y autorizados con las firmas del 
+CONTRATISTA y del Director de la Obra; la medición que se lleve a efecto de las partes descubiertas 
+de las obras de fábrica y accesorias y, en general, los que convengan al procedimiento consignado en 
+el Pliego Particular de Condiciones, o en los Pliegos oficiales que se citen como preceptivos. 
+ 
+En ningún caso podrá alegar el CONTRATISTA los usos y costumbres del país respecto de la 
+aplicación de los precios o de la forma de medir las unidades de obra ejecutadas cuando se hallen en 
+contradicción con las normas establecidas a estos efectos en el Pliego Particular de la obra, o en su 
+defecto, con las establecidas en el presente Pliego de Condiciones Generales. 
+ 
+Las mediciones con los datos recogidos de los elementos cualitativos que caracterizan las obras 
+ejecutadas, los acopios realizados, o los suministros efectuados, constituyen comprobación de un cierto 
+estado de hecho y se recogerán por la EMPRESA PROMOTORA en presencia del CONTRATISTA. La 
+ausencia del CONTRATISTA, aun habiendo sido avisado propiamente, supone su conformidad a los 
+datos recogidos por la EMPRESA PROMOTORA. 
+ 
+En caso de presencia del CONTRATISTA las mediciones serán avaladas con la firma de ambas partes. 
+ 
+El CONTRATISTA no podrá dejar de firmar las mediciones. En caso de negarse a hacerlo, podrá 
+levantarse acta notarial a su cargo. Si las firmara con reservas, dispondrá de un plazo de 10 días a 
+partir de la fecha de redacción de las mismas para formular por escrito sus observaciones. Pasado ese 
+plazo, las mediciones se suponen aceptadas sin reserva alguna. 
+ 
+En el caso de la firma con reserva, se redactará un acta en la que se hará constar los motivos de 
+disconformidad, acta que se unirá a la correspondiente medición. 
+ 
+En el caso de reclamación del CONTRATISTA las mediciones se tomarán a petición propia o por 
+iniciativa de la EMPRESA PROMOTORA, sin que estas comprobaciones prejuzguen, en ningún caso, el 
+reconocimiento de que las reclamaciones están bien fundamentadas. 
+ 
+El CONTRATISTA está obligado a exigir a su debido tiempo la toma contradictoria de mediciones para 
+los trabajos, prestaciones y suministros que no fueran susceptibles de comprobación o de verificaciones 
+ulteriores, a falta de lo cual, salvo pruebas contrarias que deben proporcionar a su costa, prevalecerán 
+las decisiones de la EMPRESA PROMOTORA con todas sus consecuencias. 
+ 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 67 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 68]
+0876-0110-01-59-010314-081010-14 63 
+ 
+ARTÍCULO 19.- CERTIFICACIÓN Y ABONO DE LAS OBRAS
+ 
+ 
+Las unidades de obra se medirán mensualmente sobre las partes realmente ejecutadas con arreglo al 
+Proyecto, modificaciones posteriores y órdenes de la Dirección de Obra, y de acuerdo con los artículos 
+del Pliego de Condiciones. 
+ 
+La medición de la obra realizada en un mes se llevará a cabo en los ocho primeros días siguientes a la 
+fecha de cierre de certificaciones. Dicha fecha se determinará al comienzo de las obras. 
+ 
+Las valoraciones efectuadas servirán para la redacción de certificaciones mensuales al origen, de las 
+cuales se tendrá el líquido de abono. 
+ 
+Corresponderá a la EMPRESA PROMOTORA en todo caso, la redacción de las certificaciones 
+mensuales. 
+ 
+Las certificaciones y abonos de las obras, no suponen aprobación ni recepción de las mismas. 
+ 
+Las certificaciones mensuales se deben entender siempre como abonos a buena cuenta, y en 
+consecuencia, las mediciones de unidades de obra y los precios aplicados no tienen el carácter de 
+definitivos, pudiendo surgir modificaciones en certificaciones posteriores y definitivamente en la 
+liquidación final. 
+ 
+Si el CONTRATISTA rehusase firmar una certificación mensual o lo hiciese con reservas por no estar 
+conforme con ella, deberá exponer por escrito y en el plazo máximo de diez días, a partir de la fecha de 
+que se le requiera para la firma, los motivos que fundamenten su reclamación e importe de la misma. 
+La EMPRESA PROMOTORA considerará esta reclamación y decidirá si procede atenderla. 
+ 
+Los retrasos en el cobro, que pudieran producirse como consecuencia de esta dilación en los trámites 
+de la certificación, no se computarán a efectos de plazo de cobro ni de abono de intereses de demora. 
+ 
+Terminado el plazo de diez días, señalado en el epígrafe anterior, o si hubiese variado la obra en forma 
+tal que les fuera imposible recomprobar la medición objeto de discusión, se considerará que la 
+certificación es correcta, no admitiéndose posteriormente reclamación alguna en tal sentido. 
+ 
+Tanto en las certificaciones, como en la liquidación final, las obras serán en todo caso abonadas a los 
+precios que para cada unidad de obra figuren en la oferta aceptada, o a los precios contradictorios 
+fijados en el transcurso de la obra, de acuerdo con lo provisto en el epígrafe siguiente. 
+ 
+Los precios de unidades de obra, así como los de los materiales, maquinaria y mano de obra que no 
+figuren entre los contratados, se fijarán contradictoriamente entre el Director de Obra y el 
+CONTRATISTA, o su representante expresamente autorizado a estos efectos. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 68 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 69]
+0876-0110-01-59-010314-081010-14 64 
+ 
+Estos precios deberán ser presentados por el CONTRATISTA debidamente descompuestos, conforme 
+a lo establecido en el artículo 7 del presente Pliego. 
+ 
+La Dirección de Obra podrá exigir para su comprobación la presentación de los documentos necesarios 
+que justifique la descomposición del precio presentado por el CONTRATISTA. 
+ 
+La negociación del precio contradictorio será independiente de la ejecución de la unidad de obra de que 
+se trate, viniendo obligado el CONTRATISTA a realizarla, una vez recibida la orden correspondiente. A 
+falta de acuerdo se certificará provisionalmente a base de los precios establecidos por la EMPRESA 
+PROMOTORA. 
+ 
+Cuando circunstancias especiales hagan imposible el establecer nuevos precios, o así le convenga a la 
+EMPRESA PROMOTORA, corresponderá exclusivamente a esta Sociedad la decisión de abonar estos 
+trabajos en régimen de Administración, aplicando los baremos de mano de obra, materiales y 
+maquinaria, aprobados en el Contrato. 
+ 
+Cuando así lo admita expresamente el Pliego de Condiciones Particulares de la obra, o la EMPRESA 
+PROMOTORA acceda a la petición en este sentido formulada por el CONTRATISTA, podrá certificarse 
+a cuenta de acopios de materiales en la cuantía que determine dicho Pliego, o en su defecto la que 
+estime oportuno la Dirección de Obra. 
+ 
+Las cantidades abonadas a cuenta por este concepto se deducirán de la certificación de la unidad de 
+obra correspondiente, cuando dichos materiales pasen a formar parte de la obra ejecutada. 
+ 
+En la liquidación final no podrán existir abonos por acopios, ya que los excesos de materiales serán 
+siempre por cuenta del CONTRATISTA. 
+ 
+El abono de cantidades a cuenta en concepto de acopio de materiales no presupondrá, en ningún caso, 
+la aceptación en cuanto a la calidad y demás especificaciones técnicas de dicho material, cuya 
+comprobación se realizara en el momento de su puesta en obra. Del importe de la certificación se 
+detraerà el porcentaje fijado en el artículo 18 para la constitución del fondo de garantía. 
+ 
+Las certificaciones por revisión de precios, se redactarán independientemente de las certificaciones 
+mensuales de obra ejecutada. 
+ 
+El abono de cada certificación tendrá lugar dentro de los 90 días siguientes de la fecha en que quede 
+firmada por ambas partes la certificación y que obligatoriamente deberá figurar en la antefirma de la 
+misma. El pago se efectuará mediante transferencia bancaria, no admitiéndose en ningún caso el giro 
+de efectos bancarios por parte del CONTRATISTA. 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 69 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 70]
+0876-0110-01-59-010314-081010-14 65 
+ 
+ARTÍCULO 20.- ABONO DE UNIDADES INCOMPLETAS O DEFECTUOSAS
+ 
+ 
+La Dirección de Obra, determinará si las unidades que han sido realizadas en forma incompleta o 
+defectuosa, deben rehacerse o no. Caso de rehacerse el CONTRATISTA vendrá obligado a 
+ejecutarlas, siendo de su cuenta y cargo dicha reparación, en el caso de que ya le hubiesen sido 
+abonadas. De no haberlo sido, se certificará la obra como realizada una sola vez. 
+ 
+Cuando existan obras defectuosas o incompletas que la EMPRESA PROMOTORA considere, que a 
+pesar de ello puedan ser aceptables para el fin previsto, se abonarán teniendo en cuenta la 
+depreciación correspondiente a las deficiencias observadas. En el Pliego de Condiciones Particulares 
+se fijan resistencias, densidades, grados de acabado, tolerancias en dimensiones, etc. Se podrá hacer 
+una proporcionalidad con las obtenidas, siempre que sean admisibles, o bien fijar de entrada una 
+depreciación en los precios de un 10% para obras defectuosas pero aceptables. 
+ 
+ 
+ARTÍCULO 21.- RECEPCIÓN PROVISIONAL DE LAS OBRAS
+ 
+ 
+A partir del momento en que todas las obras que le han sido encomendadas, hayan sido terminadas, el 
+CONTRATISTA lo pondrá en conocimiento de la EMPRESA PROMOTORA, mediante carta certificada 
+con acuso de recibo. 
+La EMPRESA PROMOTORA procederá entonces a la recepción provisional de esas obras, habiendo 
+convocado previamente al CONTRATISTA por escrito, al menos con 15 días de anticipación. 
+ 
+Si el CONTRATISTA no acude a la convocatoria, se hará mención de su ausencia en el Acta de 
+Recepción. Del resultado del reconocimiento de las obras, se levantará un Acta de recepción en la que 
+se hará constar el estado final de las obras y las deficiencias que pudieran observarse. El Acta será 
+firmada conjuntamente por el CONTRATISTA y la Dirección de la obra. 
+ 
+Si el reconocimiento de las obras fuera satisfactorio se recibirán provisionalmente las obras, 
+empezando a contar desde esta fecha el plazo de garantía. 
+ 
+Si por el contrario se observara deficiencias y no procediese efectuar la recepción provisional, se 
+concederá al CONTRATISTA un plazo breve para que corrija los defectos observados, transcurrido el 
+cual deberá procederse a un nuevo reconocimiento. 
+ 
+Si transcurrido el plazo concedido al CONTRATISTA, no se hubieran subsanado dichos defectos, la 
+EMPRESA PROMOTORA podrá proceder a su realización, bien directamente, bien por medio de otros 
+contratistas, con cargo al fondo de garantía y si este no bastase, con cargo a la fianza definitiva. Una 
+vez terminados los trabajos de reparación, se procederá a recibir provisionalmente las obras. 
+ 
+ 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 70 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 71]
+0876-0110-01-59-010314-081010-14 66 
+ 
+ARTÍCULO 22.- PLAZO DE GARANTÍA
+ 
+ 
+Una vez terminadas las obras, se efectuará la recepción provisional de las mismas, a partir de cuyo 
+momento comenzara a contar el plazo de garantía, al final del cual se llevará a cabo la recepción 
+definitiva. 
+ 
+El plazo de garantía se determinará en cada caso en el Pliego Particular de Condiciones de la obra. 
+ 
+Durante este plazo, será de cuenta del CONTRATISTA la conservación y reparación de las obras, así 
+como todos los desperfectos que pudiesen ocurrir en las mismas, desde la terminación de estas, hasta 
+que se efectúe la recepción definitiva, excepción hecha de los daños que se deriven del mal trato o uso 
+inadecuado de las obras por parte de la EMPRESA PROMOTORA. 
+ 
+Si el CONTRATISTA incumpliese lo estipulado en el párrafo anterior, la EMPRESA PROMOTORA 
+podrá encargar a terceros la realización de dichos trabajos o ejecutarlos directamente por 
+Administración, deduciendo su importe del fondo de garantía y si no bastase, de la fianza definitiva, sin 
+perjuicio de las acciones legales a que tenga derecho la EMPRESA PROMOTORA en el caso de que el 
+fondo de garantía y de la fianza no bastasen para cubrir el importe de los gastos realizados en dichos 
+trabajos de reparación. 
+ 
+ 
+ARTÍCULO 23.- RECEPCIÓN DEFINITIVA DE LAS OBRAS
+ 
+ 
+Una vez transcurrido el plazo de garantía fijado en el Pliego Particular de Condiciones se procederá a 
+efectuar la recepción definitiva de las obras de un modo análogo al indicado en el artículo 55 para la 
+recepción provisional. 
+ 
+En el caso de que hubiese sido necesario conceder un plazo para subsanar los defectos hallados, el 
+CONTRATISTA no tendrá derecho a cantidad alguna en concepto de ampliación del plazo de garantía, 
+debiendo continuar encargo de la conservación de las obras durante esa ampliación. 
+ 
+Si la obra se arruinase con posterioridad a la recepción definitiva por vicios ocultos de la construcción 
+debidos a incumplimiento doloso del Contrato por parte del CONTRATISTA, responderá éste de los 
+daños y perjuicios en el término de 15 años. Transcurrido este plazo, quedará totalmente extinguida la 
+responsabilidad del CONTRATISTA. 
+ 
+ 
+ARTÍCULO 24.- LIQUIDACIÓN DE LAS OBRAS
+ 
+ 
+Una vez efectuada la recepción provisional se procederá a la medición general de las obras que han de 
+servir de base para la valoración de las mismas. 
+ 
+Documento visado electrónicamente con número BA03151/10. Página 71 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 72]
+0876-0110-01-59-010314-081010-14 67 
+ 
+La liquidación de las obras se llevará a cabo después de la recepción definitiva, saldando las 
+diferencias existentes por los abonos a cuenta y descontando el importe de las reparaciones u obras de 
+conservación que haya habido necesidad de efectuar durante el plazo de garantía, en el caso de que el 
+CONTRATISTA no las haya realizado por su cuenta. 
+ 
+Después de realizada la liquidación, se saldarán el fondo de garantía y la fianza definitiva, tanto si ésta 
+última se ha constituido Aval Bancario. 
+ 
+También se liquidará, si existe, la cuenta especial de retenciones por retrasos durante la ejecución de 
+las obras. 
+ 
+ Badajoz, octubre de 2.010 
+ EL INGENIERO TÉCNICO INDUSTRIAL 
+ 
+ 
+ 
+ 
+ 
+ Fdo: Sergio J. Pedrosa Ruiz 
+ Colegiado nº 702 
+Documento visado electrónicamente con número BA03151/10. Página 72 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 73]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+DOCUMENTO Nº 3: PRESUPUESTO
+ 
+Documento visado electrónicamente con número BA03151/10. Página 73 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 74]
+ 
+Cant. Ud Descripción €/Und Total Total Capitulo 
+CAPÍTULO 1.- POSICIÓN DE LÍNEA 220 kV HELIOS I
+1 Ud Interruptor unipolar SF6 245 kV - 3150 A - 40 kA 45.000,00 45.000,00
+1 Ud Seccionador tripolar motorizado 245 kV - 2000 A - 40 kA 15.400,00 15.400,00
+1 Ud Seccionador tripolar motorizado 245 kV - 2000 A - 40 kA con p.a.t. 15.950,00 15.950,00
+3 Ud Transformador de tensión inductivo 220: √ 3/0,11: √3-0,11:√3-0,11:3kV 7.100,00 21.300,00
+3 Ud Transformador de intensidad 220kV 200-400-800/5-5-5-5 A 8.200,00 24.600,00
+3 Ud Pararrayos 198 kV - 10 kA 5.300,00 15.900,00 138.150,00 € 
+CAPÍTULO 2.- POSICIÓN DE LÍNEA 220 kV HELIOS II
+1 Ud Interruptor unipolar SF6 245 kV - 3150 A - 40 kA 45.000,00 45.000,00
+1 Ud Seccionador tripolar motorizado 245 kV - 2000 A - 40 kA 15.400,00 15.400,00
+1 Ud Seccionador tripolar motorizado 245 kV - 2000 A - 40 kA con p.a.t. 15.950,00 15.950,00
+3 Ud Transformador de tensión inductivo 220: √ 3/0,11: √3-0,11:√3-0,11:3kV 7.100,00 21.300,00
+3 Ud Transformador de intensidad 220kV 200-400-800/5-5-5-5 A 8.200,00 24.600,00
+3 Ud Pararrayos 198 kV - 10 kA 5.300,00 15.900,00 138.150,00 € 
+CAPÍTULO 3.- EMBARRADO GENERAL 220 KV
+1 PA Embarrado principal 220 kV, con tubo y soportaciones 15.000,00 15.000,00
+3 Ud Transformador de tensión inductivo 220: √ 3/0,11: √3-0,11:√3-0,11:3kV 7.100,00 21.300,00 36.300,00 € 
+CAPÍTULO 4.- POSICIÓN DE LINEA EVACUACION HELIOS I Y HELIOS II
+1 Ud Interruptor unipolar SF6 245 kV - 3150 A - 40 kA 45.000,00 45.000,00
+1 Ud Seccionador tripolar motorizado 245 kV - 2000 A - 40 kA 15.400,00 15.400,00
+1 Ud Seccionador tripolar motorizado 245 kV - 2000 A - 40 kA con p.a.t. 15.950,00 15.950,00
+3 Ud Transformador de tensión inductivo 220: √ 3/0,11: √3-0,11:√3-0,11:3kV 7.100,00 21.300,00
+3 Ud Transformador de intensidad 220kV 200-400-800/5-5-5-5 A 8.200,00 24.600,00
+3 Ud Pararrayos 198 kV - 10 kA 5.300,00 15.900,00 138.150,00 € 
+CAPÍTULO 5.- SALA DE CELDAS SS.AA.
+1 Ud Celda de protección transformador 24 kV con interruptor SF6 630 A - 20 kA 3 
+posiciones con p.a.t. y fusibles A.P.R. 10 A 5.500,00 5.500,00
+1 Ud Celda de protección línea 24 kV con interruptor SF6 630 A - 20 kA, 3 
+posiciones con p.a.t. 4.000,00 4.000,00
+1 Ud Transformador de SS.AA. 15kV/420V - 100 kVA Dny11 ONAN 4.300,00 4.300,00 13.800,00 € 
+CAPÍTULO 6.- SISTEMA DE CONTROL Y PROTECCIONES
+1 Ud SICOP con cuadro UCS y UCP de 3 posiciones de linea 220 kV 145.000,00 145.000,00
+3 Ud Conjuntos Rectificador-Bateria 125 Vcc - 100 Ah 13.600,00 40.800,00
+3 PA Cabledo de control 20.100,00 60.300,00
+3 Ud Convertidores 125Vcc-48Vcc 6.300,00 18.900,00 265.000,00 € 
+CAPÍTULO 7.- RED DE TIERRAS
+2912 ml Cable de Cu 120 mm² 14,00 40.768,00
+680 Ud Sodadura aluminotermica 12,00 8.160,00
+49 Ud Picas de acero cobreado 2 mt - 19 mm de diámetro 40,00 1.960,00
+5 Ud Puntas Franklyn 340,00 1.700,00
+1 PA Material auxiliar 4.500,00 4.500,00 57.088,00 € 
+ 0876-0110-01-59-02-081010-14 1
+Documento visado electrónicamente con número BA03151/10. Página 74 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 75]
+ 
+Cant. Ud Descripción €/Und Total Total Capitulo 
+CAPÍTULO 8.- SISTEMA COMPLEMENTARIOS 
+1 PA Alumbrado exterior subestacion 1.500,00 1.500,00
+1 PA Instalación electrica interior edificio 1.000,00 1.000,00
+1 PA Sistema anti-intrusismo 3.200,00 3.200,00
+1 PA Instalación contra incendios 6.300,00 6.300,00
+1 PA Instalación de climatización 1.200,00 1.200,00 13.200,00 € 
+CAPÍTULO 9.- EQUIPOS DE SEGURIDAD 
+1 Ud Equipo de p.a.t. para instalaciones de 220 kV 1.200,00 1.200,00
+1 Ud Botiquin 120,00 120,00
+20 Ud Placas de señalizacion peligro 3,00 60,00
+1 Ud Guantes aislantes 0,5 kV 12,00 12,00
+1 Ud Guantes aislantes 24 kV 45,00 45,00
+1 Ud Banqueta aislante 24 kV 45,00 45,00
+1 Ud Pertiga 24 kV 56,00 56,00
+1 Ud Verificador optico acustico 220 kV 350,00 350,00 1.888,00 € 
+CAPÍTULO 10.- OBRA CIVIL
+1 PA Acondicionamiento del terreno 44.000,00 44.000,00
+1 PA Fundaciones aparamenta 67.000,00 67.000,00
+1 PA Vial de acceso 20.000,00 20.000,00
+1 PA Viales interiores 14.000,00 14.000,00
+1 PA Edficio control 20.000,00 20.000,00
+224 ml Cerramiento de malla electrosoldada con murete de mamposteria 230,00 51.520,00 216.520,00 € 
+CAPÍTULO 11.- ESTRUCTURA METALICA
+1 PA Extructura para aparamenta y postes 77.000,00 77.000,00 77.000,00 € 
+CAPÍTULO 12.- MONTAJE DE LA SUBESTACION
+1 PA Montaje, conexionado y prueba de todos los elementos que componen la 
+subestación. 179.000,00 179.000,00 179.000,00 € 
+ 0876-0110-01-59-02-081010-14 2
+Documento visado electrónicamente con número BA03151/10. Página 75 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 76]
+ 
+Cant. Ud Descripción €/Und Total Total Capitulo 
+CAPÍTULO 13.- SEGURIDAD Y SALUD
+1 PA Elaboracion de los planes de seguridad 600,00 600,00
+1 PA Coordinación en materia de seguridad y salud durante la obra 2.500,00 2.500,00
+1 PA Protecciones individuales y colectivas (incluso caseta de obra, etc) 3.000,00 3.000,00 6.100,00 € 
+TOTAL PRESUPUESTO DE EJECUCIÓN MATERIAL 1.280.346,00 € 
+22% Gastos de Generales y Beneficio Industrial 281.676,12 € 
+TOTAL PRESUPUESTO DE EJECUCIÓN POR CONTRATA
+1.562.022,12 €
+ 
+ 
+Badajoz, octubre de 2.010
+El Ingeniero Técnico Industrial (Coleg. Nº 702)
+Fdo.: Sergio J. Pedrosa Ruiz
+Asciende el presente presupuesto a la cantidad de UN MILLÓN, QUINIENTOS SESENTA Y DOS MIL, 
+VEINTIDOS EUROS, CON DOCE CÉNTIMOS.
+ 0876-0110-01-59-02-081010-14 3
+Documento visado electrónicamente con número BA03151/10. Página 76 de 86
+Nº.Colegiado.: 702
+Pedrosa Ruiz, Sergio Javier
+En calidad de EMPLEADO de la empresa:
+ARRAM CONSULTORES S.L.P.
+VISADO Nº.: BA03151/10
+DE FECHA: 13/10/2010
+Autentificación: 
+011375814224
+
+[page 77]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+DOCUMENTO Nº 4: PLANOS
+ 
+Documento visado electrónicamente con número BA03151/10. Página 77 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 78]
+0876-0110-01-59-010314-081010-14 
+ 
+ 
+ 
+ 
+PLANOS
+ 
+ 
+PLANO Nº 1: SITUACIÓN Y EMPLAZAMIENTO 
+ PLANO Nº 2: PLANTA ELECTRICA SUBESTACIÓN 
+ PLANO Nº 3: ALZADOS 
+ PLANO Nº 4: ALUMBRADO EXTERIOR 
+ PLANO Nº 5: ESQUEMA UNIFILAR Y DE PROTECCIONES 
+PLANO Nº 6: MALLA DE TIERRA 
+PLANO Nº 7: SEGURIDAD Y SALUD: PLANTA GENERAL 
+PLANO Nº 8: SEGURIDAD Y SALUD: PROTECCIONES 
+Documento visado electrónicamente con número BA03151/10. Página 78 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 79]
+SITUACION
+escala_1/25.000
+escala_1/25.000
+EMPLAZAMIENTO
+CATASTRAL
+ARENAS DE SAN JUAN
+CM-4126
+N-420
+ARENAS DE
+SAN JUAN
+
+
+
+
+T.M.
+ARENAS DE
+SAN JUAN
+T.M.
+PUERTO
+LAPICE
+T.M.
+VILLARTA DE
+SAN JUAN
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0401-081010-04ind. OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+SITUACIÓN Y EMPLAZAMIENTO
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.comDocumento visado electrónicamente con número BA03151/10. Página 79 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 80]
+3,003,504,004,003,503,504,007,505,174,000,50 2,82 4,00 0,50
+3,00 2,50 4,00 0,694,504,003,804,505,105,104,503,804,003,501,003,005,00
+10,00
+2,00 7,40
+1,85 2,11
+4,40
+12,00
+6,40
+62,00
+50,00
+HELIOS I
+HELIOS II
+SALIDA A
+STE
+PUERTO LAPICE
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0402-081010-041/100 OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+PLANTA ELÉCTRICA SUBESTACIÓN
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.comDocumento visado electrónicamente con número BA03151/10. Página 80 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 81]
+5,52
+3,15
+3,00
+2,90
+2,87
+3,35
+6,48
+15,00
+0,694,002,503,004,504,003,804,505,105,104,503,804,003,501,003,005,00
+1,101,101,101,101,101,101,101,10
+2,40
+2,40
+2,40
+2,40
+6,48
+0,50 4,00 2,82 3,00 3,50 4,00 4,00 3,50 3,50 4,00 4,00 3,50 5,17 4,00 0,50
+9,00
+ALZADO-SECCION A-A
+ALZADO-SECCION B-B
+PARARAYOS 198 KV - 10 KA
+TRANSFORMADOR DE TENSIÓN 220:√3 / 2x0.11: √3 - 0.11:3 KV
+SECCIONADOR III 245 KV - 2000 A CON P.A.T.
+INTERRUPTOR SF6 245 KV - 3150 A
+TRANSFORMADOR INTENSIDAD 245 KV 200-400-800 / 5-5-5-5 A
+SECCIONADOR DE BARRAS III 245 KV - 2000 A
+A A
+B
+B
+TERMINAL EXTERIOR PORCELANA
+BARRAS 220 KV
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0403-081010-041/100 OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+ALZADOS
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.com
+2,47
+3,00
+Documento visado electrónicamente con número BA03151/10. Página 81 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 82]
+PROYECTOR VSAP 400 W IP-65 SOBRE SOPORTE DE 5.00m
+LUMINARIA VSAP 150 W IP-65 SOBRE COLUMNA DE 4.00m
+LUMINARIA VSAP 150 W IP-65 CON BRAZO METÁLICO
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0404-081010-041/100 OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+ALUMBRADO EXTERIOR
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.comDocumento visado electrónicamente con número BA03151/10. Página 82 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 83]
+Protección fallo interruptor
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0405-081010-04s/e OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+ESQUEMA UNIFILAR Y DE PROTECCIONES
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.comDocumento visado electrónicamente con número BA03151/10. Página 83 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 84]
+ZANJA PARA CABLE
+CONEXION A TIERRA. ESTRUCTURAS
+(EN ESQUINAS Y CADA 15m.)
+0.80
+0.50
+2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,46 2,30 2,62 2,46 2,46 2,46
+2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48 2,48
+52,00
+64,00
+2,46 2,46 2,46 2,46 1,84 0,62 2,46
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0406-081010-041/100 OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+MALLA DE TIERRA
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.comDocumento visado electrónicamente con número BA03151/10. Página 84 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 85]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZONA ACOPIO MATERIAL
+Zona de Trabajo
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0407-081010-041/100 OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+SEGURIDAD Y SALUD. PLANTA GENERAL
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.comDocumento visado electrónicamente con número BA03151/10. Página 85 de 86
+BA03151/10
+13/10/2010
+011375814224
+
+[page 86]
+CINTURON PORTAHERRAMIENTASPROTECCIONES INDIVIDUALES (CASCO DE SEGURIDAD)
+GAFAS DE MONTURA TIPO UNIVERSAL CONTRA IMPACTOS
+BOTA DE SEGURIDAD CLASE III
+BOTA IMPERMEABLE AL AGUA
+Y A LA HUMEDAD
+MASCARILLA ANTIPOLVO
+!
+SEÑALES DE ADVERTENCIA DE PELIGRO
+
+L1
+L
+ 
+m
+
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+D1
+m
+  
+  
+
+
+ 
+SEÑALES DE OBLIGACION
+
+
+
+BALIZAMIENTO DE GALIBO DE OBRA
+SEÑALES DE BALIZAMIENTO
+PROTECCIONES COLECTIVAS DE SEÑALIZACIÓN
+PROTECCIONES INDIVIDUALES PROTECCIONES COLECTIVAS DE BALIZAMIENTO
+PROYECTO SUB. COLECTORA HELIOS I Y HELIOS II 220KV
+EN EL T.M. DE ARENAS DE SAN JUAN (CIUDAD REAL).
+ESCALA:
+0876-0110-01-59-0408-081010-04s/e OCTUBRE DE 2.010
+PLANO: PLANO Nº:
+PROMOTOR:
+SEGURIDAD Y SALUD. PROTECCIONES
+HELIOS I HYPERION ENERGY INVESTMENTS, S.L.
+EL INGENIERO TÉCNICO INDUSTRIAL:
+Fdo. Sergio Javier Pedrosa Ruiz
+BADAJOZ Paseo de San Francisco, 2-A 06002
+Tel. 924 207 083 - Fax 924 207 085
+MADRID Avenida Europa, 2 Parque Oeste 28922 Alcorcón
+Tel. 91 689 19 37 - Fax. 91 689 19 57
+www.arram.comDocumento visado electrónicamente con número BA03151/10. Página 86 de 86
+BA03151/10
+13/10/2010
+011375814224

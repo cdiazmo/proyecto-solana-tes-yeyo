@@ -1,0 +1,28 @@
+{
+  "id": "b034b64592634be3",
+  "path": "Documentos en Servidor Atlántica/260422_02 LIS cargas Sc y Hl/Potencias instaladas y disponibles en Solacor.xlsx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "xlsx",
+  "size_bytes": 323945,
+  "size_human": "316 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "Potencias instaladas y disponibles en Solacor",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1250,
+  "token_estimate": 312,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/b034b64592634be3.json",
+  "extracted_path": ".yeyo-memory/extracted/b034b64592634be3.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Hoja1",
+        "rows_seen": 22,
+        "non_empty_rows": 15
+      }
+    ]
+  },
+  "processed_at": "2026-06-08T18:29:18.245129+00:00"
+}

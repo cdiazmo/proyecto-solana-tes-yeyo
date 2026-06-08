@@ -1,0 +1,191 @@
+[page 1]
+ 
+ 
+ 
+ATLANTICA 
+PROGRAMA DE PUNTOS DE INSPECCIÓN 
+ 
+REV: 
+DIV: 
+ 
+00 
+CAL 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-PPI-001 
+ 
+DATE 
+Fecha: 01/04/2026 Pag 1/1 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+PROGRAMA DE PUNTOS DE 
+INSPECCIÓN 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-PPI-001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 01/04/2026 INITIAL ISSUE B.B U.O.A D.S.Z. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+INSPECTION TEST PLAN
+1950801-PPI-001 Rev 00
+REV. O.Nº DESCRIPTION REPORT METHOD SPECIFICATION AND REMARKS LOINTEK NOTES
+1 DOCUMENTATION
+Documentación
+1.1 MECHANICAL CALCULATIOS 
+Cálculos Mecánicos D DR ASME B31.3
+1950801-CAL-001 H
+1.2 DRAWINGS
+Planos D DR 1950801-DWG-XXX H
+1.3 WELDING JOINT LIST (WJL)
+Lista Cordones de Soldadura (WJL) D DR 1950801-WJL-001 H
+1.4 WELDING PROCEDURES (WPS)
+Procedimientos de Soldadura (WPS) D DR 1950801-WPS-001
+ASME IX H
+1.5 PROCEDURE QUALIFICATION RECORDS (PQR)
+Certificación de Procedimientos de Soldadura (PQR) D DR 1950801-PQR-001
+ASME IX H
+1.6 WELDER PERFORMANCE QUALIFICATION (WPQ)
+Homologaciones de Soldadores D DR ASME IX H
+1.7 WELDING REPAIR PROCEDURE
+Procedimiento Reparación de Soldadura D DR 1950801-WRP-001
+ASME IX H
+1.8 MANUFACTURING PROCEDURES (SEE ANNEX 1)
+Procedimientos de Fabricación (Ver Anexo 1) D DR ASME B31.3 H
+1.9 INSPECTION AND TEST PROCEDURES (SEE ANNEX 1)
+Procedimientos de Inspección y Pruebas (Ver Anexo 1) D DR ASME B31.3
+ASME V H
+1.10 NDE OPERATOR QUALIFICATION
+Cualificación de Operadores END D DR ASME V
+ISO 9712 H
+2
+MATERIAL RECEPTION
+Recepción del Material 2150902
+2.1 MATERIALS FOR PRESSURE PARTS & ATTACMENTS TO PRESSURE PARTS
+Materiales para Partes a Presión & Materiales unidos a Partes a Presión D DR/VI ASME II PART A H
+2.2 WELDING MATERIAL
+Material de Soldadura D DR/VI ASME II PART C H
+3
+MATERIAL PREPARATION
+Preparación de Materiales
+3.1 LAYOUT AND CUTTING, MARK TRANSFER
+Trazado y Corte, Traspaso de Marcas - VI/TM IT-FAB-PMM-001
+ASME B31.3 H
+3.2 EDGE PREPARATION BEFORE WELDING VISUAL INSPECTION
+Inspección Visual de la Preparación de Bordes antes de Soldar - VT 1950801-PIV-001
+ASME B31.3 H
+LOINTEK REF.: 1950801CUSTOMER: ATLANTICA
+ITEM: ERECTION ACTIVITIES
+FOR REFERENCE
+
+[page 3]
+INSPECTION TEST PLAN
+1950801-PPI-001 Rev 00
+REV. O.Nº DESCRIPTION REPORT METHOD SPECIFICATION AND REMARKS LOINTEK NOTES
+LOINTEK REF.: 1950801CUSTOMER: ATLANTICA
+ITEM: ERECTION ACTIVITIES
+4 PIPING MANUFACTURING
+Fabricación de Tubería
+4.1 PIPING ASSEMBLY, DIMENSIONAL CONTROL, WELDS FIT UP
+Montaje de Tubería,Control Dimensional, Alineamiento - DC/VI ACC. DWG H
+4.2 BUTT WELDS: PARAMETERS CHECKING
+Soldaduras a tope: Comprobación de Parámetros - VI 1950801-WPS-001 H
+4.3 NDT OF BUTT WELDS 
+Ensayos No Destructivos de Soldaduras a tope D - ACC TO CODE H
+4.4 VISUAL INSPECTION OF NON BUTT WELDS
+Inspección Visual de Soldaduras NO a tope - VT ACC TO CODE H
+5
+HYDROSTATIC TEST
+Prueba Hidráulica
+5.1 VISUAL INSPECTION AND DIMENSIONAL CHECK
+Inspección Visual y Control Dimensional D DC/VI ACC. DWG H
+5.2 SHELL SIDE HYDROSTATIC TEST
+Prueba Hidráulica Lado Cuerpo D HT 1950801-PPH-001 H
+6
+FINAL WORKS
+Trabajos Finales
+6.1 PAINTING
+Pintado D VI 1950801-PPS-001 H
+7
+FINAL DOCUMENTS 
+Documentos Finales
+7.1 CERTIFICATE OF CONFORMITY
+Certificado de Conformidad D DR PED 2014/68/EU H
+7.2 DECLARATION OF CONFORMITY
+Declaración de Conformidad D DR PED 2014/68/EU H
+7.3 NCR CLOSING VERIFICATION (if any)
+Cierre de NCR (si hay) - DR - H
+7.4 DELIVERY AUTHORITATION
+Autorización de Envio D DR - H
+7.5 MANUFACTURING DATA REPORT
+Dossier de Fabricación D DR 1950801-MDR-001 H
+FOR REFERENCE

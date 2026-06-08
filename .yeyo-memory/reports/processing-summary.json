@@ -1,19 +1,120 @@
 {
-  "generated_at": "2026-06-05T13:17:00.498194+00:00",
-  "cards": 1,
-  "processed_this_run": 0,
-  "skipped_unchanged": 1,
+  "generated_at": "2026-06-08T18:40:23.301630+00:00",
+  "cards": 2717,
+  "processed_this_run": 205,
+  "skipped_unchanged": 2512,
   "by_status": {
-    "archive_listed": 1
+    "archive_listed": 149,
+    "error": 6,
+    "metadata_only": 542,
+    "needs_ocr_or_empty": 267,
+    "ok": 1166,
+    "tagged_plan": 587
   },
   "by_ext": {
-    "zip": 1
+    "7z": 2,
+    "[no_ext]": 3,
+    "bak": 2,
+    "doc": 7,
+    "docx": 14,
+    "dwg": 412,
+    "jpg": 40,
+    "log": 1,
+    "msg": 23,
+    "nwd": 13,
+    "pdf": 1791,
+    "png": 2,
+    "rar": 4,
+    "xls": 32,
+    "xlsm": 2,
+    "xlsx": 216,
+    "zip": 153
   },
   "by_top_dir": {
     "01 GD AE": {
+      "files": 455,
+      "text_chars": 7648922,
+      "chunks": 5028
+    },
+    "02 GD LOI": {
+      "files": 98,
+      "text_chars": 1774982,
+      "chunks": 1159
+    },
+    "03 GD Fabricacion LOI TES 6": {
+      "files": 81,
+      "text_chars": 1004065,
+      "chunks": 656
+    },
+    "04 GD Fabricacon LOI TES 3": {
+      "files": 70,
+      "text_chars": 920740,
+      "chunks": 597
+    },
+    "05 GD Fabricación Tecnica de Compra": {
+      "files": 24,
+      "text_chars": 840107,
+      "chunks": 538
+    },
+    "06 Especificaciones Tecnicas": {
+      "files": 36,
+      "text_chars": 565021,
+      "chunks": 368
+    },
+    "07 Presentado al Condado": {
+      "files": 218,
+      "text_chars": 1174212,
+      "chunks": 759
+    },
+    "09 Miscelanea": {
+      "files": 2,
+      "text_chars": 577,
+      "chunks": 1
+    },
+    "10 Informes semanales de construccion": {
       "files": 1,
-      "text_chars": 73,
-      "chunks": 0
+      "text_chars": 7343,
+      "chunks": 5
+    },
+    "11 Sal de Solana y Corrosion": {
+      "files": 9,
+      "text_chars": 76460,
+      "chunks": 51
+    },
+    "12 As Built TES 6": {
+      "files": 549,
+      "text_chars": 4224989,
+      "chunks": 2783
+    },
+    "13_Documentos de Inspección Final": {
+      "files": 10,
+      "text_chars": 115980,
+      "chunks": 76
+    },
+    "Documentacion con sello PE 08": {
+      "files": 693,
+      "text_chars": 2979708,
+      "chunks": 1972
+    },
+    "Documentos en Servidor Atlántica": {
+      "files": 140,
+      "text_chars": 3758286,
+      "chunks": 2402
+    },
+    "Ejemplo PCI": {
+      "files": 1,
+      "text_chars": 819311,
+      "chunks": 519
+    },
+    "Helios Sole": {
+      "files": 288,
+      "text_chars": 10480690,
+      "chunks": 6655
+    },
+    "Planos Solana": {
+      "files": 42,
+      "text_chars": 10452,
+      "chunks": 24
     }
   }
 }

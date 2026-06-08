@@ -1,0 +1,43 @@
+{
+  "id": "76262bae9b827499",
+  "path": "Planos Solana/Tanks.zip",
+  "top_dir": "Planos Solana",
+  "ext": "zip",
+  "size_bytes": 6105348,
+  "size_human": "5.8 MB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "Tanks",
+  "doc_code": null,
+  "revision": null,
+  "status": "archive_listed",
+  "text_chars": 503,
+  "token_estimate": 125,
+  "chunks": 1,
+  "card_path": ".yeyo-memory/cards/76262bae9b827499.json",
+  "extracted_path": ".yeyo-memory/extracted/76262bae9b827499.txt",
+  "metadata": {
+    "archive_entries": 18,
+    "archive_sample": [
+      "4521-PLN-PRT-39-62-0001.pdf",
+      "4521-PLN-PRT-39-62-0002.pdf",
+      "4521-PLN-PRT-39-62-0003.pdf",
+      "4521-PLN-PRT-39-62-0004.pdf",
+      "4521-PLN-PRT-39-62-0005.pdf",
+      "4521-PLN-PRT-39-62-0006.pdf",
+      "4521-PLN-PRT-39-62-0007.pdf",
+      "4521-PLN-PRT-39-62-0008.pdf",
+      "4521-PLN-PRT-39-62-0009.pdf",
+      "4521-PLN-PRT-39-62-0010.pdf",
+      "4521-PLN-PRT-39-62-0011.pdf",
+      "4521-PLN-PRT-39-62-0012.pdf",
+      "4521-PLN-PRT-39-62-0013.pdf",
+      "4521-PLN-PRT-39-62-0014.pdf",
+      "4521-PLN-PRT-39-62-0015.pdf",
+      "4521-PLN-PRT-39-62-0016.pdf",
+      "4521-PLN-PRT-39-62-0017.pdf",
+      "4521-PLN-PRT-39-62-0018.pdf"
+    ],
+    "archive_total_uncompressed_bytes": 6239548
+  },
+  "processed_at": "2026-06-08T18:40:06.425699+00:00"
+}

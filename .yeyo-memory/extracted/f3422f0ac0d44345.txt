@@ -1,0 +1,632 @@
+[page 1]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 1/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+ 
+ 
+Cálculo estructural estructura plataforma 
+soporte bombas de sales 
+ 
+ 
+ 
+ATLANTICA 
+ 
+ 
+ 
+CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT NAME 
+Nombre del proyecto : ATLANTICA 
+JOBSITE 
+Ubicación : CORDOBA (SPAIN) 
+CLIENT 
+Cliente : ATLANTICA 
+VENDOR 
+Suministrador del paquete : LOINTEK 
+CLIENT´S DOC. NUMBER 
+Número de doc. Cliente : - 
+VENDOR´S DOC. NUMBER 
+Número de doc. Suministrador : 1950801-INF-6001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISION 
+Revisión 
+ 
+DATE 
+Revisión 
+ 
+DESCRIPTION 
+Descripción 
+ 
+PREPARED 
+Preparado 
+ 
+REVISED 
+Revisado 
+ 
+APPROVED 
+Aprobado 
+0 24/03/2026 INITIAL ISSUE I.M.R. O.R.A. D.S.Z. 
+ 
+ 
+ 
+ 
+ 
+
+[page 2]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 2/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+INDICE 
+1 INTRODUCCIÓN…………………………………………………………………… 3 
+2 GEOMETRÍA………………………………………………………………………... 3 
+2.1 Rack………………………………………………………………………………….. 3 
+2.2 Estructura soporte y pasarela intermedia…………………………………………….. 3 
+3 CASOS DE CARGA………………………………………………………………… 4 
+3.1 Rack…………………………………………………………………………………...4 
+3.2 Estructura soporte y pasarela intermedia…………………………………………….. 6 
+4 COMBINACIONES DE CARGA…………………………………………………… 8 
+5 RESULTADOS……………………………………………………………………...11 
+5.1 Rack……………………………………………………………………...…………. 11 
+5.2 Estructura soporte y pasarela intermedia…………………………………………… 13 
+6 CONCLUSIONES………………………………………………………………...... 15 
+ 
+
+[page 3]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 3/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+1 INTRODUCCIÓN 
+ 
+Este cálculo estructural es un cálculo orientativo de las estructuras metálicas existentes. En ningún caso 
+son geometrías finales y perfiles definitivos. Las cargas analizas son cargas estimadas que en siguientes 
+fases del proyecto podrían cambiar. 
+ 
+En este documento, se muestran los cálculos de las siguientes estructuras metálicas: estructura soporte 
+de bombas, pasarela superior y rack de tubería. 
+ 
+La estructura ha sido calculada conforme a los criterios de seguridad establecidos en el Código Técnico 
+de la Edificación (CTE), en particular el DB-SE Seguridad Estructural. Atendiendo a las características 
+del edificio y al nivel de exigencia en ejecució n, las condiciones son equivalentes a una Execution 
+Class EXC2 según la norma europea EN 1090 
+ 
+2 GEOMETRÍA 
+ 
+Para el cálculo estructural se h an hecho dos modelos de cálculo. Uno en el que se ha modelado la 
+estructura soporte de las bombas en los castilletes junto a la pasarela entre castilletes y otro en el que 
+se ha incluido parte del rack de tubería. A continuación, se muestran las geometrías incluidas: 
+ 
+2.1 Rack 
+ 
+ 
+Se muestran dos tipos de rack, el rack de paso de carretera y el convencional. 
+ 
+2.2 Estructura soporte y pasarela intermedia 
+ 
+ 
+
+[page 4]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 4/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+En esta geometría se muestran las dos estructuras soportes de las bombas y la plataforma intermedia 
+de 4m de ancho. 
+ 
+3 CASOS DE CARGA 
+ 
+A continuación, se muestran las cargas incluidas en ambos modelos: 
+ 
+3.1 Rack 
+ 
+Peso propio: Incluyen los pesos de los perfiles metálicos. 
+ 
+ 
+Tubería: Incluyen los pesos estimados de las tuberías. 
+ 
+ 
+ 
+Viento: Incluye una carga orientativa del viento ejerciendo sobre las tuberías. Estas cargas se han 
+obtenido siguiendo el CTE para la zona del proyecto. 
+ 
+
+[page 5]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 5/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+Cargas sísmicas: 
+ 
+Para las cargas sísmicas se ha incluido el siguiente espectro sísmico que ejerce sobre las masas del 
+modelo: 
+ 
+ 
+Estas son todas las cargas incluidas para este cálculo del rack. Estas cargas son aproximadas y en 
+siguientes fases del proyecto se hará un estudio de las cargas definitivas a incluir. 
+ 
+
+[page 6]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 6/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+3.2 Estructura soporte y pasarela intermedia 
+ 
+Peso propio: Incluyen los pesos de los perfiles metálicos. 
+ 
+Cargas muertas: Incluye los pesos de las bombas y el peso de las plataformas. 
+ 
+Tubería: Incluye las cargas de tubería tanto en la estructura soporte como en la pasarela. Estas son unas 
+cargas estimadas que se revisarán una vez se decidan las posiciones de los soportes de tubería. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[page 7]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 7/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+Viento: Incluye una carga orientativa del viento ejerciendo sobre la estructura en dos direcciones 
+distintas. Estas cargas se han obtenido siguiendo el CTE para la zona del proyecto. 
+ 
+ 
+ 
+ 
+Cargas sísmicas: Se ha incluido el mismo espectro sísmico que actúa sobre las masas del modelo. 
+ 
+ 
+ 
+Estas son todas las cargas incluidas para este cálculo del rack. Estas cargas son aproximadas y en 
+siguientes fases del proyecto se hará un estudio de las cargas definitivas a incluir. 
+ 
+
+[page 8]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 8/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+4 COMBINACIONES DE CARGA 
+ 
+Tanto para el rack como para la estructura se han incluido las mismas combinaciones de carga. 
+ 
+ULS FC 
+ 
+
+[page 9]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 9/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+ 
+
+[page 10]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 10/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ULS SC 
+ 
+ 
+SLS RC 
+ 
+ 
+SLS FC 
+ 
+ 
+SLS FC 
+ 
+ 
+ 
+ 
+
+[page 11]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 11/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+5 RESULTADOS 
+ 
+Tanto para el rack como para la estructura soporte de las bombas se han hecho 3 comprobaciones. 
+ 
+• Resistencia de las vigas 
+• Resistencia a pandeo 
+• Análisis de flechas máximas 
+ 
+5.1 Rack 
+ 
+Resistencia de las vigas: 
+ 
+ 
+En este caso la viga mecánicamente más exigida está a un 34% de su capacidad mecánica. 
+ 
+Resistencia a pandeo: 
+ 
+En este caso la viga más exigida a pandeo está a un 34% de su capacidad de resistencia a pandeo. 
+
+[page 12]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 12/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+Análisis de flechas máximas: 
+ 
+δx: 
+ 
+δy: 
+ 
+δz: 
+ 
+
+[page 13]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 13/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+ 
+5.2 Estructura soporte y pasarela intermedia 
+ 
+Resistencia de las vigas: 
+ 
+ 
+En este caso la viga mecánicamente más exigida está a un 34% de su capacidad mecánica. 
+ 
+Resistencia a pandeo: 
+ 
+En este caso la viga más exigida a pandeo está a un 34% de su capacidad de resistencia a pandeo. 
+ 
+ 
+
+[page 14]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 14/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+Análisis de flechas máximas: 
+ 
+δx: 
+ 
+δy: 
+ 
+δz: 
+ 
+ 
+ 
+ 
+
+[page 15]
+ 
+ 
+ 
+ATLANTICA 
+Calculo Estructural estructura plataforma soporte 
+bombas de sales 
+ 
+REV: 
+DIV: 
+ 
+00 
+ENER 
+ 
+VENDOR doc. number 
+Código de doc. Suministrador: 1950801-INF-6001 
+ 
+DATE 
+Fecha: 24/03/2026 Pag 15/15 
+ 
+ 
+© This document is Lointek´s property, and cannot be used by others for any purpose, without prior written consent. 
+ Este documento es propiedad de Lointek, y no puede ser utilizado por terceros para ningún fin, sin su consentimiento previo por escrito. 
+ 
+6 CONCLUSIONES 
+ 
+Como se puede apreciar, en ambos modelos la resistencia mecánica de las vigas incluidas es suficiente 
+para la solicitación mecánica del sistema. Además, las flechas admisibles son superiores a las obtenidas 
+en ambos modelos, por lo que se puede concluir que los cálculos son válidos. 
+ 
+Como se ha ido indicando en el documento, las cargas incluidas no son las cargas definitivas que habrá 
+en la fase final del proyecto, por lo que este cálculo está sujeto a cambios en próximas fases del 
+proyecto.

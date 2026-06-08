@@ -1,0 +1,31 @@
+{
+  "id": "17dc753ec7603df3",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/04 Cimentación Solana/00-Planos.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 15863755,
+  "size_human": "15 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "00-Planos",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 85955,
+  "token_estimate": 21488,
+  "chunks": 55,
+  "card_path": ".yeyo-memory/cards/17dc753ec7603df3.json",
+  "extracted_path": ".yeyo-memory/extracted/17dc753ec7603df3.txt",
+  "metadata": {
+    "pages": 28,
+    "pdf_metadata": {
+      "ModDate": "D:20200310142702+01'00'",
+      "CreationDate": "D:20200302100027+01'00'",
+      "Author": "user",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "Producer": "Acrobat Distiller 9.3.3 (Windows)",
+      "Title": "P:\\Eng-CAD\\Projects\\Carbon\\44XX Jobs\\4443-CF-12 - Abencs - Solana Solar Plant\\Drafting Department\\Rev 2 - Vol 1 (10-01-10)\\DWG\\"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:28:27.073734+00:00"
+}

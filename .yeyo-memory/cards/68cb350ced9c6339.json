@@ -1,0 +1,30 @@
+{
+  "id": "68cb350ced9c6339",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.3 Cert instalacion.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 4240129,
+  "size_human": "4.0 MB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.2.3 Cert instalacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 169315,
+  "token_estimate": 42328,
+  "chunks": 108,
+  "card_path": ".yeyo-memory/cards/68cb350ced9c6339.json",
+  "extracted_path": ".yeyo-memory/extracted/68cb350ced9c6339.txt",
+  "metadata": {
+    "pages": 38,
+    "pdf_metadata": {
+      "CreationDate": "D:20110302110357+01'00'",
+      "Creator": "Adobe Acrobat Pro 10.0.0",
+      "ModDate": "D:20110302110357+01'00'",
+      "Producer": "Adobe Acrobat Pro 10.0.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:38:21.230099+00:00"
+}

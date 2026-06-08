@@ -1,0 +1,31 @@
+{
+  "id": "758c6f3ae26aa9a6",
+  "path": "Helios Sole/Helios II/3.3.4 Cumplimiento DIA HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 2000645,
+  "size_human": "1.9 MB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "3.3.4 Cumplimiento DIA HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/758c6f3ae26aa9a6.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 5,
+    "pdf_metadata": {
+      "Author": "WinuE",
+      "CreationDate": "D:20110303133642+01'00'",
+      "Creator": "Microsoft® Office Word 2007",
+      "ModDate": "D:20110304091355+01'00'",
+      "Producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "Title": "20110105_INF_AMB_PVSA_HELIOS_I_1_FULL.pdf"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:13.821860+00:00"
+}

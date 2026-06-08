@@ -1,0 +1,23 @@
+{
+  "id": "6e96d2b9f7155535",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.1 Proyecto modificacion.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 96569839,
+  "size_human": "92 MB",
+  "mtime_iso": "2026-06-08T16:17:00.000Z",
+  "title": "5.7.5.1 Proyecto modificacion",
+  "doc_code": null,
+  "revision": null,
+  "status": "metadata_only",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/6e96d2b9f7155535.json",
+  "extracted_path": null,
+  "metadata": {
+    "reason": "skipped_large_pdf_over_50_mb",
+    "size_bytes": 96569839
+  },
+  "processed_at": "2026-06-08T18:38:21.860570+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "dcc5c210f33d8189",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.1 Proy SE Elevadora HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 12224948,
+  "size_human": "12 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.4.1 Proy SE Elevadora HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 85494,
+  "token_estimate": 21373,
+  "chunks": 54,
+  "card_path": ".yeyo-memory/cards/dcc5c210f33d8189.json",
+  "extracted_path": ".yeyo-memory/extracted/dcc5c210f33d8189.txt",
+  "metadata": {
+    "pages": 81,
+    "pdf_metadata": {
+      "CreationDate": "D:20111227153049+01'00'",
+      "Subject": "",
+      "Author": "cgrpm",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Keywords": "",
+      "Producer": "GPL Ghostscript 8.70",
+      "ModDate": "D:20111228092051+01'00'",
+      "Title": "M5219 AT Sub Helios I"
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:32:46.218844+00:00"
+}

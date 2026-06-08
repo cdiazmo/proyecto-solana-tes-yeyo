@@ -1,0 +1,103 @@
+[sheet Root]
+Doc.:1950801-LIS-6500-00
+Rev.:00
+Fecha: 24-03-2026
+Pág. 1 de 2
+Lista de consumidores eléctricos
+TAG IDENTIFICATION | DESCRIPTION | RATED POWER (kW) | VOLTAGE TYPE | VOLTAGE (V) | POWER FACTOR | RATED CURRENT In (A) | Nº OF PHASES | AREA CLASSIF | LOAD CLASSIF | STARTER TYPE | COMMENTS
+10WPH10AP001 | Bomba de sales caliente A | 290 | AC | 400 | 0,88 | 475,66 | 3 | SAFE | NORMAL | VSD | Ver Nota (1)
+10WPH10AP002 | Bomba de sales caliente B | 290 | AC | 400 | 0,88 | 475,66 | 3 | SAFE | NORMAL | VSD | Ver Nota (1)
+10WPH10AP003 | Bomba de sales caliente C | 290 | AC | 400 | 0,88 | 475,66 | 3 | SAFE | NORMAL | VSD | Ver Nota (1)
+10WPC10AP001 | Bomba de sales fria A | 290 | AC | 400 | 0,88 | 475,66 | 3 | SAFE | NORMAL | VSD | Ver Nota (1)
+10WPC10AP002 | Bomba de sales fria B | 290 | AC | 400 | 0,88 | 475,66 | 3 | SAFE | NORMAL | VSD | Ver Nota (1)
+10WPC10AP003 | Bomba de sales fria C | 290 | AC | 400 | 0,88 | 475,66 | 3 | SAFE | NORMAL | VSD | Ver Nota (1)
+10WPD10AP001 | Bomba de drenaje de sales | 20 | AC | 400 | 0,70 | 41,24 | 3 | SAFE | DIESEL | Feeder
+Resistencia caldeo | 0.3 | AC | 230 | 1,00 | 1,30 | F+N | SAFE | NORMAL | Feeder
+Resistencia caldeo | 0.3 | AC | 230 | 1,00 | 1,30 | F+N | SAFE | NORMAL | Feeder
+Resistencia caldeo | 0.3 | AC | 230 | 1,00 | 1,30 | F+N | SAFE | NORMAL | Feeder
+Resistencia caldeo | 0.3 | AC | 230 | 1,00 | 1,30 | F+N | SAFE | NORMAL | Feeder
+Resistencia caldeo | 0.3 | AC | 230 | 1,00 | 1,30 | F+N | SAFE | NORMAL | Feeder
+Resistencia caldeo | 0.3 | AC | 230 | 1,00 | 1,30 | F+N | SAFE | NORMAL | Feeder
+10WSH10AH001 | Resistencia tanque caliente | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSH10AH002 | Resistencia tanque caliente | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSH10AH003 | Resistencia tanque caliente | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSH10AH004 | Resistencia tanque caliente | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSH10AH005 | Resistencia tanque caliente | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSH10AH006 | Resistencia tanque caliente | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSC10AH001 | Resistencia tanque frio | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSC10AH002 | Resistencia tanque frio | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSC10AH003 | Resistencia tanque frio | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSC10AH004 | Resistencia tanque frio | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSC10AH005 | Resistencia tanque frio | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+10WSC10AH006 | Resistencia tanque frio | 50 | AC | 400 | 1,00 | 72,17 | 3 | SAFE | DIESEL | Feeder
+- | Traceado no esencial | 275 | AC | 400 | 1,00 | 396,93 | 3 | SAFE | NORMAL | Feeder
+- | Traceado esencial | 25 | AC | 400 | 1,00 | 36,08 | 3 | SAFE | DIESEL | Feeder
+10WTX11AA301 | MOV (300lb; 2") | 0.25 | AC | 400 | 1,00 | 0,36 | 3 | SAFE | NORMAL | Feeder
+10WSX11AA301 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WTX13AA301 | MOV (300lb; 2") | 0.25 | AC | 400 | 1,00 | 0,36 | 3 | SAFE | NORMAL | Feeder
+10WSX13AA301 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX13AA302 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX13AA303 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSN10AA301 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSN10AA302 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WTX13AA302 | MOV (300lb; 2") | 0.25 | AC | 400 | 1,00 | 0,36 | 3 | SAFE | NORMAL | Feeder
+10WSX13AA304 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX19AA301 | MOV (300lb; 6") | 0.8 | AC | 400 | 1,00 | 1,15 | 3 | SAFE | DIESEL | Feeder
+10WSD10AA371 | MOV (300lb; 6") | 0.8 | AC | 400 | 1,00 | 1,15 | 3 | SAFE | DIESEL | Feeder
+10WSD10AA373 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSD10AA312 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSD10AA313 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSD10AA311 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WTX17AA301 | MOV (300lb; 2") | 0.25 | AC | 400 | 1,00 | 0,36 | 3 | SAFE | NORMAL | Feeder
+10WSX17AA303 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSN10AA303 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX17AA302 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX17AA301 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WTX15AA302 | MOV (300lb; 2") | 0.25 | AC | 400 | 1,00 | 0,36 | 3 | SAFE | NORMAL | Feeder
+10WSX15AA304 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX19AA302 | MOV (300lb; 6") | 0.8 | AC | 400 | 1,00 | 1,15 | 3 | SAFE | DIESEL | Feeder
+10WSX15AA303 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WTX15AA301 | MOV (300lb; 2") | 0.25 | AC | 400 | 1,00 | 0,36 | 3 | SAFE | NORMAL | Feeder
+10WSX15AA302 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX15AA301 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | DIESEL | Feeder
+10WSX19AA203 | MOV (300lb; 24") | 3.8 | AC | 400 | 1,00 | 5,48 | 3 | SAFE | DIESEL | Feeder
+10WTX17AA302 | MOV (300lb; 4") | 0.65 | AC | 400 | 1,00 | 0,94 | 3 | SAFE | NORMAL | Feeder
+10WSN10AT001 | Analizador de hidrocarburos | 1.1 | AC | 230 | 1,00 | 2,76 | F+N | SAFE | NORMAL | Feeder
+- | Alimentación Cuadro Iluminación Exterior | 5 | AC | 400 | 1,00 | 100,00 | 3F+N | SAFE | NORMAL | Feeder
+- | Central de Incendios y Extractor | 0.5 | AC | 400 | 1,00 | 2,17 | F+N | SAFE | NORMAL | Feeder
+- | Foco Exterior Caseta | 0.01 | AC | 400 | 1,00 | 0,04 | F+N | SAFE | NORMAL | Feeder
+- | Tomas Corriente Interior Caseta | 3.2 | AC | 400 | 1,00 | 13,91 | F+N | SAFE | NORMAL | Feeder
+- | Alimentación PLC Control (dentro de la caseta) | 3 | AC | 230 | 1,00 | 13,04 | F+N | SAFE | NORMAL | Feeder
+- | Alimentación redundante PLC Control (dentro de la caseta) | 3 | AC | 230 | 1,00 | 13,04 | F+N | SAFE | UPS | Feeder
+- | Aire Acondiconado Caseta | 2.5 | AC | 230 | 0,80 | 13,59 | F+N | SAFE | NORMAL | Feeder
+- | Iluminación Caseta | 0.4 | AC | 230 | 1,00 | 1,74 | F+N | SAFE | NORMAL | Feeder
+
+[sheet TD]
+Suma de RATED POWER
+Etiquetas de fila | DIESEL | NORMAL | UPS
+Aire Acondiconado Caseta | 2.5
+Alimentación Cuadro Iluminación Exterior | 5
+Alimentación PLC Control (dentro de la caseta) | 3
+Alimentación redundante PLC Control (dentro de la caseta) | 3
+Analizador de hidrocarburos | 1.1
+Bomba de drenaje de sales | 20
+Bomba de sales caliente A | 290
+Bomba de sales caliente B | 290
+Bomba de sales caliente C | 290
+Bomba de sales fria A | 290
+Bomba de sales fria B | 290
+Bomba de sales fria C | 290
+Central de Incendios y Extractor | 0.5
+Foco Exterior Caseta | 0.01
+Iluminación Caseta | 0.4
+MOV (300lb; 2") | 1.5
+MOV (300lb; 24") | 3.8
+MOV (300lb; 4") | 12.350000000000003 | 0.65
+MOV (300lb; 6") | 2.4000000000000004
+Resistencia caldeo | 1.8
+Resistencia tanque caliente | 300
+Resistencia tanque frio | 300
+Tomas Corriente Interior Caseta | 3.2
+Traceado esencial | 25
+Traceado no esencial | 275
+Total general | 663.55 | 2034.66 | 3

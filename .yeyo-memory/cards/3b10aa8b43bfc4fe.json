@@ -1,0 +1,30 @@
+{
+  "id": "3b10aa8b43bfc4fe",
+  "path": "Helios Sole/Helios I/1.2 Proyecto Ejecucion HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 26222192,
+  "size_human": "25 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1.2 Proyecto Ejecucion HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1161475,
+  "token_estimate": 290368,
+  "chunks": 735,
+  "card_path": ".yeyo-memory/cards/3b10aa8b43bfc4fe.json",
+  "extracted_path": ".yeyo-memory/extracted/3b10aa8b43bfc4fe.txt",
+  "metadata": {
+    "pages": 620,
+    "pdf_metadata": {
+      "CreationDate": "D:20110302093544+01'00'",
+      "Creator": "eCopy, Inc",
+      "ModDate": "D:20110302093544+01'00'",
+      "Producer": "Adobe Acrobat Pro 10.0.0",
+      "Title": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:30:58.820291+00:00"
+}

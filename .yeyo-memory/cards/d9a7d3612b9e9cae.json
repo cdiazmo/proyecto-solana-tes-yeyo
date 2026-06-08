@@ -1,0 +1,37 @@
+{
+  "id": "d9a7d3612b9e9cae",
+  "path": "Documentos en Servidor Atlántica/260422 01 Información Partida/05 Cimentacion Kaxu/0328-PLN-ARS-75-52-0002_Rev 04 Geometry and Sections Detail.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1146966,
+  "size_human": "1.1 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "0328-PLN-ARS-75-52-0002 Rev 04 Geometry and Sections Detail",
+  "doc_code": "0328-PLN-ARS-75-52-",
+  "revision": null,
+  "status": "tagged_plan",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/d9a7d3612b9e9cae.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 1,
+    "pdf_metadata": {
+      "Author": "tedab",
+      "CreationDate": "D:20130514113851+02'00'",
+      "Creator": "PScript5.dll Version 5.2.2",
+      "ModDate": "D:20210119194132+01'00'",
+      "Producer": "Acrobat Distiller 10.1.5 (Windows)",
+      "Title": "Y:\\2. Engineering\\2. KaXu\\11.Civil Engineering\\2. Power Block\\2. Areas\\2. TES zone\\1. TES Tanks\\3. Drawings\\0328-PLN-ARS-75-52-"
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Cimentacion / foundation",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:16.616788+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:16.653222+00:00"
+}

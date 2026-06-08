@@ -1,0 +1,37 @@
+{
+  "id": "17dec59498d2e83a",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-LIS-6000-00-Rev.00-Lista de Instrumentos.pdf",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "pdf",
+  "size_bytes": 1278081,
+  "size_human": "1.2 MB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-6000-00-Rev.00-Lista de Instrumentos",
+  "doc_code": null,
+  "revision": "Rev.00",
+  "status": "ok",
+  "text_chars": 23659,
+  "token_estimate": 5914,
+  "chunks": 15,
+  "card_path": ".yeyo-memory/cards/17dec59498d2e83a.json",
+  "extracted_path": ".yeyo-memory/extracted/17dec59498d2e83a.txt",
+  "metadata": {
+    "pages": 4,
+    "pdf_metadata": {
+      "Author": "Asier Aurrekoetxea Palacios",
+      "CreationDate": "D:20260401082652+02'00'",
+      "Creator": "Adobe Acrobat Pro 2017 17.12.30262",
+      "ModDate": "D:20260401082652+02'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": ""
+    },
+    "encrypted": false,
+    "plan_tag": {
+      "kind": "Plano instrumentacion/control",
+      "mode": "tag_only_no_ocr",
+      "tagged_at": "2026-06-08T18:41:14.337904+00:00",
+      "local_only": true
+    }
+  },
+  "processed_at": "2026-06-08T18:41:14.337906+00:00"
+}

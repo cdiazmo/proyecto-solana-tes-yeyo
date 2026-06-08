@@ -1,0 +1,2745 @@
+[page 1]
+) ) ) ) ) )
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:
+Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt Tank-kks = AD1WSC10BB001- 0328-PLN-CYD-75-62-00131 1:1251:101:2
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+*/(1(
+(
+)0(
+N
+W ES
+CharacteristicUnits: Service:Al]eF&Fluid :Capacity :Nde requeriments :
+Insulation :Coating :Transport :Head type :Corrosion allowance shell :Joint efficiency :Code :Heat treatment :
+Loading : Weights600 Tn.22.000 Tn.12.211 Tn.Empty :Water filled :Refractory :Insulation :Operation fluid :
+Total in service :
+MaterialsShell:Heads:Gaskets:Internal:Flanges:Bolts / nuts:Tube:12.211m3
+--22.600 Tn.
+2 mm
+Mdmt :Impact test temperature :Special requirements :Special customers requirements :Fabrication number:
+Lethal service:
+Hydraulic test 12.211 Tn.
+11800¦+.+((afl&
+Scale=1:125Elevation view
+Scale=1:125Top view nozzles location
+($((³
+1(³
+)0($((³
+*/($((³
+R36300
+2000
+22402240224022402240600
+35
+27
+21
+15
+10
+¦+..+(¦+,,+(1100 1100
+A 516 Gr70
+8
+10
+8
+18970
+10475
+Thk. 8 mm.
+600200Thk. 8 mm.
+Scale=1:2Circular weldings
+1%1%
+575
+25
+22402240224022402240
+50
+10
+15
+Scale=1:10Roof detail
+22
+15
+21
+21
+27
+-(
+27
+3522
+35
+130 970 80
+8
+,-,-
+22
+22
+,-,-
+,-,-
+Annular roof plate
+Roof plate
+Annular bottom plate
+Bottom plate¦+.+((
+184
+.(
+)+-
+8
+88
+8
+50
+4 mm100@300
+2.(2
+10
+1022-(
+,-10
+5 mm
+6 mm 6 mm N1A/B/C32" API 650Pump hole3800N230"WN.RF.150# Serie BSalt inlet1750N318"WN. RF. 150#Recirculation ring1450N46" WN. RF. 150#Level (radar)1150N512"WN. RF. 300#Vent. nitrogen1300N66" WN. RF. 150#Level (radar)1300N72" WN. RF. 150#Pressure150N8A/B/C8" WN. RF. 150#Temperatures3200N93" WN. RF. 150#Vent. salt pumps180N10-N1512"WN. RF. 150#Immersion heaters6300N162" WN. RF. 150#Pressure150N172" WN. RF. 150#Pressure150N1810"WN. RF. 150#Balancing line1250N192" WN. RF. 150#Nitrog. supply150N20- API 650Roof opening1-N216" WN. RF. 150#Level (radar)1150N22- API 650 1¦/+( PreheatingN2330" API 650 1750 Man hole (chimney)N244" RTJ. FF. 300#1100 Spare nozzleN253" RTJ. FF. 300#180 First filling
+AD1WSC10BB001 1Salt tankSaltAPI 650 / finit elementOnly immersion heatersAPI 6501
+N1A
+N1C
+N1B
+*0($((³
+*.($((³
+N2+(*$((
+N8A++)$((N6+-,$((
+N22
+*+/$((³
+N8C*))$((³
+N21))+$((³
+N8B1)$((³
+N3*1-$((
+N10
+N11.($((
+N12)*($((³
+N13
+N14*)/$((³
+N15+*+$((
+N7
+*,($((³N23*,,$((³
+N4*+.$((³
+10945
+A 516 Gr70A 516 Gr70A 105A 106 Gr BGraphite PSM-ASA 193 Gr B7 H2 / A 194 2HHandrailS275JRImmersion heaters pipeSA 335 P11Immersion heaters flangeSA 182 F11 - 150#Spherical r=dSandled 2 1/2 + primedOthers ( 300 mm)YesYesNo-NoNoNo1995
+5 mm @ 300
+5 mm @ 300
+N24
++$,.N20
+HOLD
+HOLD
+HOLD
+N25**1$((³
+N18*1($((³N19*01$((³
+R17250
+R13370
+R14900
+R17150R17750
+R17150
+R16150
+R16150
+R16150
+N9*-,$((³R17250
+N16)).$((³
+R17150R17750
+N17+-/$((
+R17750
+R17800
+R14120
+10945
+52 ut.
+5 mm5 mm
+F³¦ DescriptionDINASAConnections tableStandardsDNNozzlePipeInternal¦DN--12"3004"100----6"150--------------4"10024"60024"600----
+4"100
+24"600
+4889
++(+(35
+R17325
+R17700R16850
+N5*+,$((³
+ServiceUnitsRemarks-------------------
+- AngleRadius17.250*.('*/(17.575+(*17.575*1-17.150*+/17.150*+,17.150+-,17.750*+.16.150++)17.700*-,-('.(')*(17.750)).17.750+-/17.800*1(17.325*0114.120+$-17.150))+16.850*,(13.370*,,0-
+1)'*)))0('*)/'+*+
+*0(
+R17575R17575
+17.750**1
+Scale=1:10Grounding lugs
+400
+80Thk. 12 mm.¦*(Inox. 304
+300
+Inox. 304,mfalk )81(! North
+Nameplate support 1500
+Nameplate support
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I
+N26A6" B.W. 1150 DrainN26B6" B.W. 1150 Drain---- --- ,-- )+-
+N26A,-$((
+N26B)+-$((6
+6
+6
+0510/06/2013N 22 J.PD.ID.I
+6
+
+[page 2]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:
+Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankPump holeConnections detail N1A / N1B / N1Ckks = AD1WSC10BB0010328-PLN-CYD-75-62-00132 1:301:101:5
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+900
+Scale=1:10Connections detailN1A
+440 ¦///$0,afl&
+¦1(($)¦1,)$,
+,0\jaddk¦**$*
+EL+12760
+Anular roof plate
+EL + 0.00
+Reinforcing plateThk. 25 mm.
+Scale=1:10Plan view reinforcing plate detail
+Thk. 18 mm.
+Anular roof plateThk. 18 mm.
+ReinforcingThk. 25 mm.
+17,48 1,-1
+Scale=1:5Typical testing pipe detail
+male nippleThreaded for 1/4" NPT
+Testing pipe 1/4" NPT
+Reinforcing connection
+Cap 1/4" NPT
+Length 400 mm.
+Insulation tank
+418
+296 503 325
+665418
+330422 4223301502
+1,642¦**$*
+¦0).$0
+12 mm
+12 mm
+17,48
+¦0.+$.¦1(($)¦1,)$,
+¦///$0,afl&
+Scale=1:2Detail
+Reference elevation nozzles
+308
+308
+194
+Shell tank
+*/($((
+*.($((
+*0($((
+Scale=1:30Plan view roof connections detail
+)(
+)(
+R17250
+R17250
+ReinforcingThk. 25 mm.
+Anular roof plateThk. 18 mm.
+ReinforcingThk. 25 mm.
+ReinforcingThk. 25 mm.
+Shell tank
+N1B
+N1C
+N1A
+1500
+20 mm A-516 Gr70
+North
+N1BN1C
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+¦),((
+3
+Jaf_¦),((l`c&+ee&Insulation removable sectionfor nozzle access.
+310
+2 mm
+25 12760
+,0\jaddk¦**$*
+on flange26 nuts welded
+on flange26 nuts weldedASide view
+View A
+Scale=1:10Flanges detail
+See flanges detail
+CL
+HOLD
+
+[page 3]
+REx-24"x20"
+REx-24"x20"
+N2
++',%*(%1(%+(((
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:
+Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt Tanksalt inletConnection detail N2kks = AD1WSC10BB0010328-PLN-CYD-75-62-00133 1:1501:201:10
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+Scale=1:20Connection detailN2
+Scale=1:1030" - 150# drilled blind flange detail
+¦**$*
+¦../¦.)1$.
+1,650,8
+Gasket detailScale=1:10Thk. 2 mm.
+Plate thk. 30 mm. detailScale=1:10
+2 mm
+Inox. ring detailScale=1:10
+¦.1/¦.+/
+Inox. 304Thk. 3 mm.
+¦+*
+¦)01634,8
+¦0)*$0¦0,.$)¦00/$,
+¦00/$,¦0,.$)¦0)*$0
+¦**$*
+¦.)1$.¦../
+Ring Inox. 304Thk. 3 mm.
+¦../¦/(,¦.)+$.30 30330
+Threaded for M16
+¦/(,¦../¦.)+$.
+Threaded for M16
+drilledblind flange
+EL+12916
+Plate thk. 30mm.
+Gasket 10 mm2.(2
+1,-1
+Pipe guide
+Pipe guide detailScale=1:16Plan view
+Side view
+Pipe support "A"Scale=1:16
+¦)0
+¦0(,
+¦../
+¦.*+
+745409
+Side view
+Plan view
+DetailScale=1:2,5
+12,7
+1,650,8
+¦.(1$.
+8¦/.*
+303
+¦+*16¦)0
+30
+¦.(1$.¦.)1$.¦../¦0,.$)¦00/$,
+¦.(1$.¦.)+$.¦../¦/(,
+30"-150#
+Ring Inox. 304Thk. 3 mm.
+2 mm
+Threaded for M16
+¦**$*
+¦0)*$0
+Half coupling 34" -3000#=dZgo1( 34" SW
+Pipe 34"4 mm
+1,-1
+160
+,-
+Half coupling 34" -3000#
+=dZgo1( 34" SW
+Side view
+Plan viewPlate 380x250x12
+6 mm
+1288
+380
+¦.(1$.
+575
+6026060
+¦*).-(
+(
+1(
+)0(
+*/(
++(*
++*$(( **$-**$-
+,-$((,-$((
+,-$((
+,-$((,-$((,-$((
+,-$((
+1$-(
+Scale=1:150bottom tankPlan view
+129036256422 5385
+1608
+6 mm
+¦.(1$.
+960
+60
+60
+60
+50 50
+60
+575190
+Thk. 8 mm.
+3383385050
+3 3
+1554
+1365
+484
+Pipe guidePipe support "A"Pipe support "B"Pipe support "B"
+Pipe support "B"
+Pipe support "B"
+Pipe support "B"Pipe support "B"
+Pipe support "B"
+Pipe support "B"
+575
+1557
+51
+800
+1200
+1200
+1200800
+¦.(1$.
+1080120
+50
+R50
+800
+Plate800x800x20Support guide,mfalk )81(!
+¦.(1$.50
+800Plate1200x1200x20
+support "A" detailSee pipe support "B" detailSee pipe
+14080104512010
+¦-(0
+1557
+974
+Plate1200x1200x2012280
+Pipe support "B"K[Yd]5)2). 0mfalk%)8,-!
+24" x 20"Excentric reducer
+24" x 20"Excentric reducer
+300Support guide,mfalk )81(!
+Plate 300x280x12,mfalk )81(!
+Half pipe 24" )+( )+(! ¦-(0
+15080104550
+9742020
+Half pipe 20" )+(!
+¦,(.$,
+600800150 50Side view
+1080120
+50
+¦*).-(
+600Plan view¦14 " R50800
+600800
+Plate600x600x20Plate800x800x20
+Support guide
+Pipe emptying
+Pipe emptying
+Pipe emptying )*($((
+)*($((
+Pipe emptying detailK[Yd]5)2- +mfalk%)8)*(!
+¦+(¦)(¦*((
+10 ¦)(
+¦*((¦).(¦)(
+¦)(¦)(
+)*(
+)*(
+50 4 mm
+Side view
+Plan view ¦-(0
+EL+8000
+¦14"
+¦14 "
+¦14 "
+¦14 " ¦14 "
+¦14 "
+¦14 "
+676
+385385
+Plate 380x250x12¦14 "
+6 mm
+12
+12
+Plate 380x250x12
+250
+250
+Plate800x800x20
+150 50
+Support guide¦34 "¦34¦14 "
+¦,.)((<jaddk¦,.)mfal8+$.
+Pipe 24" sch-40
+ sch-40 Pipe 20" sch-40 Pipe 20" sch-40
+ Pipe 16" sch-40
+50 506 mm
+¦14 "6 mm 6 mm
+6 mm
+6 mm
+¦*).-(
+ Pipe 16" sch-40
+1429
+12,7 Plan viewScale=1:30
++(*
+772366
+25
+HOLD
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I6
++*$((
+)((<jaddk¦,.)mfal8+$.6
+
+[page 4]
+N3
++',%*(%1(%+(((
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:
+Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankRecircularion ringConnections detail N3kks = AD1WSC10BB0010328-PLN-CYD-75-62-00134 1:1501:161:10
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+Scale=1:16N3Connection detail
+Scale=1:1018" - 150# drilled blind flange detail
+¦*)¦)*10,729
+¦+++$0-¦+/(¦-++$,¦-//$0¦.+-
+¦.+-¦-//$0
+¦+++$0-¦+/(
+Gasket detailScale=1:10Thk. 2 mm.
+¦-*-$,)
+¦+/(¦)*
+¦++/$0/
+Inox. ring detailScale=1:5
+Inox. 304Thk. 2 mm.
+Scale=1:5Plate thk. 20 mm. detail
+¦+*/$0-
+¦+/(¦,((
+2 mmRing Inox. 304Thk. 2 mm.
+20220 20
+Threaded for M10
+¦,((¦+/(¦+*/$0-
+Threaded for M10
+Scale=1:150bottom tankPlan view
+(
+1(
+)0(
+*/( *-$((+($((
++($((
++($((+($((+($((
++($((
+-$((
++($((
++($((
++($((+($((+($((
++($((
+¦*1,((
+18"-150#drilled blind flange
+Plate thk. 20mm.Gasket thk. 2 mm.
+2.(2
+1,639,7
+*1-
+EL+12850
+6798
+210485050002150
+Pipe guidePipe support "C"Pipe support "D"
+12" x 10"Excentric reducerPipe support "D"Pipe support Pipe support "D"
+Pipe support "D"
+Pipe support "D"
+Pipe support "D"
+Pipe support "D"Pipe support "D"Pipe support "D"
+Pipe support "D"
+Pipe support "D"
+DetailScale=1:2,5
+Plate thk. 20mm.
+¦+*+$0
+Threaded for M10
+¦+++$0-¦+/(¦-//$0¦.+-¦-++$,
+10 mm2 mm
+¦+*+$0
+¦,-/$*12,7
+¦*)11¦)+20220
+¦,((Ring Inox. 304Thk. 2 mm.
+¦+*1,639,7
+¦+*+$0
+88
+160850 5012
+Plate 280x200x12
+6 mm
+¦14 "
+¦14 "
+¦14 "200
+20012
+12
+60
+60
+5050
+33242242
+195195¦+*+$0
+3906060
+Thk. 8 mm.
+Plate 280x200x126 mm280
+Side view
+Plan view
+Plate280x200x12
+Pipe guide detailScale=1:10
+EL+8000
+EL+3000
+Gasket
+18"-150#drilledblind flange
+¦+*
+¦+*
+¦+-(¦+1(
+575
+575
+667 2208
+Pipe support "C"Scale=1:10
+Side view
+Plan view
+Side view
+Plan view
+815
+835
+817
+12" x 10"Excentric reducer79225
+Eductor
+32050
+¦+*+$1
+¦*)1$)Plate350x350x20Support guide,mfalk )81(!
+Half pipe 12" )+(!
+Plate650x650x20
+)+(
+¦14 "
+50107012010
+350R50
+650
+¦+*+$1350650
+¦14 "10120¦14 "
+1045140802020
+¦*/+
+835
+Support guide,mfalk )81(!Plate350x350x20
+Plate650x650x20
+support "C" detailSee pipe support "D" detailSee pipe
+Pipe support "D"K[Yd]5)2)( )*mfalk%)8+(!
+¦*/+$)290490150 50R50
+2903905050
+10120701050
+2020
+50290150
+104580140¦).0$+¦14 "Half pipe 10" )+(!
+¦*1,((
+Support guide
+Support guidePlate290x290x20
+Plate490x390x20
+Plate290x290x20Plate490x390x20
+Eductor
+¦*/+302660¦00$1.(
+J]af^gj[af_¦)0-¦14 "
+Eductor detailK[Yd]5)2). )(mfalk%)8+.!
+Side view
+Plan view
+J]af^gj[af_¦)0-
+¦*1,((
+¦*1,((
+¦34" ¦34"
+¦14"
+3"-150#
+Pipe 12" sch-40
+sch-40Pipe 10" sch-40
+Pipe 8" - Sch-40Pipe 6" sch-40
+50
+50
+6 mm
+6 mm
+6 mm
+6 mm
+6 mm
+6 mm
+2022
+HOLD
+1,-1 2565756
+Plan viewScale=1:25
+*1-
+575
+575
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+**$((
++.$((
+Eductor
++.$((
++.$((
++.$((+.$((
++.$((
++.$((
++.$((
++.$((),$((
+Eductor
+Eductor
+EductorEductor
+Eductor
+Eductor
+Eductor
+Eductor
+6
+Pipe emptying+($((
+Pipe emptying
+Pipe emptying
++($((
+Half coupling 34" -3000#=dZgo1( 34" SW
+Pipe 34"4 mm
+1,-1
+160
+,-
+Half coupling 34" -3000#
+=dZgo1( 34" SW
+Side view
+Plan view
+1025
+6
+Pipe emptying detailK[Yd]5)2- +mfalk%)8)*(!
+¦*(¦)(¦*((
+10 ¦)(
+¦*((¦).(¦)(
+¦)(¦)(
+)*(
+)*(
+50 4 mm
+Side view
+Plan view ¦*/+
+6
+6
+6
+6
+
+[page 5]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankConnections detail N4 N5 N6 N7 N16 N17 N19 N21kks = AD1WSC10BB0010328-PLN-CYD-75-62-00135 1:10--
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+¦**0$.¦)1($-1,623,8¦)1$(-
+¦)),$+8,56
+¦).0$*/
+589 300
+¦+/-120
+EL+13000
+1000
+2.(2
+2.(2
+Scale=1:10N4Connections detailN6N21
+J]\m[]j¦0p¦.Thk. 8 mm.
+L100x10
+Scale=1:10Pipe guide detail
+L100x10
+L100x10
+Thk. 8 mm.2.(2
+Thk. 8 mm.
+L100x10
+Plan view
+Side view
+Pipe 4"-SCH 80¦)),$+8,56
+Hah]¦.%K;@,(
+10
+5 mm5 mm
+100
+¦)),$+8,56
+364065002700
+Plate 150x80x10
+150
+1019
+50
+L100x10
+Plate 1019x50x8.(
+913
+1000
+150
+1080
+1133
+Plate 260x150x10
+20205 mm
+5 mm
+8
+Plate 260x150x10
+Pipe 4"-SCH 80
+5 mm5 mm
+100¦*-6 mm
+8 Scale=1:10Section A-A'
+A A'
+¦+/-
+¦*/1$,¦*,)$+
+8
+5 mm
+Support)8)*(
+:daf\¦.5 mm
+¦**$*
+See detail testingpipe 1/4" NPT
+5 mm
+5 mm
+Shell tank
+1049
+Scale=1:10N5Connection detail
+Scale=1:10N7Connections detailN16N17
+¦,-($0¦-*($/
+¦+*+$0-
+EL+13025
+¦.((
+160 615See detail testingpipe 1/4" NPT
+1000
+400
+¦)*($.¦)1$(-¦)-*$,1,619,163,5
+543123
+EL+12616
++(
+593 955595
+300
+165
+J]\m[]j¦0p¦.
+¦.($+*
+Plate 200x200x10200
+5 mm
+200x200x10Plate
+200x200x10Plate
+Pipe 4" sch-80
+6 mm88 22+-
+Pipe 12" sch-40
+6 mm88 22*-
+Pipe 6" sch-40
+100
+5 mm Pipe 2" sch-80
+22+-
+5 mmTIP.
+SCH-40
+Plate 50x8Lah&+P)*(
+Plate 50x8Lah&+P)*(
+¦)*($.¦)1$(-¦)-*$,1,619,163,5
+509100
+EL+12825¦.($+*Pipe 2" sch-80
+22+-5 mmTIP.
+Plate 50x8Lah&+P)*(See detail testingpipe 1/4" NPT8
+¦*((6 mm
+825
+Scale=1:10N19Connection detail
+6 mm
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+¦+)$/
+1,650,8130,2
+6
+2.(2
+
+[page 6]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankTemperatures / Vent. salt pumpsConnections detail N8A N8B N8C N9kks = AD1WSC10BB0010328-PLN-CYD-75-62-00136 1:301:161:10
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+EL+13475
+Scale=1:30N8AConnections detail
+Scale=1:16Pipe guide detailPlan view
+Pipe 6"-SCH 80
+A A' 5 mm
+Support)8)*(
+N8BN8C
+¦*,)$+¦*/1$,1,625,4
+300
+450
+8
+549150
+¦).0$*/
+¦*)1$)
+1106
+1106
++`gd]')*(30 x 120
+5 mm
+5 mm
+2.(25 mm2.(2
+See detail testingpipe 1/4" NPT
+Side view
+200020002000200020002000150200
+L100x10
+L100x10
+41506500282525
+L100x10
+5 mm5 mmPlate 150x80x10
+Thk. 8 mm.211850Shell tank
+Plate 2118x50x8
+5 mm
+2000
++`gd]')*(30 x 120
++`gd]')*(30 x 120
++`gd]')*(30 x 120
++`gd]')*(30 x 120
++`gd]')*(30 x 120
++`gd]')*(30 x 120
++`gd]')*(30 x 120
+J]\m[]j¦)(p¦0
+Pipe 6"-SCH 80Pipe 8"-SCH 40.(
+226821588
+Scale=1:10Section A-A'
+Scale=1:10Detail
+¦,-(
+8:daf\¦0
+¦+,*$1¦*10$,¦**$*
+¦).0$*/10,97
+2.(2J]\m[]j¦)(p¦0
+101501141
+2000
++( Pipe 8"-SCH 40
+3020Plate 245x200x1020010024560
+5 mm
+5 mm
+10805 mm5 mm
+2152
+Plate 245x200x105 mm
+L100x10
+Thk. 8 mm.
+L100x10
+Thk. 8 mm.
+¦)-*$,¦)1($-1,623,869,8¦00$1
+54382
+450
+Scale=1:10N9Connection detail
+EL+12625
+5 mm
+Plate 200x200x10
+200x200x10Plate
+200x200x10Plate
+HOLD DIMENSION
+HOLD DIMENSION
+HOLD DIMENSION
+HOLD DIMENSION
+HOLD DIMENSION
+HOLD DIMENSION
+6 mm88 22+-
+6 mm
+Pipe 3" sch-80
+22+-
+5 mmTIP.
+Pipe 6" sch-40
+Pipe 8" sch-40
+114
+5 mmSCH 40
+Plate 60x8Lah&+P)*(
+Plate 50x8Lah&+P)*(
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 7]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankImmersion heatersConnections detail N10 N11 N12 N13 N14 N15kks = AD1WSC10BB0010328-PLN-CYD-75-62-00137 1:201:10-
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+Anular bottom plate
+Insert platethk. 70 mm.¦,0+¦,+*
+894
+792345
+6450
+345
+2570430
+Insert platethk. 70 mm.¦,0+¦,+*792345
+Insert platethk. 70 mm.¦,0+¦,+*792345
+15508500
+¦*-
+Scale=1:20N10Connections detailN11N12N13Anular bottom plate43070
+¦,+*¦,0+
+Insert platethk. 70 mm.
+Plan view
+Side view
+Scale=1:20N14Connection detail
+Scale=1:20N15Connection detail
+723 6227 1550
+¦+*,17,5¦*-
+¦+*,17,5
+¦,+*¦,0+¦*-
+Plan view
+70
+Front view
+Anular bottom plateFront view
+Front view Plan view723 6227 1550
+¦+*,
+¦,+*¦,0+¦*-
+17,5
+Plan view
+Baseplate 700x300x10
+10
+¦+*+$1
+10120
+¦+*+$1
+Front view
+Scale=1:10Pipe guide detail
+3600
+18Reinforcing350x250x18
+160 .($,-
+*1$--
+184
+287Thk. 18 mm15080 Thk. 18 mm25
+400
+25
+297
+75
+188
+700
+55 1818
+)*($((
+1101011010
+304,85107575
+300Side view
+10
+Pipe guide
+Pipe guide
+Pipe guide
+Pipe guide
+Baseplate 700x300x10
+1010120
+300
+700
+510101205
+Baseplate 700x300x10
+Half pipe P-11
+¦+*+$1
+Half pipe P-11
+Side viewReinforcing350x250x18
+Thk. 18 mm
+Plan viewN10N11N12N13
+Plan viewN14
+Reinforcing350x250x18
+Thk. 18 mm25018
+Plan viewN15
+Reinforcing350x250x18Thk. 18 mm25018
+-+
+-+
+#80 x 1880
+450
+6800
+8080 Pipe 12" SCH-80
+Pipe 12"-SCH80 / SA 335 P112.(2
+10 mm
+2.(2TIP.TIP.TIP.)-+-
+10 mm10 mmTIP.TIP. TIP. 15010 mmTIP.
+10 mmP11TIP.10 mmP11TIP.
+5 mmTIP.¦14"
+¦14"
+5 mmTIP.
+5 mmTIP.
+Flange 12"-150#SA 182 F11
++(+(TIP.
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 8]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankBalancing line / Roof opening / PreheatingConnections detail N18 N20 N22kks = AD1WSC10BB0010328-PLN-CYD-75-62-00138 1:201:10-
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+Scale=1:10N18Connection detail
+350
+200 645
+¦+.)$1¦,(.$,
+1,630,2101,6
+¦*/+
+¦*-EL+12690
+2080
+100524
+40808440
+R10
+60
+155015
+5015332017515
+100
+Thk. 10 mm.
+Thk. 10 mm.
+16075
+15725
+235
+15220
+¦*(
+4020¦*(
+15 15
+1090
+7206407202080
+Reinforcing 1829
+Reinforcing 2850
+Reinforcing 1484
+4030
+1020
+10
+15
+¦*(
+10
+1020
+150
+1780
+150¦).
+Scale=1:20N20Connection detail
+Side view
+Plan view
+15151200
+713625713
+200150390150200
+¦).
+150
+3145
+¦.)(
+¦/+(
+¦,-/
+24"x18"
+260
+10
+10
+Connection detailConventional view (see nozzles orientation)N22
+¦/,1¦0)+
+8
+258691
+75150¦).EL+13260
+¦+-
+See detail testingpipe 1/4" NPT
+Reinforcing 2850
+1520
+Drills according toflange 24"-150#
+1515182
+See detail testingpipe 1/4" NPT
+1520
+R10
+155015
+5015332018015
+100
+Thk. 10 mm.
+Thk. 10 mm.
+16075
+160
+235
+15
+¦*(
+4020¦*(
+15
+15 15210
+230
+1515
+60130
+120
+50
+8
+))$*-
+**$-(
+))$*- N22
+2.(2
+22+-
+Pipe 10" sch-40
+A-516 Gr70
+¦.)(
+¦/+(
+¦/-(
+CL¦)).(
+888
+10
+10
+6 mm
+22+-
+22,-
+6 mm
+2-(2
+*,(
+MATERIAL:A-516 Gr70
+6 mm
+4 mm
+10MATERIAL:A-516 Gr70
+Gasket Plein 2mm
+6 mm
+2 ut.
+5 mm 5 mm
+6 mmGasket pleinthk 2mm
+Scale=1:20
+1300
+Reducer
+R16850
+/($((
+North
+Mineral wool insulation /others
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 9]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankMan hole (chimney) / Spare nozzle / First fillingConnections detail N23 N24 N25kks = AD1WSC10BB0010328-PLN-CYD-75-62-00139 1:201:10-
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+¦.)(
+*`gd]k¦*.(
+21000
+4780
+No welding250360360360
+EL+14830
+N23 ¦/((
+¦/((588
+10
+10200300
+5050
+)8,-,`gd]k¦-(
+Side view
+Plan view
+Manhole flange 30" detailScale= 1:20¦1).¦0+/¦/..
+Cover flange gasket 30" detailScale= 1:20
+Cover flange 30"Scale= 1:20
+¦1)(¦0+/¦//(
+),\jaddk¦*(
+*0\jaddk¦*(¦1).¦0+/
+Manhole cover 30" detailScale= 1:20
+Cover flange 30"
+Manhole gasket 30" detailScale= 1:20
+657287
+flange 30"Manhole
+Manhole cover 30"
+Manhole cover 30"
+J]af^gj[af_¦)+1(8
+657287
+flange 30"Manhole
+Thk. 15
+75150¦).
+See detail testingpipe 1/4" NPTSee detail testingpipe 1/4" NPT
+6 Thk. 20
+¦/.*10
+Thk. 15200200¦1).¦0+.$.+
+*0\jaddk¦*(
+¦1)(¦0+/¦//(28 drills 20
+60
+155015
+5015332018015
+100
+Thk. 10 mm.¦*(
+15
+1515
+R10
+230
+Thk. 10 mm.
+16075
+16025
+235
+152204020¦*(15 15185
+15
+2 units
+1 unit
+15
+2010
+N24
+¦*((¦*-,
+300
+60
+N25
+¦).0$+¦*(1$--¦**$*
+¦)),$+
+¦**$*EL+17235
+EL+126165431000
+400
+¦00$1
+J]\m[lagf¦+p¦.=dZgo,-
+Internal pipe guide detailScale= 1:20
+¦).
+12
+internal pipe guideSee detail*`gd]k¦*.(
+300415415
+¦)1(
+10010
+¦).0$+10,97
+6 mm
+4 mm
+MATERIAL:A-516 Gr70
+Gasket Plein 2mm6 mm
+6 mm
+5 mm
+PIPE 6" SCH-40
+Pipe 4" SCH-8022,-2-(2
+22,-
+2-(2 3" 300Lbs RTJ
+4" 300Lbs RTJ
+Pipe 3" SCH-80
+6 mmTIP.
+Plate 50x8Lah&+P)*(
+10
+5 mm
+5 mm¦14"
+),\jaddk¦*(
+Thk. 2
+(RTJ gasket)
+(RTJ gasket)Thk. 2 Scale=1:20Connection detail
+Scale=1:10Connection detail
+Scale=1:10Connection detail
+¦.)*
+6216
+Detail "A"Scale= 1:20
+)*()*()*(
+4 mm)8)*(20x20x4040¦.)(
+)8)*(20x20x40See "A" detail40100100
+North
+N26AScale=1:16Connections detailN26B
+ValveBW 300#
+3535
+20035018,3300
+200200R200
+200200
+6
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+20
+¦).0$+10,98
+Pipe 6"SCH-80Pipe 6"SCH-160Cap 6"SCH-80 15 mm+(+(15 mm See detail testingpipe 1/4" NPT
+See detail testingpipe 1/4" NPTFront viewSide view
+Weld afterhidraulic test
+
+[page 10]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankShell & bottom tank. Termopar supportkks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001310 1:2001:1251:30
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+Scale=1:200Shell view
+A
+22402240224022402240600
+36225012
+51711 plates 10377x2240x3510 plates 11412x2240x2710 plates 11410x2240x2110 plates 11408x2240x1510 plates 11407x2240x1010 plates 11407x600x10
+Scale=1:10Immersion heaters plate detail ( 6 units)89485 85345809
+3522.08570
+345
+25¦+*+$0-
+Thk. 70 mm.
+(³
+1(³
+)0(³
+*/(³
+Scale=1:125Bottom salt tank
+Thk. 8 mm.Bottom plates
+Thk. 25 mm.Anular bottom plates
+,-
+517
+Scale=1:2Cable support & skin point plate detail
+Skin point plateCable support
+¦.¦.
+6 mm
+1025502510
+10
+3
+825 1002515050
+5050100
+25 1002515050
+10 10010
+3
+6 mm
+50
+120 120
+86 mm6 mm Bolt / NutsM6 x 25
+809
+¦+,+.(¦+.-.(
+)0$((
+1100 Cable support & skin point plateScale=1:30 +mfalk%)8)*(!
+2240 2240 2240 2240 2240600
+1500 2000 2000 2000 2000 2000
+Skin point plate
+¦.
+25 10025150
+10 10010
+3
+6 mm
+50
+120
+86 mmBolt / NutsM6 x 25
+Scale=1:2Skin point plate detail
+1)*))++)
+Cable support &skin point plate
+Skin point plate
+Skin point plate
+Skin point plate
+Skin point plate
+Cable support &skin point plate
+TIP.+(TIP.+(
+North
++*+$(( */($(( *)/$((*))$(()0($(( )*($((1)$((1($((.($(( ($((++)$((
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 11]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankEstructure of Roof kks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001311 1:1001:201:10
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+Scale=1:100Plant of roof structure
+1008 500
+200
+100030017140Scale=1:20Rafter detail
+(³
+1(³
+)0(³
+*/(³
+73218
+5638
+8
+234Thk. 8 mm.
+¦+.+((
+Scale=1:10Roofsection A
+8
+88
+25252525
+200 1869 200
+A
+B
+C
+D
+E
+F
+G
+H
+8
+88
+25252525
+200 1869 200
+470
+8
+Thk. 8 mm.
+Thk. 8 mm.
+2525Thk. 8 mm.2525
+200 8
+Scale=1:10Roofsection B
+Scale=1:10Roofsection C
+Scale=1:10Roofsection D
+88
+200 1506
+25258
+200 1506
+418 470
+88
+25258
+200 8
+418
+88
+25252525
+200
+Scale=1:10Roofsection E
+Scale=1:10Roofsection F
+200 1022
+356
+8
+8
+100Thk. 8 mm. 2525Thk. 8 mm.2525
+200200 1022
+356
+8
+8
+8
+Scale=1:10Roofsection G
+Scale=1:10Roofsection H
+25258Thk. 8 mm.
+825258
+200572200
+275
+2525 2525
+200572200
+275
+102020
+8
+301020203020302030
+10202030
+Thk. 8 mm.
+Thk. 8 mm.
+8
+8
+8
+Thk. 8 mm.R36300
+R36300
+thk 8 mm
+8 95
+169
+Stiffenerthk 8 mm
+895
+Stiffener
+(52 units)
+5 mm
+5 mm25
+169255 mm150 150
+1470200200
+4050200200
+100,$1
+,$1
+100
+100
+100
+500
+2008
+.$1*.$1*
+.$1*
+5 mm
+5 mm
+5 mm
+5 mm @ 300
+5 mm300@300 5 mm
+5 mm
+5 mm
+5 mm @ 3005 mm
+5 mm300@300
+8 8
+5 mm300@300
+8 8
+5 mm300@300
+8 Thk. 8 mm.8
+5 mm @ 3005 mm
+5 mm300@300
+5 mm @ 3005 mm
+5 mm300@300
+5 mm5 mm8
+85 mm 5 mm
+8
+85 mm 5 mm
+8
+85 mm 5 mm
+85 mm
+8 5 mm
+85 mm
+8 5 mm
+5 mm
+5 mm
+5 mm 5 mm
+thk 8 mmStiffenerthk 8 mmStiffener
+5 mm 5 mm
+5 mm5 mm
+5 mm300@3005 mm 5 mm
+5 mm5 mm
+5 mm300@300
+5 mm5 mm
+5 mm300@300
+5 mm300@300
+5 mm300@300
+5 mm300@300
+NOTA IMPORTANTE:Donde se indica soldadura discontinua,hm]\]k]j[gflafmYka^Y[adalYdY[gfkljm[[af&
+IMPORTANT NOTE:Where mentioned discontinued welding,could be continous welding if it makes easier the construction.
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 12]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankEstructure of Roof kks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001312 1:501:401:10
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+¦*-((¦0((
+¦*-((¦*(((
+8
+Thk. 8 mm.
+2525
+Scale=1:40Side view of roof structure rafters
+2700 3000 4000 3725 4725
+8
+88100
+463 825081001698
+88100200
+1568 8
+8200961008
+25
+25
+594Thk. 25 mm.8 plates25
+25
+25
+25
+25
+¦0((¦/,0
+¦*(((¦)1,0
+A
+Scale=1:10Center structure of roof
+,-,-
+,-
+,-
+,- ,-
+,-
+,-
+88
+88 88 88
+88
+8
+88
+60100
+420
+384
+¦*.*(12
+Thk. 8 mm.5 mm
+2781213
+808
+Ring 1Ring 2Ring 3 Ring 4
+Ring 1
+Ring 2
+Ring 3 Ring 4
+5 mm
+627,3203,4
+17996R36300R36300
+234
+563475
+Scale=1:150Roof structure rafters detail
+17140 <jadd¦14"
+<jadd¦)',
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 13]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankRoof plateskks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001313 1:1001:501:20
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+*/(1(
+(
+)0(
+N
+W ES
+(³
+1(³*/(³
+)0(³
+Roof platesThk. 8 mm.
+Roof platesThk. 8 mm.
+Roof platesThk. 8 mm.4
+Roof platesThk. 8 mm.
+Roof platesThk. 8 mm.
+Roof platesThk. 8 mm.
+Thk. 18 mm.
+Scale=1:50Annular roof plate detail( 18 units )
+5739
+970R18344
+Thk. 18 mm.
+5739
+970
+Thk. 18 mm.5739
+970
+Anular roof plateThk. 18 mm.
+1.a
+1.b
+1.c
+Scale=1:50Annular roof plate detail( 1 unit )
+Scale=1:50Annular roof plate detail( 1 unit )
+2.a
+2.b
+Thk. 8 mm.2.a Thk. 8 mm.2.b
+3.a
+R18344
+R18344
+10967 6369
+5.a
+5.b
+Anular roof platesThk. 18 mm.1.a
+Roof platesThk. 8 mm.2.c
+Roof platesThk. 8 mm.2.d
+1.b
+Anular roof plateThk. 18 mm.1.c
+Roof platesThk. 8 mm.3.b
+Roof platesThk. 8 mm.3.c
+Roof platesThk. 8 mm.3.d
+Roof platesThk. 8 mm.5.c
+Roof platesThk. 8 mm.5.c
+Roof platesThk. 8 mm.5.c
+Thk. 8 mm.2.c
+Scale=1:100Roof plate detail( 1 unit )10967
+Thk. 8 mm.2.d
+Scale=1:100Roof plate detail( 1 unit )10967
+3.aScale=1:50Roof plate detail( 23 units )R18345200Thk. 8 mm.3.bThk. 8 mm.
+Scale=1:50Roof plate detail( 1 unit )
+3.cThk. 8 mm.
+Scale=1:50Roof plate detail( 1 unit )
+3.dThk. 8 mm.
+Scale=1:50Roof plate detail( 1 unit )
+1880R18689
+1880R18345R18345
+4Scale=1:20Roof plate detail( 26 units )Thk. 8 mm.300
+Thk. 8 mm.5.a
+Scale=1:100Roof plate detail( 23 units )
+Thk. 8 mm.5.b
+Scale=1:100Roof plate detail( 26 units )
+Thk. 8 mm.5.c
+Scale=1:100Roof plate detail( 3 units )
+11000
+R18220
+5971
+9639
+R16859 Scale=1:100Plan view of roof
+930930 193
+912 221
+912
+912
+930
+930
+Overlap roof plates detail
+Shell tank
+Roof structure rafters
+Anular roof platesThk. 18 mm.1.a
+Roof platesThk. 8 mm.2.a
+Roof platesThk. 8 mm.3.a
+Roof platesThk. 8 mm.5.a
+Roof platesThk. 8 mm.2.b
+Roof platesThk. 8 mm.5.b Roof platesThk. 8 mm.4
+2200
+2200
+2200
+2048 2086
+2086 2086
+1880
+2185
+2028758585
+North
+Scale=1:100Roof plate detail( 26 units )Scale=1:100Roof plate detail( 24 units )
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 14]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankRoof detailkks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001314 1:10--
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+200
+R18150 INT.
+50
+50
+50970
+100
+18 8
+88
+Coincident structureStiffener 52 Ut.
+5 mm
+5 mm
+5 mm
+2-(2
+50Minimum overlap 50mm
+minimum overlap 50mm50
+30050
+50
+50
+R1000
+25
+R1250
+8
+50
+Minimum overlap 50mm
+Minimum overlap 50mmMinimum overlap 50mm
+5 mm 2-(2
+Scale=1:10Center structure of roof
+Scale=1:10Roof detail
+Scale=1:10Center structure of roofView B
+Scale=1:10Roof detailView A
+B
+A
+22,-
+22,-
+5 mm
+CL
+CL
+8
+22,-
+22)-+(
+15 mm
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 15]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankAnchor rods & bottom tank.kks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001315 1:1501:1001:10
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+*/(1(
+(
+)0(
+N
+W ES
+(³
+1(³*/(³
+)0(³ Scale=1:150Plan view anchors location
+Anchor. T1
+IMPORTANT NOTE:Civil works shown are indicative.
+Scale=1:2Circular weldings (1-1)
+25
+130 970 80
+8
+Annular bottom plate
+Bottom plate¦+.+((
+8
+50
+4 mm100@300
+2.(2
+Scale=1:100Plan view anchors location1
+1
+22
+3
+3
+Scale=1:2Circular ring welding (3-3)
+Scale=1:2Circular Ring welding (2-2)
+-(
+-(
+-( 22 Ceramic, copper or similar
+==
+2
+4
+4
+Scale=1:2Section welding (4-4)
+4 mm150 @ 150
+8 80
+,(
+4
++(+(
+1$((
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2Anchor. T2Anchor. T2Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2Anchor. T2
+Anchor. T2Anchor. T2Anchor. T2Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T2
+Anchor. T1
+Anchor. T1Anchor. T1
+Anchor. T1
+Anchor. T1
+Anchor. T1
+Anchor. T1
+Anchor. T1
+Anchor. T1
+Anchor. T1
+Anchor. T1
+1$((1$((
+1$((,$((-$((
+)*$((
+)*$((
+-$(()*$(( )*$((,$((
+Anchor plate type 1 detailScale=1:7,5
+Scale=1:7,5
+Thk 40 mm.
+Scale=1:7.5Anchors detail
+2525
+13035Shell tank
+Thk 27 mm.
+25110 2511025110
+490
+520
+371502041
+25
+¦,,
+¦,,
+Thk 40 mm.
+25110 2511025110
+490
+520
+311501035
+25
+¦,,
+¦,,
+40
+Lubricant Gleitmo 705 or similarFoundation ring
+Auxiliary steel plateA516 Gr70 thk 6 mm.
+550
+Anchor plate type 2 detail
+10
+90
+3080
+300300
+Auxiliary welding plate 150x500x24mm(Length adjust in field)
+Anchor plate
+200
+7850020
+M42, 8.8750
+Shell tankPlate 130x200x27Anchor plateM42, 8.8
+475
+3527
+To define by others
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 16]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankHandrailkks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001316 1:1501:101:5
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+Scale=1:10View of handrail segment(39 units)
+Baseboard 120x5
+Protection 50x5
+Pipe DIN2448¦)12" x 2,6 mm.
+BalaustL-70x7
+InsulationThk 25 mm.
+SupportThk 15 mm.
+Insulation
+16011912030050 390
+Baseboard120x55
+A Scale=1:10View A-A
+A
+¦)12 " R 18240
+21
+125BalaustL-70x7
+BalaustL-70x7
+57100160¦)0¦)0408040
+115115230200
+203
+2525Slotted hole¦)*p*0ee&
+252570 50120 Slotted holes¦)*p*0ee&
+Protection 50x5
+2525Slotted hole¦)*p*0ee&
+50
+50390
+¦)12 "
+90129
+34149
+Scale=1:10View of handrail assembly segments
+(
+1(
+)0(
+*/(
+Baseboard
+Protection
+Protection Welded
+1470
+@Yf\jYad¦+.,0(
+Balaust L-70x7( 78 units)
+,$.*
+Scale=1:150Plan view perimetral handrail
+Scale=1:10Holes in balaustradesBalaustradetype 2Balaustradetype 1
+Type 1(39 units)Type 2(39 units)
+¦)*
+¦)*
+Slotted hole¦)*p),(ee&Slotted hole¦)*p),(ee&
+415440286140298
+1141140298
+1538
+2525252570 50120 25255040
+40
+40
+Slotted hole¦)*p*0ee&
+Slotted holes¦)*p*0ee&
+Slotted hole¦)*p*0ee&
+Baseboard
+Protection
+Protection
+Slotted holes¦)*p*0ee&Baseboard
+3048
+40
+40
+40
+734 1470 734 ¦,*$*p+$-.
+5080
+3 mm
+3 mm
+3 mm
+5 mm
+3 mm101102
+102
+103
+104 105
+106107
+108
+110 110
+109
+109
+109 109
+NOTE:Sandblasting handrail Sa 2 1/2 and caloric epoxi primer 75u
+Pipe DIN2448¦)12" x 2,6 mm.Pipe DIN2448¦)12" x 2,6 mm.
+Baseboard120x515
+Pipe DIN2448¦)12" x 2,6 mm.
+2516025162
+InsulationMONO LUX 800InsulationMONO LUX 800
+North
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 17]
+MANUFACTURED FORITEMTANK SERVICESERIAL NUMBERYEAR COMPLETEDDESIGN PRESSURENOMINAL DIAMETERNOMINAL HEIGHTMAX. DESIGN LIQUID LEVELCORROSION ALLOWANCESTRESS RELIEFMAXIMUM CAPACITYDESIGN SPECIFIC GRAVITYEMPTY WEIGHT
+DESIGN TEMPERATURECODE
+MEAPSA
+API 650 ed.2011Add. 3
+ABEINSA EPC KAXUAD1WSC10BB001 COLD SALT TANKMOLTEN NITRATE SALT STORAGE TANK1995201350 / -10 mbarg%)&-',((³;36,3 m11,8 m11,5 m2 mmNONE12.211 m31,92 Tn/m3600 Tn
+ShellMaterialcourseSA 516 GR70FOR ALL COURSES
+FABRICATED BYERECTED BY
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+Kaxu Solar One(PTY) LTD (RF)
+Data SheetCold Salt TankInsulationkks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001317 1:1501:101:2
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+6000
+167
+167
+18 units
+Plate 40 x 4 lenght 6.000 mm. galvanized
+Scale=1:10Shell insulation support plates
+Scale=1:150Plant view of roofinsulation support rings
+Roof first line (61 units)
+Roof second line (42 units)
+Roof third line (24 units)
+INSULATION SUPPORTSDescriptionSupport platesSupport clipsShell ring 119361Shell ring 219361Shell ring 319361Shell ring 419361Shell ring 519361Shell ring 619361Roof first line601140Roof second line40760Roof third line20380Total ....:2344446
+HOLD
+NorthScale=1:5Nameplate support
+350
+50
+330M10
+175140M4
+52525
+175
+95
+100125
+Plate thickness 5 mm
+M10
+M4
+300 Insulation thickness
+150
+110
+NameplateScale=1:2
+140
+100
+Insulation10
+Stainless Steel 304
+Roof forth line (24 units)
+22362236150223622361502236150
+Scale=1:100Elevation viewShell insulation support rings
+164
+Scale=1:10Insulation anchorage detail
+333(Typ.)
+Support U plates for passable corredorSupport U plates for passable corredor350
+350(Typ.)
+(Typ.)
+Scale=1:10Insulation detail
+ insulation fiberglass tape 30x3Shell support ring(plate 30x3)
+2.5 mm
+ (BY OTHERS) 60
+10G
+G
+Scale=1:2View G-G
+1040
+2.5 mm
+12 300
+30
+R44,5
+95 180
+28133
+Scale=1:2Insulation clip 40x4 detail
+ insulation Barlan tape 30x30x3Rivet 2 uts.x clip
+1,5
+15 insulation fiberglass tape 30x3 (BY OTHERS) insulation Barlan tape 30x30x3
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I
+
+[page 18]
+18
+Reviewed by:SignatureApproved by:Description:Rev. Drawn by:
+1 2 3 4 5 6 7 9 10 11 12 13 14 15 16A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L1 2 3 4 5 6 7 10 11 12 13 14 15
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Location:
+9
+EditionDate:
+A1
+No.: SignatureSignature
+Drawing No.:
+Int. Drawing No.:Scale:
+Client:
+Project:
+Sheets:Sheet No.:
+Professional Engineer (if applicable):
+EPC Contractor:Stamp:Signature:P.Eng.No:
+Supplier Eng.:
+StatusPreliminaryFor layoutFor constructionFor construction except holdAs builtThis drawing and the design it covers are the property of Abeinsa EPC. They have been merelyloaned by express agreement of the borrower, who states that it cannot be reproduced,copied, loaned, exhibited or used under any circumstances. As an exception, it can be used ina limited and private way, as long as Abeinsa EPC gives permission to the borrower for usingit through a written consent.
+18(PTY) LTD (RF)
+Data SheetCold Salt TankInsulationkks = AD1WSC10BB001- 0328-PLN-CYD-75-62-001318 1:1501:101:2
+XXXXXXXXXX
+ABE-13004-CE-BA
+!Kaxu Solar OneABEINSA EPC KAXU
+North
+6000
+Scale=1:10Roof insulation support plates19 units
+U 40x20x1.5 lenght 6.000 mm. galvanized
+20
+Scale=1:150Passable zone
+Support U plates for passable corredorSupport U plates for passable corredor
+Support U plates for passable corredor
+350
+350
+75
+75325(Typ.)
+(Typ.)
+(Typ.)
+Scale=1:10Insulation detail
+2.5 mm U 40x20x1.5 insulation Barlan tape 30x30x3Rivet 2 uts.x clip
+ insulation fiberglass tape 30x3 (BY OTHERS)
+12 300
+30
+R44,5
+95 180
+28133
+Scale=1:2Insulation clip 30x4 detail
+0331/05/2013NameplateJ.PD.ID.I0404/06/2013IsolationJ.PD.ID.I
+0627/06/2013N1A/B/C, N2, N3, N5 & N26A/BJ.M.D.ID.I0510/06/2013N 22 J.PD.ID.I

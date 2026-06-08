@@ -29,7 +29,7 @@
     "plan_tag": {
       "kind": "Soporte de tuberia HTF",
       "mode": "tag_only_no_ocr",
-      "tagged_at": "2026-06-05T11:30:51.589756+00:00",
+      "tagged_at": "2026-06-08T18:41:14.073017+00:00",
       "local_only": true
     },
     "index_matches": [
@@ -932,5 +932,5 @@
       }
     ]
   },
-  "processed_at": "2026-06-05T11:30:51.589768+00:00"
+  "processed_at": "2026-06-08T18:41:14.073019+00:00"
 }

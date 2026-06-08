@@ -1,0 +1,33 @@
+{
+  "id": "0fa914cb58e38735",
+  "path": "Helios Sole/SE Elevadora Helios II/120213 Solicitud APM SE Elevadora HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 435538,
+  "size_human": "425 KB",
+  "mtime_iso": "2026-06-08T16:21:00.000Z",
+  "title": "120213 Solicitud APM SE Elevadora HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "needs_ocr_or_empty",
+  "text_chars": 0,
+  "token_estimate": 0,
+  "chunks": 0,
+  "card_path": ".yeyo-memory/cards/0fa914cb58e38735.json",
+  "extracted_path": null,
+  "metadata": {
+    "pages": 3,
+    "pdf_metadata": {
+      "Producer": "GPL Ghostscript 8.70",
+      "CreationDate": "D:20120213140018+01'00'",
+      "ModDate": "D:20120213140018+01'00'",
+      "Title": "120213135940_0001.pdf",
+      "Creator": "PDFCreator Version 1.0.2",
+      "Author": "cgrpm",
+      "Keywords": "",
+      "Subject": ""
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:39:57.297054+00:00"
+}

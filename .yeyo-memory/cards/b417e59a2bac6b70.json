@@ -1,0 +1,28 @@
+{
+  "id": "b417e59a2bac6b70",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-6000-00 Rev.01 Lista de Instrumentos.xlsx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "xlsx",
+  "size_bytes": 60327,
+  "size_human": "59 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-6000-00 Rev.01 Lista de Instrumentos",
+  "doc_code": null,
+  "revision": "Rev.01",
+  "status": "ok",
+  "text_chars": 27852,
+  "token_estimate": 6963,
+  "chunks": 18,
+  "card_path": ".yeyo-memory/cards/b417e59a2bac6b70.json",
+  "extracted_path": ".yeyo-memory/extracted/b417e59a2bac6b70.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "Lista de instrumentos",
+        "rows_seen": 306,
+        "non_empty_rows": 285
+      }
+    ]
+  },
+  "processed_at": "2026-06-08T18:27:45.497222+00:00"
+}

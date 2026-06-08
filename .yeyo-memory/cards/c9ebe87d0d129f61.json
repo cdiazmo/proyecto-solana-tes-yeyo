@@ -1,0 +1,28 @@
+{
+  "id": "c9ebe87d0d129f61",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.8 APM LSAT.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 266025,
+  "size_human": "260 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "5.10.1.8 APM LSAT",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 3918,
+  "token_estimate": 979,
+  "chunks": 3,
+  "card_path": ".yeyo-memory/cards/c9ebe87d0d129f61.json",
+  "extracted_path": ".yeyo-memory/extracted/c9ebe87d0d129f61.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "Author": "slamp",
+      "Creator": "Nuance Communications, Inc.",
+      "Producer": "Nuance Communications, Inc."
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:31:24.391535+00:00"
+}

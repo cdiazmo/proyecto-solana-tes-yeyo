@@ -1,0 +1,32 @@
+{
+  "id": "51512a2e7d52201e",
+  "path": "Helios Sole/Helios II/5.16 Obra civil/5.16.2 CDO OC HII.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 271508,
+  "size_human": "265 KB",
+  "mtime_iso": "2026-06-08T16:20:00.000Z",
+  "title": "5.16.2 CDO OC HII",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 1974,
+  "token_estimate": 493,
+  "chunks": 2,
+  "card_path": ".yeyo-memory/cards/51512a2e7d52201e.json",
+  "extracted_path": ".yeyo-memory/extracted/51512a2e7d52201e.txt",
+  "metadata": {
+    "pages": 2,
+    "pdf_metadata": {
+      "CreationDate": "D:20120530020750Z",
+      "Author": "cgaam",
+      "Creator": "Microsoft® Office Word 2007",
+      "Producer": "Microsoft® Office Word 2007",
+      "ModDate": "D:20120530122455+02'00'",
+      "Title": ""
+    },
+    "encrypted": true,
+    "empty_password_decrypt_result": "1"
+  },
+  "processed_at": "2026-06-08T18:39:32.306997+00:00"
+}

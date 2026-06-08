@@ -1,0 +1,38 @@
+{
+  "id": "82be6788d484e424",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-3660-00 Rev01 Lista Valvulas General.xlsx",
+  "top_dir": "Documentos en Servidor Atlántica",
+  "ext": "xlsx",
+  "size_bytes": 62560,
+  "size_human": "61 KB",
+  "mtime_iso": "2026-06-08T16:14:00.000Z",
+  "title": "1950801-LIS-3660-00 Rev01 Lista Valvulas General",
+  "doc_code": null,
+  "revision": "Rev01",
+  "status": "ok",
+  "text_chars": 14412,
+  "token_estimate": 3603,
+  "chunks": 9,
+  "card_path": ".yeyo-memory/cards/82be6788d484e424.json",
+  "extracted_path": ".yeyo-memory/extracted/82be6788d484e424.txt",
+  "metadata": {
+    "sheets": [
+      {
+        "name": "SPReport_Definition",
+        "rows_seen": 57,
+        "non_empty_rows": 57
+      },
+      {
+        "name": "VALVE LIST",
+        "rows_seen": 450,
+        "non_empty_rows": 117
+      },
+      {
+        "name": "Conversion Unid.",
+        "rows_seen": 26,
+        "non_empty_rows": 26
+      }
+    ]
+  },
+  "processed_at": "2026-06-08T18:27:45.451180+00:00"
+}

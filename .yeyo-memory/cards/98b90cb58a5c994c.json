@@ -1,0 +1,29 @@
+{
+  "id": "98b90cb58a5c994c",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.4 Certificado pyc AT HI.pdf",
+  "top_dir": "Helios Sole",
+  "ext": "pdf",
+  "size_bytes": 3927400,
+  "size_human": "3.7 MB",
+  "mtime_iso": "2026-06-08T16:15:00.000Z",
+  "title": "5.10.5.4 Certificado pyc AT HI",
+  "doc_code": null,
+  "revision": null,
+  "status": "ok",
+  "text_chars": 25315,
+  "token_estimate": 6328,
+  "chunks": 16,
+  "card_path": ".yeyo-memory/cards/98b90cb58a5c994c.json",
+  "extracted_path": ".yeyo-memory/extracted/98b90cb58a5c994c.txt",
+  "metadata": {
+    "pages": 25,
+    "pdf_metadata": {
+      "Creator": "pdftk 1.41 - www.pdftk.com",
+      "Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+      "ModDate": "D:20120510175344Z",
+      "CreationDate": "D:20120510175344Z"
+    },
+    "encrypted": false
+  },
+  "processed_at": "2026-06-08T18:32:46.902042+00:00"
+}
