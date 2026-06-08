@@ -32,6 +32,18 @@
       "mode": "tag_only_no_ocr",
       "tagged_at": "2026-06-08T18:41:17.076351+00:00",
       "local_only": true
+    },
+    "ai_features": {
+      "source_corpus": "Documentacion con sello PE 08",
+      "project_area": "General",
+      "deliverable_part": "Planos",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "plano_etiquetado_sin_ocr",
+      "ai_action": "usar_solo_etiqueta_y_metadatos",
+      "reuse_priority": "media",
+      "page_count": 1,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
     }
   },
   "processed_at": "2026-06-08T18:41:17.076353+00:00"

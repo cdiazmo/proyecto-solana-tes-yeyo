@@ -24,7 +24,19 @@
       "PlotCfgs\\AEN_Pen assignments.ctb",
       "PlotCfgs\\DWG To PDF.pc3"
     ],
-    "archive_total_uncompressed_bytes": 6836810
+    "archive_total_uncompressed_bytes": 6836810,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "General",
+      "extraction_quality": "archivo_comprimido_listado",
+      "ai_action": "descomprimir_solo_si_indice_lo_justifica",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:11:08.021845+00:00"
 }

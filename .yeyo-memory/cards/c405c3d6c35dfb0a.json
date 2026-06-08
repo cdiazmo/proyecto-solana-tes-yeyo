@@ -22,7 +22,19 @@
       "Creator": "Nuance Communications, Inc.",
       "Producer": "Nuance Communications, Inc."
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Proyecto Helios Sole",
+      "project_area": "Infraestructura electrica",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Permisos / legalizacion",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 2,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:39:37.457542+00:00"
 }

@@ -88,7 +88,19 @@
       "zmiana": "Zm",
       "zmiana_PD": "zmiana_PD"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Listados e indices",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 4,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:14:29.721015+00:00"
 }

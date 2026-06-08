@@ -53,7 +53,19 @@
         "date": "N/A",
         "discipline": "HEX"
       }
-    ]
+    ],
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "baja_texto_escaso_por_pagina",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media_alta",
+      "page_count": 935,
+      "indexed_reference_count": 2,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:14:01.511065+00:00"
 }

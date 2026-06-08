@@ -17,7 +17,19 @@
   "extracted_path": ".yeyo-memory/extracted/57a176cbd3f71a22.txt",
   "metadata": {
     "paragraphs": 43,
-    "table_rows": 0
+    "table_rows": 0,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "General",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:11:59.320787+00:00"
 }

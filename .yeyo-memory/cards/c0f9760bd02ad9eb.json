@@ -15,6 +15,19 @@
   "chunks": 0,
   "card_path": ".yeyo-memory/cards/c0f9760bd02ad9eb.json",
   "extracted_path": null,
-  "metadata": {},
+  "metadata": {
+    "ai_features": {
+      "source_corpus": "Documentacion con sello PE 08",
+      "project_area": "General",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "General",
+      "extraction_quality": "metadata_only",
+      "ai_action": "usar_metadatos",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
+  },
   "processed_at": "2026-06-08T18:27:39.995576+00:00"
 }

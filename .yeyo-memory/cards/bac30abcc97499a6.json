@@ -52,7 +52,19 @@
       "4521-PLN-AEE-75-63-0001_035_E16.dwg",
       "4521-PLN-AEE-75-63-0001_Typical Pipe Supports Standard_rev03.pdf"
     ],
-    "archive_total_uncompressed_bytes": 30124399
+    "archive_total_uncompressed_bytes": 30124399,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "archivo_comprimido_listado",
+      "ai_action": "descomprimir_solo_si_indice_lo_justifica",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:12:31.966419+00:00"
 }

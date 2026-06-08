@@ -135,7 +135,19 @@
         "date": "",
         "discipline": ""
       }
-    ]
+    ],
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Electrica",
+      "extraction_quality": "metadata_only",
+      "ai_action": "usar_metadatos",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 9,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:11:58.554227+00:00"
 }

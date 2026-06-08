@@ -17,7 +17,19 @@
   "extracted_path": ".yeyo-memory/extracted/064455479316b31d.txt",
   "metadata": {
     "paragraphs": 73,
-    "table_rows": 10
+    "table_rows": 10,
+    "ai_features": {
+      "source_corpus": "Servidor Atlantica",
+      "project_area": "General",
+      "deliverable_part": "Memoria y anejos",
+      "discipline": "Civil / estructuras",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:27:40.591139+00:00"
 }

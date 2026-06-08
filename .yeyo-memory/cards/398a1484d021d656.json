@@ -283,7 +283,19 @@
         "date": "2018-08-31 00:00:00",
         "discipline": ""
       }
-    ]
+    ],
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Listados e indices",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "archivo_comprimido_listado",
+      "ai_action": "descomprimir_solo_si_indice_lo_justifica",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 20,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:12:31.640570+00:00"
 }

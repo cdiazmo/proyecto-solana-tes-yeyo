@@ -23,7 +23,19 @@
       "ModDate": "D:20111228161115-01'00'",
       "CreationDate": "D:20111228161115-01'00'"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Proyecto Helios Sole",
+      "project_area": "Helios I",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "General",
+      "extraction_quality": "requiere_ocr",
+      "ai_action": "ocr_local_si_es_relevante",
+      "reuse_priority": "pendiente_ocr",
+      "page_count": 3,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:32:46.935881+00:00"
 }

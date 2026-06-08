@@ -23,7 +23,19 @@
       "ModDate": "D:20210826112154-05'00'",
       "Producer": "Brother Scanner System Image Conversion"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Pliego de condiciones",
+      "discipline": "General",
+      "extraction_quality": "requiere_ocr",
+      "ai_action": "ocr_local_si_es_relevante",
+      "reuse_priority": "pendiente_ocr",
+      "page_count": 2,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:20:50.023483+00:00"
 }

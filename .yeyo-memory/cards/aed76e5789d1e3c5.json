@@ -25,7 +25,19 @@
       "Producer": "Acrobat Distiller 10.0.0 (Windows)",
       "Title": "Microsoft Word - 4521-CAL-LOI-039-062-0002-GAR Rev01 Process Flow Conditions Heat & Mass Balance.docx"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Memoria y anejos",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
+      "page_count": 6,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:13:58.015217+00:00"
 }

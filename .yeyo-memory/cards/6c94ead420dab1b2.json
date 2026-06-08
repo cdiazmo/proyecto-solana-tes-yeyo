@@ -16,7 +16,19 @@
   "card_path": ".yeyo-memory/cards/6c94ead420dab1b2.json",
   "extracted_path": ".yeyo-memory/extracted/6c94ead420dab1b2.txt",
   "metadata": {
-    "returncode": 0
+    "returncode": 0,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Fabricacion / compras / calidad",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:11:58.012332+00:00"
 }

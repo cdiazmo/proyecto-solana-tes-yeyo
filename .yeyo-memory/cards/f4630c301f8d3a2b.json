@@ -23,7 +23,19 @@
       "ModDate": "D:20191126155936+01'00'",
       "Creator": "Bluebeam Stapler 12.6.0"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Planos",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "requiere_ocr",
+      "ai_action": "ocr_local_si_es_relevante",
+      "reuse_priority": "media",
+      "page_count": 1,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:14:21.837495+00:00"
 }

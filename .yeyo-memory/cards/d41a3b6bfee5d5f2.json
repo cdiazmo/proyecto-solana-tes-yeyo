@@ -22,7 +22,19 @@
       "ModDate": "D:20180815114524-04'00'",
       "Producer": "PDF-XChange Printer V6 (6.0 build 322.7) [Windows 7 Enterprise x64 (Build 7601: Service Pack 1)]"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Fabricacion / compras / calidad",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 8,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:14:43.613258+00:00"
 }

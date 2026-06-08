@@ -28,7 +28,19 @@
       "Title": "PROJECT INSTRUCTIONS",
       "dofficeID": "{DC396C81-0C93-4A47-A0D5-56339B776BC1}"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Pliego de condiciones",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
+      "page_count": 2,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:14:34.785368+00:00"
 }

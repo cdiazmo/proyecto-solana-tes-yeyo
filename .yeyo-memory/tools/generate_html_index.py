@@ -39,6 +39,7 @@ def compact_doc(card: dict[str, Any], pdf_data: dict[str, dict[str, str]], plan_
     pdf = pdf_data.get(path, {})
     plan = plan_data.get(path, {})
     metadata = card.get("metadata") or {}
+    ai_features = metadata.get("ai_features") or {}
     index_matches = metadata.get("index_matches") or []
     index_kinds = sorted({item.get("index_kind", "") for item in index_matches if item.get("index_kind")})
 
@@ -60,6 +61,14 @@ def compact_doc(card: dict[str, Any], pdf_data: dict[str, dict[str, str]], plan_
         "readability": pdf.get("readability") or "",
         "info_band": pdf.get("info_band") or "",
         "plan_kind": plan.get("plan_kind") or ((metadata.get("plan_tag") or {}).get("kind") or ""),
+        "source_corpus": ai_features.get("source_corpus") or "",
+        "project_area": ai_features.get("project_area") or "",
+        "deliverable_part": ai_features.get("deliverable_part") or "",
+        "discipline": ai_features.get("discipline") or "",
+        "extraction_quality": ai_features.get("extraction_quality") or "",
+        "ai_action": ai_features.get("ai_action") or "",
+        "reuse_priority": ai_features.get("reuse_priority") or "",
+        "page_count": int(ai_features.get("page_count") or (metadata.get("pages") or 0) or 0),
         "index_match_count": len(index_matches) or match_counts.get(card.get("card_path") or "", 0),
         "index_kinds": ", ".join(index_kinds),
         "card_path": card.get("card_path") or "",
@@ -74,6 +83,8 @@ def summarize(docs: list[dict[str, Any]]) -> dict[str, Any]:
     status = Counter(doc["status"] for doc in docs)
     ext = Counter(doc["ext"] for doc in docs)
     topic = Counter(doc["topic"] or "Sin tematica" for doc in docs)
+    deliverable = Counter(doc["deliverable_part"] or "Sin parte" for doc in docs)
+    discipline = Counter(doc["discipline"] or "Sin disciplina" for doc in docs)
     top_dir = Counter(doc["top_dir"] for doc in docs)
     return {
         "docs": len(docs),
@@ -84,6 +95,8 @@ def summarize(docs: list[dict[str, Any]]) -> dict[str, Any]:
         "status": status.most_common(),
         "ext": ext.most_common(),
         "topic": topic.most_common(10),
+        "deliverable_part": deliverable.most_common(),
+        "discipline": discipline.most_common(),
         "top_dir": top_dir.most_common(),
     }
 
@@ -113,6 +126,11 @@ def main() -> int:
         "topic": sorted({doc["topic"] for doc in docs if doc["topic"]}),
         "type": sorted({doc["type"] for doc in docs if doc["type"]}),
         "plan_kind": sorted({doc["plan_kind"] for doc in docs if doc["plan_kind"]}),
+        "source_corpus": sorted({doc["source_corpus"] for doc in docs if doc["source_corpus"]}),
+        "deliverable_part": sorted({doc["deliverable_part"] for doc in docs if doc["deliverable_part"]}),
+        "discipline": sorted({doc["discipline"] for doc in docs if doc["discipline"]}),
+        "ai_action": sorted({doc["ai_action"] for doc in docs if doc["ai_action"]}),
+        "reuse_priority": sorted({doc["reuse_priority"] for doc in docs if doc["reuse_priority"]}),
     }
 
     generated_at = datetime.now(timezone.utc).isoformat()
@@ -306,11 +324,17 @@ def main() -> int:
       <select id="topic"><option value="">Temática</option></select>
       <select id="type"><option value="">Tipo documental</option></select>
       <select id="plan_kind"><option value="">Tipo de plano</option></select>
+      <select id="source_corpus"><option value="">Corpus</option></select>
+      <select id="deliverable_part"><option value="">Parte proyecto</option></select>
+      <select id="discipline"><option value="">Disciplina</option></select>
+      <select id="ai_action"><option value="">Acción IA</option></select>
+      <select id="reuse_priority"><option value="">Prioridad</option></select>
       <select id="sort">
         <option value="path">Orden: ruta</option>
         <option value="size_desc">Orden: tamaño</option>
         <option value="text_desc">Orden: info extraída</option>
         <option value="index_desc">Orden: cruces con índices</option>
+        <option value="priority">Orden: prioridad IA</option>
       </select>
     </section>
     <div class="toolbar">
@@ -326,6 +350,7 @@ def main() -> int:
             <th>Documento</th>
             <th>Código / Rev.</th>
             <th>Clasificación</th>
+            <th>Features IA</th>
             <th>Estado</th>
             <th>Info</th>
             <th>Índices</th>
@@ -349,6 +374,11 @@ def main() -> int:
       topic: '',
       type: '',
       plan_kind: '',
+      source_corpus: '',
+      deliverable_part: '',
+      discipline: '',
+      ai_action: '',
+      reuse_priority: '',
       sort: 'path',
     }};
 
@@ -365,6 +395,11 @@ def main() -> int:
       topic: document.getElementById('topic'),
       type: document.getElementById('type'),
       plan_kind: document.getElementById('plan_kind'),
+      source_corpus: document.getElementById('source_corpus'),
+      deliverable_part: document.getElementById('deliverable_part'),
+      discipline: document.getElementById('discipline'),
+      ai_action: document.getElementById('ai_action'),
+      reuse_priority: document.getElementById('reuse_priority'),
     }};
 
     function fmt(n) {{
@@ -388,7 +423,7 @@ def main() -> int:
       select.appendChild(opt);
     }}
 
-    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind']) {{
+    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority']) {{
       for (const value of filters[key]) option(els[key], value);
     }}
 
@@ -396,26 +431,29 @@ def main() -> int:
       const readable = list.filter(d => d.status === 'ok').length;
       const tagged = list.filter(d => d.status === 'tagged_plan').length;
       const indexed = list.filter(d => d.index_match_count > 0).length;
+      const highPriority = list.filter(d => d.reuse_priority === 'alta' || d.reuse_priority === 'media_alta').length;
       const chunks = list.reduce((sum, d) => sum + d.chunks, 0);
       const cards = [
         ['Documentos', list.length],
         ['Legibles', readable],
         ['Planos etiquetados', tagged],
         ['Con índice XLS', indexed],
+        ['Prioridad IA', highPriority],
         ['Chunks', chunks],
-        ['Caracteres', list.reduce((sum, d) => sum + d.text_chars, 0)],
       ];
       els.stats.innerHTML = cards.map(([label, value]) => `<div class="stat"><b>${{fmt(value)}}</b><span>${{esc(label)}}</span></div>`).join('');
     }}
 
     function matches(doc) {{
-      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind']) {{
+      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority']) {{
         if (state[key] && doc[key] !== state[key]) return false;
       }}
       if (!state.q) return true;
       const haystack = [
         doc.path, doc.title, doc.doc_code, doc.revision, doc.ext, doc.top_dir,
-        doc.status, doc.type, doc.topic, doc.plan_kind, doc.index_kinds
+        doc.status, doc.type, doc.topic, doc.plan_kind, doc.index_kinds,
+        doc.source_corpus, doc.project_area, doc.deliverable_part, doc.discipline,
+        doc.extraction_quality, doc.ai_action, doc.reuse_priority
       ].join(' ').toLowerCase();
       return haystack.includes(state.q.toLowerCase());
     }}
@@ -425,6 +463,10 @@ def main() -> int:
       if (state.sort === 'size_desc') sorted.sort((a, b) => b.size_bytes - a.size_bytes || a.path.localeCompare(b.path));
       else if (state.sort === 'text_desc') sorted.sort((a, b) => b.text_chars - a.text_chars || a.path.localeCompare(b.path));
       else if (state.sort === 'index_desc') sorted.sort((a, b) => b.index_match_count - a.index_match_count || a.path.localeCompare(b.path));
+      else if (state.sort === 'priority') {{
+        const rank = {{ alta: 5, media_alta: 4, media: 3, pendiente_ocr: 2, baja: 1 }};
+        sorted.sort((a, b) => (rank[b.reuse_priority] || 0) - (rank[a.reuse_priority] || 0) || b.text_chars - a.text_chars || a.path.localeCompare(b.path));
+      }}
       else sorted.sort((a, b) => a.path.localeCompare(b.path));
       return sorted;
     }}
@@ -442,6 +484,12 @@ def main() -> int:
           doc.type ? `<span class="tag">${{esc(doc.type)}}</span>` : '',
           doc.plan_kind ? `<span class="tag">${{esc(doc.plan_kind)}}</span>` : '',
         ].filter(Boolean).join('<br>');
+        const aiFeatures = [
+          doc.deliverable_part ? `<span class="tag">${{esc(doc.deliverable_part)}}</span>` : '',
+          doc.discipline ? `<span class="tag">${{esc(doc.discipline)}}</span>` : '',
+          doc.reuse_priority ? `<span class="tag">Prioridad: ${{esc(doc.reuse_priority)}}</span>` : '',
+          doc.ai_action ? `<div class="muted small">${{esc(doc.ai_action)}}</div>` : '',
+        ].filter(Boolean).join('<br>');
         const links = [
           doc.href ? `<a href="${{fileHref(doc.href)}}">Abrir documento</a>` : '',
           doc.extracted_href ? `<a href="${{fileHref(doc.extracted_href)}}">Texto extraído</a>` : '',
@@ -457,13 +505,14 @@ def main() -> int:
             <div class="muted small">${{esc(doc.revision || '')}}</div>
           </td>
           <td>${{classification || '<span class="muted">Sin clasificar</span>'}}</td>
+          <td>${{aiFeatures || '<span class="muted">Sin features IA</span>'}}</td>
           <td>
             <div class="${{statusClass(doc.status)}}">${{esc(doc.status || '-')}}</div>
-            <div class="muted small">${{esc(doc.readability || '')}}</div>
+            <div class="muted small">${{esc(doc.readability || doc.extraction_quality || '')}}</div>
           </td>
           <td>
             <div>${{esc(doc.size_human)}} · ${{esc(doc.ext)}}</div>
-            <div class="muted small">${{fmt(doc.text_chars)}} chars · ${{fmt(doc.chunks)}} chunks</div>
+            <div class="muted small">${{fmt(doc.text_chars)}} chars · ${{fmt(doc.chunks)}} chunks · ${{fmt(doc.page_count)}} pág.</div>
           </td>
           <td>
             <div>${{fmt(doc.index_match_count)}} cruces</div>
@@ -473,7 +522,7 @@ def main() -> int:
         </tr>`;
       }}).join('');
       if (list.length > visible.length) {{
-        els.rows.innerHTML += `<tr><td colspan="7" class="muted">Mostrando 1.000 de ${{fmt(list.length)}} resultados. Usa filtros o búsqueda para acotar.</td></tr>`;
+        els.rows.innerHTML += `<tr><td colspan="8" class="muted">Mostrando 1.000 de ${{fmt(list.length)}} resultados. Usa filtros o búsqueda para acotar.</td></tr>`;
       }}
     }}
 
@@ -483,7 +532,7 @@ def main() -> int:
       renderRows(list);
     }}
 
-    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'sort']) {{
+    for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority', 'sort']) {{
       els[key].addEventListener('change', () => {{
         state[key] = els[key].value;
         update();
@@ -495,7 +544,7 @@ def main() -> int:
     }});
     els.reset.addEventListener('click', () => {{
       for (const key of Object.keys(state)) state[key] = key === 'sort' ? 'path' : '';
-      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind']) els[key].value = '';
+      for (const key of ['top_dir', 'ext', 'status', 'topic', 'type', 'plan_kind', 'source_corpus', 'deliverable_part', 'discipline', 'ai_action', 'reuse_priority']) els[key].value = '';
       els.sort.value = 'path';
       els.q.value = '';
       update();

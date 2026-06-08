@@ -29,7 +29,19 @@
       "Annexes/4521-INF-AEE-21-63-0004 (A06)_Rev00_Restraint and Stress Report.pdf",
       "Annexes/4521-INF-AEE-21-63-0004 (A07)Rev00.pdf"
     ],
-    "archive_total_uncompressed_bytes": 3019195
+    "archive_total_uncompressed_bytes": 3019195,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "archivo_comprimido_listado",
+      "ai_action": "descomprimir_solo_si_indice_lo_justifica",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:12:31.411120+00:00"
 }

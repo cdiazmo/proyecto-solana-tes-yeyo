@@ -24,7 +24,19 @@
       "Author": "Information Systems",
       "Title": "4521-ESP-ANC-68-61-CS93 - Full Vacuum 150 CS"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Planos",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 2,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:19:37.965831+00:00"
 }

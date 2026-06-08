@@ -25,7 +25,19 @@
       "Creator": "PrimoPDF http://www.primopdf.com",
       "Author": "GLJMB"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Proyecto Helios Sole",
+      "project_area": "Helios I",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Electrica",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 93,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:31:44.304218+00:00"
 }

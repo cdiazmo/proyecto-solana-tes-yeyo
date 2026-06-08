@@ -914,7 +914,19 @@
         "date": "",
         "discipline": ""
       }
-    ]
+    ],
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Planos",
+      "discipline": "General",
+      "extraction_quality": "formato_tecnico_metadata_only",
+      "ai_action": "usar_indices_o_pdf_equivalente",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 69,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:20:37.544422+00:00"
 }

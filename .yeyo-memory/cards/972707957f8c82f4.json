@@ -27,7 +27,19 @@
         "rows_seen": 30,
         "non_empty_rows": 28
       }
-    ]
+    ],
+    "ai_features": {
+      "source_corpus": "Servidor Atlantica",
+      "project_area": "General",
+      "deliverable_part": "Listados e indices",
+      "discipline": "General",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:29:18.159888+00:00"
 }

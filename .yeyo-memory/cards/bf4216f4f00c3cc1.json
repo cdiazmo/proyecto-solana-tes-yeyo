@@ -21,7 +21,19 @@
       "4521-PLN-AEE-68-51-0001-GAR_Rev02_Layout_new_exchangers.pdf",
       "4521-PLN-AEE-68-51-0001-GAR_Rev02_Layout_new_exchangers.dwg"
     ],
-    "archive_total_uncompressed_bytes": 6268506
+    "archive_total_uncompressed_bytes": 6268506,
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Planos",
+      "discipline": "General",
+      "extraction_quality": "archivo_comprimido_listado",
+      "ai_action": "descomprimir_solo_si_indice_lo_justifica",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:11:07.523677+00:00"
 }

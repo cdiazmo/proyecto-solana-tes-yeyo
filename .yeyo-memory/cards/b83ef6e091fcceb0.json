@@ -26,7 +26,19 @@
       "Title": "S3.1"
     },
     "encrypted": true,
-    "empty_password_decrypt_result": "1"
+    "empty_password_decrypt_result": "1",
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Pliego de condiciones",
+      "discipline": "General",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
+      "page_count": 1,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:21:22.561269+00:00"
 }

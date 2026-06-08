@@ -23,7 +23,19 @@
       "CreationDate": "D:20111223085358+01'00'",
       "PXCViewerInfo": "PDF-XChange Viewer;2.5.199.0;Sep 27 2011;19:41:29;D:20111223085504+01'00'"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Proyecto Helios Sole",
+      "project_area": "Helios I",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "General",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 11,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:31:57.435255+00:00"
 }

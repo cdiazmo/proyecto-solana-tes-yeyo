@@ -15,6 +15,19 @@
   "chunks": 0,
   "card_path": ".yeyo-memory/cards/6f7b30545391d2d2.json",
   "extracted_path": null,
-  "metadata": {},
+  "metadata": {
+    "ai_features": {
+      "source_corpus": "Proyecto Helios Sole",
+      "project_area": "Helios I",
+      "deliverable_part": "Planos",
+      "discipline": "Electrica",
+      "extraction_quality": "formato_tecnico_metadata_only",
+      "ai_action": "usar_indices_o_pdf_equivalente",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
+  },
   "processed_at": "2026-06-08T18:31:44.338794+00:00"
 }

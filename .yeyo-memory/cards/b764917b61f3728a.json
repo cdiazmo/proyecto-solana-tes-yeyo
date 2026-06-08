@@ -25,7 +25,19 @@
       "Producer": "Acrobat Distiller 8.1.0 (Windows)",
       "Title": "\\\\Central\\central_1\\TRABAJOS\\1697 HELIOS\\CONTROL SUB COLECTORA\\L_02 HELIOS II\\DESARROLLADOS\\2046-PLN-INA-23-22-0002-00.dwg Mode"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Proyecto Helios Sole",
+      "project_area": "Helios I",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "General",
+      "extraction_quality": "requiere_ocr",
+      "ai_action": "ocr_local_si_es_relevante",
+      "reuse_priority": "pendiente_ocr",
+      "page_count": 44,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:39:49.684365+00:00"
 }

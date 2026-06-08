@@ -26,7 +26,19 @@
       "ModDate": "D:20101213181405+01'00'",
       "Title": ""
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Proyecto Helios Sole",
+      "project_area": "Helios I",
+      "deliverable_part": "Documentacion auxiliar",
+      "discipline": "Electrica",
+      "extraction_quality": "requiere_ocr",
+      "ai_action": "ocr_local_si_es_relevante",
+      "reuse_priority": "pendiente_ocr",
+      "page_count": 52,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:32:52.065271+00:00"
 }

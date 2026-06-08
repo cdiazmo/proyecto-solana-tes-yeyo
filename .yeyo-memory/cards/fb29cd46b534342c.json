@@ -30,7 +30,19 @@
       "Newer versions/4521-PLN-PRT-39-52-0009.pdf",
       "Newer versions/4521-PLN-PRT-39-52-0010.pdf"
     ],
-    "archive_total_uncompressed_bytes": 7694204
+    "archive_total_uncompressed_bytes": 7694204,
+    "ai_features": {
+      "source_corpus": "Planos Solana",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Planos",
+      "discipline": "Civil / estructuras",
+      "extraction_quality": "archivo_comprimido_listado",
+      "ai_action": "descomprimir_solo_si_indice_lo_justifica",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:39:57.339138+00:00"
 }

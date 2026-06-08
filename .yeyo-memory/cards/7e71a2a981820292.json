@@ -15,6 +15,19 @@
   "chunks": 0,
   "card_path": ".yeyo-memory/cards/7e71a2a981820292.json",
   "extracted_path": null,
-  "metadata": {},
+  "metadata": {
+    "ai_features": {
+      "source_corpus": "Repositorio Solana / Yeyo",
+      "project_area": "General",
+      "deliverable_part": "Planos",
+      "discipline": "Proceso / mecanica / tuberias",
+      "extraction_quality": "formato_tecnico_metadata_only",
+      "ai_action": "usar_indices_o_pdf_equivalente",
+      "reuse_priority": "media",
+      "page_count": 0,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
+  },
   "processed_at": "2026-06-05T09:16:33.973204+00:00"
 }

@@ -25,7 +25,19 @@
       "Producer": "Acrobat Distiller 9.3.3 (Windows)",
       "Title": "P:\\Eng-CAD\\Projects\\Carbon\\44XX Jobs\\4443-CF-12 - Abencs - Solana Solar Plant\\Drafting Department\\Rev 2 - Vol 1 (10-01-10)\\DWG\\"
     },
-    "encrypted": false
+    "encrypted": false,
+    "ai_features": {
+      "source_corpus": "Servidor Atlantica",
+      "project_area": "TES / almacenamiento",
+      "deliverable_part": "Planos",
+      "discipline": "General",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "media",
+      "page_count": 28,
+      "indexed_reference_count": 0,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-08T18:28:27.073734+00:00"
 }

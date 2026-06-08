@@ -68,7 +68,19 @@
         "date": "",
         "discipline": "C&S"
       }
-    ]
+    ],
+    "ai_features": {
+      "source_corpus": "Documentacion con sello PE 08",
+      "project_area": "General",
+      "deliverable_part": "Memoria y anejos",
+      "discipline": "General",
+      "extraction_quality": "alta_texto_extraido",
+      "ai_action": "usar_chunks",
+      "reuse_priority": "alta",
+      "page_count": 248,
+      "indexed_reference_count": 3,
+      "enriched_at": "2026-06-08T18:48:59.739698+00:00"
+    }
   },
   "processed_at": "2026-06-05T09:23:21.564602+00:00"
 }
