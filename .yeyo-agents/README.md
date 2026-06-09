@@ -78,8 +78,10 @@ El script comprueba prerrequisitos del sistema, descarga objetos LFS, crea `.ven
 Para instalarlo como servicios systemd:
 
 ```bash
-sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root /home/ubuntu/incegex/proyecto-solana-tes-yeyo --env-file /home/ubuntu/incegex/proyecto-solana-tes-yeyo/.yeyo-agents/config/local.env --host 0.0.0.0 --port 8081 --systemd
+sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root /home/ubuntu/incegex/proyecto-solana-tes-yeyo --env-file /home/ubuntu/incegex/proyecto-solana-tes-yeyo/.yeyo-agents/config/local.env --host 0.0.0.0 --port 8081 --systemd --user ubuntu
 ```
+
+Si el proyecto está en `/home/ubuntu`, el servicio debe ejecutarse como `ubuntu` o moverse a una ruta de servicio como `/srv/yeyo`. Si se ejecuta como `yeyo` desde `/home/ubuntu`, systemd puede fallar con `status=200/CHDIR`.
 
 Variables útiles:
 

@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+APP_USER_WAS_SET=0
+if [[ -n "${APP_USER:-}" ]]; then
+  APP_USER_WAS_SET=1
+fi
 APP_USER="${APP_USER:-yeyo}"
 HOST="${HOST:-127.0.0.1}"
 PORT="${PORT:-8081}"
@@ -238,10 +242,29 @@ PY
 
 if [[ "$INSTALL_SYSTEMD" == "1" ]]; then
   echo "==> Instalando servicios systemd"
+  if [[ "$APP_USER_WAS_SET" == "0" && -n "${SUDO_USER:-}" && "${SUDO_USER:-}" != "root" && "$PROJECT_ROOT" == "/home/$SUDO_USER/"* ]]; then
+    APP_USER="$SUDO_USER"
+    echo "==> Proyecto bajo /home/$SUDO_USER; usando usuario systemd: $APP_USER"
+  fi
   if ! id "$APP_USER" >/dev/null 2>&1; then
     $SUDO useradd --system --create-home --shell /usr/sbin/nologin "$APP_USER"
   fi
   $SUDO chown -R "$APP_USER:$APP_USER" "$PROJECT_ROOT/.yeyo-agents/data" "$PROJECT_ROOT/.venv"
+  if ! $SUDO -u "$APP_USER" test -x "$PROJECT_ROOT" >/dev/null 2>&1; then
+    cat >&2 <<EOF
+ERROR: el usuario systemd '$APP_USER' no puede acceder a:
+  $PROJECT_ROOT
+
+Esto provoca systemd status=200/CHDIR.
+
+Soluciones:
+  1. Reejecuta con un usuario que pueda entrar en esa ruta:
+     sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root $PROJECT_ROOT --env-file $ENV_FILE --host $HOST --port $PORT --systemd --user ${SUDO_USER:-ubuntu}
+
+  2. O mueve el proyecto a una ruta de servicio como /srv/yeyo y usa --user yeyo.
+EOF
+    exit 1
+  fi
 
   api_service="$(mktemp)"
   cat > "$api_service" <<EOF
