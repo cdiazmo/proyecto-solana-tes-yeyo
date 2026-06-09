@@ -126,6 +126,21 @@ require_cmd() {
   fi
 }
 
+run_as_user() {
+  local user="$1"
+  shift
+  if [[ "$(id -un)" == "$user" ]]; then
+    "$@"
+  elif command -v sudo >/dev/null 2>&1; then
+    sudo -u "$user" "$@"
+  elif command -v runuser >/dev/null 2>&1; then
+    runuser -u "$user" -- "$@"
+  else
+    echo "ERROR: no puedo ejecutar comprobaciones como usuario '$user' porque no existe sudo ni runuser." >&2
+    return 1
+  fi
+}
+
 echo "==> Comprobando prerrequisitos del sistema"
 require_cmd git "Instala git antes de ejecutar este script."
 require_cmd sqlite3 "Instala sqlite3 antes de ejecutar este script."
@@ -250,7 +265,7 @@ if [[ "$INSTALL_SYSTEMD" == "1" ]]; then
     $SUDO useradd --system --create-home --shell /usr/sbin/nologin "$APP_USER"
   fi
   $SUDO chown -R "$APP_USER:$APP_USER" "$PROJECT_ROOT/.yeyo-agents/data" "$PROJECT_ROOT/.venv"
-  if ! $SUDO -u "$APP_USER" test -x "$PROJECT_ROOT" >/dev/null 2>&1; then
+  if ! run_as_user "$APP_USER" test -x "$PROJECT_ROOT" >/dev/null 2>&1; then
     cat >&2 <<EOF
 ERROR: el usuario systemd '$APP_USER' no puede acceder a:
   $PROJECT_ROOT
