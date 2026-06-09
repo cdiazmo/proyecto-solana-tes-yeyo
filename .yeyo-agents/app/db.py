@@ -21,6 +21,34 @@ def document_conn() -> sqlite3.Connection:
     return conn
 
 
+def validate_document_db() -> None:
+    if not DOCUMENT_DB.exists():
+        raise FileNotFoundError(f"No existe la base documental: {DOCUMENT_DB}")
+    header = DOCUMENT_DB.read_bytes()[:64]
+    if header.startswith(b"version https://git-lfs.github.com/spec"):
+        raise RuntimeError(
+            f"La base documental parece un puntero de Git LFS, no una SQLite real: {DOCUMENT_DB}. "
+            "Ejecuta `git lfs pull` en el servidor."
+        )
+    if not header.startswith(b"SQLite format 3\x00"):
+        raise RuntimeError(f"La base documental no tiene cabecera SQLite valida: {DOCUMENT_DB}")
+    try:
+        with document_conn() as conn:
+            integrity = conn.execute("PRAGMA integrity_check").fetchone()[0]
+            if integrity != "ok":
+                raise RuntimeError(f"PRAGMA integrity_check devolvio: {integrity}")
+            required = {"documents", "chunks", "chunks_fts"}
+            rows = conn.execute("SELECT name FROM sqlite_master WHERE type IN ('table', 'virtual table')").fetchall()
+            existing = {row["name"] for row in rows}
+            missing = sorted(required - existing)
+            if missing:
+                raise RuntimeError(f"Faltan tablas en la base documental: {', '.join(missing)}")
+            conn.execute("SELECT COUNT(*) FROM documents").fetchone()
+            conn.execute("SELECT COUNT(*) FROM chunks").fetchone()
+    except sqlite3.DatabaseError as exc:
+        raise RuntimeError(f"No se pudo validar la base documental {DOCUMENT_DB}: {exc}") from exc
+
+
 def agent_conn() -> sqlite3.Connection:
     AGENT_DB.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(AGENT_DB)
@@ -141,6 +169,5 @@ def audit(actor_id: int | None, action: str, target_type: str | None = None, tar
 
 
 def ensure_paths() -> None:
-    if not DOCUMENT_DB.exists():
-        raise FileNotFoundError(f"No existe la base documental: {DOCUMENT_DB}")
+    validate_document_db()
     Path(AGENT_DB).parent.mkdir(parents=True, exist_ok=True)

@@ -65,6 +65,30 @@ Para procesar la cola automáticamente:
 .venv/bin/python .yeyo-agents/scripts/run_custodian.py
 ```
 
+## Despliegue Ubuntu automatizado
+
+Desde la raíz del repositorio en Ubuntu:
+
+```bash
+bash .yeyo-agents/scripts/deploy_ubuntu.sh --host 0.0.0.0 --port 8081
+```
+
+El script instala paquetes de sistema, Git LFS, dependencias Python, descarga objetos LFS, crea `.venv`, escribe `/etc/yeyo-agents.env`, valida la base SQLite y prepara la base operativa de agentes.
+
+Para instalarlo como servicios systemd:
+
+```bash
+sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root /home/ubuntu/incegex/proyecto-solana-tes-yeyo --host 0.0.0.0 --port 8081 --systemd
+```
+
+Variables útiles:
+
+```bash
+YEYO_ADMIN_TOKEN=token-seguro GEMINI_API_KEY=... bash .yeyo-agents/scripts/deploy_ubuntu.sh --host 0.0.0.0 --port 8081
+```
+
+Si `GEMINI_API_KEY` se deja vacío, el sistema funciona en modo extractivo local.
+
 ## Uso sin IA externa
 
 Si `GEMINI_API_KEY` no está configurada, el sistema no llama a ningún backend externo. En ese modo:
