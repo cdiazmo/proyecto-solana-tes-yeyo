@@ -73,12 +73,12 @@ Desde la raíz del repositorio en Ubuntu:
 bash .yeyo-agents/scripts/deploy_ubuntu.sh --host 0.0.0.0 --port 8081
 ```
 
-El script instala paquetes de sistema, Git LFS, dependencias Python, descarga objetos LFS, crea `.venv`, escribe `/etc/yeyo-agents.env`, valida la base SQLite y prepara la base operativa de agentes.
+El script comprueba prerrequisitos del sistema, descarga objetos LFS, crea `.venv`, instala dependencias Python, actualiza `.yeyo-agents/config/local.env`, valida la base SQLite y prepara la base operativa de agentes. No ejecuta `apt-get`; instala antes `git`, `git-lfs`, `sqlite3`, `python3-venv` y, si quieres OCR local, `poppler-utils` y `tesseract-ocr`.
 
 Para instalarlo como servicios systemd:
 
 ```bash
-sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root /home/ubuntu/incegex/proyecto-solana-tes-yeyo --host 0.0.0.0 --port 8081 --systemd
+sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root /home/ubuntu/incegex/proyecto-solana-tes-yeyo --env-file /home/ubuntu/incegex/proyecto-solana-tes-yeyo/.yeyo-agents/config/local.env --host 0.0.0.0 --port 8081 --systemd
 ```
 
 Variables útiles:

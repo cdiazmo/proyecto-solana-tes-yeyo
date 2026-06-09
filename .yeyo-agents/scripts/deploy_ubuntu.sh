@@ -7,7 +7,7 @@ PORT="${PORT:-8081}"
 INSTALL_SYSTEMD="${INSTALL_SYSTEMD:-0}"
 INSTALL_OCR="${INSTALL_OCR:-1}"
 PROJECT_ROOT="${PROJECT_ROOT:-}"
-ENV_FILE="${ENV_FILE:-/etc/yeyo-agents.env}"
+ENV_FILE="${ENV_FILE:-}"
 PYTHON_BIN="${PYTHON_BIN:-}"
 
 usage() {
@@ -20,9 +20,9 @@ Opciones:
   --host HOST          Host de Uvicorn. Por defecto: 127.0.0.1.
   --port PORT          Puerto de Uvicorn. Por defecto: 8081.
   --user USER          Usuario systemd. Por defecto: yeyo.
-  --env-file PATH      Fichero de entorno. Por defecto: /etc/yeyo-agents.env.
+  --env-file PATH      Fichero de entorno. Por defecto: .yeyo-agents/config/local.env.
   --systemd            Instala y arranca servicios systemd.
-  --no-ocr             No instala paquetes OCR locales.
+  --no-ocr             No comprueba herramientas OCR locales.
   --python PATH        Python concreto a usar.
   -h, --help           Muestra esta ayuda.
 
@@ -88,17 +88,23 @@ PROJECT_ROOT="$(cd "$PROJECT_ROOT" && pwd)"
 
 cd "$PROJECT_ROOT"
 
+if [[ -z "$ENV_FILE" ]]; then
+  ENV_FILE="$PROJECT_ROOT/.yeyo-agents/config/local.env"
+elif [[ "$ENV_FILE" != /* ]]; then
+  ENV_FILE="$PROJECT_ROOT/$ENV_FILE"
+fi
+
 if [[ ! -d ".yeyo-agents" || ! -f ".yeyo-agents/requirements.txt" ]]; then
   echo "ERROR: $PROJECT_ROOT no parece ser la raiz del proyecto Yeyo." >&2
   exit 1
 fi
 
 SUDO=""
-if [[ "${EUID:-$(id -u)}" -ne 0 ]]; then
+if [[ "$INSTALL_SYSTEMD" == "1" && "${EUID:-$(id -u)}" -ne 0 ]]; then
   if command -v sudo >/dev/null 2>&1; then
     SUDO="sudo"
   else
-    echo "ERROR: se necesita root o sudo para instalar paquetes." >&2
+    echo "ERROR: se necesita root o sudo para instalar servicios systemd." >&2
     exit 1
   fi
 fi
@@ -107,20 +113,26 @@ echo "==> Proyecto: $PROJECT_ROOT"
 echo "==> Host/Puerto: $HOST:$PORT"
 echo "==> Env file: $ENV_FILE"
 
-echo "==> Instalando paquetes de sistema"
-$SUDO apt-get update
-packages=(
-  git
-  git-lfs
-  sqlite3
-  python3
-  python3-venv
-  python3-pip
-)
-if [[ "$INSTALL_OCR" == "1" ]]; then
-  packages+=(poppler-utils tesseract-ocr tesseract-ocr-spa tesseract-ocr-eng)
+require_cmd() {
+  local name="$1"
+  local hint="$2"
+  if ! command -v "$name" >/dev/null 2>&1; then
+    echo "ERROR: falta '$name'. $hint" >&2
+    exit 1
+  fi
+}
+
+echo "==> Comprobando prerrequisitos del sistema"
+require_cmd git "Instala git antes de ejecutar este script."
+require_cmd sqlite3 "Instala sqlite3 antes de ejecutar este script."
+if ! git lfs version >/dev/null 2>&1; then
+  echo "ERROR: falta Git LFS. Instala git-lfs antes de ejecutar este script." >&2
+  exit 1
 fi
-$SUDO apt-get install -y "${packages[@]}"
+if [[ "$INSTALL_OCR" == "1" ]]; then
+  require_cmd pdftoppm "Instala poppler-utils o ejecuta con --no-ocr."
+  require_cmd tesseract "Instala tesseract-ocr o ejecuta con --no-ocr."
+fi
 
 echo "==> Activando Git LFS y descargando objetos grandes"
 git lfs install --local || git lfs install
@@ -145,27 +157,47 @@ echo "==> Instalando dependencias Python"
 .venv/bin/python -m pip install --upgrade pip wheel
 .venv/bin/pip install -r .yeyo-agents/requirements.txt
 
+shell_quote() {
+  local value="${1:-}"
+  printf "'%s'" "${value//\'/\'\\\'\'}"
+}
+
 echo "==> Creando fichero de entorno"
+if [[ -f "$ENV_FILE" ]]; then
+  set -a
+  # shellcheck disable=SC1090
+  . "$ENV_FILE"
+  set +a
+fi
 admin_token="${YEYO_ADMIN_TOKEN:-yeyo_admin_token}"
 gemini_key="${GEMINI_API_KEY:-}"
 gemini_model="${GEMINI_MODEL:-gemini-3.5-flash}"
 max_chunks="${YEYO_MAX_CONTEXT_CHUNKS:-8}"
 max_chars="${YEYO_MAX_CONTEXT_CHARS:-14000}"
 
-$SUDO install -d -m 0755 "$(dirname "$ENV_FILE")"
+install_dir="$(dirname "$ENV_FILE")"
+if [[ "$install_dir" == "$PROJECT_ROOT"* && "${EUID:-$(id -u)}" -ne 0 ]]; then
+  install -d -m 0755 "$install_dir"
+else
+  $SUDO install -d -m 0755 "$install_dir"
+fi
 tmp_env="$(mktemp)"
 cat > "$tmp_env" <<EOF
-YEYO_ROOT=$PROJECT_ROOT
-YEYO_DOCUMENT_DB=$PROJECT_ROOT/.yeyo-memory/sqlite/yeyo-memory.sqlite
-YEYO_AGENT_DB=$PROJECT_ROOT/.yeyo-agents/data/agents.sqlite
-YEYO_APP_NAME=Gestion Documental
+YEYO_ROOT=$(shell_quote "$PROJECT_ROOT")
+YEYO_DOCUMENT_DB=$(shell_quote "$PROJECT_ROOT/.yeyo-memory/sqlite/yeyo-memory.sqlite")
+YEYO_AGENT_DB=$(shell_quote "$PROJECT_ROOT/.yeyo-agents/data/agents.sqlite")
+YEYO_APP_NAME=$(shell_quote "${YEYO_APP_NAME:-Gestión Documental}")
 YEYO_MAX_CONTEXT_CHUNKS=$max_chunks
 YEYO_MAX_CONTEXT_CHARS=$max_chars
-GEMINI_API_KEY=$gemini_key
-GEMINI_MODEL=$gemini_model
-YEYO_ADMIN_TOKEN=$admin_token
+GEMINI_API_KEY=$(shell_quote "$gemini_key")
+GEMINI_MODEL=$(shell_quote "$gemini_model")
+YEYO_ADMIN_TOKEN=$(shell_quote "$admin_token")
 EOF
-$SUDO install -m 0600 "$tmp_env" "$ENV_FILE"
+if [[ "$install_dir" == "$PROJECT_ROOT"* && "${EUID:-$(id -u)}" -ne 0 ]]; then
+  install -m 0600 "$tmp_env" "$ENV_FILE"
+else
+  $SUDO install -m 0600 "$tmp_env" "$ENV_FILE"
+fi
 rm -f "$tmp_env"
 
 echo "==> Validando base documental"
@@ -283,7 +315,6 @@ Token admin inicial:
   $admin_token
 
 Para instalar servicios systemd:
-  sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root $PROJECT_ROOT --host $HOST --port $PORT --systemd
+  sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root $PROJECT_ROOT --env-file $ENV_FILE --host $HOST --port $PORT --systemd
 EOF
 fi
-
