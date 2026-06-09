@@ -265,20 +265,16 @@ if [[ "$INSTALL_SYSTEMD" == "1" ]]; then
     $SUDO useradd --system --create-home --shell /usr/sbin/nologin "$APP_USER"
   fi
   $SUDO chown -R "$APP_USER:$APP_USER" "$PROJECT_ROOT/.yeyo-agents/data" "$PROJECT_ROOT/.venv"
-  if ! run_as_user "$APP_USER" test -x "$PROJECT_ROOT" >/dev/null 2>&1; then
+  if ! run_as_user "$APP_USER" /bin/sh -c 'cd "$1"' sh "$PROJECT_ROOT" >/dev/null 2>&1; then
     cat >&2 <<EOF
-ERROR: el usuario systemd '$APP_USER' no puede acceder a:
+AVISO: no he podido verificar desde el script que el usuario systemd '$APP_USER' pueda acceder a:
   $PROJECT_ROOT
 
-Esto provoca systemd status=200/CHDIR.
+Si systemd falla con status=200/CHDIR, comprueba permisos con:
+  namei -l $PROJECT_ROOT
 
-Soluciones:
-  1. Reejecuta con un usuario que pueda entrar en esa ruta:
-     sudo bash .yeyo-agents/scripts/deploy_ubuntu.sh --root $PROJECT_ROOT --env-file $ENV_FILE --host $HOST --port $PORT --systemd --user ${SUDO_USER:-ubuntu}
-
-  2. O mueve el proyecto a una ruta de servicio como /srv/yeyo y usa --user yeyo.
+Continuo igualmente porque el usuario solicitado es '$APP_USER'.
 EOF
-    exit 1
   fi
 
   api_service="$(mktemp)"
