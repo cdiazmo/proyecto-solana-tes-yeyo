@@ -12,7 +12,7 @@ from pydantic import BaseModel, Field
 
 from .custodian import enqueue_request, get_request, list_requests, run_next_request
 from .db import create_user, ensure_paths, find_user_by_token, init_agent_db, agent_conn, document_conn, audit
-from .retrieval import inventory_stats, search_chunks, search_documents
+from .retrieval import inventory_stats, search_chunks, search_documents, search_registry_keys
 from .settings import APP_NAME, STATIC_DIR, ROOT, YEYO_ADMIN_TOKEN
 
 
@@ -102,6 +102,11 @@ def api_search_chunks(data: QueryIn, user: Annotated[dict[str, Any], Depends(cur
 @app.post("/api/search/documents")
 def api_search_documents(data: QueryIn, user: Annotated[dict[str, Any], Depends(current_user)]) -> dict[str, Any]:
     return {"results": search_documents(data.query, data.limit)}
+
+
+@app.post("/api/search/registry-keys")
+def api_search_registry_keys(data: QueryIn, user: Annotated[dict[str, Any], Depends(current_user)]) -> dict[str, Any]:
+    return {"results": search_registry_keys(data.query, data.limit)}
 
 
 @app.post("/api/requests")

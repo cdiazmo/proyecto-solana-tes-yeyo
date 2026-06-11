@@ -20,6 +20,7 @@ from .settings import MAX_CONTEXT_CHARS, MAX_CONTEXT_CHUNKS
 
 
 TOKEN_RE = re.compile(r"[\wÁÉÍÓÚÜÑáéíóúüñ.-]+", re.UNICODE)
+REGISTRY_KEY_RE = re.compile(r"(?<![A-Z0-9])([A-Z]{1,6})[-_ ]?(\d{4,10})(?![A-Z0-9])", re.I)
 
 
 def strip_accents(text: str) -> str:
@@ -158,6 +159,48 @@ def search_documents(query: str, limit: int = 20) -> list[dict[str, Any]]:
     return [dict(row) for row in rows]
 
 
+def normalize_registry_key(value: str) -> str:
+    match = REGISTRY_KEY_RE.search(value.upper())
+    if not match:
+        return value.upper().strip()
+    return f"{match.group(1).upper()}-{match.group(2)}"
+
+
+def search_registry_keys(query: str, limit: int = 20) -> list[dict[str, Any]]:
+    normalized = normalize_registry_key(query)
+    key_tokens = [f"{match.group(1).upper()}-{match.group(2)}" for match in REGISTRY_KEY_RE.finditer(query)]
+    raw_terms = TOKEN_RE.findall(query)
+    prefix_terms = [term for term in raw_terms if re.fullmatch(r"[A-Z]{2,8}", term)]
+    if not key_tokens and not prefix_terms:
+        return []
+    where_parts = []
+    params: list[str | int] = []
+    for key in key_tokens:
+        where_parts.extend(["key = ?", "key LIKE ?"])
+        params.extend([key, f"%{key}%"])
+    for prefix in prefix_terms[:4]:
+        where_parts.append("prefix = ?")
+        params.append(prefix)
+    params.append(limit)
+    with document_conn() as conn:
+        table = conn.execute(
+            "SELECT name FROM sqlite_master WHERE type='table' AND name='registry_keys'"
+        ).fetchone()
+        if not table:
+            return []
+        rows = conn.execute(
+            f"""
+            SELECT key, prefix, number, path, source, field, location, context
+            FROM registry_keys
+            WHERE {" OR ".join(where_parts)}
+            ORDER BY key, path, source, location
+            LIMIT ?
+            """,
+            params,
+        ).fetchall()
+    return [dict(row) for row in rows]
+
+
 def get_chunk_location(doc_id: str, chunk_text: str) -> tuple[str | None, int | None]:
     try:
         extracted_file = Path(".yeyo-memory/extracted") / f"{doc_id}.txt"
@@ -200,6 +243,7 @@ def build_context(query: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]
     matched_docs = search_documents(query, limit=25)
     # Search relevant chunks
     chunks = search_chunks(query, limit=MAX_CONTEXT_CHUNKS)
+    registry_hits = search_registry_keys(query, limit=20)
     
     parts: list[str] = []
     
@@ -213,6 +257,17 @@ def build_context(query: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]
                 f"Título: {doc.get('title') or '-'}\n"
                 f"Código: {doc.get('doc_code') or '-'}\n"
                 f"Estado en BD: {doc['status']}"
+            )
+        parts.append("---")
+
+    if registry_hits:
+        parts.append("### CLAVES DE REGISTRO COINCIDENTES:")
+        for idx, hit in enumerate(registry_hits, start=1):
+            parts.append(
+                f"Clave #{idx}: {hit['key']}\n"
+                f"Ruta: {hit['path']}\n"
+                f"Fuente: {hit['source']} / {hit['field']} / {hit.get('location') or '-'}\n"
+                f"Contexto: {hit.get('context') or '-'}"
             )
         parts.append("---")
         
@@ -270,4 +325,3 @@ def inventory_stats() -> dict[str, Any]:
     totals["by_ext"] = by_ext
     totals["by_status"] = by_status
     return totals
-

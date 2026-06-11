@@ -13,6 +13,7 @@ from pathlib import Path
 ROOT = Path.cwd()
 DB_PATH = ROOT / ".yeyo-memory" / "sqlite" / "yeyo-memory.sqlite"
 REPORTS_DIR = ROOT / ".yeyo-memory" / "reports"
+REGISTRY_TOKEN_RE = re.compile(r"(?<![A-Z0-9])([A-Z]{2,8})[-_ ]+(\d{4,10})(?![A-Z0-9])", re.I)
 
 
 SYNONYMS = {
@@ -165,6 +166,43 @@ def metadata_candidates(conn: sqlite3.Connection, query_terms: list[str], normal
     return candidates[:limit]
 
 
+def registry_key_candidates(conn: sqlite3.Connection, query: str, query_terms: list[str], limit: int) -> list[dict]:
+    table = conn.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='registry_keys'").fetchone()
+    if not table:
+        return []
+    normalized = query.upper().replace("_", "-").strip()
+    key_tokens = [f"{match.group(1).upper()}-{match.group(2)}" for match in REGISTRY_TOKEN_RE.finditer(query)]
+    raw_terms = re.findall(r"[\wÁÉÍÓÚÜÑáéíóúüñ.-]+", query)
+    prefix_terms = [term for term in raw_terms if re.fullmatch(r"[A-Z]{2,8}", term)]
+    if not key_tokens and not prefix_terms:
+        return []
+    where_parts = []
+    params: list[str | int] = []
+    for key in key_tokens:
+        where_parts.extend(["key = ?", "key LIKE ?"])
+        params.extend([key, f"%{key}%"])
+    for prefix in prefix_terms[:4]:
+        where_parts.append("prefix = ?")
+        params.append(prefix)
+    params.append(limit)
+    rows = conn.execute(
+        f"""
+        SELECT key, prefix, number, document_id, path, source, field, location, context
+        FROM registry_keys
+        WHERE {" OR ".join(where_parts)}
+        ORDER BY
+            CASE WHEN key = ? THEN 0 ELSE 1 END,
+            key,
+            path,
+            source,
+            location
+        LIMIT ?
+        """,
+        [*params[:-1], normalized, params[-1]],
+    ).fetchall()
+    return [dict(row) for row in rows]
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Search the local Yeyo document memory.")
     parser.add_argument("query", help="FTS query, for example: heat tracing")
@@ -180,6 +218,7 @@ def main() -> int:
     normalized_query = normalize(args.query)
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
+    registry_hits = registry_key_candidates(conn, args.query, query_terms, min(args.limit, 20))
     rows = conn.execute(
         """
         SELECT
@@ -257,9 +296,22 @@ def main() -> int:
         if len(selected) >= args.limit:
             break
 
+    if registry_hits and not args.json:
+        print("== Claves indexadas ==")
+        for hit in registry_hits:
+            print(f"{hit['key']} | {hit['path']}")
+            print(f"  source={hit['source']} field={hit['field']} location={hit.get('location') or '-'}")
+            if hit.get("context"):
+                print(f"  {hit['context']}")
+            print()
+
+    if registry_hits and args.json:
+        for hit in registry_hits:
+            print(json.dumps({"type": "registry_key", **hit}, ensure_ascii=False))
+
     for data in selected:
         if args.json:
-            print(json.dumps(data, ensure_ascii=False))
+            print(json.dumps({"type": "chunk", **data}, ensure_ascii=False))
         else:
             print(f"{data['id']} | score={data['rank_score']} | {data['path']}")
             if data.get("doc_code") or data.get("revision"):

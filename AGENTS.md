@@ -89,6 +89,8 @@ Resultados principales:
 - `.yeyo-memory/reports/ai-features.md`: features de filtrado para IA.
 - `.yeyo-memory/reports/ai-readiness.md`: ranking RAG/IA y OCR prioritario.
 - `.yeyo-memory/reports/ocr-priority.csv`: cola recomendada de OCR selectivo.
+- `.yeyo-memory/reports/registry-keys.md`: resumen de claves tipo registro, por ejemplo `RE-108618`.
+- `.yeyo-memory/reports/registry-keys.csv`: ocurrencias de claves de registro con ruta, fuente y contexto.
 - `.yeyo-memory/context-packs/*.json`: paquetes prefiltrados por parte del proyecto y disciplina.
 - `.yeyo-memory/prompts/*.md`: plantillas de prompts para agentes/IA.
 - `.yeyo-memory/reports/pending-cost-estimate.md`: estimacion de coste pendiente.
@@ -117,6 +119,32 @@ Filtros utiles:
 ```
 
 Usar esto antes de leer archivos grandes.
+
+### Indexar y buscar claves de registro
+
+Para claves tipo `RE-108618`:
+
+```bash
+python3 .yeyo-memory/tools/index_registry_keys.py --prefix RE
+python3 .yeyo-memory/tools/search_registry_keys.py RE-108618
+```
+
+Por defecto exige al menos 4 digitos para evitar falsos positivos como productos `RE 500`. Si hace falta otro formato:
+
+```bash
+python3 .yeyo-memory/tools/index_registry_keys.py --prefix RE --min-digits 6
+python3 .yeyo-memory/tools/index_registry_keys.py --prefix RE --prefix RFI --prefix NCR
+```
+
+Para indexar cualquier clave con prefijo alfabetico de 2-8 letras y numero largo, por ejemplo `RE-108618`, `RFI-0015`, `NCR 12345`:
+
+```bash
+python3 .yeyo-memory/tools/index_registry_keys.py --all-prefixes --min-digits 4
+```
+
+Este modo es amplio y puede encontrar ruido tecnico. La busqueda local y la API solo activan el indice de claves cuando la consulta contiene una clave completa o un prefijo en mayusculas, para no contaminar busquedas normales.
+
+El indice se guarda tambien en SQLite en la tabla `registry_keys`. La API multiagente expone `POST /api/search/registry-keys` y añade estas coincidencias al contexto si la consulta contiene una clave.
 
 ### Generar informes PDF
 
