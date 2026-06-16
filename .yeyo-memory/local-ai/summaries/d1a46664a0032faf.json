@@ -1,0 +1,54 @@
+{
+  "doc_id": "d1a46664a0032faf",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0002-GAR_REV 1_Heat Treatment Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0002-GAR REV 1 Heat Treatment Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- El procedimiento se aplica a la soldadura de construcciones generales y cupones de prueba de producción para SOLANA SOLAR POWER PLANT.\n- Se requiere el uso de hornos cerrados de gas para el tratamiento térmico post-soldadura.\n- Las piezas deben estar libres de grasa, pintura y otras sustancias inflamables antes del tratamiento.\n- Los equipos se colocan en el horno de manera uniforme y sin contacto directo con la llama.\n- Los testigos de producción son sometidos a los mismos ciclos de tratamiento que el recipiente.\n- Las piezas deben estar bien soportadas en el horno para evitar deformaciones.\n- Los quemadores deben estar regulados para evitar oxidación excesiva.\n- El PWHT final se realiza después de todas las operaciones de soldadura y reparación.\n- Los tratamientos térmicos son realizados por una subcontrata en el taller de LOINTEK.\n- Se requiere un gráfico de tiempo/temperatura para medir la temperatura durante el tratamiento térmico.\n- La diferencia de temperatura entre termopares debe mantenerse menor a 80°C durante el calentamiento y enfriamiento.\n- Los termopares deben ser sujetados por chispas o unidos mecánicamente, y retirados con esmerilado para evitar daño al material.",
+  "summary_points": [
+    "El procedimiento se aplica a la soldadura de construcciones generales y cupones de prueba de producción para SOLANA SOLAR POWER PLANT.",
+    "Se requiere el uso de hornos cerrados de gas para el tratamiento térmico post-soldadura.",
+    "Las piezas deben estar libres de grasa, pintura y otras sustancias inflamables antes del tratamiento.",
+    "Los equipos se colocan en el horno de manera uniforme y sin contacto directo con la llama.",
+    "Los testigos de producción son sometidos a los mismos ciclos de tratamiento que el recipiente.",
+    "Las piezas deben estar bien soportadas en el horno para evitar deformaciones.",
+    "Los quemadores deben estar regulados para evitar oxidación excesiva.",
+    "El PWHT final se realiza después de todas las operaciones de soldadura y reparación.",
+    "Los tratamientos térmicos son realizados por una subcontrata en el taller de LOINTEK.",
+    "Se requiere un gráfico de tiempo/temperatura para medir la temperatura durante el tratamiento térmico.",
+    "La diferencia de temperatura entre termopares debe mantenerse menor a 80°C durante el calentamiento y enfriamiento.",
+    "Los termopares deben ser sujetados por chispas o unidos mecánicamente, y retirados con esmerilado para evitar daño al material.",
+    "El reporte del tratamiento térmico debe incluir información detallada y ser aprobado por el responsable de calidad."
+  ],
+  "keywords": [
+    "ASME VIII Div. 2 TEMA R",
+    "195001-DWG-120",
+    "4521-PLN-LOI-039-062-0002-GAR",
+    "195001-PTT-001",
+    "LOINTEK, S.L."
+  ],
+  "references": [
+    "ASME VIII Div. 2 TEMA R",
+    "195001-DWG-120",
+    "4521-PLN-LOI-039-062-0002-GAR",
+    "195001-PTT-001",
+    "LOINTEK, S.L."
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d1a46664a0032faf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d1a46664a0032faf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:37:48.347434+00:00",
+  "usage": {
+    "input_tokens": 3981,
+    "output_tokens": 2631,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12114
+}

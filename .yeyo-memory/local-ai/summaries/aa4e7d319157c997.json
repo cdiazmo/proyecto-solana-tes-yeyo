@@ -1,0 +1,45 @@
+{
+  "doc_id": "aa4e7d319157c997",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/1950201-TPP-001.00 _Repairing Procedure.pdf",
+  "title": "1950201-TPP-001.00 Repairing Procedure",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines a procedure for repairing and isolating leaking tubes using plugs, detailing the materials required, steps involved, and quality checks.",
+  "summary_points": [
+    "This document outlines a procedure for repairing and isolating leaking tubes using plugs, detailing the materials required, steps involved, and quality checks."
+  ],
+  "keywords": [
+    "tube plugging",
+    "oil to salt hex",
+    "repair procedure",
+    "SA-105",
+    "SA-210 A-1",
+    "tubesheet welding",
+    "dye penetrants"
+  ],
+  "references": [
+    "TD-INS-SLN-006",
+    "1950201-PTT-001",
+    "RMS",
+    "AAG"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/aa4e7d319157c997.md",
+  "source_extracted_path": ".yeyo-memory/extracted/aa4e7d319157c997.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:54:45.538734+00:00",
+  "usage": {
+    "input_tokens": 1836,
+    "output_tokens": 497,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4198
+}

@@ -1,0 +1,55 @@
+{
+  "doc_id": "2dad800f4e286218",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-ANC-27-41-S250V Mechanical Electrical Heat Trace Installation S....pdf",
+  "title": "4521-ESP-ANC-27-41-S250V Mechanical Electrical Heat Trace Installation S...",
+  "doc_code": "4521-ESP-ANC-27-41-S250V",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Contract allows alternate billing cycles other than thirty days.\n- Vendor data submission must include specific information like corporate name, project number, etc.\n- Documents must be unique, in black and white PDF format, and follow naming conventions.\n- Failure to comply with guidelines can result in payment delays.\n- Confidential information must be handled according to contract terms.\n- Electronic files must be of sufficient quality for legible prints.\n- Drawings must be submitted in specific formats and include necessary details.\n- Software files must be zipped and meet document requirements.\n- Exceptions allowed if vendor cannot provide documents electronically.\n- Vendor data requirement includes electrical material data sheets and inspection/testing sheets.",
+  "summary_points": [
+    "Contract allows alternate billing cycles other than thirty days.",
+    "Vendor data submission must include specific information like corporate name, project number, etc.",
+    "Documents must be unique, in black and white PDF format, and follow naming conventions.",
+    "Failure to comply with guidelines can result in payment delays.",
+    "Confidential information must be handled according to contract terms.",
+    "Electronic files must be of sufficient quality for legible prints.",
+    "Drawings must be submitted in specific formats and include necessary details.",
+    "Software files must be zipped and meet document requirements.",
+    "Exceptions allowed if vendor cannot provide documents electronically.",
+    "Vendor data requirement includes electrical material data sheets and inspection/testing sheets."
+  ],
+  "keywords": [
+    "Teyma USA & Abener Engineering and Construction Services General Partnerships",
+    "Prolog Website",
+    "4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048",
+    "ABENER Document No:4521-ESP-ANC-27-41-S250V",
+    "Job No:120006",
+    "Project:Solana"
+  ],
+  "references": [
+    "Teyma USA & Abener Engineering and Construction Services General Partnerships",
+    "Prolog Website",
+    "4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048",
+    "ABENER Document No:4521-ESP-ANC-27-41-S250V",
+    "Job No:120006",
+    "Project:Solana"
+  ],
+  "warnings": [
+    "Potential illegible output of color text/lines if not converted to black."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2dad800f4e286218.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2dad800f4e286218.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:21:47.546878+00:00",
+  "usage": {
+    "input_tokens": 2837,
+    "output_tokens": 1886,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9868
+}

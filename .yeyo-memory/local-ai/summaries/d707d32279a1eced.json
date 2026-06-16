@@ -1,0 +1,61 @@
+{
+  "doc_id": "d707d32279a1eced",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-64-0005_R1.pdf",
+  "title": "4521-ESP-AGE-39-64-0005 R1",
+  "doc_code": "4521-ESP-AGE-39-64-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document is an engineering specification for the supply of instruments for the Solana project.\n- The scope includes all instruments, cables, gaskets, manifolds, etc., as identified in the main specification.\n- Supplier must provide a single contact person to monitor and track material purchased under this contract.\n- Confidentiality measures are in place regarding the information contained within the document.\n- Gate valve - On/Off specifications for Solana project\n- Vendor data requirements including 'Vendor Commitment'\n- Equipment delivery details with strict schedule\n- Spare parts list required with price and delivery information\n- Inspection by Abener Teyma personnel before shipment\n- Alternate billing cycle notice available from designated agent\n- Confidentiality of information and know-how\n- Abener Teyma's right to perform inspection activities",
+  "summary_points": [
+    "This document is an engineering specification for the supply of instruments for the Solana project.",
+    "The scope includes all instruments, cables, gaskets, manifolds, etc., as identified in the main specification.",
+    "Supplier must provide a single contact person to monitor and track material purchased under this contract.",
+    "Confidentiality measures are in place regarding the information contained within the document.",
+    "Gate valve - On/Off specifications for Solana project",
+    "Vendor data requirements including 'Vendor Commitment'",
+    "Equipment delivery details with strict schedule",
+    "Spare parts list required with price and delivery information",
+    "Inspection by Abener Teyma personnel before shipment",
+    "Alternate billing cycle notice available from designated agent",
+    "Confidentiality of information and know-how",
+    "Abener Teyma's right to perform inspection activities",
+    "Recommendations solicited for price, delivery, or performance improvement",
+    "Specifications prepared using accepted engineering practices"
+  ],
+  "keywords": [
+    "EC-98",
+    "Solana Project",
+    "RFQ No.",
+    "Job: 120006 Spec No.: 4521-ESP-AGE-39-64-0005",
+    "Project: Solana",
+    "Issue: 1 Dated:",
+    "VRG VOID Specification Form - Solana (Rev. 3/2011) EC-98"
+  ],
+  "references": [
+    "EC-98",
+    "Solana Project",
+    "RFQ No.",
+    "Job: 120006 Spec No.: 4521-ESP-AGE-39-64-0005",
+    "Project: Solana",
+    "Issue: 1 Dated:",
+    "VRG VOID Specification Form - Solana (Rev. 3/2011) EC-98"
+  ],
+  "warnings": [
+    "Repeating text about valve shipment deadlines, consider consolidating."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d707d32279a1eced.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d707d32279a1eced.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T16:30:31.063775+00:00",
+  "usage": {
+    "input_tokens": 19922,
+    "output_tokens": 9321,
+    "calls": 8
+  },
+  "repaired_calls": 3,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 33162
+}

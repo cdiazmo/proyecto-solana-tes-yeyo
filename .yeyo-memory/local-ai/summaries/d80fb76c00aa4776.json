@@ -1,0 +1,54 @@
+{
+  "doc_id": "d80fb76c00aa4776",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-00-61-PS002V.pdf",
+  "title": "4521-ESP-ANC-00-61-PS002V",
+  "doc_code": "4521-ESP-ANC-00-61-PS002V",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Contract allows alternate billing cycles other than thirty days.\n- Vendor data submission instructions include electronic format and specific information requirements.\n- Documents must have unique numbers and be in black and white PDF format.\n- Failure to comply with guidelines can result in payment delays.\n- Documents must be submitted as single e-files, not multi-page PDFs unless they represent a single document.\n- All documents should be in English and use US-Customary units.\n- Vendors must certify drawings, list changes with dates and descriptions, and notify of any design changes within 5 days.\n- Final drawings must be submitted in both \".pdf\" and \".dwg\" formats.\n- BOMs must include OEM names, equipment part numbers, and ratings.\n- Software files must be zipped and meet document requirements.\n- Exceptions for non-electronic submissions require justification and approval from Abener Teyma.",
+  "summary_points": [
+    "Contract allows alternate billing cycles other than thirty days.",
+    "Vendor data submission instructions include electronic format and specific information requirements.",
+    "Documents must have unique numbers and be in black and white PDF format.",
+    "Failure to comply with guidelines can result in payment delays.",
+    "Documents must be submitted as single e-files, not multi-page PDFs unless they represent a single document.",
+    "All documents should be in English and use US-Customary units.",
+    "Vendors must certify drawings, list changes with dates and descriptions, and notify of any design changes within 5 days.",
+    "Final drawings must be submitted in both \".pdf\" and \".dwg\" formats.",
+    "BOMs must include OEM names, equipment part numbers, and ratings.",
+    "Software files must be zipped and meet document requirements.",
+    "Exceptions for non-electronic submissions require justification and approval from Abener Teyma."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-00-61-PS002V",
+    "Abener Document No: 4521-ESP-ANC-00-61-PS002V",
+    "Job No: 120006",
+    "Project: Solana",
+    "Abener Engineering and Construction Services, LLC",
+    "Chesterfield, MO 63017"
+  ],
+  "references": [
+    "4521-ESP-ANC-00-61-PS002V",
+    "Abener Document No: 4521-ESP-ANC-00-61-PS002V",
+    "Job No: 120006",
+    "Project: Solana",
+    "Abener Engineering and Construction Services, LLC",
+    "Chesterfield, MO 63017"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d80fb76c00aa4776.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d80fb76c00aa4776.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:27:33.971232+00:00",
+  "usage": {
+    "input_tokens": 3231,
+    "output_tokens": 1899,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11398
+}

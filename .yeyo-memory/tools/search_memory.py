@@ -166,24 +166,23 @@ def metadata_candidates(conn: sqlite3.Connection, query_terms: list[str], normal
     return candidates[:limit]
 
 
+def extract_registry_key_tokens(query: str) -> list[str]:
+    return [f"{match.group(1).upper()}-{match.group(2)}" for match in REGISTRY_TOKEN_RE.finditer(query)]
+
+
 def registry_key_candidates(conn: sqlite3.Connection, query: str, query_terms: list[str], limit: int) -> list[dict]:
     table = conn.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='registry_keys'").fetchone()
     if not table:
         return []
     normalized = query.upper().replace("_", "-").strip()
-    key_tokens = [f"{match.group(1).upper()}-{match.group(2)}" for match in REGISTRY_TOKEN_RE.finditer(query)]
-    raw_terms = re.findall(r"[\wÁÉÍÓÚÜÑáéíóúüñ.-]+", query)
-    prefix_terms = [term for term in raw_terms if re.fullmatch(r"[A-Z]{2,8}", term)]
-    if not key_tokens and not prefix_terms:
+    key_tokens = extract_registry_key_tokens(query)
+    if not key_tokens:
         return []
     where_parts = []
     params: list[str | int] = []
     for key in key_tokens:
         where_parts.extend(["key = ?", "key LIKE ?"])
         params.extend([key, f"%{key}%"])
-    for prefix in prefix_terms[:4]:
-        where_parts.append("prefix = ?")
-        params.append(prefix)
     params.append(limit)
     rows = conn.execute(
         f"""

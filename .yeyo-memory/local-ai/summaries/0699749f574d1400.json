@@ -1,0 +1,49 @@
+{
+  "doc_id": "0699749f574d1400",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev01/DRA/4521-PLN-AEE-75-52-0002-GAR_Rev01_sealed.pdf",
+  "title": "4521-PLN-AEE-75-52-0002-GAR Rev01 sealed",
+  "doc_code": "4521-PLN-AEE-75-52-0002",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Drawing of a building with TES tank, drain back tank pit, and TES exchanger foundation. Includes notes on allowable bearing capacity and references to other documents.",
+  "summary_points": [
+    "Drawing of a building with TES tank, drain back tank pit, and TES exchanger foundation. Includes notes on allowable bearing capacity and references to other documents."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-52-0002",
+    "Drain Back Tank",
+    "TES Tank",
+    "Foundation",
+    "Geotechnical Engineer",
+    "Anchor Rod Assemblies",
+    "Handrail Detail",
+    "Base Plate Details"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004",
+    "4521-ESP-ANC-00-50-2300"
+  ],
+  "warnings": [
+    "Text may be OCR-dudoso, especially in scale and location descriptions."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0699749f574d1400.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0699749f574d1400.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:28:06.457812+00:00",
+  "usage": {
+    "input_tokens": 2541,
+    "output_tokens": 579,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6629
+}

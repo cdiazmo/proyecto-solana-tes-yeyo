@@ -1,0 +1,44 @@
+{
+  "doc_id": "f9bd24158ed0f674",
+  "path": "13_Documentos de Inspección Final/418-2nd-Floor-1_20210826_114139_002583.pdf",
+  "title": "418-2nd-Floor-1 20210826 114139 002583",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Special inspections of small to medium foundations at Solana on January 7, 2019. Rebar and forms installation met ACI318-14 standards. Concrete pouring observed with OSHA compliance. Cage assembly approved by Dr. Al Gonzalez.",
+  "summary_points": [
+    "Special inspections of small to medium foundations at Solana on January 7, 2019. Rebar and forms installation met ACI318-14 standards. Concrete pouring observed with OSHA compliance. Cage assembly approved by Dr. Al Gonzalez."
+  ],
+  "keywords": [
+    "Solana",
+    "Inspection",
+    "Rebar",
+    "Forms",
+    "Concrete",
+    "OSHA",
+    "Dr. Al Gonzalez"
+  ],
+  "references": [
+    "ACI318-14",
+    "Speedie and Associates",
+    "Special Inspections Solana"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly names and addresses."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f9bd24158ed0f674.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f9bd24158ed0f674.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:39:21.971239+00:00",
+  "usage": {
+    "input_tokens": 1072,
+    "output_tokens": 442,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2313
+}

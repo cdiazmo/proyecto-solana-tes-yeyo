@@ -1,0 +1,53 @@
+{
+  "doc_id": "1a3605212ebba1aa",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-00-45-0002_R0A.pdf",
+  "title": "4521-ESP-AGE-00-45-0002 R0A",
+  "doc_code": "4521-ESP-AGE-00-45-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Specification for supply of instruments for the Solana project\n- Definitions include Supplier, Customer, Fabricator, Owner\n- Scope includes all cables, gaskets, manifolds as identified in main specification\n- Supplier responsible for delivery to selected Fabricators or jobsite\n- Owner can require alternative billing cycles\n- Confidentiality and proprietary information restrictions\n- All materials must meet specific standards.\n- Owner can request non-standard billing cycles.\n- Cable glands have specific material and protection requirements.\n- Dimensions for cable glands are provided in inches.",
+  "summary_points": [
+    "Specification for supply of instruments for the Solana project",
+    "Definitions include Supplier, Customer, Fabricator, Owner",
+    "Scope includes all cables, gaskets, manifolds as identified in main specification",
+    "Supplier responsible for delivery to selected Fabricators or jobsite",
+    "Owner can require alternative billing cycles",
+    "Confidentiality and proprietary information restrictions",
+    "All materials must meet specific standards.",
+    "Owner can request non-standard billing cycles.",
+    "Cable glands have specific material and protection requirements.",
+    "Dimensions for cable glands are provided in inches."
+  ],
+  "keywords": [
+    "Engineering Specification 4521-ESP-AGE-00-45-0002",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "Notice of Alternative Billing Cycle",
+    "RFQ No. 4521-ESP-AGE-00-45-0002_R0A.pdf",
+    "Engineering Specification 120006",
+    "Sheet 3 of 5"
+  ],
+  "references": [
+    "Engineering Specification 4521-ESP-AGE-00-45-0002",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "Notice of Alternative Billing Cycle",
+    "RFQ No. 4521-ESP-AGE-00-45-0002_R0A.pdf",
+    "Engineering Specification 120006",
+    "Sheet 3 of 5"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1a3605212ebba1aa.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1a3605212ebba1aa.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:38:13.027711+00:00",
+  "usage": {
+    "input_tokens": 3598,
+    "output_tokens": 761,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12328
+}

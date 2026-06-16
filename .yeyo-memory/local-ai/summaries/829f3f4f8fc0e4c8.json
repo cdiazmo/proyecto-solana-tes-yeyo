@@ -1,0 +1,48 @@
+{
+  "doc_id": "829f3f4f8fc0e4c8",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/4521-PLN-AEE-75-52-0002_Rev02_Drain back tank pit/4521-PLN-AEE-75-52-0002_Rev02_Drain back tank pit.pdf",
+  "title": "4521-PLN-AEE-75-52-0002 Rev02 Drain back tank pit",
+  "doc_code": "4521-PLN-AEE-75-52-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Drain back tank pit location, scale, notes on allowable foundation bearing capacity, and references to other documents.",
+  "summary_points": [
+    "Drain back tank pit location, scale, notes on allowable foundation bearing capacity, and references to other documents."
+  ],
+  "keywords": [
+    "Drain back tank pit",
+    "scale",
+    "notes",
+    "allowable foundation bearing capacity",
+    "geotechnical engineer",
+    "base plate details",
+    "shear key details"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004",
+    "4521-ESP-ANC-00-50-2300"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/829f3f4f8fc0e4c8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/829f3f4f8fc0e4c8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:30:19.352058+00:00",
+  "usage": {
+    "input_tokens": 2612,
+    "output_tokens": 586,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6751
+}

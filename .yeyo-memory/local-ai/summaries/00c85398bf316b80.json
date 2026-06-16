@@ -1,0 +1,59 @@
+{
+  "doc_id": "00c85398bf316b80",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-00-60-N185_Specification for Field Applied Paint.pdf",
+  "title": "4521-ESP-ANC-00-60-N185 Specification for Field Applied Paint",
+  "doc_code": "4521-ESP-ANC-00-60-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document covers field applied paint specifications for Job No. 120006 in Solana project.\n- Notices include alternate billing cycle, extended payment, and certification provisions.\n- Confidentiality of information is strictly enforced.\n- Instructions require initialing on cover sheet and identifying revisions in the body.\n- Scope covers surface preparation and application of coatings and paint.\n- General requirements include field assembly, material delivery, storage, labor provision, adherence to codes, conflict resolution, and safety measures.\n- Contract allows alternate billing cycles, extended payment and certification periods.\n- Paint application restricted to dry surfaces at temperatures above dew point.\n- Surface preparation includes masking, sandblasting, and cleaning.\n- Different procedures for various types of steel surfaces (carbon, stainless, pre-painted).\n- Confidentiality terms restrict use and disclosure of information.\n- The contract allows for alternate billing cycles other than thirty days.",
+  "summary_points": [
+    "Document covers field applied paint specifications for Job No. 120006 in Solana project.",
+    "Notices include alternate billing cycle, extended payment, and certification provisions.",
+    "Confidentiality of information is strictly enforced.",
+    "Instructions require initialing on cover sheet and identifying revisions in the body.",
+    "Scope covers surface preparation and application of coatings and paint.",
+    "General requirements include field assembly, material delivery, storage, labor provision, adherence to codes, conflict resolution, and safety measures.",
+    "Contract allows alternate billing cycles, extended payment and certification periods.",
+    "Paint application restricted to dry surfaces at temperatures above dew point.",
+    "Surface preparation includes masking, sandblasting, and cleaning.",
+    "Different procedures for various types of steel surfaces (carbon, stainless, pre-painted).",
+    "Confidentiality terms restrict use and disclosure of information.",
+    "The contract allows for alternate billing cycles other than thirty days.",
+    "Painting surfaces must be prepared using solvent cleaning, air blast, or brush blast.",
+    "Touch-up painting is required for shop-painted items with damaged areas.",
+    "Quality control involves visual inspection of surface preparation and paint application.",
+    "Environmental conditions must not affect the quality of the finished product.",
+    "Contract allows alternate billing cycles other than thirty days.",
+    "Owner can request payment within 180 days after certification and approval.",
+    "Owner can certify and approve billings and estimates within 30 days.",
+    "Confidential information is protected by contract terms.",
+    "Painted surfaces must meet film thickness and workmanship specifications.",
+    "Defective or unacceptable work requires prompt correction.",
+    "Final touch-up required before leaving the job site.",
+    "Surface preparation details are specified in Section 3 of this specification."
+  ],
+  "keywords": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "SSPC-PA-1-64"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "SSPC-PA-1-64"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/00c85398bf316b80.md",
+  "source_extracted_path": ".yeyo-memory/extracted/00c85398bf316b80.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T14:49:50.131177+00:00",
+  "usage": {
+    "input_tokens": 6129,
+    "output_tokens": 3214,
+    "calls": 4
+  },
+  "repaired_calls": 0,
+  "chunk_count": 4,
+  "completed_chunks": 4,
+  "completed": true,
+  "text_chars": 21638
+}

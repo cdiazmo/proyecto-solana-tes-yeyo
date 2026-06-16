@@ -1,0 +1,43 @@
+{
+  "doc_id": "ac33c51f51272bb9",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS12.pdf",
+  "title": "4521-ESP-ANC-68-61-SS12",
+  "doc_code": "4521-ESP-ANC-68-61-SS12",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and specifications for a demineralized water piping system with 316 SS pipe, fittings, and valves. It includes details on construction materials, welding methods, flanges, bolting, gaskets, and various types of valves.",
+  "summary_points": [
+    "This document outlines the engineering standards and specifications for a demineralized water piping system with 316 SS pipe, fittings, and valves. It includes details on construction materials, welding methods, flanges, bolting, gaskets, and various types of valves."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Piping System",
+    "316 SS",
+    "Welding",
+    "Flanges",
+    "Valves",
+    "Confidentiality",
+    "Alternate Billing Cycle",
+    "Extended Payment Provision"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V311",
+    "4521-ESP-ANC-68-64-V312"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ac33c51f51272bb9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ac33c51f51272bb9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:52:35.131945+00:00",
+  "usage": {
+    "input_tokens": 2813,
+    "output_tokens": 1103,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4060
+}

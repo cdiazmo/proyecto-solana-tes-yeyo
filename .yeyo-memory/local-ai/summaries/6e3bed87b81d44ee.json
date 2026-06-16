@@ -1,0 +1,59 @@
+{
+  "doc_id": "6e3bed87b81d44ee",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0009-GAR Rev.0 Visual Inspection Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0009-GAR Rev.0 Visual Inspection Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0009",
+  "revision": "Rev.0",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document is a visual inspection procedure for welding operations.\n- It covers responsibilities, general requirements, and execution of examinations.\n- Visual examinations ensure correct weld size, length, and location.\n- Remote visual examination can be used for inaccessible welds.\n- Acceptance criteria include dimensions and surface conditions.\n- A reduction in thickness due to welding is acceptable if it does not exceed 0.8mm or 10% of the nominal thickness.\n- Weld reinforcement must have a smooth transition with adjacent base material and cannot exceed specified thicknesses.\n- Concavity due to welding on the root side of circumferential butt welds is permitted under certain conditions.\n- Alignment tolerance for butt welded sections requires maximum offset not exceeding values in Table 3a & 3b.\n- Unacceptable indications must be removed or reduced, and repairs should be made by qualified personnel using appropriate procedures.",
+  "summary_points": [
+    "The document is a visual inspection procedure for welding operations.",
+    "It covers responsibilities, general requirements, and execution of examinations.",
+    "Visual examinations ensure correct weld size, length, and location.",
+    "Remote visual examination can be used for inaccessible welds.",
+    "Acceptance criteria include dimensions and surface conditions.",
+    "A reduction in thickness due to welding is acceptable if it does not exceed 0.8mm or 10% of the nominal thickness.",
+    "Weld reinforcement must have a smooth transition with adjacent base material and cannot exceed specified thicknesses.",
+    "Concavity due to welding on the root side of circumferential butt welds is permitted under certain conditions.",
+    "Alignment tolerance for butt welded sections requires maximum offset not exceeding values in Table 3a & 3b.",
+    "Unacceptable indications must be removed or reduced, and repairs should be made by qualified personnel using appropriate procedures."
+  ],
+  "keywords": [
+    "ASME Code, Section V",
+    "ASME Code, Section VIII Div1 y Div2",
+    "ASME Section I",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "SNT-TC-1A",
+    "ASME VIII Div.1 & Div.2",
+    "Table 2a&2b",
+    "Table 3a & 3b",
+    "Fig. 1 Categories Joint"
+  ],
+  "references": [
+    "ASME Code, Section V",
+    "ASME Code, Section VIII Div1 y Div2",
+    "ASME Section I",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "SNT-TC-1A",
+    "ASME VIII Div.1 & Div.2",
+    "Table 2a&2b",
+    "Table 3a & 3b",
+    "Fig. 1 Categories Joint"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6e3bed87b81d44ee.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6e3bed87b81d44ee.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:22:31.977394+00:00",
+  "usage": {
+    "input_tokens": 3704,
+    "output_tokens": 1668,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11034
+}

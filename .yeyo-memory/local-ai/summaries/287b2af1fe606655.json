@@ -1,0 +1,47 @@
+{
+  "doc_id": "287b2af1fe606655",
+  "path": "Documentos en Servidor Atlántica/1950801-PPI-001 Rev.00 - PPI MONTAJE.pdf",
+  "title": "1950801-PPI-001 Rev.00 - PPI MONTAJE",
+  "doc_code": "",
+  "revision": "Rev.00",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Programa de puntos de inspección para la instalación de tuberías en el proyecto ATLANTICA, incluyendo cálculos mecánicos, procedimientos de soldadura y pruebas hidráulicas.",
+  "summary_points": [
+    "Programa de puntos de inspección para la instalación de tuberías en el proyecto ATLANTICA, incluyendo cálculos mecánicos, procedimientos de soldadura y pruebas hidráulicas."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "inspección",
+    "tubería",
+    "cálculos mecánicos",
+    "soldadura",
+    "pruebas hidráulicas"
+  ],
+  "references": [
+    "ASME B31.3",
+    "DR 1950801-DWG-XXX",
+    "DR 1950801-WJL-001",
+    "ASME IX H",
+    "DR 1950801-PQR-001",
+    "ASME B31.3 H",
+    "VT 1950801-PIV-001"
+  ],
+  "warnings": [
+    "Texto incompleto en la página 2, se indica 'FOR REFERENCE' al final."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/287b2af1fe606655.md",
+  "source_extracted_path": ".yeyo-memory/extracted/287b2af1fe606655.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:54:01.202461+00:00",
+  "usage": {
+    "input_tokens": 1984,
+    "output_tokens": 1415,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4183
+}

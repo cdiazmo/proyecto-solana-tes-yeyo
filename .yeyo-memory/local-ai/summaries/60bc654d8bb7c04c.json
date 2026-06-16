@@ -1,0 +1,47 @@
+{
+  "doc_id": "60bc654d8bb7c04c",
+  "path": "01 GD AE/M&P/ESP/4521-ESP-ANC-68-64-V380.pdf",
+  "title": "4521-ESP-ANC-68-64-V380",
+  "doc_code": "4521-ESP-ANC-68-64-V380",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document No: 4521-ESP-ANC-68-64-V380\n- Job No: 120006, Project: Solana\n- Gate valves include FA5, FA40, FA6, TA5 with specific dimensions and materials.\n- Globe valves FB5, FB40, FB6 have specifications for steel globes and bonnets.\n- Check valves FC56, FC39, FC66 are designed for swing and piston mechanisms.\n- Valves for MS service include FF with unique specifications.\n- Job No: 120006\n- Project: Solana\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Confidential information not to be disclosed without permission\n- EC-94 – Solana Specific Standard Form (Rev. 08/2010)\n- TA58V and FB58V valves with specific specifications for MS (nitrate salt) service",
+  "summary_points": [
+    "Document No: 4521-ESP-ANC-68-64-V380",
+    "Job No: 120006, Project: Solana",
+    "Gate valves include FA5, FA40, FA6, TA5 with specific dimensions and materials.",
+    "Globe valves FB5, FB40, FB6 have specifications for steel globes and bonnets.",
+    "Check valves FC56, FC39, FC66 are designed for swing and piston mechanisms.",
+    "Valves for MS service include FF with unique specifications.",
+    "Job No: 120006",
+    "Project: Solana",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Confidential information not to be disclosed without permission",
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "TA58V and FB58V valves with specific specifications for MS (nitrate salt) service"
+  ],
+  "keywords": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/60bc654d8bb7c04c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/60bc654d8bb7c04c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:16:55.199191+00:00",
+  "usage": {
+    "input_tokens": 4430,
+    "output_tokens": 1967,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9079
+}

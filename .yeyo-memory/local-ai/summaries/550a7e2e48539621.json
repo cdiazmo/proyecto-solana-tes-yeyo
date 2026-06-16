@@ -1,0 +1,50 @@
+{
+  "doc_id": "550a7e2e48539621",
+  "path": "01 GD AE/I&C/HDD/4521-ESP-DOT-00-64-0001_Solana PCV_Valves_HDD.xlsx",
+  "title": "4521-ESP-DOT-00-64-0001 Solana PCV Valves HDD",
+  "doc_code": "4521-ESP-DOT-00-64-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Engineering Specification for Pressure Regulator PCV Valves HDD at Solana power plant. Includes details on service, process parameters, operating conditions, body and spring specifications, packing material, and purchasing requirements.",
+  "summary_points": [
+    "Engineering Specification for Pressure Regulator PCV Valves HDD at Solana power plant. Includes details on service, process parameters, operating conditions, body and spring specifications, packing material, and purchasing requirements."
+  ],
+  "keywords": [
+    "Pressure Regulator",
+    "PCV Valves",
+    "Solana",
+    "Nitrogen Supply",
+    "Drain Back Tank",
+    "P&ID",
+    "Flow Rate",
+    "Operating Conditions",
+    "Body Material",
+    "Spring Material",
+    "Packing Material"
+  ],
+  "references": [
+    "4521-ESP-DOT-00-64-0001",
+    "PCV-625717",
+    "PCV-625716",
+    "4521-PLN-AEE-68-71-P278",
+    "4521-PLN-ANC-68-71-P279"
+  ],
+  "warnings": [
+    "Text incomplete for some fields marked with asterisks (*)"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/550a7e2e48539621.md",
+  "source_extracted_path": ".yeyo-memory/extracted/550a7e2e48539621.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:04:03.731849+00:00",
+  "usage": {
+    "input_tokens": 2446,
+    "output_tokens": 860,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5807
+}

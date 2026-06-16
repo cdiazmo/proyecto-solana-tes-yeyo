@@ -1,0 +1,54 @@
+{
+  "doc_id": "8517d103f7458aa2",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0002-GAR_Rev01_Heat Treatment Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0002-GAR Rev01 Heat Treatment Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The procedure is for post-weld heat treatment of oil-to-salt hex equipment.\n- It applies to general welded constructions and production weld test coupons for SOLANA SOLAR POWER PLANT.\n- Heat treatment is performed in a closed gas furnace, not open air.\n- Equipment must be free from grease, slag, paint, and other inflammable substances.\n- Items are placed in the furnace with proper support to avoid direct flame impingement.\n- Las piezas deben estar bien soportadas en el horno para evitar deformaciones pero permitiendo la expansión/contracción térmica.\n- Los quemadores deben estar regulados y controlados para evitar una oxidación excesiva.\n- El PWHT final se realiza después de todas las operaciones de soldaduras y reparaciones.\n- Los tratamientos térmicos son realizados en el taller de LOINTEK por una subcontrata.\n- Las mediciones de temperatura deben ser grabadas con un gráfico constante durante el calentamiento y enfriamiento.\n- La diferencia de temperatura entre termopares debe no superar los 80°C durante el periodo de calentamiento y enfriamiento.\n- Durante el mantenimiento, la diferencia de temperatura entre termopares debe no superar los 30°C.",
+  "summary_points": [
+    "The procedure is for post-weld heat treatment of oil-to-salt hex equipment.",
+    "It applies to general welded constructions and production weld test coupons for SOLANA SOLAR POWER PLANT.",
+    "Heat treatment is performed in a closed gas furnace, not open air.",
+    "Equipment must be free from grease, slag, paint, and other inflammable substances.",
+    "Items are placed in the furnace with proper support to avoid direct flame impingement.",
+    "Las piezas deben estar bien soportadas en el horno para evitar deformaciones pero permitiendo la expansión/contracción térmica.",
+    "Los quemadores deben estar regulados y controlados para evitar una oxidación excesiva.",
+    "El PWHT final se realiza después de todas las operaciones de soldaduras y reparaciones.",
+    "Los tratamientos térmicos son realizados en el taller de LOINTEK por una subcontrata.",
+    "Las mediciones de temperatura deben ser grabadas con un gráfico constante durante el calentamiento y enfriamiento.",
+    "La diferencia de temperatura entre termopares debe no superar los 80°C durante el periodo de calentamiento y enfriamiento.",
+    "Durante el mantenimiento, la diferencia de temperatura entre termopares debe no superar los 30°C.",
+    "El momento de entrada en el horno no debe superar las 300°C para evitar problemas de calentamiento y enfriamiento.",
+    "Los termopares deben ser sujetados por chispas o unidos mecánicamente a las partes del equipo.",
+    "La retirada de los termopares debe realizarse mediante suave esmerilado para evitar dañar el material."
+  ],
+  "keywords": [
+    "ASME VIII Div. 2 TEMA R",
+    "4521-PLN-LOI-039-062-0004-GAR",
+    "1950101-PTT-001",
+    "LOINTEK, S.L."
+  ],
+  "references": [
+    "ASME VIII Div. 2 TEMA R",
+    "4521-PLN-LOI-039-062-0004-GAR",
+    "1950101-PTT-001",
+    "LOINTEK, S.L."
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8517d103f7458aa2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8517d103f7458aa2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:49:26.009847+00:00",
+  "usage": {
+    "input_tokens": 4501,
+    "output_tokens": 2472,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13534
+}

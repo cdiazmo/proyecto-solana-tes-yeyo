@@ -1,0 +1,47 @@
+{
+  "doc_id": "a954ec6cfce1d12a",
+  "path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.xlsx",
+  "title": "4521-LIS-AEE-39-61-0002-GAR Rev00 Equipment List",
+  "doc_code": "4521-LIS-AEE-39-61-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document contains equipment lists for the Solana 250 MW Solar Power Plant, including mechanical equipment, line list, and valve list. It details specifications such as material, dimensions, power requirements, and installation status.",
+  "summary_points": [
+    "This document contains equipment lists for the Solana 250 MW Solar Power Plant, including mechanical equipment, line list, and valve list. It details specifications such as material, dimensions, power requirements, and installation status."
+  ],
+  "keywords": [
+    "Solana",
+    "Solar Power Plant",
+    "Mechanical Equipment",
+    "Line List",
+    "Valve List",
+    "Equipment Description",
+    "Manufacturer Documentation",
+    "Material of Construction",
+    "Design Conditions",
+    "P&ID"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P278-GAR",
+    "4521-HDD-LOI-039-062-0001-GAR",
+    "4521-LIS-AEE-39-61-0002-GAR"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a954ec6cfce1d12a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a954ec6cfce1d12a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:19:27.829997+00:00",
+  "usage": {
+    "input_tokens": 2423,
+    "output_tokens": 770,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5086
+}

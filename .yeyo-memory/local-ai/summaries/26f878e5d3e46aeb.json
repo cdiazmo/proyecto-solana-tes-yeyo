@@ -1,0 +1,43 @@
+{
+  "doc_id": "26f878e5d3e46aeb",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260325/1950801-CAL-0550-25 H&MB_BALANCES.pdf",
+  "title": "1950801-CAL-0550-25 H&MB BALANCES",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Balances Másicos Energéticos para ATLANTICA. Detalles técnicos de un calentador de superficie con especificaciones detalladas y desempeño.",
+  "summary_points": [
+    "Balances Másicos Energéticos para ATLANTICA. Detalles técnicos de un calentador de superficie con especificaciones detalladas y desempeño."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "Balances Másicos Energéticos",
+    "calentador de superficie",
+    "especificaciones técnicas",
+    "desempeño"
+  ],
+  "references": [
+    "1950801-CAL-0550-25",
+    "CS 2363",
+    "MOLTEN SALT",
+    "TEMA Class Type"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas, especialmente en números y medidas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/26f878e5d3e46aeb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/26f878e5d3e46aeb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:01:53.548652+00:00",
+  "usage": {
+    "input_tokens": 2552,
+    "output_tokens": 582,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5324
+}

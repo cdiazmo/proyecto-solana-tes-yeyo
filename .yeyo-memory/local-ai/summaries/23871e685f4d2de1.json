@@ -1,0 +1,41 @@
+{
+  "doc_id": "23871e685f4d2de1",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS32.pdf",
+  "title": "4521-ESP-ANC-68-61-CS32",
+  "doc_code": "4521-ESP-ANC-68-61-CS32",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the material and installation standards for a Class 600 Carbon Steel piping system in the Solana project, including specifications for fittings, valves, and cleaning requirements.",
+  "summary_points": [
+    "This document outlines the material and installation standards for a Class 600 Carbon Steel piping system in the Solana project, including specifications for fittings, valves, and cleaning requirements."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-CS32",
+    "Class 600 Carbon Steel",
+    "Piping System",
+    "Solana Project",
+    "Fittings",
+    "Valves",
+    "Cleaning Requirements"
+  ],
+  "references": [
+    "4521 -ESP -ANC -68 -64 -V380",
+    "4521 -ESP -ANC -68 -64 -V353"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/23871e685f4d2de1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/23871e685f4d2de1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:10:27.900402+00:00",
+  "usage": {
+    "input_tokens": 2989,
+    "output_tokens": 759,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7580
+}

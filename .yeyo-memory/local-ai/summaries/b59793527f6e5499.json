@@ -1,0 +1,73 @@
+{
+  "doc_id": "b59793527f6e5499",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0010_R1.pdf",
+  "title": "4521-ESP-AGE-57-70-0010 R1",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- El contrato permite facturación alternativa a los treinta días.\n- Se requiere inicialización solo en la hoja de cubierta.\n- Las especificaciones están sujetas a cambios y revisiones.\n- El Proveedor es responsable de entregar materiales al Fabricador o sitio del proyecto.\n- Los términos confidenciales se aplican a todo el contenido del documento.\n- RFQ No. and Job details provided.\n- Notice of Alternate Billing Cycle with contact information for the owner's designated agent.\n- Confidentiality notice regarding proprietary information.\n- Quality requirements for all materials supplied.\n- Vendor data commitment crucial for project progress.\n- Quotation must include time for approval drawings and fabrication.\n- Equipment delivery to purchaser's manufacturing site with specific locations to be released later.",
+  "summary_points": [
+    "El contrato permite facturación alternativa a los treinta días.",
+    "Se requiere inicialización solo en la hoja de cubierta.",
+    "Las especificaciones están sujetas a cambios y revisiones.",
+    "El Proveedor es responsable de entregar materiales al Fabricador o sitio del proyecto.",
+    "Los términos confidenciales se aplican a todo el contenido del documento.",
+    "RFQ No. and Job details provided.",
+    "Notice of Alternate Billing Cycle with contact information for the owner's designated agent.",
+    "Confidentiality notice regarding proprietary information.",
+    "Quality requirements for all materials supplied.",
+    "Vendor data commitment crucial for project progress.",
+    "Quotation must include time for approval drawings and fabrication.",
+    "Equipment delivery to purchaser's manufacturing site with specific locations to be released later.",
+    "Strict delivery schedule finalized at the time of final contract materialization.",
+    "Spare parts list required with price and delivery details.",
+    "Equipment subject to inspection by Abener Teyma personnel before shipment.",
+    "Alternate quotations invited for improvements in price, delivery or performance."
+  ],
+  "keywords": [
+    "RFQ No.",
+    "Job: 120006",
+    "Spec No.: 4521-ESP-AGE-57-70-0010",
+    "Project: Solana",
+    "Issue for Bid",
+    "Specification Form - Solana (Rev. 3/2011)",
+    "AISI 316 Mounting plate",
+    "M3 locknut",
+    "Material description: M3 washer",
+    "Inserted M3x12 bolt (external threaded)",
+    "Washer and locknut"
+  ],
+  "references": [
+    "RFQ No.",
+    "Job: 120006",
+    "Spec No.: 4521-ESP-AGE-57-70-0010",
+    "Project: Solana",
+    "Issue for Bid",
+    "Specification Form - Solana (Rev. 3/2011)",
+    "AISI 316 Mounting plate",
+    "M3 locknut",
+    "Material description: M3 washer",
+    "Inserted M3x12 bolt (external threaded)",
+    "Washer and locknut"
+  ],
+  "warnings": [
+    "La lista de exclusiones está incompleta.",
+    "El contenido confidencial no se muestra completamente.",
+    "The fragment is incomplete, missing specific details like RFQ No., Job, Item No., Ref., etc."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b59793527f6e5499.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b59793527f6e5499.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:34:29.193396+00:00",
+  "usage": {
+    "input_tokens": 3413,
+    "output_tokens": 2186,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11738
+}

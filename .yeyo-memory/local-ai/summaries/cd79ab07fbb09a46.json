@@ -1,0 +1,55 @@
+{
+  "doc_id": "cd79ab07fbb09a46",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-ANC-00-62-0003 Mineral fiber insulation.pdf",
+  "title": "4521-ESP-ANC-00-62-0003 Mineral fiber insulation",
+  "doc_code": "4521-ESP-ANC-00-62-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document specifies standards for mineral fiber insulation.\n- Insulation can be used on surfaces up to 1200 °F (649 °C).\n- Available sizes include blankets and boards with specific dimensions and densities.\n- Contract allows alternate billing cycles and extended payment/provision periods.\n- Insulation must meet specific ASTM requirements for loose fill and preformed pipe insulation.\n- Available sizes range from 36\" to 42\" in various thicknesses.\n- Larger piping requires mineral fiber blanket as specified.\n- Only approved vendors are allowed: Fibrex, Rock Wool, IIG, Lewco.",
+  "summary_points": [
+    "The document specifies standards for mineral fiber insulation.",
+    "Insulation can be used on surfaces up to 1200 °F (649 °C).",
+    "Available sizes include blankets and boards with specific dimensions and densities.",
+    "Contract allows alternate billing cycles and extended payment/provision periods.",
+    "Insulation must meet specific ASTM requirements for loose fill and preformed pipe insulation.",
+    "Available sizes range from 36\" to 42\" in various thicknesses.",
+    "Larger piping requires mineral fiber blanket as specified.",
+    "Only approved vendors are allowed: Fibrex, Rock Wool, IIG, Lewco."
+  ],
+  "keywords": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "ASTM Specification C 55 3, Type VII",
+    "ASTM Specification C 612, Type IV",
+    "ASTM Specification C 795",
+    "ASTM C764",
+    "ASTM C547",
+    "ASTM C795",
+    "ASTM C612"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "ASTM Specification C 55 3, Type VII",
+    "ASTM Specification C 612, Type IV",
+    "ASTM Specification C 795",
+    "ASTM C764",
+    "ASTM C547",
+    "ASTM C795",
+    "ASTM C612"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/cd79ab07fbb09a46.md",
+  "source_extracted_path": ".yeyo-memory/extracted/cd79ab07fbb09a46.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:39:54.150993+00:00",
+  "usage": {
+    "input_tokens": 4112,
+    "output_tokens": 1543,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12409
+}

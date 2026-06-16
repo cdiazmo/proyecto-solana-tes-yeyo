@@ -1,0 +1,48 @@
+{
+  "doc_id": "5e62a6b7021da571",
+  "path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0003-GAR_Rev03/4521-LIS-AEE-39-61-0003-GAR_Rev03  Manual Valve List TES HEX Replacement.xlsx",
+  "title": "4521-LIS-AEE-39-61-0003-GAR Rev03 Manual Valve List TES HEX Replacement",
+  "doc_code": "4521-LIS-AEE-39-61-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Manual Valve List for HEX Replacement in TES system. Includes details on valve type, size, fluid, and P&ID references.",
+  "summary_points": [
+    "Manual Valve List for HEX Replacement in TES system. Includes details on valve type, size, fluid, and P&ID references."
+  ],
+  "keywords": [
+    "Manual Valve List",
+    "TES system",
+    "HEX Replacement",
+    "Gate",
+    "Isolation",
+    "Venting",
+    "P&ID",
+    "Valve Specification"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-61-0003-GAR",
+    "FA56",
+    "HTF",
+    "STD",
+    "4521-PLN-AGE-68-71-P271-GAR"
+  ],
+  "warnings": [
+    "Text incomplete for items 18 to 35.",
+    "OCR issues with some text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5e62a6b7021da571.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5e62a6b7021da571.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:32:48.784364+00:00",
+  "usage": {
+    "input_tokens": 4608,
+    "output_tokens": 713,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7798
+}

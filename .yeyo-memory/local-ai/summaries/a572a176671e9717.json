@@ -1,0 +1,40 @@
+{
+  "doc_id": "a572a176671e9717",
+  "path": "13_Documentos de Inspección Final/Inspection Trip 9-12-19.pdf",
+  "title": "Inspection Trip 9-12-19",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Inspection report for electrical systems at the Exchanger project site. Found issues with grounding and lightning protection.",
+  "summary_points": [
+    "Inspection report for electrical systems at the Exchanger project site. Found issues with grounding and lightning protection."
+  ],
+  "keywords": [
+    "Electrical Inspection",
+    "Exchanger Project",
+    "Grounding",
+    "Lightning Protection",
+    "Switchgear",
+    "Breaker",
+    "Busbar"
+  ],
+  "references": [],
+  "warnings": [
+    "Ambiguous text in 'Weather' section"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a572a176671e9717.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a572a176671e9717.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:37:02.114395+00:00",
+  "usage": {
+    "input_tokens": 675,
+    "output_tokens": 418,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1053
+}

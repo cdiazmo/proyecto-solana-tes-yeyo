@@ -1,0 +1,44 @@
+{
+  "doc_id": "9cfa81a8899c3a40",
+  "path": "01 GD AE/M&P/HDD/4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet.pdf",
+  "title": "4521-HDD-AEE-075-064-0010-GAR Rev02 Drain back tank datasheet",
+  "doc_code": "4521-HDD-AEE-075-064-0010",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drain back tank datasheet for project 4521-HDD-AEE-075-064-0010-GAR. Includes design specifications, operating conditions, connections, and construction details.",
+  "summary_points": [
+    "Drain back tank datasheet for project 4521-HDD-AEE-075-064-0010-GAR. Includes design specifications, operating conditions, connections, and construction details."
+  ],
+  "keywords": [
+    "drain back tank",
+    "datasheet",
+    "project 4521-HDD-AEE-075-064-0010-GAR",
+    "operating conditions",
+    "design information",
+    "connections",
+    "construction details"
+  ],
+  "references": [
+    "ASME VIII DIV.1 / DIV.2 (2)",
+    "NNNN-MT-259 (18)",
+    "4521-SPE-SGT-000-223-0006 Maximum allowed loads in nozzles"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9cfa81a8899c3a40.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9cfa81a8899c3a40.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:24:28.203155+00:00",
+  "usage": {
+    "input_tokens": 2407,
+    "output_tokens": 1709,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5851
+}

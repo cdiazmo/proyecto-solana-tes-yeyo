@@ -1,0 +1,61 @@
+{
+  "doc_id": "c84d9773f88d27e2",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-00-60-N180.pdf",
+  "title": "4521-ESP-ANC-00-60-N180",
+  "doc_code": "4521-ESP-ANC-00-60-N180",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document is a specification for job number 120006, covering surface preparation and painting of various steel fabrications.\n- The contract allows alternate billing cycles other than thirty days upon request from the owner's designated agent.\n- All materials must be used as specified in the standards or approved by the Purchaser in writing.\n- Painting work must comply with the requirements of the paint manufacturer and follow specific application conditions.\n- Contract allows alternate billing cycles other than thirty days.\n- Confidential information must not be shared without permission.\n- Surface preparation materials include sand and steel grit for carbon steel, with specific requirements for stainless steel.\n- Shop painting procedures are governed by Steel Structures Painting Council Specification SSPC-PA-1-64.\n- Surfaces like sight glasses and equipment identification nameplates should not be painted.\n- Machined surfaces must be masked during shipment to protect against abrasive cleaning.\n- Fabricated items must be supported properly before painting to prevent damage.\n- Paint application must follow vendor instructions for mixing, thinning, curing, etc.",
+  "summary_points": [
+    "This document is a specification for job number 120006, covering surface preparation and painting of various steel fabrications.",
+    "The contract allows alternate billing cycles other than thirty days upon request from the owner's designated agent.",
+    "All materials must be used as specified in the standards or approved by the Purchaser in writing.",
+    "Painting work must comply with the requirements of the paint manufacturer and follow specific application conditions.",
+    "Contract allows alternate billing cycles other than thirty days.",
+    "Confidential information must not be shared without permission.",
+    "Surface preparation materials include sand and steel grit for carbon steel, with specific requirements for stainless steel.",
+    "Shop painting procedures are governed by Steel Structures Painting Council Specification SSPC-PA-1-64.",
+    "Surfaces like sight glasses and equipment identification nameplates should not be painted.",
+    "Machined surfaces must be masked during shipment to protect against abrasive cleaning.",
+    "Fabricated items must be supported properly before painting to prevent damage.",
+    "Paint application must follow vendor instructions for mixing, thinning, curing, etc.",
+    "Confidential information must not be reproduced or revealed without permission.",
+    "Quality control includes visual inspection of blast cleaning end conditions.",
+    "Painted surfaces must meet thickness requirements and be free from defects.",
+    "Supplier must correct defective work promptly.",
+    "Painted steel must be handled carefully to prevent damage.",
+    "Purchaser has authority to inspect all work for compliance with specifications."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-00-60-N180",
+    "Rev. 3/2011",
+    "SSPC-PA-1-64",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Clemtex, Ltd. surface profile gauges",
+    "NACE Standard TM 01-70"
+  ],
+  "references": [
+    "4521-ESP-ANC-00-60-N180",
+    "Rev. 3/2011",
+    "SSPC-PA-1-64",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Clemtex, Ltd. surface profile gauges",
+    "NACE Standard TM 01-70"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c84d9773f88d27e2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c84d9773f88d27e2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:03:20.491204+00:00",
+  "usage": {
+    "input_tokens": 5162,
+    "output_tokens": 3040,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17511
+}

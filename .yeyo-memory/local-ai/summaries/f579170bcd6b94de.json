@@ -1,0 +1,66 @@
+{
+  "doc_id": "f579170bcd6b94de",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-AGE-58-64-0005_Heat Transfer Fluid (HTF) Services rotary contro....pdf",
+  "title": "4521-ESP-AGE-58-64-0005 Heat Transfer Fluid (HTF) Services rotary contro...",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document outlines specifications for Heat Transfer Fluid (HTF) services, including general definitions and scope of work.\n- The supplier must provide instruments as listed in the request for quote, including cables, gaskets, manifolds, etc.\n- Shipping schedule is to be confirmed with purchasing during the final commercial agreement.\n- Supplier is responsible for delivering materials to designated Fabricators or project jobsite.\n- A single contact person must be provided by the supplier to monitor and track material purchased under this contract.\n- Material quality requirements for NEC, IEEE, UL standards\n- Vendor data commitment and spare parts list required\n- Strict delivery schedule for valves\n- Inspection by Abener Teyma personnel before shipment\n- Invitation to quote as an alternate for improvements\n- Rotary control valve for heat transfer fluid services\n- Design pressure: 300 psig, Design temperature: 500°F",
+  "summary_points": [
+    "This document outlines specifications for Heat Transfer Fluid (HTF) services, including general definitions and scope of work.",
+    "The supplier must provide instruments as listed in the request for quote, including cables, gaskets, manifolds, etc.",
+    "Shipping schedule is to be confirmed with purchasing during the final commercial agreement.",
+    "Supplier is responsible for delivering materials to designated Fabricators or project jobsite.",
+    "A single contact person must be provided by the supplier to monitor and track material purchased under this contract.",
+    "Material quality requirements for NEC, IEEE, UL standards",
+    "Vendor data commitment and spare parts list required",
+    "Strict delivery schedule for valves",
+    "Inspection by Abener Teyma personnel before shipment",
+    "Invitation to quote as an alternate for improvements",
+    "Rotary control valve for heat transfer fluid services",
+    "Design pressure: 300 psig, Design temperature: 500°F",
+    "Valve body material and bonnet material: 316 SS",
+    "Actuator orientation: Increase to open",
+    "I/O analog signals: 4-20mA DC",
+    "Travel range: 0 - 90 Deg.",
+    "Range of operation: 50-130 psig"
+  ],
+  "keywords": [
+    "4521-ESP-AGE-58-64-0005",
+    "Solana Project",
+    "Abener Teyma",
+    "Abengoa Solar Inc.",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "references": [
+    "4521-ESP-AGE-58-64-0005",
+    "Solana Project",
+    "Abener Teyma",
+    "Abengoa Solar Inc.",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "warnings": [
+    "The text contains multiple instances of '2.6 Supplier shall provide a single contact person to monitor and track all material purchased under this contract.', which may be a repetition error."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f579170bcd6b94de.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f579170bcd6b94de.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T16:08:41.085689+00:00",
+  "usage": {
+    "input_tokens": 18270,
+    "output_tokens": 7956,
+    "calls": 8
+  },
+  "repaired_calls": 3,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 31155
+}

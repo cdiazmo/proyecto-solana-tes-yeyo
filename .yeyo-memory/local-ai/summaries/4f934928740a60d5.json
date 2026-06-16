@@ -1,0 +1,49 @@
+{
+  "doc_id": "4f934928740a60d5",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS07.pdf",
+  "title": "4521-ESP-ANC-68-61-SS07",
+  "doc_code": "4521-ESP-ANC-68-61-SS07",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for a strong acid – 316 Stainless Steel Piping System project at Solana. It includes specifications, construction details, fittings, valves, and notes on installation.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for a strong acid – 316 Stainless Steel Piping System project at Solana. It includes specifications, construction details, fittings, valves, and notes on installation."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Piping System",
+    "Solana Project",
+    "316 Stainless Steel",
+    "Buttweld Pipe",
+    "Alloy-20 Valves",
+    "Gate Valve",
+    "Plug Valve",
+    "Globe Valve",
+    "Butterfly Valve",
+    "Check Valve",
+    "Needle Valve",
+    "Tungsten Inert Gas Welding"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V301",
+    "4521-ESP-ANC-68-64-V311",
+    "4521-ESP-ANC-68-64-V310",
+    "4521-ESP-ANC-68-64-V309"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4f934928740a60d5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4f934928740a60d5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:53:25.571929+00:00",
+  "usage": {
+    "input_tokens": 1789,
+    "output_tokens": 1345,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4094
+}

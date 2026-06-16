@@ -1,0 +1,44 @@
+{
+  "doc_id": "8ddd45eb8d766235",
+  "path": "01 GD AE/M&P/CAL/4521_CAL_AEE_58_11_0002-GAR_901_Rev00_TES Circuit Hydraulic Calculatio.xlsx",
+  "title": "4521 CAL AEE 58 11 0002-GAR 901 Rev00 TES Circuit Hydraulic Calculatio",
+  "doc_code": "4521-CAL-AEE-58-11-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Document detailing hydraulic calculations for a TES circuit, including input data, assumptions, and design changes.",
+  "summary_points": [
+    "Document detailing hydraulic calculations for a TES circuit, including input data, assumptions, and design changes."
+  ],
+  "keywords": [
+    "4521-CAL-AEE-58-11-0002-GAR",
+    "TES Circuit Hydraulic Calculation",
+    "Heat Exchanger",
+    "Pump Performance",
+    "Pipe Length",
+    "Design Change"
+  ],
+  "references": [
+    "4521-CAL-LOI-039-062-0002-GAR Rev00 HMB",
+    "Flowserve",
+    "Lewis pumps for MS",
+    "Solana 25-11-2016"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8ddd45eb8d766235.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8ddd45eb8d766235.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:41:03.925442+00:00",
+  "usage": {
+    "input_tokens": 1340,
+    "output_tokens": 452,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2944
+}

@@ -1,0 +1,61 @@
+{
+  "doc_id": "fc94d748506b1af0",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-21-70-0002_R0.pdf",
+  "title": "4521-ESP-AGE-21-70-0002 R0",
+  "doc_code": "4521-ESP-AGE-21-70-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document is an instrument specification for a project named Solana.\n- It includes definitions for terms like Supplier, Customer, Fabricator, and Owner.\n- The contract allows for alternate billing cycles upon request.\n- Confidentiality measures are in place regarding the information provided.\n- The scope of work involves supplying instruments and related components.\n- Packaging and labeling requirements are yet to be defined.\n- Supplier is responsible for delivering materials to designated locations.\n- A single contact person must monitor material purchases.\n- Exclusions from this subcontract are not specified in the given text.\n- All materials must meet NEC, IEEE, UL standards.\n- Vendor data commitment is crucial for project progress.\n- Quotation must include time for approval drawings and fabrication.",
+  "summary_points": [
+    "This document is an instrument specification for a project named Solana.",
+    "It includes definitions for terms like Supplier, Customer, Fabricator, and Owner.",
+    "The contract allows for alternate billing cycles upon request.",
+    "Confidentiality measures are in place regarding the information provided.",
+    "The scope of work involves supplying instruments and related components.",
+    "Packaging and labeling requirements are yet to be defined.",
+    "Supplier is responsible for delivering materials to designated locations.",
+    "A single contact person must monitor material purchases.",
+    "Exclusions from this subcontract are not specified in the given text.",
+    "All materials must meet NEC, IEEE, UL standards.",
+    "Vendor data commitment is crucial for project progress.",
+    "Quotation must include time for approval drawings and fabrication.",
+    "Equipment to be delivered to purchaser's manufacturing site with specific locations.",
+    "Monthly shipping of 350 complete units starting July 2011.",
+    "List recommended spare parts with prices and delivery details.",
+    "Inspection by Abener Teyma personnel before shipment required.",
+    "Solicit recommendations for improving price, delivery or performance.",
+    "Specifications prepared using accepted engineering practices and approved technical standards."
+  ],
+  "keywords": [
+    "4521-ESP-AGE-21-70-0002",
+    "EC-98",
+    "ABENER TEYMA",
+    "SOLANA",
+    "AG ENGINEERING"
+  ],
+  "references": [
+    "4521-ESP-AGE-21-70-0002",
+    "EC-98",
+    "ABENER TEYMA",
+    "SOLANA",
+    "AG ENGINEERING"
+  ],
+  "warnings": [
+    "OCR issues may have affected the readability of some text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fc94d748506b1af0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fc94d748506b1af0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:35:09.725697+00:00",
+  "usage": {
+    "input_tokens": 3552,
+    "output_tokens": 1520,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11917
+}

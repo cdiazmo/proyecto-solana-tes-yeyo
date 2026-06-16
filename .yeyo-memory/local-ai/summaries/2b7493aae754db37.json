@@ -1,0 +1,55 @@
+{
+  "doc_id": "2b7493aae754db37",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/LIS/4521-LIS-AEE-39-64-0002-GAR Rev.1 Automatic Valves List.pdf",
+  "title": "4521-LIS-AEE-39-64-0002-GAR Rev.1 Automatic Valves List",
+  "doc_code": "4521-LIS-AEE-39-64-0002",
+  "revision": "Rev.1",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Document is for ABEINSA EPC USA project Solana TES HEX.\n- Automatic Valve List document code: 4521-LIS-AEE-39-64-0002-GAR, reviewed by Jose María Rodríguez León.\n- Changes in valves are indicated with red (removed), green (added), and yellow (modified) colors.\n- Revisions control sheet shows two revisions: Dec/15/2016 and Jan/25/2017.\n- General notes include instructions for updating revision numbers when changes occur.\n- Document contains a list of automatic valves for the Solana Power Plant.\n- Valves include gate and globe types, operated by hydraulic actuators.\n- Valves are used in various systems such as HTF overflow, MS drain back, and TES HEX inlet.\n- The document is part of the P&ID Rev Line Spec for ABEINSA EPC USA project.\n- References include specific valve tags, models, and supplier data.",
+  "summary_points": [
+    "Document is for ABEINSA EPC USA project Solana TES HEX.",
+    "Automatic Valve List document code: 4521-LIS-AEE-39-64-0002-GAR, reviewed by Jose María Rodríguez León.",
+    "Changes in valves are indicated with red (removed), green (added), and yellow (modified) colors.",
+    "Revisions control sheet shows two revisions: Dec/15/2016 and Jan/25/2017.",
+    "General notes include instructions for updating revision numbers when changes occur.",
+    "Document contains a list of automatic valves for the Solana Power Plant.",
+    "Valves include gate and globe types, operated by hydraulic actuators.",
+    "Valves are used in various systems such as HTF overflow, MS drain back, and TES HEX inlet.",
+    "The document is part of the P&ID Rev Line Spec for ABEINSA EPC USA project.",
+    "References include specific valve tags, models, and supplier data."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-64-0002-GAR",
+    "MMA",
+    "JMRL",
+    "ABEINSA EPC USA",
+    "Solana Power Plant",
+    "P&ID Rev Line Spec",
+    "ABEINSA ENGINEERING"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-64-0002-GAR",
+    "MMA",
+    "JMRL",
+    "ABEINSA EPC USA",
+    "Solana Power Plant",
+    "P&ID Rev Line Spec",
+    "ABEINSA ENGINEERING"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2b7493aae754db37.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2b7493aae754db37.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:35:33.212870+00:00",
+  "usage": {
+    "input_tokens": 4997,
+    "output_tokens": 1674,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8679
+}

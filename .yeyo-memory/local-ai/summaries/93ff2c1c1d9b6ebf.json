@@ -1,0 +1,62 @@
+{
+  "doc_id": "93ff2c1c1d9b6ebf",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-AEE-75-52-0003-GAR_Rev00_Drain-back tank support.pdf",
+  "title": "4521-PLN-AEE-75-52-0003-GAR Rev00 Drain-back tank support",
+  "doc_code": "4521-PLN-AEE-75-52-0003",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Tes exchanger foundation and layout details provided.\n- Drawing references for tes exchanger, drain-back tank pit, and ladder with guard.\n- Notice of alternate billing cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership.\n- Base plate thickness: 3/8\"\n- Holes diameter: Ø3/4\"\n- Beam W10x49 with stiffeners (see KNOT_01)\n- Tank saddle detail with bolt Ø3/4\" ASTM A325, total length 16\"\n- Nuts and washers specifications\n- Scale 1\"= 1'-0\"\n- Fixed and sliding saddle details\n- Column W8x18\n- Anchor bolt detail with nuts and washer",
+  "summary_points": [
+    "Tes exchanger foundation and layout details provided.",
+    "Drawing references for tes exchanger, drain-back tank pit, and ladder with guard.",
+    "Notice of alternate billing cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership.",
+    "Base plate thickness: 3/8\"",
+    "Holes diameter: Ø3/4\"",
+    "Beam W10x49 with stiffeners (see KNOT_01)",
+    "Tank saddle detail with bolt Ø3/4\" ASTM A325, total length 16\"",
+    "Nuts and washers specifications",
+    "Scale 1\"= 1'-0\"",
+    "Fixed and sliding saddle details",
+    "Column W8x18",
+    "Anchor bolt detail with nuts and washer",
+    "Tank orientation according to model 3D"
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-AEE-75-52-0002-GAR",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004",
+    "KNOT_01",
+    "KNOT_02"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-AEE-75-52-0002-GAR",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004",
+    "KNOT_01",
+    "KNOT_02"
+  ],
+  "warnings": [
+    "Text is in English, but some terms may not be fully understood without context."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/93ff2c1c1d9b6ebf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/93ff2c1c1d9b6ebf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:33:44.786588+00:00",
+  "usage": {
+    "input_tokens": 4397,
+    "output_tokens": 2087,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8510
+}

@@ -1,0 +1,48 @@
+{
+  "doc_id": "9dd0c7deb0a33ad5",
+  "path": "12 As Built TES 6/04_Piping/03_Stress Calculation report/4521-INF-AEE-21-63-0004 (A06)_Rev00_Restraint and Stress Report.pdf",
+  "title": "4521-INF-AEE-21-63-0004 (A06) Rev00 Restraint and Stress Report",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Axial, bending, torsion, and hoop stress calculations for various nodes.\n- Code stress checks passed for multiple load cases.\n- Load case definitions include hydraulic (HYD) and operational (OPE).\n- Software used: CAESAR II 2016 Ver.8.00.00.5600, Build 150930.\n- Job name: HTF2.",
+  "summary_points": [
+    "Axial, bending, torsion, and hoop stress calculations for various nodes.",
+    "Code stress checks passed for multiple load cases.",
+    "Load case definitions include hydraulic (HYD) and operational (OPE).",
+    "Software used: CAESAR II 2016 Ver.8.00.00.5600, Build 150930.",
+    "Job name: HTF2."
+  ],
+  "keywords": [
+    "CAESAR II 2016",
+    "LOADCASE 42 (OCC)",
+    "LOADCASE 43 (OCC)",
+    "LOADCASE 44 (OCC)",
+    "LOADCASE 45 (OCC)",
+    "LOADCASE 46 (OCC)"
+  ],
+  "references": [
+    "CAESAR II 2016",
+    "LOADCASE 42 (OCC)",
+    "LOADCASE 43 (OCC)",
+    "LOADCASE 44 (OCC)",
+    "LOADCASE 45 (OCC)",
+    "LOADCASE 46 (OCC)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9dd0c7deb0a33ad5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9dd0c7deb0a33ad5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T13:18:38.310187+00:00",
+  "usage": {
+    "input_tokens": 114660,
+    "output_tokens": 33323,
+    "calls": 25
+  },
+  "repaired_calls": 12,
+  "chunk_count": 13,
+  "completed_chunks": 13,
+  "completed": true,
+  "text_chars": 92536
+}

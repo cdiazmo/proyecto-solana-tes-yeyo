@@ -1,0 +1,64 @@
+{
+  "doc_id": "c2637edb3d94a6bc",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0020_R0.pdf",
+  "title": "4521-ESP-AGE-58-70-0020 R0",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Material must meet NEC, IEEE, UL standards.\n- Equipment to be delivered at purchaser's manufacturing site with specific locations to be released later.\n- Strict delivery schedule by June 2012.\n- List of recommended spare parts for one year's maintenance required.\n- Inspection by Abener Teyma personnel before shipment.\n- Owner can require billing in cycles other than thirty days.\n- Information is confidential and proprietary.\n- Operational temperature range from 0 to 750°F.\n- Design temperature range from 0 to 750°F.\n- Calibrated pressure gauge range is 527 psi-g.\n- DoubleFirst filling Filter is used for HTF services.\n- Instrument tag and service P&ID are listed as Double.",
+  "summary_points": [
+    "Material must meet NEC, IEEE, UL standards.",
+    "Equipment to be delivered at purchaser's manufacturing site with specific locations to be released later.",
+    "Strict delivery schedule by June 2012.",
+    "List of recommended spare parts for one year's maintenance required.",
+    "Inspection by Abener Teyma personnel before shipment.",
+    "Owner can require billing in cycles other than thirty days.",
+    "Information is confidential and proprietary.",
+    "Operational temperature range from 0 to 750°F.",
+    "Design temperature range from 0 to 750°F.",
+    "Calibrated pressure gauge range is 527 psi-g.",
+    "DoubleFirst filling Filter is used for HTF services.",
+    "Instrument tag and service P&ID are listed as Double.",
+    "Revision by ABENER TEYMA on SOLANA AG ENGINEERING.",
+    "Document number: 4521-ESP-AGE-58-70-0020.",
+    "Sheet title: ABENGOA SOLAR Solana power plant."
+  ],
+  "keywords": [
+    "4521-ESP-AGE-58-70-0020",
+    "Solana power plant",
+    "ABENGOA SOLAR ABENER TEYMA",
+    "4521-PLN-ANC-68-71-P204",
+    "PDG 204-99A",
+    "PDG 204-99B",
+    "ABENER TEYMA",
+    "SOLANA AG ENGINEERING"
+  ],
+  "references": [
+    "4521-ESP-AGE-58-70-0020",
+    "Solana power plant",
+    "ABENGOA SOLAR ABENER TEYMA",
+    "4521-PLN-ANC-68-71-P204",
+    "PDG 204-99A",
+    "PDG 204-99B",
+    "ABENER TEYMA",
+    "SOLANA AG ENGINEERING"
+  ],
+  "warnings": [
+    "Fragmento confuso, no se puede determinar el contenido exacto del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c2637edb3d94a6bc.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c2637edb3d94a6bc.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:52:25.633564+00:00",
+  "usage": {
+    "input_tokens": 5248,
+    "output_tokens": 1903,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 13573
+}

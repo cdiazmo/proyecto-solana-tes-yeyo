@@ -1,0 +1,68 @@
+{
+  "doc_id": "0c43e83300274d1c",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-45-0020_R1.pdf",
+  "title": "4521-ESP-AGE-58-45-0020 R1",
+  "doc_code": "4521-ESP-AGE-58-45-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- All materials must meet NEC, IEEE, UL standards.\n- Vendor data is crucial for project progress.\n- Quotation must include time for approval drawings and fabrication.\n- Equipment must be delivered to purchaser's manufacturing site with specific locations.\n- Shipment must adhere to a strict delivery schedule finalized at the time of final contract materialization.\n- Required list of recommended spare parts with prices and delivery details.\n- Inspection by Abener Teyma personnel before shipment is mandatory.\n- Solicit recommendations for improving price, delivery, or performance.\n- Information is confidential and proprietary; reproductions must bear the Teyma USA & Abener Engineering and Construction Services General Partnership stamp.\n- Owner may require submission of billing or estimates in a cycle other than thirty days.\n- The document contains a list of junction boxes with dimensions and specifications.\n- It includes revision information, project details, and tags for different items.",
+  "summary_points": [
+    "All materials must meet NEC, IEEE, UL standards.",
+    "Vendor data is crucial for project progress.",
+    "Quotation must include time for approval drawings and fabrication.",
+    "Equipment must be delivered to purchaser's manufacturing site with specific locations.",
+    "Shipment must adhere to a strict delivery schedule finalized at the time of final contract materialization.",
+    "Required list of recommended spare parts with prices and delivery details.",
+    "Inspection by Abener Teyma personnel before shipment is mandatory.",
+    "Solicit recommendations for improving price, delivery, or performance.",
+    "Information is confidential and proprietary; reproductions must bear the Teyma USA & Abener Engineering and Construction Services General Partnership stamp.",
+    "Owner may require submission of billing or estimates in a cycle other than thirty days.",
+    "The document contains a list of junction boxes with dimensions and specifications.",
+    "It includes revision information, project details, and tags for different items.",
+    "There are multiple entries for the same box model with varying quantities.",
+    "The document is related to an HTF service and DCS remote drop.",
+    "It mentions ABENGOA SOLAR, ABENER TEYMA, and AG ENGINEERING as involved parties."
+  ],
+  "keywords": [
+    "RFQ No.",
+    "Engineering Specification Job: 120006 Spec No.",
+    "Solana",
+    "Issue: 1 Dated: Mar/20/2012 JHR PQJ",
+    "EC-98",
+    "4521-ESP-AGE-58-45-0020_R1.pdf",
+    "4521-ESP-AGE-58-45-0020",
+    "IJB-200-D1-004 R-32-202",
+    "IJB-200-A1-013 CL1-27-2011"
+  ],
+  "references": [
+    "RFQ No.",
+    "Engineering Specification Job: 120006 Spec No.",
+    "Solana",
+    "Issue: 1 Dated: Mar/20/2012 JHR PQJ",
+    "EC-98",
+    "4521-ESP-AGE-58-45-0020_R1.pdf",
+    "4521-ESP-AGE-58-45-0020",
+    "IJB-200-D1-004 R-32-202",
+    "IJB-200-A1-013 CL1-27-2011"
+  ],
+  "warnings": [
+    "The text is in a non-standard format and contains irregular spacing.",
+    "Some terms are unclear (e.g., 'big size', 'SMALL SIZE')",
+    "There are multiple entries for the same box model with varying quantities."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0c43e83300274d1c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0c43e83300274d1c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:04:54.887970+00:00",
+  "usage": {
+    "input_tokens": 5208,
+    "output_tokens": 2571,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 14511
+}

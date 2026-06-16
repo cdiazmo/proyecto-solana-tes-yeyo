@@ -1,0 +1,44 @@
+{
+  "doc_id": "8f60624a6b534d4f",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS38.pdf",
+  "title": "4521-ESP-ANC-68-61-SS38",
+  "doc_code": "4521-ESP-ANC-68-61-SS38",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for HTF piping 300# in the Solana project, including material specifications, fittings, bolting, and gasket requirements.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for HTF piping 300# in the Solana project, including material specifications, fittings, bolting, and gasket requirements."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-SS38",
+    "Solana",
+    "HTF piping",
+    "300#",
+    "304 SS pipe",
+    "SW fittings",
+    "CL 300 SW valves",
+    "BW fittings",
+    "gasket materials"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'Bare - AWS A5.9 Class ER 309'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8f60624a6b534d4f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8f60624a6b534d4f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:51:45.057057+00:00",
+  "usage": {
+    "input_tokens": 1713,
+    "output_tokens": 867,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4051
+}

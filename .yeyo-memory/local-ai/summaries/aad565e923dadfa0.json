@@ -1,0 +1,54 @@
+{
+  "doc_id": "aad565e923dadfa0",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS77.pdf",
+  "title": "4521-ESP-ANC-68-61-CS77",
+  "doc_code": "4521-ESP-ANC-68-61-CS77",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document No: 4521-ESP-ANC-68-61-CS77\n- Job No: 120006\n- Class: 300 Carbon Steel – Piping System\n- Maximum service range: 750 °F\n- Gate and globe valves specified with specific classes\n- Check valves, rotary valves, lift check valves, and silent check valves listed\n- Notes on flange usage, gate valve selection, and cleaning requirements\n- Project: Solana\n- Class 300 Carbon Steel piping system\n- Notices include alternate billing, extended payment, and certification periods\n- Confidential information protected by Abencs terms\n- References to EC-94 standard form and specific valve types",
+  "summary_points": [
+    "Document No: 4521-ESP-ANC-68-61-CS77",
+    "Job No: 120006",
+    "Class: 300 Carbon Steel – Piping System",
+    "Maximum service range: 750 °F",
+    "Gate and globe valves specified with specific classes",
+    "Check valves, rotary valves, lift check valves, and silent check valves listed",
+    "Notes on flange usage, gate valve selection, and cleaning requirements",
+    "Project: Solana",
+    "Class 300 Carbon Steel piping system",
+    "Notices include alternate billing, extended payment, and certification periods",
+    "Confidential information protected by Abencs terms",
+    "References to EC-94 standard form and specific valve types",
+    "Pressure and temperature limits provided in a table"
+  ],
+  "keywords": [
+    "PS-CS77",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "ANSI B31.3 basic code",
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353"
+  ],
+  "references": [
+    "PS-CS77",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "ANSI B31.3 basic code",
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/aad565e923dadfa0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/aad565e923dadfa0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:16:02.532675+00:00",
+  "usage": {
+    "input_tokens": 3371,
+    "output_tokens": 1931,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8741
+}

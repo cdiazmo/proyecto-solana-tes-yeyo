@@ -1,0 +1,60 @@
+{
+  "doc_id": "3a07ee82edd6f7d9",
+  "path": "Documentos en Servidor Atlántica/1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA.pdf",
+  "title": "1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "- El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo.\n- Se detalla el recuento de estructuras metálicas para un proyecto en Córdoba (España).\n- Incluye cantidades de acero, pintura exterior, tramez, barandilla y peldaños.\n- Los materiales se suministran según CTE SE-A y requieren un factor de mayoración del 20% para considerar soldaduras y otros elementos adicionales.\n- Rejilla de pavimentación de acero galvanizado con malla de seguridad.\n- Estructuras metálicas para vanos y plataformas intermedias.\n- Suministro de acero laminado S 275 JR según CTE SE- A.\n- Factor de mayorización del 20% incluido en los costos.\n- Inclusión de elementos como soldaduras, chapas de unión y accesorios de fijación.\n- Documento de recuento de estructura para RACK CONVENCIONAL y RACK DE CARRETERA.\n- Datos de geometría incluyen barras, sección, longitud y peso por unidad de longitud.\n- Se proporcionan datos detallados para diferentes códigos HEB y RACK.",
+  "summary_points": [
+    "El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo.",
+    "Se detalla el recuento de estructuras metálicas para un proyecto en Córdoba (España).",
+    "Incluye cantidades de acero, pintura exterior, tramez, barandilla y peldaños.",
+    "Los materiales se suministran según CTE SE-A y requieren un factor de mayoración del 20% para considerar soldaduras y otros elementos adicionales.",
+    "Rejilla de pavimentación de acero galvanizado con malla de seguridad.",
+    "Estructuras metálicas para vanos y plataformas intermedias.",
+    "Suministro de acero laminado S 275 JR según CTE SE- A.",
+    "Factor de mayorización del 20% incluido en los costos.",
+    "Inclusión de elementos como soldaduras, chapas de unión y accesorios de fijación.",
+    "Documento de recuento de estructura para RACK CONVENCIONAL y RACK DE CARRETERA.",
+    "Datos de geometría incluyen barras, sección, longitud y peso por unidad de longitud.",
+    "Se proporcionan datos detallados para diferentes códigos HEB y RACK.",
+    "Total de peso calculado para el RACK DE CARRETERA es 8459,6 kg."
+  ],
+  "keywords": [
+    "1950801-DOC-4130",
+    "CTE SE-A",
+    "CTE SE- A",
+    "Diamonds Version 2025.0.0.0",
+    "Buildsoft Server Version 2025.0.0.0",
+    "HEB",
+    "RACK CONVENCIONAL",
+    "RACK DE CARRETERA"
+  ],
+  "references": [
+    "1950801-DOC-4130",
+    "CTE SE-A",
+    "CTE SE- A",
+    "Diamonds Version 2025.0.0.0",
+    "Buildsoft Server Version 2025.0.0.0",
+    "HEB",
+    "RACK CONVENCIONAL",
+    "RACK DE CARRETERA"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3a07ee82edd6f7d9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3a07ee82edd6f7d9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T16:12:59.451071+00:00",
+  "usage": {
+    "input_tokens": 27586,
+    "output_tokens": 7751,
+    "calls": 7
+  },
+  "repaired_calls": 2,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 31470
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "8fb726844c700a68",
+  "path": "02 GD LOI/Calculos/4521-CAL-LOI-039-062-0001-GAR_901_Mechanical calculations OIL TO SALT HEX.xlsx",
+  "title": "4521-CAL-LOI-039-062-0001-GAR 901 Mechanical calculations OIL TO SALT HEX",
+  "doc_code": "4521-CAL-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project. No client comments or annexes provided.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project. No client comments or annexes provided."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "4521-CAL-LOI-039-062-0001-GAR_901"
+  ],
+  "references": [
+    "4521-CAL-LOI-039-062-0001-GAR",
+    "4521-TMT-AEE-AEPC-0010"
+  ],
+  "warnings": [
+    "Client status code and answer date are missing"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8fb726844c700a68.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8fb726844c700a68.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:37:35.383743+00:00",
+  "usage": {
+    "input_tokens": 1102,
+    "output_tokens": 305,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2052
+}

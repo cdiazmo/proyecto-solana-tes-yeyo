@@ -1,0 +1,61 @@
+{
+  "doc_id": "cc122bc87f165e60",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-45-0021_R0 Glands Specification.xlsx",
+  "title": "4521-ESP-AGE-58-45-0021 R0 Glands Specification",
+  "doc_code": "4521-ESP-AGE-58-45-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-45-0021\n- Initialing required on cover sheet only; all other title block info on all pages\n- Revisions identified in the body of the Specification\n- Notice of Alternative Billing Cycle available from designated agent\n- Confidentiality notice regarding information and know-how\n- Engineering specification for Solana power plant\n- Material quality standards per NEC, IEEE, UL\n- Strict delivery schedule with monthly shipments\n- Required list of spare parts with prices\n- Inspection by Abener Teyma personnel before shipment\n- Invitation to provide alternate quotations\n- Confidentiality agreement for project information",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-45-0021",
+    "Initialing required on cover sheet only; all other title block info on all pages",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternative Billing Cycle available from designated agent",
+    "Confidentiality notice regarding information and know-how",
+    "Engineering specification for Solana power plant",
+    "Material quality standards per NEC, IEEE, UL",
+    "Strict delivery schedule with monthly shipments",
+    "Required list of spare parts with prices",
+    "Inspection by Abener Teyma personnel before shipment",
+    "Invitation to provide alternate quotations",
+    "Confidentiality agreement for project information"
+  ],
+  "keywords": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-58-45-0021",
+    "PGV, CLR, PQJ",
+    "JHR",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "ABENER TEYMA SOLANA AG ENGINEERING"
+  ],
+  "references": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-58-45-0021",
+    "PGV, CLR, PQJ",
+    "JHR",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "ABENER TEYMA SOLANA AG ENGINEERING"
+  ],
+  "warnings": [
+    "Potential OCR errors in dates (Feg/29/2011 should be Feb/29/2011)",
+    "Confusing text in 'Notice of AlTTrnaTT Billing Cycle' section",
+    "Incomplete information in 'General' section"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/cc122bc87f165e60.md",
+  "source_extracted_path": ".yeyo-memory/extracted/cc122bc87f165e60.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:41:11.685182+00:00",
+  "usage": {
+    "input_tokens": 3764,
+    "output_tokens": 1279,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12737
+}

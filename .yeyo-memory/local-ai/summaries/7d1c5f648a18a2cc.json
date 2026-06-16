@@ -1,0 +1,48 @@
+{
+  "doc_id": "7d1c5f648a18a2cc",
+  "path": "12 As Built TES 6/01_M&P/02_Datasheets/4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet/4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet.xlsx",
+  "title": "4521-HDD-AEE-075-064-0010-GAR Rev02 Drain back tank datasheet",
+  "doc_code": "4521-HDD-AEE-075-064-0010",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Drain back tank datasheet detailing specifications, connections, and construction information.",
+  "summary_points": [
+    "Drain back tank datasheet detailing specifications, connections, and construction information."
+  ],
+  "keywords": [
+    "drain back tank",
+    "datasheet",
+    "supplier info",
+    "operating conditions",
+    "design info",
+    "connections",
+    "surface treatment",
+    "construction info",
+    "scope of supply",
+    "notes"
+  ],
+  "references": [
+    "4521-HDD-AEE-075-064-0010-GAR",
+    "ASME VIII DIV.1 / DIV.2",
+    "SA 516 Gr. 70",
+    "A 105 / A 106 Gr.B"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7d1c5f648a18a2cc.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7d1c5f648a18a2cc.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:29:36.666731+00:00",
+  "usage": {
+    "input_tokens": 2835,
+    "output_tokens": 1760,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6672
+}

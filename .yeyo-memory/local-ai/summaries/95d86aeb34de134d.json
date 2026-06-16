@@ -1,0 +1,45 @@
+{
+  "doc_id": "95d86aeb34de134d",
+  "path": "06 Especificaciones Tecnicas/Tuberia/SS37.pdf",
+  "title": "SS37",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "SS37 specifications for molten salt piping, including material, fittings, bolting, and gasket requirements.",
+  "summary_points": [
+    "SS37 specifications for molten salt piping, including material, fittings, bolting, and gasket requirements."
+  ],
+  "keywords": [
+    "SS37",
+    "molten salt piping",
+    "304 SS",
+    "pipe size",
+    "welding",
+    "bolting",
+    "gasket"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "Block Valves: 4521-ESP-ANC-68-64-V380",
+    "Butterfly Valves: N/A",
+    "Plug Valves: N/A"
+  ],
+  "warnings": [
+    "Notes 2 and 4 are marked as deleted, which may indicate missing information."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/95d86aeb34de134d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/95d86aeb34de134d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:48:51.519250+00:00",
+  "usage": {
+    "input_tokens": 1544,
+    "output_tokens": 638,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3811
+}

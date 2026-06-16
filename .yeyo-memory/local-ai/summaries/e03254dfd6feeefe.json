@@ -1,0 +1,40 @@
+{
+  "doc_id": "e03254dfd6feeefe",
+  "path": "01 GD AE/C&S/CAL/4521-CAL-AEE-75-52-0002-GAR-901_Rev00_Drain_back_tank.xlsx",
+  "title": "4521-CAL-AEE-75-52-0002-GAR-901 Rev00 Drain back tank",
+  "doc_code": "4521-CAL-AEE-75-52-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Drain back tank design based on Xina model, input data change, no client comments.",
+  "summary_points": [
+    "Drain back tank design based on Xina model, input data change, no client comments."
+  ],
+  "keywords": [
+    "4521-CAL-AEE-75-52-0002-GAR",
+    "drain back tank",
+    "Ashalim",
+    "Xina",
+    "input data change"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0036"
+  ],
+  "warnings": [
+    "Client comments and annexes not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e03254dfd6feeefe.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e03254dfd6feeefe.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:38:47.125694+00:00",
+  "usage": {
+    "input_tokens": 1173,
+    "output_tokens": 298,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2258
+}

@@ -1,0 +1,55 @@
+{
+  "doc_id": "3897ba91f3aad5e0",
+  "path": "12 As Built TES 6/03_C&S/02_CAL/4521-CAL-AEE-75-52-0004_Rev1-GAR_Drain back tank platform/4521-CAL-AEE-75-52-0004_Rev1-GAR.docx",
+  "title": "4521-CAL-AEE-75-52-0004 Rev1-GAR",
+  "doc_code": "4521-CAL-AEE-75-52-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- The document describes the design and analysis of a Drain Back tank platform at Solana Generating Station.\n- It includes codes and normative references such as IBC 2012, AISC 360-10, and ASCE 7-05.\n- Design basis involves static finite elements analysis using SAP2000 software.\n- Materials used include structural steel and bolts with specific safety factors and load combinations.\n- Results from the analysis are presented in annexes for further review.\n- Joint displacements and reactions are listed for different cases.\n- All U1, U2, and U3 values are zero except for specific joints.\n- Joint Reactions show varying forces in F1, F2, and F3.",
+  "summary_points": [
+    "The document describes the design and analysis of a Drain Back tank platform at Solana Generating Station.",
+    "It includes codes and normative references such as IBC 2012, AISC 360-10, and ASCE 7-05.",
+    "Design basis involves static finite elements analysis using SAP2000 software.",
+    "Materials used include structural steel and bolts with specific safety factors and load combinations.",
+    "Results from the analysis are presented in annexes for further review.",
+    "Joint displacements and reactions are listed for different cases.",
+    "All U1, U2, and U3 values are zero except for specific joints.",
+    "Joint Reactions show varying forces in F1, F2, and F3."
+  ],
+  "keywords": [
+    "IBC 2012",
+    "AISC 360-10",
+    "ASCE 7-05",
+    "SAP2000",
+    "ULS_ENV",
+    "Combination",
+    "Max",
+    "Min"
+  ],
+  "references": [
+    "IBC 2012",
+    "AISC 360-10",
+    "ASCE 7-05",
+    "SAP2000",
+    "ULS_ENV",
+    "Combination",
+    "Max",
+    "Min"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3897ba91f3aad5e0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3897ba91f3aad5e0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T15:49:18.044039+00:00",
+  "usage": {
+    "input_tokens": 21492,
+    "output_tokens": 7497,
+    "calls": 6
+  },
+  "repaired_calls": 2,
+  "chunk_count": 4,
+  "completed_chunks": 4,
+  "completed": true,
+  "text_chars": 28837
+}

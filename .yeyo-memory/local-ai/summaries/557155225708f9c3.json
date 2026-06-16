@@ -1,0 +1,45 @@
+{
+  "doc_id": "557155225708f9c3",
+  "path": "05 GD Fabricación Tecnica de Compra/Deposito drenaje/4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet.pdf",
+  "title": "4521-HDD-AEE-075-064-0010-GAR Rev02 Drain back tank datasheet",
+  "doc_code": "4521-HDD-AEE-075-064-0010",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for a drain back tank, including design specifications, connection list, surface treatment, construction information, and notes on operation and maintenance.",
+  "summary_points": [
+    "This document provides technical details for a drain back tank, including design specifications, connection list, surface treatment, construction information, and notes on operation and maintenance."
+  ],
+  "keywords": [
+    "drain back tank",
+    "design specifications",
+    "connection list",
+    "surface treatment",
+    "construction information",
+    "operation",
+    "maintenance"
+  ],
+  "references": [
+    "4521-HDD-AEE-075-064-0010-GAR",
+    "ASME VIII (and the local Pressure Equipment Regulation)",
+    "SA 516 Gr. 70",
+    "A 105 / A 106 Gr.B"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos términos técnicos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/557155225708f9c3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/557155225708f9c3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:25:09.511444+00:00",
+  "usage": {
+    "input_tokens": 2418,
+    "output_tokens": 1646,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5851
+}

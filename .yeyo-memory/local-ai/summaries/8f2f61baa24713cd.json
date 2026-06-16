@@ -1,0 +1,54 @@
+{
+  "doc_id": "8f2f61baa24713cd",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-PPI-001 Rev.00 - PPI MONTAJE.pdf",
+  "title": "1950801-PPI-001 Rev.00 - PPI MONTAJE",
+  "doc_code": "",
+  "revision": "Rev.00",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Programa de puntos de inspección para la construcción de tuberías y equipos a presión, incluyendo cálculos mecánicos, planos, procedimientos de soldadura, pruebas hidráulicas y documentos finales.",
+  "summary_points": [
+    "Programa de puntos de inspección para la construcción de tuberías y equipos a presión, incluyendo cálculos mecánicos, planos, procedimientos de soldadura, pruebas hidráulicas y documentos finales."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "PPI",
+    "Inspección",
+    "Cálculos Mecánicos",
+    "Planos",
+    "Soldadura",
+    "Pruebas Hidráulicas",
+    "Documentos Finales"
+  ],
+  "references": [
+    "1950801-PPI-001",
+    "ASME B31.3",
+    "1950801-CAL-001",
+    "1950801-DWG-XXX",
+    "1950801-WJL-001",
+    "1950801-WPS-001",
+    "ASME IX",
+    "1950801-PQR-001",
+    "ASME V",
+    "ISO 9712",
+    "1950801CUSTOMER: ATLANTICA",
+    "ITEM: ERECTION ACTIVITIES"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8f2f61baa24713cd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8f2f61baa24713cd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:54:30.750964+00:00",
+  "usage": {
+    "input_tokens": 1992,
+    "output_tokens": 1145,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4183
+}

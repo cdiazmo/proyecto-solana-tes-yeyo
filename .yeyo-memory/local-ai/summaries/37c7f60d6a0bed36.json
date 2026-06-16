@@ -1,0 +1,57 @@
+{
+  "doc_id": "37c7f60d6a0bed36",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V380.pdf",
+  "title": "4521-ESP-ANC-68-64-V380",
+  "doc_code": "4521-ESP-ANC-68-64-V380",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document No: 4521-ESP-ANC-68-64-V380\n- Job No.: 120006, Project: Solana\n- Confidential information and proprietary property of Abener\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Valves for HTF Service include Gate Valves (FA5, FA40, FA6, TA5, TTA40), Globe Valves (FB5, FB40, FB6), and Check Valves (FC56, FC39, FC66)\n- Gate Valve FF A58V for MS service with specific specifications\n- Confidentiality terms apply to the information contained in the document\n- Job No: 120006\n- Project: Solana\n- TA58V and FB58V valves specifications provided\n- Valves for MS (nitrate salt) service mentioned\n- Confidentiality notice included",
+  "summary_points": [
+    "Document No: 4521-ESP-ANC-68-64-V380",
+    "Job No.: 120006, Project: Solana",
+    "Confidential information and proprietary property of Abener",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Valves for HTF Service include Gate Valves (FA5, FA40, FA6, TA5, TTA40), Globe Valves (FB5, FB40, FB6), and Check Valves (FC56, FC39, FC66)",
+    "Gate Valve FF A58V for MS service with specific specifications",
+    "Confidentiality terms apply to the information contained in the document",
+    "Job No: 120006",
+    "Project: Solana",
+    "TA58V and FB58V valves specifications provided",
+    "Valves for MS (nitrate salt) service mentioned",
+    "Confidentiality notice included"
+  ],
+  "keywords": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "4521-ESP-ANC-68-64-V380",
+    "Job No: 120006",
+    "Solana",
+    "TA58V",
+    "FB58V"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "4521-ESP-ANC-68-64-V380",
+    "Job No: 120006",
+    "Solana",
+    "TA58V",
+    "FB58V"
+  ],
+  "warnings": [
+    "OCR issues may have affected the readability of some text"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/37c7f60d6a0bed36.md",
+  "source_extracted_path": ".yeyo-memory/extracted/37c7f60d6a0bed36.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:17:51.944150+00:00",
+  "usage": {
+    "input_tokens": 3545,
+    "output_tokens": 2212,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9079
+}

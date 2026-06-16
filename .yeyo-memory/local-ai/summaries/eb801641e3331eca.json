@@ -1,0 +1,45 @@
+{
+  "doc_id": "eb801641e3331eca",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V314.pdf",
+  "title": "4521-ESP-ANC-68-64-V314",
+  "doc_code": "4521-ESP-ANC-68-64-V314",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the specifications for block and plug valves, check valves, and diaphragm valves used in the Solana project. It includes details on material composition, dimensions, and installation requirements.",
+  "summary_points": [
+    "This document outlines the specifications for block and plug valves, check valves, and diaphragm valves used in the Solana project. It includes details on material composition, dimensions, and installation requirements."
+  ],
+  "keywords": [
+    "Solana",
+    "Engineering Standards",
+    "Block and Plug Valves",
+    "Check Valves",
+    "Diaphragm Valves",
+    "Polypropylene Lined",
+    "Ductile Iron",
+    "Teflon Packing"
+  ],
+  "references": [
+    "PS-V314",
+    "Dow",
+    "Grinnell",
+    "Hills McCanna",
+    "Dore’"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/eb801641e3331eca.md",
+  "source_extracted_path": ".yeyo-memory/extracted/eb801641e3331eca.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:40:12.829067+00:00",
+  "usage": {
+    "input_tokens": 1166,
+    "output_tokens": 805,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2622
+}

@@ -1,0 +1,54 @@
+{
+  "doc_id": "eba27475b642c4c5",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/4521-PLN-AEE-75-52-0003_Rev01_Drain-back tank support/4521-PLN-AEE-75-52-0003_Rev01_Drain-back tank support.pdf",
+  "title": "4521-PLN-AEE-75-52-0003 Rev01 Drain-back tank support",
+  "doc_code": "4521-PLN-AEE-75-52-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "- Baseplate thickness is 3/8\" and has Ø3/4\" holes.\n- Beam type is W10X49.\n- Stiffeners are referenced in KNOT_01.\n- Tank saddle detail includes bolts, nuts, and washers.\n- Anchor bolt details include nuts and washers for leveling.\n- Scale 1\" = 1'-0\" used throughout the document.\n- Fixed and sliding saddles with a maximum deflection of 13mm.\n- Assumptions made about front plate dimensions.\n- Welds between beam, column, and stiffeners detailed in KNOT_01.",
+  "summary_points": [
+    "Baseplate thickness is 3/8\" and has Ø3/4\" holes.",
+    "Beam type is W10X49.",
+    "Stiffeners are referenced in KNOT_01.",
+    "Tank saddle detail includes bolts, nuts, and washers.",
+    "Anchor bolt details include nuts and washers for leveling.",
+    "Scale 1\" = 1'-0\" used throughout the document.",
+    "Fixed and sliding saddles with a maximum deflection of 13mm.",
+    "Assumptions made about front plate dimensions.",
+    "Welds between beam, column, and stiffeners detailed in KNOT_01."
+  ],
+  "keywords": [
+    "KNOT_01",
+    "KNOT_02",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004"
+  ],
+  "references": [
+    "KNOT_01",
+    "KNOT_02",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004"
+  ],
+  "warnings": [
+    "OCR issues with some text recognition"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/eba27475b642c4c5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/eba27475b642c4c5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:38:18.369385+00:00",
+  "usage": {
+    "input_tokens": 7577,
+    "output_tokens": 3301,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9218
+}

@@ -1,0 +1,59 @@
+{
+  "doc_id": "97926536c0176740",
+  "path": "12 As Built TES 6/04_Piping/03_Stress Calculation report/4521-INF-AEE-21-63-0004 (A04)_Rev00_Restraint and Stress Report.pdf",
+  "title": "4521-INF-AEE-21-63-0004 (A04) Rev00 Restraint and Stress Report",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Axial stress varies between 1491.3 lb/in² and 1514.8 lb/in².\n- Bending stress ranges from 13870.6 lb/in² to 13732.4 lb/in².\n- Torsion stress is consistent at 3148.0 lb/in², 3044.6 lb/in², and 3072.9 lb/in².\n- Hoop stress remains constant at 2627.4 lb/in² across all nodes.\n- Maximum stress intensity reaches up to 15061.0 lb/in².\n- All code stress checks passed for load cases L42, L43, L44, L45, and L46.\n- Allowable stress is consistently higher than the calculated code stress.\n- Se presentan datos de cálculo de estrés para diferentes componentes del sistema.\n- Los valores están organizados por tipo de componente (OPE, SUS) y tipo de análisis (Rigid ANC, Displ. Reaction, Rigid +Y).\n- Existen múltiples puntos de datos con coordenadas y parámetros de estrés.\n- Se mencionan valores máximos para diferentes variables de estrés.\n- Los datos incluyen información sobre la dirección y magnitud del estrés en el sistema.",
+  "summary_points": [
+    "Axial stress varies between 1491.3 lb/in² and 1514.8 lb/in².",
+    "Bending stress ranges from 13870.6 lb/in² to 13732.4 lb/in².",
+    "Torsion stress is consistent at 3148.0 lb/in², 3044.6 lb/in², and 3072.9 lb/in².",
+    "Hoop stress remains constant at 2627.4 lb/in² across all nodes.",
+    "Maximum stress intensity reaches up to 15061.0 lb/in².",
+    "All code stress checks passed for load cases L42, L43, L44, L45, and L46.",
+    "Allowable stress is consistently higher than the calculated code stress.",
+    "Se presentan datos de cálculo de estrés para diferentes componentes del sistema.",
+    "Los valores están organizados por tipo de componente (OPE, SUS) y tipo de análisis (Rigid ANC, Displ. Reaction, Rigid +Y).",
+    "Existen múltiples puntos de datos con coordenadas y parámetros de estrés.",
+    "Se mencionan valores máximos para diferentes variables de estrés.",
+    "Los datos incluyen información sobre la dirección y magnitud del estrés en el sistema."
+  ],
+  "keywords": [
+    "CAESAR II 2016 Ver.8.00.00.5600",
+    "Job Name: TES HEX CHANGE_MOLTEN SALTS MODE1",
+    "10010 Rigid ANC",
+    "10011 Displ. Reaction",
+    "10031 Rigid +Y",
+    "10042 Rigid GUI; Rigid +Y",
+    "10051 Rigid +Y",
+    "10065 Rigid GUI; Rigid Y"
+  ],
+  "references": [
+    "CAESAR II 2016 Ver.8.00.00.5600",
+    "Job Name: TES HEX CHANGE_MOLTEN SALTS MODE1",
+    "10010 Rigid ANC",
+    "10011 Displ. Reaction",
+    "10031 Rigid +Y",
+    "10042 Rigid GUI; Rigid +Y",
+    "10051 Rigid +Y",
+    "10065 Rigid GUI; Rigid Y"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/97926536c0176740.md",
+  "source_extracted_path": ".yeyo-memory/extracted/97926536c0176740.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T15:09:51.342356+00:00",
+  "usage": {
+    "input_tokens": 294533,
+    "output_tokens": 83863,
+    "calls": 64
+  },
+  "repaired_calls": 31,
+  "chunk_count": 33,
+  "completed_chunks": 33,
+  "completed": true,
+  "text_chars": 229970
+}

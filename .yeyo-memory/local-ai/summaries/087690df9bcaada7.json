@@ -1,0 +1,44 @@
+{
+  "doc_id": "087690df9bcaada7",
+  "path": "12 As Built TES 6/03_C&S/02_CAL/4521-CAL-AEE-75-52-0001-GAR_Rev01_exchangers_foundation/4521-CAL-AGE-75-52-0001_Rev1.docx",
+  "title": "4521-CAL-AGE-75-52-0001 Rev1",
+  "doc_code": "4521-CAL-AGE-75-52-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- The document describes the design of TES exchanger foundations for Solana Generating Station.\n- Foundation dimensions and materials are specified, including concrete and steel grades.\n- Ground bearing capacity is analyzed using test borings.\n- Safety factors and load combinations are defined according to specific codes.\n- Results from CYPECAD and SAP2000 software are presented in annexes.",
+  "summary_points": [
+    "The document describes the design of TES exchanger foundations for Solana Generating Station.",
+    "Foundation dimensions and materials are specified, including concrete and steel grades.",
+    "Ground bearing capacity is analyzed using test borings.",
+    "Safety factors and load combinations are defined according to specific codes.",
+    "Results from CYPECAD and SAP2000 software are presented in annexes."
+  ],
+  "keywords": [
+    "IBC 2012 International Building Code",
+    "ASCE 7-05 Minimum Design Loads for Buildings and Other Structures",
+    "ACI-318 Building Code Requirements for Structural Concrete",
+    "API 650 Welded Steel Tanks for Oil Storage"
+  ],
+  "references": [
+    "IBC 2012 International Building Code",
+    "ASCE 7-05 Minimum Design Loads for Buildings and Other Structures",
+    "ACI-318 Building Code Requirements for Structural Concrete",
+    "API 650 Welded Steel Tanks for Oil Storage"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/087690df9bcaada7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/087690df9bcaada7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T14:11:31.326758+00:00",
+  "usage": {
+    "input_tokens": 19938,
+    "output_tokens": 8028,
+    "calls": 6
+  },
+  "repaired_calls": 3,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 21536
+}

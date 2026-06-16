@@ -1,0 +1,46 @@
+{
+  "doc_id": "c835850b0d9563b5",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-00-35-0002_R1.pdf",
+  "title": "4521-ESP-AGE-00-35-0002 R1",
+  "doc_code": "4521-ESP-AGE-00-35-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Especificación técnica de cable óptico multimodo para la planta solar Solana, incluyendo propiedades mecánicas y ambientales.",
+  "summary_points": [
+    "Especificación técnica de cable óptico multimodo para la planta solar Solana, incluyendo propiedades mecánicas y ambientales."
+  ],
+  "keywords": [
+    "Optical Fibre Cable",
+    "Solana Power Plant",
+    "ST/BFOC Connector",
+    "Multimode",
+    "Mechanical Properties",
+    "Environmental Conditions",
+    "Hazardous Area Classification",
+    "Direct Buried",
+    "Warranty",
+    "Spare Parts List"
+  ],
+  "references": [
+    "4521'LIS'AGE'57'35'0011 ... 0018",
+    "FO cable list 4521'LIS'AGE'57'35'0011 / 4521'LIS'AGE'57'35'0012 / 4521'LIS'AGE'57'35'0013 / 4521'LIS'AGE'57'35'0014 / 4521'LIS'AGE'57'35'0015 / 4521'LIS'AGE'57'35'0016 / 4521'LIS'AGE'57'35'0017 / 4521'LIS'AGE'57'35'0018"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c835850b0d9563b5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c835850b0d9563b5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:06:26.696031+00:00",
+  "usage": {
+    "input_tokens": 2676,
+    "output_tokens": 898,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6668
+}

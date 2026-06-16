@@ -1,0 +1,57 @@
+{
+  "doc_id": "e9ad94e9c98e8926",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/4521-PLN-AEE-75-52-0001-GAR_Rev01/4521-PLN-AEE-75-52-0001-GAR_Rev01.pdf",
+  "title": "4521-PLN-AEE-75-52-0001-GAR Rev01",
+  "doc_code": "4521-PLN-AEE-75-52-0001",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "- Coordinates provided for the drawing\n- Scale: 1/16\"= 1'-0\"\n- Confidential and proprietary information\n- Notice of Alternate Billing Cycle available from designated agent\n- Allowable foundation bearing capacity is 3,000PSF\n- Anchor bolts supplied by supplier\n- Exchanger equipment details in separate drawing\n- Drain back tank details in separate drawing\n- Backfilling and compaction requirements specified\n- Foundation plan view with scale of 1/4\" = 1'-0\"\n- Sections E-E', F-F', and G-G' detailed with reinforcements\n- Wall pedestal reinforcement dimensions and reinforcements",
+  "summary_points": [
+    "Coordinates provided for the drawing",
+    "Scale: 1/16\"= 1'-0\"",
+    "Confidential and proprietary information",
+    "Notice of Alternate Billing Cycle available from designated agent",
+    "Allowable foundation bearing capacity is 3,000PSF",
+    "Anchor bolts supplied by supplier",
+    "Exchanger equipment details in separate drawing",
+    "Drain back tank details in separate drawing",
+    "Backfilling and compaction requirements specified",
+    "Foundation plan view with scale of 1/4\" = 1'-0\"",
+    "Sections E-E', F-F', and G-G' detailed with reinforcements",
+    "Wall pedestal reinforcement dimensions and reinforcements",
+    "Footing reinforcement dimensions and reinforcements",
+    "Confidential information notice at the bottom"
+  ],
+  "keywords": [
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001",
+    "4521-PLN-LOI-039-062-0003-GAR",
+    "4521-LOI-039-062-0001-GAR",
+    "4521-PLN-AEE-75-52-0002-GAR",
+    "4521-LOI-039-062-0003-GAR"
+  ],
+  "references": [
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001",
+    "4521-PLN-LOI-039-062-0003-GAR",
+    "4521-LOI-039-062-0001-GAR",
+    "4521-PLN-AEE-75-52-0002-GAR",
+    "4521-LOI-039-062-0003-GAR"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e9ad94e9c98e8926.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e9ad94e9c98e8926.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:34:45.980284+00:00",
+  "usage": {
+    "input_tokens": 3937,
+    "output_tokens": 2477,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8593
+}

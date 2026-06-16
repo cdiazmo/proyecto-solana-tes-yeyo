@@ -1,8 +1,10 @@
 from __future__ import annotations
 
+import json
 import re
 import sqlite3
 import sys
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
@@ -21,6 +23,8 @@ from .settings import MAX_CONTEXT_CHARS, MAX_CONTEXT_CHUNKS
 
 TOKEN_RE = re.compile(r"[\wÁÉÍÓÚÜÑáéíóúüñ.-]+", re.UNICODE)
 REGISTRY_KEY_RE = re.compile(r"(?<![A-Z0-9])([A-Z]{1,6})[-_ ]?(\d{4,10})(?![A-Z0-9])", re.I)
+LOCAL_AI_INDEX = Path(".yeyo-memory/local-ai/index.jsonl")
+LOCAL_AI_SUMMARIES_DIR = Path(".yeyo-memory/local-ai/summaries")
 
 
 def strip_accents(text: str) -> str:
@@ -54,6 +58,74 @@ def _fts_query(query: str) -> str:
     if not kws:
         return query
     return " OR ".join(f'"{kw}"' for kw in kws[:16])
+
+
+@lru_cache(maxsize=1)
+def load_local_ai_summaries() -> dict[str, dict[str, Any]]:
+    items: dict[str, dict[str, Any]] = {}
+    if LOCAL_AI_INDEX.exists():
+        for line in LOCAL_AI_INDEX.read_text(encoding="utf-8", errors="replace").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                payload = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            doc_id = str(payload.get("doc_id") or "").strip()
+            if doc_id:
+                items[doc_id] = payload
+        return items
+
+    if not LOCAL_AI_SUMMARIES_DIR.exists():
+        return items
+
+    for summary_file in LOCAL_AI_SUMMARIES_DIR.glob("*.json"):
+        try:
+            payload = json.loads(summary_file.read_text(encoding="utf-8", errors="replace"))
+        except json.JSONDecodeError:
+            continue
+        doc_id = str(payload.get("doc_id") or summary_file.stem).strip()
+        if doc_id:
+            items[doc_id] = payload
+    return items
+
+
+def local_ai_summary_text(summary_payload: dict[str, Any]) -> str:
+    parts: list[str] = []
+    for key in ("summary",):
+        value = str(summary_payload.get(key) or "").strip()
+        if value:
+            parts.append(value)
+    for key in ("summary_points", "keywords", "references", "warnings"):
+        values = summary_payload.get(key) or []
+        if isinstance(values, list):
+            parts.extend(str(item).strip() for item in values if str(item).strip())
+    return "\n".join(parts)
+
+
+def local_ai_score(summary_payload: dict[str, Any], keywords: list[str]) -> int:
+    haystack = strip_accents(local_ai_summary_text(summary_payload).lower())
+    score = 0
+    for kw in keywords:
+        normalized_kw = strip_accents(kw.lower())
+        if normalized_kw and normalized_kw in haystack:
+            score += 1
+    return score
+
+
+def attach_local_ai_fields(doc: dict[str, Any], summary_payload: dict[str, Any] | None) -> dict[str, Any]:
+    if not summary_payload:
+        return doc
+    enriched = dict(doc)
+    enriched["local_ai_summary"] = summary_payload.get("summary") or ""
+    enriched["local_ai_summary_points"] = summary_payload.get("summary_points") or []
+    enriched["local_ai_keywords"] = summary_payload.get("keywords") or []
+    enriched["local_ai_references"] = summary_payload.get("references") or []
+    enriched["local_ai_warnings"] = summary_payload.get("warnings") or []
+    enriched["local_ai_completed"] = bool(summary_payload.get("completed"))
+    enriched["local_ai_summary_path"] = summary_payload.get("summary_path") or ""
+    return enriched
 
 
 def search_chunks(query: str, limit: int = 12) -> list[dict[str, Any]]:
@@ -113,6 +185,7 @@ def search_chunks(query: str, limit: int = 12) -> list[dict[str, Any]]:
 
 def search_documents(query: str, limit: int = 20) -> list[dict[str, Any]]:
     kws = extract_keywords(query)
+    local_ai = load_local_ai_summaries()
     if not kws:
         # Fallback to simple query if no keywords extracted
         like = f"%{query}%"
@@ -129,7 +202,8 @@ def search_documents(query: str, limit: int = 20) -> list[dict[str, Any]]:
                 """,
                 (like, like, like, limit),
             ).fetchall()
-        return [dict(row) for row in rows]
+        docs = [dict(row) for row in rows]
+        return [attach_local_ai_fields(doc, local_ai.get(str(doc.get("id") or ""))) for doc in docs]
 
     conditions = []
     params = []
@@ -156,7 +230,40 @@ def search_documents(query: str, limit: int = 20) -> list[dict[str, Any]]:
     """
     with document_conn() as conn:
         rows = conn.execute(query_str, params).fetchall()
-    return [dict(row) for row in rows]
+        docs = [dict(row) for row in rows]
+
+        summary_hits: list[tuple[int, str]] = []
+        for doc_id, payload in local_ai.items():
+            score = local_ai_score(payload, kws)
+            if score > 0:
+                summary_hits.append((score, doc_id))
+        summary_hits.sort(key=lambda item: (-item[0], item[1]))
+
+        existing_ids = {str(doc.get("id") or "") for doc in docs}
+        extra_ids = [doc_id for _, doc_id in summary_hits if doc_id not in existing_ids][:limit]
+        if extra_ids:
+            placeholders = ",".join("?" for _ in extra_ids)
+            extra_rows = conn.execute(
+                f"""
+                SELECT id, path, top_dir, ext, size_human, title, doc_code, revision,
+                       status, text_chars, chunks, token_estimate, card_path, extracted_path,
+                       0 AS score
+                FROM documents
+                WHERE id IN ({placeholders})
+                """,
+                extra_ids,
+            ).fetchall()
+            docs.extend(dict(row) for row in extra_rows)
+
+    for doc in docs:
+        doc_id = str(doc.get("id") or "")
+        summary_payload = local_ai.get(doc_id)
+        if summary_payload:
+            doc["score"] = int(doc.get("score") or 0) + (local_ai_score(summary_payload, kws) * 3)
+        doc.update(attach_local_ai_fields(doc, summary_payload))
+
+    docs.sort(key=lambda item: (-int(item.get("score") or 0), int(item.get("text_chars") or 0), item.get("path") or ""))
+    return docs[:limit]
 
 
 def normalize_registry_key(value: str) -> str:
@@ -166,9 +273,13 @@ def normalize_registry_key(value: str) -> str:
     return f"{match.group(1).upper()}-{match.group(2)}"
 
 
+def extract_registry_key_tokens(query: str) -> list[str]:
+    return [f"{match.group(1).upper()}-{match.group(2)}" for match in REGISTRY_KEY_RE.finditer(query)]
+
+
 def search_registry_keys(query: str, limit: int = 20) -> list[dict[str, Any]]:
     normalized = normalize_registry_key(query)
-    key_tokens = [f"{match.group(1).upper()}-{match.group(2)}" for match in REGISTRY_KEY_RE.finditer(query)]
+    key_tokens = extract_registry_key_tokens(query)
     raw_terms = TOKEN_RE.findall(query)
     prefix_terms = [term for term in raw_terms if re.fullmatch(r"[A-Z]{2,8}", term)]
     if not key_tokens and not prefix_terms:
@@ -243,7 +354,7 @@ def build_context(query: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]
     matched_docs = search_documents(query, limit=25)
     # Search relevant chunks
     chunks = search_chunks(query, limit=MAX_CONTEXT_CHUNKS)
-    registry_hits = search_registry_keys(query, limit=20)
+    registry_hits = search_registry_keys(query, limit=20) if extract_registry_key_tokens(query) else []
     
     parts: list[str] = []
     
@@ -251,12 +362,19 @@ def build_context(query: str) -> tuple[list[dict[str, Any]], list[dict[str, Any]
         parts.append("### DOCUMENTOS COINCIDENTES EN EL INVENTARIO/CATÁLOGO:")
         for idx, doc in enumerate(matched_docs, start=1):
             ref = doc.get("doc_code") or doc.get("title") or doc["path"]
+            summary_block = ""
+            if doc.get("local_ai_summary"):
+                summary_block = f"\nResumen local AI: {doc['local_ai_summary']}"
+            refs = doc.get("local_ai_references") or []
+            if refs:
+                summary_block += f"\nReferencias resumen: {', '.join(refs[:10])}"
             parts.append(
                 f"Doc #{idx}: {ref}\n"
                 f"Ruta: {doc['path']}\n"
                 f"Título: {doc.get('title') or '-'}\n"
                 f"Código: {doc.get('doc_code') or '-'}\n"
                 f"Estado en BD: {doc['status']}"
+                f"{summary_block}"
             )
         parts.append("---")
 

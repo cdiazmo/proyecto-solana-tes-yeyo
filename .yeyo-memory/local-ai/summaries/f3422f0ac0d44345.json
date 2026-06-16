@@ -1,0 +1,50 @@
+{
+  "doc_id": "f3422f0ac0d44345",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-CAL-0002.00-Calculo Estructural estructura plataforma soporte bombas de sales.pdf",
+  "title": "1950801-CAL-0002.00-Calculo Estructural estructura plataforma soporte bombas de sales",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Este documento es un cálculo estructural orientativo de las estructuras metálicas existentes.\n- Se han creado dos modelos de cálculo: uno con la estructura soporte y pasarela, otro con el rack de tubería.\n- Las cargas incluidas son peso propio, tubería, viento y sísmicas.\n- El cálculo se realiza según los criterios del Código Técnico de la Edificación (CTE) y norma europea EN 1090.\n- Las mismas combinaciones de carga se aplican tanto al rack como a la estructura soporte de las bombas de sales.\n- Se realizan 3 comprobaciones: resistencia de las vigas, resistencia a pandeo y análisis de flechas máximas.\n- Para el rack y la estructura soporte, la viga mecánicamente más exigida está al 34% de su capacidad.\n- Las flechas admisibles superan las obtenidas en ambos modelos, lo que confirma la validez de los cálculos.\n- El cálculo es susceptible a cambios en próximas fases del proyecto.",
+  "summary_points": [
+    "Este documento es un cálculo estructural orientativo de las estructuras metálicas existentes.",
+    "Se han creado dos modelos de cálculo: uno con la estructura soporte y pasarela, otro con el rack de tubería.",
+    "Las cargas incluidas son peso propio, tubería, viento y sísmicas.",
+    "El cálculo se realiza según los criterios del Código Técnico de la Edificación (CTE) y norma europea EN 1090.",
+    "Las mismas combinaciones de carga se aplican tanto al rack como a la estructura soporte de las bombas de sales.",
+    "Se realizan 3 comprobaciones: resistencia de las vigas, resistencia a pandeo y análisis de flechas máximas.",
+    "Para el rack y la estructura soporte, la viga mecánicamente más exigida está al 34% de su capacidad.",
+    "Las flechas admisibles superan las obtenidas en ambos modelos, lo que confirma la validez de los cálculos.",
+    "El cálculo es susceptible a cambios en próximas fases del proyecto."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "LOINTEK",
+    "CTE",
+    "EN 1090",
+    "1950801-INF-6001"
+  ],
+  "references": [
+    "ATLANTICA",
+    "LOINTEK",
+    "CTE",
+    "EN 1090",
+    "1950801-INF-6001"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f3422f0ac0d44345.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f3422f0ac0d44345.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:45:54.580829+00:00",
+  "usage": {
+    "input_tokens": 4478,
+    "output_tokens": 1007,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13165
+}

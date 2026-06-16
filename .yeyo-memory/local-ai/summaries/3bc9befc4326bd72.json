@@ -1,0 +1,46 @@
+{
+  "doc_id": "3bc9befc4326bd72",
+  "path": "04 GD Fabricacon LOI TES 3/Documentos procesos/TD-CAL-SLN-002-00 Process flow conditions heat & mass balances.pdf",
+  "title": "TD-CAL-SLN-002-00 Process flow conditions heat & mass balances",
+  "doc_code": "TD-CAL-SLN-002-00",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "This document provides temperature and pressure data for heat transfer fluids (HTF) and salts in a HEX replacement TES Solana project. It includes data for different cases such as guaranteed charging, discharging, summer charge, winter discharge, and load charging.",
+  "summary_points": [
+    "This document provides temperature and pressure data for heat transfer fluids (HTF) and salts in a HEX replacement TES Solana project. It includes data for different cases such as guaranteed charging, discharging, summer charge, winter discharge, and load charging."
+  ],
+  "keywords": [
+    "TD-CAL-SLN-002",
+    "HEX replacement",
+    "TES Solana",
+    "temperature",
+    "pressure",
+    "heat transfer fluids",
+    "salts",
+    "guaranteed case",
+    "load charging"
+  ],
+  "references": [
+    "1950201-CAL-002",
+    "ATLANTICA YIELD",
+    "Abengoa"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos valores numéricos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3bc9befc4326bd72.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3bc9befc4326bd72.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:43:54.630890+00:00",
+  "usage": {
+    "input_tokens": 2293,
+    "output_tokens": 1377,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3294
+}

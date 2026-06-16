@@ -1,0 +1,45 @@
+{
+  "doc_id": "6f4df0ff07848d61",
+  "path": "02 GD LOI/Calculos/4521-CAL-LOI-039-062-0002-GAR  Rev00   Process Flow Conditions  Heat & Mass Balances.pdf",
+  "title": "4521-CAL-LOI-039-062-0002-GAR Rev00 Process Flow Conditions Heat & Mass Balances",
+  "doc_code": "4521-CAL-LOI-039-062-0002",
+  "revision": "Rev00",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Document is for HEX replacement TES Solana project.\n- Heat exchanger specifications include dimensions, fluid properties, and performance data.\n- Two job numbers are listed: DISCHARGE NOMINAL and SUMMER CHARGE.\n- Each job number has its own set of fluid allocation, temperature, pressure, and heat exchanged data.\n- Construction details for\n- Heat exchanger specifications for two different operating conditions.\n- Shell side fluid: MOLTEN SALT, Tube side fluid: THERMINOL VP1.\n- Performance metrics include heat exchanged and transfer rates.\n- Construction details include design pressure, temperature, and tube specifications.\n- Code requirements adhere to ASME Code Sec. VIII Div. 2 TEMA Class R.",
+  "summary_points": [
+    "Document is for HEX replacement TES Solana project.",
+    "Heat exchanger specifications include dimensions, fluid properties, and performance data.",
+    "Two job numbers are listed: DISCHARGE NOMINAL and SUMMER CHARGE.",
+    "Each job number has its own set of fluid allocation, temperature, pressure, and heat exchanged data.",
+    "Construction details for",
+    "Heat exchanger specifications for two different operating conditions.",
+    "Shell side fluid: MOLTEN SALT, Tube side fluid: THERMINOL VP1.",
+    "Performance metrics include heat exchanged and transfer rates.",
+    "Construction details include design pressure, temperature, and tube specifications.",
+    "Code requirements adhere to ASME Code Sec. VIII Div. 2 TEMA Class R."
+  ],
+  "keywords": [
+    "ASME Code Sec. VIII Div. 2",
+    "TEMA Class R"
+  ],
+  "references": [
+    "ASME Code Sec. VIII Div. 2",
+    "TEMA Class R"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6f4df0ff07848d61.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6f4df0ff07848d61.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:30:06.222234+00:00",
+  "usage": {
+    "input_tokens": 8175,
+    "output_tokens": 3581,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11517
+}

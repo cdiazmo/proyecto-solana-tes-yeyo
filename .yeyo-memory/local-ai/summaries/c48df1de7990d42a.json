@@ -1,0 +1,42 @@
+{
+  "doc_id": "c48df1de7990d42a",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-AEE-68-51-0001_REV04_SEALED.PDF",
+  "title": "4521-PLN-AEE-68-51-0001 REV04 SEALED",
+  "doc_code": "4521-PLN-AEE-68-51-",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico con detalles de escalas, espacios de tubos y acceso a grúas para el proyecto Abengoa Solar.",
+  "summary_points": [
+    "Documento técnico con detalles de escalas, espacios de tubos y acceso a grúas para el proyecto Abengoa Solar."
+  ],
+  "keywords": [
+    "documentacion",
+    "escala",
+    "espacio de tubos",
+    "acceso a grúas",
+    "abengoa solar"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-51-",
+    "PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-AEE-68-51-0001_REV04_SEALED.PDF",
+    "Abener Engineering and Construction Services, LLC"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c48df1de7990d42a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c48df1de7990d42a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:23:44.224927+00:00",
+  "usage": {
+    "input_tokens": 2219,
+    "output_tokens": 991,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5625
+}

@@ -1,0 +1,73 @@
+{
+  "doc_id": "0359bc8596a1b149",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-45-0020_R1 Junction Boxes Specification HTF.xlsx",
+  "title": "4521-ESP-AGE-58-45-0020 R1 Junction Boxes Specification HTF",
+  "doc_code": "4521-ESP-AGE-58-45-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-45-0020\n- Initialing required on cover sheet only; all other title block info on all pages\n- Revisions identified in the body of the Specification\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Confidentiality terms for information and know-how\n- Junction boxes must meet NEC, IEEE, UL standards.\n- Vendor data and documentation are crucial for project progress.\n- Quotations should include time for approval drawings and fabrication.\n- Equipment is to be delivered to the purchaser's manufacturing site with specific locations to be released later.\n- Shipment must adhere to a strict delivery schedule finalized at the time of the final contract materialization.\n- A list of recommended spare parts for one year's normal maintenance is required.\n- Equipment will be subject to inspection by Abener Teyma personnel before shipment.",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-45-0020",
+    "Initialing required on cover sheet only; all other title block info on all pages",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Confidentiality terms for information and know-how",
+    "Junction boxes must meet NEC, IEEE, UL standards.",
+    "Vendor data and documentation are crucial for project progress.",
+    "Quotations should include time for approval drawings and fabrication.",
+    "Equipment is to be delivered to the purchaser's manufacturing site with specific locations to be released later.",
+    "Shipment must adhere to a strict delivery schedule finalized at the time of the final contract materialization.",
+    "A list of recommended spare parts for one year's normal maintenance is required.",
+    "Equipment will be subject to inspection by Abener Teyma personnel before shipment.",
+    "Vendor may recommend alternates or changes that reduce initial or maintenance costs and improve quality.",
+    "Specifications were prepared using accepted engineering practices, approved technical standards, and meeting EPA and OSHA regulations.",
+    "The document lists specifications for junction boxes used in HTF service.",
+    "There are two sizes of junction boxes: big and small.",
+    "Each box has a unique tag, DCS remote drop, punch out holes, number of terminals, and dimensions.",
+    "Multiple revisions of the document have been made.",
+    "The document is related to the Solana power plant."
+  ],
+  "keywords": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-58-45-0020",
+    "PGV, CLR, PQJ, JHR",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Rev. 3/2011",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA SOLANA AG ENGINEERING",
+    "Document Nº: 4521-ESP-AGE-58-45-0020",
+    "Rev.: 1"
+  ],
+  "references": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-58-45-0020",
+    "PGV, CLR, PQJ, JHR",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Rev. 3/2011",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA SOLANA AG ENGINEERING",
+    "Document Nº: 4521-ESP-AGE-58-45-0020",
+    "Rev.: 1"
+  ],
+  "warnings": [
+    "Fragmento confuso en la sección de 'Notice of Alternate Billing Cycle'",
+    "Repetición de fechas y detalles de revisión"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0359bc8596a1b149.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0359bc8596a1b149.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:20:05.899767+00:00",
+  "usage": {
+    "input_tokens": 5530,
+    "output_tokens": 3135,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15098
+}

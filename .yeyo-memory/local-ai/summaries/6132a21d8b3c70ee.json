@@ -1,0 +1,53 @@
+{
+  "doc_id": "6132a21d8b3c70ee",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/MEM/4521-MEM-AEE-68-10-0001-GAR Rev 00 TES Replacement HEX Operation Philosophy.pdf",
+  "title": "4521-MEM-AEE-68-10-0001-GAR Rev 00 TES Replacement HEX Operation Philosophy",
+  "doc_code": "4521-MEM-AEE-68-10-0001",
+  "revision": "Rev 00",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Replacement of HEXs in TES system\n- New tube & shell type HEXs for improved performance\n- Installation of a drain back tank\n- Interchangeability between TES systems\n- Adjustments to the HTF circuit\n- Charge operation heats cold M S with hot HTF from solar field.\n- MS circuit must be purged of gases before normal operation.\n- Shutdown involves stopping pumps and opening vent valves to drain MS.\n- Discharge operation uses the same procedure as charge but with hot MS pump.\n- Drainage is an exceptional mode for maintenance work on MS circuit.",
+  "summary_points": [
+    "Replacement of HEXs in TES system",
+    "New tube & shell type HEXs for improved performance",
+    "Installation of a drain back tank",
+    "Interchangeability between TES systems",
+    "Adjustments to the HTF circuit",
+    "Charge operation heats cold M S with hot HTF from solar field.",
+    "MS circuit must be purged of gases before normal operation.",
+    "Shutdown involves stopping pumps and opening vent valves to drain MS.",
+    "Discharge operation uses the same procedure as charge but with hot MS pump.",
+    "Drainage is an exceptional mode for maintenance work on MS circuit."
+  ],
+  "keywords": [
+    "4521-MEM-AEE-68-10-0001-GAR",
+    "PMG/MMA",
+    "JMRL",
+    "Rev 00",
+    "23/12/2016"
+  ],
+  "references": [
+    "4521-MEM-AEE-68-10-0001-GAR",
+    "PMG/MMA",
+    "JMRL",
+    "Rev 00",
+    "23/12/2016"
+  ],
+  "warnings": [
+    "Copyrighted material, reproduction or distribution without permission is strictly forbidden."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6132a21d8b3c70ee.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6132a21d8b3c70ee.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:35:46.689622+00:00",
+  "usage": {
+    "input_tokens": 3546,
+    "output_tokens": 1367,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12069
+}

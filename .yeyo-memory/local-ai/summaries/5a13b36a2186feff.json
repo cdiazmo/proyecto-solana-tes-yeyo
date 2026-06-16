@@ -1,0 +1,58 @@
+{
+  "doc_id": "5a13b36a2186feff",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/TD-INS-SLN-012-00 Performance Test Procedure.pdf",
+  "title": "TD-INS-SLN-012-00 Performance Test Procedure",
+  "doc_code": "TD-INS-SLN-012-00",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document describes performance testing procedure for Oil to Salt heat exchangers.\n- ASME PTC 12.5-2000 and 4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED are referenced.\n- Calculation method based on ASME PTC 12.5 predicts performance values to be compared with measured data.\n- Stakeholders must agree on various points before starting the test, including testing responsible and reference conditions.\n- Client is responsible for carrying out tests, while Lointek analyzes results and issues reports.\n- Four variables are measured for thermal calculation according to ASME PTC 12.5.\n- Five cases (Maximum Charge, Discharging, Summer Charge, Winter Discharge, and 25% Load Charging) define reference conditions.\n- Heat exchanger must operate at steady state for at least 15 minutes before measurements.\n- Fouling coefficient may be reviewed if extraordinary elements are found during inspection.\n- Instruments used for control and safety of the power plant will measure system variables.\n- Plugged tubes should be documented in Annex A.\n- HTRI program calculates thermal duty and outlet temperatures for plugged tubes.",
+  "summary_points": [
+    "Document describes performance testing procedure for Oil to Salt heat exchangers.",
+    "ASME PTC 12.5-2000 and 4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED are referenced.",
+    "Calculation method based on ASME PTC 12.5 predicts performance values to be compared with measured data.",
+    "Stakeholders must agree on various points before starting the test, including testing responsible and reference conditions.",
+    "Client is responsible for carrying out tests, while Lointek analyzes results and issues reports.",
+    "Four variables are measured for thermal calculation according to ASME PTC 12.5.",
+    "Five cases (Maximum Charge, Discharging, Summer Charge, Winter Discharge, and 25% Load Charging) define reference conditions.",
+    "Heat exchanger must operate at steady state for at least 15 minutes before measurements.",
+    "Fouling coefficient may be reviewed if extraordinary elements are found during inspection.",
+    "Instruments used for control and safety of the power plant will measure system variables.",
+    "Plugged tubes should be documented in Annex A.",
+    "HTRI program calculates thermal duty and outlet temperatures for plugged tubes.",
+    "Inspections include equipment dimensions, lagging, plugged tubes, cleaning, and instruments.",
+    "Measuring instruments: thermometers, manometers, mass flow meters at inlet/outlet.",
+    "Performance testing measures must be consistent with data; rejected if inconsistent."
+  ],
+  "keywords": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "ASME PTC 12.5",
+    "TD-INS-SLN-012",
+    "Revision: 00",
+    "Date: 27/10/2020"
+  ],
+  "references": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "ASME PTC 12.5",
+    "TD-INS-SLN-012",
+    "Revision: 00",
+    "Date: 27/10/2020"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5a13b36a2186feff.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5a13b36a2186feff.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:17:44.905609+00:00",
+  "usage": {
+    "input_tokens": 6041,
+    "output_tokens": 2611,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 18975
+}

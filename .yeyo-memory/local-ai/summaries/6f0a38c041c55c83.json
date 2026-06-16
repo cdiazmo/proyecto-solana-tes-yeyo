@@ -1,0 +1,45 @@
+{
+  "doc_id": "6f0a38c041c55c83",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V353.pdf",
+  "title": "4521-ESP-ANC-68-64-V353",
+  "doc_code": "4521-ESP-ANC-68-64-V353",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Document detailing specifications for triple offset rotary valves including materials, installation standards, and billing cycle options.",
+  "summary_points": [
+    "Document detailing specifications for triple offset rotary valves including materials, installation standards, and billing cycle options."
+  ],
+  "keywords": [
+    "Rotary Valves",
+    "Specifications",
+    "Materials",
+    "Installation Standards",
+    "Billing Cycle",
+    "Triple Offset",
+    "Steam Service",
+    "ASTM A216",
+    "WCB Body",
+    "UNS31803",
+    "Stellite 21"
+  ],
+  "references": [
+    "EC-94 –Solana Specific Standard Form (Rev. 08/2010)",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6f0a38c041c55c83.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6f0a38c041c55c83.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:00:18.015244+00:00",
+  "usage": {
+    "input_tokens": 1964,
+    "output_tokens": 1271,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4867
+}

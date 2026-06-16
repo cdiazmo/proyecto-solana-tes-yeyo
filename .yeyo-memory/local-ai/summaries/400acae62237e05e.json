@@ -1,0 +1,48 @@
+{
+  "doc_id": "400acae62237e05e",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev01/DRA/4521-PLN-AEE-68-51-0001_REV04_SEALED.pdf",
+  "title": "4521-PLN-AEE-68-51-0001 REV04 SEALED",
+  "doc_code": "4521-PLN-AEE-68-51-",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for building permissions with scale, equipment details, and revision history.",
+  "summary_points": [
+    "Drawing for building permissions with scale, equipment details, and revision history."
+  ],
+  "keywords": [
+    "drawing",
+    "scale",
+    "equipment",
+    "crane access",
+    "revisions",
+    "confidential",
+    "billing cycle"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-51-",
+    "MV205A",
+    "MV205M",
+    "Crane Access",
+    "JAG",
+    "JMRL",
+    "YAC"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/400acae62237e05e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/400acae62237e05e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:23:02.831215+00:00",
+  "usage": {
+    "input_tokens": 2218,
+    "output_tokens": 404,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5625
+}

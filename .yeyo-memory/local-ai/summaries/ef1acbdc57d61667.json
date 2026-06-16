@@ -1,0 +1,48 @@
+{
+  "doc_id": "ef1acbdc57d61667",
+  "path": "12 As Built TES 6/01_M&P/02_Datasheets/4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet/4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet.pdf",
+  "title": "4521-HDD-AEE-075-064-0010-GAR Rev02 Drain back tank datasheet",
+  "doc_code": "4521-HDD-AEE-075-064-0010",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drain back tank datasheet for project 4521-HDD-AEE-075-064-0010-GAR. Includes design specifications, operating conditions, connections, and construction details.",
+  "summary_points": [
+    "Drain back tank datasheet for project 4521-HDD-AEE-075-064-0010-GAR. Includes design specifications, operating conditions, connections, and construction details."
+  ],
+  "keywords": [
+    "drain back tank",
+    "project 4521-HDD-AEE-075-064-0010-GAR",
+    "design specifications",
+    "operating conditions",
+    "connections",
+    "construction details"
+  ],
+  "references": [
+    "Korbbogen",
+    "Body",
+    "Fluid",
+    "Units",
+    "Page: 3 of 4",
+    "Document: 4521-HDD-AEE-075-064-0010-GAR",
+    "Revision: 02 Date: 18/11/2016",
+    "Page: 4 of 4"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ef1acbdc57d61667.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ef1acbdc57d61667.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:25:54.082946+00:00",
+  "usage": {
+    "input_tokens": 2452,
+    "output_tokens": 1774,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5851
+}

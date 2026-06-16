@@ -1,0 +1,44 @@
+{
+  "doc_id": "5a5e7c7f272c0b68",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V310.pdf",
+  "title": "4521-ESP-ANC-68-64-V310",
+  "doc_code": "4521-ESP-ANC-68-64-V310",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Butterfly valves specifications for stainless steel, including class 150 inserts for sizes 3”-20” and 3”-24”, with details on materials, operators, flange faces, stems, seals, and seats.",
+  "summary_points": [
+    "Butterfly valves specifications for stainless steel, including class 150 inserts for sizes 3”-20” and 3”-24”, with details on materials, operators, flange faces, stems, seals, and seats."
+  ],
+  "keywords": [
+    "butterfly valves",
+    "stainless steel",
+    "class 150",
+    "inserts",
+    "stem",
+    "seals",
+    "seat"
+  ],
+  "references": [
+    "MSS-SP-6",
+    "ASTM A-351",
+    "ASTM A-744",
+    "Ferralium 255",
+    "PTFE"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5a5e7c7f272c0b68.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5a5e7c7f272c0b68.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:37:21.092207+00:00",
+  "usage": {
+    "input_tokens": 974,
+    "output_tokens": 409,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1914
+}

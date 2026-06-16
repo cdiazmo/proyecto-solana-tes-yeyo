@@ -1,0 +1,64 @@
+{
+  "doc_id": "6b065f8c211ba9e1",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-AEE-75-52-0006_REV01_SEALED.PDF",
+  "title": "4521-PLN-AEE-75-52-0006 REV01 SEALED",
+  "doc_code": "4521-PLN-AEE-75-52-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Documentos técnicos relacionados con los planos de civil y estructural, incluyendo notas sobre la capacidad de soporte de las fundaciones y procedimientos de inspección.",
+  "summary_points": [
+    "Documentos técnicos relacionados con los planos de civil y estructural, incluyendo notas sobre la capacidad de soporte de las fundaciones y procedimientos de inspección."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-52-",
+    "civil",
+    "estructuras",
+    "fundaciones",
+    "capacidad de soporte",
+    "inspección visual",
+    "manual probing",
+    "suelos firmes",
+    "relleno compactado"
+  ],
+  "references": [
+    "F02",
+    "F03",
+    "F04_AF06",
+    "F07",
+    "F09",
+    "F13",
+    "F11_A",
+    "F10_B",
+    "F10_C",
+    "F19",
+    "F20",
+    "F18_C",
+    "F18_B",
+    "F18_A",
+    "F16",
+    "F22",
+    "F23_A",
+    "F23_B",
+    "F26",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001"
+  ],
+  "warnings": [
+    "Tabla a actualizar como marcado después de remover la fundación"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6b065f8c211ba9e1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6b065f8c211ba9e1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:27:16.501922+00:00",
+  "usage": {
+    "input_tokens": 2188,
+    "output_tokens": 773,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5986
+}

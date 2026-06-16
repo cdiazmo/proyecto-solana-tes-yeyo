@@ -1,0 +1,45 @@
+{
+  "doc_id": "096cb2c10736ef34",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0267_R02.pdf",
+  "title": "4521-PLN-DOT-75-63-0267 R02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design and specifications of support structures for a solar project in Arizona, including dimensions, materials, and load capacities.",
+  "summary_points": [
+    "This document describes the design and specifications of support structures for a solar project in Arizona, including dimensions, materials, and load capacities."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "stiffeners",
+    "stainless steel",
+    "trunnion",
+    "microtherm sheet",
+    "load capacity",
+    "vertical profile",
+    "H profiles"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0267",
+    "252-HTF-21F-S-009"
+  ],
+  "warnings": [
+    "OCR issues with some characters and numbers"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/096cb2c10736ef34.md",
+  "source_extracted_path": ".yeyo-memory/extracted/096cb2c10736ef34.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:27:31.695684+00:00",
+  "usage": {
+    "input_tokens": 2464,
+    "output_tokens": 445,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6012
+}

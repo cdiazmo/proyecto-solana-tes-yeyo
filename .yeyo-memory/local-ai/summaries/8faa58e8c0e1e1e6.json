@@ -1,0 +1,40 @@
+{
+  "doc_id": "8faa58e8c0e1e1e6",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS18.pdf",
+  "title": "4521-ESP-ANC-68-61-SS18",
+  "doc_code": "4521-ESP-ANC-68-61-SS18",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document specifies the material and installation standards for chemical feed piping systems, including pipe materials, fittings, flanges, bolting, gaskets, and valves. It also includes a pressure/temperature chart.",
+  "summary_points": [
+    "This document specifies the material and installation standards for chemical feed piping systems, including pipe materials, fittings, flanges, bolting, gaskets, and valves. It also includes a pressure/temperature chart."
+  ],
+  "keywords": [
+    "chemical feed piping",
+    "304L SS",
+    "buttweld flanges",
+    "socketweld valves",
+    "pressure/temperature chart"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V311"
+  ],
+  "warnings": [
+    "OCR defectuoso en la tabla de presión/temperatura"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8faa58e8c0e1e1e6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8faa58e8c0e1e1e6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:03:20.335520+00:00",
+  "usage": {
+    "input_tokens": 2412,
+    "output_tokens": 658,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5660
+}

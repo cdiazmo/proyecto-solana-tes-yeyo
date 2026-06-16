@@ -1,0 +1,51 @@
+{
+  "doc_id": "7ff59bab59e197d1",
+  "path": "02 GD LOI/Calculos/4521-CAL-LOI-039-062-0002-GAR Rev01 Process Flow Conditions  Heat & Mass Balances.pdf",
+  "title": "4521-CAL-LOI-039-062-0002-GAR Rev01 Process Flow Conditions Heat & Mass Balances",
+  "doc_code": "4521-CAL-LOI-039-062-0002",
+  "revision": "Rev01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Document detailing process flow conditions and heat & mass balances for HEX replacement TES Solana project.",
+  "summary_points": [
+    "Document detailing process flow conditions and heat & mass balances for HEX replacement TES Solana project."
+  ],
+  "keywords": [
+    "Abengoa",
+    "Process Flow Conditions",
+    "Heat & Mass Balances",
+    "Arizona Solar One",
+    "TES Solana",
+    "4521-CAL-LOI-039-062-0002-GAR",
+    "195001-CAL-0001",
+    "Rev01",
+    "Jon Ander Agúndez",
+    "Iñaki Ugarte",
+    "Aitor López de Subijana"
+  ],
+  "references": [
+    "4521-CAL-LOI-039-062-0002-GAR",
+    "195001-CAL-0001",
+    "Rev01",
+    "Jon Ander Agúndez",
+    "Iñaki Ugarte",
+    "Aitor López de Subijana"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos valores numéricos y unidades"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7ff59bab59e197d1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7ff59bab59e197d1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:44:11.960839+00:00",
+  "usage": {
+    "input_tokens": 2403,
+    "output_tokens": 546,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3360
+}

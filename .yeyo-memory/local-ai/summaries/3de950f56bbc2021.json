@@ -1,0 +1,41 @@
+{
+  "doc_id": "3de950f56bbc2021",
+  "path": "13_Documentos de Inspección Final/418-2nd-Floor-1_20210826_114035_002581.pdf",
+  "title": "418-2nd-Floor-1 20210826 114035 002581",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Inspection of Drain-back Tank: Rebar and forms meet specifications; concrete pour flawless with OSHA compliance.",
+  "summary_points": [
+    "Inspection of Drain-back Tank: Rebar and forms meet specifications; concrete pour flawless with OSHA compliance."
+  ],
+  "keywords": [
+    "Drain-back Tank",
+    "Rebar",
+    "Forms",
+    "Concrete Pour",
+    "OSHA Compliance"
+  ],
+  "references": [
+    "ACI318-14",
+    "Speedie and Associates"
+  ],
+  "warnings": [
+    "OCR issues detected in some text"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3de950f56bbc2021.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3de950f56bbc2021.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:38:39.077767+00:00",
+  "usage": {
+    "input_tokens": 1065,
+    "output_tokens": 346,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2251
+}

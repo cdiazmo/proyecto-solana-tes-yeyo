@@ -1,0 +1,56 @@
+{
+  "doc_id": "5416c3b3c0497e05",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-67-70-0022_R1.pdf",
+  "title": "4521-ESP-AGE-67-70-0022 R1",
+  "doc_code": "4521-ESP-AGE-67-70-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document is an instrument specification for well water pumps.\n- Revisions are tracked with revision numbers, dates, and descriptions.\n- Confidentiality terms restrict use and reproduction of information.\n- Scope includes supply of instruments, cables, gaskets, manifolds, etc.\n- Supplier must deliver material to designated locations and track purchases.\n- All materials must meet NEC, IEEE, UL standards.\n- Vendor data is crucial for project progress.\n- Equipment must be delivered to the purchaser's manufacturing site.\n- Monthly shipping of 2 units starting January 2012.\n- Spare parts list and pricing required with quotation.\n- Equipment subject to inspection by Abener Teyma personnel.\n- Alternate quotations invited for improvements in price, delivery or performance.",
+  "summary_points": [
+    "The document is an instrument specification for well water pumps.",
+    "Revisions are tracked with revision numbers, dates, and descriptions.",
+    "Confidentiality terms restrict use and reproduction of information.",
+    "Scope includes supply of instruments, cables, gaskets, manifolds, etc.",
+    "Supplier must deliver material to designated locations and track purchases.",
+    "All materials must meet NEC, IEEE, UL standards.",
+    "Vendor data is crucial for project progress.",
+    "Equipment must be delivered to the purchaser's manufacturing site.",
+    "Monthly shipping of 2 units starting January 2012.",
+    "Spare parts list and pricing required with quotation.",
+    "Equipment subject to inspection by Abener Teyma personnel.",
+    "Alternate quotations invited for improvements in price, delivery or performance.",
+    "Specifications prepared using accepted engineering practices and technical standards."
+  ],
+  "keywords": [
+    "4521-ESP-AGE-67-70-0022",
+    "Solana Project",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "references": [
+    "4521-ESP-AGE-67-70-0022",
+    "Solana Project",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5416c3b3c0497e05.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5416c3b3c0497e05.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:50:34.055050+00:00",
+  "usage": {
+    "input_tokens": 4031,
+    "output_tokens": 2648,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13545
+}

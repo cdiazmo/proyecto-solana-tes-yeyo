@@ -1,0 +1,46 @@
+{
+  "doc_id": "998261b7e2808b4f",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.7 Contrato Mto AT HII.pdf",
+  "title": "5.10.3.7 Contrato Mto AT HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Contrato de mantenimiento para la instalación eléctrica de alta tensión del proyecto solar térmico Helios Il en Arenas de San Juan.",
+  "summary_points": [
+    "Contrato de mantenimiento para la instalación eléctrica de alta tensión del proyecto solar térmico Helios Il en Arenas de San Juan."
+  ],
+  "keywords": [
+    "Mantenimiento",
+    "Instalación eléctrica",
+    "Alta tensión",
+    "Helios Il",
+    "Arenas de San Juan",
+    "Contrato",
+    "Reglamento técnico"
+  ],
+  "references": [
+    "R.D. 2375/1982",
+    "R.D. 223/2008",
+    "41/0994 E",
+    "C.C.I. 41/0668-E"
+  ],
+  "warnings": [
+    "Texto del Art. 12 del R.D. 3275/1982 es el siguiente:",
+    "Nota 2: El texto del Art. 20 del RD 223/20008 es el siguiente:"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/998261b7e2808b4f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/998261b7e2808b4f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:45:15.152272+00:00",
+  "usage": {
+    "input_tokens": 1607,
+    "output_tokens": 669,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3536
+}

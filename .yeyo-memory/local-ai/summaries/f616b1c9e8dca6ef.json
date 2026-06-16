@@ -1,0 +1,44 @@
+{
+  "doc_id": "f616b1c9e8dca6ef",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-CAL-0550-25 H&MB.pdf",
+  "title": "1950801-CAL-0550-25 H&MB",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Balances Másicos Energéticos para ATLANTICA, especificaciones del calentador flotante con detalles técnicos.",
+  "summary_points": [
+    "Balances Másicos Energéticos para ATLANTICA, especificaciones del calentador flotante con detalles técnicos."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "Balances Másicos Energéticos",
+    "calentador flotante",
+    "THERMINOL VP1",
+    "CS 2363",
+    "MOLTEN SALT",
+    "Expansion Joint",
+    "TEMA Class"
+  ],
+  "references": [
+    "1950801-CAL-0550-25",
+    "ACEITE SALES"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas, especialmente en números y medidas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f616b1c9e8dca6ef.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f616b1c9e8dca6ef.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:01:35.078762+00:00",
+  "usage": {
+    "input_tokens": 2541,
+    "output_tokens": 564,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5324
+}

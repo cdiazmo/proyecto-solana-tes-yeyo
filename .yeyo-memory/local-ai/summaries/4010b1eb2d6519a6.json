@@ -1,0 +1,59 @@
+{
+  "doc_id": "4010b1eb2d6519a6",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0007_R0 Temperature Transmitter.xlsx",
+  "title": "4521-ESP-AGE-74-70-0007 R0 Temperature Transmitter",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-74-70-0007\n- Initialing required on cover sheet only; all other title block info on all pages\n- Revisions identified in the body of the Specification\n- Notice of Alternate Billing Cycle allowed for project billing\n- Confidentiality clause regarding information and know-how\n- Temperature transmitter and junction box specifications for the Solana power plant.\n- Material must meet NEC, IEEE, UL standards; non-compliant materials will be returned.\n- Monthly shipping starting from August 2012.\n- A list of recommended spare parts with prices and delivery details is required.\n- Equipment must be inspected by Abener Teyma personnel before shipment.\n- Information and know-how are confidential and proprietary.\n- Manufacturer: Krohne-INOR, Model: R 520X.",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-74-70-0007",
+    "Initialing required on cover sheet only; all other title block info on all pages",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle allowed for project billing",
+    "Confidentiality clause regarding information and know-how",
+    "Temperature transmitter and junction box specifications for the Solana power plant.",
+    "Material must meet NEC, IEEE, UL standards; non-compliant materials will be returned.",
+    "Monthly shipping starting from August 2012.",
+    "A list of recommended spare parts with prices and delivery details is required.",
+    "Equipment must be inspected by Abener Teyma personnel before shipment.",
+    "Information and know-how are confidential and proprietary.",
+    "Manufacturer: Krohne-INOR, Model: R 520X.",
+    "Junction box for temperature transmitters with 316 SS material and Nema 4X protection.",
+    "Size 1 holds 4 transmitters with space for future expansion.",
+    "Multiple input/output cable entry holes available.",
+    "Enclosure dimensions and wall thickness determined by vendor.",
+    "Krohne manufacturer, model to be specified later.",
+    "Accessories include a 2\" pipe mounting kit."
+  ],
+  "keywords": [
+    "EC-98",
+    "PGV, JHR, PQJ",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "4521-ESP-AGE-74-70-0007",
+    "ABENER TEYMA SOLANA AG ENGINEERING"
+  ],
+  "references": [
+    "EC-98",
+    "PGV, JHR, PQJ",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "4521-ESP-AGE-74-70-0007",
+    "ABENER TEYMA SOLANA AG ENGINEERING"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4010b1eb2d6519a6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4010b1eb2d6519a6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:53:04.020657+00:00",
+  "usage": {
+    "input_tokens": 5392,
+    "output_tokens": 1973,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17172
+}

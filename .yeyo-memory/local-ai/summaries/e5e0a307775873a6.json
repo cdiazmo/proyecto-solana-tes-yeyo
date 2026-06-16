@@ -1,0 +1,44 @@
+{
+  "doc_id": "e5e0a307775873a6",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS21.pdf",
+  "title": "4521-ESP-ANC-68-61-SS21",
+  "doc_code": "4521-ESP-ANC-68-61-SS21",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for lube oil and control oil piping in the Solana project, including material specifications, construction details, and notes on welding and cleaning procedures.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for lube oil and control oil piping in the Solana project, including material specifications, construction details, and notes on welding and cleaning procedures."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-SS21",
+    "Solana",
+    "lube oil",
+    "control oil",
+    "piping",
+    "304L SS",
+    "welding",
+    "cleaning",
+    "TIG welding"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "PS-SS21",
+    "PS -010"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e5e0a307775873a6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e5e0a307775873a6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:51:03.203830+00:00",
+  "usage": {
+    "input_tokens": 1608,
+    "output_tokens": 798,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4022
+}

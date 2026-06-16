@@ -1,0 +1,44 @@
+{
+  "doc_id": "9f3b0962e819d058",
+  "path": "02 GD LOI/mama/4521-MOM-LOI-039-062-0003-GAR Rev02 Operational Limits.pdf",
+  "title": "4521-MOM-LOI-039-062-0003-GAR Rev02 Operational Limits",
+  "doc_code": "4521-MOM-LOI-039-062-0003",
+  "revision": "Rev02",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, thermal shock, temperature ramps, mass flow rates, and special considerations for the drain with N2.",
+  "summary_points": [
+    "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, thermal shock, temperature ramps, mass flow rates, and special considerations for the drain with N2."
+  ],
+  "keywords": [
+    "Operational Limits",
+    "Oil to Salt Heat Exchanger",
+    "Solana Thermosolar Power Plant",
+    "Design Conditions",
+    "Thermal Shock",
+    "Temperature Ramps",
+    "Mass Flow Rates",
+    "Drain with N2"
+  ],
+  "references": [
+    "4521-MOM-LOI-039-062-0003-GAR",
+    "Rev02",
+    "Arizona Solar One",
+    "HEX replacement TES Solana"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9f3b0962e819d058.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9f3b0962e819d058.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:04:59.571988+00:00",
+  "usage": {
+    "input_tokens": 2242,
+    "output_tokens": 698,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6293
+}

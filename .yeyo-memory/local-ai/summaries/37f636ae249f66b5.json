@@ -1,0 +1,42 @@
+{
+  "doc_id": "37f636ae249f66b5",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS78.pdf",
+  "title": "4521-ESP-ANC-68-61-CS78",
+  "doc_code": "4521-ESP-ANC-68-61-CS78",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the material and installation standards for a Class 1500 Carbon Steel piping system in a Solana project. It includes specifications for fittings, valves, and notes on construction and maintenance requirements.",
+  "summary_points": [
+    "This document outlines the material and installation standards for a Class 1500 Carbon Steel piping system in a Solana project. It includes specifications for fittings, valves, and notes on construction and maintenance requirements."
+  ],
+  "keywords": [
+    "Class 1500 Carbon Steel",
+    "Piping System",
+    "Solana Project",
+    "Fittings",
+    "Valves",
+    "Construction Standards",
+    "Maintenance Requirements"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "PS-CS78"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/37f636ae249f66b5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/37f636ae249f66b5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:09:35.070897+00:00",
+  "usage": {
+    "input_tokens": 3044,
+    "output_tokens": 888,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7276
+}

@@ -1,0 +1,72 @@
+{
+  "doc_id": "07090528e0e24eeb",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev01/DRA/4521-PLN-AEE-75-52-0001-GAR_Rev01_sealed.pdf",
+  "title": "4521-PLN-AEE-75-52-0001-GAR Rev01 sealed",
+  "doc_code": "4521-PLN-AEE-75-52-0001",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "- El documento contiene detalles técnicos sobre el diseño y construcción de estructuras.\n- Se especifican los requisitos para el anclaje de acero con epoxi.\n- Hay diferentes tipos de desarrollos de acero según la fuerza del concreto y las condiciones sísmicas.\n- Las normas de desarrollo de acero incluyen información sobre la longitud mínima de anclaje y los tipos de encajes permitidos.\n- Bundled bars of more than two bars in the same plane are not allowed.\n- Splice lengths vary based on bar diameter and concrete type.\n- Seismic splices must be provided outside frame columns and shearwall boundary elements.\n- Deformed reinforcing bars and threaded rods should follow manufacturer recommendations for installation.\n- Drilled holes must be cleaned properly to avoid cutting existing reinforcement.\n- Contract allows alternate billing cycles.\n- Footings must not be undermined by pipe trenches.\n- Reinforcement options include continuous, tooled joints, and plastic sheathing.",
+  "summary_points": [
+    "El documento contiene detalles técnicos sobre el diseño y construcción de estructuras.",
+    "Se especifican los requisitos para el anclaje de acero con epoxi.",
+    "Hay diferentes tipos de desarrollos de acero según la fuerza del concreto y las condiciones sísmicas.",
+    "Las normas de desarrollo de acero incluyen información sobre la longitud mínima de anclaje y los tipos de encajes permitidos.",
+    "Bundled bars of more than two bars in the same plane are not allowed.",
+    "Splice lengths vary based on bar diameter and concrete type.",
+    "Seismic splices must be provided outside frame columns and shearwall boundary elements.",
+    "Deformed reinforcing bars and threaded rods should follow manufacturer recommendations for installation.",
+    "Drilled holes must be cleaned properly to avoid cutting existing reinforcement.",
+    "Contract allows alternate billing cycles.",
+    "Footings must not be undermined by pipe trenches.",
+    "Reinforcement options include continuous, tooled joints, and plastic sheathing.",
+    "Foundation bearing capacity is 3,000PSF.",
+    "Anchor bolts are supplied by the supplier.",
+    "Anchor bolts supplied by the supplier.",
+    "Backfilling and compaction details provided in the geotechnical report."
+  ],
+  "keywords": [
+    "Abener Engineering and Construction Services, LLC",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "HILTI RE 500-SD INJECTION EPOXY (ESR-2322)",
+    "SIMPSON SET-XP ESR-2508",
+    "SCHEDULE",
+    "TYPICAL STRAIGHT REINFORCING DEVELOPMENT LENGTH SCHEDULE",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001",
+    "4521-PLN-LOI-039-062-0003-GAR",
+    "4521-LOI-039-062-0001-GAR"
+  ],
+  "references": [
+    "Abener Engineering and Construction Services, LLC",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "HILTI RE 500-SD INJECTION EPOXY (ESR-2322)",
+    "SIMPSON SET-XP ESR-2508",
+    "SCHEDULE",
+    "TYPICAL STRAIGHT REINFORCING DEVELOPMENT LENGTH SCHEDULE",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001",
+    "4521-PLN-LOI-039-062-0003-GAR",
+    "4521-LOI-039-062-0001-GAR"
+  ],
+  "warnings": [
+    "El texto contiene errores tipográficos y símbolos no reconocidos.",
+    "La información sobre los tipos de desarrollos de acero es extensa y puede requerir una revisión adicional.",
+    "Confidential and proprietary information.",
+    "Backfilling and compaction must follow geotechnical recommendations."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/07090528e0e24eeb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/07090528e0e24eeb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T09:16:48.892618+00:00",
+  "usage": {
+    "input_tokens": 19196,
+    "output_tokens": 7185,
+    "calls": 7
+  },
+  "repaired_calls": 2,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 30442
+}

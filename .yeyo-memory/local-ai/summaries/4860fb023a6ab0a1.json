@@ -1,0 +1,41 @@
+{
+  "doc_id": "4860fb023a6ab0a1",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS37.pdf",
+  "title": "4521-ESP-ANC-68-61-SS37",
+  "doc_code": "4521-ESP-ANC-68-61-SS37",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and specifications for molten salt piping, including materials, fittings, valves, bolts, and gaskets. It also includes notices on alternate billing cycles, extended payment and certification periods.",
+  "summary_points": [
+    "This document outlines the engineering standards and specifications for molten salt piping, including materials, fittings, valves, bolts, and gaskets. It also includes notices on alternate billing cycles, extended payment and certification periods."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-SS37",
+    "molten salt piping",
+    "300# pipe",
+    "304 SS",
+    "BW fittings",
+    "TA58V valves",
+    "alloy steel bolts",
+    "304L SS gaskets"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4860fb023a6ab0a1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4860fb023a6ab0a1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:49:09.147208+00:00",
+  "usage": {
+    "input_tokens": 1603,
+    "output_tokens": 650,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3811
+}

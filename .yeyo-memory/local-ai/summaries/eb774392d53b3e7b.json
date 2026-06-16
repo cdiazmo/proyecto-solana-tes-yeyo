@@ -1,0 +1,44 @@
+{
+  "doc_id": "eb774392d53b3e7b",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS93.pdf",
+  "title": "4521-ESP-ANC-68-61-CS93",
+  "doc_code": "4521-ESP-ANC-68-61-CS93",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines material and installation standards for a piping system in the Solana project, including specifications for pipe sizes, fittings, valves, and cleaning requirements. It also includes pressure and temperature limits.",
+  "summary_points": [
+    "This document outlines material and installation standards for a piping system in the Solana project, including specifications for pipe sizes, fittings, valves, and cleaning requirements. It also includes pressure and temperature limits."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Material Specifications",
+    "Piping System",
+    "Solana Project",
+    "Gate Valve",
+    "Globe Valve",
+    "Triple Offset Valve",
+    "Check Valve",
+    "Pressure Limits"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "N/A"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/eb774392d53b3e7b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/eb774392d53b3e7b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:03:00.650663+00:00",
+  "usage": {
+    "input_tokens": 2102,
+    "output_tokens": 878,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5452
+}

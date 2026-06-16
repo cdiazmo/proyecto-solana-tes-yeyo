@@ -1,0 +1,60 @@
+{
+  "doc_id": "87b24e443bbd3bc2",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/TD-INS-SLN-012-01 Performance Test Procedure.pdf",
+  "title": "TD-INS-SLN-012-01 Performance Test Procedure",
+  "doc_code": "TD-INS-SLN-012-01",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document describes a performance test procedure for Oil to Salt heat exchangers.\n- It outlines the aim, references, calculation method, agreements prior to the test, and testing responsibilities.\n- Stakeholders must agree on various points before starting the test.\n- The test aims to determine thermal balance, pressure drop, HAT/CAT values, OHTC, Duty, and Pressure loss.\n- Correction factors are used to simulate real conditions during the test.\n- Four out of six variables are measured for thermal calculations.\n- Client and Lointek agree on reliable measurements.\n- Steady state conditions required before measurements.\n- Two measurements ensure repeatability.\n- Fouling coefficient may be reviewed based on direct observation.\n- Six heat exchangers in series per train.\n- Instruments must have specific accuracy for flow, temperature, and pressure.",
+  "summary_points": [
+    "The document describes a performance test procedure for Oil to Salt heat exchangers.",
+    "It outlines the aim, references, calculation method, agreements prior to the test, and testing responsibilities.",
+    "Stakeholders must agree on various points before starting the test.",
+    "The test aims to determine thermal balance, pressure drop, HAT/CAT values, OHTC, Duty, and Pressure loss.",
+    "Correction factors are used to simulate real conditions during the test.",
+    "Four out of six variables are measured for thermal calculations.",
+    "Client and Lointek agree on reliable measurements.",
+    "Steady state conditions required before measurements.",
+    "Two measurements ensure repeatability.",
+    "Fouling coefficient may be reviewed based on direct observation.",
+    "Six heat exchangers in series per train.",
+    "Instruments must have specific accuracy for flow, temperature, and pressure.",
+    "Plugged tubes should be documented in Annex A.",
+    "HTRI program calculates thermal duty and outlet temperatures for plugged tubes.",
+    "Inspections include equipment dimensions, lagging, plugged tubes, cleaning, and instruments.",
+    "Measuring instruments: thermometers, manometers, mass flow meters at hot/cold fluid lines.",
+    "Performance testing measures must be consistent with data; rejected if inconsistent."
+  ],
+  "keywords": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "TD-INS-SLN-012",
+    "ASME PTC 12.5",
+    "Revision 01",
+    "Date: 18/11/2020"
+  ],
+  "references": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "TD-INS-SLN-012",
+    "ASME PTC 12.5",
+    "Revision 01",
+    "Date: 18/11/2020"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/87b24e443bbd3bc2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/87b24e443bbd3bc2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:38:32.977810+00:00",
+  "usage": {
+    "input_tokens": 6047,
+    "output_tokens": 3293,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 19009
+}

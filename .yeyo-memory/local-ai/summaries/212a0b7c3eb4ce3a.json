@@ -1,0 +1,47 @@
+{
+  "doc_id": "212a0b7c3eb4ce3a",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-PL11.pdf",
+  "title": "4521-ESP-ANC-68-61-PL11",
+  "doc_code": "4521-ESP-ANC-68-61-PL11",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for a PVC piping system project in Solana, including material specifications, service range, and installation requirements.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for a PVC piping system project in Solana, including material specifications, service range, and installation requirements."
+  ],
+  "keywords": [
+    "PVC",
+    "pipe",
+    "specifications",
+    "Solana",
+    "engineering",
+    "standards",
+    "materials",
+    "installation",
+    "temperature",
+    "pressure",
+    "valves",
+    "bolts",
+    "gaskets"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V313",
+    "4521-ESP-ANC-00-60-N101"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/212a0b7c3eb4ce3a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/212a0b7c3eb4ce3a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:50:21.088875+00:00",
+  "usage": {
+    "input_tokens": 1555,
+    "output_tokens": 732,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3981
+}

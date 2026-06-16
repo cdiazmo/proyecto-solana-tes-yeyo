@@ -1,0 +1,46 @@
+{
+  "doc_id": "901e69fadd4d61c0",
+  "path": "06 Especificaciones Tecnicas/Tuberia/SS38.pdf",
+  "title": "SS38",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for SS38 piping systems, including material specifications, fittings, valves, bolting, and gasketing. It also includes notes on welding electrodes, pressure/temperature limitations, and reference documents.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for SS38 piping systems, including material specifications, fittings, valves, bolting, and gasketing. It also includes notes on welding electrodes, pressure/temperature limitations, and reference documents."
+  ],
+  "keywords": [
+    "SS38",
+    "piping",
+    "material",
+    "fittings",
+    "valves",
+    "bolts",
+    "gaskets",
+    "welding",
+    "pressure",
+    "temperature",
+    "block valves",
+    "butterfly valves",
+    "plug valves"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/901e69fadd4d61c0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/901e69fadd4d61c0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:51:22.413872+00:00",
+  "usage": {
+    "input_tokens": 1654,
+    "output_tokens": 716,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4051
+}

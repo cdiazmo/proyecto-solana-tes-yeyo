@@ -1,0 +1,47 @@
+{
+  "doc_id": "b89d783eeb3321e8",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0009_R1 RTD+Transmitter.xlsx",
+  "title": "4521-ESP-AGE-39-70-0009 R1 RTD+Transmitter",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Material must meet all dimensional, quality, marking, and stamping requirements.\n- Vendor data is crucial for project progress.\n- Quotations must include time for approval drawings and fabricate after drawing approval.\n- Equipment must pass inspection by Abener Teyma personnel before shipment.\n- Confidentiality of information and know-how is required.\n- Alternate quotations are welcome to improve price, delivery, or performance.\n- The document describes the engineering specifications for a RTD + Transmitter Cooling System used in TES Pump Bearing Cooling Systems.\n- It includes details on temperature sensors, thermowells, and temperature transmitters.\n- Environmental conditions and warranty terms are also specified.\n- The document is part of a larger project for the Solana power plant.",
+  "summary_points": [
+    "Material must meet all dimensional, quality, marking, and stamping requirements.",
+    "Vendor data is crucial for project progress.",
+    "Quotations must include time for approval drawings and fabricate after drawing approval.",
+    "Equipment must pass inspection by Abener Teyma personnel before shipment.",
+    "Confidentiality of information and know-how is required.",
+    "Alternate quotations are welcome to improve price, delivery, or performance.",
+    "The document describes the engineering specifications for a RTD + Transmitter Cooling System used in TES Pump Bearing Cooling Systems.",
+    "It includes details on temperature sensors, thermowells, and temperature transmitters.",
+    "Environmental conditions and warranty terms are also specified.",
+    "The document is part of a larger project for the Solana power plant."
+  ],
+  "keywords": [
+    "4521-ESP-AGE-39-70-0009",
+    "EC-98",
+    "4521-PLN-AGE-39-71-257"
+  ],
+  "references": [
+    "4521-ESP-AGE-39-70-0009",
+    "EC-98",
+    "4521-PLN-AGE-39-71-257"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b89d783eeb3321e8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b89d783eeb3321e8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:27:39.757635+00:00",
+  "usage": {
+    "input_tokens": 6519,
+    "output_tokens": 2985,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15313
+}

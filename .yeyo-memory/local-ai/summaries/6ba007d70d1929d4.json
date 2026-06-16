@@ -1,0 +1,44 @@
+{
+  "doc_id": "6ba007d70d1929d4",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS95.pdf",
+  "title": "4521-ESP-ANC-68-61-SS95",
+  "doc_code": "4521-ESP-ANC-68-61-SS95",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the material and installation standards for potable water and instrument air piping systems, including specifications for pipe materials, fittings, valves, and notes on installation procedures.",
+  "summary_points": [
+    "This document outlines the material and installation standards for potable water and instrument air piping systems, including specifications for pipe materials, fittings, valves, and notes on installation procedures."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Piping Systems",
+    "Viega ProPress",
+    "Victaulic",
+    "Stainless Steel",
+    "Gate Valve",
+    "Ball Valve",
+    "Globe Valve",
+    "Butterfly Valve",
+    "Check Valve"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V311",
+    "4521-ESP-ANC-68-64-V312"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6ba007d70d1929d4.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6ba007d70d1929d4.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:09:08.354029+00:00",
+  "usage": {
+    "input_tokens": 2542,
+    "output_tokens": 1005,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7272
+}

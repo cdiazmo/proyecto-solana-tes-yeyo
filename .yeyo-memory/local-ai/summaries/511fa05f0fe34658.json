@@ -1,0 +1,55 @@
+{
+  "doc_id": "511fa05f0fe34658",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/HDD/4521-HDD-AEE-39-70-0015-GAR Rev.00 Pressure gauges Datasheet.pdf",
+  "title": "4521-HDD-AEE-39-70-0015-GAR Rev.00 Pressure gauges Datasheet",
+  "doc_code": "4521-HDD-AEE-39-70-0015",
+  "revision": "Rev.00",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Document: 4521-HDD-AEE-39-70-0015-GAR, Rev. 00\n- Prepared by Manuel Muñoz Arranz, reviewed and approved by Jose María Rodríguez León\n- Includes Annexes I to X with specific inspection requirements\n- Valves have exceptions to technical conditions specified in the data sheet\n- Factory tests marked for PG-325701 and PG-325702\n- Vendor documents required include Design Dossier, Data Sheets, etc.\n- Documentation format according to ABENER TEYMA SOLANA\n- Delivery of documents before manufacturing and final quality dossier after delivery\n- Document contains technical specifications for pressure gauges.\n- Tag: PG-325702, Client: 4521-HDD-AEE-39-70-0015-GAR.\n- Pressure range: 0 - 30 psia, overpressure: 150% of the range.\n- Material: Stainless Steel AISI 316 for internal parts.",
+  "summary_points": [
+    "Document: 4521-HDD-AEE-39-70-0015-GAR, Rev. 00",
+    "Prepared by Manuel Muñoz Arranz, reviewed and approved by Jose María Rodríguez León",
+    "Includes Annexes I to X with specific inspection requirements",
+    "Valves have exceptions to technical conditions specified in the data sheet",
+    "Factory tests marked for PG-325701 and PG-325702",
+    "Vendor documents required include Design Dossier, Data Sheets, etc.",
+    "Documentation format according to ABENER TEYMA SOLANA",
+    "Delivery of documents before manufacturing and final quality dossier after delivery",
+    "Document contains technical specifications for pressure gauges.",
+    "Tag: PG-325702, Client: 4521-HDD-AEE-39-70-0015-GAR.",
+    "Pressure range: 0 - 30 psia, overpressure: 150% of the range.",
+    "Material: Stainless Steel AISI 316 for internal parts.",
+    "Indicator type: Absolute Pressure with Bourdon Tube measure system.",
+    "Accuracy: 1% of Full Scale.",
+    "Connection location: Radial (lower mounted), Type-Size: 1/2\" NPT.",
+    "Options include manifold and name plate made of stainless steel."
+  ],
+  "keywords": [
+    "4521-HDD-AEE-39-70-0015-GAR",
+    "PE directives 97/23/EC, EMC 89/336/EEC, ATEX 94/9/EC",
+    "PE 08/Paquete de construccion SMWP/I & C/HDD/4521-HDD-AEE-39-70-0015-GAR Rev.00"
+  ],
+  "references": [
+    "4521-HDD-AEE-39-70-0015-GAR",
+    "PE directives 97/23/EC, EMC 89/336/EEC, ATEX 94/9/EC",
+    "PE 08/Paquete de construccion SMWP/I & C/HDD/4521-HDD-AEE-39-70-0015-GAR Rev.00"
+  ],
+  "warnings": [
+    "Serial numbers and some manufacturer details are not provided in the data sheet"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/511fa05f0fe34658.md",
+  "source_extracted_path": ".yeyo-memory/extracted/511fa05f0fe34658.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:36:50.588807+00:00",
+  "usage": {
+    "input_tokens": 3675,
+    "output_tokens": 1869,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9096
+}

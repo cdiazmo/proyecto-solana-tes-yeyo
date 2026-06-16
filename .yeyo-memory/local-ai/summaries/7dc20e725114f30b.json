@@ -1,0 +1,55 @@
+{
+  "doc_id": "7dc20e725114f30b",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-70-0013_R1 VOC Analyzer.xlsx",
+  "title": "4521-ESP-AGE-39-70-0013 R1 VOC Analyzer",
+  "doc_code": "4521-ESP-AGE-39-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- VOC Analyzer Specification for the Solana project.\n- Initialing required on cover sheet only, other title block info on all pages.\n- Revisions identified in the body of the specification.\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership.\n- Confidentiality terms for information and know-how.\n- VOC Analyzer for Heat Transfer Fluid (HTF) Leak Detection in TES Area.\n- Measures Volatile Organic Compounds using Photo Ionization Detector.\n- Operates at temperatures up to 750 Deg. F and pressures up to atmospheric.\n- Materials include Therminol VP-1, 316 SS for body and sensor.\n- Transmitter provides 4-20 mA + HART output with NEMA 4 protection.\n- Accessories include mounting adapters and thermal extenders.\n- Manufacturer: Turner designs, Transmitter Model: Procal 5000.",
+  "summary_points": [
+    "VOC Analyzer Specification for the Solana project.",
+    "Initialing required on cover sheet only, other title block info on all pages.",
+    "Revisions identified in the body of the specification.",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership.",
+    "Confidentiality terms for information and know-how.",
+    "VOC Analyzer for Heat Transfer Fluid (HTF) Leak Detection in TES Area.",
+    "Measures Volatile Organic Compounds using Photo Ionization Detector.",
+    "Operates at temperatures up to 750 Deg. F and pressures up to atmospheric.",
+    "Materials include Therminol VP-1, 316 SS for body and sensor.",
+    "Transmitter provides 4-20 mA + HART output with NEMA 4 protection.",
+    "Accessories include mounting adapters and thermal extenders.",
+    "Manufacturer: Turner designs, Transmitter Model: Procal 5000."
+  ],
+  "keywords": [
+    "4521-ESP-AGE-39-70-0013",
+    "AG ENGINEERING",
+    "Solana",
+    "EC-98",
+    "Turner designs",
+    "Procal 5000"
+  ],
+  "references": [
+    "4521-ESP-AGE-39-70-0013",
+    "AG ENGINEERING",
+    "Solana",
+    "EC-98",
+    "Turner designs",
+    "Procal 5000"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7dc20e725114f30b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7dc20e725114f30b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:51:12.855803+00:00",
+  "usage": {
+    "input_tokens": 6275,
+    "output_tokens": 2566,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17154
+}

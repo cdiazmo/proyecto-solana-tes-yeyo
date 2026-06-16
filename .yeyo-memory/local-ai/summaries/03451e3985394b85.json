@@ -1,0 +1,55 @@
+{
+  "doc_id": "03451e3985394b85",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-00-61-PS001V.pdf",
+  "title": "4521-ESP-ANC-00-61-PS001V",
+  "doc_code": "4521-ESP-ANC-00-61-PS001V",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Contract allows alternate billing cycles other than thirty days.\n- Confidential and proprietary information restrictions apply.\n- Vendor data submission instructions via Prolog Website.\n- Documents must include specific vendor identification details.\n- All documents should be in black and white PDF format.\n- Documents must be submitted as single e-files in English, US-Customary units.\n- Final drawings must be in .pdf and .dwg formats for project submission.\n- Vendor must notify Abener Teyma of any changes to final drawings within 5 days.\n- Bill of material must include OEM names, equipment part numbers, and ratings.\n- Software files must be zipped and meet document requirements.\n- Exceptions apply if vendor cannot provide documents in electronic form.\n- Vendor data requirements include specific documents for piping, solar field header shop fabrication.",
+  "summary_points": [
+    "Contract allows alternate billing cycles other than thirty days.",
+    "Confidential and proprietary information restrictions apply.",
+    "Vendor data submission instructions via Prolog Website.",
+    "Documents must include specific vendor identification details.",
+    "All documents should be in black and white PDF format.",
+    "Documents must be submitted as single e-files in English, US-Customary units.",
+    "Final drawings must be in .pdf and .dwg formats for project submission.",
+    "Vendor must notify Abener Teyma of any changes to final drawings within 5 days.",
+    "Bill of material must include OEM names, equipment part numbers, and ratings.",
+    "Software files must be zipped and meet document requirements.",
+    "Exceptions apply if vendor cannot provide documents in electronic form.",
+    "Vendor data requirements include specific documents for piping, solar field header shop fabrication."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-00-61-PS001V",
+    "Abener Document No: 4521-ESP-ANC-00-61-PS001V",
+    "Job No: 120006",
+    "Project: Solana",
+    "Abener Engineering and Construction Services, LLC",
+    "Chesterfield, MO 63017"
+  ],
+  "references": [
+    "4521-ESP-ANC-00-61-PS001V",
+    "Abener Document No: 4521-ESP-ANC-00-61-PS001V",
+    "Job No: 120006",
+    "Project: Solana",
+    "Abener Engineering and Construction Services, LLC",
+    "Chesterfield, MO 63017"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/03451e3985394b85.md",
+  "source_extracted_path": ".yeyo-memory/extracted/03451e3985394b85.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:36:41.947784+00:00",
+  "usage": {
+    "input_tokens": 3409,
+    "output_tokens": 2216,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12100
+}

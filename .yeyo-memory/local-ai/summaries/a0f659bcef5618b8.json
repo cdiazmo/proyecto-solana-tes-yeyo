@@ -1,0 +1,42 @@
+{
+  "doc_id": "a0f659bcef5618b8",
+  "path": "01 GD AE/C&S/MTO/4521-MTO-AEE-75-52-0002-GAR-901_Rev00_Drain_back_tank.xlsx",
+  "title": "4521-MTO-AEE-75-52-0002-GAR-901 Rev00 Drain back tank",
+  "doc_code": "4521-MTO-AEE-75-52-0002",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Document describing the design and specifications of a drain back tank for HEX replacement TES Solana project.",
+  "summary_points": [
+    "Document describing the design and specifications of a drain back tank for HEX replacement TES Solana project."
+  ],
+  "keywords": [
+    "drain back tank",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "AEPC USA"
+  ],
+  "references": [
+    "4521-MTO-AEE-75-52-0002-GAR",
+    "4521-TMT-AEE-AEPC-0036"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'dd/mm/aaaa' y 'xx'",
+    "Falta información en Client Main Comments y Annexes to Comments"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a0f659bcef5618b8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a0f659bcef5618b8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:38:55.086818+00:00",
+  "usage": {
+    "input_tokens": 1173,
+    "output_tokens": 277,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2258
+}

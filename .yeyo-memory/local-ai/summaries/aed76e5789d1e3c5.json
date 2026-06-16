@@ -1,0 +1,55 @@
+{
+  "doc_id": "aed76e5789d1e3c5",
+  "path": "03 GD Fabricacion LOI TES 6/Documentacion de procesos/4521-CAL-LOI-039-062-0002-GAR Rev01 Process Flow Conditions  Heat & Mass Balance.pdf",
+  "title": "4521-CAL-LOI-039-062-0002-GAR Rev01 Process Flow Conditions Heat & Mass Balance",
+  "doc_code": "4521-CAL-LOI-039-062-0002",
+  "revision": "Rev01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Document details: Arizona Solar One, HEX replacement TES Solana\n- Heat exchanger specifications for MAX CHARGING and SUMMER CHARGE jobs\n- Fluid properties and performance data provided\n- Construction details including material, dimensions, and pressure ratings\n- Total six heat exchangers required per train and plant\n- Heat exchanger specifications for WINTER DISCHARGE and 25% LOAD CHARGING jobs.\n- Fluids: MOLTEN SALT THERMINOL VP1 on both sides.\n- Performance metrics include heat exchanged, transfer rates, and pressure drops.\n- Construction details: Shell and tube dimensions, material, and design pressures.\n- Code requirements: ASME Code Sec. VIII Div. 2 and TEMA Class R.",
+  "summary_points": [
+    "Document details: Arizona Solar One, HEX replacement TES Solana",
+    "Heat exchanger specifications for MAX CHARGING and SUMMER CHARGE jobs",
+    "Fluid properties and performance data provided",
+    "Construction details including material, dimensions, and pressure ratings",
+    "Total six heat exchangers required per train and plant",
+    "Heat exchanger specifications for WINTER DISCHARGE and 25% LOAD CHARGING jobs.",
+    "Fluids: MOLTEN SALT THERMINOL VP1 on both sides.",
+    "Performance metrics include heat exchanged, transfer rates, and pressure drops.",
+    "Construction details: Shell and tube dimensions, material, and design pressures.",
+    "Code requirements: ASME Code Sec. VIII Div. 2 and TEMA Class R."
+  ],
+  "keywords": [
+    "4521-CAL-LOI-039-062-0002-GAR",
+    "1950101-CAL-002",
+    "ASME Code Sec. VIII Div. 2",
+    "TEMA Class R",
+    "WINTER DISCHARGE",
+    "25% LOAD CHARGING",
+    "MOLTEN SALT THERMINOL VP1"
+  ],
+  "references": [
+    "4521-CAL-LOI-039-062-0002-GAR",
+    "1950101-CAL-002",
+    "ASME Code Sec. VIII Div. 2",
+    "TEMA Class R",
+    "WINTER DISCHARGE",
+    "25% LOAD CHARGING",
+    "MOLTEN SALT THERMINOL VP1"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/aed76e5789d1e3c5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/aed76e5789d1e3c5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:26:45.984312+00:00",
+  "usage": {
+    "input_tokens": 7615,
+    "output_tokens": 3294,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11377
+}

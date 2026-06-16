@@ -1,0 +1,45 @@
+{
+  "doc_id": "b32904547abc1d47",
+  "path": "13_Documentos de Inspección Final/418-2nd-Floor-1_20210826_114200_002585.pdf",
+  "title": "418-2nd-Floor-1 20210826 114200 002585",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Special inspection of small to medium foundations at Solana. Rebar and forms inspected per blueprints. Concrete pouring observed with OSHA best practices. Issues on F26 and F18B footings postponed due to plastic clay. Approved cage assembly and partial pouring.",
+  "summary_points": [
+    "Special inspection of small to medium foundations at Solana. Rebar and forms inspected per blueprints. Concrete pouring observed with OSHA best practices. Issues on F26 and F18B footings postponed due to plastic clay. Approved cage assembly and partial pouring."
+  ],
+  "keywords": [
+    "Rebar",
+    "Forms",
+    "Concrete",
+    "Special Inspection",
+    "F26",
+    "F18B",
+    "Plastic Clay",
+    "OSHA",
+    "Approval"
+  ],
+  "references": [
+    "ACI318-14",
+    "Speedie and Associates"
+  ],
+  "warnings": [
+    "OCR issues with some text, especially names and addresses."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b32904547abc1d47.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b32904547abc1d47.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:42:00.981494+00:00",
+  "usage": {
+    "input_tokens": 1283,
+    "output_tokens": 674,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3153
+}

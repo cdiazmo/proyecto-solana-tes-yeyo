@@ -1,0 +1,63 @@
+{
+  "doc_id": "93c30331978024b9",
+  "path": "01 GD AE/Tuberia/4521-ESP-ANC-58-61-PS002.pdf",
+  "title": "4521-ESP-ANC-58-61-PS002",
+  "doc_code": "4521-ESP-ANC-58-61-PS002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Contract allows alternate billing cycles\n- Project is a concentrated solar power facility\n- Piping installation subcontractor responsible for all pipe lines and components\n- Vendor must comply with ASME B 31.3 standards\n- The contract allows alternate billing cycles other than thirty days.\n- Field welds for HTF service piping must receive 100% radiographic examination.\n- 5% of all other services' welds will be examined using UT with Shearwave and Phased Array modes.\n- All carbon steel pipe spools for specified systems must be internally cleaned by the Subcontractor.\n- Subcontractor is responsible for installing all piping components, supports, and field fabricated piping.\n- Contract allows alternate billing cycles other than thirty days.\n- Subcontractor must supply specific materials and fittings for piping installation.\n- Pressure tests required before insulation application, with Abener Teyma representative witnessing.",
+  "summary_points": [
+    "Contract allows alternate billing cycles",
+    "Project is a concentrated solar power facility",
+    "Piping installation subcontractor responsible for all pipe lines and components",
+    "Vendor must comply with ASME B 31.3 standards",
+    "The contract allows alternate billing cycles other than thirty days.",
+    "Field welds for HTF service piping must receive 100% radiographic examination.",
+    "5% of all other services' welds will be examined using UT with Shearwave and Phased Array modes.",
+    "All carbon steel pipe spools for specified systems must be internally cleaned by the Subcontractor.",
+    "Subcontractor is responsible for installing all piping components, supports, and field fabricated piping.",
+    "Contract allows alternate billing cycles other than thirty days.",
+    "Subcontractor must supply specific materials and fittings for piping installation.",
+    "Pressure tests required before insulation application, with Abener Teyma representative witnessing.",
+    "Gaskets must be installed using manufacturer recommended torque values.",
+    "Fabrication tolerances specified for metallic piping components."
+  ],
+  "keywords": [
+    "ASME B 31.3",
+    "Solana Project",
+    "Abener Teyma Piping Isometrics",
+    "4521-ESP-ANC-00-61-PS010",
+    "B 31.3, paragraph 341.3.4",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASM E B16.47 Series A",
+    "PFI ES-3"
+  ],
+  "references": [
+    "ASME B 31.3",
+    "Solana Project",
+    "Abener Teyma Piping Isometrics",
+    "4521-ESP-ANC-00-61-PS010",
+    "B 31.3, paragraph 341.3.4",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASM E B16.47 Series A",
+    "PFI ES-3"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/93c30331978024b9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/93c30331978024b9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T14:12:41.667933+00:00",
+  "usage": {
+    "input_tokens": 6193,
+    "output_tokens": 2719,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 21564
+}

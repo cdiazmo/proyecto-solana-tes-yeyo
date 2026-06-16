@@ -1,0 +1,68 @@
+{
+  "doc_id": "6c7c50c06095928f",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-00-61-PS002.pdf",
+  "title": "4521-ESP-ANC-00-61-PS002",
+  "doc_code": "4521-ESP-ANC-00-61-PS002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project is a concentrated solar power facility in Arizona.\n- Facility includes thermal energy storage system.\n- Piping installation subcontractor responsible for all pipe lines and components.\n- All welded metallic piping is shop fabricated.\n- Manual and control valves delivered to site for field installation.\n- Each weld tested requires documentation including a summary table, field sketches, ultrasonic data prints, and electronic backups.\n- Piping materials must meet specific specifications for cleanliness and internal cleaning processes.\n- Root pass welds for certain services must be done using TIG welding.\n- Fabrication tolerances are specified for end preparation, dimensioning, and component alignment.\n- Special considerations include reference standards and exceptions to these tolerances.\n- Engineering standards and practices document.\n- Material and installation standards for pipe installation.",
+  "summary_points": [
+    "Project is a concentrated solar power facility in Arizona.",
+    "Facility includes thermal energy storage system.",
+    "Piping installation subcontractor responsible for all pipe lines and components.",
+    "All welded metallic piping is shop fabricated.",
+    "Manual and control valves delivered to site for field installation.",
+    "Each weld tested requires documentation including a summary table, field sketches, ultrasonic data prints, and electronic backups.",
+    "Piping materials must meet specific specifications for cleanliness and internal cleaning processes.",
+    "Root pass welds for certain services must be done using TIG welding.",
+    "Fabrication tolerances are specified for end preparation, dimensioning, and component alignment.",
+    "Special considerations include reference standards and exceptions to these tolerances.",
+    "Engineering standards and practices document.",
+    "Material and installation standards for pipe installation.",
+    "Preparation of pipe, fitting, and valve ends for welding with specific thickness requirements.",
+    "Specifications include angle, flange rotation, alignment, and dimension tolerances.",
+    "Confidential information with restrictions on reproduction and disclosure."
+  ],
+  "keywords": [
+    "A521-ESP-ANC-00-61-PS002",
+    "Job No.: 120006",
+    "Project: Solana",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASME B16.47 Series A",
+    "PFI ES-3",
+    "Document No: aszvesPancoo-61Ps002",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "references": [
+    "A521-ESP-ANC-00-61-PS002",
+    "Job No.: 120006",
+    "Project: Solana",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASME B16.47 Series A",
+    "PFI ES-3",
+    "Document No: aszvesPancoo-61Ps002",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "warnings": [
+    "Text is partially unclear and contains non-standard characters.",
+    "Potential OCR errors in text recognition.",
+    "Confusing sections with similar content."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6c7c50c06095928f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6c7c50c06095928f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:52:09.852624+00:00",
+  "usage": {
+    "input_tokens": 5087,
+    "output_tokens": 2118,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17165
+}

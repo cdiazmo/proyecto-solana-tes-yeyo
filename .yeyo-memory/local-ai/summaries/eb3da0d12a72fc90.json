@@ -1,0 +1,46 @@
+{
+  "doc_id": "eb3da0d12a72fc90",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V307.pdf",
+  "title": "4521-ESP-ANC-68-64-V307",
+  "doc_code": "4521-ESP-ANC-68-64-V307",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Document detailing specifications for check and ball valves including TFC43, TFC44, TFB43, and TFB44. Includes details on class, size, type, body, ball, wetted surfaces, and notes on position locking.",
+  "summary_points": [
+    "Document detailing specifications for check and ball valves including TFC43, TFC44, TFB43, and TFB44. Includes details on class, size, type, body, ball, wetted surfaces, and notes on position locking."
+  ],
+  "keywords": [
+    "check valves",
+    "ball valves",
+    "TFC43",
+    "TFC44",
+    "TFB43",
+    "TFB44",
+    "class 150 flanged",
+    "split ductile iron bolted body",
+    "PTFE lined",
+    "position locking"
+  ],
+  "references": [
+    "SOLANA Engineering Standards and Practices Document No: 4521-ESP-ANC-68-64-V307",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/eb3da0d12a72fc90.md",
+  "source_extracted_path": ".yeyo-memory/extracted/eb3da0d12a72fc90.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:39:52.887610+00:00",
+  "usage": {
+    "input_tokens": 1178,
+    "output_tokens": 595,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2518
+}

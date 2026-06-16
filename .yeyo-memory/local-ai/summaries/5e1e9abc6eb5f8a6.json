@@ -1,0 +1,55 @@
+{
+  "doc_id": "5e1e9abc6eb5f8a6",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-45-0021_R0.pdf",
+  "title": "4521-ESP-AGE-58-45-0021 R0",
+  "doc_code": "4521-ESP-AGE-58-45-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document is an engineering specification for a project named Solana.\n- It includes details on the scope of work, definitions, and requirements for suppliers.\n- Suppliers are responsible for delivering materials to designated locations.\n- Confidential information must be handled according to contract terms.\n- Confidential and proprietary information.\n- Quality requirements for materials.\n- Vendor data commitment is crucial.\n- Strict delivery schedule for equipment.\n- Spare parts list required with quotation.\n- Equipment subject to inspection before shipment.\n- Alternate quotations invited for improvements.\n- Specifications based on accepted engineering practices.",
+  "summary_points": [
+    "The document is an engineering specification for a project named Solana.",
+    "It includes details on the scope of work, definitions, and requirements for suppliers.",
+    "Suppliers are responsible for delivering materials to designated locations.",
+    "Confidential information must be handled according to contract terms.",
+    "Confidential and proprietary information.",
+    "Quality requirements for materials.",
+    "Vendor data commitment is crucial.",
+    "Strict delivery schedule for equipment.",
+    "Spare parts list required with quotation.",
+    "Equipment subject to inspection before shipment.",
+    "Alternate quotations invited for improvements.",
+    "Specifications based on accepted engineering practices."
+  ],
+  "keywords": [
+    "Engineering Specification 4521-ESP-AGE-58-45-0021",
+    "Solana Project",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "references": [
+    "Engineering Specification 4521-ESP-AGE-58-45-0021",
+    "Solana Project",
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5e1e9abc6eb5f8a6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5e1e9abc6eb5f8a6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:39:10.864877+00:00",
+  "usage": {
+    "input_tokens": 3689,
+    "output_tokens": 2248,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12371
+}

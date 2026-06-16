@@ -1,0 +1,55 @@
+{
+  "doc_id": "e4dc4eb47acb16cc",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/1950201-PTT-001-00_Heat Treatment Procedure.pdf",
+  "title": "1950201-PTT-001-00 Heat Treatment Procedure",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document is for Postweld Heat Treatment Procedure OIL TO SALT HEX.\n- It applies to welded constructions and production weld test coupons for SOLANA SOLAR POWER PLANT.\n- Heat treatment is performed in a closed gas furnace, not applicable outdoors.\n- Equipment must be free of grease and other inflammable substances before heat treatment.\n- Las piezas deben estar bien soportadas en el horno para evitar deformaciones.\n- Los quemadores deben estar regulados para evitar oxidación excesiva.\n- El PWHT final se realiza después de todas las operaciones de soldadura y reparación.\n- Los tratamientos térmicos son realizados por una subcontrata en el taller de LOINTEK.\n- Se requiere un gráfico tiempo/temperatura para medir la temperatura durante el tratamiento térmico.\n- La diferencia de temperatura entre termopares debe mantenerse menor a 80°C durante el calentamiento y enfriamiento.\n- Durante el mantenimiento, la diferencia de temperatura debe ser menor a 30°C.\n- Los termopares deben ser sujetados por chispas o unidos mecánicamente.",
+  "summary_points": [
+    "The document is for Postweld Heat Treatment Procedure OIL TO SALT HEX.",
+    "It applies to welded constructions and production weld test coupons for SOLANA SOLAR POWER PLANT.",
+    "Heat treatment is performed in a closed gas furnace, not applicable outdoors.",
+    "Equipment must be free of grease and other inflammable substances before heat treatment.",
+    "Las piezas deben estar bien soportadas en el horno para evitar deformaciones.",
+    "Los quemadores deben estar regulados para evitar oxidación excesiva.",
+    "El PWHT final se realiza después de todas las operaciones de soldadura y reparación.",
+    "Los tratamientos térmicos son realizados por una subcontrata en el taller de LOINTEK.",
+    "Se requiere un gráfico tiempo/temperatura para medir la temperatura durante el tratamiento térmico.",
+    "La diferencia de temperatura entre termopares debe mantenerse menor a 80°C durante el calentamiento y enfriamiento.",
+    "Durante el mantenimiento, la diferencia de temperatura debe ser menor a 30°C.",
+    "Los termopares deben ser sujetados por chispas o unidos mecánicamente.",
+    "La retirada de los termopares debe realizarse con cuidado para evitar daño al material.",
+    "El reporte del tratamiento térmico debe incluir información detallada y ser aprobado por el responsable de calidad."
+  ],
+  "keywords": [
+    "ASME VIII Div. 2 TEMA R",
+    "1950201-PPT-001-00_Heat Treatment Procedure",
+    "LOINTEK, S.L.",
+    "1950201-PTT-001",
+    "Q.C. Manager"
+  ],
+  "references": [
+    "ASME VIII Div. 2 TEMA R",
+    "1950201-PPT-001-00_Heat Treatment Procedure",
+    "LOINTEK, S.L.",
+    "1950201-PTT-001",
+    "Q.C. Manager"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e4dc4eb47acb16cc.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e4dc4eb47acb16cc.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:42:07.255806+00:00",
+  "usage": {
+    "input_tokens": 4124,
+    "output_tokens": 2100,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12742
+}

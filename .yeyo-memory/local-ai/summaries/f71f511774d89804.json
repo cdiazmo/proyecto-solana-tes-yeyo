@@ -1,0 +1,44 @@
+{
+  "doc_id": "f71f511774d89804",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260326/1950801-DOC-4190-00 Rev00  RECUENTO DE TUBERIA.pdf",
+  "title": "1950801-DOC-4190-00 Rev00 RECUENTO DE TUBERIA",
+  "doc_code": "",
+  "revision": "Rev00",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Recuento detallado de piezas y materiales para el proyecto ATLANTICA en CORDOBA, suministrado por LOINTEK.",
+  "summary_points": [
+    "Recuento detallado de piezas y materiales para el proyecto ATLANTICA en CORDOBA, suministrado por LOINTEK."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "CORDOBA",
+    "LOINTEK",
+    "tubería",
+    "piezas",
+    "materiales",
+    "recuento"
+  ],
+  "references": [
+    "1950801-DOC-4190-00",
+    "Rev00",
+    "I.U U.O.A D.S.Z."
+  ],
+  "warnings": [
+    "Texto incompleto en la página 2, solo se muestran los primeros y últimos elementos de la lista."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f71f511774d89804.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f71f511774d89804.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:57:15.624178+00:00",
+  "usage": {
+    "input_tokens": 3093,
+    "output_tokens": 455,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4631
+}

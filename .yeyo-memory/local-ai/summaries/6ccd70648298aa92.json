@@ -1,0 +1,46 @@
+{
+  "doc_id": "6ccd70648298aa92",
+  "path": "Documentos en Servidor Atlántica/1950801-CAL-0550-25 H&MB Rev.01.pdf",
+  "title": "1950801-CAL-0550-25 H&MB Rev.01",
+  "doc_code": "",
+  "revision": "Rev.01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Especificaciones técnicas del calentador de corteza flotante ATLANTICA, incluyendo dimensiones, materiales y desempeño.",
+  "summary_points": [
+    "Especificaciones técnicas del calentador de corteza flotante ATLANTICA, incluyendo dimensiones, materiales y desempeño."
+  ],
+  "keywords": [
+    "calentador",
+    "corteza flotante",
+    "ATLANTICA",
+    "LOINTEK",
+    "THERMINOL VP1",
+    "dimensiones",
+    "materiales",
+    "desempeño"
+  ],
+  "references": [
+    "1950801-CAL-0550-25",
+    "CS 2363",
+    "ASME VIII",
+    "U-Bend"
+  ],
+  "warnings": [
+    "Texto incompleto en algunas páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6ccd70648298aa92.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6ccd70648298aa92.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:01:17.014060+00:00",
+  "usage": {
+    "input_tokens": 2546,
+    "output_tokens": 532,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5316
+}

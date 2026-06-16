@@ -1,0 +1,46 @@
+{
+  "doc_id": "88a9355184be2c43",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/LIS/4521-LIS-AEE-39-61-0003-GAR_Rev03  Manual Valve List TES HEX Replacement.pdf",
+  "title": "4521-LIS-AEE-39-61-0003-GAR Rev03 Manual Valve List TES HEX Replacement",
+  "doc_code": "4521-LIS-AEE-39-61-0003",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Manual Valve List for TES HEX Replacement, detailing various gate and globe valves with specifications.",
+  "summary_points": [
+    "Manual Valve List for TES HEX Replacement, detailing various gate and globe valves with specifications."
+  ],
+  "keywords": [
+    "Manual Valve List",
+    "TES HEX Replacement",
+    "Gate Valves",
+    "Globe Valves",
+    "Valve Specifications",
+    "FA56 HTF STD",
+    "FB58V MS 120",
+    "NEMA 4"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-61-0003-GAR",
+    "4521-PLN-AGE-68-71-P271-GAR",
+    "4521-PLN-AGE-68-71-P278-GAR",
+    "4521-PLN-AGE-68-71-P279-GAR"
+  ],
+  "warnings": [
+    "DELETED entries and OCR issues may affect the accuracy of some data."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/88a9355184be2c43.md",
+  "source_extracted_path": ".yeyo-memory/extracted/88a9355184be2c43.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:22:25.412313+00:00",
+  "usage": {
+    "input_tokens": 3390,
+    "output_tokens": 3141,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5124
+}

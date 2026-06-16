@@ -1,0 +1,324 @@
+---
+doc_id: "e11bfb3d5d5bebdb"
+path: "Documentos en Servidor Atlántica/Antiguo/01 Información Partida/03 H&M Balances/0501_1CSD379111_F libre.pdf"
+title: "0501 1CSD379111 F libre"
+doc_code: ""
+revision: ""
+discipline: "General"
+deliverable_part: "Mediciones y presupuestos"
+chunk_count: 7
+completed_chunks: 7
+total_chunks: 7
+---
+
+# 0501 1CSD379111 F libre
+
+## Resumen
+
+- Document for specific turbine unit with general start-up and operation instructions.
+- HP refers to high pressure module (HP16RH), LP to reheated low pressure module (LP357).
+- Admission conditions include rated and normal pressures and temperatures for HP and LP modules.
+- Exhaust conditions specify normal, alarm, and trip pressures and temperatures for both HP and LP modules.
+- Operating area diagrams show temperature-pressure curves for HP turbine inlet.
+- Document pertains to conditions for condensing turbine operation.
+- Curves include rated temperatures, pressures, and moisture limitations.
+- Initial pressure and temperature variations have specific limits.
+- Output limitations set maximum generator and HP-turbine outputs.
+- Steam pipes must be heated before startup, with specific requirements.
+- Turbine operation conditions include turning gear, gland steam, preheating, steam conditions, exhaust pressure, and condenser pressure.
+- Start-up categories are based on metal temperature at HP and LP modules.
+
+## Observaciones
+
+- The document is copyrighted and reproduction, use or disclosure to third parties without express authority is strictly forbidden.
+- Potential OCR errors in some text.
+- Graphs and images not included in the text.
+
+## Markdown estructurado
+
+# CONDITIONS FOR TURBINE OPERATION
+## Condensing Turbine
+SST -700RH
+**Prepared by:** Markus Jöcker
+**Approved by:**
+**Archive:** 28,30 HG 9722
+**Checked by:**
+**Latest revision/date:** Rev e: Chapt. 8: cold start for low steam temperature added, label corrections (MJ 110908)
+Rev f: Par 1c updated (MJ 120322) No. 1CSD 379 111
+**Document number:** A 087 0474 -B 00 -03 MS Word 97
+**Copyright:** © Siemens Industrial Turbomachinery AB
+## Contents
+1. GENERAL
+2. OPERATING AREA
+3. LIMITS OF VARIATION OF RATED CONDITIONS
+4. RATE OF VARIATION OF ADMISSION CONDIT IONS
+5. OUTPUT LIMITATION S
+6. ADMISSION STEAM P IPE HEATING REQUIREM ENTS
+7. START UP CONDITIO NS
+8. START UP
+9. BY -PASS OPERATION
+10. VACUUM BREAKING REQUIRE MENTS
+## General
+- These values are for a specific turbine unit.
+- Full alarm, trip or limitation settings in the "Setting list" document.
+- More details on instrumentation in "Additional Settings for Turbine Protection".
+- HP refers to the high pressure module (HP16RH).
+- LP refers to the reheated low pressure module (LP357).
+- Terms and definitions refer to IEC 45 -1.
+- Steam quality specified in STI 0700 -01E.
+## Admission Conditions
+### HP-module
+- Rated admission pressure: 101.0 bara/ 1464.9 psia
+- Normal admission pressure: 100.0 bara/ 1450.4 psia
+- Rated admission temperature: 386.3 °C/ 727.3 °F
+- Normal admission temperature: 377.5 °C/ 711.5 °F
+### LP-module
+- Rated admission pressure: 16.7 bara/ 242.2 psia
+- Normal admission pressure: 16.7 bara/ 242.2 psia
+- Rated admission temperature: 389.8 °C/ 733.6 °F
+- Normal admission temperature: 377.5 °C/ 711.5 °F
+## Exhaust Conditions
+### HP-module
+- Normal exhaust pressure: 19.1 bara/ 277.0 psia
+- Alarm high exhaust pressure: 21.0 bara/ 304.6 psia
+- Trip high exhaust pressure: 22.0 bara/ 319.1 psia
+- Normal exhaust temperature: 210.0 °C/ 410.0 °F
+- Alarm high exhaust temperature: 250.0 °C/ 482.0 °F
+- Automatic shut down exhaust temperature: 360.0 °C/ 680.0 °F
+### LP-module
+- Normal exhaust pressure: 0.060 bara/ 0.87 psia/ 1.8 "HgA
+- Alarm high exhaust pressure: 0.15 bara/ 2.2 psia/ 4.4 "HgA
+- Trip high exhaust pressure: 0.22 bara/ 3.2 psia/ 6.5 "HgA
+- Normal exhaust temperature at blade row L -1: 57.0 °C/ 134.6 °F
+- Alarm high exhaust temperature at blade row L -1: 180.0 °C/ 356.0 °F
+- Automatic shut down exhaust temperature at blade row L -1: 200.0 °C/ 392.0 °F
+- Normal exhaust temperature at blade row L -0: 36.0 °C/ 96.8 °F
+- Alarm high exhaust temperature at blade row L -0: 85.0 °C/ 185.0 °F
+- Automatic shut down exhaust temperature at blade row L -0: 105.0 °C/ 221.0 °F
+## Operating Area
+- HP and LP modules inlet conditions summarized in diagrams, see section OPERATING AREA.
+
+# CONDITIONS FOR TURBINE OPERATION
+## Condensing Turbine
+SST -700RH
+**Prepared by:** Markus Jöcker
+**Approved by:**
+**Archive:** 28,30 HG 9722
+**Latest revision/date:** Rev e: Chapt. 8: cold start for low steam temperature added, label corrections (MJ 110908)
+Rev f: Par 1c updated (MJ 120322) No. 1CSD 379 111
+**Document number:** A 087 0474 -B 00 -03 MS Word 97
+We reserve all rights in this document and in the information contained therein. Reproduction, use or disclosure to third Parties without express authority is strictly forbidden.
+© Siemens Industrial Turbomachinery AB
+## Curves
+- **Curve 6:** Rated temperature LP-turbine inlet (389.8 °C)
+- **Curve 7:** Rated pressure LP-turbine inlet (16.7 bara)
+- **Curve 8:** LP-turbine exhaust moisture limitation (VWO)
+- **Curve 9:** LP-turbine start-up limit: 50 °C superheat but not lower than 200 °C
+- **Curve 10:** LP-turbine low inlet temperature (280 °C)
+**Additional restrictions for admission temperature and cold reheat pressure during startup are given under sections “START UP CONDITIONS” and “START UP.”
+## LP Turbine Operating Area
+- Only temporary operation in this area
+- **Curves 1 to 5:** Not shown
+- **Curve 6:** Rated temperature LP-turbine inlet (389.8 °C)
+- **Curve 7:** Rated pressure LP-turbine inlet (16.7 bara)
+- **Curve 8:** LP-turbine exhaust moisture limitation (VWO)
+- **Curve 9:** LP-turbine start-up limit: 50 °C superheat but not lower than 200 °C
+- **Curve 10:** LP-turbine low inlet temperature (280 °C)
+**Additional restrictions for admission temperature and cold reheat pressure during startup are given under sections “START UP CONDITIONS” and “START UP.”
+## Limits of Variation of Rated Conditions
+### a. Initial Pressure
+- The average initial pressure at the turbine inlet over any 12 months of operation shall not exceed the rated pressure.
+- Further accidental swings not exceeding 120% of the rated pressure are permitted, provided that the aggregate duration of such swings over any 12 months of operation does not exceed 12 h.
+### b. Initial Temperature
+- The average steam temperature at any inlet to the turbine over any 12 months of operation shall not exceed the rated temperature.
+- If exceptionally, the temperature exceeds the rated temperature by more than 8 K (15 °F), the instantaneous value of the temperature may vary between this figure and a value of 14 K (25 °F) in excess of the rated temperature, provided that the total operating time between these two limits does not exceed 400 h during any 12 months operating period.
+## Rate of Variation of Admission Conditions
+### a. Initial Temperature, HP-module
+- Inlet temperature variation shall be within ±50 °C momentary, max. 1 step/hour.
+- Ramp ±3 °C/minute added to above step range.
+### b. Initial Temperature, LP-module
+- Inlet temperature variation shall be within ±50 °C momentary, max. 1 step/hour.
+- Ramp ±3 °C/minute added to above step range.
+## Output Limitations
+- **Maximum generator output:** 52.5 MW.
+- **Maximum output HP-turbine to gear 17.4 MW.**
+- Supervision of minimum cooling flow for the HP-turbine is done by pressure drop measurement over turbine.
+- Supervision of sufficient cooling flow for the LP-turbine is done by temperature measurement downstream last stage (L-0) and second last stage (L-1).
+- **Minimum continuous load:** 5 MW at a condenser pressure not larger than 0.06 bara (0.9 psia, 1.8 “HgA). Lower load is permitted during startup provided that it is limited to maximum one hour and the exhaust temperature is below its maximum allowed value (section 1d).
+## Admission Steam Pipe Heating Requirements
+- Prior to turbine startup, the turbine admission steam pipes must be heated.
+- Heating lines of sufficient size shall be connected as close as possible to the inlet valves of the turbine modules (recommendation to meet temperature requirements in section 7d).
+- Drains are required upstream the valves at the HP and LP-modules.
+
+# CONDITIONS FOR TURBINE OPERATION
+## START UP CONDITIONS
+### a Turning gear
+- Minimum inlet oil temperature for start of gear: 15°C.
+- Start turning gear at least 2 hours before running up if not in operation.
+- Do not stop turning gear until HP and LP metal temperatures are below 120°C (about 60 hours after turbine shutdown).
+### b Gland steam conditions
+- Normal gland steam source: Temperature: 175°C to 386°C, Pressure before gland steam valve: 7 bara to 101 bara.
+- Min. superheat: see curves below.
+- Cold start may be done with saturated gland steam (Min. temperature: 165°C, Min. pressure before gland steam valve: 7 bara).
+### c Preheating of HP-module
+- At a cold start, preheat from the cold reheat line for at least 10 minutes with a steam pressure of about 6 bara.
+- Pressure in the cold reheat line should be less than 6 bara before opening the preheating valve to minimize thermal stress.
+- No preheating period is necessary at warm and hot starts.
+### d Steam conditions
+- Minimum temperature upstream the turbine: Dry steam, Min superheat depends on pressure (HP-module: 30°C at loads < 6 MW, otherwise 50°C; LP-module: 50°C but not lower than 200°C).
+- Steam temperature at HP-turbine inlet: Not lower than 50°C below metal temperature at turbine casing inlet.
+- Steam pressure upstream the turbine: See diagram OPERATING AREA.
+- Minimum boiler flow capacity before running up: 10%.
+### e HP exhaust pressure
+- Same limits as for continuous operation, no limit on minimum pressure beside prewarming prior to cold start.
+### f Condenser pressure
+- Must be below 0.22 bara (3.2 psia/6.5 inHGA) to release turbine run-up; below 0.15 bara (2.2 psia/4.4 inHGA) for avoiding high condenser pressure alarm.
+## START UP
+### a Start-up categories
+- Defined by metal temperature Tm at both HP and LP modules just before run-up begins.
+- Main steam temperature OR hot reheat steam temperature > 300°C: Cold start < 200°C, Warm start 200°C – 290°C, Hot start > 290°C.
+- Main steam temperature AND hot reheat steam temperature ≤ 300°C: Cold start < 160°C, Warm start 160°C – 290°C, Hot start > 290°C.
+- Main steam temperature AND hot reheat steam temperature ≤ 250°C: Cold start < 140°C, Warm start 140°C – 250°C, Hot start > 280°C.
+### b Running up sequence
+- Guided by start-up categories and shown as n/no curve in graphs.
+- Run-up not allowed until Ts and Tr are greater than Tm -50°C (use turbine bypass to raise Ts and Tr).
+- Delay in running up may show up due to low oil inlet temperature or high vibration level. Time for synchronization is not included in start-up graphs.
+### c Loading sequence
+- Loading times after running up and synchronizing shown as N1 to N6 curves in graphs.
+- Loading guided by metal temperatures Tm HP and Tm LP.
+
+# CONDITIONS FOR TURBINE OPERATION
+## Condensing Turbine
+SST -700RH
+**Prepared by:** Markus Jöcker
+**Approved by:**
+**Archive:** 28,30 HG 9722
+**Latest revision/date:** Rev e: Chapt. 8: cold start for low steam temperature added, label corrections (MJ 110908)
+Rev f: Par 1c updated (MJ 120322) No. 1CSD 379 111
+**Document issued in:** Pulse
+**Date:** 2008-03-14
+**Authors:** Rolf Wikström, Arne Karlsson
+## Key Terms and Conditions
+- **Ts, low**: Minimum steam temperature measured upstream the HP-module.
+- **Tr, high**: Maximum steam temperature measured upstream the LP-module.
+- **Ps-high**: Maximum steam pressure measured upstream the HP-module.
+- **Ps-low**: Minimum steam pressure measured upstream the HP-module.
+- **Pr**: Indication of maximum pressure in the HP-module exhaust.
+- **N**: Percentage of maximum total generator output.
+- **n/n0**: Actual speed / Synchronous speed.
+## Cold Start Conditions
+- **Ts, start above 250°C:** Run up curve R3
+- **Load Curve N8:** Tm HP or Tm LP less than 130°C
+- **Load Curve N7:** Ts,start larger than 300°C: Tm HP < 200°C or Tm LP < 230°C
+- **Ts, start ≤ 300°C:** Tm HP < 160°C or Tm LP < 160°C
+## Temperature Control
+- ±10K deviation from nominal admission steam temperature is acceptable.
+- Temperatures more than 10K below nominal cause a trip due to insufficient superheat for the HP-admission.
+- Temperatures more than 10K above nominal impact component lifetime negatively.
+- Admission steam temperature increase should not exceed given curves, especially below minimum load.
+## Diagrams
+- Detailed curves for each start up showing admission steam conditions are provided in diagrams on pages 15 and 16.
+
+# CONDITIONS FOR TURBINE OPERATION
+## Condensing Turbine
+SST -700RH
+**Prepared by:** Markus Jöcker
+**Approved by:**
+**Archive:** 28,30 HG 9722
+**Latest revision/date:** Rev e: Chapt. 8: cold start for low steam temperature added, label corrections (MJ 110908)
+Rev f: Par 1c updated (MJ 120322) No. 1CSD 379 111
+**Document issued in:** Pulse
+**Prepared by:** Markus Jöcker
+**Approved by:**
+**Archive:** 28,30 HG 9722
+**Latest revision/date:** Rev e: Chapt. 8: cold start for low steam temperature added, label corrections (MJ 110908)
+Rev f: Par 1c updated (MJ 120322) No. 1CSD 379 111
+**Document issued in:** Pulse
+## Warm Start Conditions
+- **Warm start for Ts,start larger than 300 º C**: Run up curve R2, Curve N6: Tm HP <210 oC or Tm LP < 240 oC, Curve N5: Tm HP <220 oC or Tm LP < 250 oC, Curve N4: Tm HP <230 oC or Tm LP < 260 oC, Curve N3: Tm HP <290 oC or Tm LP < 280 oC
+- **Warm start for Ts,start less or equal 300 º C**: Run up curve R2, Curve N6: Tm HP <170 oC or Tm LP < 170 oC, Curve N5: Tm HP <190 oC or Tm LP < 190 oC, Curve N4: Tm HP <220 oC or Tm LP < 220 oC, Curve N3: Tm HP <290 oC or Tm LP < 280 oC
+- **Warm start for Ts,start less or equal 250 º C**: Load Curve N6: Tm HP <170 oC or Tm LP < 170 oC, Load Curve N5: Tm HP <190 oC or Tm LP < 190 oC, Load Curve N4: Tm HP <220 oC or Tm LP < 220 oC, Load Curve N3: Tm HP <250 oC or Tm LP < 250 oC
+## Temperature Control
+- **Deviation of ± 10K from the nominal admission steam temperature is acceptable**
+- **If the temperature is more than 10K below nominal, the steam turbine trips due to too low degree of superheat for the HP-admission**
+- **If the temperature is more than 10K above nominal, it will be registered for future evaluation, because it has a negative impact on component lifetime**
+## Temperature Increase
+- **The admission steam temperature increase should not be higher than given in the curves especially below minimum load. Above minimum load the temperature can be increased with the given ramp rates even if load is not further increased**
+
+# CONDITIONS FOR TURBINE OPERATION
+## CONDENSING TUR BINE
+SST -700RH
+**Warm start N4, Ts,start < 250 degC**
+![Graph](image_url)
+- **Time (min)**: 0 to 60
+- **Temperature (degC)**: 0 to 400
+- **Speed (%), Load (%), Pressure (bara), degree of superheat (degC)**
+1. Ts-max, Tr-max (degC)
+2. Ts-nom, Tr-nom (degC)
+3. Ts-min, Tr-min (degC)
+4. superheat Ts-nom (deg C)
+5. Ps (bara)
+6. Pr (bara)
+7. R2 (%)
+8. N4 (%)
+**Warm start N3, Ts,start < 250 degC**
+![Graph](image_url)
+- **Time (min)**: 0 to 60
+- **Temperature (degC)**: 0 to 400
+- **Speed (%), Load (%), Pressure (bara), degree of superheat (degC)**
+1. Ts-max, Tr-max (degC)
+2. Ts-nom, Tr-nom (degC)
+3. Ts-min, Tr-min (degC)
+4. superheat Ts-nom (deg C)
+5. Ps (bara)
+6. Pr (bara)
+7. R2 (%)
+8. N3 (%)
+## Hot start
+**Run up curve R1**
+![Graph](image_url)
+- **Time [min]**: 0 to 500
+- **Temperature [degC]**: 0 to 450
+- **Pressure [bara], Speed [%], Power [%]**
+1. Ts-high [C]
+2. Ts-low [C]
+3. Tr-high [C]
+4. Tr-low [C]
+5. Ps-high [bara]
+6. Ps-low [bara]
+7. Pr-high [bara]
+8. R1 [%]
+9. N1 [%]
+10. N2 [%]
+## BY -PASS OPERATION
+**a General**
+- Lubricating oil system shall be in operation.
+- Sealing steam system and the leak off steam system shall be in operation.
+- Turning gear shall be in operation.
+**b Temperature**
+- Same as for normal turbine operation.
+**c Pressure**
+- See diagram below.
+- At start-up when condenser pressure is less than 0.5 bara (14.7 inHgA) the by-pass system is released.
+- Before run-up of the turbine is initiated the condenser pressure must be below the trip limit given in 1d, “Exhaust conditions, LP module”.
+- **Allowable Condenser Pressure for By-pass Operation**
+![Graph](image_url)
+- **a) By-pass trip**
+
+# Conditions for Turbine Operation
+## Condensing Turbine
+SST -700RH
+Prepared by Markus Jöcker
+Approved by HG
+Latest revision: Rev f, Chapt. 8 (MJ 120322)
+### Vacuum Breaking Requirements
+- Vacuum breaking allowed when turbine speed < 10% of rated speed.
+- Full vacuum breaking initiated at loss of gland steam supply when turbine speed < 10% of rated speed.
+- Emergency vacuum breaking: rapid rise in pressure decelerates rotor shaft quickly.
+- Automatic emergency vacuum breaking for high vibrations on turbine or generator.
+- High condensate level in low-pressure pre-heater without check valve initiates vacuum breaking to prevent water entering the turbine.
+### Night Stand Still Vacuum Breaking
+- Gland steam system must remain operational until vacuum breaking is complete.
+- Minimize humidity in turbine exhausts to avoid blade and internal part corrosion.
+- Provide cold areas for steam condensation (e.g., keep condenser cold).
+- Minimize source of humidity during night stand still (no steam to condenser, empty hotwell if possible).

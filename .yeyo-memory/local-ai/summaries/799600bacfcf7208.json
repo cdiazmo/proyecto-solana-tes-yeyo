@@ -1,0 +1,46 @@
+{
+  "doc_id": "799600bacfcf7208",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/4521-PLN-AEE-75-52-0004_Rev01_Drain-back tank Platform/4521-PLN-AEE-75-52-0004_Rev01_Drain-back tank Platform.pdf",
+  "title": "4521-PLN-AEE-75-52-0004 Rev01 Drain-back tank Platform",
+  "doc_code": "4521-PLN-AEE-75-52-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "- Scale of 1/16\"=1'-0\"\n- General layout includes TES exchanger foundation and drain-back tank pit\n- Drawing references include 4521-PLN-AEE-75-52-0001-GAR, 4521-PLN-AEE-75-52-0002-GAR, and 4521-PLN-75-52-0002-GAR\n- Scale in feet: 1/16\"=1'-0\", 1/4\"=1'-0\", 1/14\"=1'-0\"\n- Plan view shows coordinates N:700249' - 1\" and E:373265' - 1\"\n- Drawing includes details of baseplates, frames, and existing reinforced concrete walls\n- Confidential information notice at the bottom of each page",
+  "summary_points": [
+    "Scale of 1/16\"=1'-0\"",
+    "General layout includes TES exchanger foundation and drain-back tank pit",
+    "Drawing references include 4521-PLN-AEE-75-52-0001-GAR, 4521-PLN-AEE-75-52-0002-GAR, and 4521-PLN-75-52-0002-GAR",
+    "Scale in feet: 1/16\"=1'-0\", 1/4\"=1'-0\", 1/14\"=1'-0\"",
+    "Plan view shows coordinates N:700249' - 1\" and E:373265' - 1\"",
+    "Drawing includes details of baseplates, frames, and existing reinforced concrete walls",
+    "Confidential information notice at the bottom of each page"
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-AEE-75-52-0002-GAR",
+    "4521-PLN-75-52-0002-GAR"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-AEE-75-52-0002-GAR",
+    "4521-PLN-75-52-0002-GAR"
+  ],
+  "warnings": [
+    "Text is in a very condensed format, making it difficult to read and understand at times."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/799600bacfcf7208.md",
+  "source_extracted_path": ".yeyo-memory/extracted/799600bacfcf7208.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:43:52.781227+00:00",
+  "usage": {
+    "input_tokens": 9066,
+    "output_tokens": 5221,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12259
+}

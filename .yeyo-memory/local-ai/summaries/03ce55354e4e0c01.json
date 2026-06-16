@@ -1,0 +1,58 @@
+{
+  "doc_id": "03ce55354e4e0c01",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA.pdf",
+  "title": "1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "- El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo.\n- Se detalla el recuento de estructuras metálicas para un proyecto en CORDOBA (SPAIN).\n- Incluye cantidades de acero, pintura exterior, tramez, barandilla y peldaños.\n- Los materiales se suministran según normas como CTE SE- A.\n- Se mencionan estructuras metálicas como soportes de bombas, pasarelas y escaleras en castillos.\n- Se suministra acero S-27 y pintura exterior en cantidades significativas.\n- Existen rejillas de pavimentación tipo Trámex con malla de seguridad.\n- Hay estructuras metálicas para vanos de 6 y 12 metros, calculadas con software especializado.\n- Se incluyen elementos como rodapíes, accesorios de fijación y medios auxiliares en todas las estructuras.\n- Documento de recuento de estructura para Atlantica.\n- Datos geométricos incluyen barras, sección, longitud y peso.\n- Se proporcionan datos específicos para HEB y RACK CONVENCIONAL.",
+  "summary_points": [
+    "El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo.",
+    "Se detalla el recuento de estructuras metálicas para un proyecto en CORDOBA (SPAIN).",
+    "Incluye cantidades de acero, pintura exterior, tramez, barandilla y peldaños.",
+    "Los materiales se suministran según normas como CTE SE- A.",
+    "Se mencionan estructuras metálicas como soportes de bombas, pasarelas y escaleras en castillos.",
+    "Se suministra acero S-27 y pintura exterior en cantidades significativas.",
+    "Existen rejillas de pavimentación tipo Trámex con malla de seguridad.",
+    "Hay estructuras metálicas para vanos de 6 y 12 metros, calculadas con software especializado.",
+    "Se incluyen elementos como rodapíes, accesorios de fijación y medios auxiliares en todas las estructuras.",
+    "Documento de recuento de estructura para Atlantica.",
+    "Datos geométricos incluyen barras, sección, longitud y peso.",
+    "Se proporcionan datos específicos para HEB y RACK CONVENCIONAL.",
+    "Totales calculados para las barras HEB y el rack convencional."
+  ],
+  "keywords": [
+    "CTE SE- A",
+    "ACERO S-275 JR",
+    "CTE SE-A",
+    "Diamonds Version 2025.0.0.0",
+    "Buildsoft Server Version 2025.0.0.0",
+    "HEB",
+    "RACK CONVENCIONAL"
+  ],
+  "references": [
+    "CTE SE- A",
+    "ACERO S-275 JR",
+    "CTE SE-A",
+    "Diamonds Version 2025.0.0.0",
+    "Buildsoft Server Version 2025.0.0.0",
+    "HEB",
+    "RACK CONVENCIONAL"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/03ce55354e4e0c01.md",
+  "source_extracted_path": ".yeyo-memory/extracted/03ce55354e4e0c01.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T16:16:53.664761+00:00",
+  "usage": {
+    "input_tokens": 27626,
+    "output_tokens": 7645,
+    "calls": 7
+  },
+  "repaired_calls": 2,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 31470
+}

@@ -1,0 +1,71 @@
+{
+  "doc_id": "5714abc82abd5d9e",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-57-70-0007_R2.pdf",
+  "title": "4521-ESP-AGE-57-70-0007 R2",
+  "doc_code": "4521-ESP-AGE-57-70-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document is an instrument specification for the Solana project.\n- It includes definitions for Supplier, Customer, Fabricator, and Owner.\n- The scope of work involves supplying instruments and related materials.\n- Heat Transfer Fluid (HTF) services are included in the specifications.\n- Confidential information must not be disclosed without permission.\n- RFQ No. 120006, Spec No. 4521-ESP-AGE-57-70-0007 for Solana project.\n- All materials must meet NEC, IEEE, UL standards; non-compliant materials will be returned and replaced at Supplier's expense.\n- Vendor data required within specified weeks after order; quotation must include time for approval drawings and fabrication.\n- Equipment to be delivered to purchaser's manufacturing site with specific locations; strict delivery schedule by December 2011.\n- Recommended spare parts list with prices and delivery times.\n- Equipment subject to inspection before shipment; Abener Teyma reserves the right to perform inspections during fabrication and prior to shipment.\n- Invite recommendations for price, delivery or performance improvements; alternate quotations must specify alternate and prices/delivery times.",
+  "summary_points": [
+    "This document is an instrument specification for the Solana project.",
+    "It includes definitions for Supplier, Customer, Fabricator, and Owner.",
+    "The scope of work involves supplying instruments and related materials.",
+    "Heat Transfer Fluid (HTF) services are included in the specifications.",
+    "Confidential information must not be disclosed without permission.",
+    "RFQ No. 120006, Spec No. 4521-ESP-AGE-57-70-0007 for Solana project.",
+    "All materials must meet NEC, IEEE, UL standards; non-compliant materials will be returned and replaced at Supplier's expense.",
+    "Vendor data required within specified weeks after order; quotation must include time for approval drawings and fabrication.",
+    "Equipment to be delivered to purchaser's manufacturing site with specific locations; strict delivery schedule by December 2011.",
+    "Recommended spare parts list with prices and delivery times.",
+    "Equipment subject to inspection before shipment; Abener Teyma reserves the right to perform inspections during fabrication and prior to shipment.",
+    "Invite recommendations for price, delivery or performance improvements; alternate quotations must specify alternate and prices/delivery times.",
+    "Specifications prepared using accepted engineering practices and approved technical standards.",
+    "Operational temperatures and pressures listed for various P&ID lines.",
+    "Design temperatures provided for reference.",
+    "Temperature transmitters (TT) identified for the solar field.",
+    "Document revision history and approval dates included.",
+    "Instrument tags (IT) specified for different zones."
+  ],
+  "keywords": [
+    "RFQ No. 120006",
+    "Spec No. 4521-ESP-AGE-57-70-0007",
+    "Project: Solana",
+    "Issue: 2",
+    "Rev. 3/2011",
+    "4521-ESP-AGE-57-70-0007",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA",
+    "SOLANA AG ENGINEERING",
+    "4521-PLN-ANC-57-71-P102"
+  ],
+  "references": [
+    "RFQ No. 120006",
+    "Spec No. 4521-ESP-AGE-57-70-0007",
+    "Project: Solana",
+    "Issue: 2",
+    "Rev. 3/2011",
+    "4521-ESP-AGE-57-70-0007",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA",
+    "SOLANA AG ENGINEERING",
+    "4521-PLN-ANC-57-71-P102"
+  ],
+  "warnings": [
+    "The text contains OCR errors and unclear sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5714abc82abd5d9e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5714abc82abd5d9e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:33:11.107201+00:00",
+  "usage": {
+    "input_tokens": 5642,
+    "output_tokens": 2929,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15764
+}

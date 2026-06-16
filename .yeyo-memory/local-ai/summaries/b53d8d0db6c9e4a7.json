@@ -1,0 +1,42 @@
+{
+  "doc_id": "b53d8d0db6c9e4a7",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS09.pdf",
+  "title": "4521-ESP-ANC-68-61-SS09",
+  "doc_code": "4521-ESP-ANC-68-61-SS09",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the material and installation standards for a demineralized water piping system in the Solana project, including specifications for pipe, fittings, and welding processes.",
+  "summary_points": [
+    "This document outlines the material and installation standards for a demineralized water piping system in the Solana project, including specifications for pipe, fittings, and welding processes."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-SS09",
+    "demineralized water",
+    "304 SS",
+    "pipe",
+    "fittings",
+    "welding",
+    "Solana project"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "4521-ESP-ANC-68-64-V311",
+    "4521-ESP-ANC-68-64-V312"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b53d8d0db6c9e4a7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b53d8d0db6c9e4a7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:55:48.349397+00:00",
+  "usage": {
+    "input_tokens": 1862,
+    "output_tokens": 1088,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4347
+}

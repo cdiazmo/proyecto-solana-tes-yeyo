@@ -1,0 +1,40 @@
+{
+  "doc_id": "19ee4b7f8dd50ac2",
+  "path": "01 GD AE/C&S/CAL/4521-CAL-AEE-75-52-0004-GAR-901_Rev00_Drain-back tank Platform.xlsx",
+  "title": "4521-CAL-AEE-75-52-0004-GAR-901 Rev00 Drain-back tank Platform",
+  "doc_code": "4521-CAL-AEE-75-52-0004",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Document for the drain-back tank platform, version 0 of 4521-CAL-AEE-68-51-0004-GAR. Includes input data and client comments.",
+  "summary_points": [
+    "Document for the drain-back tank platform, version 0 of 4521-CAL-AEE-68-51-0004-GAR. Includes input data and client comments."
+  ],
+  "keywords": [
+    "4521-CAL-AEE-75-52-0004-GAR",
+    "drain-back tank platform",
+    "input data",
+    "client comments"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0051",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "Client comments not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/19ee4b7f8dd50ac2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/19ee4b7f8dd50ac2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:38:04.522927+00:00",
+  "usage": {
+    "input_tokens": 1159,
+    "output_tokens": 359,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2224
+}

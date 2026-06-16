@@ -1,0 +1,63 @@
+{
+  "doc_id": "76e9acbf61e69e15",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-64-0015_R0.pdf",
+  "title": "4521-ESP-AGE-58-64-0015 R0",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Engineering Specification Job: 120006\n- Heat Transfer Fluid (HTF) Temporary Services Item No.: No. Req'd\n- Project: Solana\n- Revisions are identified in the body of the Specification\n- Notice of Alternate Billing Cycle allowed\n- Supplier responsible for delivery to Fabricator(s) and/or project jobsite\n- English/ U.S. units required on all documentation\n- RFQ No. 120006, Spec No. 4521-ESP-AGE-58-64-0015 for Solana project.\n- Material must meet NEC, IEEE, UL standards; non-compliant materials will be returned and replaced at supplier's expense.\n- Vendor must provide detailed data on delivery times and spare parts.\n- Equipment to be shipped dry, protected against damage, and with all openings properly covered.\n- Monthly shipping of 2 complete units starting October 2012.",
+  "summary_points": [
+    "Engineering Specification Job: 120006",
+    "Heat Transfer Fluid (HTF) Temporary Services Item No.: No. Req'd",
+    "Project: Solana",
+    "Revisions are identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle allowed",
+    "Supplier responsible for delivery to Fabricator(s) and/or project jobsite",
+    "English/ U.S. units required on all documentation",
+    "RFQ No. 120006, Spec No. 4521-ESP-AGE-58-64-0015 for Solana project.",
+    "Material must meet NEC, IEEE, UL standards; non-compliant materials will be returned and replaced at supplier's expense.",
+    "Vendor must provide detailed data on delivery times and spare parts.",
+    "Equipment to be shipped dry, protected against damage, and with all openings properly covered.",
+    "Monthly shipping of 2 complete units starting October 2012.",
+    "The document describes a rotary triple offset on-off valve with specifications for design pressure, temperature, and communication protocol.",
+    "It includes details on the actuator orientation, material of construction, and safety features like anti-noise and cavitation systems.",
+    "Valve Cv is specified to be at least 10% above design conditions, and it should pass hydraulic testing.",
+    "The document also mentions requirements for calibration certificates and functional testing in hazardous areas."
+  ],
+  "keywords": [
+    "EC-98",
+    "ABENER TEYMA SOLANA AG ENGINEERING",
+    "Abener Teyma",
+    "Abengoa Solar Inc.",
+    "Rotary Valve - ON/OFF",
+    "4521-ESP-AGE-58-64-0015",
+    "Tyco Model: Vanessa 30000",
+    "Westlock - ICOT 5300"
+  ],
+  "references": [
+    "EC-98",
+    "ABENER TEYMA SOLANA AG ENGINEERING",
+    "Abener Teyma",
+    "Abengoa Solar Inc.",
+    "Rotary Valve - ON/OFF",
+    "4521-ESP-AGE-58-64-0015",
+    "Tyco Model: Vanessa 30000",
+    "Westlock - ICOT 5300"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/76e9acbf61e69e15.md",
+  "source_extracted_path": ".yeyo-memory/extracted/76e9acbf61e69e15.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:56:13.460436+00:00",
+  "usage": {
+    "input_tokens": 5511,
+    "output_tokens": 4331,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17232
+}

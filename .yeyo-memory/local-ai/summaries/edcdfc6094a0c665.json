@@ -1,0 +1,45 @@
+{
+  "doc_id": "edcdfc6094a0c665",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.4 Cert Inspeccion.pdf",
+  "title": "5.9.1.4 Cert Inspeccion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Certificado de inspección de instalación eléctrica de baja tensión para una planta termosolar Helios. La instalación cumple con el Reglamento Electrotécnico y no presenta defectos significativos.",
+  "summary_points": [
+    "Certificado de inspección de instalación eléctrica de baja tensión para una planta termosolar Helios. La instalación cumple con el Reglamento Electrotécnico y no presenta defectos significativos."
+  ],
+  "keywords": [
+    "certificado",
+    "inspección",
+    "instalación eléctrica",
+    "baja tensión",
+    "planta termosolar",
+    "Helios",
+    "aprobado",
+    "garantía"
+  ],
+  "references": [
+    "RD 842/2002",
+    "ITC-BT-05",
+    "OC-1/034"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/edcdfc6094a0c665.md",
+  "source_extracted_path": ".yeyo-memory/extracted/edcdfc6094a0c665.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:55:20.386278+00:00",
+  "usage": {
+    "input_tokens": 1908,
+    "output_tokens": 678,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4243
+}

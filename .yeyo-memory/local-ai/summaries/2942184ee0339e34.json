@@ -1,0 +1,46 @@
+{
+  "doc_id": "2942184ee0339e34",
+  "path": "12 As Built TES 6/04_Piping/03_Stress Calculation report/4521-INF-AEE-21-63-0004-GAR_TES HEX Change_stress report.docx",
+  "title": "4521-INF-AEE-21-63-0004-GAR TES HEX Change stress report",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Document references: 21-INF-AEE-21-63-0004, A02, Rev00, A05, A03, A06\n- Documents include Input Echo and Restraint and Stress Reports\n- Modes of operation mentioned: Molten salts MODE2 and HTF",
+  "summary_points": [
+    "Document references: 21-INF-AEE-21-63-0004, A02, Rev00, A05, A03, A06",
+    "Documents include Input Echo and Restraint and Stress Reports",
+    "Modes of operation mentioned: Molten salts MODE2 and HTF"
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-61-0001-GAR_R00_ Pipeline TES HEX Replacement",
+    "4521-PLN-LOI-039-062-0001-GAR Rev.00 GENERAL ARRAGEMENT AND LOADS DRAWING",
+    "21-INF-AEE-21-63-0004 (A02)_Rev00_Input Echo",
+    "4521-INF-AEE-21-63-0004 (A05)_Rev00_Restraint and Stress Report",
+    "4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo",
+    "4521-INF-AEE-21-63-0004 (A06)_Rev00_Restraint and Stress Report"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-61-0001-GAR_R00_ Pipeline TES HEX Replacement",
+    "4521-PLN-LOI-039-062-0001-GAR Rev.00 GENERAL ARRAGEMENT AND LOADS DRAWING",
+    "21-INF-AEE-21-63-0004 (A02)_Rev00_Input Echo",
+    "4521-INF-AEE-21-63-0004 (A05)_Rev00_Restraint and Stress Report",
+    "4521-INF-AEE-21-63-0004 (A03)_Rev00_Input Echo",
+    "4521-INF-AEE-21-63-0004 (A06)_Rev00_Restraint and Stress Report"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2942184ee0339e34.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2942184ee0339e34.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T09:29:06.167562+00:00",
+  "usage": {
+    "input_tokens": 31917,
+    "output_tokens": 10976,
+    "calls": 9
+  },
+  "repaired_calls": 4,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 32339
+}

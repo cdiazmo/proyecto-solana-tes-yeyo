@@ -1,0 +1,70 @@
+{
+  "doc_id": "d82f8f9cd0f6a9b0",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0006_R1.pdf",
+  "title": "4521-ESP-AGE-74-70-0006 R1",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document is an engineering specification for the supply of instruments for the Solana project.\n- The specification includes definitions for terms like Supplier, Customer, Fabricator, and Owner.\n- The scope of work involves supplying all instruments listed in the request for quote, including cables, gaskets, manifolds, etc.\n- Supplier is responsible for delivering material to selected Fabricators or the jobsite.\n- The contract allows for alternate billing cycles upon request from the owner.\n- RFQ No. 120006, Spec No. 4521-ESP-AGE-74-70-0006\n- Quality requirements for material compliance with standards\n- Vendor commitment to supply data and complete 'Vendor Commitment' column\n- Quotation must include time for approval drawings and fabrication\n- Equipment delivery by August 2012\n- Spare parts list required with prices and delivery times\n- Inspection by Abener Teyma personnel before shipment",
+  "summary_points": [
+    "This document is an engineering specification for the supply of instruments for the Solana project.",
+    "The specification includes definitions for terms like Supplier, Customer, Fabricator, and Owner.",
+    "The scope of work involves supplying all instruments listed in the request for quote, including cables, gaskets, manifolds, etc.",
+    "Supplier is responsible for delivering material to selected Fabricators or the jobsite.",
+    "The contract allows for alternate billing cycles upon request from the owner.",
+    "RFQ No. 120006, Spec No. 4521-ESP-AGE-74-70-0006",
+    "Quality requirements for material compliance with standards",
+    "Vendor commitment to supply data and complete 'Vendor Commitment' column",
+    "Quotation must include time for approval drawings and fabrication",
+    "Equipment delivery by August 2012",
+    "Spare parts list required with prices and delivery times",
+    "Inspection by Abener Teyma personnel before shipment",
+    "Alternate quotations invited with details",
+    "Specifications prepared using accepted engineering practices",
+    "Shipment requirements for equipment protection",
+    "The equipment is a Guided Wave Radar Through Cable with a magnetic coupled float output signal.",
+    "It measures HTF level in a still well tank.",
+    "The transmitter model is MT5000/S6/LW/A/C1V/P11/CW09D-S6/H6/M7A/FM/FL-CST-R153/2626mm.",
+    "Accuracy is ± 0.1% of calibrated range with a digital LCD display.",
+    "The equipment requires a 2\" pipe mounting kit and has NEMA 4X enclosure protection.",
+    "Stilling well and isolation valves are to be provided by the owner."
+  ],
+  "keywords": [
+    "RFQ No. 120006",
+    "Spec No. 4521-ESP-AGE-74-70-0006",
+    "EC-98",
+    "AG ENGINEERING",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "MT5000/S6/LW/A/C1V/P11/CW09D-S6/H6/M7A/FM/FL-CST-R153/2626mm",
+    "KTEK",
+    "4521-ESP-AGE-74-70-0006"
+  ],
+  "references": [
+    "RFQ No. 120006",
+    "Spec No. 4521-ESP-AGE-74-70-0006",
+    "EC-98",
+    "AG ENGINEERING",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "MT5000/S6/LW/A/C1V/P11/CW09D-S6/H6/M7A/FM/FL-CST-R153/2626mm",
+    "KTEK",
+    "4521-ESP-AGE-74-70-0006"
+  ],
+  "warnings": [
+    "The document contains repeated text and unclear formatting, which may affect readability."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d82f8f9cd0f6a9b0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d82f8f9cd0f6a9b0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:14:26.679057+00:00",
+  "usage": {
+    "input_tokens": 4884,
+    "output_tokens": 2310,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 14937
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "130b7970e772db88",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-61-SS38.pdf",
+  "title": "4521-ESP-ANC-68-61-SS38",
+  "doc_code": "4521-ESP-ANC-68-61-SS38",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines engineering standards and practices for HTF piping systems, including materials, fittings, valves, and notes on welding electrodes.",
+  "summary_points": [
+    "This document outlines engineering standards and practices for HTF piping systems, including materials, fittings, valves, and notes on welding electrodes."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Piping Systems",
+    "304 SS",
+    "Welding Electrodes",
+    "Gate Valves",
+    "Flanges",
+    "Bolts",
+    "Gaskets"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/130b7970e772db88.md",
+  "source_extracted_path": ".yeyo-memory/extracted/130b7970e772db88.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:52:04.691516+00:00",
+  "usage": {
+    "input_tokens": 1715,
+    "output_tokens": 733,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4051
+}

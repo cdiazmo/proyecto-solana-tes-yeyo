@@ -1,0 +1,70 @@
+{
+  "doc_id": "c520822a42758415",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and Molten Salts Hydraulic Circuits Calculation Report.docx",
+  "title": "4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and Molten Salts Hydraulic Circuits Calculation Report",
+  "doc_code": "4521-CAL-AEE-58-11-0001",
+  "revision": "Rev 02",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Document evaluates implications of replacing existing TES System plate heat exchangers with new tube and shell heat exchangers.\n- Simulations using Pipeflo® for both HTF and Molten Salts circuits under different operating cases (Summer, Winter Discharging, Max, 25%).\n- Assumptions include pipes length, fittings details, operating pressure, temperatures, pump heights, and heat exchanger specifications.\n- HTF circuit includes 10 main pumps and 6 HTF-to-Salt Heat Exchangers.\n- Simulation results provided in Annex II for each operating case.\n- 2/2 indica el final del documento.\n- Se presentan dos valores con porcentaje y valor numérico.\n- El segundo valor es 'Field Data 22072016*', lo que sugiere una fecha o referencia específica.",
+  "summary_points": [
+    "Document evaluates implications of replacing existing TES System plate heat exchangers with new tube and shell heat exchangers.",
+    "Simulations using Pipeflo® for both HTF and Molten Salts circuits under different operating cases (Summer, Winter Discharging, Max, 25%).",
+    "Assumptions include pipes length, fittings details, operating pressure, temperatures, pump heights, and heat exchanger specifications.",
+    "HTF circuit includes 10 main pumps and 6 HTF-to-Salt Heat Exchangers.",
+    "Simulation results provided in Annex II for each operating case.",
+    "2/2 indica el final del documento.",
+    "Se presentan dos valores con porcentaje y valor numérico.",
+    "El segundo valor es 'Field Data 22072016*', lo que sugiere una fecha o referencia específica."
+  ],
+  "keywords": [
+    "3D Model (Solana--)",
+    "Specification for Oil-to-Salt Heat Exchanger",
+    "Main Salt Pump Performance Curve",
+    "Main HTF Pumps Predicted Performance Curves",
+    "HTF Services Rotary Control Valve Datasheet",
+    "Lointek tender proposal for an alternative heat exchanger",
+    "Far Field HTF Pumps",
+    "Near Field HTF Pumps",
+    "Central Plant HTF Distribution",
+    "Cold Salt Storage Tank",
+    "Hot Salt Storage Tank",
+    "4.105.612%",
+    "1.001.893",
+    "Field Data 22072016*"
+  ],
+  "references": [
+    "3D Model (Solana--)",
+    "Specification for Oil-to-Salt Heat Exchanger",
+    "Main Salt Pump Performance Curve",
+    "Main HTF Pumps Predicted Performance Curves",
+    "HTF Services Rotary Control Valve Datasheet",
+    "Lointek tender proposal for an alternative heat exchanger",
+    "Far Field HTF Pumps",
+    "Near Field HTF Pumps",
+    "Central Plant HTF Distribution",
+    "Cold Salt Storage Tank",
+    "Hot Salt Storage Tank",
+    "4.105.612%",
+    "1.001.893",
+    "Field Data 22072016*"
+  ],
+  "warnings": [
+    "Operating pressure and temperatures are not specified.",
+    "Some data points (e.g., cold molten salts temperature, hot molten salts temperature) are missing."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c520822a42758415.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c520822a42758415.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:12:50.701298+00:00",
+  "usage": {
+    "input_tokens": 3188,
+    "output_tokens": 767,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8088
+}

@@ -1,0 +1,37 @@
+{
+  "doc_id": "3cfd5d07f76dd30e",
+  "path": "01 GD AE/C&S/MTO/4521-MTO-AEE-75-52-0004-GAR-901_Rev00_Drain-back tank Platform.xlsx",
+  "title": "4521-MTO-AEE-75-52-0004-GAR-901 Rev00 Drain-back tank Platform",
+  "doc_code": "4521-MTO-AEE-75-52-0004",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Document for HEX replacement TES Solana, drain-back tank platform. Input data used, no major assumptions or holds.",
+  "summary_points": [
+    "Document for HEX replacement TES Solana, drain-back tank platform. Input data used, no major assumptions or holds."
+  ],
+  "keywords": [
+    "4521-MTO-AEE-75-52-0004-GAR-901",
+    "Drain back tank platform",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering"
+  ],
+  "references": [],
+  "warnings": [
+    "#VALUE! values in some cells suggest OCR issues or incomplete data."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3cfd5d07f76dd30e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3cfd5d07f76dd30e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:37:27.667799+00:00",
+  "usage": {
+    "input_tokens": 1068,
+    "output_tokens": 247,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2049
+}

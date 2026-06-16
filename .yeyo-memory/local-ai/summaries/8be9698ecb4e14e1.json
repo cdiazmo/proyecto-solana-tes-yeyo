@@ -1,0 +1,44 @@
+{
+  "doc_id": "8be9698ecb4e14e1",
+  "path": "03 GD Fabricacion LOI TES 6/Documentacion de procesos/4521-CAL-LOI-039-062-0002-GAR Rev02 Process Flow Conditions  Heat & Mass Balance.pdf",
+  "title": "4521-CAL-LOI-039-062-0002-GAR Rev02 Process Flow Conditions Heat & Mass Balance",
+  "doc_code": "4521-CAL-LOI-039-062-0002",
+  "revision": "Rev02",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Document details: Arizona Solar One, HEX replacement TES Solana\n- Heat exchanger specifications for MAX CHARGING and WINTER DISCHARGE\n- Performance data including fluid allocation, temperatures, pressures, and heat exchanged\n- Construction details of the heat exchangers\n- Total six heat exchangers required per train and plant",
+  "summary_points": [
+    "Document details: Arizona Solar One, HEX replacement TES Solana",
+    "Heat exchanger specifications for MAX CHARGING and WINTER DISCHARGE",
+    "Performance data including fluid allocation, temperatures, pressures, and heat exchanged",
+    "Construction details of the heat exchangers",
+    "Total six heat exchangers required per train and plant"
+  ],
+  "keywords": [
+    "4521-CAL-LOI-039-062-0002-GAR",
+    "1950101-CAL-002",
+    "ASME Code Sec. VIII Div. 2",
+    "TEMA Class R"
+  ],
+  "references": [
+    "4521-CAL-LOI-039-062-0002-GAR",
+    "1950101-CAL-002",
+    "ASME Code Sec. VIII Div. 2",
+    "TEMA Class R"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8be9698ecb4e14e1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8be9698ecb4e14e1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:03:47.712156+00:00",
+  "usage": {
+    "input_tokens": 11839,
+    "output_tokens": 4697,
+    "calls": 6
+  },
+  "repaired_calls": 3,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 14257
+}

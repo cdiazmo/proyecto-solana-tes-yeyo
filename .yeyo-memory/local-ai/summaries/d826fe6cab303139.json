@@ -1,0 +1,53 @@
+{
+  "doc_id": "d826fe6cab303139",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/ESP/4521-ESP-AEE-00-70-0501-GAR_rev00 General notes & instructions for instruments & valves procurement.pdf",
+  "title": "4521-ESP-AEE-00-70-0501-GAR rev00 General notes & instructions for instruments & valves procurement",
+  "doc_code": "4521-ESP-AEE-00-70-0501",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document pertains to instruments and valves procurement for the Solana project.\n- Supplier is responsible for delivering all material to selected Fabricator(s) or project jobsite.\n- Quality requirements include adherence to NEC, IEEE, UL standards.\n- Supplier must provide a single contact person for tracking material purchases.\n- Equipment delivery schedule is subject to final commercial agreement.\n- Customer has the right to inspect equipment before, during fabrication, and before shipment.\n- Vendor can provide alternative quotes with reduced costs or improved quality.\n- Specifications follow accepted engineering practices and safety regulations.\n- Equipment must be free of water, dried, and protected during transit and storage.\n- All openings must be covered and secure for prolonged exposure.",
+  "summary_points": [
+    "Document pertains to instruments and valves procurement for the Solana project.",
+    "Supplier is responsible for delivering all material to selected Fabricator(s) or project jobsite.",
+    "Quality requirements include adherence to NEC, IEEE, UL standards.",
+    "Supplier must provide a single contact person for tracking material purchases.",
+    "Equipment delivery schedule is subject to final commercial agreement.",
+    "Customer has the right to inspect equipment before, during fabrication, and before shipment.",
+    "Vendor can provide alternative quotes with reduced costs or improved quality.",
+    "Specifications follow accepted engineering practices and safety regulations.",
+    "Equipment must be free of water, dried, and protected during transit and storage.",
+    "All openings must be covered and secure for prolonged exposure."
+  ],
+  "keywords": [
+    "4521-ESP-AEE-00-70-0501-GAR",
+    "MMA, JMRL",
+    "ASME",
+    "ASTM",
+    "AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "references": [
+    "4521-ESP-AEE-00-70-0501-GAR",
+    "MMA, JMRL",
+    "ASME",
+    "ASTM",
+    "AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d826fe6cab303139.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d826fe6cab303139.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:12:27.157575+00:00",
+  "usage": {
+    "input_tokens": 2420,
+    "output_tokens": 1632,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8054
+}

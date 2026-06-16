@@ -1,0 +1,61 @@
+{
+  "doc_id": "b161e44a3db31d83",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-45-0001_R2Junction Boxes Specification.xlsx",
+  "title": "4521-ESP-AGE-39-45-0001 R2Junction Boxes Specification",
+  "doc_code": "4521-ESP-AGE-39-45-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana\n- Job number: 120006\n- Specification number: 4521-ESP-AGE-39-45-0001\n- Issue date: March 20, 2012\n- Initialing required on cover sheet only\n- Revisions identified in the body of the Specification\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Confidentiality clause regarding information and know-how\n- Junction boxes must meet NEC, IEEE, UL standards.\n- Vendor data and approval times are required in quotations.\n- Equipment delivery is to be at the purchaser's manufacturing site.\n- Shipment must adhere to a strict delivery schedule.",
+  "summary_points": [
+    "Project: Solana",
+    "Job number: 120006",
+    "Specification number: 4521-ESP-AGE-39-45-0001",
+    "Issue date: March 20, 2012",
+    "Initialing required on cover sheet only",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Confidentiality clause regarding information and know-how",
+    "Junction boxes must meet NEC, IEEE, UL standards.",
+    "Vendor data and approval times are required in quotations.",
+    "Equipment delivery is to be at the purchaser's manufacturing site.",
+    "Shipment must adhere to a strict delivery schedule.",
+    "Spare parts list with prices and delivery is needed.",
+    "Equipment subject to inspection by Abener Teyma personnel.",
+    "Vendor may recommend improvements in price, delivery or performance.",
+    "Specifications are based on accepted engineering practices and approved technical standards."
+  ],
+  "keywords": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-39-45-0001",
+    "Mar/20/2012",
+    "PGV, CLR, PQJ",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Rev. 2"
+  ],
+  "references": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-39-45-0001",
+    "Mar/20/2012",
+    "PGV, CLR, PQJ",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Rev. 2"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b161e44a3db31d83.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b161e44a3db31d83.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:06:56.333135+00:00",
+  "usage": {
+    "input_tokens": 9842,
+    "output_tokens": 3872,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17657
+}

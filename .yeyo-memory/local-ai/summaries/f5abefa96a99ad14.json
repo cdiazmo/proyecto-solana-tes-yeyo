@@ -1,0 +1,47 @@
+{
+  "doc_id": "f5abefa96a99ad14",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V309.pdf",
+  "title": "4521-ESP-ANC-68-64-V309",
+  "doc_code": "4521-ESP-ANC-68-64-V309",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Specifications for stainless steel plug valves including Class 150 RF flanged and Class 300 RF flanged models with detailed descriptions and notes on certification requirements.",
+  "summary_points": [
+    "Specifications for stainless steel plug valves including Class 150 RF flanged and Class 300 RF flanged models with detailed descriptions and notes on certification requirements."
+  ],
+  "keywords": [
+    "plug valves",
+    "stainless steel",
+    "class 150",
+    "class 300",
+    "rf flanged",
+    "te41",
+    "te50t",
+    "certification papers",
+    "position locking"
+  ],
+  "references": [
+    "ASTMA-351",
+    "ASTMA-744",
+    "Nace MR-01-75",
+    "Durco Duralon 2"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f5abefa96a99ad14.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f5abefa96a99ad14.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:49:43.478212+00:00",
+  "usage": {
+    "input_tokens": 1639,
+    "output_tokens": 551,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3818
+}

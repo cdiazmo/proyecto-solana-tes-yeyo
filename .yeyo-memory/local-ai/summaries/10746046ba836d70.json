@@ -1,0 +1,42 @@
+{
+  "doc_id": "10746046ba836d70",
+  "path": "04 GD Fabricacon LOI TES 3/Documentos procesos/TD-CAL-SLN-003-00 OPERATIONAL LIMITS.pdf",
+  "title": "TD-CAL-SLN-003-00 OPERATIONAL LIMITS",
+  "doc_code": "TD-CAL-SLN-003-00",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, thermal shock, operation area, and mass flow requirements.",
+  "summary_points": [
+    "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, thermal shock, operation area, and mass flow requirements."
+  ],
+  "keywords": [
+    "Oil to Salt Heat Exchanger",
+    "Solana Thermosolar Power Plant",
+    "Operational Limits",
+    "Design Conditions",
+    "Thermal Shock",
+    "Operation Area",
+    "Mass Flow"
+  ],
+  "references": [
+    "TD-CAL-SLN-003",
+    "1950201-PTP-001",
+    "Abengoa"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/10746046ba836d70.md",
+  "source_extracted_path": ".yeyo-memory/extracted/10746046ba836d70.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:04:21.238246+00:00",
+  "usage": {
+    "input_tokens": 2026,
+    "output_tokens": 602,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5807
+}

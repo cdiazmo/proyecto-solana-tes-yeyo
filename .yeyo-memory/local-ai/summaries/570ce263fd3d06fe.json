@@ -1,0 +1,42 @@
+{
+  "doc_id": "570ce263fd3d06fe",
+  "path": "02 GD LOI/IBP/4521-PPI-LOI-039-062-0004-GA-901_INSPECTION POINT PROGRAM_TCS.xlsx",
+  "title": "4521-PPI-LOI-039-062-0004-GA-901 INSPECTION POINT PROGRAM TCS",
+  "doc_code": "4521-PPI-LOI-039-062-0004",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "TCS document for HEX replacement TES Solana project, version 0 from 2016-10-17. Contains details on assumptions, holds, and revisions.",
+  "summary_points": [
+    "TCS document for HEX replacement TES Solana project, version 0 from 2016-10-17. Contains details on assumptions, holds, and revisions."
+  ],
+  "keywords": [
+    "4521-PPI-LOI-039-062-0004-GAR_901",
+    "HEX replacement TES Solana",
+    "TCS",
+    "Abeinsa Engineering",
+    "Input data change"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0004",
+    "IFD"
+  ],
+  "warnings": [
+    "Text incomplete in multiple sections.",
+    "OCR issues with some dates and names."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/570ce263fd3d06fe.md",
+  "source_extracted_path": ".yeyo-memory/extracted/570ce263fd3d06fe.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:37:48.356698+00:00",
+  "usage": {
+    "input_tokens": 1155,
+    "output_tokens": 551,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2109
+}

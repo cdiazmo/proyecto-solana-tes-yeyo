@@ -1,0 +1,45 @@
+{
+  "doc_id": "f04ac577321e9031",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/PLN/4521_PLN_AEE_68_71_P273-GAR_Rev00_Thermal energy storage Un6 Cold salt storage tank.pdf",
+  "title": "4521 PLN AEE 68 71 P273-GAR Rev00 Thermal energy storage Un6 Cold salt storage tank",
+  "doc_code": "4521-PLN-AEE-68-71-P273",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the piping and instrumentation diagram of a cold salt storage tank, including components like heaters, pumps, and valves. It details the system's capacity, startup procedures, and safety features.",
+  "summary_points": [
+    "This document describes the piping and instrumentation diagram of a cold salt storage tank, including components like heaters, pumps, and valves. It details the system's capacity, startup procedures, and safety features."
+  ],
+  "keywords": [
+    "cold salt storage",
+    "thermal energy storage",
+    "piping diagram",
+    "heaters",
+    "pumps",
+    "valves",
+    "nitrogen supply",
+    "safety features"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P207",
+    "4521-PLN-AGE-68-71-P275",
+    "4521-PLN-AGE-68-71-P274"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f04ac577321e9031.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f04ac577321e9031.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:28:52.261802+00:00",
+  "usage": {
+    "input_tokens": 4197,
+    "output_tokens": 573,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6634
+}

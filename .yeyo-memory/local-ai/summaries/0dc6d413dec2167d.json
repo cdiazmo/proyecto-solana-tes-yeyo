@@ -1,0 +1,50 @@
+{
+  "doc_id": "0dc6d413dec2167d",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/PLN/4521_PLN_AEE_68_71_P271-GAR_Rev02_Thermal energy storage Un5 HTF to salt.pdf",
+  "title": "4521 PLN AEE 68 71 P271-GAR Rev02 Thermal energy storage Un5 HTF to salt",
+  "doc_code": "4521-PLN-AEE-68-71-P271",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Drawing number: 4044240463683228102412142016161218820224\n- Issue date: /80\n- Purpose of issue not specified in the text\n- Confidential and proprietary information\n- Drawing property of Abener Teyma Solana\n- Revisions include general updates and lines update",
+  "summary_points": [
+    "Drawing number: 4044240463683228102412142016161218820224",
+    "Issue date: /80",
+    "Purpose of issue not specified in the text",
+    "Confidential and proprietary information",
+    "Drawing property of Abener Teyma Solana",
+    "Revisions include general updates and lines update"
+  ],
+  "keywords": [
+    "ABENER TEYMA",
+    "4044240463683228102412142016161218820224",
+    "/80",
+    "MJCLRDAJMJGJRL 111 JAN17 LINES UPDATE",
+    "RDARDAJMJGJRL 205 APR17 GENERAL UPDATE"
+  ],
+  "references": [
+    "ABENER TEYMA",
+    "4044240463683228102412142016161218820224",
+    "/80",
+    "MJCLRDAJMJGJRL 111 JAN17 LINES UPDATE",
+    "RDARDAJMJGJRL 205 APR17 GENERAL UPDATE"
+  ],
+  "warnings": [
+    "Issue date format unclear",
+    "Purpose of issue not provided in the text"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0dc6d413dec2167d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0dc6d413dec2167d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:36:04.616693+00:00",
+  "usage": {
+    "input_tokens": 6054,
+    "output_tokens": 837,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8704
+}

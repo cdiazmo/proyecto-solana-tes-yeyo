@@ -1,0 +1,44 @@
+{
+  "doc_id": "15de8a7ea413ef09",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-PL24.pdf",
+  "title": "4521-ESP-ANC-68-61-PL24",
+  "doc_code": "4521-ESP-ANC-68-61-PL24",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and installation requirements for an underground HDPE piping system project in Solana. It includes specifications for pipe materials, fittings, valves, and construction methods, as well as notes on backfilling and marking.",
+  "summary_points": [
+    "This document outlines the engineering standards and installation requirements for an underground HDPE piping system project in Solana. It includes specifications for pipe materials, fittings, valves, and construction methods, as well as notes on backfilling and marking."
+  ],
+  "keywords": [
+    "HDPE",
+    "piping",
+    "Solana",
+    "Engineering Standards",
+    "Installation",
+    "Butt fusion",
+    "Flanges",
+    "Gate Valve",
+    "Butterfly Valve"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V360",
+    "4521-ESP-ANC-68-64-V351",
+    "N/A"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/15de8a7ea413ef09.md",
+  "source_extracted_path": ".yeyo-memory/extracted/15de8a7ea413ef09.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:06:00.814836+00:00",
+  "usage": {
+    "input_tokens": 2311,
+    "output_tokens": 864,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6402
+}

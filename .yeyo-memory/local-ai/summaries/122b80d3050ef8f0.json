@@ -1,0 +1,47 @@
+{
+  "doc_id": "122b80d3050ef8f0",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Eléctrico/LIS/4521-LIS-AEE-39-40-0011-GAR TES_R0 Area Electric cable list Unit 5-6.pdf",
+  "title": "4521-LIS-AEE-39-40-0011-GAR TES R0 Area Electric cable list Unit 5-6",
+  "doc_code": "4521-LIS-AEE-39-40-0011",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists electrical cables for Unit 5-6 of the Solana Generating Station, detailing specifications, routing, and control voltage panels.",
+  "summary_points": [
+    "This document lists electrical cables for Unit 5-6 of the Solana Generating Station, detailing specifications, routing, and control voltage panels."
+  ],
+  "keywords": [
+    "Solana",
+    "Unit 5-6",
+    "Electric cable list",
+    "Low Voltage Cable Schedule",
+    "Cable tags",
+    "Control voltage",
+    "Power panel",
+    "Outdoor lighting"
+  ],
+  "references": [
+    "Specification Form - Solana (Rev. 3/2011)",
+    "ABENER TEYMA",
+    "SOLANA",
+    "AG ENGINEERING"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos lugares, como 'TES Area Electric cable list Unit 5-6' y 'Solana Generatingg Station'.",
+    "Texto incompleto en la última página."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/122b80d3050ef8f0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/122b80d3050ef8f0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:32:22.030667+00:00",
+  "usage": {
+    "input_tokens": 3205,
+    "output_tokens": 2577,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7219
+}

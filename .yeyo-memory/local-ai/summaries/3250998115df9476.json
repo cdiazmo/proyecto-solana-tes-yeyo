@@ -1,0 +1,41 @@
+{
+  "doc_id": "3250998115df9476",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS96.pdf",
+  "title": "4521-ESP-ANC-68-61-CS96",
+  "doc_code": "4521-ESP-ANC-68-61-CS96",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for a propane piping system, including material specifications, construction details, and valve requirements.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for a propane piping system, including material specifications, construction details, and valve requirements."
+  ],
+  "keywords": [
+    "propane",
+    "piping",
+    "construction",
+    "material",
+    "valves",
+    "standards",
+    "specifications"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V352"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3250998115df9476.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3250998115df9476.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:40:51.132415+00:00",
+  "usage": {
+    "input_tokens": 1332,
+    "output_tokens": 893,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2923
+}

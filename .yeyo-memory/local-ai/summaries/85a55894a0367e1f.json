@@ -1,0 +1,49 @@
+{
+  "doc_id": "85a55894a0367e1f",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-ANC-00-62-0004 Aluminium Jaket Cover for insulation.pdf",
+  "title": "4521-ESP-ANC-00-62-0004 Aluminium Jaket Cover for insulation",
+  "doc_code": "4521-ESP-ANC-00-62-0004",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document outlines specifications for aluminum jacketing used on thermal insulation, providing details on materials, dimensions, and application to various vessel types.\n- Confidential information is protected under contract terms.\n- Revisions are tracked with specific dates and approvers.\n- The document includes notices regarding billing cycles, payment provisions, and certification periods.\n- Document No. 4521–ESP–ANC–00–62–0004\n- Contract allows alternate billing cycles, extended payment, and certification periods\n- Confidential information must be handled according to terms\n- Ducting requires flat sheets of minimum thickness\n- Piping has specific jacket thicknesses based on diameter\n- Manhole covers require flat sheets of minimum thickness\n- Available sizes include corrugated and flat options\n- Acceptable vendors are Industrial Insulation Group and RPR Products Inc.",
+  "summary_points": [
+    "This document outlines specifications for aluminum jacketing used on thermal insulation, providing details on materials, dimensions, and application to various vessel types.",
+    "Confidential information is protected under contract terms.",
+    "Revisions are tracked with specific dates and approvers.",
+    "The document includes notices regarding billing cycles, payment provisions, and certification periods.",
+    "Document No. 4521–ESP–ANC–00–62–0004",
+    "Contract allows alternate billing cycles, extended payment, and certification periods",
+    "Confidential information must be handled according to terms",
+    "Ducting requires flat sheets of minimum thickness",
+    "Piping has specific jacket thicknesses based on diameter",
+    "Manhole covers require flat sheets of minimum thickness",
+    "Available sizes include corrugated and flat options",
+    "Acceptable vendors are Industrial Insulation Group and RPR Products Inc."
+  ],
+  "keywords": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "\\Srv-chstfile01\\engineering\\Projects\\120006 Aben goa Solar Arizona\\Prolog\\Quote Packages\\00007Q-Steam Generation Subcontract\\4521-ESP-ANC-00-62-0004 Aluminum Jacket Protective Cover for Insul.doc",
+    "Srv-chstfile01\\engineering\\Projects\\120006 Aben goa Solar Arizona\\Prolog\\Quote Packages\\00007Q-Steam Generation Subcontract\\4521-ESP-ANC-00-62-0004 Aluminum Jacket Protective Cover for Insul.doc"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "\\Srv-chstfile01\\engineering\\Projects\\120006 Aben goa Solar Arizona\\Prolog\\Quote Packages\\00007Q-Steam Generation Subcontract\\4521-ESP-ANC-00-62-0004 Aluminum Jacket Protective Cover for Insul.doc",
+    "Srv-chstfile01\\engineering\\Projects\\120006 Aben goa Solar Arizona\\Prolog\\Quote Packages\\00007Q-Steam Generation Subcontract\\4521-ESP-ANC-00-62-0004 Aluminum Jacket Protective Cover for Insul.doc"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/85a55894a0367e1f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/85a55894a0367e1f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:13:36.953372+00:00",
+  "usage": {
+    "input_tokens": 2945,
+    "output_tokens": 1847,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8217
+}

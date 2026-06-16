@@ -1,0 +1,57 @@
+{
+  "doc_id": "e87be7390dd228e3",
+  "path": "02 GD LOI/Memoria/4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED.pdf",
+  "title": "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+  "doc_code": "4521-MEM-EPC-075-000-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Document title: MS-HTF Shell & Tube Heat Exchangers\n- Client: Arizona Solar One LLC, Project: Solana Generation Station\n- Prepared by Ricardo R. Delgado A., Reviewed and Approved by Andrés Barros Borrero and Jaime Rojas Blasco respectively\n- Purpose: Include guaranteed figures for Supplier to pass Practical Completion Test\n- Acceptance Test includes Heat and Mass balances with specific pressure drop and temperature requirements\n- Noise warranty requires sound pressure level not to exceed 85 dB(A)\n- The performance test procedure must be delivered 6 months before the Acceptance Test and approved by Teyma USA & Abener Engineering and Construction Services General Partnership.\n- The availability warranty must be fulfilled after receiving the heat exchanger, with a minimum of 99.9% availability guaranteed for 24 months starting from Practical Completion.\n- Availability is measured in 12-month periods using a specific formula that considers operation hours, capacity factors, stand-by time, scheduled and non-scheduled maintenance.\n- Non-scheduled maintenance does not include delays due to causes not attributable to the Supplier.",
+  "summary_points": [
+    "Document title: MS-HTF Shell & Tube Heat Exchangers",
+    "Client: Arizona Solar One LLC, Project: Solana Generation Station",
+    "Prepared by Ricardo R. Delgado A., Reviewed and Approved by Andrés Barros Borrero and Jaime Rojas Blasco respectively",
+    "Purpose: Include guaranteed figures for Supplier to pass Practical Completion Test",
+    "Acceptance Test includes Heat and Mass balances with specific pressure drop and temperature requirements",
+    "Noise warranty requires sound pressure level not to exceed 85 dB(A)",
+    "The performance test procedure must be delivered 6 months before the Acceptance Test and approved by Teyma USA & Abener Engineering and Construction Services General Partnership.",
+    "The availability warranty must be fulfilled after receiving the heat exchanger, with a minimum of 99.9% availability guaranteed for 24 months starting from Practical Completion.",
+    "Availability is measured in 12-month periods using a specific formula that considers operation hours, capacity factors, stand-by time, scheduled and non-scheduled maintenance.",
+    "Non-scheduled maintenance does not include delays due to causes not attributable to the Supplier."
+  ],
+  "keywords": [
+    "MS-HTF Shell & Tube Heat Exchangers",
+    "Arizona Solar One LLC",
+    "Solana Generation Station",
+    "Ricardo R. Delgado A.",
+    "Andrés Barros Borrero",
+    "Jaime Rojas Blasco",
+    "4521-MEM-EPC-075-000-0001",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "references": [
+    "MS-HTF Shell & Tube Heat Exchangers",
+    "Arizona Solar One LLC",
+    "Solana Generation Station",
+    "Ricardo R. Delgado A.",
+    "Andrés Barros Borrero",
+    "Jaime Rojas Blasco",
+    "4521-MEM-EPC-075-000-0001",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e87be7390dd228e3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e87be7390dd228e3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:14:17.509890+00:00",
+  "usage": {
+    "input_tokens": 3336,
+    "output_tokens": 1533,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8615
+}

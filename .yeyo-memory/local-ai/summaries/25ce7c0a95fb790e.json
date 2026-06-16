@@ -1,0 +1,41 @@
+{
+  "doc_id": "25ce7c0a95fb790e",
+  "path": "02 GD LOI/Calculos/4521-CAL-LOI-039-062-0003-GAR-901Rev0 Pipes stress analysis.xlsx",
+  "title": "4521-CAL-LOI-039-062-0003-GAR-901Rev0 Pipes stress analysis",
+  "doc_code": "4521-CAL-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Document detailing pipes stress analysis, version 0, issued for design on 2016-12-09.",
+  "summary_points": [
+    "Document detailing pipes stress analysis, version 0, issued for design on 2016-12-09."
+  ],
+  "keywords": [
+    "pipes",
+    "stress analysis",
+    "document code",
+    "revision 0",
+    "issued for design"
+  ],
+  "references": [
+    "4521-CAL-LOI-039-062-0003-GAR",
+    "4521-TMT-AEE-AEPC-0023"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos, como el estado del cliente y las fechas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/25ce7c0a95fb790e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/25ce7c0a95fb790e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:38:12.223029+00:00",
+  "usage": {
+    "input_tokens": 1177,
+    "output_tokens": 288,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2228
+}

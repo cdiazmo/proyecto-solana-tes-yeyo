@@ -1,0 +1,45 @@
+{
+  "doc_id": "ac5256976b392ecd",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-61-SS37.pdf",
+  "title": "4521-ESP-ANC-68-61-SS37",
+  "doc_code": "4521-ESP-ANC-68-61-SS37",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for molten salt piping systems using 304 SS, including specifications for materials, fittings, welding, bolts, and gaskets.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for molten salt piping systems using 304 SS, including specifications for materials, fittings, welding, bolts, and gaskets."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Molten Salt Piping",
+    "304 SS",
+    "Welding Electrodes",
+    "Bolts",
+    "Gaskets",
+    "Block Valves",
+    "Butterfly Valves",
+    "Plug Valves"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'Deleted' y 'N/A'",
+    "Texto incompleto en notas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ac5256976b392ecd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ac5256976b392ecd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:49:27.960842+00:00",
+  "usage": {
+    "input_tokens": 1605,
+    "output_tokens": 705,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3811
+}

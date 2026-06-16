@@ -1,0 +1,50 @@
+{
+  "doc_id": "87939366352e303a",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-AEE-75-52-0004-GAR_Rev00_Drain-back tank Platform.pdf",
+  "title": "4521-PLN-AEE-75-52-0004-GAR Rev00 Drain-back tank Platform",
+  "doc_code": "4521-PLN-AEE-75-52-0004",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Drain-back tank platform with TES exchanger foundation and pit. Scale: 1/16\"=1'-0\". References to general notes and details.",
+  "summary_points": [
+    "Drain-back tank platform with TES exchanger foundation and pit. Scale: 1/16\"=1'-0\". References to general notes and details."
+  ],
+  "keywords": [
+    "Drain-back tank",
+    "TES exchanger",
+    "Foundation",
+    "Pit",
+    "Scale",
+    "General notes",
+    "Ladder detail",
+    "Handrail",
+    "Base plate",
+    "Shear key"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-AEE-75-52-0002-GAR",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares, posibles errores tipográficos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/87939366352e303a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/87939366352e303a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:27:47.703166+00:00",
+  "usage": {
+    "input_tokens": 2327,
+    "output_tokens": 507,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6232
+}

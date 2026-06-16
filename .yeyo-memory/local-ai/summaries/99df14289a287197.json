@@ -1,0 +1,57 @@
+{
+  "doc_id": "99df14289a287197",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/HDD/4521-HDD-AEE-39-70-0014-GAR Rev.00 Flow gauges datasheet.pdf",
+  "title": "4521-HDD-AEE-39-70-0014-GAR Rev.00 Flow gauges datasheet",
+  "doc_code": "4521-HDD-AEE-39-70-0014",
+  "revision": "Rev.00",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for flow gauges, including specifications, documentation requirements, and inspection plans.",
+  "summary_points": [
+    "This document provides technical details for flow gauges, including specifications, documentation requirements, and inspection plans."
+  ],
+  "keywords": [
+    "Flow Gauges",
+    "Data Sheet",
+    "Specifications",
+    "Documentation",
+    "Inspection",
+    "AIP",
+    "Rotameter",
+    "Low Flow Switch",
+    "316 SS",
+    "NEMA 4X",
+    "Pressure Drop",
+    "Temperature",
+    "VDDR",
+    "P&ID",
+    "Fluid State",
+    "Density",
+    "Viscosity",
+    "Gas Nitrogen"
+  ],
+  "references": [
+    "ABEINSA EPC USA",
+    "Solana Project",
+    "ASME B16.5",
+    "EN 10204 3.1B",
+    "ASTM A-53"
+  ],
+  "warnings": [
+    "OCR issues detected in some text sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/99df14289a287197.md",
+  "source_extracted_path": ".yeyo-memory/extracted/99df14289a287197.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:30:36.445965+00:00",
+  "usage": {
+    "input_tokens": 2932,
+    "output_tokens": 494,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6973
+}

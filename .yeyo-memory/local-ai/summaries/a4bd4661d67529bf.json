@@ -1,0 +1,53 @@
+{
+  "doc_id": "a4bd4661d67529bf",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS72.pdf",
+  "title": "4521-ESP-ANC-68-61-CS72",
+  "doc_code": "4521-ESP-ANC-68-61-CS72",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document No. 4521-ESP-ANC-68-61-CS72 for Class 150 Carbon Steel piping system in Solana project.\n- Service range up to 500°F with specific notes on pipe sizes and materials.\n- Fittings, flanges, and valves detailed with specific classes and standards.\n- Notes include installation requirements, cleaning specifications, and welding processes.\n- Reference documents for block, rotary, and plug valves.\n- Document: 4521-ESP-ANC-68-61-CS72\n- Project: Solana\n- Material: Class 150 Carbon Steel\n- Standards include alternate billing, extended payment, and certification provisions\n- Confidential information protected by contract terms",
+  "summary_points": [
+    "Document No. 4521-ESP-ANC-68-61-CS72 for Class 150 Carbon Steel piping system in Solana project.",
+    "Service range up to 500°F with specific notes on pipe sizes and materials.",
+    "Fittings, flanges, and valves detailed with specific classes and standards.",
+    "Notes include installation requirements, cleaning specifications, and welding processes.",
+    "Reference documents for block, rotary, and plug valves.",
+    "Document: 4521-ESP-ANC-68-61-CS72",
+    "Project: Solana",
+    "Material: Class 150 Carbon Steel",
+    "Standards include alternate billing, extended payment, and certification provisions",
+    "Confidential information protected by contract terms"
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "4521-ESP-ANC-00-61-PS010",
+    "4521-ESP-ANC-68-61-CS72",
+    "PS-CS72",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "4521-ESP-ANC-00-61-PS010",
+    "4521-ESP-ANC-68-61-CS72",
+    "PS-CS72",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a4bd4661d67529bf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a4bd4661d67529bf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:20:14.655932+00:00",
+  "usage": {
+    "input_tokens": 3246,
+    "output_tokens": 1904,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9143
+}

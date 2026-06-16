@@ -1,0 +1,59 @@
+{
+  "doc_id": "a517e425dd0a09ff",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-45-0001_R2 Junction Boxes Specification.xlsx",
+  "title": "4521-ESP-AGE-39-45-0001 R2 Junction Boxes Specification",
+  "doc_code": "4521-ESP-AGE-39-45-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-39-45-0001\n- Initialing required on cover sheet only; all other title block info on all pages\n- Revisions identified in the body of the Specification\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Confidentiality terms for information and know-how\n- Junction boxes are specified for the TES Service project.\n- Material, cover screws, and other specifications are detailed.\n- Terminal blocks and enclosure color are defined.\n- Quantity of junction boxes is provided.\n- Purchasing details include manufacturer and model.",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-39-45-0001",
+    "Initialing required on cover sheet only; all other title block info on all pages",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Confidentiality terms for information and know-how",
+    "Junction boxes are specified for the TES Service project.",
+    "Material, cover screws, and other specifications are detailed.",
+    "Terminal blocks and enclosure color are defined.",
+    "Quantity of junction boxes is provided.",
+    "Purchasing details include manufacturer and model."
+  ],
+  "keywords": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-39-45-0001",
+    "Issue: 2, Dated: Mar/20/2012",
+    "PGV, CLR, PQJ",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Rev. 2",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA SOLANA AG ENGINEERING"
+  ],
+  "references": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-39-45-0001",
+    "Issue: 2, Dated: Mar/20/2012",
+    "PGV, CLR, PQJ",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Rev. 2",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA SOLANA AG ENGINEERING"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a517e425dd0a09ff.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a517e425dd0a09ff.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:05:06.374916+00:00",
+  "usage": {
+    "input_tokens": 9839,
+    "output_tokens": 3694,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17657
+}

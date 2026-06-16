@@ -1,0 +1,54 @@
+{
+  "doc_id": "842c38bd1dbdff57",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0003_R1  Ultrasonic Flowmeter Specification.xlsx",
+  "title": "4521-ESP-AGE-74-70-0003 R1 Ultrasonic Flowmeter Specification",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document is for the Ultrasonic Flowmeter project.\n- Initials required on cover sheet only, other title block info on all pages.\n- Revisions are detailed in the body of the specification.\n- Notice of Alternate Billing Cycle allows non-standard billing cycles.\n- Confidentiality clause restricts use and reproduction of information.\n- The ultrasonic flowmeter is for the Outlet Scrubber Spray Cooler - HTF side.\n- It has a process connection of inline-butt weld and dual channel transducers.\n- The transmitter has an output signal of 4...20 mA + HART and operates at 120 VAC.\n- The instrument tag material is 316 SS with a size of 2\" * 4\".",
+  "summary_points": [
+    "Document is for the Ultrasonic Flowmeter project.",
+    "Initials required on cover sheet only, other title block info on all pages.",
+    "Revisions are detailed in the body of the specification.",
+    "Notice of Alternate Billing Cycle allows non-standard billing cycles.",
+    "Confidentiality clause restricts use and reproduction of information.",
+    "The ultrasonic flowmeter is for the Outlet Scrubber Spray Cooler - HTF side.",
+    "It has a process connection of inline-butt weld and dual channel transducers.",
+    "The transmitter has an output signal of 4...20 mA + HART and operates at 120 VAC.",
+    "The instrument tag material is 316 SS with a size of 2\" * 4\"."
+  ],
+  "keywords": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-74-70-0003",
+    "PGV, JHR, PQJ",
+    "EC-98",
+    "FIT 204-53",
+    "4521-PLN-ANC-68-71-P206",
+    "General Electric"
+  ],
+  "references": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-74-70-0003",
+    "PGV, JHR, PQJ",
+    "EC-98",
+    "FIT 204-53",
+    "4521-PLN-ANC-68-71-P206",
+    "General Electric"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/842c38bd1dbdff57.md",
+  "source_extracted_path": ".yeyo-memory/extracted/842c38bd1dbdff57.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:43:37.364343+00:00",
+  "usage": {
+    "input_tokens": 3988,
+    "output_tokens": 1435,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13074
+}

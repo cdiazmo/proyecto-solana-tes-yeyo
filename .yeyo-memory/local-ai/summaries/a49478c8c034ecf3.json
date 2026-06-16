@@ -1,0 +1,43 @@
+{
+  "doc_id": "a49478c8c034ecf3",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0294.pdf",
+  "title": "4521-PLN-DOT-75-63-0294",
+  "doc_code": "4521-PLN-DOT-75-63-0294",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support definitions and parameters for pipe assemblies.",
+  "summary_points": [
+    "Document detailing support definitions and parameters for pipe assemblies."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "assembly",
+    "stiffeners",
+    "insulation",
+    "shoe",
+    "lift-stop"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0294",
+    "253-MS-01F-S-003"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in isometric reference points and detailed descriptions."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a49478c8c034ecf3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a49478c8c034ecf3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:22:49.432442+00:00",
+  "usage": {
+    "input_tokens": 2255,
+    "output_tokens": 282,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5226
+}

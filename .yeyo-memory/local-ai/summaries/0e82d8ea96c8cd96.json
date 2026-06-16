@@ -1,0 +1,63 @@
+{
+  "doc_id": "0e82d8ea96c8cd96",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-58-61-PS001.pdf",
+  "title": "4521-ESP-ANC-58-61-PS001",
+  "doc_code": "4521-ESP-ANC-58-61-PS001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The project is a concentrated solar power facility.\n- Vendor responsibilities include pipe fabrication and welding according to ASME standards.\n- All pipe supports are pre-furnished by Abener Teyma.\n- Specialty items like strainers and control valves are included in the contract.\n- Socketweld joints cannot be radiographed, all socket weld connections shall be visually inspected.\n- Vendor must ensure material delivered meets piping specifications and report discrepancies immediately.\n- All pipe spools for specified systems must be internally cleaned per specific standards before shipment.\n- Fabricator is responsible for maintaining cleanliness of piping during fabrication process.\n- Field Welds (FW) and Field Fit Welds (FFW) must be properly marked and located on spool drawings.\n- Vendor must remove all foreign matter from piping material before welding and clean/paint as required.\n- Contract allows alternate billing cycles other than thirty days.\n- Confidential information must be handled according to contract terms.",
+  "summary_points": [
+    "The project is a concentrated solar power facility.",
+    "Vendor responsibilities include pipe fabrication and welding according to ASME standards.",
+    "All pipe supports are pre-furnished by Abener Teyma.",
+    "Specialty items like strainers and control valves are included in the contract.",
+    "Socketweld joints cannot be radiographed, all socket weld connections shall be visually inspected.",
+    "Vendor must ensure material delivered meets piping specifications and report discrepancies immediately.",
+    "All pipe spools for specified systems must be internally cleaned per specific standards before shipment.",
+    "Fabricator is responsible for maintaining cleanliness of piping during fabrication process.",
+    "Field Welds (FW) and Field Fit Welds (FFW) must be properly marked and located on spool drawings.",
+    "Vendor must remove all foreign matter from piping material before welding and clean/paint as required.",
+    "Contract allows alternate billing cycles other than thirty days.",
+    "Confidential information must be handled according to contract terms.",
+    "Protection of flanged ends with proper covers and caps required.",
+    "Victaulic couplings are mandatory for carbon steel piping systems.",
+    "Stainless steel piping systems require specific flange installations.",
+    "Fabrication tolerances include end preparation, linear dimensions, and angular tolerances."
+  ],
+  "keywords": [
+    "ASME B 31.3",
+    "4521-ESP-ANC-58-61-PS001",
+    "4521-ESP-ANC-00-61-PS010",
+    "Abencs’ painting specification 4521-ESP-ANC-00-60-N180",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASME B16.47 Series A",
+    "PFI ES-3"
+  ],
+  "references": [
+    "ASME B 31.3",
+    "4521-ESP-ANC-58-61-PS001",
+    "4521-ESP-ANC-00-61-PS010",
+    "Abencs’ painting specification 4521-ESP-ANC-00-60-N180",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASME B16.47 Series A",
+    "PFI ES-3"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0e82d8ea96c8cd96.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0e82d8ea96c8cd96.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:56:16.531752+00:00",
+  "usage": {
+    "input_tokens": 5839,
+    "output_tokens": 2559,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 20679
+}

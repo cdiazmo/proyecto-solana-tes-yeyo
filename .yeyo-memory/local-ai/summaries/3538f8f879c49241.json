@@ -1,0 +1,43 @@
+{
+  "doc_id": "3538f8f879c49241",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V313.pdf",
+  "title": "4521-ESP-ANC-68-64-V313",
+  "doc_code": "4521-ESP-ANC-68-64-V313",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines material and installation standards for various valves including globe, ball, butterfly, and swing check valves. It specifies details such as class, size, materials, and sealing mechanisms.",
+  "summary_points": [
+    "This document outlines material and installation standards for various valves including globe, ball, butterfly, and swing check valves. It specifies details such as class, size, materials, and sealing mechanisms."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Material and Installation",
+    "Globe Valves",
+    "Ball Valves",
+    "Butterfly Valves",
+    "Swing Check Valves",
+    "Solana Project",
+    "PVC",
+    "CPVC",
+    "316 SS"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3538f8f879c49241.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3538f8f879c49241.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:52:52.293195+00:00",
+  "usage": {
+    "input_tokens": 1633,
+    "output_tokens": 597,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4091
+}

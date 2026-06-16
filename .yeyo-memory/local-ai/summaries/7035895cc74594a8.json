@@ -1,0 +1,71 @@
+{
+  "doc_id": "7035895cc74594a8",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-58-61-PS001.pdf",
+  "title": "4521-ESP-ANC-58-61-PS001",
+  "doc_code": "4521-ESP-ANC-58-61-PS001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document number: 4521-ESP-ANC-58-61-PS001\n- Project is a concentrated solar power facility in Maricopa County, Arizona\n- Vendor responsibilities include welding and radiographic examination\n- Items like strainers, flow meters, and pipe supports are pre-furnished by Abener Teyma\n- Socketweld joints cannot be radiographed, all socket weld connections shall be visually inspected.\n- Vendor must ensure material delivered meets piping specifications and report discrepancies immediately.\n- All pipe spools for specific systems must be internally cleaned before shipment to the jobsite.\n- Fabricator is responsible for maintaining cleanliness of piping during fabrication process.\n- Root pass welds for specified services must use TIG welding process.\n- Vendor must provide unique piece numbers with project, drawing and line size details.\n- Vendor must submit spool drawings with Field Weld and FFW locations to Abener Teyma offices.\n- All loose scale, rust, grease and other foreign matter must be removed before welding.",
+  "summary_points": [
+    "Document number: 4521-ESP-ANC-58-61-PS001",
+    "Project is a concentrated solar power facility in Maricopa County, Arizona",
+    "Vendor responsibilities include welding and radiographic examination",
+    "Items like strainers, flow meters, and pipe supports are pre-furnished by Abener Teyma",
+    "Socketweld joints cannot be radiographed, all socket weld connections shall be visually inspected.",
+    "Vendor must ensure material delivered meets piping specifications and report discrepancies immediately.",
+    "All pipe spools for specific systems must be internally cleaned before shipment to the jobsite.",
+    "Fabricator is responsible for maintaining cleanliness of piping during fabrication process.",
+    "Root pass welds for specified services must use TIG welding process.",
+    "Vendor must provide unique piece numbers with project, drawing and line size details.",
+    "Vendor must submit spool drawings with Field Weld and FFW locations to Abener Teyma offices.",
+    "All loose scale, rust, grease and other foreign matter must be removed before welding.",
+    "Piping or pipe supports must be cleaned and painted according to specified standards.",
+    "Document No: 4521-ESP-ANC-58-61-PS001",
+    "Job No.: 120006",
+    "Project: Solana",
+    "Alternate billing cycle allowed",
+    "Confidential information restrictions",
+    "Protection of flanged ends with covers",
+    "Victaulic couplings required for carbon steel piping systems",
+    "Stainless steel piping systems require specific flanges",
+    "Fabrication tolerances specified for end preparation, dimensions, and alignment"
+  ],
+  "keywords": [
+    "ASME B 31.3",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "4521-ESP-ANC-00-61-PS010",
+    "4521-EPS-ANC-00-60-N180",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASME B16.47 Series A",
+    "PFI ES-3"
+  ],
+  "references": [
+    "ASME B 31.3",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "4521-ESP-ANC-00-61-PS010",
+    "4521-EPS-ANC-00-60-N180",
+    "ASME B16.9",
+    "ASME B16.5",
+    "ASME B16.47 Series A",
+    "PFI ES-3"
+  ],
+  "warnings": [
+    "OCR issues may have affected the readability of some text"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7035895cc74594a8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7035895cc74594a8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:57:43.636884+00:00",
+  "usage": {
+    "input_tokens": 5866,
+    "output_tokens": 3571,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 20679
+}

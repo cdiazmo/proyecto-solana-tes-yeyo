@@ -1,0 +1,42 @@
+{
+  "doc_id": "8ad8012efb2d5d9c",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-61-CS30.pdf",
+  "title": "4521-ESP-ANC-68-61-CS30",
+  "doc_code": "4521-ESP-ANC-68-61-CS30",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Document detailing Class 300 Carbon Steel piping system standards for the Solana project, including material specifications, pressure/temperature limits, and quality control measures.",
+  "summary_points": [
+    "Document detailing Class 300 Carbon Steel piping system standards for the Solana project, including material specifications, pressure/temperature limits, and quality control measures."
+  ],
+  "keywords": [
+    "Class 300 Carbon Steel",
+    "Piping System",
+    "Solana Project",
+    "ANSI B31.3",
+    "TIG Welding",
+    "X-ray Inspection"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380",
+    "4521-ESP-ANC-68-64-V353"
+  ],
+  "warnings": [
+    "OCR defectuoso en la tabla de presión/temperatura"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8ad8012efb2d5d9c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8ad8012efb2d5d9c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:11:46.803923+00:00",
+  "usage": {
+    "input_tokens": 2914,
+    "output_tokens": 391,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7722
+}

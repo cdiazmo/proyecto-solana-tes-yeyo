@@ -1,0 +1,41 @@
+{
+  "doc_id": "2141e797bce1b932",
+  "path": "01 GD AE/C&S/MTO/4521-MTO-AEE-75-52-0003-GAR-901_Rev00_Drain_back_tank_support.xlsx",
+  "title": "4521-MTO-AEE-75-52-0003-GAR-901 Rev00 Drain back tank support",
+  "doc_code": "4521-MTO-AEE-75-52-0003",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Drain back tank support design based on Xina's specifications, with input data changes as the reason for revision.",
+  "summary_points": [
+    "Drain back tank support design based on Xina's specifications, with input data changes as the reason for revision."
+  ],
+  "keywords": [
+    "drain back tank",
+    "support",
+    "Ashalim",
+    "Xina",
+    "input data change"
+  ],
+  "references": [
+    "4521-MTO-AEE-75-52-0003-GAR",
+    "4521-TMT-AEE-AEPC-0036"
+  ],
+  "warnings": [
+    "Client comments and annexes not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2141e797bce1b932.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2141e797bce1b932.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:39:10.893810+00:00",
+  "usage": {
+    "input_tokens": 1182,
+    "output_tokens": 262,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2307
+}

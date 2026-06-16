@@ -1,0 +1,42 @@
+{
+  "doc_id": "4a3b98ed1f650779",
+  "path": "01 GD AE/C&S/CAL/4521-CAL-AEE-75-52-0003-GAR-901_Rev00_Drain_back_tank_support.xlsx",
+  "title": "4521-CAL-AEE-75-52-0003-GAR-901 Rev00 Drain back tank support",
+  "doc_code": "4521-CAL-AEE-75-52-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Document describing the design and support of a drain back tank, based on Ashalim's specifications.",
+  "summary_points": [
+    "Document describing the design and support of a drain back tank, based on Ashalim's specifications."
+  ],
+  "keywords": [
+    "drain back tank",
+    "support",
+    "Ashalim",
+    "Xina",
+    "design"
+  ],
+  "references": [
+    "4521-CAL-AEE-75-52-0003-GAR",
+    "4521-TMT-AEE-AEPC-0036"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'Client Main Comments' y 'Annexes to Comments'",
+    "Falta información en 'Reason for revision', 'Mistakes', 'Execution process update', y 'Design change'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4a3b98ed1f650779.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4a3b98ed1f650779.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:39:03.346234+00:00",
+  "usage": {
+    "input_tokens": 1182,
+    "output_tokens": 301,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2307
+}

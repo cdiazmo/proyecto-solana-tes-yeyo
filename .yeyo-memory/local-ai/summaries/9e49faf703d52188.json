@@ -1,0 +1,47 @@
+{
+  "doc_id": "9e49faf703d52188",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-ANC-00-62-0007 Miscellaneous insulation material.pdf",
+  "title": "4521-ESP-ANC-00-62-0007 Miscellaneous insulation material",
+  "doc_code": "4521-ESP-ANC-00-62-0007",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document outlines specifications for miscellaneous insulation materials.\n- It includes notices on alternate billing cycles, extended payment provisions, and certification periods.\n- Confidentiality terms are stated regarding the information in the document.\n- The specification is part of a larger set of documents (4521-ESP-ANC-00-62-0002).\n- Acceptable vendors for various insulation materials are listed.\n- Contract allows alternate billing cycles, extended payment and certification periods.\n- Confidential information must not be disclosed without permission.\n- List of acceptable vendors for various insulation materials and components.",
+  "summary_points": [
+    "This document outlines specifications for miscellaneous insulation materials.",
+    "It includes notices on alternate billing cycles, extended payment provisions, and certification periods.",
+    "Confidentiality terms are stated regarding the information in the document.",
+    "The specification is part of a larger set of documents (4521-ESP-ANC-00-62-0002).",
+    "Acceptable vendors for various insulation materials are listed.",
+    "Contract allows alternate billing cycles, extended payment and certification periods.",
+    "Confidential information must not be disclosed without permission.",
+    "List of acceptable vendors for various insulation materials and components."
+  ],
+  "keywords": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "Abener Document No: 4521–ESP–ANC–00–62–0007",
+    "Job No.: 120006",
+    "\\\\Srv-chstfile01\\engineering\\Projects\\120006 Aben goa Solar Arizona\\Prolog\\Quote Packages\\00007Q-Steam Generation Subcontract\\4521-ESP-ANC-00-62-0007 Miscellaneous Insulation Materials.doc"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "Abener Document No: 4521–ESP–ANC–00–62–0007",
+    "Job No.: 120006",
+    "\\\\Srv-chstfile01\\engineering\\Projects\\120006 Aben goa Solar Arizona\\Prolog\\Quote Packages\\00007Q-Steam Generation Subcontract\\4521-ESP-ANC-00-62-0007 Miscellaneous Insulation Materials.doc"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9e49faf703d52188.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9e49faf703d52188.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:28:25.376419+00:00",
+  "usage": {
+    "input_tokens": 3987,
+    "output_tokens": 1927,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11465
+}

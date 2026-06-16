@@ -1,0 +1,47 @@
+{
+  "doc_id": "dacf7460ad027293",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.7 Contrato Mto AT HII.pdf",
+  "title": "5.10.2.7 Contrato Mto AT HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Contrato de mantenimiento para la instalación solar térmica Helios Il, cumpliendo con los artículos 12 y 20 del Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en Centrales Eléctricas y Líneas Eléctricas de Alta Tensión.",
+  "summary_points": [
+    "Contrato de mantenimiento para la instalación solar térmica Helios Il, cumpliendo con los artículos 12 y 20 del Reglamento sobre Condiciones Técnicas y Garantías de Seguridad en Centrales Eléctricas y Líneas Eléctricas de Alta Tensión."
+  ],
+  "keywords": [
+    "CMAT",
+    "Planta Termica Helios Il",
+    "Mantenimiento",
+    "Instalación Eléctrica",
+    "Alta Tensión",
+    "Contrato",
+    "Reglamento",
+    "Artículos 12 y 20",
+    "Helios Il",
+    "Solar Térmico",
+    "Energía Eléctrica"
+  ],
+  "references": [
+    "R.D. 2375/1982",
+    "R.D. 223/2008"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/dacf7460ad027293.md",
+  "source_extracted_path": ".yeyo-memory/extracted/dacf7460ad027293.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:44:57.187286+00:00",
+  "usage": {
+    "input_tokens": 1608,
+    "output_tokens": 1064,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3536
+}

@@ -1,0 +1,70 @@
+{
+  "doc_id": "b9641ddc026d710e",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-64-0003_R4.pdf",
+  "title": "4521-ESP-AGE-58-64-0003 R4",
+  "doc_code": "4521-ESP-AGE-58-64-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana\n- RFQ No. and Spec No. provided\n- Material must meet NEC, IEEE, UL standards\n- Vendor data commitment required\n- Strict delivery schedule by August 2012\n- Spare parts list with prices needed\n- Equipment subject to inspection before shipment\n- Alternate billing cycle allowed\n- Confidentiality of information\n- Cooling tower water valve with P&ID Nº: 204-CWS-03-CS95-12\"\n- Ball control valve with a size inlet of Sch. / Class 42 and outlet of Sch. / Class 43\n- Manufacturer: BValve, Model: Not specified",
+  "summary_points": [
+    "Project: Solana",
+    "RFQ No. and Spec No. provided",
+    "Material must meet NEC, IEEE, UL standards",
+    "Vendor data commitment required",
+    "Strict delivery schedule by August 2012",
+    "Spare parts list with prices needed",
+    "Equipment subject to inspection before shipment",
+    "Alternate billing cycle allowed",
+    "Confidentiality of information",
+    "Cooling tower water valve with P&ID Nº: 204-CWS-03-CS95-12\"",
+    "Ball control valve with a size inlet of Sch. / Class 42 and outlet of Sch. / Class 43",
+    "Manufacturer: BValve, Model: Not specified",
+    "Insulation type: Ball, Modulating On-Off: Yes",
+    "Body material: AISI 316 SS (2\"x4\")",
+    "Communication method: HART",
+    "Range of operation: 60-80 psig",
+    "Design pressure and temperature not specified"
+  ],
+  "keywords": [
+    "4521-ESP-AGE-58-64-0003",
+    "Solana power plant",
+    "HTF overflow tanks - TV 205-03",
+    "ABENER TEYMA",
+    "AG ENGINEERING",
+    "P&ID Nº: 204-CWS-03-CS95-12\"",
+    "Manufacturer: BValve",
+    "Model: Not specified",
+    "Communication method: HART",
+    "Range of operation: 60-80 psig"
+  ],
+  "references": [
+    "4521-ESP-AGE-58-64-0003",
+    "Solana power plant",
+    "HTF overflow tanks - TV 205-03",
+    "ABENER TEYMA",
+    "AG ENGINEERING",
+    "P&ID Nº: 204-CWS-03-CS95-12\"",
+    "Manufacturer: BValve",
+    "Model: Not specified",
+    "Communication method: HART",
+    "Range of operation: 60-80 psig"
+  ],
+  "warnings": [
+    "Some data is missing or unclear (e.g., model number, design pressure and temperature)"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b9641ddc026d710e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b9641ddc026d710e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:08:09.043186+00:00",
+  "usage": {
+    "input_tokens": 6602,
+    "output_tokens": 3450,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 14897
+}

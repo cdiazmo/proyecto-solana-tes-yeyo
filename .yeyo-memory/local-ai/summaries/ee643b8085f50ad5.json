@@ -1,0 +1,38 @@
+{
+  "doc_id": "ee643b8085f50ad5",
+  "path": "12 As Built TES 6/04_Piping/03_Stress Calculation report/4521-INF-AEE-21-63-0004 (A05)_Rev00_Restraint and Stress Report.pdf",
+  "title": "4521-INF-AEE-21-63-0004 (A05) Rev00 Restraint and Stress Report",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document contains stress calculation data for various components.\n- Maximum values are recorded for different parameters such as displacement and reaction forces.\n- Different design codes (CSH, Flex GUI) are referenced throughout the report.",
+  "summary_points": [
+    "The document contains stress calculation data for various components.",
+    "Maximum values are recorded for different parameters such as displacement and reaction forces.",
+    "Different design codes (CSH, Flex GUI) are referenced throughout the report."
+  ],
+  "keywords": [
+    "CSH",
+    "Flex GUI"
+  ],
+  "references": [
+    "CSH",
+    "Flex GUI"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ee643b8085f50ad5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ee643b8085f50ad5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T19:15:42.872455+00:00",
+  "usage": {
+    "input_tokens": 296376,
+    "output_tokens": 85842,
+    "calls": 65
+  },
+  "repaired_calls": 32,
+  "chunk_count": 33,
+  "completed_chunks": 33,
+  "completed": true,
+  "text_chars": 228865
+}

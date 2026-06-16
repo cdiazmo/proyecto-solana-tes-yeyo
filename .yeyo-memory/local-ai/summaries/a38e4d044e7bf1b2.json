@@ -1,0 +1,44 @@
+{
+  "doc_id": "a38e4d044e7bf1b2",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Límites operativos de Lointek - 13-3-2019/4521-MOM-LOI-039-062-0003-GAR Rev02 Operational Limits.pdf",
+  "title": "4521-MOM-LOI-039-062-0003-GAR Rev02 Operational Limits",
+  "doc_code": "4521-MOM-LOI-039-062-0003",
+  "revision": "Rev02",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, temperature variations, operation areas, mass flow requirements, and special considerations for the drain with N2.",
+  "summary_points": [
+    "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, temperature variations, operation areas, mass flow requirements, and special considerations for the drain with N2."
+  ],
+  "keywords": [
+    "Oil to Salt Heat Exchanger",
+    "Solana Thermosolar Power Plant",
+    "Operational Limits",
+    "Design Conditions",
+    "Temperature Variations",
+    "Operation Areas",
+    "Mass Flow Requirements",
+    "N2 Drain"
+  ],
+  "references": [
+    "4521-MOM-LOI-039-062-0003-GAR",
+    "Rev02",
+    "Arizona Solar One",
+    "HEX replacement TES Solana"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a38e4d044e7bf1b2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a38e4d044e7bf1b2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:05:36.809359+00:00",
+  "usage": {
+    "input_tokens": 2280,
+    "output_tokens": 624,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6293
+}

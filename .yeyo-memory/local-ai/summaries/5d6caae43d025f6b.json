@@ -1,0 +1,43 @@
+{
+  "doc_id": "5d6caae43d025f6b",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0294.pdf",
+  "title": "4521-PLN-DOT-75-63-0294",
+  "doc_code": "4521-PLN-DOT-75-63-0294",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support structures for tuberías TES 6 MS, including dimensions, materials, and assembly options.",
+  "summary_points": [
+    "Document detailing support structures for tuberías TES 6 MS, including dimensions, materials, and assembly options."
+  ],
+  "keywords": [
+    "support",
+    "tuberías",
+    "TES 6 MS",
+    "dimensions",
+    "materials",
+    "assembly",
+    "stiffeners"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0294",
+    "253-MS-01F-S-003"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in isometric reference points and detailed dimensions."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5d6caae43d025f6b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5d6caae43d025f6b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:22:38.531120+00:00",
+  "usage": {
+    "input_tokens": 2256,
+    "output_tokens": 392,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5226
+}

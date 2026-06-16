@@ -1,0 +1,62 @@
+{
+  "doc_id": "3434fdff44f3b253",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0006-GAR Rev.0 Magnetic Particle Examination Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0006-GAR Rev.0 Magnetic Particle Examination Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0006",
+  "revision": "Rev.0",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document is titled 'Magnetic Particle Examination Procedure' for Arizona Solar One's HEX replacement TES Solana project.\n- It is owned by Abengoa and its reproduction or distribution without consent is forbidden.\n- The procedure describes the detection of discontinuities in ferromagnetic materials using the Yoke magnetizing method.\n- Equipment requirements include AC yokes, UV-A lamps, and calibrated light meters.\n- Magnetic particle products can be either wet (fluorescent or visible) or dry (color contrast).\n- The process involves checking the examination surface for discontinuities before applying magnetic particles.\n- Magnetic particle examination requires checking field strength with a Berthold sample.\n- At least two magnetic fields on the same area for 100% coverage.\n- Indications must be greater than 1.5 mm to be considered relevant.\n- Linear and rounded indications have specific criteria for evaluation.\n- Acceptance criteria vary based on ASME standards I, VIII Div.1 & 2, and B31.1.",
+  "summary_points": [
+    "The document is titled 'Magnetic Particle Examination Procedure' for Arizona Solar One's HEX replacement TES Solana project.",
+    "It is owned by Abengoa and its reproduction or distribution without consent is forbidden.",
+    "The procedure describes the detection of discontinuities in ferromagnetic materials using the Yoke magnetizing method.",
+    "Equipment requirements include AC yokes, UV-A lamps, and calibrated light meters.",
+    "Magnetic particle products can be either wet (fluorescent or visible) or dry (color contrast).",
+    "The process involves checking the examination surface for discontinuities before applying magnetic particles.",
+    "Magnetic particle examination requires checking field strength with a Berthold sample.",
+    "At least two magnetic fields on the same area for 100% coverage.",
+    "Indications must be greater than 1.5 mm to be considered relevant.",
+    "Linear and rounded indications have specific criteria for evaluation.",
+    "Acceptance criteria vary based on ASME standards I, VIII Div.1 & 2, and B31.1."
+  ],
+  "keywords": [
+    "ASME Code, Section V – Non Destructive Examination (2015 Edition)",
+    "ASME Code, Section VIII Div 1 y 2 – Pressure Vessels (2015 Edition)",
+    "ASME Section I, Power Boilers (2015 Edition)",
+    "ASME B 31.1 Power Piping (2014 Edition)",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "SNT-TC-1A (2011 Edition)",
+    "UNE-EN ISO 9712/2012",
+    "ASME I",
+    "ASME VIII Div.1 & 2",
+    "ASME B31.1"
+  ],
+  "references": [
+    "ASME Code, Section V – Non Destructive Examination (2015 Edition)",
+    "ASME Code, Section VIII Div 1 y 2 – Pressure Vessels (2015 Edition)",
+    "ASME Section I, Power Boilers (2015 Edition)",
+    "ASME B 31.1 Power Piping (2014 Edition)",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "SNT-TC-1A (2011 Edition)",
+    "UNE-EN ISO 9712/2012",
+    "ASME I",
+    "ASME VIII Div.1 & 2",
+    "ASME B31.1"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3434fdff44f3b253.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3434fdff44f3b253.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:06:38.977203+00:00",
+  "usage": {
+    "input_tokens": 4517,
+    "output_tokens": 1655,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 14778
+}

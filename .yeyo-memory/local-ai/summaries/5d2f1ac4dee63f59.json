@@ -1,0 +1,44 @@
+{
+  "doc_id": "5d2f1ac4dee63f59",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-61-CS31.pdf",
+  "title": "4521-ESP-ANC-68-61-CS31",
+  "doc_code": "4521-ESP-ANC-68-61-CS31",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the material and installation standards for a Class 300 Carbon Steel piping system in a Solana project, including service range, construction materials, fittings, bolting, gasketing, and valve specifications.",
+  "summary_points": [
+    "This document outlines the material and installation standards for a Class 300 Carbon Steel piping system in a Solana project, including service range, construction materials, fittings, bolting, gasketing, and valve specifications."
+  ],
+  "keywords": [
+    "Class 300 Carbon Steel",
+    "Piping System",
+    "Solana Project",
+    "Service Range",
+    "Construction Materials",
+    "Fittings",
+    "Bolting",
+    "Gasketing",
+    "Valves"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5d2f1ac4dee63f59.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5d2f1ac4dee63f59.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:07:24.884579+00:00",
+  "usage": {
+    "input_tokens": 2523,
+    "output_tokens": 650,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6735
+}

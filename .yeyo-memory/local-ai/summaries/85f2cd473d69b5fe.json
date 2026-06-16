@@ -1,0 +1,42 @@
+{
+  "doc_id": "85f2cd473d69b5fe",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev01/DRA/4521-PLN-AEE-75-52-0001-GAR_Rev01_S1.1 sealed.pdf",
+  "title": "4521-PLN-AEE-75-52-0001-GAR Rev01 S1.1 sealed",
+  "doc_code": "4521-PLN-AEE-75-52-0001",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "This document provides a detailed cover sheet for a construction project in Maricopa County, Arizona. It includes information on the basis of bearing, primary benchmark, legal description, and vicinity map.",
+  "summary_points": [
+    "This document provides a detailed cover sheet for a construction project in Maricopa County, Arizona. It includes information on the basis of bearing, primary benchmark, legal description, and vicinity map."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-52-0001",
+    "GAR Rev01 S1.1 sealed",
+    "cover sheet",
+    "basis of bearing",
+    "primary benchmark",
+    "legal description",
+    "vicinity map"
+  ],
+  "references": [
+    "GANNETT FLEMING, 2/9/15"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/85f2cd473d69b5fe.md",
+  "source_extracted_path": ".yeyo-memory/extracted/85f2cd473d69b5fe.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:19:43.967283+00:00",
+  "usage": {
+    "input_tokens": 2494,
+    "output_tokens": 456,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5107
+}

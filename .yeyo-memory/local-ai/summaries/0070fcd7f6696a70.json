@@ -1,0 +1,56 @@
+{
+  "doc_id": "0070fcd7f6696a70",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS95.pdf",
+  "title": "4521-ESP-ANC-68-61-CS95",
+  "doc_code": "4521-ESP-ANC-68-61-CS95",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document No: 4521-ESP-ANC-68-61-CS95\n- Job No: 120006, Project: Solana\n- Specifications for potable water, cooling water, hot water, process water, and other miscellaneous waters\n- Cut groove piping limited to pipe racks or long straight runs with minimized fittings and changes of direction\n- Service range includes welded piping up to 150 PSIG at 150 °F and cut groove systems up to 125 PSIG at 250 °F\n- Materials include galvanized carbon steel pipe, fittings, couplings, and valves\n- Valves types include gate, ball, globe, butterfly, check, and double-door check valves\n- Confidential information: proprietary property of Abencs\n- Job No.: 120006\n- Project: Solana\n- Alternate billing cycle allowed\n- Extended payment provision within 180 days",
+  "summary_points": [
+    "Document No: 4521-ESP-ANC-68-61-CS95",
+    "Job No: 120006, Project: Solana",
+    "Specifications for potable water, cooling water, hot water, process water, and other miscellaneous waters",
+    "Cut groove piping limited to pipe racks or long straight runs with minimized fittings and changes of direction",
+    "Service range includes welded piping up to 150 PSIG at 150 °F and cut groove systems up to 125 PSIG at 250 °F",
+    "Materials include galvanized carbon steel pipe, fittings, couplings, and valves",
+    "Valves types include gate, ball, globe, butterfly, check, and double-door check valves",
+    "Confidential information: proprietary property of Abencs",
+    "Job No.: 120006",
+    "Project: Solana",
+    "Alternate billing cycle allowed",
+    "Extended payment provision within 180 days",
+    "Extended certification and approval period within 30 days",
+    "Confidential proprietary information",
+    "Cut groove piping method for standard steel piping",
+    "Valve CC43W for potable water only",
+    "TFE paste on all screwed connections"
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-CS95",
+    "PS-CS95",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "4521-ESP-ANC-68-64-V350"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-61-CS95",
+    "PS-CS95",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "4521-ESP-ANC-68-64-V350"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0070fcd7f6696a70.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0070fcd7f6696a70.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:15:13.106102+00:00",
+  "usage": {
+    "input_tokens": 3299,
+    "output_tokens": 2220,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8688
+}

@@ -1,0 +1,53 @@
+{
+  "doc_id": "5adc4177ea6f0bf8",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0002-GAR _rev0 Heat Treatment Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0002-GAR rev0 Heat Treatment Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Procedure for post-weld heat treatment of oil-to-salt hex equipment.\n- Applicable to general welded constructions and production test coupons.\n- Uses a closed gas furnace for uniform heating.\n- Equipment must be free of grease and protected from oxidation.\n- Production test coupons are treated with the main piece.\n- El procedimiento incluye el soporte adecuado de las piezas en el horno para evitar deformaciones.\n- Los quemadores deben estar regulados para prevenir la oxidación excesiva y no incidir directamente sobre la pieza.\n- El PWHT final se realiza después de todas las operaciones de soldaduras y reparaciones.\n- Los tratamientos térmicos son realizados en el taller de LOINTEK por una subcontrata.\n- Se requiere un control estricto de temperatura durante el calentamiento y enfriamiento.\n- Los termopares deben ser sujetados con chispas o uni dos mecánicamente, y retirados cuidadosamente para evitar daños.\n- El reporte del tratamiento térmico debe incluir detalles específicos sobre la pieza tratada y los equipos utilizados.",
+  "summary_points": [
+    "Procedure for post-weld heat treatment of oil-to-salt hex equipment.",
+    "Applicable to general welded constructions and production test coupons.",
+    "Uses a closed gas furnace for uniform heating.",
+    "Equipment must be free of grease and protected from oxidation.",
+    "Production test coupons are treated with the main piece.",
+    "El procedimiento incluye el soporte adecuado de las piezas en el horno para evitar deformaciones.",
+    "Los quemadores deben estar regulados para prevenir la oxidación excesiva y no incidir directamente sobre la pieza.",
+    "El PWHT final se realiza después de todas las operaciones de soldaduras y reparaciones.",
+    "Los tratamientos térmicos son realizados en el taller de LOINTEK por una subcontrata.",
+    "Se requiere un control estricto de temperatura durante el calentamiento y enfriamiento.",
+    "Los termopares deben ser sujetados con chispas o uni dos mecánicamente, y retirados cuidadosamente para evitar daños.",
+    "El reporte del tratamiento térmico debe incluir detalles específicos sobre la pieza tratada y los equipos utilizados."
+  ],
+  "keywords": [
+    "ASME VIII Div. 2",
+    "TEMA R",
+    "4521-INS-LOI-039-062-0002-GAR",
+    "1950101-PTT-001",
+    "LOINTEK, S.L."
+  ],
+  "references": [
+    "ASME VIII Div. 2",
+    "TEMA R",
+    "4521-INS-LOI-039-062-0002-GAR",
+    "1950101-PTT-001",
+    "LOINTEK, S.L."
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5adc4177ea6f0bf8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5adc4177ea6f0bf8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:42:56.715246+00:00",
+  "usage": {
+    "input_tokens": 4270,
+    "output_tokens": 1797,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12991
+}

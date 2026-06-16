@@ -1,0 +1,47 @@
+{
+  "doc_id": "8a3b2765c4146e1f",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS51.pdf",
+  "title": "4521-ESP-ANC-68-61-CS51",
+  "doc_code": "4521-ESP-ANC-68-61-CS51",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines material and installation standards for various water service systems, including cooling, hot, process, and chemical feed piping. It specifies pipe sizes, materials, fittings, flanges, bolting, gaskets, and valves with special considerations for cut groove piping and installation techniques.",
+  "summary_points": [
+    "This document outlines material and installation standards for various water service systems, including cooling, hot, process, and chemical feed piping. It specifies pipe sizes, materials, fittings, flanges, bolting, gaskets, and valves with special considerations for cut groove piping and installation techniques."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-CS51",
+    "Solana",
+    "Cooling water",
+    "Hot water",
+    "Process water",
+    "Chemical feed piping",
+    "Cut groove pipe",
+    "Welded pipe",
+    "Threaded fittings",
+    "Flanges",
+    "Bolts",
+    "Gaskets",
+    "Valves"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "PS-CS51 Issue: 0 Dated: 28 Mar 08"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8a3b2765c4146e1f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8a3b2765c4146e1f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:00:59.606061+00:00",
+  "usage": {
+    "input_tokens": 2057,
+    "output_tokens": 872,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5298
+}

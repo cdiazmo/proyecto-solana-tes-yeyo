@@ -1,0 +1,58 @@
+{
+  "doc_id": "a0641215fc9107cc",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-45-0002_R0 Glands Specification.xlsx",
+  "title": "4521-ESP-AGE-39-45-0002 R0 Glands Specification",
+  "doc_code": "4521-ESP-AGE-39-45-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana\n- Job number: 120006\n- Specification number: 4521-ESP-AGE-39-45-0002\n- Initialing required on cover sheet only\n- Revisions identified in the body of the Specification\n- Confidentiality notice regarding information and know-how\n- Notice of alternative billing cycle available from designated agent\n- Material must meet NEC, IEEE, UL standards.\n- Equipment to be delivered to purchaser's site.\n- Strict delivery schedule for shipment.\n- Cable glands specifications provided in detail.\n- Supplier must provide spare parts list with prices and delivery times.",
+  "summary_points": [
+    "Project: Solana",
+    "Job number: 120006",
+    "Specification number: 4521-ESP-AGE-39-45-0002",
+    "Initialing required on cover sheet only",
+    "Revisions identified in the body of the Specification",
+    "Confidentiality notice regarding information and know-how",
+    "Notice of alternative billing cycle available from designated agent",
+    "Material must meet NEC, IEEE, UL standards.",
+    "Equipment to be delivered to purchaser's site.",
+    "Strict delivery schedule for shipment.",
+    "Cable glands specifications provided in detail.",
+    "Supplier must provide spare parts list with prices and delivery times."
+  ],
+  "keywords": [
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "4521-ESP-AGE-39-45-0002",
+    "Rev. 0",
+    "NEMA 4X",
+    "Class 1, Div 2, Group D"
+  ],
+  "references": [
+    "TEYMA USA & Abener Engineering and Construction Services General Partnership",
+    "EC-98",
+    "4521-ESP-AGE-39-45-0002",
+    "Rev. 0",
+    "NEMA 4X",
+    "Class 1, Div 2, Group D"
+  ],
+  "warnings": [
+    "Potential OCR errors in some text, such as 'AlTTrnaTT' instead of 'Alternative'",
+    "Some terms are written in non-standard English (e.g., 'writTTn' instead of 'written')"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a0641215fc9107cc.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a0641215fc9107cc.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:44:12.886344+00:00",
+  "usage": {
+    "input_tokens": 3908,
+    "output_tokens": 1224,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13085
+}

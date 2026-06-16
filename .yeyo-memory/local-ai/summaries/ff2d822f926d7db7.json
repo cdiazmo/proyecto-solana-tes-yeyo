@@ -1,0 +1,50 @@
+{
+  "doc_id": "ff2d822f926d7db7",
+  "path": "01 GD AE/Compras/02 Bomba desague/03 Comparacion/4521-TAB-AEE-75-62-0001-GAR TBE MS Drain Pump.pdf",
+  "title": "4521-TAB-AEE-75-62-0001-GAR TBE MS Drain Pump",
+  "doc_code": "4521-TAB-AEE-75-62-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Connections and piping details provided.\n- Mounting plate with thermal gasket for isolation and anchor bolts required.\n- Materials include EN 3.1 certificates for casing, bowl, volute, impeller, shaft, and coupling.\n- Scope of supply includes mechanical equipment, instrumentation, and shop tests.\n- Services include final documentation, quality documentation, and NDE tests as options.\n- Commercial conditions offer payment terms, delivery times, and warranty details.\n- Technical bid evaluation results recommend the pump for current drain tank design.",
+  "summary_points": [
+    "Connections and piping details provided.",
+    "Mounting plate with thermal gasket for isolation and anchor bolts required.",
+    "Materials include EN 3.1 certificates for casing, bowl, volute, impeller, shaft, and coupling.",
+    "Scope of supply includes mechanical equipment, instrumentation, and shop tests.",
+    "Services include final documentation, quality documentation, and NDE tests as options.",
+    "Commercial conditions offer payment terms, delivery times, and warranty details.",
+    "Technical bid evaluation results recommend the pump for current drain tank design."
+  ],
+  "keywords": [
+    "EN 3.1",
+    "A217WC6",
+    "A487 Gr CA6 NM",
+    "WN 1.7709 (21 CrMo V57)",
+    "DDP - Gila Bend, AZ. USA",
+    "FOB - Lewis Plant"
+  ],
+  "references": [
+    "EN 3.1",
+    "A217WC6",
+    "A487 Gr CA6 NM",
+    "WN 1.7709 (21 CrMo V57)",
+    "DDP - Gila Bend, AZ. USA",
+    "FOB - Lewis Plant"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ff2d822f926d7db7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ff2d822f926d7db7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:40:01.565554+00:00",
+  "usage": {
+    "input_tokens": 6725,
+    "output_tokens": 4156,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10160
+}

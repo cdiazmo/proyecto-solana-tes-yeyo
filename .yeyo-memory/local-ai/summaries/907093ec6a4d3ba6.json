@@ -1,0 +1,45 @@
+{
+  "doc_id": "907093ec6a4d3ba6",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V301.pdf",
+  "title": "4521-ESP-ANC-68-64-V301",
+  "doc_code": "4521-ESP-ANC-68-64-V301",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Document detailing material and installation standards for various valves including gate, globe, ball, needle, sampling, and check valves. Specifications include class, size, materials, bonnet type, and packing.",
+  "summary_points": [
+    "Document detailing material and installation standards for various valves including gate, globe, ball, needle, sampling, and check valves. Specifications include class, size, materials, bonnet type, and packing."
+  ],
+  "keywords": [
+    "Engineering Standards",
+    "Material and Installation",
+    "Gate Valves",
+    "Globe Valves",
+    "Ball Valves",
+    "Needle Valves",
+    "Sampling Valves",
+    "Check Valves",
+    "Alloy 20",
+    "Class 150 RF flanged"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/907093ec6a4d3ba6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/907093ec6a4d3ba6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:59:45.994246+00:00",
+  "usage": {
+    "input_tokens": 1933,
+    "output_tokens": 808,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4788
+}

@@ -1,0 +1,56 @@
+{
+  "doc_id": "6ad1d25f989b398f",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0003-GAR_REV 0_Tube Bending Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0003-GAR REV 0 Tube Bending Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document is titled 'Tube Bending Procedure OIL TO SALT HEX'.\n- It is owned by Abengoa and cannot be reproduced or distributed without permission.\n- The procedure defines methods for bending U-tubes, including dimensions and machines used.\n- Acceptance criteria, stress relieving heat treatment, and hydrostatic tests are outlined.\n- Two types of tube bending machines are used: automatic and manual.\n- Automatic machine for small radius bends with fixed tools and controllable angle.\n- Manual machine for larger radius bends with adjustable radius and development.\n- Acceptance criteria involve fitting tubes in carved wooden samples.\n- Stress relieving heat treatment is done by induction method.\n- Hydrostatic test must be conducted according to ASME VIII Div.2 and SA-556 codes.\n- Additional requirements include 10% liquid penetrant inspection, cleaning of lubricants, and maximum out-of-roundness of 10%.",
+  "summary_points": [
+    "The document is titled 'Tube Bending Procedure OIL TO SALT HEX'.",
+    "It is owned by Abengoa and cannot be reproduced or distributed without permission.",
+    "The procedure defines methods for bending U-tubes, including dimensions and machines used.",
+    "Acceptance criteria, stress relieving heat treatment, and hydrostatic tests are outlined.",
+    "Two types of tube bending machines are used: automatic and manual.",
+    "Automatic machine for small radius bends with fixed tools and controllable angle.",
+    "Manual machine for larger radius bends with adjustable radius and development.",
+    "Acceptance criteria involve fitting tubes in carved wooden samples.",
+    "Stress relieving heat treatment is done by induction method.",
+    "Hydrostatic test must be conducted according to ASME VIII Div.2 and SA-556 codes.",
+    "Additional requirements include 10% liquid penetrant inspection, cleaning of lubricants, and maximum out-of-roundness of 10%."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0003-GAR",
+    "195001-PCU-001",
+    "ISC",
+    "AAG",
+    "PAP",
+    "195001-MPS-052.00",
+    "195001-CR-010.00"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0003-GAR",
+    "195001-PCU-001",
+    "ISC",
+    "AAG",
+    "PAP",
+    "195001-MPS-052.00",
+    "195001-CR-010.00"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6ad1d25f989b398f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6ad1d25f989b398f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:53:04.707936+00:00",
+  "usage": {
+    "input_tokens": 4312,
+    "output_tokens": 1345,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13650
+}

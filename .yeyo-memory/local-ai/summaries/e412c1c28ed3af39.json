@@ -1,0 +1,61 @@
+{
+  "doc_id": "e412c1c28ed3af39",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0013 _R0 Level Gauge Specification.xlsx",
+  "title": "4521-ESP-AGE-58-70-0013 R0 Level Gauge Specification",
+  "doc_code": "4521-ESP-AGE-58-70-0013",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-39-70-0013\n- Initialing required on cover sheet only; all other title block info on all pages\n- Revisions identified in the body of the Specification\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Confidentiality terms apply to information and know-how\n- The level gauge is designed for HTF Expansion Tanks MV 205G thru M - Primary Level.\n- It features a magnetic float with AISI 316 material and an accuracy of ± 2.5mm.\n- Process conditions include nitrogen/ullage gas at the upper fluid and HTF liquid at the lower fluid.\n- The gauge is to be delivered with specific locations to be released later.\n- Warranty for materials is at least 1 year from plant start-up.",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-39-70-0013",
+    "Initialing required on cover sheet only; all other title block info on all pages",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Confidentiality terms apply to information and know-how",
+    "The level gauge is designed for HTF Expansion Tanks MV 205G thru M - Primary Level.",
+    "It features a magnetic float with AISI 316 material and an accuracy of ± 2.5mm.",
+    "Process conditions include nitrogen/ullage gas at the upper fluid and HTF liquid at the lower fluid.",
+    "The gauge is to be delivered with specific locations to be released later.",
+    "Warranty for materials is at least 1 year from plant start-up."
+  ],
+  "keywords": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-39-70-0013",
+    "AG ENGINEERING",
+    "PGV, CLR, PQJ",
+    "VRG",
+    "EC-98",
+    "4521-PLN-AGE-58-70-0013",
+    "AISI 316",
+    "IP-67"
+  ],
+  "references": [
+    "Solana",
+    "120006",
+    "4521-ESP-AGE-39-70-0013",
+    "AG ENGINEERING",
+    "PGV, CLR, PQJ",
+    "VRG",
+    "EC-98",
+    "4521-PLN-AGE-58-70-0013",
+    "AISI 316",
+    "IP-67"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e412c1c28ed3af39.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e412c1c28ed3af39.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:44:50.041125+00:00",
+  "usage": {
+    "input_tokens": 3854,
+    "output_tokens": 1305,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13153
+}

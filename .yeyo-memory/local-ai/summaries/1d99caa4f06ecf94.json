@@ -1,0 +1,53 @@
+{
+  "doc_id": "1d99caa4f06ecf94",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0002-GAR_REV 0_Heat Treatment Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0002-GAR REV 0 Heat Treatment Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- El procedimiento se aplica a las construcciones soldadas y sus cupones de prueba para SOLANA SOLAR POWER PLANT.\n- Se requiere el uso de hornos cerrados de gas para el tratamiento térmico post-soldadura.\n- Las piezas deben estar libres de grasa, pintura y otras sustancias inflamables antes del tratamiento.\n- El PWHT final se realiza después de todas las operaciones de soldadura y reparaciones en el equipo.\n- Se debe medir la temperatura con termopares y registrarla durante todo el proceso de calefacción y enfriamiento.\n- El Departamento de Control de Calidad indica la colocación de termopares para medir temperatura en la pieza post-soldadura.\n- Las mediciones se registran en un diagrama tiempo/temperatura, incluyendo calentamiento, mantenimiento y enfriamiento.\n- Los termopares y registradores están calibrados con certificados de caducidad y calibración.\n- Se controla la diferencia de temperatura entre termopares durante el calentamiento y enfriamiento.\n- La velocidad de calentamiento y enfriamiento se regula según los límites establecidos.\n- Los termopares deben sujetarse por chispas o unión mecánica, y retirarse con esmerilado suave para evitar daño al material.\n- Se requiere un reporte detallado del tratamiento térmico que incluye información sobre la pieza tratada y los equipos utilizados.",
+  "summary_points": [
+    "El procedimiento se aplica a las construcciones soldadas y sus cupones de prueba para SOLANA SOLAR POWER PLANT.",
+    "Se requiere el uso de hornos cerrados de gas para el tratamiento térmico post-soldadura.",
+    "Las piezas deben estar libres de grasa, pintura y otras sustancias inflamables antes del tratamiento.",
+    "El PWHT final se realiza después de todas las operaciones de soldadura y reparaciones en el equipo.",
+    "Se debe medir la temperatura con termopares y registrarla durante todo el proceso de calefacción y enfriamiento.",
+    "El Departamento de Control de Calidad indica la colocación de termopares para medir temperatura en la pieza post-soldadura.",
+    "Las mediciones se registran en un diagrama tiempo/temperatura, incluyendo calentamiento, mantenimiento y enfriamiento.",
+    "Los termopares y registradores están calibrados con certificados de caducidad y calibración.",
+    "Se controla la diferencia de temperatura entre termopares durante el calentamiento y enfriamiento.",
+    "La velocidad de calentamiento y enfriamiento se regula según los límites establecidos.",
+    "Los termopares deben sujetarse por chispas o unión mecánica, y retirarse con esmerilado suave para evitar daño al material.",
+    "Se requiere un reporte detallado del tratamiento térmico que incluye información sobre la pieza tratada y los equipos utilizados."
+  ],
+  "keywords": [
+    "ASME VIII Div. 2",
+    "TEMA R",
+    "195001-PTT-001",
+    "LOINTEK, S.L.",
+    "Q.C. Manager"
+  ],
+  "references": [
+    "ASME VIII Div. 2",
+    "TEMA R",
+    "195001-PTT-001",
+    "LOINTEK, S.L.",
+    "Q.C. Manager"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1d99caa4f06ecf94.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1d99caa4f06ecf94.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:33:34.472974+00:00",
+  "usage": {
+    "input_tokens": 3809,
+    "output_tokens": 2603,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11565
+}

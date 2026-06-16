@@ -1,0 +1,62 @@
+{
+  "doc_id": "53bc616b8452686a",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation/4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation.docx",
+  "title": "4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation",
+  "doc_code": "4521-CAL-AEE-58-11-0002",
+  "revision": "Rev 02",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Hydraulic calculations for replacing TES System plate heat exchangers with Lointek's tube and shell based units. Evaluated summer, winter, max charging, and 25% load conditions.",
+  "summary_points": [
+    "Hydraulic calculations for replacing TES System plate heat exchangers with Lointek's tube and shell based units. Evaluated summer, winter, max charging, and 25% load conditions."
+  ],
+  "keywords": [
+    "hydraulic calculation",
+    "TES system",
+    "Lointek heat exchanger",
+    "molten salts circuit",
+    "Pipeflo",
+    "pumps",
+    "control valves"
+  ],
+  "references": [
+    "4521-ESP-ANC-39-62-0002, Rev 02",
+    "0018H-3414-56",
+    "Lointek Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P251",
+    "Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P253",
+    "Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P261",
+    "Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P263",
+    "Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P264",
+    "Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P266",
+    "Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P267",
+    "Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P269",
+    "Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P270",
+    "Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P272",
+    "Cold Salt Storage Tank – 4521-PLN-ANC-68-71-P273",
+    "Hot Salt Storage Tank – 4521-PLN-ANC-68-71-P275",
+    "HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P252",
+    "HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P262",
+    "HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P265",
+    "HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P268",
+    "HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P271",
+    "HTF-to-SALT Heat Exchanger – 4521-PLN-ANC-68-71-P274"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'Cold molten salts temperature' y 'Pumps height'",
+    "Texto incompleto en 'Heat Exchanger Outlet nozzle height'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/53bc616b8452686a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/53bc616b8452686a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:02:22.353791+00:00",
+  "usage": {
+    "input_tokens": 2064,
+    "output_tokens": 1122,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5396
+}

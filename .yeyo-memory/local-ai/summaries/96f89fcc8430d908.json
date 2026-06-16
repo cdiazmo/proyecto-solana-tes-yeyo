@@ -1,0 +1,46 @@
+{
+  "doc_id": "96f89fcc8430d908",
+  "path": "03 GD Fabricacion LOI TES 6/Documentacion de procesos/4521-MOM-LOI-039-062-0003-GAR Rev02 Operational Limits.pdf",
+  "title": "4521-MOM-LOI-039-062-0003-GAR Rev02 Operational Limits",
+  "doc_code": "4521-MOM-LOI-039-062-0003",
+  "revision": "Rev02",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, thermal shock, temperature ramps, mass flow rates, and other limitations.",
+  "summary_points": [
+    "This document outlines operational limits for the Oil to Salt Heat Exchanger at Solana Thermosolar Power Plant, including design conditions, thermal shock, temperature ramps, mass flow rates, and other limitations."
+  ],
+  "keywords": [
+    "Oil to Salt Heat Exchanger",
+    "Solana Thermosolar Power Plant",
+    "Operational Limits",
+    "Design Conditions",
+    "Thermal Shock",
+    "Temperature Ramps",
+    "Mass Flow Rates"
+  ],
+  "references": [
+    "4521-MOM-LOI-039-062-0003-GAR",
+    "Rev02",
+    "JAA",
+    "IU",
+    "ALS"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas áreas del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/96f89fcc8430d908.md",
+  "source_extracted_path": ".yeyo-memory/extracted/96f89fcc8430d908.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:05:18.114266+00:00",
+  "usage": {
+    "input_tokens": 2261,
+    "output_tokens": 620,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6293
+}

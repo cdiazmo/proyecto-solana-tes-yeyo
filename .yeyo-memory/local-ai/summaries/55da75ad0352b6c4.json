@@ -1,0 +1,43 @@
+{
+  "doc_id": "55da75ad0352b6c4",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS91.pdf",
+  "title": "4521-ESP-ANC-68-61-CS91",
+  "doc_code": "4521-ESP-ANC-68-61-CS91",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for a fuel oil piping system, including material specifications, fittings, valves, and welding requirements.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for a fuel oil piping system, including material specifications, fittings, valves, and welding requirements."
+  ],
+  "keywords": [
+    "fuel oil piping",
+    "engineering standards",
+    "material specifications",
+    "fittings",
+    "valves",
+    "welding",
+    "TIG",
+    "alternate billing cycle",
+    "extended payment provision"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/55da75ad0352b6c4.md",
+  "source_extracted_path": ".yeyo-memory/extracted/55da75ad0352b6c4.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:43:19.292100+00:00",
+  "usage": {
+    "input_tokens": 1446,
+    "output_tokens": 862,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3229
+}

@@ -1,0 +1,38 @@
+{
+  "doc_id": "7a807806f30e3ac7",
+  "path": "01 GD AE/C&S/MTO/4521-MTO-AEE-75-52-0001-GAR-901_Rev00_exchangers_foundation.xlsx",
+  "title": "4521-MTO-AEE-75-52-0001-GAR-901 Rev00 exchangers foundation",
+  "doc_code": "4521-MTO-AEE-75-52-0001",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Exchanger Foundation document for HEX replacement TES Solana project. Purpose: Exchanger Foundation. Revision 0, dated 2017-01-12.",
+  "summary_points": [
+    "Exchanger Foundation document for HEX replacement TES Solana project. Purpose: Exchanger Foundation. Revision 0, dated 2017-01-12."
+  ],
+  "keywords": [
+    "4521-MTO-AEE-75-52-0001-GAR-901",
+    "Exchanger Foundation",
+    "HEX replacement TES Solana",
+    "AEPC USA",
+    "Abeinsa Engineering"
+  ],
+  "references": [],
+  "warnings": [
+    "Text incomplete, OCR issues detected."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7a807806f30e3ac7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7a807806f30e3ac7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:39:37.641281+00:00",
+  "usage": {
+    "input_tokens": 1223,
+    "output_tokens": 277,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2316
+}

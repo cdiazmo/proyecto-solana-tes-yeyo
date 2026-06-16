@@ -1,0 +1,39 @@
+{
+  "doc_id": "83360f0924129b88",
+  "path": "13_Documentos de Inspección Final/418-2nd-Floor-1_20210826_114012_002579.pdf",
+  "title": "418-2nd-Floor-1 20210826 114012 002579",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Inspection of TES 6 Exchanger Tank: Rebar and forms re-inspected; concrete poured with OSHA best practices. Approved by Dr. Al Gonzalez.",
+  "summary_points": [
+    "Inspection of TES 6 Exchanger Tank: Rebar and forms re-inspected; concrete poured with OSHA best practices. Approved by Dr. Al Gonzalez."
+  ],
+  "keywords": [
+    "TES 6 Exchanger Tank",
+    "Rebar Inspection",
+    "Concrete Pouring",
+    "OSHA Compliance",
+    "Dr. Al Gonzalez"
+  ],
+  "references": [
+    "Speedie and Associates (3331 East Wood Street, Phoenix Arizona 85040)",
+    "ACI318-14"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/83360f0924129b88.md",
+  "source_extracted_path": ".yeyo-memory/extracted/83360f0924129b88.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:41:19.111852+00:00",
+  "usage": {
+    "input_tokens": 1274,
+    "output_tokens": 576,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3003
+}

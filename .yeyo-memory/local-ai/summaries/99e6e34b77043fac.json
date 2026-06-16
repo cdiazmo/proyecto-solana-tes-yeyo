@@ -1,0 +1,47 @@
+{
+  "doc_id": "99e6e34b77043fac",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0003_R1.pdf",
+  "title": "4521-ESP-AGE-74-70-0003 R1",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana\n- RFQ No.: 120006\n- Confidentiality notice on information and know-how\n- Alternate billing cycle allowed by the owner\n- Scope includes supply of instruments, cables, gaskets, manifolds\n- Supplier responsible for delivery to Fabricators or jobsite\n- Exclusions from this subcontract are listed\n- Single contact person required for tracking material",
+  "summary_points": [
+    "Project: Solana",
+    "RFQ No.: 120006",
+    "Confidentiality notice on information and know-how",
+    "Alternate billing cycle allowed by the owner",
+    "Scope includes supply of instruments, cables, gaskets, manifolds",
+    "Supplier responsible for delivery to Fabricators or jobsite",
+    "Exclusions from this subcontract are listed",
+    "Single contact person required for tracking material"
+  ],
+  "keywords": [
+    "4521-ESP-AGE-74-70-0003",
+    "Jul/03/2012",
+    "PGV JHR PQJ",
+    "EC-98"
+  ],
+  "references": [
+    "4521-ESP-AGE-74-70-0003",
+    "Jul/03/2012",
+    "PGV JHR PQJ",
+    "EC-98"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/99e6e34b77043fac.md",
+  "source_extracted_path": ".yeyo-memory/extracted/99e6e34b77043fac.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:47:41.008820+00:00",
+  "usage": {
+    "input_tokens": 4772,
+    "output_tokens": 1077,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13426
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "39f41afebd4b430d",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS36.pdf",
+  "title": "4521-ESP-ANC-68-61-SS36",
+  "doc_code": "4521-ESP-ANC-68-61-SS36",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and specifications for chemical feed piping in Hastelloy-C276 or Hastelloy-C22 materials, including service range, construction details, bolting, gaskets, and valve types.",
+  "summary_points": [
+    "This document outlines the engineering standards and specifications for chemical feed piping in Hastelloy-C276 or Hastelloy-C22 materials, including service range, construction details, bolting, gaskets, and valve types."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-SS36",
+    "chemical feed piping",
+    "Hastelloy-C276",
+    "Hastelloy-C22",
+    "service range",
+    "construction details",
+    "bolting",
+    "gaskets",
+    "valves"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V311"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/39f41afebd4b430d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/39f41afebd4b430d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:50:42.487210+00:00",
+  "usage": {
+    "input_tokens": 1704,
+    "output_tokens": 812,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4012
+}

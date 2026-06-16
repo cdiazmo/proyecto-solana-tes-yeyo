@@ -1,0 +1,53 @@
+{
+  "doc_id": "62e797ace6876f8d",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/181205/ITP-18091405-Rheinhuette Pumps-Arizona Solar One-00.pdf",
+  "title": "ITP-18091405-Rheinhuette Pumps-Arizona Solar One-00",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Inspection and test plan for GVSO 80/250 A Molten Salt Pump, including material checks, PT, hydrostatic tests, balancing, mechanical running tests, bearing temperature, noise level, performance, vibration, visual checks, and painting inspections.",
+  "summary_points": [
+    "Inspection and test plan for GVSO 80/250 A Molten Salt Pump, including material checks, PT, hydrostatic tests, balancing, mechanical running tests, bearing temperature, noise level, performance, vibration, visual checks, and painting inspections."
+  ],
+  "keywords": [
+    "RHEINHÜTTE Pumpen GmbH",
+    "GVSO 80/250 A",
+    "Molten Salt Pump",
+    "Inspection",
+    "Test Plan",
+    "Material Test Certificates",
+    "PT NDE Test",
+    "Hydrostatic Test",
+    "Balancing",
+    "Mechanical Running Test",
+    "Bearing Temperature",
+    "Noise Level Test",
+    "Performance Test",
+    "Vibration Test",
+    "Final Visual Check",
+    "Painting Inspection"
+  ],
+  "references": [
+    "R1 - R2 Review of Documentation",
+    "ASME Section V Test Report",
+    "API 610 Test Report",
+    "Balancing Test Report",
+    "Test Report"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/62e797ace6876f8d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/62e797ace6876f8d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:42:29.723956+00:00",
+  "usage": {
+    "input_tokens": 1410,
+    "output_tokens": 1206,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3183
+}

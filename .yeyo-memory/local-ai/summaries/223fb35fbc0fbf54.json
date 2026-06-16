@@ -1,0 +1,66 @@
+{
+  "doc_id": "223fb35fbc0fbf54",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0020_R0.xlsx",
+  "title": "4521-ESP-AGE-58-70-0020 R0",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-70-0020\n- Initialing required on cover sheet only\n- Revisions are tracked in the body of the Specification\n- Alternate billing cycle allowed by the owner\n- Confidential information restrictions apply\n- The instrument specification details the requirements for an HTF Pressure differential gauge.\n- It specifies the gauge type, material, and dimensions.\n- Process conditions such as fluid phase and pressure are outlined.\n- Accessories like flushing rings and mounting kits are included.\n- Purchasing information is provided, including manufacturer details.\n- Pressure gauge list for HTF services\n- Two pressure gauges (PDG 204-99A and PDG 204-99B) with double configuration",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-70-0020",
+    "Initialing required on cover sheet only",
+    "Revisions are tracked in the body of the Specification",
+    "Alternate billing cycle allowed by the owner",
+    "Confidential information restrictions apply",
+    "The instrument specification details the requirements for an HTF Pressure differential gauge.",
+    "It specifies the gauge type, material, and dimensions.",
+    "Process conditions such as fluid phase and pressure are outlined.",
+    "Accessories like flushing rings and mounting kits are included.",
+    "Purchasing information is provided, including manufacturer details.",
+    "Pressure gauge list for HTF services",
+    "Two pressure gauges (PDG 204-99A and PDG 204-99B) with double configuration",
+    "Oper. Temp. and Design Temp. both set to 527°F and 750°F respectively",
+    "Calibration range of -2 psi-g",
+    "P&ID reference: 4521-PLN-ANC-68-71-P204",
+    "Document version 0, dated Sep/23/2012",
+    "OCR issues with some text recognition"
+  ],
+  "keywords": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-58-70-0020",
+    "PGV, JHR, PQJ",
+    "EC-98",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA SOLANA AG ENGINEERING",
+    "Solana power plant",
+    "4521-PLN-ANC-68-71-P204"
+  ],
+  "references": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-58-70-0020",
+    "PGV, JHR, PQJ",
+    "EC-98",
+    "ABENGOA SOLAR",
+    "ABENER TEYMA SOLANA AG ENGINEERING",
+    "Solana power plant",
+    "4521-PLN-ANC-68-71-P204"
+  ],
+  "warnings": [
+    "OCR issues with some text recognition"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/223fb35fbc0fbf54.md",
+  "source_extracted_path": ".yeyo-memory/extracted/223fb35fbc0fbf54.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:58:01.465612+00:00",
+  "usage": {
+    "input_tokens": 4309,
+    "output_tokens": 1979,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 13909
+}

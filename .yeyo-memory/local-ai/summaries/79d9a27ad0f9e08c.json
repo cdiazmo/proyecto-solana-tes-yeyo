@@ -1,0 +1,63 @@
+{
+  "doc_id": "79d9a27ad0f9e08c",
+  "path": "02 GD LOI/mama/4521-MOM-LOI-039-062-0001-GAR Rev03 Performance Test Procedure.pdf",
+  "title": "4521-MOM-LOI-039-062-0001-GAR Rev03 Performance Test Procedure",
+  "doc_code": "4521-MOM-LOI-039-062-0001",
+  "revision": "Rev03",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- Document describes performance testing procedure for Oil to Salt heat exchangers.\n- ASME PTC 12.5-2000 and MS-HTF HEX Warranty Annex COMMENTED are referenced.\n- Calculation method based on ASME PTC 12.5 predicts performance values.\n- Stakeholders must agree on testing responsible, reference conditions, etc.\n- Data from DCS is used for performance test monitoring.\n- Known damages and fouling conditions are identified before the Test.\n- Inspections include calibration, preliminary tests, and final performance test.\n- Client is responsible for the test execution while Lointek handles analysis and report issuance.\n- Four out of six variables are measured to calculate the remaining two based on ASME PTC 12.5.\n- Five reference conditions (Cases 1-5) are defined for different scenarios.\n- Heat exchangers must operate at steady state conditions for at least 15 minutes before testing.\n- Fouling coefficient is initially set but may be reviewed based on direct observation and stakeholder agreement.",
+  "summary_points": [
+    "Document describes performance testing procedure for Oil to Salt heat exchangers.",
+    "ASME PTC 12.5-2000 and MS-HTF HEX Warranty Annex COMMENTED are referenced.",
+    "Calculation method based on ASME PTC 12.5 predicts performance values.",
+    "Stakeholders must agree on testing responsible, reference conditions, etc.",
+    "Data from DCS is used for performance test monitoring.",
+    "Known damages and fouling conditions are identified before the Test.",
+    "Inspections include calibration, preliminary tests, and final performance test.",
+    "Client is responsible for the test execution while Lointek handles analysis and report issuance.",
+    "Four out of six variables are measured to calculate the remaining two based on ASME PTC 12.5.",
+    "Five reference conditions (Cases 1-5) are defined for different scenarios.",
+    "Heat exchangers must operate at steady state conditions for at least 15 minutes before testing.",
+    "Fouling coefficient is initially set but may be reviewed based on direct observation and stakeholder agreement.",
+    "Instruments installed during assembly are used to calculate the performance of the exchanger.",
+    "Accuracy requirements include Flow ± 5%, Temperature ± 3.69 ºF, Pressure ± 0.3 %.",
+    "Include a plane of the tubesheet for plugged tubes in Annex A.",
+    "Review overall dimensions, lagging placement, number of plugged tubes, cleaning of surfaces, and instrument placement before final performance test.",
+    "Install thermometers, manometers, and mass flow meters at inlet and outlet of hot and cold fluids.",
+    "Perform measures during steady state conditions for at least 15 minutes with 15 measurements every 2 minutes for 30 minutes."
+  ],
+  "keywords": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "ASME PTC 12.5",
+    "4521-MEM-EPC-075-000-0001 MS -HTF HEX Warranty Annex",
+    "4521-MOM-LOI-039-062-0001-GAR",
+    "Rev03",
+    "28/03/2017"
+  ],
+  "references": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "ASME PTC 12.5",
+    "4521-MEM-EPC-075-000-0001 MS -HTF HEX Warranty Annex",
+    "4521-MOM-LOI-039-062-0001-GAR",
+    "Rev03",
+    "28/03/2017"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/79d9a27ad0f9e08c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/79d9a27ad0f9e08c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:46:39.649896+00:00",
+  "usage": {
+    "input_tokens": 6499,
+    "output_tokens": 2977,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 19593
+}

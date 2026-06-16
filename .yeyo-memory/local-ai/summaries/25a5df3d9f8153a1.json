@@ -1,0 +1,60 @@
+{
+  "doc_id": "25a5df3d9f8153a1",
+  "path": "03 GD Fabricacion LOI TES 6/Documentacion de procesos/4521-MOM-LOI-039-062-0001-GAR_rev00 Performance Test Procedure .pdf",
+  "title": "4521-MOM-LOI-039-062-0001-GAR rev00 Performance Test Procedure",
+  "doc_code": "4521-MOM-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "- The document outlines a performance test procedure for Oil to Salt heat exchangers.\n- It aims to determine thermal balance, pressure drop, HAT/CAT values, and OHTC/Duty/Pressure loss.\n- ASME PTC 12.5-2000 and MS-HTF HEX Warranty Annex COMMENTED are referenced.\n- Correction factors are used to simulate real conditions during testing.\n- Stakeholders must agree on various points before starting the test.\n- Four variables are measured for thermal calculation according to ASME PTC 12.5.\n- Cases include Maximum Charge, Discharging, Summer Charge, Winter Discharge, and 25% Load Charging.\n- Heat exchangers must operate at steady state conditions before measurements.\n- Fouling coefficient can be reviewed if direct observation indicates extraordinary elements.\n- Instruments used for control and safety of the power plant are selected for measurements.\n- Plugged tubes should be documented in Annex A.\n- HTRI program calculates thermal duty and outlet temperatures for plugged tubes.",
+  "summary_points": [
+    "The document outlines a performance test procedure for Oil to Salt heat exchangers.",
+    "It aims to determine thermal balance, pressure drop, HAT/CAT values, and OHTC/Duty/Pressure loss.",
+    "ASME PTC 12.5-2000 and MS-HTF HEX Warranty Annex COMMENTED are referenced.",
+    "Correction factors are used to simulate real conditions during testing.",
+    "Stakeholders must agree on various points before starting the test.",
+    "Four variables are measured for thermal calculation according to ASME PTC 12.5.",
+    "Cases include Maximum Charge, Discharging, Summer Charge, Winter Discharge, and 25% Load Charging.",
+    "Heat exchangers must operate at steady state conditions before measurements.",
+    "Fouling coefficient can be reviewed if direct observation indicates extraordinary elements.",
+    "Instruments used for control and safety of the power plant are selected for measurements.",
+    "Plugged tubes should be documented in Annex A.",
+    "HTRI program calculates thermal duty and outlet temperatures for plugged tubes.",
+    "Inspections include equipment dimensions, lagging, plugged tubes, cleaning, and instrument checks.",
+    "Measuring instruments: thermometers, manometers, mass flow meters at hot/cold fluid lines.",
+    "Performance testing measures must be taken at steady state conditions for 15 minutes.",
+    "At least 15 measures every 2 minutes during performance testing.",
+    "Inconsistent data should be rejected and not used in final analysis."
+  ],
+  "keywords": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "ASME PTC 12.5",
+    "4521-MEM-EPC-075-000-0001 MS -HTF HEX Warranty Annex",
+    "Annex A",
+    "HTRI calculation program"
+  ],
+  "references": [
+    "ASME PTC 12.5-2000",
+    "4521-MEM-EPC-075-000-0001 MS-HTF HEX Warranty Annex COMMENTED",
+    "ASME PTC 12.5",
+    "4521-MEM-EPC-075-000-0001 MS -HTF HEX Warranty Annex",
+    "Annex A",
+    "HTRI calculation program"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/25a5df3d9f8153a1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/25a5df3d9f8153a1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:41:27.569107+00:00",
+  "usage": {
+    "input_tokens": 6385,
+    "output_tokens": 3618,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 19229
+}

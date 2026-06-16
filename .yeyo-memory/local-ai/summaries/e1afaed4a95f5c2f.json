@@ -1,0 +1,46 @@
+{
+  "doc_id": "e1afaed4a95f5c2f",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-CS79.pdf",
+  "title": "4521-ESP-ANC-68-61-CS79",
+  "doc_code": "4521-ESP-ANC-68-61-CS79",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the material and installation standards for a Class 1500 Carbon Steel piping system, including specifications for pipe, fittings, flanges, valves, and cleaning requirements.",
+  "summary_points": [
+    "This document outlines the material and installation standards for a Class 1500 Carbon Steel piping system, including specifications for pipe, fittings, flanges, valves, and cleaning requirements."
+  ],
+  "keywords": [
+    "Class 1500",
+    "Carbon Steel",
+    "Piping System",
+    "Pipe Specifications",
+    "Fittings",
+    "Flanges",
+    "Valves",
+    "Cleaning",
+    "Welding"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "N/A"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e1afaed4a95f5c2f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e1afaed4a95f5c2f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:08:40.491711+00:00",
+  "usage": {
+    "input_tokens": 2853,
+    "output_tokens": 1471,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7070
+}

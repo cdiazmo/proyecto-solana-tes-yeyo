@@ -1,0 +1,63 @@
+{
+  "doc_id": "ce0c1f391a7cce5a",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-64-V380.pdf",
+  "title": "4521-ESP-ANC-68-64-V380",
+  "doc_code": "4521-ESP-ANC-68-64-V380",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document pertains to engineering standards and practices for material and installation in solar plants.\n- Includes specifications for gate valves, globe valves, check valves, and nitrate salt service valves.\n- Gate valves are available in Class 300 Buttweld with various bore sizes.\n- Globe valves are also available in Class 300 Buttweld with varying bore sizes.\n- Check valves include swing and piston types for different applications.\n- Nitrate salt service valves feature stellited gate and seats with specific sealing requirements.\n- Document No: 4521-ESP-ANC-68-64-V380\n- Job No: 120006\n- Project: Solana\n- Added TA40, TA56 and TA58V valves on 21JUL11\n- Revised description for FA58V and FB58V valves on 12 Apr 11\n- Confidential information about proprietary property of Abener",
+  "summary_points": [
+    "Document pertains to engineering standards and practices for material and installation in solar plants.",
+    "Includes specifications for gate valves, globe valves, check valves, and nitrate salt service valves.",
+    "Gate valves are available in Class 300 Buttweld with various bore sizes.",
+    "Globe valves are also available in Class 300 Buttweld with varying bore sizes.",
+    "Check valves include swing and piston types for different applications.",
+    "Nitrate salt service valves feature stellited gate and seats with specific sealing requirements.",
+    "Document No: 4521-ESP-ANC-68-64-V380",
+    "Job No: 120006",
+    "Project: Solana",
+    "Added TA40, TA56 and TA58V valves on 21JUL11",
+    "Revised description for FA58V and FB58V valves on 12 Apr 11",
+    "Confidential information about proprietary property of Abener",
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "TA58V and FB58V valves specifications provided"
+  ],
+  "keywords": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "Job No.: 120006",
+    "No. Req'd.: 1",
+    "Project: Solana",
+    "4521-ESP-ANC-68-64-V380",
+    "Job No: 120006",
+    "Solana",
+    "TA40, TA56, TA58V",
+    "FA58V, FB58V"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)",
+    "Job No.: 120006",
+    "No. Req'd.: 1",
+    "Project: Solana",
+    "4521-ESP-ANC-68-64-V380",
+    "Job No: 120006",
+    "Solana",
+    "TA40, TA56, TA58V",
+    "FA58V, FB58V"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ce0c1f391a7cce5a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ce0c1f391a7cce5a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:18:35.612107+00:00",
+  "usage": {
+    "input_tokens": 3549,
+    "output_tokens": 1642,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9079
+}

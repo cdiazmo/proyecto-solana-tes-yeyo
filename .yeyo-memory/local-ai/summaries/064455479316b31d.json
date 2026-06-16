@@ -1,0 +1,42 @@
+{
+  "doc_id": "064455479316b31d",
+  "path": "Documentos en Servidor Atlántica/1950801-CAL-0002.00-Calculo Estructural estructura plataforma soporte bombas de sales.docx",
+  "title": "1950801-CAL-0002.00-Calculo Estructural estructura plataforma soporte bombas de sales",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Cálculo estructural orientativo para la plataforma soporte bombas de sales. Incluye análisis de geometría, casos de carga y resultados de resistencia.",
+  "summary_points": [
+    "Cálculo estructural orientativo para la plataforma soporte bombas de sales. Incluye análisis de geometría, casos de carga y resultados de resistencia."
+  ],
+  "keywords": [
+    "cálculo estructural",
+    "plataforma soporte",
+    "bombas de sales",
+    "geometría",
+    "casos de carga",
+    "resistencia mecánica"
+  ],
+  "references": [
+    "CTE",
+    "DB-SE Seguridad Estructural",
+    "EN 1090",
+    "Execution Class EXC2"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/064455479316b31d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/064455479316b31d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:02:36.991478+00:00",
+  "usage": {
+    "input_tokens": 1949,
+    "output_tokens": 481,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5428
+}

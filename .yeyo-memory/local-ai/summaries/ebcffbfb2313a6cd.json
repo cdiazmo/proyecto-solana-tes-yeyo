@@ -1,0 +1,44 @@
+{
+  "doc_id": "ebcffbfb2313a6cd",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.6 Contrato Mto AT HI.pdf",
+  "title": "5.10.1.6 Contrato Mto AT HI",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "Contrato de mantenimiento para instalaciones eléctricas de alta tensión en el proyecto solar térmico Helios.",
+  "summary_points": [
+    "Contrato de mantenimiento para instalaciones eléctricas de alta tensión en el proyecto solar térmico Helios."
+  ],
+  "keywords": [
+    "CMAT",
+    "Planta Termica Helios",
+    "Mantenimiento",
+    "Instalación Electrónica Alta Tensión",
+    "Reglamento Condiciones Técnicas y Garantías",
+    "Helios Jon Energy Investments, S.L.",
+    "Instalaciones Inabensa, S.A.",
+    "Eduardo Duque García"
+  ],
+  "references": [
+    "R.D. 2375/1982",
+    "R.D. 223/2008"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ebcffbfb2313a6cd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ebcffbfb2313a6cd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:45:46.975114+00:00",
+  "usage": {
+    "input_tokens": 1643,
+    "output_tokens": 1285,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3581
+}

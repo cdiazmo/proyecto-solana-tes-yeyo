@@ -1,0 +1,57 @@
+{
+  "doc_id": "8281fa34b3f09227",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-21-70-0010_R0 Conductivity Level Probe Switch - Level switch.xlsx",
+  "title": "4521-ESP-AGE-21-70-0010 R0 Conductivity Level Probe Switch - Level switch",
+  "doc_code": "4521-ESP-AGE-21-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- The document is an engineering specification for a conductivity level probe switch.\n- It includes definitions for terms like Supplier, Customer, Fabricator, and Owner.\n- Revisions are tracked in the body of the specification.\n- The contract allows for alternate billing cycles upon request.\n- Confidential information must be handled according to specific terms.\n- The document contains a list of conductivity level probes and switches with their specifications.\n- There are multiple junction boxes listed, each with specific probe sizes and numbers.\n- Notes include instructions for nameplate attachment and assembly details reference.",
+  "summary_points": [
+    "The document is an engineering specification for a conductivity level probe switch.",
+    "It includes definitions for terms like Supplier, Customer, Fabricator, and Owner.",
+    "Revisions are tracked in the body of the specification.",
+    "The contract allows for alternate billing cycles upon request.",
+    "Confidential information must be handled according to specific terms.",
+    "The document contains a list of conductivity level probes and switches with their specifications.",
+    "There are multiple junction boxes listed, each with specific probe sizes and numbers.",
+    "Notes include instructions for nameplate attachment and assembly details reference."
+  ],
+  "keywords": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-21-70-0010",
+    "PGV",
+    "JHR",
+    "PQJ",
+    "EC-98",
+    "4521-PLN-ANC-21-71-P303",
+    "4521-PLN-ANC-21-71-P304",
+    "4521-PLN-ANC-00-70-N003"
+  ],
+  "references": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-21-70-0010",
+    "PGV",
+    "JHR",
+    "PQJ",
+    "EC-98",
+    "4521-PLN-ANC-21-71-P303",
+    "4521-PLN-ANC-21-71-P304",
+    "4521-PLN-ANC-00-70-N003"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8281fa34b3f09227.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8281fa34b3f09227.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:26:20.648377+00:00",
+  "usage": {
+    "input_tokens": 6926,
+    "output_tokens": 4009,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15289
+}

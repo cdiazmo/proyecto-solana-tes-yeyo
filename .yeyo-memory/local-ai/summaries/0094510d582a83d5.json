@@ -1,0 +1,56 @@
+{
+  "doc_id": "0094510d582a83d5",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Eléctrico/LIS/4521-LIS-AGE-39-40-0010-GAR_R00TES Area Electric consumer list Unit 5-6.pdf",
+  "title": "4521-LIS-AGE-39-40-0010-GAR R00TES Area Electric consumer list Unit 5-6",
+  "doc_code": "4521-LIS-AGE-39-40-0010",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Document title: TES Area Electric consumer list Unit 5-6\n- Client: Arizona Solar One LLC, Project: Solana Generating Station\n- Document number: 4521-LIS-AGE-39-40-0010, Revision: 00-GAR, Date: 10/01/2017\n- Prepared and reviewed by José Cantillana Cortés, Approved by José María Rodríguez León\n- Document is property of Abeinsa EPC with strict reproduction and distribution restrictions\n- Revision control sheet shows initial issue on 10/01/2017 by JCC\n- Equipped reserves (11) to (16) have specific values and codes.\n- HTF-B1-L3 heat trace panel has values of 20,00 and 19,00 with a total of 460,00.\n- BOP-A heat trace panel has values of 6,05 and 5,75 with a total of 460,00.\n- ACU-163431, ACU-163432, and ACU-163437 have similar values with a total of 460,00 each.\n- Equipped reserve (2) has values of 23,75 and 19,00 with a total of 460,00.\n- HTF-B1-L3 heat trace panel for Unit 6 has new load and requires new protection.",
+  "summary_points": [
+    "Document title: TES Area Electric consumer list Unit 5-6",
+    "Client: Arizona Solar One LLC, Project: Solana Generating Station",
+    "Document number: 4521-LIS-AGE-39-40-0010, Revision: 00-GAR, Date: 10/01/2017",
+    "Prepared and reviewed by José Cantillana Cortés, Approved by José María Rodríguez León",
+    "Document is property of Abeinsa EPC with strict reproduction and distribution restrictions",
+    "Revision control sheet shows initial issue on 10/01/2017 by JCC",
+    "Equipped reserves (11) to (16) have specific values and codes.",
+    "HTF-B1-L3 heat trace panel has values of 20,00 and 19,00 with a total of 460,00.",
+    "BOP-A heat trace panel has values of 6,05 and 5,75 with a total of 460,00.",
+    "ACU-163431, ACU-163432, and ACU-163437 have similar values with a total of 460,00 each.",
+    "Equipped reserve (2) has values of 23,75 and 19,00 with a total of 460,00.",
+    "HTF-B1-L3 heat trace panel for Unit 6 has new load and requires new protection.",
+    "TES-B5-L3 heat trace panel for Unit 6 also has new load and requires new protection."
+  ],
+  "keywords": [
+    "4521-LIS-AGE-39-40-0010-GAR_R00TES",
+    "0341-ESP-AEPC-075-062-0001",
+    "JCC",
+    "JMRL",
+    "RP-161419",
+    "PP-1634"
+  ],
+  "references": [
+    "4521-LIS-AGE-39-40-0010-GAR_R00TES",
+    "0341-ESP-AEPC-075-062-0001",
+    "JCC",
+    "JMRL",
+    "RP-161419",
+    "PP-1634"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0094510d582a83d5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0094510d582a83d5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T10:05:24.773178+00:00",
+  "usage": {
+    "input_tokens": 56689,
+    "output_tokens": 20775,
+    "calls": 16
+  },
+  "repaired_calls": 7,
+  "chunk_count": 9,
+  "completed_chunks": 9,
+  "completed": true,
+  "text_chars": 48559
+}

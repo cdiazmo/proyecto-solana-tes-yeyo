@@ -1,0 +1,47 @@
+{
+  "doc_id": "90d0dd5781b645c5",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0001-GAR_rev0 Repairing Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0001-GAR rev0 Repairing Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the procedure for repairing and isolating leaking tubes using plugs, including material specifications and steps.",
+  "summary_points": [
+    "This document outlines the procedure for repairing and isolating leaking tubes using plugs, including material specifications and steps."
+  ],
+  "keywords": [
+    "Repairing Procedure",
+    "Oil to Salt HEX",
+    "Tubing Repair",
+    "SA-105",
+    "SA-210 A-1",
+    "Plug Material",
+    "Tube Plugging",
+    "Dye Penetrants"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0001-GAR",
+    "1950101-TPP-001",
+    "EIP",
+    "A.A.G.",
+    "P.A.P."
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/90d0dd5781b645c5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/90d0dd5781b645c5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:55:01.310222+00:00",
+  "usage": {
+    "input_tokens": 1947,
+    "output_tokens": 523,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4240
+}

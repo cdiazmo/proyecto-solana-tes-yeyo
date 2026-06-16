@@ -1,0 +1,47 @@
+{
+  "doc_id": "e44753d5e344a631",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-68-61-CS30.pdf",
+  "title": "4521-ESP-ANC-68-61-CS30",
+  "doc_code": "4521-ESP-ANC-68-61-CS30",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and installation practices for a Class 300 Carbon Steel piping system in the Solana project, including service range, construction materials, and specific notes on welding and cleaning requirements.",
+  "summary_points": [
+    "This document outlines the engineering standards and installation practices for a Class 300 Carbon Steel piping system in the Solana project, including service range, construction materials, and specific notes on welding and cleaning requirements."
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-61-CS30",
+    "Class 300 Carbon Steel",
+    "Solana Project",
+    "Piping System",
+    "Service Range",
+    "Construction Materials",
+    "Welding",
+    "Cleaning"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)",
+    "ANSI B31.3",
+    "ASTM A-53",
+    "ASTM A-106",
+    "API 5L"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e44753d5e344a631.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e44753d5e344a631.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:11:03.627301+00:00",
+  "usage": {
+    "input_tokens": 2903,
+    "output_tokens": 499,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7722
+}

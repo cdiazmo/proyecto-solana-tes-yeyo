@@ -1,0 +1,43 @@
+{
+  "doc_id": "8d0f5ad66cbf4715",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-PL34.pdf",
+  "title": "4521-ESP-ANC-68-61-PL34",
+  "doc_code": "4521-ESP-ANC-68-61-PL34",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the engineering standards and practices for a fiberglass piping system, including specifications for pipe materials, fittings, and construction methods. It also includes notices on billing cycles, payment provisions, and confidentiality.",
+  "summary_points": [
+    "This document outlines the engineering standards and practices for a fiberglass piping system, including specifications for pipe materials, fittings, and construction methods. It also includes notices on billing cycles, payment provisions, and confidentiality."
+  ],
+  "keywords": [
+    "fiberglass piping",
+    "engineering standards",
+    "pipe specifications",
+    "construction methods",
+    "billing cycle",
+    "payment provision",
+    "confidentiality"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V351",
+    "4521-ESP-ANC-68-61-CS95",
+    "ASME B31.3-1996"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8d0f5ad66cbf4715.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8d0f5ad66cbf4715.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:48:06.742464+00:00",
+  "usage": {
+    "input_tokens": 1475,
+    "output_tokens": 859,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3618
+}

@@ -1,0 +1,52 @@
+{
+  "doc_id": "d7dd199d1fb9cce1",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/ESP/4521-ESP-ANC-68-61-CS72.pdf",
+  "title": "4521-ESP-ANC-68-61-CS72",
+  "doc_code": "4521-ESP-ANC-68-61-CS72",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document No. 4521-ESP-ANC-68-61-CS72 covers material and installation standards for a Class 150 Carbon Steel piping system project in Solana.\n- The document includes notices on alternate billing cycles, extended payment provisions, and certification periods.\n- Key materials include carbon steel pipe, fittings, and valves with specific service ranges and construction details.\n- Notes provide guidance on material selection, connection methods, and cleaning requirements for the piping system.\n- Document No: 4521-ESP-ANC-68-61-CS72\n- Job No: 120006, Project: Solana\n- Contract allows alternate billing cycles, extended payment and certification periods\n- Confidential information protected by contract terms\n- EC-94 standard form for Solana with corrosion allowance of 0.030 inches",
+  "summary_points": [
+    "Document No. 4521-ESP-ANC-68-61-CS72 covers material and installation standards for a Class 150 Carbon Steel piping system project in Solana.",
+    "The document includes notices on alternate billing cycles, extended payment provisions, and certification periods.",
+    "Key materials include carbon steel pipe, fittings, and valves with specific service ranges and construction details.",
+    "Notes provide guidance on material selection, connection methods, and cleaning requirements for the piping system.",
+    "Document No: 4521-ESP-ANC-68-61-CS72",
+    "Job No: 120006, Project: Solana",
+    "Contract allows alternate billing cycles, extended payment and certification periods",
+    "Confidential information protected by contract terms",
+    "EC-94 standard form for Solana with corrosion allowance of 0.030 inches"
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "PS-CS71",
+    "PS-CS72",
+    "Rev. 03/2010",
+    "Solana Specific Standard Form"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "PS-CS71",
+    "PS-CS72",
+    "Rev. 03/2010",
+    "Solana Specific Standard Form"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d7dd199d1fb9cce1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d7dd199d1fb9cce1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:21:00.787720+00:00",
+  "usage": {
+    "input_tokens": 3250,
+    "output_tokens": 1789,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9143
+}

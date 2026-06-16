@@ -1,0 +1,53 @@
+{
+  "doc_id": "26ffdbf25e5fe8e3",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-67-70-0022_R1 Pressure gauge(VOID).xlsx",
+  "title": "4521-ESP-AGE-67-70-0022 R1 Pressure gauge(VOID)",
+  "doc_code": "4521-ESP-AGE-67-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-67-70-0022\n- Initialing required on cover sheet only\n- Revisions identified in the body of the Specification\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Confidentiality terms apply to information and know-how\n- Pressure gauge specifications for well water pumps\n- Bourdon tube type pressure gauge with 316 SS material\n- Calibration required by vendor, certificate provided\n- Warranty on materials for at least one year post-plant operation\n- Accessories include mounting and flushing components",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-67-70-0022",
+    "Initialing required on cover sheet only",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Confidentiality terms apply to information and know-how",
+    "Pressure gauge specifications for well water pumps",
+    "Bourdon tube type pressure gauge with 316 SS material",
+    "Calibration required by vendor, certificate provided",
+    "Warranty on materials for at least one year post-plant operation",
+    "Accessories include mounting and flushing components"
+  ],
+  "keywords": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-67-70-0022",
+    "EC-98",
+    "4521-PLN-AANC-67-71-P410",
+    "316 SS material",
+    "Bourdon tube pressure element"
+  ],
+  "references": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-67-70-0022",
+    "EC-98",
+    "4521-PLN-AANC-67-71-P410",
+    "316 SS material",
+    "Bourdon tube pressure element"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/26ffdbf25e5fe8e3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/26ffdbf25e5fe8e3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:48:20.577650+00:00",
+  "usage": {
+    "input_tokens": 3946,
+    "output_tokens": 1378,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13473
+}

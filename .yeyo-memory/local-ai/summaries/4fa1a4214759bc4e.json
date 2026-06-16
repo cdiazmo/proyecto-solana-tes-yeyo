@@ -1,0 +1,43 @@
+{
+  "doc_id": "4fa1a4214759bc4e",
+  "path": "06 Especificaciones Tecnicas/4521-ESP-ANC-00-62-0005 Removable jaketing for insulation.pdf",
+  "title": "4521-ESP-ANC-00-62-0005 Removable jaketing for insulation",
+  "doc_code": "4521-ESP-ANC-00-62-0005",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document specifies standards for removable and reusable blanket, pad, and jacket type insulation used in various equipment covers and ducts. It includes notices on billing cycles, payment provisions, and confidentiality.",
+  "summary_points": [
+    "This document specifies standards for removable and reusable blanket, pad, and jacket type insulation used in various equipment covers and ducts. It includes notices on billing cycles, payment provisions, and confidentiality."
+  ],
+  "keywords": [
+    "removable",
+    "jacketing",
+    "insulation",
+    "Solana",
+    "Abener",
+    "contract terms",
+    "confidentiality"
+  ],
+  "references": [
+    "4521-ESP-ANC-00-62-0002",
+    "4521-ESP-ANC-00-60-G115"
+  ],
+  "warnings": [
+    "Figure 1 is incomplete and lacks details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4fa1a4214759bc4e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4fa1a4214759bc4e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:07:41.622466+00:00",
+  "usage": {
+    "input_tokens": 2254,
+    "output_tokens": 540,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6810
+}

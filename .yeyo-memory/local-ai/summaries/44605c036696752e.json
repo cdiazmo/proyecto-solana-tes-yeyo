@@ -1,0 +1,48 @@
+{
+  "doc_id": "44605c036696752e",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-39-45-0001_R2.pdf",
+  "title": "4521-ESP-AGE-39-45-0001 R2",
+  "doc_code": "4521-ESP-AGE-39-45-",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- This document is an engineering specification for a project named Solana.\n- It outlines the scope of work, including supply of instruments and related materials.\n- The specification includes definitions for key terms such as Supplier, Customer, Fabricator, and Owner.\n- Supplier is responsible for delivering material to designated locations and tracking all purchased items.\n- There are exclusions from this subcontract, and a single contact person must be provided by the Supplier.",
+  "summary_points": [
+    "This document is an engineering specification for a project named Solana.",
+    "It outlines the scope of work, including supply of instruments and related materials.",
+    "The specification includes definitions for key terms such as Supplier, Customer, Fabricator, and Owner.",
+    "Supplier is responsible for delivering material to designated locations and tracking all purchased items.",
+    "There are exclusions from this subcontract, and a single contact person must be provided by the Supplier."
+  ],
+  "keywords": [
+    "4521-ESP-AGE-39-45-0001",
+    "Solana Project",
+    "Abener Teyma",
+    "Abengoa Solar Inc.",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "references": [
+    "4521-ESP-AGE-39-45-0001",
+    "Solana Project",
+    "Abener Teyma",
+    "Abengoa Solar Inc.",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "warnings": [
+    "The document contains multiple instances of '2 Mar/20/2012' which may be a typo or error."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/44605c036696752e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/44605c036696752e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:50:02.177347+00:00",
+  "usage": {
+    "input_tokens": 11792,
+    "output_tokens": 5765,
+    "calls": 5
+  },
+  "repaired_calls": 2,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 16916
+}

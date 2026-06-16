@@ -1,0 +1,57 @@
+{
+  "doc_id": "7217abb062347831",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521_PLN_AEE_68_71_P273-GAR_Rev01.pdf",
+  "title": "4521 PLN AEE 68 71 P273-GAR Rev01",
+  "doc_code": "4521-PLN-AEE-68-71-P273",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Cold Salt Electric Heater details including location, fittings, nitrogen dewg, valve, and standby hex.",
+  "summary_points": [
+    "Cold Salt Electric Heater details including location, fittings, nitrogen dewg, valve, and standby hex."
+  ],
+  "keywords": [
+    "cold salt electric heater",
+    "pump suctions",
+    "fitting makeup",
+    "nitrogen dewg",
+    "springloaded valve",
+    "molten salt recirculation",
+    "temporary stack",
+    "birdscreen",
+    "standby hex",
+    "pcv",
+    "slope",
+    "side entry into tank",
+    "main salt fill line",
+    "salt recirculation line",
+    "pump tank internal",
+    "voc analyzer",
+    "nitrogen heaters",
+    "heat trace for salt",
+    "exhaust pipes",
+    "air bubbled"
+  ],
+  "references": [
+    "4521-PLN-ANC-68-71-P207",
+    "4521-PLN-AGE-68-71-P275",
+    "4521-PLN-AGE-68-71-P274"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7217abb062347831.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7217abb062347831.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:30:00.859986+00:00",
+  "usage": {
+    "input_tokens": 4193,
+    "output_tokens": 663,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6704
+}

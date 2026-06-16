@@ -1,0 +1,53 @@
+{
+  "doc_id": "39d37ced13bcc135",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/55005_Inspection_and_Test_Plan-00.pdf",
+  "title": "55005 Inspection and Test Plan-00",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Inspection and Test Plan for GVSO 80/250 A Molten Salt Pump, including material checks, PT, hydrostatic tests, balancing, mechanical running tests, bearing temperature, noise level, performance, vibration, visual checks, and painting inspections.",
+  "summary_points": [
+    "Inspection and Test Plan for GVSO 80/250 A Molten Salt Pump, including material checks, PT, hydrostatic tests, balancing, mechanical running tests, bearing temperature, noise level, performance, vibration, visual checks, and painting inspections."
+  ],
+  "keywords": [
+    "RHEINHÜTTE Pumpen GmbH",
+    "Inspection & Test Plan",
+    "GVSO 80/250 A",
+    "Molten Salt Pump",
+    "Material Test Certificates",
+    "Liquid Penetrant Examination",
+    "Hydrostatic Test",
+    "Balancing",
+    "Mechanical Running Test",
+    "Bearing Temperature Measurement",
+    "Noise Level Test",
+    "Performance Test",
+    "Vibration Test",
+    "Final Visual and Dimensional Check",
+    "Painting Inspection"
+  ],
+  "references": [
+    "R1 - R2 Review of Documentation",
+    "ASME Section V",
+    "API 610",
+    "DIN ISO 1940-1 Grade 2.5",
+    "ISO 9906 Grade 2B",
+    "ISO 5199"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/39d37ced13bcc135.md",
+  "source_extracted_path": ".yeyo-memory/extracted/39d37ced13bcc135.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:42:57.990686+00:00",
+  "usage": {
+    "input_tokens": 1379,
+    "output_tokens": 1194,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3183
+}

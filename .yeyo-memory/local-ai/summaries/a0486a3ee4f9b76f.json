@@ -1,0 +1,46 @@
+{
+  "doc_id": "a0486a3ee4f9b76f",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0001-GAR_REV 0 _Repairing Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0001-GAR REV 0 Repairing Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Repair procedure for oil-to-salt heat exchanger tubes, including scope, plug materials, and plugging steps.",
+  "summary_points": [
+    "Repair procedure for oil-to-salt heat exchanger tubes, including scope, plug materials, and plugging steps."
+  ],
+  "keywords": [
+    "repair",
+    "procedure",
+    "oil to salt",
+    "heat exchanger",
+    "tubes",
+    "plugs",
+    "SA-105",
+    "SA-210 A-1",
+    "tack welding",
+    "dye penetrants"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0001-GAR",
+    "195001-TPP-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, especially in sketches and dimensions"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a0486a3ee4f9b76f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a0486a3ee4f9b76f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:56:03.303600+00:00",
+  "usage": {
+    "input_tokens": 2019,
+    "output_tokens": 479,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4405
+}

@@ -1,0 +1,40 @@
+{
+  "doc_id": "aa39e02a2233a4c7",
+  "path": "12 As Built TES 6/04_Piping/02_Valve Specs/4521-ESP-ANC-68-64-V312.pdf",
+  "title": "4521-ESP-ANC-68-64-V312",
+  "doc_code": "4521-ESP-ANC-68-64-V312",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Butterfly valves specification for stainless steel, class 150 wafer, sizes 3\" - 24\", with position locking provision.",
+  "summary_points": [
+    "Butterfly valves specification for stainless steel, class 150 wafer, sizes 3\" - 24\", with position locking provision."
+  ],
+  "keywords": [
+    "butterfly valves",
+    "stainless steel",
+    "class 150",
+    "position locking",
+    "Hills McCanna",
+    "Fisher",
+    "Dezurik"
+  ],
+  "references": [
+    "EC-94 – Solana Specific Standard Form (Rev. 08/2010)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/aa39e02a2233a4c7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/aa39e02a2233a4c7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:37:09.573463+00:00",
+  "usage": {
+    "input_tokens": 869,
+    "output_tokens": 261,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1631
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "f2a35cbce8106ea1",
+  "path": "12 As Built TES 6/04_Piping/04_Volume Increase Calculation/4521-CAL-AEE-75-60-0001-GAR_rev.00_MS and HTF capacity increase.pdf",
+  "title": "4521-CAL-AEE-75-60-0001-GAR rev.00 MS and HTF capacity increase",
+  "doc_code": "4521-CAL-AEE-75-60-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f2a35cbce8106ea1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f2a35cbce8106ea1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:40:28.537042+00:00",
+  "usage": {
+    "input_tokens": 1844,
+    "output_tokens": 516,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2671
+}

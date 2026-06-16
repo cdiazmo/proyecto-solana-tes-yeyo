@@ -1,0 +1,43 @@
+{
+  "doc_id": "a0333973c3311673",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Límites operativos de Lointek - 13-3-2019/Operational Limits - Lointek Rev2-3-13-2019.pdf",
+  "title": "Operational Limits - Lointek Rev2-3-13-2019",
+  "doc_code": "",
+  "revision": "Rev2",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Operational Limits document for Lointek, Rev2-3-13-2019. Includes request for various documents and approvals.",
+  "summary_points": [
+    "Operational Limits document for Lointek, Rev2-3-13-2019. Includes request for various documents and approvals."
+  ],
+  "keywords": [
+    "Lointek",
+    "Operational Limits",
+    "Rev2",
+    "Request for Quote",
+    "Shop Drawings",
+    "Prints",
+    "Specifications",
+    "Change Order"
+  ],
+  "references": [
+    "4521-MOM-LO-039-062-0003-GAR - REV2"
+  ],
+  "warnings": [
+    "Text incomplete, OCR issues with some terms"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a0333973c3311673.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a0333973c3311673.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:36:51.264143+00:00",
+  "usage": {
+    "input_tokens": 766,
+    "output_tokens": 444,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1045
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "4f4051bb9976ac45",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0009-GAR Rev.0 Visual Inspection Procedure.xlsx",
+  "title": "4521-INS-LOI-039-062-0009-GAR Rev.0 Visual Inspection Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0009",
+  "revision": "Rev.0",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Visual Inspection Procedure for HEX replacement TES Solana project. Revision 0, issued on 2016-12-07.",
+  "summary_points": [
+    "Visual Inspection Procedure for HEX replacement TES Solana project. Revision 0, issued on 2016-12-07."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0009-GAR",
+    "Visual Inspection Procedure",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "AEPC USA",
+    "Input data change"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0021",
+    "IFD"
+  ],
+  "warnings": [
+    "OCR dudoso en 'isual Inspection Procedure' (debería ser 'Visual Inspection Procedure')"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4f4051bb9976ac45.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4f4051bb9976ac45.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:38:21.896796+00:00",
+  "usage": {
+    "input_tokens": 1161,
+    "output_tokens": 391,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2237
+}

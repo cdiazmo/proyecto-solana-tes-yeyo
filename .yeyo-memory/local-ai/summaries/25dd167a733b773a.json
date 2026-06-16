@@ -1,0 +1,51 @@
+{
+  "doc_id": "25dd167a733b773a",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/C & S/DRA/4521-PLN-AEE-75-52-0002-GAR_Rev01_sealed.pdf",
+  "title": "4521-PLN-AEE-75-52-0002-GAR Rev01 sealed",
+  "doc_code": "4521-PLN-AEE-75-52-0002",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico con planos y detalles de un sistema de almacenamiento térmico (TES) con tanque de respaldo, incluyendo especificaciones de escala, coordenadas, notas técnicas y referencias a otros documentos.",
+  "summary_points": [
+    "Documento técnico con planos y detalles de un sistema de almacenamiento térmico (TES) con tanque de respaldo, incluyendo especificaciones de escala, coordenadas, notas técnicas y referencias a otros documentos."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-52-0002",
+    "tanque TES",
+    "tanque de respaldo",
+    "pozo del tanque de respaldo",
+    "exchanger TES",
+    "escala",
+    "coordenadas",
+    "notas técnicas",
+    "capacidad de soporte de fundación",
+    "ensamblaje de rodillos de anclaje"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0001-GAR",
+    "4521-PLN-ANC-00-50-S001",
+    "4521-PLN-ANC-00-50-C001",
+    "4521-PLN-ANC-00-50-S002",
+    "4521-PLN-ANC-00-50-S003",
+    "4521-PLN-ANC-00-50-S004",
+    "4521-ESP-ANC-00-50-2300"
+  ],
+  "warnings": [
+    "El texto OCR puede tener errores, especialmente en nombres de partes y referencias."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/25dd167a733b773a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/25dd167a733b773a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:28:29.973827+00:00",
+  "usage": {
+    "input_tokens": 2541,
+    "output_tokens": 826,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6629
+}

@@ -1,0 +1,45 @@
+{
+  "doc_id": "2209a97bfc430deb",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.1 Memoria de instalacion.pdf",
+  "title": "5.7.7.1 Memoria de instalacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Memoria y anejos",
+  "summary": "Memoria técnica de instalación de un tanque de gasóleo en una finca, con detalles sobre el emplazamiento, productos almacenados, características técnicas y certificaciones.",
+  "summary_points": [
+    "Memoria técnica de instalación de un tanque de gasóleo en una finca, con detalles sobre el emplazamiento, productos almacenados, características técnicas y certificaciones."
+  ],
+  "keywords": [
+    "tanque",
+    "gasóleo",
+    "almacenamiento",
+    "instalación",
+    "empleado",
+    "certificación",
+    "distancias",
+    "tuberías",
+    "protección"
+  ],
+  "references": [
+    "MI-IP03",
+    "Reglamento de Instalaciones Petrolíferas"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2209a97bfc430deb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2209a97bfc430deb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:50:01.887363+00:00",
+  "usage": {
+    "input_tokens": 1761,
+    "output_tokens": 665,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3882
+}

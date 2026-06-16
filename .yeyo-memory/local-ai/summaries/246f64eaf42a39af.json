@@ -1,0 +1,52 @@
+{
+  "doc_id": "246f64eaf42a39af",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/HDD/4521-HDD-AEE-075-064-0010-GAR_Rev02_Drain back tank datasheet__.pdf",
+  "title": "4521-HDD-AEE-075-064-0010-GAR Rev02 Drain back tank datasheet",
+  "doc_code": "4521-HDD-AEE-075-064-0010",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drain back tank datasheet for project 4521-HDD-AEE-075-064-0010-GAR. Includes design specifications, connection list, surface treatment, construction information, and notes.",
+  "summary_points": [
+    "Drain back tank datasheet for project 4521-HDD-AEE-075-064-0010-GAR. Includes design specifications, connection list, surface treatment, construction information, and notes."
+  ],
+  "keywords": [
+    "Drain back tank",
+    "Design temperature",
+    "Pressure relief vacuum breaker connection",
+    "Tank capacity",
+    "Molten Salts",
+    "ASME VIII",
+    "SA 516 Gr. 70",
+    "A 105 / A 106 Gr.B",
+    "NNNN-MT-259",
+    "Maximum allowed loads",
+    "Thermal cycles",
+    "Submergence pit",
+    "TAG number"
+  ],
+  "references": [
+    "ASME VIII DIV.1 / DIV.2",
+    "SA 516 Gr. 70",
+    "A 105 / A 106 Gr.B",
+    "NNNN-MT-259",
+    "4521-SPE-SGT-000-223-0006"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos términos y números."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/246f64eaf42a39af.md",
+  "source_extracted_path": ".yeyo-memory/extracted/246f64eaf42a39af.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:26:36.509592+00:00",
+  "usage": {
+    "input_tokens": 2421,
+    "output_tokens": 1657,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5851
+}

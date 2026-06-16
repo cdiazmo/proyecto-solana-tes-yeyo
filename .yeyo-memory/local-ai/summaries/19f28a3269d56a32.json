@@ -1,0 +1,43 @@
+{
+  "doc_id": "19f28a3269d56a32",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-68-61-CS32.pdf",
+  "title": "4521-ESP-ANC-68-61-CS32",
+  "doc_code": "4521-ESP-ANC-68-61-CS32",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the material and installation standards for a Class 600 Carbon Steel piping system, including specifications for pipe materials, fittings, valves, and quality control measures. It also includes pressure/temperature limits for components.",
+  "summary_points": [
+    "This document outlines the material and installation standards for a Class 600 Carbon Steel piping system, including specifications for pipe materials, fittings, valves, and quality control measures. It also includes pressure/temperature limits for components."
+  ],
+  "keywords": [
+    "Class 600 Carbon Steel",
+    "Piping System",
+    "Solana Project",
+    "HTF Supply Ref.",
+    "Engineering Standards",
+    "Material Specifications",
+    "Installation Procedures",
+    "Quality Control",
+    "Pressure/Temperature Limits"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V380",
+    "4521-ESP-ANC-68-64-V353"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/19f28a3269d56a32.md",
+  "source_extracted_path": ".yeyo-memory/extracted/19f28a3269d56a32.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:10:04.135211+00:00",
+  "usage": {
+    "input_tokens": 2980,
+    "output_tokens": 995,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7580
+}

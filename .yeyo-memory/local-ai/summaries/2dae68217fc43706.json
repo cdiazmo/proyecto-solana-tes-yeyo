@@ -1,0 +1,50 @@
+{
+  "doc_id": "2dae68217fc43706",
+  "path": "06 Especificaciones Tecnicas/Tuberia/4521-ESP-ANC-68-61-CS72.pdf",
+  "title": "4521-ESP-ANC-68-61-CS72",
+  "doc_code": "4521-ESP-ANC-68-61-CS72",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Document No. 4521-ESP-ANC-68-61-CS72 for Solana project.\n- Material: Class 150 Carbon Steel – Piping System.\n- Service Range: up to 500°F, with specific notes on temperature and pressure limits.\n- Fittings include gate valves, globe valves, and rotary valves.\n- Notes cover installation details, cleaning requirements, and welding processes.\n- Document No: 4521-ESP-ANC-68-61-CS72\n- Job No.: 120006\n- Project: Solana\n- Material: Class 150 Carbon Steel – Piping System\n- Contract allows alternate billing cycles, extended payment provisions, and certification/approval extensions\n- Confidential information with restrictions on use and disclosure",
+  "summary_points": [
+    "Document No. 4521-ESP-ANC-68-61-CS72 for Solana project.",
+    "Material: Class 150 Carbon Steel – Piping System.",
+    "Service Range: up to 500°F, with specific notes on temperature and pressure limits.",
+    "Fittings include gate valves, globe valves, and rotary valves.",
+    "Notes cover installation details, cleaning requirements, and welding processes.",
+    "Document No: 4521-ESP-ANC-68-61-CS72",
+    "Job No.: 120006",
+    "Project: Solana",
+    "Material: Class 150 Carbon Steel – Piping System",
+    "Contract allows alternate billing cycles, extended payment provisions, and certification/approval extensions",
+    "Confidential information with restrictions on use and disclosure"
+  ],
+  "keywords": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "PS-CS71",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)"
+  ],
+  "references": [
+    "4521-ESP-ANC-68-64-V350",
+    "4521-ESP-ANC-68-64-V353",
+    "PS-CS71",
+    "EC-94 – Solana Specific Standard Form (Rev. 03/2010)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2dae68217fc43706.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2dae68217fc43706.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T11:19:25.890532+00:00",
+  "usage": {
+    "input_tokens": 3228,
+    "output_tokens": 1967,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9143
+}

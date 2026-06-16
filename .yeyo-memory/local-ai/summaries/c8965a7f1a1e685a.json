@@ -1,0 +1,60 @@
+{
+  "doc_id": "c8965a7f1a1e685a",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260326/1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA.pdf",
+  "title": "1950801-DOC-4130.00-RECUENTO DE ESTRUCTURA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Mediciones y presupuestos",
+  "summary": "- El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo.\n- Se detalla el recuento de estructuras metálicas para un proyecto en CORDOBA (SPAIN).\n- Incluye cantidades de acero, pintura exterior, tramez, barandilla y peldaños.\n- Hay anexos que proporcionan detalles específicos sobre las estructuras de soporte de bombas, pasarelas y racks.\n- Se mencionan especificaciones técnicas para el suministro de acero laminado S 275 JR.\n- Se suministra acero laminado S 275 JR para estructuras metálicas.\n- Incluye elementos como rejillas de pavimentación y vanos en racks.\n- Factor de mayorización del 20% para considerar soldaduras y otros materiales adicionales.\n- Software utilizado: Diamonds Version 2025.0.0.0\n- Datos detallados de geometría incluidos.\n- Documento sobre recuento de estructura con datos de barras HEB y rack de carretera.\n- Datos incluyen código, longitud (m), peso (kg) y peso por unidad de longitud (kg/m).",
+  "summary_points": [
+    "El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo.",
+    "Se detalla el recuento de estructuras metálicas para un proyecto en CORDOBA (SPAIN).",
+    "Incluye cantidades de acero, pintura exterior, tramez, barandilla y peldaños.",
+    "Hay anexos que proporcionan detalles específicos sobre las estructuras de soporte de bombas, pasarelas y racks.",
+    "Se mencionan especificaciones técnicas para el suministro de acero laminado S 275 JR.",
+    "Se suministra acero laminado S 275 JR para estructuras metálicas.",
+    "Incluye elementos como rejillas de pavimentación y vanos en racks.",
+    "Factor de mayorización del 20% para considerar soldaduras y otros materiales adicionales.",
+    "Software utilizado: Diamonds Version 2025.0.0.0",
+    "Datos detallados de geometría incluidos.",
+    "Documento sobre recuento de estructura con datos de barras HEB y rack de carretera.",
+    "Datos incluyen código, longitud (m), peso (kg) y peso por unidad de longitud (kg/m).",
+    "Total de peso para barras HEB: 119,48 kg, 7027,7 kg.",
+    "Total de peso para rack de carretera: 165,91 kg, 8459,6 kg.",
+    "Documentación propiedad de Lointek con derechos de uso limitados."
+  ],
+  "keywords": [
+    "1950801-DOC-4130",
+    "CTE SE- A",
+    "Diamonds Version 2025.0.0.0",
+    "Buildsoft Server Version 2025.0.0.0",
+    "HEB",
+    "RACK DE CARRETERA",
+    "RACK CONVENCIONAL"
+  ],
+  "references": [
+    "1950801-DOC-4130",
+    "CTE SE- A",
+    "Diamonds Version 2025.0.0.0",
+    "Buildsoft Server Version 2025.0.0.0",
+    "HEB",
+    "RACK DE CARRETERA",
+    "RACK CONVENCIONAL"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c8965a7f1a1e685a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c8965a7f1a1e685a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T16:20:42.922577+00:00",
+  "usage": {
+    "input_tokens": 27661,
+    "output_tokens": 7539,
+    "calls": 7
+  },
+  "repaired_calls": 2,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 31470
+}

@@ -1,0 +1,54 @@
+{
+  "doc_id": "30d5ccb4a03ee0d7",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-58-70-0015_R2 Temperature Gauge.xlsx",
+  "title": "4521-ESP-AGE-58-70-0015 R2 Temperature Gauge",
+  "doc_code": "4521-ESP-AGE-58-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-70-0015\n- Initialing required on cover sheet only; all other title block info on all pages\n- Revisions identified in the body of the Specification\n- Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership\n- Confidentiality terms for information and know-how\n- Temperature gauge specification for Solana power plant\n- All materials must meet NEC, IEEE, UL standards\n- Vendor must provide data, quote times, and spare parts list\n- Equipment to be inspected by Abener Teyma personnel before shipment\n- Shipment must be free of water, dried, and protected against damage\n- Confidentiality clause applies to all information and reproductions",
+  "summary_points": [
+    "Project: Solana, Job: 120006, Spec No.: 4521-ESP-AGE-58-70-0015",
+    "Initialing required on cover sheet only; all other title block info on all pages",
+    "Revisions identified in the body of the Specification",
+    "Notice of Alternate Billing Cycle available from Teyma USA & Abener Engineering and Construction Services General Partnership",
+    "Confidentiality terms for information and know-how",
+    "Temperature gauge specification for Solana power plant",
+    "All materials must meet NEC, IEEE, UL standards",
+    "Vendor must provide data, quote times, and spare parts list",
+    "Equipment to be inspected by Abener Teyma personnel before shipment",
+    "Shipment must be free of water, dried, and protected against damage",
+    "Confidentiality clause applies to all information and reproductions"
+  ],
+  "keywords": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-58-70-0015",
+    "PGV, JHR, PQJ",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "references": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-58-70-0015",
+    "PGV, JHR, PQJ",
+    "EC-98",
+    "ASME, ASTM, AWS",
+    "EPA Environmental and OSHA safety regulations"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/30d5ccb4a03ee0d7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/30d5ccb4a03ee0d7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:34:52.389835+00:00",
+  "usage": {
+    "input_tokens": 8110,
+    "output_tokens": 3771,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 16149
+}

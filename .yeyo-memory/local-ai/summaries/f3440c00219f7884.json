@@ -1,0 +1,46 @@
+{
+  "doc_id": "f3440c00219f7884",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521_PLN_AEE_68_71_P274-GAR_Rev03.pdf",
+  "title": "4521 PLN AEE 68 71 P274-GAR Rev03",
+  "doc_code": "4521-PLN-AEE-68-71-P274",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing the design of hot and cold salt tanks, nitrogen supply, heat exchangers, pumps, and valves for thermal energy storage unit 6.",
+  "summary_points": [
+    "Document detailing the design of hot and cold salt tanks, nitrogen supply, heat exchangers, pumps, and valves for thermal energy storage unit 6."
+  ],
+  "keywords": [
+    "4521 PLN AEE",
+    "Hot Salt Tank",
+    "Cold Salt Tank",
+    "Nitrogen Supply",
+    "Heat Exchanger",
+    "Pump",
+    "Valve",
+    "Insulation"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P274-GAR",
+    "ADPI-13525A",
+    "ADPI-13525B",
+    "MD-N001"
+  ],
+  "warnings": [
+    "OCR issues with some text and numbers"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f3440c00219f7884.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f3440c00219f7884.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:31:17.576556+00:00",
+  "usage": {
+    "input_tokens": 4594,
+    "output_tokens": 660,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7214
+}

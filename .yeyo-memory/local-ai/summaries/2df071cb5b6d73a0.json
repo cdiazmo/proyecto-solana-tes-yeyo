@@ -1,0 +1,54 @@
+{
+  "doc_id": "2df071cb5b6d73a0",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/LIS/4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List.pdf",
+  "title": "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List",
+  "doc_code": "4521-LIS-AEE-39-70-0015",
+  "revision": "Rev.0",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Document: Instrument List, Revision: 0, Date: Dec/15/2016\n- Prepared by Manuel Muñoz Arranz, Reviewed and Approved by Jose María Rodríguez León\n- Changes in instruments indicated by color codes (red for removed, green for added, yellow for modified)\n- Revisions control sheet includes details of the revision history\n- Document code: 4521-LIS-ABE-58-72-0002-GAR, Project: Solana\n- The instrument with tag 0104 4521-PLN-AEE-39-45-6101-GAR needs to be demounted and reinstalled at a new pipe location.\n- The document is titled 'Instrument list' and includes details about equipment, materials, insulation, location, drawing layout, basic data, item service description, and technical information.",
+  "summary_points": [
+    "Document: Instrument List, Revision: 0, Date: Dec/15/2016",
+    "Prepared by Manuel Muñoz Arranz, Reviewed and Approved by Jose María Rodríguez León",
+    "Changes in instruments indicated by color codes (red for removed, green for added, yellow for modified)",
+    "Revisions control sheet includes details of the revision history",
+    "Document code: 4521-LIS-ABE-58-72-0002-GAR, Project: Solana",
+    "The instrument with tag 0104 4521-PLN-AEE-39-45-6101-GAR needs to be demounted and reinstalled at a new pipe location.",
+    "The document is titled 'Instrument list' and includes details about equipment, materials, insulation, location, drawing layout, basic data, item service description, and technical information."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-70-0015-GAR",
+    "4521-LIS-ABE-58-72-0002-GAR",
+    "MMA, JMRL",
+    "MMA",
+    "JMRL",
+    "IFD",
+    "ABEINSA EPC USA"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-70-0015-GAR",
+    "4521-LIS-ABE-58-72-0002-GAR",
+    "MMA, JMRL",
+    "MMA",
+    "JMRL",
+    "IFD",
+    "ABEINSA EPC USA"
+  ],
+  "warnings": [
+    "The text is repetitive and lacks clear structure."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2df071cb5b6d73a0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2df071cb5b6d73a0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T09:13:18.790597+00:00",
+  "usage": {
+    "input_tokens": 25559,
+    "output_tokens": 8887,
+    "calls": 8
+  },
+  "repaired_calls": 3,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 28097
+}

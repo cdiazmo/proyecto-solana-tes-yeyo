@@ -1,0 +1,71 @@
+{
+  "doc_id": "3d814dddae1f8e1b",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0011-GAR WPS.pdf",
+  "title": "4521-INS-LOI-039-062-0011-GAR WPS",
+  "doc_code": "4521-INS-LOI-039-062-0011",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- WPS number: L-195001-02\n- Revised on 02/12/16\n- Supporting PQR numbers: LP-0543 + LP-0448\n- Welding processes include GTAW and SAW\n- Base metals are specified as SA533 GrB Cl2 Base Metal Groove\n- Filler metal for GTAW is ER90S-G EF3/EG, size 2.4 Ø 4\n- Post-weld heat treatment temperature range: 610ºC ± 10ºC\n- Preheat temperature minimum: 200°C\n- Interpass temperature maximum: 300°C\n- WPS document number L-195001-03, revision 0.\n- Post-weld heat treatment for groove and fillet positions at specific temperatures.\n- Preheat temperature minimum is 150°C with a shielding gas mixture of 99.99% Ar.",
+  "summary_points": [
+    "WPS number: L-195001-02",
+    "Revised on 02/12/16",
+    "Supporting PQR numbers: LP-0543 + LP-0448",
+    "Welding processes include GTAW and SAW",
+    "Base metals are specified as SA533 GrB Cl2 Base Metal Groove",
+    "Filler metal for GTAW is ER90S-G EF3/EG, size 2.4 Ø 4",
+    "Post-weld heat treatment temperature range: 610ºC ± 10ºC",
+    "Preheat temperature minimum: 200°C",
+    "Interpass temperature maximum: 300°C",
+    "WPS document number L-195001-03, revision 0.",
+    "Post-weld heat treatment for groove and fillet positions at specific temperatures.",
+    "Preheat temperature minimum is 150°C with a shielding gas mixture of 99.99% Ar.",
+    "Electrical characteristics include AC/DC current, polarity, tungsten electrode size, and amperage/voltage ranges.",
+    "Technique details such as tube expansion, bead type, cleaning methods, and back gouging are specified.",
+    "Welding process includes filler metal types, travel speed, heat input, and class specifications.",
+    "Document signed by I.URIARTE, checked by WELDING ENGINEER, and approved by P.MIRANDA."
+  ],
+  "keywords": [
+    "L-195001-02",
+    "LP-0543 + LP-0448",
+    "SA533 GrB Cl2 Base Metal Groove",
+    "ER90S-G EF3/EG",
+    "2.4 Ø 4",
+    "QW-405",
+    "QW-407",
+    "QW-406",
+    "QW-408",
+    "QW-409",
+    "QW-410"
+  ],
+  "references": [
+    "L-195001-02",
+    "LP-0543 + LP-0448",
+    "SA533 GrB Cl2 Base Metal Groove",
+    "ER90S-G EF3/EG",
+    "2.4 Ø 4",
+    "QW-405",
+    "QW-407",
+    "QW-406",
+    "QW-408",
+    "QW-409",
+    "QW-410"
+  ],
+  "warnings": [
+    "Potential OCR issues with some text recognition"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3d814dddae1f8e1b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3d814dddae1f8e1b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T13:15:07.174229+00:00",
+  "usage": {
+    "input_tokens": 10208,
+    "output_tokens": 5108,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 17895
+}

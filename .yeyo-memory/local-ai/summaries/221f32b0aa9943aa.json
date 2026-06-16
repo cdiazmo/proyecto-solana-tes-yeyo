@@ -1,0 +1,48 @@
+{
+  "doc_id": "221f32b0aa9943aa",
+  "path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0003-GAR_Rev03/4521-LIS-AEE-39-61-0003-GAR_Rev03  Manual Valve List TES HEX Replacement.pdf",
+  "title": "4521-LIS-AEE-39-61-0003-GAR Rev03 Manual Valve List TES HEX Replacement",
+  "doc_code": "4521-LIS-AEE-39-61-0003",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists manual valves for the TES system, including gate isolation, venting, and draining valves. Each valve has details such as type, description, line/equipment tag number, size, specification, fluid pipe/nozzle schedule, limit switch, lock notes, EPC code, and additional information like area classification and environmental protection.",
+  "summary_points": [
+    "This document lists manual valves for the TES system, including gate isolation, venting, and draining valves. Each valve has details such as type, description, line/equipment tag number, size, specification, fluid pipe/nozzle schedule, limit switch, lock notes, EPC code, and additional information like area classification and environmental protection."
+  ],
+  "keywords": [
+    "Manual Valve List",
+    "TES system",
+    "Gate Isolation",
+    "Venting",
+    "Draining",
+    "Valve Specification",
+    "Fluid Pipe",
+    "Nozzle Schedule",
+    "Limit Switch",
+    "EPC Code"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-61-0003-GAR",
+    "4521-PLN-AGE-68-71-P271-GAR",
+    "4521-PLN-AGE-68-71-P278-GAR",
+    "4521-PLN-AGE-68-71-P279-GAR"
+  ],
+  "warnings": [
+    "DELETED entries and spare text may indicate incomplete or corrupted data."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/221f32b0aa9943aa.md",
+  "source_extracted_path": ".yeyo-memory/extracted/221f32b0aa9943aa.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T08:21:05.420686+00:00",
+  "usage": {
+    "input_tokens": 3413,
+    "output_tokens": 3184,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5124
+}

@@ -1,0 +1,51 @@
+{
+  "doc_id": "1bb35c2254d5e220",
+  "path": "01 GD AE/I&C/HDD/HDD-Original Project_2012/4521-ESP-AGE-74-70-0001_R1 Temperature.xlsx",
+  "title": "4521-ESP-AGE-74-70-0001 R1 Temperature",
+  "doc_code": "4521-ESP-AGE-74-70-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "- Engineering specification for the Ullage cleaning system at Solana project.\n- Temperature RTD Element with Thermowell and Transmitter is required.\n- Revisions are tracked in the body of the specification.\n- Confidentiality clause restricts use, reproduction, or disclosure of information.\n- Alternate billing cycle allowed by the owner.\n- Engineering specification for temperature RTD Element with Thermowell and Transmitter\n- All materials must meet NEC, IEEE, UL standards\n- Vendor must supply all required data and quote times for approval drawings and fabrication\n- Equipment to be delivered to purchaser's manufacturing site by August 2012\n- List of recommended spare parts with prices and delivery times required\n- Inspection by Abener Teyma personnel before shipment\n- Vendor invited to quote as an alternate for cost reduction or improved performance",
+  "summary_points": [
+    "Engineering specification for the Ullage cleaning system at Solana project.",
+    "Temperature RTD Element with Thermowell and Transmitter is required.",
+    "Revisions are tracked in the body of the specification.",
+    "Confidentiality clause restricts use, reproduction, or disclosure of information.",
+    "Alternate billing cycle allowed by the owner.",
+    "Engineering specification for temperature RTD Element with Thermowell and Transmitter",
+    "All materials must meet NEC, IEEE, UL standards",
+    "Vendor must supply all required data and quote times for approval drawings and fabrication",
+    "Equipment to be delivered to purchaser's manufacturing site by August 2012",
+    "List of recommended spare parts with prices and delivery times required",
+    "Inspection by Abener Teyma personnel before shipment",
+    "Vendor invited to quote as an alternate for cost reduction or improved performance"
+  ],
+  "keywords": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-74-70-0001",
+    "EC-98",
+    "Rev. 3/2011"
+  ],
+  "references": [
+    "AG ENGINEERING",
+    "4521-ESP-AGE-74-70-0001",
+    "EC-98",
+    "Rev. 3/2011"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1bb35c2254d5e220.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1bb35c2254d5e220.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T12:36:30.874573+00:00",
+  "usage": {
+    "input_tokens": 8190,
+    "output_tokens": 3615,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 16163
+}

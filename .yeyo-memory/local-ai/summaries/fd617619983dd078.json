@@ -1,0 +1,28 @@
+{
+  "doc_id": "fd617619983dd078",
+  "path": "12 As Built TES 6/04_Piping/01_Pipe Specs/4521-ESP-ANC-68-61-SS33.pdf",
+  "title": "4521-ESP-ANC-68-61-SS33",
+  "doc_code": "4521-ESP-ANC-68-61-SS33",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fd617619983dd078.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fd617619983dd078.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-14T10:59:02.678603+00:00",
+  "usage": {
+    "input_tokens": 6190,
+    "output_tokens": 4032,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4745
+}

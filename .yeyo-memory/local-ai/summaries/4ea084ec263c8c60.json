@@ -1,0 +1,48 @@
+{
+  "doc_id": "4ea084ec263c8c60",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/I & C/HDD/4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet.pdf",
+  "title": "4521-HDD-AEE-39-70-0013-GAR Rev.01 Level transmitters datasheet",
+  "doc_code": "4521-HDD-AEE-39-70-0013",
+  "revision": "Rev.01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Technical data sheet for level transmitters, including specifications, documentation requirements, and notes.",
+  "summary_points": [
+    "Technical data sheet for level transmitters, including specifications, documentation requirements, and notes."
+  ],
+  "keywords": [
+    "level transmitters",
+    "LT-325701",
+    "Radar Level Transmitter",
+    "Class 1, Division 2, Group D",
+    "Stainless Steel AISI 316",
+    "Calibration Range",
+    "Power Supply/ Output Signal",
+    "Design Dossier",
+    "Final Quality Dossier"
+  ],
+  "references": [
+    "4521-HDD-AEE-39-70-0013-GAR",
+    "Rev.01",
+    "Solana",
+    "ABEINSA EPC USA"
+  ],
+  "warnings": [
+    "Pending confirmation from drain back tank supplier",
+    "Stilling Well needed (API Ch. 3.1A)"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4ea084ec263c8c60.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4ea084ec263c8c60.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T19:16:00.872026+00:00",
+  "usage": {
+    "input_tokens": 3003,
+    "output_tokens": 482,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7289
+}
