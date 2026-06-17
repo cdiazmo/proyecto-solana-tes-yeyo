@@ -1,0 +1,46 @@
+{
+  "doc_id": "7c467154514ac658",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0299.pdf",
+  "title": "4521-PLN-DOT-75-63-0299",
+  "doc_code": "4521-PLN-DOT-75-63-0299",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details on support definitions, including dimensions, materials, and assembly options for various types of shoes and profiles. It is part of the project 'ARIZONA SOLAR ONE' and is protected by copyright.",
+  "summary_points": [
+    "This document provides technical details on support definitions, including dimensions, materials, and assembly options for various types of shoes and profiles. It is part of the project 'ARIZONA SOLAR ONE' and is protected by copyright."
+  ],
+  "keywords": [
+    "support definition",
+    "shoe type",
+    "triple T",
+    "insulation",
+    "stainless steel plate",
+    "dimensions",
+    "material properties",
+    "assembly options"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0299",
+    "257-MS-10EF-S-005",
+    "ARIZONA SOLAR ONE",
+    "Ildefonso Gonzalez, P.E. PhD"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the notes and drawing details sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7c467154514ac658.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7c467154514ac658.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:49:48.040878+00:00",
+  "usage": {
+    "input_tokens": 1820,
+    "output_tokens": 1068,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4024
+}

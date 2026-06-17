@@ -1,0 +1,32 @@
+{
+  "doc_id": "9736fd0a750e73ba",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521_PLN_AEE_68_71_P278-GAR_Rev06.pdf",
+  "title": "4521 PLN AEE 68 71 P278-GAR Rev06",
+  "doc_code": "4521-PLN-AEE-68-71-P278",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing a technical setup with specific equipment, pipes, and valves. Includes details on heat tracing and pipe routing.",
+  "summary_points": [
+    "Document describing a technical setup with specific equipment, pipes, and valves. Includes details on heat tracing and pipe routing."
+  ],
+  "keywords": [],
+  "references": [],
+  "warnings": [
+    "OCR issues with some text, particularly in the middle of the page."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9736fd0a750e73ba.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9736fd0a750e73ba.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:53:04.556221+00:00",
+  "usage": {
+    "input_tokens": 4084,
+    "output_tokens": 704,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4891
+}

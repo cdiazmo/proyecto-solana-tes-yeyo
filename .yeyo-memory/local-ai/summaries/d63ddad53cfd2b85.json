@@ -1,0 +1,43 @@
+{
+  "doc_id": "d63ddad53cfd2b85",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0325.pdf",
+  "title": "4521-PLN-DOT-75-63-0325",
+  "doc_code": "4521-PLN-DOT-75-63-0325",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support structures for pipes, including dimensions, materials, and assembly details.",
+  "summary_points": [
+    "Document describing support structures for pipes, including dimensions, materials, and assembly details."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "material",
+    "assembly",
+    "stiffeners",
+    "insulation"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0325",
+    "257-MS-12EF-S-007"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and parameters definition sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d63ddad53cfd2b85.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d63ddad53cfd2b85.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:51:06.289655+00:00",
+  "usage": {
+    "input_tokens": 1822,
+    "output_tokens": 794,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4041
+}

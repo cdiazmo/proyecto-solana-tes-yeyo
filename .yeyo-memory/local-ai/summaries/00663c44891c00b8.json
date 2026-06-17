@@ -1,0 +1,41 @@
+{
+  "doc_id": "00663c44891c00b8",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/Structural Steel/4521-PLN-DOT-39-63-0922_R04.pdf",
+  "title": "4521-PLN-DOT-39-63-0922 R04",
+  "doc_code": "4521-PLN-DOT-39-63-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing structural supports for Arizona Solar One project, including dimensions and weights of various components.",
+  "summary_points": [
+    "Document detailing structural supports for Arizona Solar One project, including dimensions and weights of various components."
+  ],
+  "keywords": [
+    "Arizona Solar",
+    "Structural Supports",
+    "W6x25",
+    "MTO ID",
+    "Added Structural Support"
+  ],
+  "references": [
+    "4521-PLN-DOT-39-63-0922 R04",
+    "CG HR IGA",
+    "12/7/2018",
+    "1252-MS-13F-S-001"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/00663c44891c00b8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/00663c44891c00b8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:32:14.179699+00:00",
+  "usage": {
+    "input_tokens": 2091,
+    "output_tokens": 754,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3301
+}

@@ -1,0 +1,45 @@
+{
+  "doc_id": "00e60d9eea0d6aca",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0316.pdf",
+  "title": "4521-PLN-DOT-75-63-0316",
+  "doc_code": "4521-PLN-DOT-75-63-0316",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support structures for pipe insulation, including dimensions, materials, and installation instructions.",
+  "summary_points": [
+    "Document detailing support structures for pipe insulation, including dimensions, materials, and installation instructions."
+  ],
+  "keywords": [
+    "support",
+    "pipe insulation",
+    "dimensions",
+    "materials",
+    "installation",
+    "friction coefficient",
+    "stainless steel",
+    "non-rotating trunnion"
+  ],
+  "references": [
+    "257-MS-12EF-S-015_P02",
+    "257-MS-12EF-S-015_P13",
+    "257-MS-12EF-S-015_E08"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in tables and diagrams."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/00e60d9eea0d6aca.md",
+  "source_extracted_path": ".yeyo-memory/extracted/00e60d9eea0d6aca.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:36:23.217899+00:00",
+  "usage": {
+    "input_tokens": 1747,
+    "output_tokens": 838,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3907
+}

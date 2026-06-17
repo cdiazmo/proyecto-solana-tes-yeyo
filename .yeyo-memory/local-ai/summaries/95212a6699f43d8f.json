@@ -1,0 +1,42 @@
+{
+  "doc_id": "95212a6699f43d8f",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-PLN-DOT-75-63-0267.pdf",
+  "title": "4521-PLN-DOT-75-63-0267",
+  "doc_code": "4521-PLN-DOT-75-63-0267",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support definitions for various profiles and parameters, including dimensions, materials, and load capacities.",
+  "summary_points": [
+    "Document detailing support definitions for various profiles and parameters, including dimensions, materials, and load capacities."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "stiffeners",
+    "loads",
+    "profiles",
+    "insulation"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0267",
+    "252-HTF-21F-S-009"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in tables and diagrams."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/95212a6699f43d8f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/95212a6699f43d8f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:52:39.634008+00:00",
+  "usage": {
+    "input_tokens": 2072,
+    "output_tokens": 452,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4823
+}

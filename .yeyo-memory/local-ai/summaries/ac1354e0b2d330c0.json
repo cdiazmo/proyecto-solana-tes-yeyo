@@ -1,0 +1,44 @@
+{
+  "doc_id": "ac1354e0b2d330c0",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P279-GAR_901_ TES Hex MS drawing.xlsx",
+  "title": "4521 PLN AEE 68 71 P279-GAR 901 TES Hex MS drawing",
+  "doc_code": "4521-PLN-AEE-68-71-P279",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "TCS for HEX replacement TES Solana, revision 1, input data changes, and new design concept.",
+  "summary_points": [
+    "TCS for HEX replacement TES Solana, revision 1, input data changes, and new design concept."
+  ],
+  "keywords": [
+    "4521_PLN_AEE_68_71_P279-GAR-901",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "MS drain back Tank",
+    "Reinhüette Quote data",
+    "Caldererias Indalicas Quote data"
+  ],
+  "references": [
+    "4521_PLN_AEE_68_71_P279-GAR-901",
+    "4521-TMT-AEE-AEPC-0007",
+    "4521-TMT-AEE-AEPC-0019"
+  ],
+  "warnings": [
+    "OCR dudoso en fechas y códigos de cliente"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ac1354e0b2d330c0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ac1354e0b2d330c0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:31:51.929886+00:00",
+  "usage": {
+    "input_tokens": 1458,
+    "output_tokens": 405,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3216
+}

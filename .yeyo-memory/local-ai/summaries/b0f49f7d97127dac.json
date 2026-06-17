@@ -1,0 +1,43 @@
+{
+  "doc_id": "b0f49f7d97127dac",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0339.pdf",
+  "title": "4521-PLN-DOT-75-63-0339",
+  "doc_code": "4521-PLN-DOT-75-63-0339",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support structures for pipes, including dimensions, materials, and assembly details.",
+  "summary_points": [
+    "Document describing support structures for pipes, including dimensions, materials, and assembly details."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "materials",
+    "assembly",
+    "stainless steel",
+    "calcium silicate insulation"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0339",
+    "252-MS-06F-S-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view notes and drawing details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b0f49f7d97127dac.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b0f49f7d97127dac.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:22:31.017278+00:00",
+  "usage": {
+    "input_tokens": 1372,
+    "output_tokens": 875,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2828
+}

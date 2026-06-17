@@ -1,0 +1,44 @@
+{
+  "doc_id": "63f3cc1b2dc0e12e",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0289.pdf",
+  "title": "4521-PLN-DOT-75-63-0289",
+  "doc_code": "4521-PLN-DOT-75-63-0289",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design and specifications of a triple shoe support, including dimensions, materials, and installation instructions.",
+  "summary_points": [
+    "This document describes the design and specifications of a triple shoe support, including dimensions, materials, and installation instructions."
+  ],
+  "keywords": [
+    "support",
+    "triple shoe",
+    "dimensions",
+    "stainless steel",
+    "insulation",
+    "rigid insulation",
+    "round bar",
+    "stiffeners"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0289",
+    "252-MS-13F-S-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and notes sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/63f3cc1b2dc0e12e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/63f3cc1b2dc0e12e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:20:31.764473+00:00",
+  "usage": {
+    "input_tokens": 1370,
+    "output_tokens": 586,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2756
+}

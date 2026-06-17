@@ -1,0 +1,46 @@
+{
+  "doc_id": "e042f869f20d59ab",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0322.pdf",
+  "title": "4521-PLN-DOT-75-63-0322",
+  "doc_code": "4521-PLN-DOT-75-63-0322",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design and specifications of support structures for pipes, including dimensions, materials, and welding details. It covers different types of shoes (Triple T, General shoe for rigid insulation) and their configurations.",
+  "summary_points": [
+    "This document describes the design and specifications of support structures for pipes, including dimensions, materials, and welding details. It covers different types of shoes (Triple T, General shoe for rigid insulation) and their configurations."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "materials",
+    "welding",
+    "shoes",
+    "triple t",
+    "insulation",
+    "stiffeners"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0322",
+    "Typical Standard 257-MS-12EF-S-006",
+    "Guide for Triple Shoe"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e042f869f20d59ab.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e042f869f20d59ab.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:12:08.644657+00:00",
+  "usage": {
+    "input_tokens": 1351,
+    "output_tokens": 496,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2748
+}

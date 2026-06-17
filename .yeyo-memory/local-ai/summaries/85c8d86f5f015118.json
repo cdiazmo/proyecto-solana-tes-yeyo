@@ -1,0 +1,46 @@
+{
+  "doc_id": "85c8d86f5f015118",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0289.pdf",
+  "title": "4521-PLN-DOT-75-63-0289",
+  "doc_code": "4521-PLN-DOT-75-63-0289",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design of support structures for pipes, including dimensions, materials, and installation details. It covers both front and side views, notes on existing structures, and parameters for different types of shoes.",
+  "summary_points": [
+    "This document describes the design of support structures for pipes, including dimensions, materials, and installation details. It covers both front and side views, notes on existing structures, and parameters for different types of shoes."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "materials",
+    "installation",
+    "front view",
+    "side view",
+    "stiffeners",
+    "shoes",
+    "insulation"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0289",
+    "252-MS-13F-S-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the notes and drawing details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/85c8d86f5f015118.md",
+  "source_extracted_path": ".yeyo-memory/extracted/85c8d86f5f015118.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:20:16.531624+00:00",
+  "usage": {
+    "input_tokens": 1371,
+    "output_tokens": 1010,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2756
+}

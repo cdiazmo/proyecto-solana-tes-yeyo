@@ -1,0 +1,44 @@
+{
+  "doc_id": "00d80a1da9305aa2",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0331.pdf",
+  "title": "4521-PLN-DOT-75-63-0331",
+  "doc_code": "4521-PLN-DOT-75-63-0331",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details on support definitions for pipe insulation, including dimensions, materials, and construction methods. It includes diagrams and notes on various shoe types and their applications.",
+  "summary_points": [
+    "This document provides technical details on support definitions for pipe insulation, including dimensions, materials, and construction methods. It includes diagrams and notes on various shoe types and their applications."
+  ],
+  "keywords": [
+    "support definition",
+    "pipe insulation",
+    "dimensions",
+    "materials",
+    "construction methods",
+    "shoe types",
+    "diagrams",
+    "notes"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0331",
+    "255-MS-12F-S-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly names and dates."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/00d80a1da9305aa2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/00d80a1da9305aa2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:09:29.102945+00:00",
+  "usage": {
+    "input_tokens": 1289,
+    "output_tokens": 1124,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2416
+}

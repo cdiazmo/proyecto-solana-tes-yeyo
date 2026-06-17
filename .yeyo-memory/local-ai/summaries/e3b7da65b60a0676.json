@@ -1,0 +1,43 @@
+{
+  "doc_id": "e3b7da65b60a0676",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0318.pdf",
+  "title": "4521-PLN-DOT-75-63-0318",
+  "doc_code": "4521-PLN-DOT-75-63-0318",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing various support configurations for insulation systems, including dimensions, materials, and assembly instructions.",
+  "summary_points": [
+    "Document detailing various support configurations for insulation systems, including dimensions, materials, and assembly instructions."
+  ],
+  "keywords": [
+    "support",
+    "insulation",
+    "dimensions",
+    "materials",
+    "assembly",
+    "triple T shoe",
+    "stainless steel plate"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0318",
+    "257-MS-12EF-S-013"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side views and assembly details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e3b7da65b60a0676.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e3b7da65b60a0676.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:50:20.391503+00:00",
+  "usage": {
+    "input_tokens": 1802,
+    "output_tokens": 645,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4027
+}

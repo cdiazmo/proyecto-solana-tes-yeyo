@@ -1,0 +1,47 @@
+{
+  "doc_id": "b3b578118a37c1ca",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0327.pdf",
+  "title": "4521-PLN-DOT-75-63-0327",
+  "doc_code": "4521-PLN-DOT-75-63-0327",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions including dimensions, materials, and typical shoe configurations. It also includes drawing information and copyright notices.",
+  "summary_points": [
+    "This document describes support definitions including dimensions, materials, and typical shoe configurations. It also includes drawing information and copyright notices."
+  ],
+  "keywords": [
+    "support definition",
+    "front view",
+    "side view",
+    "pipe orientation",
+    "calcium silicate insulation",
+    "stainless steel plate",
+    "triple T shoe",
+    "stiffeners",
+    "drawing information",
+    "copyright notice"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0327",
+    "257-MS-12EF-S-004",
+    "Guide for Triple Shoe"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and drawing information sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b3b578118a37c1ca.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b3b578118a37c1ca.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:12:50.669409+00:00",
+  "usage": {
+    "input_tokens": 1351,
+    "output_tokens": 826,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2748
+}

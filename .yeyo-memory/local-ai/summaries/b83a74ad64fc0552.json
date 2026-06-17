@@ -1,0 +1,43 @@
+{
+  "doc_id": "b83a74ad64fc0552",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0338.pdf",
+  "title": "4521-PLN-DOT-75-63-0338",
+  "doc_code": "4521-PLN-DOT-75-63-0338",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions for pipe insulation, including dimensions, materials, and assembly details.",
+  "summary_points": [
+    "This document describes support definitions for pipe insulation, including dimensions, materials, and assembly details."
+  ],
+  "keywords": [
+    "support",
+    "pipe insulation",
+    "dimensions",
+    "materials",
+    "assembly",
+    "stainless steel",
+    "stiffeners"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0338",
+    "255-MS-11F-S-003"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b83a74ad64fc0552.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b83a74ad64fc0552.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:28:48.216574+00:00",
+  "usage": {
+    "input_tokens": 1439,
+    "output_tokens": 455,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2906
+}

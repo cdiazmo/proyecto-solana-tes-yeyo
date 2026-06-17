@@ -1,0 +1,44 @@
+{
+  "doc_id": "b31aed6c43812a10",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0313.pdf",
+  "title": "4521-PLN-DOT-75-63-0313",
+  "doc_code": "4521-PLN-DOT-75-63-0313",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Support definition with dimensions, materials, and notes. Drawing information includes project details.",
+  "summary_points": [
+    "Support definition with dimensions, materials, and notes. Drawing information includes project details."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "materials",
+    "notes",
+    "drawing",
+    "project",
+    "details"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0313",
+    "Typical Standard 252-MS-04F-S-009"
+  ],
+  "warnings": [
+    "Drawing No and Scale not specified",
+    "Project details not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b31aed6c43812a10.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b31aed6c43812a10.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:08:38.917115+00:00",
+  "usage": {
+    "input_tokens": 1257,
+    "output_tokens": 305,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2392
+}

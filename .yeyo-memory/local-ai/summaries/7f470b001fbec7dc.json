@@ -1,0 +1,38 @@
+{
+  "doc_id": "7f470b001fbec7dc",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/RFI031_033 remolques temporales/4521-PLN-AEE-27-33-0000_Rev00_Temporary Power.pdf",
+  "title": "4521-PLN-AEE-27-33-0000 Rev00 Temporary Power",
+  "doc_code": "4521-PLN-AEE-27-33-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Mapa del área con instalaciones temporales de electricidad para trailers de construcción.",
+  "summary_points": [
+    "Mapa del área con instalaciones temporales de electricidad para trailers de construcción."
+  ],
+  "keywords": [
+    "AREA MAP",
+    "PLANT NORTH",
+    "Temporary Power",
+    "Construction Trailers",
+    "Expiration Date"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en varios lugares, números y símbolos incompletos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7f470b001fbec7dc.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7f470b001fbec7dc.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:53:23.670730+00:00",
+  "usage": {
+    "input_tokens": 830,
+    "output_tokens": 122,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 472
+}

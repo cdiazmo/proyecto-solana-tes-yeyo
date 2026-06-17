@@ -1,0 +1,42 @@
+{
+  "doc_id": "b2e0d406be411bc9",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0317.pdf",
+  "title": "4521-PLN-DOT-75-63-0317",
+  "doc_code": "4521-PLN-DOT-75-63-0317",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definitions for insulation, including dimensions, materials, and assembly details.",
+  "summary_points": [
+    "Document describing support definitions for insulation, including dimensions, materials, and assembly details."
+  ],
+  "keywords": [
+    "support",
+    "insulation",
+    "dimensions",
+    "materials",
+    "assembly",
+    "stiffeners"
+  ],
+  "references": [
+    "257-MS-12EF-S-012",
+    "4521-PLN-DOT-75-63-0317"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and parameters definition sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b2e0d406be411bc9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b2e0d406be411bc9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:51:25.273600+00:00",
+  "usage": {
+    "input_tokens": 1818,
+    "output_tokens": 791,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4046
+}

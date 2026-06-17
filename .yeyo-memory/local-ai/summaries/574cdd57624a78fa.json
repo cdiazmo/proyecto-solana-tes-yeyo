@@ -1,0 +1,41 @@
+{
+  "doc_id": "574cdd57624a78fa",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0302.pdf",
+  "title": "4521-PLN-DOT-75-63-0302",
+  "doc_code": "4521-PLN-DOT-75-63-0302",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Support definition for pipe orientation and existing structure. Includes dimensions, materials, and drawing details.",
+  "summary_points": [
+    "Support definition for pipe orientation and existing structure. Includes dimensions, materials, and drawing details."
+  ],
+  "keywords": [
+    "support",
+    "pipe orientation",
+    "dimensions",
+    "materials",
+    "drawing details"
+  ],
+  "references": [
+    "257-MS-10EF-S-008",
+    "4521-PLN-DOT-75-63-0302"
+  ],
+  "warnings": [
+    "OCR dudoso en partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/574cdd57624a78fa.md",
+  "source_extracted_path": ".yeyo-memory/extracted/574cdd57624a78fa.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:29:59.677573+00:00",
+  "usage": {
+    "input_tokens": 1461,
+    "output_tokens": 498,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2917
+}

@@ -1,0 +1,49 @@
+{
+  "doc_id": "7138823bce0a65be",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-PLN-DOT-75-63-0265.pdf",
+  "title": "4521-PLN-DOT-75-63-0265",
+  "doc_code": "4521-PLN-DOT-75-63-0265",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for support definitions including dimensions, existing structure, and legal notices. It covers specific details like Detail 1 and Detail B with notes on geometry and construction requirements.",
+  "summary_points": [
+    "This document provides technical details for support definitions including dimensions, existing structure, and legal notices. It covers specific details like Detail 1 and Detail B with notes on geometry and construction requirements."
+  ],
+  "keywords": [
+    "support definition",
+    "dimensions",
+    "existing structure",
+    "non-rotation trunnion",
+    "detail A",
+    "detail B",
+    "gap 1",
+    "gap 2",
+    "lift-stop thk",
+    "legal notice",
+    "Arizona Solar One Solana"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0265",
+    "Typical Standard 252-HTF-21F-S-007",
+    "General shoe with insulation",
+    "Anti-Lift Guide"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos caracteres especiales y números"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7138823bce0a65be.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7138823bce0a65be.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:10:25.383247+00:00",
+  "usage": {
+    "input_tokens": 1378,
+    "output_tokens": 585,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2674
+}

@@ -1,0 +1,43 @@
+{
+  "doc_id": "ea8bb6f20b8604ac",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0288.pdf",
+  "title": "4521-PLN-DOT-75-63-0288",
+  "doc_code": "4521-PLN-DOT-75-63-0288",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support structures for pipes, including dimensions, materials, and typical shoe designs. Property of Abeinsa.",
+  "summary_points": [
+    "Document describing support structures for pipes, including dimensions, materials, and typical shoe designs. Property of Abeinsa."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "material",
+    "shoe",
+    "stiffeners",
+    "Abeinsa"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0288",
+    "252-MS-13E-S-002"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and drawing information sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ea8bb6f20b8604ac.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ea8bb6f20b8604ac.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:18:23.669527+00:00",
+  "usage": {
+    "input_tokens": 1371,
+    "output_tokens": 776,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2753
+}

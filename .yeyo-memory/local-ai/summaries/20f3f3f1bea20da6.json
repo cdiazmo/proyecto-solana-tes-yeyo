@@ -1,0 +1,44 @@
+{
+  "doc_id": "20f3f3f1bea20da6",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P279-GAR_901_Rev02_TES Hex MS drawing.xlsx",
+  "title": "4521 PLN AEE 68 71 P279-GAR 901 Rev02 TES Hex MS drawing",
+  "doc_code": "4521-PLN-AEE-68-71-P279",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, revision 2, dated 2017-01-13. Includes input data updates and design changes.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, revision 2, dated 2017-01-13. Includes input data updates and design changes."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "Input data update",
+    "Pump vendor data",
+    "Design change"
+  ],
+  "references": [
+    "4521_PLN_AEE_68_71_P279-GAR-901",
+    "Rev02",
+    "Caldererias Indalicas",
+    "Reinhüette",
+    "AEPC USA"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/20f3f3f1bea20da6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/20f3f3f1bea20da6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:09:40.351238+00:00",
+  "usage": {
+    "input_tokens": 1245,
+    "output_tokens": 371,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2503
+}

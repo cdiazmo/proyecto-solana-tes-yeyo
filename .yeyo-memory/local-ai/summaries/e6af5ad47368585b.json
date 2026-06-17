@@ -1,0 +1,43 @@
+{
+  "doc_id": "e6af5ad47368585b",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0281.pdf",
+  "title": "4521-PLN-DOT-75-63-0281",
+  "doc_code": "4521-PLN-DOT-75-63-0281",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support structures for pipes, including dimensions, materials, and installation details.",
+  "summary_points": [
+    "Document describing support structures for pipes, including dimensions, materials, and installation details."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "material",
+    "installation",
+    "stiffeners",
+    "insulation"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0281",
+    "252-MS-04F-S-002"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e6af5ad47368585b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e6af5ad47368585b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:15:40.810980+00:00",
+  "usage": {
+    "input_tokens": 1367,
+    "output_tokens": 874,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2749
+}

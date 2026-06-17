@@ -1,0 +1,42 @@
+{
+  "doc_id": "e08e8be2120a820d",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0319.pdf",
+  "title": "4521-PLN-DOT-75-63-0319",
+  "doc_code": "4521-PLN-DOT-75-63-0319",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions and parameters for insulation shoes, including dimensions, materials, and installation details. It is part of the Arizona Solar One project.",
+  "summary_points": [
+    "This document describes support definitions and parameters for insulation shoes, including dimensions, materials, and installation details. It is part of the Arizona Solar One project."
+  ],
+  "keywords": [
+    "support definition",
+    "insulation shoe",
+    "dimensions",
+    "material selection",
+    "installation",
+    "Arizona Solar One"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0319",
+    "257-MS-12EF-S-016"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e08e8be2120a820d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e08e8be2120a820d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:33:08.154977+00:00",
+  "usage": {
+    "input_tokens": 1679,
+    "output_tokens": 888,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3761
+}

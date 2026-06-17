@@ -1,0 +1,43 @@
+{
+  "doc_id": "be58311f2ac7f5c9",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0328.pdf",
+  "title": "4521-PLN-DOT-75-63-0328",
+  "doc_code": "4521-PLN-DOT-75-63-0328",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions and parameters for pipe insulation, including dimensions, materials, and welding details. It also includes a disclaimer regarding the use of the drawing.",
+  "summary_points": [
+    "This document describes support definitions and parameters for pipe insulation, including dimensions, materials, and welding details. It also includes a disclaimer regarding the use of the drawing."
+  ],
+  "keywords": [
+    "support definition",
+    "pipe insulation",
+    "dimensions",
+    "materials",
+    "welding",
+    "disclaimer"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0328",
+    "Typical Standard 257-MS-12EF-S-002",
+    "Guide for Triple Shoe"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/be58311f2ac7f5c9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/be58311f2ac7f5c9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:15:04.376755+00:00",
+  "usage": {
+    "input_tokens": 1361,
+    "output_tokens": 629,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2748
+}

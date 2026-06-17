@@ -1,0 +1,39 @@
+{
+  "doc_id": "38ba3d609388371c",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P279-GAR_901_Rev03_TES Hex MS drawing.xlsx",
+  "title": "4521 PLN AEE 68 71 P279-GAR 901 Rev03 TES Hex MS drawing",
+  "doc_code": "4521-PLN-AEE-68-71-P279",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "TCS for HEX replacement TES Solana project. Revision 3 from Abeinsa Engineering, includes execution and design updates.",
+  "summary_points": [
+    "TCS for HEX replacement TES Solana project. Revision 3 from Abeinsa Engineering, includes execution and design updates."
+  ],
+  "keywords": [
+    "4521_PLN_AEE_68_71_P279-GAR",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "TCS Revision 3",
+    "Execution process update",
+    "Design change"
+  ],
+  "references": [],
+  "warnings": [
+    "#VALUE! entries in multiple fields, possibly OCR errors."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/38ba3d609388371c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/38ba3d609388371c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:07:13.677586+00:00",
+  "usage": {
+    "input_tokens": 1066,
+    "output_tokens": 268,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2062
+}

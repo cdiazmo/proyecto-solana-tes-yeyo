@@ -1,0 +1,53 @@
+{
+  "doc_id": "c5afa696fd42d675",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0321.pdf",
+  "title": "4521-PLN-DOT-75-63-0321",
+  "doc_code": "4521-PLN-DOT-75-63-0321",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definitions including dimensions, materials, and typical shoes. Includes parameters for different profiles and elevations.",
+  "summary_points": [
+    "Document describing support definitions including dimensions, materials, and typical shoes. Includes parameters for different profiles and elevations."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "materials",
+    "Triple T",
+    "stiffeners",
+    "insulation",
+    "pipe orientation",
+    "drawing information"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0321",
+    "AW1",
+    "BW2",
+    "CW3",
+    "DW4",
+    "EW5",
+    "P1",
+    "P2",
+    "P3",
+    "Guide for Triple Shoe",
+    "Limit from shoe base"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and drawing information sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c5afa696fd42d675.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c5afa696fd42d675.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:33:25.396742+00:00",
+  "usage": {
+    "input_tokens": 1690,
+    "output_tokens": 586,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3765
+}

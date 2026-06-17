@@ -1,0 +1,42 @@
+{
+  "doc_id": "0875841c9b28a29b",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/Structural Steel/4521-PLN-DOT-39-63-0905_R01.pdf",
+  "title": "4521-PLN-DOT-39-63-0905 R01",
+  "doc_code": "4521-PLN-DOT-39-63-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for General Mechanics Supports, including details on materials, weights, and installation instructions.",
+  "summary_points": [
+    "Drawing for General Mechanics Supports, including details on materials, weights, and installation instructions."
+  ],
+  "keywords": [
+    "General Mechanics Supports",
+    "Weld throat thickness",
+    "Installation details",
+    "As-Built",
+    "Structural Steel"
+  ],
+  "references": [
+    "4521-PLN-ANC-00-50-S001",
+    "4521-ESP-ANC-00-50-5120",
+    "4521-PLN-AEE-75-52-0006-GAR"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos términos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0875841c9b28a29b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0875841c9b28a29b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:08:09.473405+00:00",
+  "usage": {
+    "input_tokens": 1204,
+    "output_tokens": 919,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2120
+}

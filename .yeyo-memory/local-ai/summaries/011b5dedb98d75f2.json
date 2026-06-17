@@ -1,0 +1,44 @@
+{
+  "doc_id": "011b5dedb98d75f2",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0520_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0520 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for T Support (H Profiles) with dimensions, grout, base plate details, and project information.",
+  "summary_points": [
+    "Drawing for T Support (H Profiles) with dimensions, grout, base plate details, and project information."
+  ],
+  "keywords": [
+    "Support Definition",
+    "E08",
+    "Assembly Detail",
+    "Dimensions",
+    "Grout",
+    "Base Plate",
+    "Arizona Solar One",
+    "Typical Standard",
+    "T Support"
+  ],
+  "references": [
+    "252-HTF-16F-S-008-241"
+  ],
+  "warnings": [
+    "Drawing No: and Sheets: not specified"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/011b5dedb98d75f2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/011b5dedb98d75f2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:54:02.751575+00:00",
+  "usage": {
+    "input_tokens": 775,
+    "output_tokens": 444,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1032
+}

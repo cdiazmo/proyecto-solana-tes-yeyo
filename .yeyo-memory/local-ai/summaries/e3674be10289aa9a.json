@@ -1,0 +1,43 @@
+{
+  "doc_id": "e3674be10289aa9a",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0319.pdf",
+  "title": "4521-PLN-DOT-75-63-0319",
+  "doc_code": "4521-PLN-DOT-75-63-0319",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes various support configurations, including their dimensions, materials, and installation details. It covers different types of shoes (Triple T, General shoe for rigid insulation) and specifies parameters like friction coefficient and material selection.",
+  "summary_points": [
+    "This document describes various support configurations, including their dimensions, materials, and installation details. It covers different types of shoes (Triple T, General shoe for rigid insulation) and specifies parameters like friction coefficient and material selection."
+  ],
+  "keywords": [
+    "support",
+    "shoes",
+    "dimensions",
+    "materials",
+    "installation",
+    "friction coefficient",
+    "material selection"
+  ],
+  "references": [
+    "257-MS-12EF-S-016",
+    "4521-PLN-DOT-75-63-0319"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e3674be10289aa9a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e3674be10289aa9a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:32:43.584824+00:00",
+  "usage": {
+    "input_tokens": 1669,
+    "output_tokens": 1059,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3761
+}

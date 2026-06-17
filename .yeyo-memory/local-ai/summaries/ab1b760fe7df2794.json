@@ -1,0 +1,49 @@
+{
+  "doc_id": "ab1b760fe7df2794",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-PLN-DOT-75-63-0265.pdf",
+  "title": "4521-PLN-DOT-75-63-0265",
+  "doc_code": "4521-PLN-DOT-75-63-0265",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions and details for a project in Arizona Solar One Solana, including dimensions, orientations, and notes on materials and construction.",
+  "summary_points": [
+    "This document describes support definitions and details for a project in Arizona Solar One Solana, including dimensions, orientations, and notes on materials and construction."
+  ],
+  "keywords": [
+    "support definition",
+    "detail 1",
+    "detail b",
+    "non-rotation trunnion",
+    "thickness stiffeners",
+    "gap 1",
+    "lift-stop thk",
+    "existing structure",
+    "isometric reference point",
+    "side view",
+    "drawing information"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0265",
+    "Typical Standard 252-HTF-21F-S-007",
+    "General shoe with insulation",
+    "Anti-Lift Guide"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ab1b760fe7df2794.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ab1b760fe7df2794.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:10:39.626526+00:00",
+  "usage": {
+    "input_tokens": 1388,
+    "output_tokens": 532,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2674
+}

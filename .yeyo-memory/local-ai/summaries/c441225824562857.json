@@ -1,0 +1,44 @@
+{
+  "doc_id": "c441225824562857",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0279.pdf",
+  "title": "4521-PLN-DOT-75-63-0279",
+  "doc_code": "4521-PLN-DOT-75-63-0279",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Documentación técnica para soportes de tuberías MS, incluyendo detalles de diseño, materiales y especificaciones.",
+  "summary_points": [
+    "Documentación técnica para soportes de tuberías MS, incluyendo detalles de diseño, materiales y especificaciones."
+  ],
+  "keywords": [
+    "soportes",
+    "tuberías",
+    "MS",
+    "anti-fricción",
+    "tronco no rotativo",
+    "calzón",
+    "grafeno auto-lubricante",
+    "acero inoxidable"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0279",
+    "252-MS-03F-S-010"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c441225824562857.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c441225824562857.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:23:24.542999+00:00",
+  "usage": {
+    "input_tokens": 1394,
+    "output_tokens": 738,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2872
+}

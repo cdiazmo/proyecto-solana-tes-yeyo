@@ -1,0 +1,46 @@
+{
+  "doc_id": "ac0c546a27b1ac3e",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0316.pdf",
+  "title": "4521-PLN-DOT-75-63-0316",
+  "doc_code": "4521-PLN-DOT-75-63-0316",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions for rigid insulation, including dimensions, materials, and assembly details. It covers various types of shoes and profiles with specific load capacities.",
+  "summary_points": [
+    "This document describes support definitions for rigid insulation, including dimensions, materials, and assembly details. It covers various types of shoes and profiles with specific load capacities."
+  ],
+  "keywords": [
+    "support definition",
+    "rigid insulation",
+    "dimensions",
+    "materials",
+    "assembly details",
+    "shoes",
+    "profiles",
+    "load capacities"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0316",
+    "257-MS-12EF-S-015_P02",
+    "257-MS-12EF-S-015_P13",
+    "257-MS-12EF-S-015_E08"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ac0c546a27b1ac3e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ac0c546a27b1ac3e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:48:29.451474+00:00",
+  "usage": {
+    "input_tokens": 1746,
+    "output_tokens": 1327,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3907
+}

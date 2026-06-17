@@ -1,0 +1,44 @@
+{
+  "doc_id": "bf4498beca01f33a",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0274.pdf",
+  "title": "4521-PLN-DOT-75-63-0274",
+  "doc_code": "4521-PLN-DOT-75-63-0274",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support structures for pipes, including dimensions, materials, and installation details.",
+  "summary_points": [
+    "Document describing support structures for pipes, including dimensions, materials, and installation details."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "materials",
+    "installation",
+    "anti-friction plate",
+    "triple T",
+    "stiffeners"
+  ],
+  "references": [
+    "252-MS-03F-S-004",
+    "4521-PLN-DOT-75-63-0274"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the drawing sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bf4498beca01f33a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bf4498beca01f33a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:25:44.798521+00:00",
+  "usage": {
+    "input_tokens": 1380,
+    "output_tokens": 905,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2896
+}

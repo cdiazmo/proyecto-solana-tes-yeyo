@@ -1,0 +1,45 @@
+{
+  "doc_id": "5a73e1f429c3b115",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/RFI031_033 remolques temporales/4521-PLN-AEE-27-33-0001_Rev00_Temporary Power.pdf",
+  "title": "4521-PLN-AEE-27-33-0001 Rev00 Temporary Power",
+  "doc_code": "4521-PLN-AEE-27-33-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Temporary Power Plan for Office Trailer Tanks and Tool Trailer with AC Units.",
+  "summary_points": [
+    "Temporary Power Plan for Office Trailer Tanks and Tool Trailer with AC Units."
+  ],
+  "keywords": [
+    "Temporary Power",
+    "Office Trailer Tanks",
+    "Tool Trailer",
+    "AC Units",
+    "Solar Field",
+    "Trench",
+    "Area Map",
+    "Plant North"
+  ],
+  "references": [
+    "4521-PLN-AEE-27-33-",
+    "Rev00",
+    "Temporary Power Plan"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares, números y coordenadas incompletos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5a73e1f429c3b115.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5a73e1f429c3b115.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:53:32.636527+00:00",
+  "usage": {
+    "input_tokens": 1008,
+    "output_tokens": 344,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 706
+}

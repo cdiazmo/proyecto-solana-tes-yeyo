@@ -1,0 +1,45 @@
+{
+  "doc_id": "4a7525b55de79c92",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0320.pdf",
+  "title": "4521-PLN-DOT-75-63-0320",
+  "doc_code": "4521-PLN-DOT-75-63-0320",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definitions including dimensions, materials, and typical shoe types for insulation supports.",
+  "summary_points": [
+    "Document describing support definitions including dimensions, materials, and typical shoe types for insulation supports."
+  ],
+  "keywords": [
+    "support definition",
+    "front view",
+    "side view",
+    "pipe orientation",
+    "calcium silicate insulation",
+    "stainless steel plate",
+    "triple T shoe",
+    "drawing details"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0320",
+    "Typical Standard 257-MS-12EF-S-009",
+    "Guide for Triple Shoe"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and drawing details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4a7525b55de79c92.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4a7525b55de79c92.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:35:19.457799+00:00",
+  "usage": {
+    "input_tokens": 1742,
+    "output_tokens": 607,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3894
+}

@@ -1,0 +1,36 @@
+{
+  "doc_id": "1d84b5ad3ce1b7ef",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/RFI031_033 remolques temporales/4521-PLN-AEE-27-33-0004_Rev00_Temporary Power.pdf",
+  "title": "4521-PLN-AEE-27-33-0004 Rev00 Temporary Power",
+  "doc_code": "4521-PLN-AEE-27-33-",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Mapa del área, planta norte, fecha de expiración.",
+  "summary_points": [
+    "Mapa del área, planta norte, fecha de expiración."
+  ],
+  "keywords": [
+    "AREA MAP",
+    "PLANT NORTH",
+    "EXP"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1d84b5ad3ce1b7ef.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1d84b5ad3ce1b7ef.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:53:19.894928+00:00",
+  "usage": {
+    "input_tokens": 817,
+    "output_tokens": 102,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 430
+}

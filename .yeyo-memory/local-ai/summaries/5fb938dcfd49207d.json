@@ -1,0 +1,43 @@
+{
+  "doc_id": "5fb938dcfd49207d",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-67-71-P493_Rev01.pdf",
+  "title": "4521-PLN-AGE-67-71-P493 Rev01",
+  "doc_code": "4521-PLN-AGE-67-71-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document details the supply points and construction approvals for MS-HTF S&T HEX AREA.",
+  "summary_points": [
+    "Document details the supply points and construction approvals for MS-HTF S&T HEX AREA."
+  ],
+  "keywords": [
+    "4521-PLN-AGE-67-71-P493",
+    "MS-HTF S&T HEX AREA",
+    "supply point",
+    "drain tank pit",
+    "construction approval"
+  ],
+  "references": [
+    "4521-PLN-AGE-67-71-P493-GAR",
+    "EFR12NOV18",
+    "IFD17MAR17",
+    "RDAJMRL"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'EFR RDAJMRL' y 'PPTDOTEC'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5fb938dcfd49207d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5fb938dcfd49207d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:53:12.982499+00:00",
+  "usage": {
+    "input_tokens": 589,
+    "output_tokens": 344,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 327
+}

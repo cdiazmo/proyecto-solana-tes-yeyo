@@ -1,0 +1,43 @@
+{
+  "doc_id": "adcc5701e8eb30a8",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0293.pdf",
+  "title": "4521-PLN-DOT-75-63-0293",
+  "doc_code": "4521-PLN-DOT-75-63-0293",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design and specifications of a triple shoe support for pipes, including dimensions, materials, and installation details.",
+  "summary_points": [
+    "This document describes the design and specifications of a triple shoe support for pipes, including dimensions, materials, and installation details."
+  ],
+  "keywords": [
+    "support",
+    "triple shoe",
+    "pipe orientation",
+    "calcium silicate insulation",
+    "stainless steel plate",
+    "dimensions",
+    "material properties"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0293",
+    "252-MS-14F-S-002"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the notes section"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/adcc5701e8eb30a8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/adcc5701e8eb30a8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:21:35.504317+00:00",
+  "usage": {
+    "input_tokens": 1377,
+    "output_tokens": 575,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2762
+}

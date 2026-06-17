@@ -1,0 +1,45 @@
+{
+  "doc_id": "e7cc662ec9b2c46f",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0280.pdf",
+  "title": "4521-PLN-DOT-75-63-0280",
+  "doc_code": "4521-PLN-DOT-75-63-0280",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Soporte tuberías TES 6 MS con dimensiones, características y elementos proporcionados por el vendedor.",
+  "summary_points": [
+    "Soporte tuberías TES 6 MS con dimensiones, características y elementos proporcionados por el vendedor."
+  ],
+  "keywords": [
+    "soporte tuberías",
+    "TES 6 MS",
+    "dimensiones",
+    "anti-fricción",
+    "gráfico self-lubricante",
+    "base plate",
+    "tronco no rotativo",
+    "placa inoxidable"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0280",
+    "Drawing No: 123A4, 1234",
+    "Typical Standard 252-MS-03F-S-011"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e7cc662ec9b2c46f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e7cc662ec9b2c46f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:23:43.767975+00:00",
+  "usage": {
+    "input_tokens": 1400,
+    "output_tokens": 676,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2880
+}

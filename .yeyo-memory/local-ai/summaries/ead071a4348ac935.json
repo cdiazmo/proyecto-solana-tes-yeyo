@@ -1,0 +1,46 @@
+{
+  "doc_id": "ead071a4348ac935",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0288.pdf",
+  "title": "4521-PLN-DOT-75-63-0288",
+  "doc_code": "4521-PLN-DOT-75-63-0288",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definitions, including dimensions, materials, and profiles for rigid insulation and round bar. Includes details on typical shoes and stiffeners.",
+  "summary_points": [
+    "Document describing support definitions, including dimensions, materials, and profiles for rigid insulation and round bar. Includes details on typical shoes and stiffeners."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "materials",
+    "insulation",
+    "round bar",
+    "shoes",
+    "stiffeners",
+    "Abeinsa",
+    "drawing",
+    "scale"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0288",
+    "252-MS-13E-S-002"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and profile sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ead071a4348ac935.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ead071a4348ac935.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:19:18.752639+00:00",
+  "usage": {
+    "input_tokens": 1370,
+    "output_tokens": 813,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2753
+}

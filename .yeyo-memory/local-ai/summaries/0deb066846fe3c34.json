@@ -1,0 +1,46 @@
+{
+  "doc_id": "0deb066846fe3c34",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-PLN-DOT-75-63-0268.pdf",
+  "title": "4521-PLN-DOT-75-63-0268",
+  "doc_code": "4521-PLN-DOT-75-63-0268",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support definitions for a solar project, including dimensions, materials, and load specifications.",
+  "summary_points": [
+    "Document detailing support definitions for a solar project, including dimensions, materials, and load specifications."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "materials",
+    "loads",
+    "stiffeners",
+    "trunnion",
+    "microtherm sheet",
+    "stainless steel",
+    "T Support (H Profiles)",
+    "Arizona Solar One Solana"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0268",
+    "252-HTF-21F-S-010"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear dimensions and measurements"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0deb066846fe3c34.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0deb066846fe3c34.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:34:19.490074+00:00",
+  "usage": {
+    "input_tokens": 1741,
+    "output_tokens": 701,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3864
+}

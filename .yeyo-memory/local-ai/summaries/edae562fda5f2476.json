@@ -1,0 +1,46 @@
+{
+  "doc_id": "edae562fda5f2476",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0329.pdf",
+  "title": "4521-PLN-DOT-75-63-0329",
+  "doc_code": "4521-PLN-DOT-75-63-0329",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions for pipe structures, including dimensions, materials, and installation details.",
+  "summary_points": [
+    "This document describes support definitions for pipe structures, including dimensions, materials, and installation details."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "dimensions",
+    "material",
+    "installation",
+    "stainless steel",
+    "insulation",
+    "triple T",
+    "shoe"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0329",
+    "Typical Standard 257-MS-12EF-S-001",
+    "Guide for Triple Shoe"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/edae562fda5f2476.md",
+  "source_extracted_path": ".yeyo-memory/extracted/edae562fda5f2476.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:15:19.024177+00:00",
+  "usage": {
+    "input_tokens": 1361,
+    "output_tokens": 525,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2748
+}

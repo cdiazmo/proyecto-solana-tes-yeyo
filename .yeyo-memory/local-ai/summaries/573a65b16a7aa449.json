@@ -1,0 +1,51 @@
+{
+  "doc_id": "573a65b16a7aa449",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/4521-PLN-DOT-39-63-0901_Rev01.pdf",
+  "title": "4521-PLN-DOT-39-63-0901 Rev01",
+  "doc_code": "4521-PLN-DOT-39-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing General Mechanical Supports, including materials, quantities, and support schedule for a construction project.",
+  "summary_points": [
+    "Document describing General Mechanical Supports, including materials, quantities, and support schedule for a construction project."
+  ],
+  "keywords": [
+    "General Mechanical Supports",
+    "Special Support Revision",
+    "Purpose of issue",
+    "Job No. 120006",
+    "Legal Owner Hires",
+    "Created",
+    "Document Scale Drawing number",
+    "Sheet: Sheet No.",
+    "Existing Concrete Pad",
+    "HIT-Re 500 V3 Epoxy Adhesive Anchors",
+    "Gr. 60 #4 Rebar A706",
+    "Heavy Duty Light Pole Anchor Bolts"
+  ],
+  "references": [
+    "4521-PLN-DOT-39-63-0901 Rev01",
+    "Sheet 1",
+    "252-HTF-12F-S-003",
+    "252-HTF-12F-S-004_T04",
+    "257-MS-12EF-S-006"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/573a65b16a7aa449.md",
+  "source_extracted_path": ".yeyo-memory/extracted/573a65b16a7aa449.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:48:51.884869+00:00",
+  "usage": {
+    "input_tokens": 2949,
+    "output_tokens": 848,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3915
+}

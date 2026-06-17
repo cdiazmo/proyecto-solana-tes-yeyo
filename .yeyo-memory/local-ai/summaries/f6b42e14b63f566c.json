@@ -1,0 +1,41 @@
+{
+  "doc_id": "f6b42e14b63f566c",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0344.pdf",
+  "title": "4521-PLN-DOT-75-63-0344",
+  "doc_code": "4521-PLN-DOT-75-63-0344",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support structures for pipes, including details on shoe types, insulation, and assembly options.",
+  "summary_points": [
+    "Document describing support structures for pipes, including details on shoe types, insulation, and assembly options."
+  ],
+  "keywords": [
+    "support",
+    "pipe",
+    "shoe",
+    "insulation",
+    "assembly",
+    "vertical profile"
+  ],
+  "references": [
+    "255-MS-07F-S-005"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view notes and drawing details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f6b42e14b63f566c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f6b42e14b63f566c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:18:58.393137+00:00",
+  "usage": {
+    "input_tokens": 1347,
+    "output_tokens": 1410,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2753
+}

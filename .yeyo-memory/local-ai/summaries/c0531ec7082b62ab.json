@@ -1,0 +1,45 @@
+{
+  "doc_id": "c0531ec7082b62ab",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/4521-PLN-DOT-75-63-0326.pdf",
+  "title": "4521-PLN-DOT-75-63-0326",
+  "doc_code": "4521-PLN-DOT-75-63-0326",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support definitions for insulation and rigid structures, including dimensions, materials, and assembly details.",
+  "summary_points": [
+    "Document detailing support definitions for insulation and rigid structures, including dimensions, materials, and assembly details."
+  ],
+  "keywords": [
+    "support",
+    "insulation",
+    "rigid structure",
+    "dimensions",
+    "materials",
+    "assembly",
+    "shoe",
+    "stainless steel",
+    "load capacity"
+  ],
+  "references": [
+    "257-MS-12EF-S-011",
+    "4521-PLN-DOT-75-63-0326"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side views and assembly details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c0531ec7082b62ab.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c0531ec7082b62ab.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:26:24.040241+00:00",
+  "usage": {
+    "input_tokens": 1426,
+    "output_tokens": 1080,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2898
+}

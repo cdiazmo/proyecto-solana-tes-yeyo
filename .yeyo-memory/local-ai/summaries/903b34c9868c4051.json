@@ -1,0 +1,28 @@
+{
+  "doc_id": "903b34c9868c4051",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0281.pdf",
+  "title": "4521-PLN-DOT-75-63-0281",
+  "doc_code": "4521-PLN-DOT-75-63-0281",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/903b34c9868c4051.md",
+  "source_extracted_path": ".yeyo-memory/extracted/903b34c9868c4051.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:17:29.176475+00:00",
+  "usage": {
+    "input_tokens": 5493,
+    "output_tokens": 4032,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2749
+}

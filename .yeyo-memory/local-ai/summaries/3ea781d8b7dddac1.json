@@ -1,0 +1,46 @@
+{
+  "doc_id": "3ea781d8b7dddac1",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0321.pdf",
+  "title": "4521-PLN-DOT-75-63-0321",
+  "doc_code": "4521-PLN-DOT-75-63-0321",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definitions for pipe insulation, including dimensions, materials, and installation details.",
+  "summary_points": [
+    "Document describing support definitions for pipe insulation, including dimensions, materials, and installation details."
+  ],
+  "keywords": [
+    "support",
+    "pipe insulation",
+    "dimensions",
+    "materials",
+    "installation",
+    "stainless steel",
+    "shoe",
+    "triple T",
+    "calcium silicate"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0321",
+    "Typical Standard 257-MS-12EF-S-010",
+    "Guide for Triple Shoe"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3ea781d8b7dddac1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3ea781d8b7dddac1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:33:43.808503+00:00",
+  "usage": {
+    "input_tokens": 1700,
+    "output_tokens": 634,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3765
+}

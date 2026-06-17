@@ -1,0 +1,42 @@
+{
+  "doc_id": "edeba1053fa3d62e",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0279.pdf",
+  "title": "4521-PLN-DOT-75-63-0279",
+  "doc_code": "4521-PLN-DOT-75-63-0279",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Soporte para tuberías TES 6 MS con especificaciones de dimensiones, materiales y notas técnicas.",
+  "summary_points": [
+    "Soporte para tuberías TES 6 MS con especificaciones de dimensiones, materiales y notas técnicas."
+  ],
+  "keywords": [
+    "soporte",
+    "tuberías",
+    "TES 6 MS",
+    "dimensiones",
+    "materiales",
+    "fricción",
+    "tronco no rotativo"
+  ],
+  "references": [
+    "252-MS-03F-S-010",
+    "Arizona Solar One Solana",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/edeba1053fa3d62e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/edeba1053fa3d62e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:23:05.203996+00:00",
+  "usage": {
+    "input_tokens": 1395,
+    "output_tokens": 527,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2872
+}

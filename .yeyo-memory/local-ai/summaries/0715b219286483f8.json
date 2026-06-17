@@ -1,0 +1,46 @@
+{
+  "doc_id": "0715b219286483f8",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0313.pdf",
+  "title": "4521-PLN-DOT-75-63-0313",
+  "doc_code": "4521-PLN-DOT-75-63-0313",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Support definition with dimensions, materials, and notes. Drawing details include project information and signatures.",
+  "summary_points": [
+    "Support definition with dimensions, materials, and notes. Drawing details include project information and signatures."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "materials",
+    "notes",
+    "drawing",
+    "project",
+    "signatures"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0313",
+    "252-MS-04F-S-009",
+    "Arizona Solar One",
+    "JRC HRIGA",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "warnings": [
+    "OCR issues with some characters and symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0715b219286483f8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0715b219286483f8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:08:29.893185+00:00",
+  "usage": {
+    "input_tokens": 1258,
+    "output_tokens": 349,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2392
+}

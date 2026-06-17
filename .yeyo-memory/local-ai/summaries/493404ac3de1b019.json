@@ -26,10 +26,17 @@
     "Especifica materiales y características de válvulas y componentes para tuberías.",
     "Incluye listado detallado de tipos de válvulas con sus respectivos materiales y especificaciones internas.",
     "Menciona tablas de presión-temperatura para diferentes calibres de tuberías.",
-    "Requiere uso de válvulas de extremos soldados para servicios donde el fluido no esté en estado vapor."
+    "Requiere uso de válvulas de extremos soldados para servicios donde el fluido no esté en estado vapor.",
+    "Especificaciones de materiales y tuberías para diferentes presiones y temperaturas.",
+    "Incluye tablas de presión-temperatura para BAF9, DAA2 y DAA4.",
+    "Lista de válvulas con detalles técnicos como material, tamaño y rating.",
+    "Notas importantes sobre curva de tuberías y contacto de gráfito con sal.",
+    "Especifica materiales para tuberías y válvulas.",
+    "Incluye listado de válvulas con detalles técnicos como material, tamaño y características.",
+    "Tabla Presión-Temperatura establece limitaciones operativas.",
+    "Requiere revisión de FAA3 Rev.0."
   ],
-  "keywords": [],
-  "references": [
+  "keywords": [
     "ANSI B16.5",
     "ANSI B16.47",
     "ANSI B16.34",
@@ -51,19 +58,44 @@
     "BAA7",
     "BAA8"
   ],
+  "references": [
+    "ANSI B16.5",
+    "ANSI B16.47",
+    "ANSI B16.34",
+    "ASME B31.1 POWER PIPING CODE",
+    "ASME B31.8 Gas Transmission & distribution Piping Systems",
+    "ASME BPVC",
+    "AAA3 Rev.0",
+    "A105",
+    "A216 Gr.WCB",
+    "ANSI B16.11",
+    "ANSI B18.2.1",
+    "A182 Gr.F6",
+    "ASME B 31.1",
+    "Nota (1)",
+    "Nota (2)",
+    "Nota (3)",
+    "Nota (4)",
+    "Nota (5)",
+    "BAA7",
+    "BAA8",
+    "BAF9 Rev.0",
+    "DAA2 Rev.0",
+    "DAA4 Rev.1"
+  ],
   "warnings": [],
   "markdown_path": ".yeyo-memory/local-ai/markdown/493404ac3de1b019.md",
   "source_extracted_path": ".yeyo-memory/extracted/493404ac3de1b019.txt",
   "model": "claude-local-coder7b",
-  "generated_at": "2026-06-16T19:21:36.347814+00:00",
+  "generated_at": "2026-06-16T19:24:28.535827+00:00",
   "usage": {
-    "input_tokens": 27375,
-    "output_tokens": 11644,
-    "calls": 8
+    "input_tokens": 42719,
+    "output_tokens": 16681,
+    "calls": 13
   },
-  "repaired_calls": 2,
+  "repaired_calls": 4,
   "chunk_count": 9,
-  "completed_chunks": 6,
-  "completed": false,
+  "completed_chunks": 9,
+  "completed": true,
   "text_chars": 61601
 }

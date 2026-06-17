@@ -1,0 +1,47 @@
+{
+  "doc_id": "3f32e3f1477c1260",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0308.pdf",
+  "title": "4521-PLN-DOT-75-63-0308",
+  "doc_code": "4521-PLN-DOT-75-63-0308",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support definitions, including dimensions, materials, and profiles. Includes notes on vendor-provided elements and usage restrictions.",
+  "summary_points": [
+    "Document detailing support definitions, including dimensions, materials, and profiles. Includes notes on vendor-provided elements and usage restrictions."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "materials",
+    "stainless steel",
+    "shoe",
+    "profile",
+    "insulation",
+    "rigid insulation",
+    "round bar",
+    "Abeinsa",
+    "usage restrictions"
+  ],
+  "references": [
+    "257-MS-10F-S-002",
+    "4521-PLN-DOT-75-63-0308"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the notes and drawing details sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3f32e3f1477c1260.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3f32e3f1477c1260.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:11:38.051871+00:00",
+  "usage": {
+    "input_tokens": 1363,
+    "output_tokens": 905,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2747
+}

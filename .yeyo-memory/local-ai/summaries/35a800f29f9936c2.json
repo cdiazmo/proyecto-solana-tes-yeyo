@@ -1,0 +1,43 @@
+{
+  "doc_id": "35a800f29f9936c2",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-PLN-DOT-75-63-0268.pdf",
+  "title": "4521-PLN-DOT-75-63-0268",
+  "doc_code": "4521-PLN-DOT-75-63-0268",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the support definition for a project, including dimensions, notes, existing structure details, and drawing information.",
+  "summary_points": [
+    "This document describes the support definition for a project, including dimensions, notes, existing structure details, and drawing information."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "notes",
+    "existing structure",
+    "drawing details",
+    "typical standard",
+    "parameters definition"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0268",
+    "252-HTF-21F-S-010"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/35a800f29f9936c2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/35a800f29f9936c2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:33:59.371139+00:00",
+  "usage": {
+    "input_tokens": 1731,
+    "output_tokens": 504,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3864
+}

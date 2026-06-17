@@ -1,0 +1,49 @@
+{
+  "doc_id": "7a72d29123bc1a36",
+  "path": "03 GD Fabricacion LOI TES 6/Dibujos/4521-PLN-LOI-039-062-0003-GAR_rev00 NAME PLATE.pdf",
+  "title": "4521-PLN-LOI-039-062-0003-GAR rev00 NAME PLATE",
+  "doc_code": "4521-PLN-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for a name plate, including design specifications, materials, dimensions, and manufacturing instructions.",
+  "summary_points": [
+    "This document provides technical details for a name plate, including design specifications, materials, dimensions, and manufacturing instructions."
+  ],
+  "keywords": [
+    "name plate",
+    "heat exchanger",
+    "ASME VIII",
+    "AISI 304",
+    "aluminum rivets",
+    "matte black background",
+    "minimum character dimension",
+    "test pressure",
+    "serial number"
+  ],
+  "references": [
+    "ASME VIII, Div.2 Ed.2015",
+    "LOINTEK S.L./URDULIZ",
+    "AISI 304",
+    "ALUMINIUM 3",
+    "U2 stamp"
+  ],
+  "warnings": [
+    "Text is in multiple languages and may contain OCR errors.",
+    "Some measurements are missing units or values."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7a72d29123bc1a36.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7a72d29123bc1a36.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-16T20:04:36.136859+00:00",
+  "usage": {
+    "input_tokens": 2641,
+    "output_tokens": 450,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5055
+}

@@ -1,0 +1,43 @@
+{
+  "doc_id": "4e42519e042ea5fb",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521_PLN_AEE_68_71_P279-GAR_Rev07.pdf",
+  "title": "4521 PLN AEE 68 71 P279-GAR Rev07",
+  "doc_code": "4521-PLN-AEE-68-71-P279",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Hot Salt Tank with pressure regulation valves, drain back tank, and nitrogen utility supply. Connected to N2 system.",
+  "summary_points": [
+    "Hot Salt Tank with pressure regulation valves, drain back tank, and nitrogen utility supply. Connected to N2 system."
+  ],
+  "keywords": [
+    "4521 PLN AEE 68 71 P279",
+    "Hot Salt Tank",
+    "Pressure Regulation Valves",
+    "Drain Back Tank",
+    "Nitrogen Utility Supply",
+    "N2 System"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P279",
+    "4521-PLN-AGE-68-71-P273",
+    "4521-PLN-AEU-68-71-P279"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4e42519e042ea5fb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4e42519e042ea5fb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:51:56.658768+00:00",
+  "usage": {
+    "input_tokens": 2433,
+    "output_tokens": 434,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4111
+}

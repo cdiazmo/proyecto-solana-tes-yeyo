@@ -1,0 +1,47 @@
+{
+  "doc_id": "02a8bbf43b8e5c9e",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0519_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0519 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for Triple Shoe Insulated / Uninsulated in Arizona Solar One project.",
+  "summary_points": [
+    "Drawing for Triple Shoe Insulated / Uninsulated in Arizona Solar One project."
+  ],
+  "keywords": [
+    "Triple Shoe",
+    "Insulated",
+    "Uninsulated",
+    "Arizona Solar One",
+    "Abeinsa",
+    "EPC Contractor",
+    "Supplier Eng",
+    "Client"
+  ],
+  "references": [
+    "4521-PLN-ALL-75-63-",
+    "JRC HR IGA",
+    "Ildefonso Gonzalez, P.E. PhD",
+    "DH HB LJ",
+    "EV HH LJ"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos términos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/02a8bbf43b8e5c9e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/02a8bbf43b8e5c9e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T08:53:43.845619+00:00",
+  "usage": {
+    "input_tokens": 759,
+    "output_tokens": 481,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 969
+}
