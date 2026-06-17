@@ -245,12 +245,12 @@ async function loadRequests() {
     if (result && result.documents && result.documents.length > 0) {
       docs = `
         <div class="references-section">
-          <strong>Documentos encontrados:</strong>
+          <strong>Documentos encontrados (${result.documents.length}):</strong>
           <ul class="ref-list">
-            ${result.documents.slice(0, 15).map((d) => `
+            ${result.documents.map((d, index) => `
               <li>
                 <span class="ref-icon">📄</span>
-                <span class="ref-title" title="${escapeHtml(d.title || d.doc_code || d.path)}">${escapeHtml(d.title || d.doc_code || d.path)}</span>
+                <span class="ref-title" title="${escapeHtml(d.title || d.doc_code || d.path)}">Doc #${index + 1}: ${escapeHtml(d.title || d.doc_code || d.path)}</span>
                 <span class="ref-path" title="${escapeHtml(d.path)}">${escapeHtml(d.path)}</span>
                 <button class="btn-download-sm" onclick="downloadFile('${escapeHtml(d.path)}')">Descargar</button>
               </li>
@@ -264,12 +264,12 @@ async function loadRequests() {
     if (result && result.sources && result.sources.length > 0) {
       sources = `
         <div class="references-section">
-          <strong>Referencias y fuentes de información:</strong>
+          <strong>Referencias y fuentes de información (${result.sources.length}):</strong>
           <ul class="ref-list">
-            ${result.sources.map((s) => `
+            ${result.sources.map((s, index) => `
               <li>
                 <span class="ref-icon">📌</span>
-                <span class="ref-title" title="${escapeHtml(s.title || s.doc_code || s.path)}">${escapeHtml(s.title || s.doc_code || s.path)}</span>
+                <span class="ref-title" title="${escapeHtml(s.title || s.doc_code || s.path)}">Extracto #${index + 1}: ${escapeHtml(s.title || s.doc_code || s.path)}</span>
                 <span class="ref-path" title="${escapeHtml(s.path)}">${escapeHtml(s.path)}</span>
                 <button class="btn-download-sm" onclick="downloadFile('${escapeHtml(s.path)}')">Descargar</button>
               </li>

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from typing import Any
 
 from .db import agent_conn, audit, utcnow
@@ -58,6 +59,45 @@ def get_request(request_id: int) -> dict[str, Any] | None:
 import threading
 
 CUSTODIAN_LOCK = threading.Lock()
+
+
+DOC_CITATION_RE = re.compile(r"Doc\s*#\s*(\d+)", re.I)
+EXTRACT_CITATION_RE = re.compile(r"Extracto\s*#\s*(\d+)", re.I)
+
+
+def append_cited_reference_map(answer: str, documents: list[dict[str, Any]], chunks: list[dict[str, Any]]) -> str:
+    doc_nums = sorted({int(match.group(1)) for match in DOC_CITATION_RE.finditer(answer)})
+    extract_nums = sorted({int(match.group(1)) for match in EXTRACT_CITATION_RE.finditer(answer)})
+    if not doc_nums and not extract_nums:
+        return answer
+
+    lines: list[str] = []
+    if doc_nums:
+        lines.extend(["", "### Documentos citados", ""])
+        for num in doc_nums:
+            if num < 1 or num > len(documents):
+                lines.append(f"- [Doc #{num}]: no disponible en el resultado devuelto.")
+                continue
+            doc = documents[num - 1]
+            ref = doc.get("doc_code") or doc.get("title") or doc.get("path") or f"Documento {num}"
+            lines.append(f"- [Doc #{num}]: {ref} — `{doc.get('path') or '-'}`")
+
+    if extract_nums:
+        lines.extend(["", "### Extractos citados", ""])
+        for num in extract_nums:
+            if num < 1 or num > len(chunks):
+                lines.append(f"- [Extracto #{num}]: no disponible en el resultado devuelto.")
+                continue
+            chunk = chunks[num - 1]
+            ref = chunk.get("doc_code") or chunk.get("title") or chunk.get("path") or f"Extracto {num}"
+            loc = ""
+            if chunk.get("page"):
+                loc = f" pág./hoja {chunk.get('page')}"
+                if chunk.get("line"):
+                    loc += f", línea {chunk.get('line')}"
+            lines.append(f"- [Extracto #{num}]: {ref}{loc} — `{chunk.get('path') or '-'}`")
+
+    return answer.rstrip() + "\n" + "\n".join(lines)
 
 
 def run_next_request(custodian_id: int | None = None) -> dict[str, Any] | None:
@@ -121,6 +161,7 @@ def execute_request(row: dict[str, Any]) -> dict[str, Any]:
     if kind == "query":
         chunks, matched_docs, context = build_context(prompt)
         answer = ask_gemini(prompt, context) if gemini_available() else local_extractive_answer(prompt, context)
+        answer = append_cited_reference_map(answer, matched_docs, chunks)
         return {
             "answer": answer,
             "model": "gemini" if gemini_available() else "local-extractive",
