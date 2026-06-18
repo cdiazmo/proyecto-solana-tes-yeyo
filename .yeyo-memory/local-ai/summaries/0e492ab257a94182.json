@@ -1,0 +1,62 @@
+{
+  "doc_id": "0e492ab257a94182",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.5 Certificado pruebas.pdf",
+  "title": "5.10.3.5 Certificado pruebas",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Informe de comprobación de cables subterráneos de media tensión realizado por ASPREL INGENIERÍA S.L.\n- Instalación en ARENAS DE SAN JUAN, Ciudad Real\n- Medidas realizadas incluyen verificación de continuidad, identificación de fases y resistencia de pantallas\n- Normas aplicables: UNE 211006, RD 223/2008\n- El ensayo de rigidez de la cubierta se realiza aplicando una tensión continua de 10 kV y verifica que no haya perforación ni corriente de fuga superior a 2 mA/km.\n- Se inyecta 3-Uo en sistemas de 0,1Hz durante 15 minutos para verificar la resistencia de la cubierta.\n- Las medidas obtenidas son aceptables según los criterios de la NORMA UNE 211006.\n- Se verifica la continuidad y orden de fases mediante colores (marrón, verde, amarillo).\n- Se mide la resistencia ohmica de las pantallas con un Microohm 100A.",
+  "summary_points": [
+    "Informe de comprobación de cables subterráneos de media tensión realizado por ASPREL INGENIERÍA S.L.",
+    "Instalación en ARENAS DE SAN JUAN, Ciudad Real",
+    "Medidas realizadas incluyen verificación de continuidad, identificación de fases y resistencia de pantallas",
+    "Normas aplicables: UNE 211006, RD 223/2008",
+    "El ensayo de rigidez de la cubierta se realiza aplicando una tensión continua de 10 kV y verifica que no haya perforación ni corriente de fuga superior a 2 mA/km.",
+    "Se inyecta 3-Uo en sistemas de 0,1Hz durante 15 minutos para verificar la resistencia de la cubierta.",
+    "Las medidas obtenidas son aceptables según los criterios de la NORMA UNE 211006.",
+    "Se verifica la continuidad y orden de fases mediante colores (marrón, verde, amarillo).",
+    "Se mide la resistencia ohmica de las pantallas con un Microohm 100A."
+  ],
+  "keywords": [
+    "ASPREL INGENIERÍA",
+    "HELIOS 1 HYPERION ENERGY INVESTMENT, S.L.",
+    "INSTALACIONES INABENSA",
+    "D. Manuel Bustos Fonseca",
+    "UNE 211006",
+    "RD 223/2008",
+    "UNE 21143 apartado 5",
+    "NORMA UNE 211006",
+    "sebaKMT VLF 40/60 kV (SN: 23707540002)",
+    "Microohm 100A — Mi 3252 — METREL — NS: 10490162",
+    "VLF60 sebaKMT — NS: 23707540002"
+  ],
+  "references": [
+    "ASPREL INGENIERÍA",
+    "HELIOS 1 HYPERION ENERGY INVESTMENT, S.L.",
+    "INSTALACIONES INABENSA",
+    "D. Manuel Bustos Fonseca",
+    "UNE 211006",
+    "RD 223/2008",
+    "UNE 21143 apartado 5",
+    "NORMA UNE 211006",
+    "sebaKMT VLF 40/60 kV (SN: 23707540002)",
+    "Microohm 100A — Mi 3252 — METREL — NS: 10490162",
+    "VLF60 sebaKMT — NS: 23707540002"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0e492ab257a94182.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0e492ab257a94182.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:27:28.421204+00:00",
+  "usage": {
+    "input_tokens": 4875,
+    "output_tokens": 1730,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11629
+}

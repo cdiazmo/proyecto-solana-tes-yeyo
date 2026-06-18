@@ -1,0 +1,43 @@
+{
+  "doc_id": "c79c8d0687e25300",
+  "path": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-64-0002-GAR_901_Rev01_Automatic Valves List.xlsx",
+  "title": "4521-LIS-AEE-39-64-0002-GAR 901 Rev01 Automatic Valves List",
+  "doc_code": "4521-LIS-AEE-39-64-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document listing automatic valves for HEX replacement TES Solana project. Includes input data, assumptions, and client comments.",
+  "summary_points": [
+    "Document listing automatic valves for HEX replacement TES Solana project. Includes input data, assumptions, and client comments."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-64-0002",
+    "Automatic Valves List",
+    "HEX replacement",
+    "TES Solana",
+    "Input Data",
+    "Client Comments"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0019",
+    "4521-LIS-AEE-39-64-0002-GAR_Rev00_Automatic Valves List",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c79c8d0687e25300.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c79c8d0687e25300.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:45:26.896576+00:00",
+  "usage": {
+    "input_tokens": 1392,
+    "output_tokens": 748,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2625
+}

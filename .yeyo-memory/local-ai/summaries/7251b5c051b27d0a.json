@@ -1,0 +1,38 @@
+{
+  "doc_id": "7251b5c051b27d0a",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/Annex II.VI (Field Data 22072015).pdf",
+  "title": "Annex II.VI (Field Data 22072015)",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Field data and pump pressure readings for HTF Solana project.",
+  "summary_points": [
+    "Field data and pump pressure readings for HTF Solana project."
+  ],
+  "keywords": [
+    "Flow rates",
+    "Pump data",
+    "Pressure readings",
+    "HTF Solana",
+    "PIPE-FLO Professional 12"
+  ],
+  "references": [],
+  "warnings": [
+    "Text is repetitive and contains OCR errors."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7251b5c051b27d0a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7251b5c051b27d0a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:12:31.811101+00:00",
+  "usage": {
+    "input_tokens": 3196,
+    "output_tokens": 1620,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4523
+}

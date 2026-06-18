@@ -1,0 +1,43 @@
+{
+  "doc_id": "abeb853d4e4ee801",
+  "path": "12 As Built TES 6/01_M&P/03_Lists/4521-LIS-AEE-39-61-0002-GAR_Rev00/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.pdf",
+  "title": "4521-LIS-AEE-39-61-0002-GAR Rev00 Equipment List",
+  "doc_code": "4521-LIS-AEE-39-61-0002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists equipment for the MS Heat Exchanger and Drain Back Tank in the TES system of the Solana 250 MW Solar Power Plant.",
+  "summary_points": [
+    "This document lists equipment for the MS Heat Exchanger and Drain Back Tank in the TES system of the Solana 250 MW Solar Power Plant."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-61-0002",
+    "Shell&Tube Heat Exchanger",
+    "Drain Back Tank",
+    "Solana 250 MW Solar Power Plant",
+    "TES system"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P278-GAR",
+    "Lointek",
+    "4521-HDD-LOI-039-062-0001-GAR",
+    "GA Drawing 4521-PLN-LOI-039-062-0001-GAR"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares, especialmente en los números y referencias"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/abeb853d4e4ee801.md",
+  "source_extracted_path": ".yeyo-memory/extracted/abeb853d4e4ee801.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:09:59.075541+00:00",
+  "usage": {
+    "input_tokens": 1759,
+    "output_tokens": 1548,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3301
+}

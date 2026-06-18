@@ -1,0 +1,46 @@
+{
+  "doc_id": "bcfd204def90e49c",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Válvulas de colisión RFI035/Colliding Valves Removal Isometrics - HEX Transmittal 11-26-2018.pdf",
+  "title": "Colliding Valves Removal Isometrics - HEX Transmittal 11-26-2018",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Transmisión de documentos técnicos relacionados con la eliminación de válvulas colisionantes y sus planos isométricos.",
+  "summary_points": [
+    "Transmisión de documentos técnicos relacionados con la eliminación de válvulas colisionantes y sus planos isométricos."
+  ],
+  "keywords": [
+    "Colliding Valves",
+    "Removal Isometrics",
+    "HEX Transmittal",
+    "Atlantica Yield",
+    "Piping & Instrumentation",
+    "Drawings",
+    "Specifications"
+  ],
+  "references": [
+    "RFI035",
+    "255-HTF-20F-CS30-1_Rev02_Sht_1.pdf",
+    "255-HTF-21F-CS30-1_Rev02_Sht_1.pdf",
+    "255-HTF-22F-CS30-1_rev02_Sht_1.pdf",
+    "255-HTF-23F-CS30-1__Rev02_Sht_1.pdf"
+  ],
+  "warnings": [
+    "Texto incompleto en algunas líneas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bcfd204def90e49c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bcfd204def90e49c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:33:00.944947+00:00",
+  "usage": {
+    "input_tokens": 913,
+    "output_tokens": 734,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1366
+}

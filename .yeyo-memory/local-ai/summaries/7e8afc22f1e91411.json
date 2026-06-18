@@ -1,0 +1,43 @@
+{
+  "doc_id": "7e8afc22f1e91411",
+  "path": "01 GD AE/Electrico/LIS/4521-LIS-AEE-39-40-0011-GAR_901_R00_ TES Area Electric cable list Unit 5-6.xlsx",
+  "title": "4521-LIS-AEE-39-40-0011-GAR 901 R00 TES Area Electric cable list Unit 5-6",
+  "doc_code": "4521-LIS-AEE-39-40-0011",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Listados e indices",
+  "summary": "TCS for HEX replacement TES Solana, document details, input data, assumptions, and client comments.",
+  "summary_points": [
+    "TCS for HEX replacement TES Solana, document details, input data, assumptions, and client comments."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-40-0011-GAR",
+    "HEX replacement TES Solana",
+    "AEPC USA",
+    "IFD",
+    "cable list",
+    "assumptions",
+    "client comments"
+  ],
+  "references": [
+    "4521-LIS-AGE-39-40-0010_GAR_901_Rev00_TES Area Electric consumer list Unit 5-6",
+    "4521-PLN-AEE-27-31-1-GAR_R00_New Consumer Layout"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7e8afc22f1e91411.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7e8afc22f1e91411.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:08:23.721869+00:00",
+  "usage": {
+    "input_tokens": 1365,
+    "output_tokens": 573,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2672
+}

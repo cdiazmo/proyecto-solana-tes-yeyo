@@ -1,0 +1,61 @@
+{
+  "doc_id": "9ce4055b1024e983",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0008-GAR_Rev01  - IV.pdf",
+  "title": "4521-INS-LOI-039-062-0008-GAR Rev01 - IV",
+  "doc_code": "4521-INS-LOI-039-062-0008",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document is a Visual Inspection Procedure for weld seams and base materials.\n- It applies to Arizona Solar One's HEX replacement TES Solana project.\n- Visual examinations are required before post-weld heat treatment if not specified otherwise.\n- Inspection criteria include surface finish, irregularities, cracks, joint geometry, and more.\n- Remote visual examination can be used when direct access is not possible.\n- A reduction in thickness due to welding process is limited to 0.8mm or 10% of the nominal thickness.\n- Weld reinforcement must have a smooth transition with the base material and not exceed specified thicknesses.\n- Concavity due to welding on the root side of circumferential butt welds is allowed if it meets certain criteria.\n- Alignment tolerance for butt welded sections requires offsets not exceeding values in Tables 3a & 3b.\n- Unacceptable indications must be removed or reduced, and repairs may require rewelding by qualified personnel.",
+  "summary_points": [
+    "The document is a Visual Inspection Procedure for weld seams and base materials.",
+    "It applies to Arizona Solar One's HEX replacement TES Solana project.",
+    "Visual examinations are required before post-weld heat treatment if not specified otherwise.",
+    "Inspection criteria include surface finish, irregularities, cracks, joint geometry, and more.",
+    "Remote visual examination can be used when direct access is not possible.",
+    "A reduction in thickness due to welding process is limited to 0.8mm or 10% of the nominal thickness.",
+    "Weld reinforcement must have a smooth transition with the base material and not exceed specified thicknesses.",
+    "Concavity due to welding on the root side of circumferential butt welds is allowed if it meets certain criteria.",
+    "Alignment tolerance for butt welded sections requires offsets not exceeding values in Tables 3a & 3b.",
+    "Unacceptable indications must be removed or reduced, and repairs may require rewelding by qualified personnel."
+  ],
+  "keywords": [
+    "ASME Code, Section V",
+    "ASME Code, Section VIII Div1 y Div2",
+    "ASME Section I",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "SNT-TC-1A",
+    "ASME VIII Div.1 & Div.2",
+    "Table 2a",
+    "Table 2b",
+    "Table 3a",
+    "Table 3b"
+  ],
+  "references": [
+    "ASME Code, Section V",
+    "ASME Code, Section VIII Div1 y Div2",
+    "ASME Section I",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "SNT-TC-1A",
+    "ASME VIII Div.1 & Div.2",
+    "Table 2a",
+    "Table 2b",
+    "Table 3a",
+    "Table 3b"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9ce4055b1024e983.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9ce4055b1024e983.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:06:11.715207+00:00",
+  "usage": {
+    "input_tokens": 4211,
+    "output_tokens": 3052,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12603
+}

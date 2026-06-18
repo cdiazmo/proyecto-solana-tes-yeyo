@@ -1,0 +1,57 @@
+{
+  "doc_id": "e16b49d9ea7d9640",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260325/1950801-PLN-0040-00 Planificacion.pdf",
+  "title": "1950801-PLN-0040-00 Planificacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "- El proyecto se llama ATLANTICA ubicado en Córdoba, España.\n- Se suministra por LOINTEK con el número de documento 1950801-PLN-0040-00.\n- La planificación incluye tareas como ingeniería básica, fabricación y montaje.\n- El proyecto tiene múltiples hitos y tareas detalladas distribuidas en varios semestres.\n- El cliente es Atlantica Yield con una referencia de oferta 1950801.\n- Tareas relacionadas con la construcción y operación de la planta termosolar Helios I y II.\n- Involucran supervisión, instalación, calibración y pruebas de seguridad.\n- Se incluyen tareas como obra civil, estructura, piping, instrumentación y control.\n- La planta se entrega a la comisión en junio de 2028.\n- Las principales fechas clave están marcadas para cada tarea.",
+  "summary_points": [
+    "El proyecto se llama ATLANTICA ubicado en Córdoba, España.",
+    "Se suministra por LOINTEK con el número de documento 1950801-PLN-0040-00.",
+    "La planificación incluye tareas como ingeniería básica, fabricación y montaje.",
+    "El proyecto tiene múltiples hitos y tareas detalladas distribuidas en varios semestres.",
+    "El cliente es Atlantica Yield con una referencia de oferta 1950801.",
+    "Tareas relacionadas con la construcción y operación de la planta termosolar Helios I y II.",
+    "Involucran supervisión, instalación, calibración y pruebas de seguridad.",
+    "Se incluyen tareas como obra civil, estructura, piping, instrumentación y control.",
+    "La planta se entrega a la comisión en junio de 2028.",
+    "Las principales fechas clave están marcadas para cada tarea."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "CORDOBA (SPAIN)",
+    "LOINTEK",
+    "1950801-PLN-0040-00",
+    "Atlantica Yield",
+    "1950801",
+    "PLANTA TERMOSOLAR HELIOS I y II"
+  ],
+  "references": [
+    "ATLANTICA",
+    "CORDOBA (SPAIN)",
+    "LOINTEK",
+    "1950801-PLN-0040-00",
+    "Atlantica Yield",
+    "1950801",
+    "PLANTA TERMOSOLAR HELIOS I y II"
+  ],
+  "warnings": [
+    "El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e16b49d9ea7d9640.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e16b49d9ea7d9640.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:22:52.384452+00:00",
+  "usage": {
+    "input_tokens": 6718,
+    "output_tokens": 2524,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10236
+}

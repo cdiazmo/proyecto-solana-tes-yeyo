@@ -1,0 +1,41 @@
+{
+  "doc_id": "fed4876dd1d16022",
+  "path": "Documentos en Servidor Atlántica/1950801-DWG-1000-10-DIMENSIONES OBRA CIVIL.pdf",
+  "title": "1950801-DWG-1000-10-DIMENSIONES OBRA CIVIL",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Dimensiones técnicas de tanques y fosos para obra civil, incluyendo dimensiones en milímetros.",
+  "summary_points": [
+    "Dimensiones técnicas de tanques y fosos para obra civil, incluyendo dimensiones en milímetros."
+  ],
+  "keywords": [
+    "tanque",
+    "foso",
+    "intercambiador",
+    "dimensiones",
+    "obra civil"
+  ],
+  "references": [
+    "1950801-DWG-1000-10",
+    "SOLACOR I & II TES SYSTEMPROVEEDOR"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas, especialmente números y dimensiones."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fed4876dd1d16022.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fed4876dd1d16022.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:17:54.616026+00:00",
+  "usage": {
+    "input_tokens": 939,
+    "output_tokens": 439,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 948
+}

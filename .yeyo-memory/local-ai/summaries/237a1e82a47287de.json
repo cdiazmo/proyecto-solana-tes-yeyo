@@ -1,0 +1,44 @@
+{
+  "doc_id": "237a1e82a47287de",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-DWG-1000-00-DISPOSICION GENERAL.pdf",
+  "title": "1950801-DWG-1000-00-DISPOSICION GENERAL",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Disposición general del proyecto incluyendo tanques, sistemas de aceite y bombas. Referencias técnicas.",
+  "summary_points": [
+    "Disposición general del proyecto incluyendo tanques, sistemas de aceite y bombas. Referencias técnicas."
+  ],
+  "keywords": [
+    "tanque",
+    "sales",
+    "intercambiador",
+    "bombas",
+    "esquema civil",
+    "apoio",
+    "foso"
+  ],
+  "references": [
+    "1950801-DWG-1000-00",
+    "SOLACOR I & II TES SYSTEM",
+    "MAHUOADSZ"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varias páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/237a1e82a47287de.md",
+  "source_extracted_path": ".yeyo-memory/extracted/237a1e82a47287de.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:51:23.280471+00:00",
+  "usage": {
+    "input_tokens": 2026,
+    "output_tokens": 873,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2266
+}

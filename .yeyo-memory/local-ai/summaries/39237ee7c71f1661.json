@@ -1,0 +1,51 @@
+{
+  "doc_id": "39237ee7c71f1661",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/Contrato cesión de titularidad de líneas eléctricas.doc",
+  "title": "Contrato cesión de titularidad de líneas eléctricas",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Contrato entre Valeriano Lorenzo S.A., Masa Lorenzo S.L. y Helios I/II Hyperion Energy Investments S.L. para la cesión de titularidad de líneas eléctricas a las plantas solares termoeléctricas de Helios.",
+  "summary_points": [
+    "Contrato entre Valeriano Lorenzo S.A., Masa Lorenzo S.L. y Helios I/II Hyperion Energy Investments S.L. para la cesión de titularidad de líneas eléctricas a las plantas solares termoeléctricas de Helios."
+  ],
+  "keywords": [
+    "Contrato",
+    "Cesión",
+    "Titularidad",
+    "Líneas eléctricas",
+    "Helios I",
+    "Helios II",
+    "Valeriano Lorenzo S.A.",
+    "Masa Lorenzo S.L.",
+    "Plantas solares"
+  ],
+  "references": [
+    "13210201970",
+    "13240200172",
+    "13230420126",
+    "13210201969",
+    "13240203624",
+    "13240203625",
+    "13240203626"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares, como 'CIF A-13046438' y 'CIF B-13349493'.",
+    "Fecha de firma incompleta."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/39237ee7c71f1661.md",
+  "source_extracted_path": ".yeyo-memory/extracted/39237ee7c71f1661.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T03:48:41.204855+00:00",
+  "usage": {
+    "input_tokens": 2250,
+    "output_tokens": 514,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5959
+}

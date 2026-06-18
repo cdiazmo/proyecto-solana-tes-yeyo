@@ -1,0 +1,43 @@
+{
+  "doc_id": "93aafa6acf34e3bf",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0012-GAR-901 PQR.xlsx",
+  "title": "4521-INS-LOI-039-062-0012-GAR-901 PQR",
+  "doc_code": "4521-INS-LOI-039-062-0012",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "TCS for HEX replacement TES Solana project, revision 0, issued by Abeinsa Engineering on 2016-12-16.",
+  "summary_points": [
+    "TCS for HEX replacement TES Solana project, revision 0, issued by Abeinsa Engineering on 2016-12-16."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "revision 0",
+    "input data change"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0012-GAR",
+    "IFD",
+    "4521-TMT-AEE-AEPC-0030"
+  ],
+  "warnings": [
+    "#VALUE! entries in multiple fields, possibly OCR errors"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/93aafa6acf34e3bf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/93aafa6acf34e3bf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:28:06.519730+00:00",
+  "usage": {
+    "input_tokens": 1076,
+    "output_tokens": 298,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2035
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "4ec275b8d9a260c6",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0321_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0321 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describes pipe supports with details on dimensions, materials, and construction methods.",
+  "summary_points": [
+    "Document describes pipe supports with details on dimensions, materials, and construction methods."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "construction",
+    "stainless steel",
+    "insulation"
+  ],
+  "references": [
+    "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0321_R01.pdf",
+    "4521-PLN-DOT-75-63-",
+    "Triple T shoe",
+    "Stainless steel plate"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4ec275b8d9a260c6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4ec275b8d9a260c6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:06:32.063972+00:00",
+  "usage": {
+    "input_tokens": 1694,
+    "output_tokens": 460,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3817
+}

@@ -1,0 +1,47 @@
+{
+  "doc_id": "a2d3eb79beac7910",
+  "path": "05 GD Fabricación Tecnica de Compra/Deposito drenaje/18-067 Rev.A.pdf",
+  "title": "18-067 Rev.A",
+  "doc_code": "",
+  "revision": "Rev.A",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Planos",
+  "summary": "This document describes a molten salt tank with detailed specifications including dimensions, materials, and construction codes. It is certified under ASME Section VIII Division 1.",
+  "summary_points": [
+    "This document describes a molten salt tank with detailed specifications including dimensions, materials, and construction codes. It is certified under ASME Section VIII Division 1."
+  ],
+  "keywords": [
+    "molten salt tank",
+    "ASME Section VIII",
+    "SA516-70",
+    "construction details",
+    "pressure relief",
+    "welding procedures"
+  ],
+  "references": [
+    "ASME Section VIII Division 1",
+    "SA516-70",
+    "SA516-702",
+    "SA516-704",
+    "SA516-7012",
+    "SA516-7017"
+  ],
+  "warnings": [
+    "Serial Number and National Board # are blank",
+    "Some dimensions and pressures are placeholders"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a2d3eb79beac7910.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a2d3eb79beac7910.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:06:51.388026+00:00",
+  "usage": {
+    "input_tokens": 4227,
+    "output_tokens": 959,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7127
+}

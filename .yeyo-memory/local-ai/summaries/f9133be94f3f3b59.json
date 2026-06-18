@@ -1,0 +1,45 @@
+{
+  "doc_id": "f9133be94f3f3b59",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0272_R02.pdf",
+  "title": "4521-PLN-DOT-75-63-0272 R02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design and dimensions of support structures for pipe insulation, including details on shoe types, materials, and construction requirements.",
+  "summary_points": [
+    "This document describes the design and dimensions of support structures for pipe insulation, including details on shoe types, materials, and construction requirements."
+  ],
+  "keywords": [
+    "support structure",
+    "pipe insulation",
+    "shoe type",
+    "stainless steel",
+    "insulation",
+    "dimensions",
+    "construction"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0272",
+    "ARIZONA SOLAR ONE",
+    "Cl... SOLANA",
+    "Typical Standard+-'------------------------------- ----1::5 252-MS-03F-S-002"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f9133be94f3f3b59.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f9133be94f3f3b59.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:03:03.026738+00:00",
+  "usage": {
+    "input_tokens": 1601,
+    "output_tokens": 639,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3458
+}

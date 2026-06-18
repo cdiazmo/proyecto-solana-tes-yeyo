@@ -1,0 +1,53 @@
+{
+  "doc_id": "5563117b65f64f48",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-002 Monthly Report - 2020 March.pdf",
+  "title": "19500201-INF-002 Monthly Report - 2020 March",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly Progress Report for Arizona Solar One project\n- Engineering, Purchases, Manufacturing, Supplies tasks reported\n- No open issues or troubles detected\n- Invoices include advance payment and practical completion milestones\n- Surface preparation and shipping processes for Units 3 to 6.\n- Equipment ready for loading and transport with specific dates.\n- Document list includes revision details and purchase plan for materials.",
+  "summary_points": [
+    "Monthly Progress Report for Arizona Solar One project",
+    "Engineering, Purchases, Manufacturing, Supplies tasks reported",
+    "No open issues or troubles detected",
+    "Invoices include advance payment and practical completion milestones",
+    "Surface preparation and shipping processes for Units 3 to 6.",
+    "Equipment ready for loading and transport with specific dates.",
+    "Document list includes revision details and purchase plan for materials."
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-002",
+    "UO, MG, MG (Reviewers/Approvers)",
+    "Atlantica Yield, Aceite Sales Solana 2ª parte Rev 0 / 19‐09‐19",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 0 / 19-09-19"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-002",
+    "UO, MG, MG (Reviewers/Approvers)",
+    "Atlantica Yield, Aceite Sales Solana 2ª parte Rev 0 / 19‐09‐19",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 0 / 19-09-19"
+  ],
+  "warnings": [
+    "Some information in Annex II and III is not provided in the text",
+    "Invoice details for M3 and M4 are incomplete"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5563117b65f64f48.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5563117b65f64f48.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:42:28.786050+00:00",
+  "usage": {
+    "input_tokens": 7148,
+    "output_tokens": 2246,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13532
+}

@@ -1,0 +1,52 @@
+{
+  "doc_id": "09831b0b421e8935",
+  "path": "Documentos en Servidor Atlántica/Comentarios documentación Lointek - 260428.xlsx",
+  "title": "Comentarios documentación Lointek - 260428",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Se necesita información sobre los intercambiadores, tanques y nivel de volumen almacenable.\n- El bombeo del drenaje de sales se realiza desde el tanque.\n- Es necesario un listado detallado de líneas con datos técnicos.\n- La documentación gráfica es básica; se requiere una descripción más detallada.\n- Se necesita información sobre la obra civil, incluyendo dimensiones y planos.\n- Lointek preparará una hoja de datos del tanque de drenaje.\n- No hay especificaciones en el pliego de prescripciones técnicas particulares.\n- El presupuesto y mediciones no están cubiertos.",
+  "summary_points": [
+    "Se necesita información sobre los intercambiadores, tanques y nivel de volumen almacenable.",
+    "El bombeo del drenaje de sales se realiza desde el tanque.",
+    "Es necesario un listado detallado de líneas con datos técnicos.",
+    "La documentación gráfica es básica; se requiere una descripción más detallada.",
+    "Se necesita información sobre la obra civil, incluyendo dimensiones y planos.",
+    "Lointek preparará una hoja de datos del tanque de drenaje.",
+    "No hay especificaciones en el pliego de prescripciones técnicas particulares.",
+    "El presupuesto y mediciones no están cubiertos."
+  ],
+  "keywords": [
+    "1950801-PID-3030-00 P&ID",
+    "1950801-CAL-0550-25 H&MB",
+    "1950801-DWG-1000-00-DISPOSICION GENERAL",
+    "Pliego de Prescripciones Técnicas Particulares",
+    "Presupuesto y mediciones"
+  ],
+  "references": [
+    "1950801-PID-3030-00 P&ID",
+    "1950801-CAL-0550-25 H&MB",
+    "1950801-DWG-1000-00-DISPOSICION GENERAL",
+    "Pliego de Prescripciones Técnicas Particulares",
+    "Presupuesto y mediciones"
+  ],
+  "warnings": [
+    "Fragmento confuso: '¿¿¿???'",
+    "No se especifica el origen del texto extraído."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/09831b0b421e8935.md",
+  "source_extracted_path": ".yeyo-memory/extracted/09831b0b421e8935.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T00:46:50.335083+00:00",
+  "usage": {
+    "input_tokens": 7160,
+    "output_tokens": 3608,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9944
+}

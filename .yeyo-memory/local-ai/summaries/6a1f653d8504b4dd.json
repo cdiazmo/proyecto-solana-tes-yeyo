@@ -1,0 +1,44 @@
+{
+  "doc_id": "6a1f653d8504b4dd",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0005-GAR_901_Piping MTO.xlsx",
+  "title": "4521-LIS-LOI-039-062-0005-GAR 901 Piping MTO",
+  "doc_code": "4521-LIS-LOI-039-062-0005",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Listados e indices",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, revision 0 from 2016-10-27. Input data change noted.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, revision 0 from 2016-10-27. Input data change noted."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "4521-LIS-LOI-039-062-0005-GAR_901",
+    "Input data change"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0005-GAR_901",
+    "4521-TMT-AEE-AEPC-0008",
+    "4521-PLN-AEE-00-00-0001-GAR_901_Layout new exchangers"
+  ],
+  "warnings": [
+    "OCR defectuoso en 't new exchangers' y 'xx'",
+    "Texto incompleto en Client Main Comments y Annexes to Comments"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6a1f653d8504b4dd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6a1f653d8504b4dd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:13:16.961516+00:00",
+  "usage": {
+    "input_tokens": 1166,
+    "output_tokens": 425,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2194
+}

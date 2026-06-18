@@ -1,0 +1,44 @@
+{
+  "doc_id": "d9040aba9b17602a",
+  "path": "Helios Sole/Helios II/3.3.3 Acta señalamiento HII.pdf",
+  "title": "3.3.3 Acta señalamiento HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Acta de señalamiento para el transplante de encinas y descuaje de vegetación natural, con protocolo de actuación y manifestaciones de ADMON e titular.",
+  "summary_points": [
+    "Acta de señalamiento para el transplante de encinas y descuaje de vegetación natural, con protocolo de actuación y manifestaciones de ADMON e titular."
+  ],
+  "keywords": [
+    "transplante",
+    "encinas",
+    "descuaje",
+    "vegetación",
+    "ADMON",
+    "titular",
+    "señalamiento"
+  ],
+  "references": [
+    "Resolución 26 de marzo de 2009",
+    "D.LA. de 3 de abril de 2008",
+    "Estudio Medio Ambiental de soporte"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d9040aba9b17602a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d9040aba9b17602a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T01:39:19.862586+00:00",
+  "usage": {
+    "input_tokens": 1954,
+    "output_tokens": 457,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5171
+}

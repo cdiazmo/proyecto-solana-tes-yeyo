@@ -1,0 +1,50 @@
+{
+  "doc_id": "46490ec52af3daea",
+  "path": "03 GD Fabricacion LOI TES 6/Listas/4521-LIS-LOI-039-062-0001-GAR_Rev01 Document List.pdf",
+  "title": "4521-LIS-LOI-039-062-0001-GAR Rev01 Document List",
+  "doc_code": "4521-LIS-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document list for HEX replacement TES Solana project. Includes document codes, revisions, and review control sheet.",
+  "summary_points": [
+    "Document list for HEX replacement TES Solana project. Includes document codes, revisions, and review control sheet."
+  ],
+  "keywords": [
+    "document list",
+    "HEX replacement",
+    "TES Solana",
+    "Arizona Solar One",
+    "revision control sheet",
+    "manufacturing planning",
+    "progress report",
+    "quality plan",
+    "inspection point program",
+    "saddle detail drawings",
+    "nozzle details drawings"
+  ],
+  "references": [
+    "SOLANA SOLAR POWER PLANT (ARIZONA, USA)",
+    "OIL TO SALT HEAT EXCHANGERS",
+    "VSC: Viewed without comments",
+    "VCC: Viewed with comments",
+    "R: Rejected"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/46490ec52af3daea.md",
+  "source_extracted_path": ".yeyo-memory/extracted/46490ec52af3daea.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:01:26.509753+00:00",
+  "usage": {
+    "input_tokens": 3831,
+    "output_tokens": 718,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5457
+}

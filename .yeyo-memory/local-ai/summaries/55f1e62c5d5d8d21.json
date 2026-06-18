@@ -1,0 +1,46 @@
+{
+  "doc_id": "55f1e62c5d5d8d21",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0008-GAR Rev.0 Ultrasonic Examination Procedure.xlsx",
+  "title": "4521-INS-LOI-039-062-0008-GAR Rev.0 Ultrasonic Examination Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0008",
+  "revision": "Rev.0",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "This document outlines the ultrasonic examination procedure for a HEX replacement TES Solana project. It includes sections on assumptions, holds, and client comments.",
+  "summary_points": [
+    "This document outlines the ultrasonic examination procedure for a HEX replacement TES Solana project. It includes sections on assumptions, holds, and client comments."
+  ],
+  "keywords": [
+    "Ultrasonic Examination Procedure",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Client Comments",
+    "Approved Document"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0008-GAR",
+    "AEPC USA",
+    "IFD",
+    "IFB",
+    "IFP",
+    "IFC"
+  ],
+  "warnings": [
+    "OCR dudoso en varios campos, como 'Client Transmittal Number' y 'Answer Date'",
+    "Falta información en algunos campos de los comentarios del cliente"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/55f1e62c5d5d8d21.md",
+  "source_extracted_path": ".yeyo-memory/extracted/55f1e62c5d5d8d21.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:56:23.567294+00:00",
+  "usage": {
+    "input_tokens": 1167,
+    "output_tokens": 446,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2257
+}

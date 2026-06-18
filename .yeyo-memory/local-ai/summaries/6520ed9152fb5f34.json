@@ -1,0 +1,50 @@
+{
+  "doc_id": "6520ed9152fb5f34",
+  "path": "01 GD AE/I&C/PLN/4521-PLN-AEE-39-70-0001-GAR_901 Rev.00 I&C cable routing.xlsx",
+  "title": "4521-PLN-AEE-39-70-0001-GAR 901 Rev.00 I&C cable routing",
+  "doc_code": "4521-PLN-AEE-39-70-0001",
+  "revision": "Rev.00",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document detailing I&C cable routing for HEX replacement TES Solana project. Includes input data, assumptions, and reasons for revision.",
+  "summary_points": [
+    "Document detailing I&C cable routing for HEX replacement TES Solana project. Includes input data, assumptions, and reasons for revision."
+  ],
+  "keywords": [
+    "I&C cable routing",
+    "HEX replacement",
+    "TES Solana",
+    "input data",
+    "assumptions",
+    "reasons for revision"
+  ],
+  "references": [
+    "4521-PLN-AEE-39-70-0001-GAR_901 Rev.00 I&C cable routing",
+    "4521-TMT-AEE-AEPC-0065",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P274-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02",
+    "4521-LIS-AEE-000-070-0001-GAR Rev.01",
+    "4521-LIS-AEE-39-45-0001-GAR Rev.00",
+    "4521-LIS-AEE-39-70-0016-GAR Rev.00",
+    "4521-PLN-AEE-27-31-0002-GAR Rev.00"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6520ed9152fb5f34.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6520ed9152fb5f34.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:20:10.503920+00:00",
+  "usage": {
+    "input_tokens": 1538,
+    "output_tokens": 851,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2847
+}

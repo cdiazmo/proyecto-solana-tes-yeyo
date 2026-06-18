@@ -1,0 +1,43 @@
+{
+  "doc_id": "d14b6b4faad9c574",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AEE-39-40-0003-GAR-901_R00 Lighting design.xlsx",
+  "title": "4521-PLN-AEE-39-40-0003-GAR-901 R00 Lighting design",
+  "doc_code": "4521-PLN-AEE-39-40-0003",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Lighting design document for HEX replacement TES Solana, using EATONS CROUSE-HINDS BUSINESS FMV lighting. Document is in draft status.",
+  "summary_points": [
+    "Lighting design document for HEX replacement TES Solana, using EATONS CROUSE-HINDS BUSINESS FMV lighting. Document is in draft status."
+  ],
+  "keywords": [
+    "lighting design",
+    "HEX replacement",
+    "TES Solana",
+    "EATONS CROUSE-HINDS",
+    "FMVSY150MT76",
+    "draft"
+  ],
+  "references": [
+    "4521-PLN-AEE-39-40-0003-GAR901",
+    "4521-TMT-AEE-AEPC-0061",
+    "EATONS CROUSE-HINDS BUSINESS FMV FMVSY150MT76"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly dates and document codes."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d14b6b4faad9c574.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d14b6b4faad9c574.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:05:38.513205+00:00",
+  "usage": {
+    "input_tokens": 1232,
+    "output_tokens": 509,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2333
+}

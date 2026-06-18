@@ -1,0 +1,43 @@
+{
+  "doc_id": "7ebb089e2f54c8e2",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0353.pdf",
+  "title": "4521-PLN-DOT-75-63-0353",
+  "doc_code": "4521-PLN-DOT-75-63-0353",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the support definition, orientation, base plate, dimensions, and notes for reinforced pads in a typical assembly.",
+  "summary_points": [
+    "This document describes the support definition, orientation, base plate, dimensions, and notes for reinforced pads in a typical assembly."
+  ],
+  "keywords": [
+    "support",
+    "orientation",
+    "base plate",
+    "dimensions",
+    "reinforced pad",
+    "pipe material",
+    "welding"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0353",
+    "252-MS-03F-S-001_T04"
+  ],
+  "warnings": [
+    "OCR errors detected in some text, especially in tables and dimensions."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7ebb089e2f54c8e2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7ebb089e2f54c8e2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:04:38.648410+00:00",
+  "usage": {
+    "input_tokens": 2302,
+    "output_tokens": 382,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3926
+}

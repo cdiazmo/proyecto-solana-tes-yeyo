@@ -1,0 +1,38 @@
+{
+  "doc_id": "a37b51f1f10256b3",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180404/Sellado/Order 186461 summary.pdf",
+  "title": "Order 186461 summary",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Order E186461 for Solana Generating Station plans. Client to pick up from Ms. Adriana Endress.",
+  "summary_points": [
+    "Order E186461 for Solana Generating Station plans. Client to pick up from Ms. Adriana Endress."
+  ],
+  "keywords": [
+    "E186461",
+    "Solana Generating Station",
+    "plans",
+    "client pickup",
+    "Adriana Endress"
+  ],
+  "references": [],
+  "warnings": [
+    "Requested Due Date and Project Name/Number are not specified"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a37b51f1f10256b3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a37b51f1f10256b3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:18:46.845186+00:00",
+  "usage": {
+    "input_tokens": 789,
+    "output_tokens": 276,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1025
+}

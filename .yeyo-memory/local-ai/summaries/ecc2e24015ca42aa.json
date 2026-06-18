@@ -1,0 +1,46 @@
+{
+  "doc_id": "ecc2e24015ca42aa",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/252-MS-03F-CS31-24_Rev03_Sht_2.pdf",
+  "title": "252-MS-03F-CS31-24 Rev03 Sht 2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe and fitting components for a project, including dimensions, materials, and references.",
+  "summary_points": [
+    "Document describing pipe and fitting components for a project, including dimensions, materials, and references."
+  ],
+  "keywords": [
+    "pipe",
+    "fitting",
+    "CS SCH 40",
+    "PE",
+    "API 5L",
+    "ASTM A-5324",
+    "ELBOW LR ANSI B16.9",
+    "GR.WPB",
+    "FLANGE WN, RTJ"
+  ],
+  "references": [
+    "252-MS-03F-CS31-24_Sht_2r1",
+    "NNNN-NNN-NNN-NN-NN-NNNNN",
+    "PPT"
+  ],
+  "warnings": [
+    "Text incompleto en algunas áreas, posibles errores de OCR"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ecc2e24015ca42aa.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ecc2e24015ca42aa.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:38:06.506020+00:00",
+  "usage": {
+    "input_tokens": 1631,
+    "output_tokens": 643,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1683
+}

@@ -1,0 +1,49 @@
+{
+  "doc_id": "d61bb7d38ec4d583",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0332_R02.pdf",
+  "title": "4521-PLN-DOT-75-63-0332 R02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing details and components of a beam support with typical shoes, stiffeners, and insulation. References include project information and standards.",
+  "summary_points": [
+    "Drawing details and components of a beam support with typical shoes, stiffeners, and insulation. References include project information and standards."
+  ],
+  "keywords": [
+    "Beam Support",
+    "Elevation",
+    "Isometric Reference Point",
+    "Stiffeners",
+    "W8X28",
+    "W6X25",
+    "Gap",
+    "Triple Shoe Insulated",
+    "Arizona Solar One",
+    "Solana",
+    "JRC HR IGA",
+    "Ildefonso Gonzalez, P.E. PhD",
+    "Issue for Construction",
+    "AS-Built EV HH LJ"
+  ],
+  "references": [
+    "255-MS-13F-S-001 Guide for Triple Shoe Insulated"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d61bb7d38ec4d583.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d61bb7d38ec4d583.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:27:57.274100+00:00",
+  "usage": {
+    "input_tokens": 819,
+    "output_tokens": 765,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1162
+}

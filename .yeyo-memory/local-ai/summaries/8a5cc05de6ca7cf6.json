@@ -1,0 +1,28 @@
+{
+  "doc_id": "8a5cc05de6ca7cf6",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0341_R03.pdf",
+  "title": "4521-PLN-DOT-75-63-0341 R03",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8a5cc05de6ca7cf6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8a5cc05de6ca7cf6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:00:17.752610+00:00",
+  "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 4032,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2841
+}

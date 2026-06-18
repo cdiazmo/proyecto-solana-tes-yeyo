@@ -1,0 +1,68 @@
+{
+  "doc_id": "95be09f2ee861627",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-009 Monthly Report - 2020 November.pdf",
+  "title": "19500201-INF-009 Monthly Report - 2020 November",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly Progress Report for Arizona Solar One project\n- Engineering, Purchases, Manufacturing, and Supplies tasks completed\n- Open issue due to Force Majeure (COVID-19)\n- Invoices for advance payment, materials, inspection, and practical completion\n- Manufacturing activities from January to December 2020\n- Multiple units (1 to 6) with various stages of assembly and testing\n- Final works, PWHT, NDTs, helium tests, and hydrostatic tests conducted throughout the year\n- Delivery scheduled for October 2020\n- Project: SOLANA SOLAR POWER PLANT in Arizona, USA\n- Product: OIL TO SALT HEAT EXCHANGERS\n- Documents include progress reports, manufacturing plans, and inspection procedures\n- Purchase orders for tubes, tubesheets, and plates from suppliers like Taewoong and Voest Alpine",
+  "summary_points": [
+    "Monthly Progress Report for Arizona Solar One project",
+    "Engineering, Purchases, Manufacturing, and Supplies tasks completed",
+    "Open issue due to Force Majeure (COVID-19)",
+    "Invoices for advance payment, materials, inspection, and practical completion",
+    "Manufacturing activities from January to December 2020",
+    "Multiple units (1 to 6) with various stages of assembly and testing",
+    "Final works, PWHT, NDTs, helium tests, and hydrostatic tests conducted throughout the year",
+    "Delivery scheduled for October 2020",
+    "Project: SOLANA SOLAR POWER PLANT in Arizona, USA",
+    "Product: OIL TO SALT HEAT EXCHANGERS",
+    "Documents include progress reports, manufacturing plans, and inspection procedures",
+    "Purchase orders for tubes, tubesheets, and plates from suppliers like Taewoong and Voest Alpine",
+    "Received materials match the purchase orders with delivery dates"
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-009",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Maricopa County, Arizona",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 4 / 14-09-20",
+    "SOLANA SOLAR POWER PLANT (ARIZONA, USA)",
+    "OIL TO SALT HEAT EXCHANGERS",
+    "Taewoong",
+    "Voest Alpine"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-009",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Maricopa County, Arizona",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 4 / 14-09-20",
+    "SOLANA SOLAR POWER PLANT (ARIZONA, USA)",
+    "OIL TO SALT HEAT EXCHANGERS",
+    "Taewoong",
+    "Voest Alpine"
+  ],
+  "warnings": [
+    "Confusing date format and inconsistent spacing."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/95be09f2ee861627.md",
+  "source_extracted_path": ".yeyo-memory/extracted/95be09f2ee861627.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:11:49.995154+00:00",
+  "usage": {
+    "input_tokens": 11401,
+    "output_tokens": 4814,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15620
+}

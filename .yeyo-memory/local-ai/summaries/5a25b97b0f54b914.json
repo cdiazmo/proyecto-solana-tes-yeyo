@@ -1,0 +1,59 @@
+{
+  "doc_id": "5a25b97b0f54b914",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.6 Formulario pozo 1.pdf",
+  "title": "5.9.2.6 Formulario pozo 1",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general para una instalación solar termoeléctrica en Helios Hyperion Energy Investments, S.L.\n- Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y térmicas en edificios\n- Ubicación: Puerto Lápice, Ciudad Real, España\n- Coordenadas UTM: x: 458624 Y: 4343170\n- Actividad principal: Generación de energía eléctrica (CNAE: TT TTY)\n- Declaración y autorización por parte del titular o representante\n- Anexos con características técnicas detalladas de las instalaciones\n- Documentación requerida para instalaciones de alta tensión y equipos presión.\n- Requisitos específicos según el tipo de industria y potencia instalada.\n- Inspección inicial necesaria en casos específicos.\n- Información sobre protección de datos personales.\n- Plazo estimado para la tramitación del formulario.",
+  "summary_points": [
+    "Solicitud de registro de proyecto general para una instalación solar termoeléctrica en Helios Hyperion Energy Investments, S.L.",
+    "Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y térmicas en edificios",
+    "Ubicación: Puerto Lápice, Ciudad Real, España",
+    "Coordenadas UTM: x: 458624 Y: 4343170",
+    "Actividad principal: Generación de energía eléctrica (CNAE: TT TTY)",
+    "Declaración y autorización por parte del titular o representante",
+    "Anexos con características técnicas detalladas de las instalaciones",
+    "Documentación requerida para instalaciones de alta tensión y equipos presión.",
+    "Requisitos específicos según el tipo de industria y potencia instalada.",
+    "Inspección inicial necesaria en casos específicos.",
+    "Información sobre protección de datos personales.",
+    "Plazo estimado para la tramitación del formulario."
+  ],
+  "keywords": [
+    "R.D. 2135/1980, de 26 de septiembre",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "references": [
+    "R.D. 2135/1980, de 26 de septiembre",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "Firma del titular o representante incompleta en el texto extraído"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5a25b97b0f54b914.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5a25b97b0f54b914.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:47:20.697618+00:00",
+  "usage": {
+    "input_tokens": 4942,
+    "output_tokens": 3432,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 14382
+}

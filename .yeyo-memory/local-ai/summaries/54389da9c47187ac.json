@@ -1,0 +1,48 @@
+{
+  "doc_id": "54389da9c47187ac",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-PLN-DOT-75-63-0250.pdf",
+  "title": "4521-PLN-DOT-75-63-0250",
+  "doc_code": "4521-PLN-DOT-75-63-0250",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definitions, including reinforced pads and cover plates with specific dimensions and orientations. Includes notes on trunnions and typical standards.",
+  "summary_points": [
+    "Document describing support definitions, including reinforced pads and cover plates with specific dimensions and orientations. Includes notes on trunnions and typical standards."
+  ],
+  "keywords": [
+    "support",
+    "reinforced pad",
+    "cover plate",
+    "dimensions",
+    "orientation",
+    "trunnion",
+    "material",
+    "welding",
+    "standard"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0250",
+    "252-HTF-16F-S-009B_T01",
+    "Arizona Solar One Solana",
+    "Ildefonso Gonzalez, P.E. PHD"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto.",
+    "Tablas rotas o incompletas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/54389da9c47187ac.md",
+  "source_extracted_path": ".yeyo-memory/extracted/54389da9c47187ac.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:02:09.246008+00:00",
+  "usage": {
+    "input_tokens": 1887,
+    "output_tokens": 733,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3036
+}

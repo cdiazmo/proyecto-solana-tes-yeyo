@@ -1,0 +1,41 @@
+{
+  "doc_id": "9ae10bfdf738a5f2",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-6500-00_Lista de Consumidores Eléctricos_Rev01.pdf",
+  "title": "1950801-LIS-6500-00 Lista de Consumidores Eléctricos Rev01",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Lista detallada de consumidores eléctricos para el proyecto ATLANTICA, incluyendo detalles técnicos como potencia, voltaje, factor de potencia, etc.",
+  "summary_points": [
+    "Lista detallada de consumidores eléctricos para el proyecto ATLANTICA, incluyendo detalles técnicos como potencia, voltaje, factor de potencia, etc."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "consumidores eléctricos",
+    "bomba sales caliente",
+    "resistencia tanque caliente",
+    "MOV",
+    "VSD"
+  ],
+  "references": [
+    "1950801-LIS-6500-00"
+  ],
+  "warnings": [
+    "Texto incompleto en las páginas 3 y 4"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9ae10bfdf738a5f2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9ae10bfdf738a5f2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T04:05:21.667332+00:00",
+  "usage": {
+    "input_tokens": 3987,
+    "output_tokens": 594,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6746
+}

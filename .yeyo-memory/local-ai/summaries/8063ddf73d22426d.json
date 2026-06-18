@@ -1,0 +1,39 @@
+{
+  "doc_id": "8063ddf73d22426d",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0010-GAR_REV 0_Coating and Painting Procedure.xlsx",
+  "title": "4521-INS-LOI-039-062-0010-GAR REV 0 Coating and Painting Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0010",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Coating and Painting Procedure document for HEX replacement TES Solana project. Issued for Design (IFD). No client comments or revisions noted.",
+  "summary_points": [
+    "Coating and Painting Procedure document for HEX replacement TES Solana project. Issued for Design (IFD). No client comments or revisions noted."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0010-GAR",
+    "Coating and Painting Procedure",
+    "HEX replacement TES Solana",
+    "AEPC USA",
+    "IFD"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en 'Client Transmittal Number' y 'Answer Date'",
+    "Falta información en 'Client Main Comments' y 'Annexes to Comments'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8063ddf73d22426d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8063ddf73d22426d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:56:32.225999+00:00",
+  "usage": {
+    "input_tokens": 1177,
+    "output_tokens": 378,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2258
+}

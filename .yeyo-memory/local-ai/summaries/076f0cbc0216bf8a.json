@@ -1,0 +1,45 @@
+{
+  "doc_id": "076f0cbc0216bf8a",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.6 Formulario PM.pdf",
+  "title": "5.9.7.6 Formulario PM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general de industria para Helios | Hyperion Energy Investments, S.L.\n- Ubicación en Sevilla (Villarta de San Juan)\n- Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y almacenamiento de productos químicos\n- Referencia catastral urbana\n- Actividad principal: Generación de energía eléctrica\n- Firma del titular o representante: D. Jorge Osbome Cologan",
+  "summary_points": [
+    "Solicitud de registro de proyecto general de industria para Helios | Hyperion Energy Investments, S.L.",
+    "Ubicación en Sevilla (Villarta de San Juan)",
+    "Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y almacenamiento de productos químicos",
+    "Referencia catastral urbana",
+    "Actividad principal: Generación de energía eléctrica",
+    "Firma del titular o representante: D. Jorge Osbome Cologan"
+  ],
+  "keywords": [
+    "R.D. 2135/1980, de 26 de septiembre",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio"
+  ],
+  "references": [
+    "R.D. 2135/1980, de 26 de septiembre",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/076f0cbc0216bf8a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/076f0cbc0216bf8a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:31:30.214477+00:00",
+  "usage": {
+    "input_tokens": 7677,
+    "output_tokens": 3767,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 14469
+}

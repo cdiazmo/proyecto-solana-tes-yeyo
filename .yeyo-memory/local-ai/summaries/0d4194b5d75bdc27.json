@@ -1,0 +1,50 @@
+{
+  "doc_id": "0d4194b5d75bdc27",
+  "path": "01 GD AE/Tuberia/INF/4521-INF-AEE-21-63-0004-GAR-901_TES HEX Change_stress report.xlsx",
+  "title": "4521-INF-AEE-21-63-0004-GAR-901 TES HEX Change stress report",
+  "doc_code": "4521-INF-AEE-21-63-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Stress report for HEX replacement TES Solana, version 0. Includes input data from P&IDs and isometrics.",
+  "summary_points": [
+    "Stress report for HEX replacement TES Solana, version 0. Includes input data from P&IDs and isometrics."
+  ],
+  "keywords": [
+    "stress report",
+    "HEX replacement",
+    "TES Solana",
+    "P&ID",
+    "isometrics",
+    "revision",
+    "client comments"
+  ],
+  "references": [
+    "4521-INF-AEE-21-63-0004-GAR",
+    "4521-TMT-AEE-AEPC-0042",
+    "4521_PLN_AEE_68_71_P271-GAR_Rev00",
+    "4521_PLN_AEE_68_71_P273-GAR_Rev00",
+    "4521_PLN_AEE_68_71_P274-GAR_Rev00",
+    "4521_PLN_AEE_68_71_P278-GAR_Rev01",
+    "4521_PLN_AEE_68_71_P279-GAR_Rev01",
+    "4521-PLN-AEE-58-65-0001-GAR_rev00_HTF System ISO",
+    "4521-PLN-AEE-75-65-0001-GAR_rev00_MS System ISO"
+  ],
+  "warnings": [
+    "Client status code is incomplete"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0d4194b5d75bdc27.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0d4194b5d75bdc27.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:06:47.754731+00:00",
+  "usage": {
+    "input_tokens": 1368,
+    "output_tokens": 725,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2531
+}

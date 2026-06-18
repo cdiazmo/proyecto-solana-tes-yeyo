@@ -1,0 +1,40 @@
+{
+  "doc_id": "9cc94700a2617d1d",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-III B- Winter  Discharging - max level @ 1050rpm.pdf",
+  "title": "AnnexI-III B- Winter Discharging - max level @ 1050rpm",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Winter Discharging calculations at 1050rpm for various branches and tanks, including flow rates, velocities, pressures, and elevations.",
+  "summary_points": [
+    "Winter Discharging calculations at 1050rpm for various branches and tanks, including flow rates, velocities, pressures, and elevations."
+  ],
+  "keywords": [
+    "Winter Discharging",
+    "1050rpm",
+    "flow rates",
+    "velocities",
+    "pressures",
+    "elevations"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en 'El: 46.59 ftP: 15.83 psi a' y 'Winter Discharge-nivel maxpsi a'",
+    "Texto incompleto al final"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9cc94700a2617d1d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9cc94700a2617d1d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:41:03.434039+00:00",
+  "usage": {
+    "input_tokens": 1582,
+    "output_tokens": 1628,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1920
+}

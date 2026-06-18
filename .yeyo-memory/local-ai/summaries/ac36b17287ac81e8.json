@@ -1,0 +1,59 @@
+{
+  "doc_id": "ac36b17287ac81e8",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.4 Certificado pruebas LSAT HII.pdf",
+  "title": "5.10.1.4 Certificado pruebas LSAT HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Informe sobre ensayos previos a la puesta en servicio del circuito trifásico de cable aislado de 220 kV.\n- Realizados por TECNALIA para INSTALACIONES INABENSA S.A. en Ciudad Real.\n- Medidas realizadas incluyen resistencia del conductor, pantalla, capacidad y tensión resonante.\n- Medición de resistencia, capacidad y tangente delta del cable HELIOS II.\n- No se detectaron descargas parciales ni perforaciones del aislamiento durante los ensayos.\n- La resistencia medida es un 40% inferior al valor especificado por el fabricante.",
+  "summary_points": [
+    "Informe sobre ensayos previos a la puesta en servicio del circuito trifásico de cable aislado de 220 kV.",
+    "Realizados por TECNALIA para INSTALACIONES INABENSA S.A. en Ciudad Real.",
+    "Medidas realizadas incluyen resistencia del conductor, pantalla, capacidad y tensión resonante.",
+    "Medición de resistencia, capacidad y tangente delta del cable HELIOS II.",
+    "No se detectaron descargas parciales ni perforaciones del aislamiento durante los ensayos.",
+    "La resistencia medida es un 40% inferior al valor especificado por el fabricante."
+  ],
+  "keywords": [
+    "Norma IEC 62067:2011",
+    "UNE 211006:2010",
+    "Especificación Técnica ET160 de RED ELÉCTRICA (REE)",
+    "CPC100",
+    "CP CU1",
+    "TETTEX 2805",
+    "TETTEX 1010 nF",
+    "BAUR PGK25",
+    "HFCT",
+    "MPD 540 MTRONIX",
+    "WRV 80/260 T de HIGHVOLT"
+  ],
+  "references": [
+    "Norma IEC 62067:2011",
+    "UNE 211006:2010",
+    "Especificación Técnica ET160 de RED ELÉCTRICA (REE)",
+    "CPC100",
+    "CP CU1",
+    "TETTEX 2805",
+    "TETTEX 1010 nF",
+    "BAUR PGK25",
+    "HFCT",
+    "MPD 540 MTRONIX",
+    "WRV 80/260 T de HIGHVOLT"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ac36b17287ac81e8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ac36b17287ac81e8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:07:56.615851+00:00",
+  "usage": {
+    "input_tokens": 5423,
+    "output_tokens": 2031,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 15502
+}

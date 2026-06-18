@@ -1,0 +1,45 @@
+{
+  "doc_id": "8916a0d285e40064",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.4 Acreditacion instalador.pdf",
+  "title": "5.7.5.4 Acreditacion instalador",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificados de acreditación para la instalación y reparación de equipos a presión por ELECTRICA VALVERDEÑA, S.L., con técnico responsable FRANCISCO TOMÁS CALDERAY GONZÁLEZ.",
+  "summary_points": [
+    "Certificados de acreditación para la instalación y reparación de equipos a presión por ELECTRICA VALVERDEÑA, S.L., con técnico responsable FRANCISCO TOMÁS CALDERAY GONZÁLEZ."
+  ],
+  "keywords": [
+    "ELECTRICA VALVERDEÑA",
+    "CIF/NIF",
+    "FRANCISCO TOMÁS CALDERAY GONZÁLEZ",
+    "Equipos a presión",
+    "Instalación",
+    "Reparación",
+    "Certificado",
+    "Vigencia"
+  ],
+  "references": [
+    "JUNTA DE ANDALUCIA CONSEJERÍA DE ECONOMÍA, INNOVACIÓN Y CIENCIA",
+    "R.D. 2060/2008",
+    "Avda. Manuel Sur, 4 - 21004 HUELVA"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8916a0d285e40064.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8916a0d285e40064.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T03:13:16.804463+00:00",
+  "usage": {
+    "input_tokens": 2269,
+    "output_tokens": 599,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5794
+}

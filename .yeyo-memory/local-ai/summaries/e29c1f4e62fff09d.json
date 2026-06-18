@@ -1,0 +1,42 @@
+{
+  "doc_id": "e29c1f4e62fff09d",
+  "path": "03 GD Fabricacion LOI TES 6/Listas/4521-LIS-LOI-039-062-0001 REV.00 Document List.pdf",
+  "title": "4521-LIS-LOI-039-062-0001 REV.00 Document List",
+  "doc_code": "4521-LIS-LOI-039-062-0001",
+  "revision": "REV.00",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document list for Solana Solar Power Plant's oil to salt heat exchangers, including progress reports, manufacturing plans, and various technical documents.",
+  "summary_points": [
+    "Document list for Solana Solar Power Plant's oil to salt heat exchangers, including progress reports, manufacturing plans, and various technical documents."
+  ],
+  "keywords": [
+    "Solana Solar Power Plant",
+    "heat exchangers",
+    "document list",
+    "manufacturing planning",
+    "technical documents"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0001-GAR",
+    "4521-SCH-LOI-039-062-0001-GAR",
+    "4521-CAL-LOI-039-062-0001-GAR"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas referencias"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e29c1f4e62fff09d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e29c1f4e62fff09d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:01:16.541680+00:00",
+  "usage": {
+    "input_tokens": 2569,
+    "output_tokens": 1102,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3227
+}

@@ -1,0 +1,47 @@
+{
+  "doc_id": "a0c4d7728370fa36",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0010-GAR_901_TUBE SHEET DRAWING.xlsx",
+  "title": "4521-PLN-LOI-039-062-0010-GAR 901 TUBE SHEET DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0010",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, issued by Abeinsa Engineering on 2016-11-11. No client comments or design changes noted.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, issued by Abeinsa Engineering on 2016-11-11. No client comments or design changes noted."
+  ],
+  "keywords": [
+    "TCS",
+    "ABENGOA",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "Approval status"
+  ],
+  "references": [
+    "4521-PLN-LOI-039-062-0010-GAR",
+    "AEPC USA",
+    "IFD",
+    "IFB",
+    "IFP",
+    "IFC"
+  ],
+  "warnings": [
+    "Input data and holds sections are empty.",
+    "Client comments section is empty."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a0c4d7728370fa36.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a0c4d7728370fa36.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:11:45.846257+00:00",
+  "usage": {
+    "input_tokens": 1100,
+    "output_tokens": 456,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2052
+}

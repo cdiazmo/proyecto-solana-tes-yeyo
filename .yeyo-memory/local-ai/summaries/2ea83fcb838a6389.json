@@ -1,0 +1,41 @@
+{
+  "doc_id": "2ea83fcb838a6389",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0004-GAR_REV 0_Hydraulic Test Procedure.xlsx",
+  "title": "4521-INS-LOI-039-062-0004-GAR REV 0 Hydraulic Test Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0004",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Hydraulic Test Procedure document for HEX replacement TES Solana project. Includes client comments and revision history.",
+  "summary_points": [
+    "Hydraulic Test Procedure document for HEX replacement TES Solana project. Includes client comments and revision history."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0004-GAR",
+    "Hydraulic Test Procedure",
+    "HEX replacement TES Solana",
+    "Client comments",
+    "Revision history"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0022",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2ea83fcb838a6389.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2ea83fcb838a6389.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:29:53.816224+00:00",
+  "usage": {
+    "input_tokens": 1170,
+    "output_tokens": 350,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2234
+}

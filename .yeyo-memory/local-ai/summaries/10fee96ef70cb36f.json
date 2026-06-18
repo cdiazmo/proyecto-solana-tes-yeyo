@@ -1,0 +1,44 @@
+{
+  "doc_id": "10fee96ef70cb36f",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes para bandeja de cables TMT-18230-03/185107-SK-S001 sw3.pdf",
+  "title": "185107-SK-S001 sw3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Structural support cable tray elevations with dimensions and references.",
+  "summary_points": [
+    "Structural support cable tray elevations with dimensions and references."
+  ],
+  "keywords": [
+    "cable trays",
+    "support elevations",
+    "dimensions",
+    "references",
+    "base plate detail",
+    "structural support"
+  ],
+  "references": [
+    "STR. SUPT.252-HTF-21F-S-008",
+    "STR. SUPT.252-HTF-21F-S-009",
+    "STR. SUPT.252-HTF-21F-S-010",
+    "DWG185107-SK-C100"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/10fee96ef70cb36f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/10fee96ef70cb36f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:37:28.035124+00:00",
+  "usage": {
+    "input_tokens": 1318,
+    "output_tokens": 534,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1661
+}

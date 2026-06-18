@@ -1,0 +1,41 @@
+{
+  "doc_id": "2354f80e11328b7a",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AEE-27-31-0002-GAR_901_R00 New trays layout.xlsx",
+  "title": "4521-PLN-AEE-27-31-0002-GAR 901 R00 New trays layout",
+  "doc_code": "4521-PLN-AEE-27-31-0002",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Planos",
+  "summary": "Document describing the new trays layout for HEX replacement TES Solana project. Includes input data, client comments, and legend.",
+  "summary_points": [
+    "Document describing the new trays layout for HEX replacement TES Solana project. Includes input data, client comments, and legend."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-27-31-0002-GAR-901",
+    "HEX replacement TES Solana",
+    "New trays layout",
+    "Client comments",
+    "Legend"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0057",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2354f80e11328b7a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2354f80e11328b7a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T11:50:56.065954+00:00",
+  "usage": {
+    "input_tokens": 1216,
+    "output_tokens": 592,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2277
+}

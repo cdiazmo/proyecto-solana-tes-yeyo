@@ -1,0 +1,43 @@
+{
+  "doc_id": "310b6014f4d8bc63",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0342_R03.pdf",
+  "title": "4521-PLN-DOT-75-63-0342 R03",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describes pipe supports with details on dimensions, materials, and construction methods. Includes drawings and references to standards.",
+  "summary_points": [
+    "Document describes pipe supports with details on dimensions, materials, and construction methods. Includes drawings and references to standards."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "construction",
+    "drawings",
+    "standards"
+  ],
+  "references": [
+    "255-MS-07F-S-003",
+    "4521-PLN-AEE-75-63-0342",
+    "4521-PLN-DOT-75-63-0342 R03"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear scale and project details"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/310b6014f4d8bc63.md",
+  "source_extracted_path": ".yeyo-memory/extracted/310b6014f4d8bc63.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:55:39.412229+00:00",
+  "usage": {
+    "input_tokens": 1371,
+    "output_tokens": 901,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2758
+}

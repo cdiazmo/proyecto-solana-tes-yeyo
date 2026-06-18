@@ -1,0 +1,42 @@
+{
+  "doc_id": "74e8914cf7cf72cf",
+  "path": "04 GD Fabricacon LOI TES 3/Documentos procesos/TD-DTS-SLN-001-00 Equipment Data Sheet .pdf",
+  "title": "TD-DTS-SLN-001-00 Equipment Data Sheet",
+  "doc_code": "TD-DTS-SLN-001-00",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical specifications and performance data for a heat exchanger, including dimensions, fluid properties, and construction details.",
+  "summary_points": [
+    "This document provides technical specifications and performance data for a heat exchanger, including dimensions, fluid properties, and construction details."
+  ],
+  "keywords": [
+    "heat exchanger",
+    "specifications",
+    "performance",
+    "dimensions",
+    "fluid properties",
+    "construction"
+  ],
+  "references": [
+    "TD-DTS-SLN-001",
+    "1950201-HDD-0001",
+    "ATLANTICA YIELD",
+    "SOLANA, ARIZONA, USA"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/74e8914cf7cf72cf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/74e8914cf7cf72cf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:07:45.982317+00:00",
+  "usage": {
+    "input_tokens": 1927,
+    "output_tokens": 1800,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3882
+}

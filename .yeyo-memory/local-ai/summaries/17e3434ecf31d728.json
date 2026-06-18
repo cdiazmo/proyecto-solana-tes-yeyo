@@ -1,0 +1,72 @@
+{
+  "doc_id": "17e3434ecf31d728",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-00-70-N007.pdf",
+  "title": "4521-PLN-AGE-00-70-N007",
+  "doc_code": "4521-PLN-AGE-00-70-N007",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- CARE OPEN en ZSO-44813A, B, & C\n- High pressure at RO booster pump MP-448A, B, & C inlet\n- Stop primary RO interstage booster pump D (MP-442D) on due to various conditions\n- High water levels in mirror RO feed tank MT-445 and primary RO reject storage tank MT-447\n- Top clearwell transfer pumps MP-436A & MP-436B on due to low water level in clearwell tank MT-436",
+  "summary_points": [
+    "CARE OPEN en ZSO-44813A, B, & C",
+    "High pressure at RO booster pump MP-448A, B, & C inlet",
+    "Stop primary RO interstage booster pump D (MP-442D) on due to various conditions",
+    "High water levels in mirror RO feed tank MT-445 and primary RO reject storage tank MT-447",
+    "Top clearwell transfer pumps MP-436A & MP-436B on due to low water level in clearwell tank MT-436"
+  ],
+  "keywords": [
+    "ZSO-44813A, B, & C",
+    "MP-448A, B, & C",
+    "PAH-44804A, B, & C",
+    "MP-442D",
+    "HV-44106D",
+    "PAL-44107D",
+    "PAH-44207D",
+    "FAH-44216D",
+    "FAH-44213D",
+    "LAHH-44503",
+    "LAHH-44502",
+    "MT-445",
+    "MT-447",
+    "MP-436A & MP-436B",
+    "LALL-43602",
+    "PAH-43717",
+    "MF-441A TO E"
+  ],
+  "references": [
+    "ZSO-44813A, B, & C",
+    "MP-448A, B, & C",
+    "PAH-44804A, B, & C",
+    "MP-442D",
+    "HV-44106D",
+    "PAL-44107D",
+    "PAH-44207D",
+    "FAH-44216D",
+    "FAH-44213D",
+    "LAHH-44503",
+    "LAHH-44502",
+    "MT-445",
+    "MT-447",
+    "MP-436A & MP-436B",
+    "LALL-43602",
+    "PAH-43717",
+    "MF-441A TO E"
+  ],
+  "warnings": [
+    "Fragmento confuso en la referencia a 'HIGH HIGH WATER LEVEL IN MIRROR RO FEED TANK MT-445 (LAHH-44503)' y 'PRIMARY RO REJECT STORAGE TANK MT-447 (LAHH-44502)'. Posible error de OCR."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/17e3434ecf31d728.md",
+  "source_extracted_path": ".yeyo-memory/extracted/17e3434ecf31d728.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:14:02.884875+00:00",
+  "usage": {
+    "input_tokens": 7673,
+    "output_tokens": 3564,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8985
+}

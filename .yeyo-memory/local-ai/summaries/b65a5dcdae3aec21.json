@@ -1,0 +1,47 @@
+{
+  "doc_id": "b65a5dcdae3aec21",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-N-09EF-CS31-2_Sht_1_R3.pdf",
+  "title": "255-N-09EF-CS31-2 Sht 1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe schedule and components for project 255-N-09EF-CS31-2, including fittings, valves, and locations.",
+  "summary_points": [
+    "Document detailing pipe schedule and components for project 255-N-09EF-CS31-2, including fittings, valves, and locations."
+  ],
+  "keywords": [
+    "pipe",
+    "schedule",
+    "components",
+    "fittings",
+    "valves",
+    "locations",
+    "project",
+    "construction"
+  ],
+  "references": [
+    "255-N-09EF-CS31-2",
+    "252-N-08EF-CS31-2",
+    "FB58V CL 300 Globe Buttweld",
+    "API 5L Grade B",
+    "ASTM A234GR.WPB2"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas fechas y medidas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b65a5dcdae3aec21.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b65a5dcdae3aec21.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:17:15.614863+00:00",
+  "usage": {
+    "input_tokens": 996,
+    "output_tokens": 511,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 934
+}

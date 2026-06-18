@@ -1,0 +1,59 @@
+{
+  "doc_id": "95ab60d3ca7c3471",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/10020-5-PartsList_2011118_en.pdf",
+  "title": "10020-5-PartsList 2011118 en",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Customers Part List for order W103282\n- Prepared by Riedl, Sabine on 04.05.2018\n- Project: 2011118 R 1803.1.409\n- Customer: K190074 Rheinhuette Pumps, LLC\n- Pump No.: 351090\n- Parts include volute casing, stress sleeve, screw, and more\n- References include DIN 2510, ISO 7089, and EN 10241\n- Company: RHEINHÜTTE Pumpen GmbH\n- Order number: W103282\n- Production item: R 1803.1.409 GVSO 80-250 A\n- Quantity: 1,000 units\n- Parts include counter threated stud, shaft sleeves, distance sleeve, bearing bushing, washers, nuts, screws, motor, coupling, and gaskets",
+  "summary_points": [
+    "Customers Part List for order W103282",
+    "Prepared by Riedl, Sabine on 04.05.2018",
+    "Project: 2011118 R 1803.1.409",
+    "Customer: K190074 Rheinhuette Pumps, LLC",
+    "Pump No.: 351090",
+    "Parts include volute casing, stress sleeve, screw, and more",
+    "References include DIN 2510, ISO 7089, and EN 10241",
+    "Company: RHEINHÜTTE Pumpen GmbH",
+    "Order number: W103282",
+    "Production item: R 1803.1.409 GVSO 80-250 A",
+    "Quantity: 1,000 units",
+    "Parts include counter threated stud, shaft sleeves, distance sleeve, bearing bushing, washers, nuts, screws, motor, coupling, and gaskets"
+  ],
+  "keywords": [
+    "RHEINHÜTTE Pumpen GmbH",
+    "DIN 2510",
+    "ISO 7089",
+    "EN 10241",
+    "W103282",
+    "K190074 Rheinhuette Pumps, LLC",
+    "R 1803.1.409 GVSO 80-250 A"
+  ],
+  "references": [
+    "RHEINHÜTTE Pumpen GmbH",
+    "DIN 2510",
+    "ISO 7089",
+    "EN 10241",
+    "W103282",
+    "K190074 Rheinhuette Pumps, LLC",
+    "R 1803.1.409 GVSO 80-250 A"
+  ],
+  "warnings": [
+    "OCR issues may have affected the readability of some text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/95ab60d3ca7c3471.md",
+  "source_extracted_path": ".yeyo-memory/extracted/95ab60d3ca7c3471.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T01:37:41.802529+00:00",
+  "usage": {
+    "input_tokens": 6430,
+    "output_tokens": 2579,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10429
+}

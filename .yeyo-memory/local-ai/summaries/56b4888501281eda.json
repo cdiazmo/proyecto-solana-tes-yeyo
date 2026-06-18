@@ -1,0 +1,47 @@
+{
+  "doc_id": "56b4888501281eda",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-MS-14F-CS31-24_Sht_1_R4.pdf",
+  "title": "252-MS-14F-CS31-24 Sht 1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico con descripciones de componentes, conexiones y orientaciones para la instalación de tuberías.",
+  "summary_points": [
+    "Documento técnico con descripciones de componentes, conexiones y orientaciones para la instalación de tuberías."
+  ],
+  "keywords": [
+    "pipe",
+    "fitting",
+    "tee",
+    "sockolet",
+    "elbow",
+    "support",
+    "orientation",
+    "first emission",
+    "AY comments"
+  ],
+  "references": [
+    "JSMMTGJMRL 27/17/2017",
+    "HEXJNGMTGJMRL",
+    "DOTecDOTecDOTec ISSUE FOR CONSTRUCTION36/15/2018",
+    "409/26/19As-Built"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/56b4888501281eda.md",
+  "source_extracted_path": ".yeyo-memory/extracted/56b4888501281eda.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:35:34.129380+00:00",
+  "usage": {
+    "input_tokens": 2530,
+    "output_tokens": 1819,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1592
+}

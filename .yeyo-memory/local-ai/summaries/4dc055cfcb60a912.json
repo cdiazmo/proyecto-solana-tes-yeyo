@@ -1,0 +1,58 @@
+{
+  "doc_id": "4dc055cfcb60a912",
+  "path": "03 GD Fabricacion LOI TES 6/Informes mensual/4521-INF-LOI-039-062-0001-GAR_Rev01 Monthly Progress Report - Feb 18.pdf",
+  "title": "4521-INF-LOI-039-062-0001-GAR Rev01 Monthly Progress Report - Feb 18",
+  "doc_code": "4521-INF-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly Progress Report for Lointek's supply to HEX replacement TES Solana project.\n- Report covers engineering, purchases, manufacturing progress, and supplies.\n- Open issues include pending transport dates confirmation from Atlantica.\n- No troubles detected or actions required at this time.\n- Invoices are listed with payment statuses.\n- Document code is 4521-INF-LOI-039-062-0001-GAR, edition date is 23/03/2018.\n- The document includes various documents and their statuses with delivery dates.\n- Purchase plan details are provided for SOLANA GENERATING STATION.\n- There are no critical issues identified in the document.",
+  "summary_points": [
+    "Monthly Progress Report for Lointek's supply to HEX replacement TES Solana project.",
+    "Report covers engineering, purchases, manufacturing progress, and supplies.",
+    "Open issues include pending transport dates confirmation from Atlantica.",
+    "No troubles detected or actions required at this time.",
+    "Invoices are listed with payment statuses.",
+    "Document code is 4521-INF-LOI-039-062-0001-GAR, edition date is 23/03/2018.",
+    "The document includes various documents and their statuses with delivery dates.",
+    "Purchase plan details are provided for SOLANA GENERATING STATION.",
+    "There are no critical issues identified in the document."
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950101-INF-001",
+    "MA, IU, DV",
+    "Atlantica Yield",
+    "SOLANA SOLAR POWER PLANT (ARIZONA, USA)",
+    "OIL TO SALT HEAT EXCHANGERS",
+    "VSC: Viewed without comments",
+    "VCC: Viewed with comments",
+    "R : Rejected"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950101-INF-001",
+    "MA, IU, DV",
+    "Atlantica Yield",
+    "SOLANA SOLAR POWER PLANT (ARIZONA, USA)",
+    "OIL TO SALT HEAT EXCHANGERS",
+    "VSC: Viewed without comments",
+    "VCC: Viewed with comments",
+    "R : Rejected"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4dc055cfcb60a912.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4dc055cfcb60a912.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:57:45.904344+00:00",
+  "usage": {
+    "input_tokens": 7477,
+    "output_tokens": 1245,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12936
+}

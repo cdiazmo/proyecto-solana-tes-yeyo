@@ -1,0 +1,57 @@
+{
+  "doc_id": "cfa7f329ad646e1e",
+  "path": "03 GD Fabricacion LOI TES 6/WPS Y PQR/4521-INS-LOI-039-062-0011-GAR_Rev01 PQR.pdf",
+  "title": "4521-INS-LOI-039-062-0011-GAR Rev01 PQR",
+  "doc_code": "4521-INS-LOI-039-062-0011",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Procedimiento de calificación de soldadura (PQR) para el reemplazo de tuberías HEX en el proyecto TES Solana, cliente Arizona Solar One.",
+  "summary_points": [
+    "Procedimiento de calificación de soldadura (PQR) para el reemplazo de tuberías HEX en el proyecto TES Solana, cliente Arizona Solar One."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0011-GAR",
+    "PQR",
+    "soldadura",
+    "HEX replacement",
+    "TES Solana",
+    "Arizona Solar One"
+  ],
+  "references": [
+    "LP-0776 GTAW + FCAW",
+    "LP-0801 GTAW",
+    "Welding Department",
+    "GTAW + SMAW",
+    "GTAW + SMAW + SAW",
+    "LP-0543",
+    "LP-0448",
+    "LP-0415 GTAW + SMAW",
+    "LP-0401 FCAW",
+    "LP-0596 FCAW",
+    "LP-0619 A-GTAW",
+    "LP-0785 GTAW",
+    "LP-0769 GMAW + SAW",
+    "LP-0770 GTAW + FCAW",
+    "LP-0605 GMAW + SAW",
+    "LP-0603 FCAW",
+    "LP-0650 FCAW"
+  ],
+  "warnings": [
+    "Texto incompleto en la página 1"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/cfa7f329ad646e1e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/cfa7f329ad646e1e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:40:27.282803+00:00",
+  "usage": {
+    "input_tokens": 1241,
+    "output_tokens": 648,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2001
+}

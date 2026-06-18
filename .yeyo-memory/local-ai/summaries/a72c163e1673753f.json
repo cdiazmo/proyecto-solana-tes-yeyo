@@ -1,0 +1,46 @@
+{
+  "doc_id": "a72c163e1673753f",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/4521-PLN-DOT-75-63-0272_Rev01.pdf",
+  "title": "4521-PLN-DOT-75-63-0272 Rev01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details on support structures, including dimensions, materials, and types of shoes. It is part of a project for Arizona Solar One SOLANA and is protected by copyright.",
+  "summary_points": [
+    "This document provides technical details on support structures, including dimensions, materials, and types of shoes. It is part of a project for Arizona Solar One SOLANA and is protected by copyright."
+  ],
+  "keywords": [
+    "support structure",
+    "dimensions",
+    "materials",
+    "shoes",
+    "insulation",
+    "pipe orientation",
+    "stainless steel",
+    "calcium silicate",
+    "Arizona Solar One",
+    "SOLANA"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0272",
+    "252-MS-03F-S-002"
+  ],
+  "warnings": [
+    "OCR errors in some text, unclear symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a72c163e1673753f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a72c163e1673753f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:54:38.993482+00:00",
+  "usage": {
+    "input_tokens": 1354,
+    "output_tokens": 859,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2640
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "62220210809ce54c",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-ANC-27-21-O495-901_MCC-1633_SLD_TES HEX Change.xlsx",
+  "title": "4521-PLN-ANC-27-21-O495-901 MCC-1633 SLD TES HEX Change",
+  "doc_code": "4521-PLN-ANC-27-21-O495",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, revision 1, issued on 2017-02-02. Includes input data change and new pipe tracing.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, revision 1, issued on 2017-02-02. Includes input data change and new pipe tracing."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "revision 1",
+    "input data change",
+    "new pipes",
+    "lighting"
+  ],
+  "references": [
+    "4521-LIS-AGE-39-40-0010_R00-GAR TES Area Electric consumer list Unit 5-6",
+    "4521-TMT-AEE-AEPC-0043"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/62220210809ce54c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/62220210809ce54c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:19:35.141794+00:00",
+  "usage": {
+    "input_tokens": 1274,
+    "output_tokens": 415,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2380
+}

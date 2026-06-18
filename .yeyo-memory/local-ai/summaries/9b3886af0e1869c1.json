@@ -1,0 +1,41 @@
+{
+  "doc_id": "9b3886af0e1869c1",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Flowserve/Curve_HD_GAD_08ELM-2 stage_Rev0.pdf",
+  "title": "Curve HD GAD 08ELM-2 stage Rev0",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Planos",
+  "summary": "Curve HD GAD 08ELM-2 stage Rev0, TES Drain Tank Pump, Capacity: 137.4 USgpm, Head: 59.00 ft, Flowserve reference: 685419002.",
+  "summary_points": [
+    "Curve HD GAD 08ELM-2 stage Rev0, TES Drain Tank Pump, Capacity: 137.4 USgpm, Head: 59.00 ft, Flowserve reference: 685419002."
+  ],
+  "keywords": [
+    "Curve HD GAD",
+    "TES Drain Tank Pump",
+    "Capacity",
+    "Head",
+    "Flowserve reference"
+  ],
+  "references": [
+    "685419002",
+    "EC-2353-P001-P001",
+    "08ELM",
+    "API 610 10th Edition"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9b3886af0e1869c1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9b3886af0e1869c1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:02:29.806378+00:00",
+  "usage": {
+    "input_tokens": 1536,
+    "output_tokens": 889,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3115
+}

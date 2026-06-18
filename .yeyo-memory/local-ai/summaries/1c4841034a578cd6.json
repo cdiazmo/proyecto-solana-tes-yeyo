@@ -1,0 +1,45 @@
+{
+  "doc_id": "1c4841034a578cd6",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180323/SOLANA TES HX Permit_Pkg_02_01_2018_PAGE S1.2_rev1.pdf",
+  "title": "SOLANA TES HX Permit Pkg 02 01 2018 PAGE S1.2 rev1",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Overall Site Plan with scale in feet, key points including TUBE PULL SPACE, MV205A/MV205M, CRANE ACCESS, and confidential information notice.",
+  "summary_points": [
+    "Overall Site Plan with scale in feet, key points including TUBE PULL SPACE, MV205A/MV205M, CRANE ACCESS, and confidential information notice."
+  ],
+  "keywords": [
+    "S1.2",
+    "Overall Site Plan",
+    "Scale in Feet",
+    "TUBE PULL SPACE",
+    "MV205A",
+    "MV205M",
+    "CRANE ACCESS",
+    "Confidential Information",
+    "Alternate Billing Cycle"
+  ],
+  "references": [
+    "S3.1 0",
+    "4521-PLN-AEE-00-00-0100"
+  ],
+  "warnings": [
+    "OCR issues with numbers and text"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1c4841034a578cd6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1c4841034a578cd6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:38:15.444426+00:00",
+  "usage": {
+    "input_tokens": 1097,
+    "output_tokens": 284,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1706
+}

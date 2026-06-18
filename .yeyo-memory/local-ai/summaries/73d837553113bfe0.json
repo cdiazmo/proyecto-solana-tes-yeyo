@@ -1,0 +1,39 @@
+{
+  "doc_id": "73d837553113bfe0",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180323/SOLANA TES HX Permit_Pkg_02_01_2018_PAGE S1.2.pdf",
+  "title": "SOLANA TES HX Permit Pkg 02 01 2018 PAGE S1.2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing of a building with details on scale, tube pull space, crane access, pump maintenance, and revisions.",
+  "summary_points": [
+    "Drawing of a building with details on scale, tube pull space, crane access, pump maintenance, and revisions."
+  ],
+  "keywords": [
+    "drawing",
+    "scale",
+    "tube pull space",
+    "crane access",
+    "pump maintenance",
+    "revisions"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/73d837553113bfe0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/73d837553113bfe0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:37:47.699774+00:00",
+  "usage": {
+    "input_tokens": 1071,
+    "output_tokens": 747,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1668
+}

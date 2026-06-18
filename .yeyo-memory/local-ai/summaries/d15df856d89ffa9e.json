@@ -1,0 +1,39 @@
+{
+  "doc_id": "d15df856d89ffa9e",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0015-GAR_901_NAMEPLATE DRAWING.xlsx",
+  "title": "4521-PLN-LOI-039-062-0015-GAR 901 NAMEPLATE DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0015",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "TCS for HEX replacement TES Solana, revision 0, dated 2016-11-11. No input data, assumptions, mistakes, or design changes noted. No client comments.",
+  "summary_points": [
+    "TCS for HEX replacement TES Solana, revision 0, dated 2016-11-11. No input data, assumptions, mistakes, or design changes noted. No client comments."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "4521-PLN-LOI-039-062-0015-GAR_901",
+    "Input data change"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en varios campos, especialmente fechas y códigos de documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d15df856d89ffa9e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d15df856d89ffa9e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:11:54.932013+00:00",
+  "usage": {
+    "input_tokens": 1098,
+    "output_tokens": 302,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2052
+}

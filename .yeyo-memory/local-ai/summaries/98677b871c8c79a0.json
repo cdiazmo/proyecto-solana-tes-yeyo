@@ -1,0 +1,54 @@
+{
+  "doc_id": "98677b871c8c79a0",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0521_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0521 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing details for a pipe support system with specific parameters and references.",
+  "summary_points": [
+    "Drawing details for a pipe support system with specific parameters and references."
+  ],
+  "keywords": [
+    "pipe supports",
+    "drawing",
+    "parameters",
+    "typical shoe",
+    "isometric reference point",
+    "W8X28",
+    "ELEVATION GUIDES TYP.",
+    "P1, P2 or P3",
+    "Ildefonso Gonzalez, P.E. PhD",
+    "ARIZONA SOLAR ONE"
+  ],
+  "references": [
+    "4521-PLN-ALL-75-63-",
+    "JRC HR IGA",
+    "DH HB LJ",
+    "HH LJ"
+  ],
+  "warnings": [
+    "Drawing No:Scale:",
+    "Project:",
+    "Sheets: Sheet nº:",
+    "Status:",
+    "EPC Contractor:",
+    "Client: Stamp:",
+    "Reviewed by Approved by:"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/98677b871c8c79a0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/98677b871c8c79a0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:18:24.999604+00:00",
+  "usage": {
+    "input_tokens": 750,
+    "output_tokens": 537,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1017
+}

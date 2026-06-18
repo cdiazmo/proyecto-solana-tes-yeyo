@@ -1,0 +1,51 @@
+{
+  "doc_id": "ce768f40e802e20e",
+  "path": "11 Sal de Solana y Corrosion/ESTUDIO DE CORROSIÓN DE 2 ABG/REPORT 068980-Corrosion study on A516Gr70 steel coupons (00000002).pdf",
+  "title": "REPORT 068980-Corrosion study on A516Gr70 steel coupons (00000002)",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Corrosion study on A516Gr70 steel coupons under preheating conditions.\n- Four parallelepiped coupons and one U-bend specimen analyzed.\n- Similar corrosion morphology observed except for the U-bend coupon.\n- General corrosion rate estimated using ASTM G1 standard formula.\n- Metallographic study reveals uniform oxide layer without pitting.\n- EDX analyses show significant amounts of magnesium (Mg) and oxygen (O) on the surface of A516Gr70 steel coupons.\n- Magnesium oxide deposition occurs in the outermost part of the iron oxide layer.\n- Iron oxide layer is identified as magnetite (Fe3O4).\n- Deposits are mainly constituted of magnesium oxide (MgO).\n- Cracking is not observed in the U-bend coupon.",
+  "summary_points": [
+    "Corrosion study on A516Gr70 steel coupons under preheating conditions.",
+    "Four parallelepiped coupons and one U-bend specimen analyzed.",
+    "Similar corrosion morphology observed except for the U-bend coupon.",
+    "General corrosion rate estimated using ASTM G1 standard formula.",
+    "Metallographic study reveals uniform oxide layer without pitting.",
+    "EDX analyses show significant amounts of magnesium (Mg) and oxygen (O) on the surface of A516Gr70 steel coupons.",
+    "Magnesium oxide deposition occurs in the outermost part of the iron oxide layer.",
+    "Iron oxide layer is identified as magnetite (Fe3O4).",
+    "Deposits are mainly constituted of magnesium oxide (MgO).",
+    "Cracking is not observed in the U-bend coupon."
+  ],
+  "keywords": [
+    "ASTM G1-03 (2011): Standard Practice for Preparing, Cleaning, and Evaluating Corrosion Test Specimens",
+    "EDX analyses",
+    "SEM/EDX microscopy",
+    "X-ray diffraction analyses",
+    "Brucker D8-Advance X-ray-Diffractometer"
+  ],
+  "references": [
+    "ASTM G1-03 (2011): Standard Practice for Preparing, Cleaning, and Evaluating Corrosion Test Specimens",
+    "EDX analyses",
+    "SEM/EDX microscopy",
+    "X-ray diffraction analyses",
+    "Brucker D8-Advance X-ray-Diffractometer"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ce768f40e802e20e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ce768f40e802e20e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:40:14.768959+00:00",
+  "usage": {
+    "input_tokens": 4646,
+    "output_tokens": 1865,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13336
+}

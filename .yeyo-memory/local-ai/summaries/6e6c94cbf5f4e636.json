@@ -1,0 +1,40 @@
+{
+  "doc_id": "6e6c94cbf5f4e636",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0002-GAR START UP COMMISIONING SPARE PARTS LIST.pdf",
+  "title": "4521-LIS-LOI-039-062-0002-GAR START UP COMMISIONING SPARE PARTS LIST",
+  "doc_code": "4521-LIS-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists spare parts required for the start-up commissioning of a HEX replacement TES Solana project by Arizona Solar One.",
+  "summary_points": [
+    "This document lists spare parts required for the start-up commissioning of a HEX replacement TES Solana project by Arizona Solar One."
+  ],
+  "keywords": [
+    "start-up",
+    "commissioning",
+    "spare parts",
+    "Arizona Solar One",
+    "HEX replacement",
+    "TES Solana"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0002-GAR",
+    "195001-LIS-0002"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6e6c94cbf5f4e636.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6e6c94cbf5f4e636.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:12:24.002769+00:00",
+  "usage": {
+    "input_tokens": 1162,
+    "output_tokens": 652,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2016
+}

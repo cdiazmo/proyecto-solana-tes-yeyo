@@ -1,0 +1,38 @@
+{
+  "doc_id": "dd37ff87ddb3457a",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Eléctrico/PLN/4521-PLN-AEE-27-31-0002-GAR_R01 New trays layout.pdf",
+  "title": "4521-PLN-AEE-27-31-0002-GAR R01 New trays layout",
+  "doc_code": "4521-PLN-AEE-27-31-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Document describing the feeder routing in Panel P-001 of Plant North.",
+  "summary_points": [
+    "Document describing the feeder routing in Panel P-001 of Plant North."
+  ],
+  "keywords": [
+    "PLANT NORTH",
+    "PANEL P-001",
+    "FEEDER ROUTING",
+    "Date",
+    "Expiry Date"
+  ],
+  "references": [],
+  "warnings": [
+    "Text is mostly garbled or missing."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/dd37ff87ddb3457a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/dd37ff87ddb3457a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T12:49:42.461275+00:00",
+  "usage": {
+    "input_tokens": 562,
+    "output_tokens": 123,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 705
+}

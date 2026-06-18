@@ -1,0 +1,53 @@
+{
+  "doc_id": "0c511241e583f707",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.6 Formulario pozo 2.pdf",
+  "title": "5.9.3.6 Formulario pozo 2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general de industria para Helios | Hyperion Energy Investments, S.L.\n- Ubicación en Villarta de San Juan, Ciudad Real\n- Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y térmicas\n- Almacenamiento de productos químicos y equipos a presión IE O EEE\n- Referencia catastral urbana W rústica (20 dígitos)\n- Coordenadas UTM: X: 459628 / Y: 4343470\n- Documentación requerida para instalaciones de alta tensión, frigoríficas y equipos a presión.\n- Instrucciones para cumplimentar el formulario de solicitud de instalaciones industriales.\n- Requisitos específicos para proyectos generales y inspección inicial.\n- Notas informativas sobre protección de datos personales y plazos de tramitación.",
+  "summary_points": [
+    "Solicitud de registro de proyecto general de industria para Helios | Hyperion Energy Investments, S.L.",
+    "Ubicación en Villarta de San Juan, Ciudad Real",
+    "Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y térmicas",
+    "Almacenamiento de productos químicos y equipos a presión IE O EEE",
+    "Referencia catastral urbana W rústica (20 dígitos)",
+    "Coordenadas UTM: X: 459628 / Y: 4343470",
+    "Documentación requerida para instalaciones de alta tensión, frigoríficas y equipos a presión.",
+    "Instrucciones para cumplimentar el formulario de solicitud de instalaciones industriales.",
+    "Requisitos específicos para proyectos generales y inspección inicial.",
+    "Notas informativas sobre protección de datos personales y plazos de tramitación."
+  ],
+  "keywords": [
+    "Real Decreto 2135/1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio, de Industria y sus disposiciones de desarrollo",
+    "MODELO IN.SI_01",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "references": [
+    "Real Decreto 2135/1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio, de Industria y sus disposiciones de desarrollo",
+    "MODELO IN.SI_01",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0c511241e583f707.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0c511241e583f707.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:45:50.944257+00:00",
+  "usage": {
+    "input_tokens": 4929,
+    "output_tokens": 2401,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 14343
+}

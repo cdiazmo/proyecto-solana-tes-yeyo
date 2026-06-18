@@ -1,0 +1,45 @@
+{
+  "doc_id": "6d58898371b72bf8",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0326_R00.pdf",
+  "title": "4521-PLN-DOT-75-63-0326 R00",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe supports with dimensions, materials, and assembly details.",
+  "summary_points": [
+    "Document describing pipe supports with dimensions, materials, and assembly details."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "assembly",
+    "insulation",
+    "stainless steel",
+    "vertical profile"
+  ],
+  "references": [
+    "257-MS-12EF-S-011",
+    "4521-PLN-DOT-75-63-0326",
+    "ARIZONA SOLAR ONE",
+    "SOLANA"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6d58898371b72bf8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6d58898371b72bf8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:01:01.892657+00:00",
+  "usage": {
+    "input_tokens": 1401,
+    "output_tokens": 571,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2903
+}

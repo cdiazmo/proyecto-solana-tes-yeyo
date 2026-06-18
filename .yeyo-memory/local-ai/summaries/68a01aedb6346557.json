@@ -1,0 +1,51 @@
+{
+  "doc_id": "68a01aedb6346557",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.3 Cert instalacion.pdf",
+  "title": "5.7.3.3 Cert instalacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "PCI",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Certificado emitido por D. Francisco Tomás Calderay González.\n- Empresa certificada: Eléctrica Valverdeña, S.L.\n- Instalación contra incendios en nave de montaje y almacenamiento de colectores cilíndricos-parabólicos.\n- Pruebas realizadas según RD 2267/2004 y Art. Décimo del RD 560/2010.\n- Sistemas instalados: automatización, alarmas, comunicación, abastecimiento de agua contra incendios, hidratantes exteriores, bocas de incendios equipadas, columnas secas, extinción por rociadores automáticos de agua, extinción por agua pulverizada, extinción por espuma física de baja expansión y polvo.\n- Propietario: UTE Abener Teyma Campo de San Juan I.\n- La instalación contra incendios incluye un sistema manual de alarma, central de detección de incendios, pulsadores de alarma, sirenas exteriores, sistemas interiores y extintores.\n- El certificado fue emitido por Francisco Tomás Calderay González, Ingeniero Técnico Industrial.\n- La empresa responsable es Eléctrica Valverdeña, S.L., con CIF B-21398516.\n- El certificado fue extendido en Huelva el 20 de Enero de 2011.",
+  "summary_points": [
+    "Certificado emitido por D. Francisco Tomás Calderay González.",
+    "Empresa certificada: Eléctrica Valverdeña, S.L.",
+    "Instalación contra incendios en nave de montaje y almacenamiento de colectores cilíndricos-parabólicos.",
+    "Pruebas realizadas según RD 2267/2004 y Art. Décimo del RD 560/2010.",
+    "Sistemas instalados: automatización, alarmas, comunicación, abastecimiento de agua contra incendios, hidratantes exteriores, bocas de incendios equipadas, columnas secas, extinción por rociadores automáticos de agua, extinción por agua pulverizada, extinción por espuma física de baja expansión y polvo.",
+    "Propietario: UTE Abener Teyma Campo de San Juan I.",
+    "La instalación contra incendios incluye un sistema manual de alarma, central de detección de incendios, pulsadores de alarma, sirenas exteriores, sistemas interiores y extintores.",
+    "El certificado fue emitido por Francisco Tomás Calderay González, Ingeniero Técnico Industrial.",
+    "La empresa responsable es Eléctrica Valverdeña, S.L., con CIF B-21398516.",
+    "El certificado fue extendido en Huelva el 20 de Enero de 2011."
+  ],
+  "keywords": [
+    "RD 2267/2004",
+    "Art. Décimo del RD 560/2010",
+    "PCI-I/H/21",
+    "CIF: B-21398516"
+  ],
+  "references": [
+    "RD 2267/2004",
+    "Art. Décimo del RD 560/2010",
+    "PCI-I/H/21",
+    "CIF: B-21398516"
+  ],
+  "warnings": [
+    "El texto contiene errores tipográficos y caracteres especiales que pueden afectar la legibilidad."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/68a01aedb6346557.md",
+  "source_extracted_path": ".yeyo-memory/extracted/68a01aedb6346557.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T21:59:01.338444+00:00",
+  "usage": {
+    "input_tokens": 3556,
+    "output_tokens": 1502,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8369
+}

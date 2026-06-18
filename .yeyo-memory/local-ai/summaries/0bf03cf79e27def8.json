@@ -1,0 +1,39 @@
+{
+  "doc_id": "0bf03cf79e27def8",
+  "path": "03 GD Fabricacion LOI TES 6/Listas/4521-LIS-LOI-039-062-0002-GAR_rev00 Start up commissioning spare parts list.pdf",
+  "title": "4521-LIS-LOI-039-062-0002-GAR rev00 Start up commissioning spare parts list",
+  "doc_code": "4521-LIS-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists spare parts required for the start-up commissioning of an oil to salt exchanger at HEX replacement TES Solana project.",
+  "summary_points": [
+    "This document lists spare parts required for the start-up commissioning of an oil to salt exchanger at HEX replacement TES Solana project."
+  ],
+  "keywords": [
+    "start up commissioning",
+    "spare parts list",
+    "oil to salt exchanger",
+    "HEX replacement TES Solana",
+    "Abengoa"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0002-GAR",
+    "1950101-LID-002"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0bf03cf79e27def8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0bf03cf79e27def8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:12:51.108487+00:00",
+  "usage": {
+    "input_tokens": 1253,
+    "output_tokens": 591,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2162
+}

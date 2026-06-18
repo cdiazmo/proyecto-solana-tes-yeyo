@@ -1,0 +1,43 @@
+{
+  "doc_id": "4fff575111c8a4de",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AEE-39-70-0016-GAR_901_Rev01_Automatic valves datasheet.xlsx",
+  "title": "4521-HDD-AEE-39-70-0016-GAR 901 Rev01 Automatic valves datasheet",
+  "doc_code": "4521-HDD-AEE-39-70-0016",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for Automatic Valves Datasheet, HEX replacement project, Abeinsa Engineering client.",
+  "summary_points": [
+    "Technical Comment Sheet for Automatic Valves Datasheet, HEX replacement project, Abeinsa Engineering client."
+  ],
+  "keywords": [
+    "4521-HDD-AEE-39-70-0016-GAR_901",
+    "Automatic valves datasheet",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Input data change"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-70-0016-GAR",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02",
+    "4521-CAL-AEE-58-11-0002-GAR Rev 02"
+  ],
+  "warnings": [
+    "Client Main Comments and Annexes to Comments are not provided."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4fff575111c8a4de.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4fff575111c8a4de.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:46:47.801980+00:00",
+  "usage": {
+    "input_tokens": 1737,
+    "output_tokens": 439,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3473
+}

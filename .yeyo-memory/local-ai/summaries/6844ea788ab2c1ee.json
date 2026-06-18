@@ -1,0 +1,51 @@
+{
+  "doc_id": "6844ea788ab2c1ee",
+  "path": "02 GD LOI/mama/4521-MOM-LOI-039-062-0004-GAR-901_Rev00 Installation, Start-Up, Operation and Maintenance Instructions.xlsx",
+  "title": "4521-MOM-LOI-039-062-0004-GAR-901 Rev00 Installation, Start-Up, Operation and Maintenance Instructions",
+  "doc_code": "4521-MOM-LOI-039-062-0004",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Installation, Start-Up, Operation and Maintenance Instructions for HEX replacement TES Solana. Document includes details on assumptions, revisions, mistakes, execution process updates, design changes, and client comments.",
+  "summary_points": [
+    "Installation, Start-Up, Operation and Maintenance Instructions for HEX replacement TES Solana. Document includes details on assumptions, revisions, mistakes, execution process updates, design changes, and client comments."
+  ],
+  "keywords": [
+    "4521-MOM-LOI-039-062-0004-GAR",
+    "Installation",
+    "Start-Up",
+    "Operation",
+    "Maintenance",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Assumptions",
+    "Revisions",
+    "Mistakes",
+    "Execution process update",
+    "Design change"
+  ],
+  "references": [
+    "4521-MOM-LOI-039-062-0004-GAR",
+    "4521-TMT-AEE-AEPC-0020",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "Text incomplete in 'Submitted Document' and 'Client Main Comments'",
+    "OCR issues with date format (dd/mm/aaaa)"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6844ea788ab2c1ee.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6844ea788ab2c1ee.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:00:50.103210+00:00",
+  "usage": {
+    "input_tokens": 1218,
+    "output_tokens": 431,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2364
+}

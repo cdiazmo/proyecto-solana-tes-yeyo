@@ -1,0 +1,42 @@
+{
+  "doc_id": "e82dbc5c30ffcd70",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-II B- Discharging - max level @ 1040rpm.pdf",
+  "title": "AnnexI-II B- Discharging - max level @ 1040rpm",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Technical report on hydraulic circuits at 1040rpm, including flow rates, velocities, pressures, and tank levels.",
+  "summary_points": [
+    "Technical report on hydraulic circuits at 1040rpm, including flow rates, velocities, pressures, and tank levels."
+  ],
+  "keywords": [
+    "hydraulic circuits",
+    "flow rates",
+    "velocities",
+    "pressures",
+    "tank levels",
+    "1040rpm",
+    "Pump Discharge",
+    "Cold Salt Tank",
+    "Hot salt tank"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en varios lugares, especialmente en números y unidades de medida."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e82dbc5c30ffcd70.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e82dbc5c30ffcd70.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:38:26.686201+00:00",
+  "usage": {
+    "input_tokens": 1548,
+    "output_tokens": 1646,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1865
+}

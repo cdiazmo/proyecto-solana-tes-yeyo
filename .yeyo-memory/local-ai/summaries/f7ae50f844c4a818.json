@@ -1,0 +1,47 @@
+{
+  "doc_id": "f7ae50f844c4a818",
+  "path": "Documentos en Servidor Atlántica/1950801-PID-3030-00 Rev.01.pdf",
+  "title": "1950801-PID-3030-00 Rev.01",
+  "doc_code": "",
+  "revision": "Rev.01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Planos de proceso para el almacenamiento y manejo de sales fundidas, incluyendo anillos difusores, bombas, tanques, sistemas de precalentamiento, PSV/VB, sensores y ventiladores.",
+  "summary_points": [
+    "Planos de proceso para el almacenamiento y manejo de sales fundidas, incluyendo anillos difusores, bombas, tanques, sistemas de precalentamiento, PSV/VB, sensores y ventiladores."
+  ],
+  "keywords": [
+    "anillos difusores",
+    "bombas",
+    "tanques",
+    "precalentamiento",
+    "PSV/VB",
+    "sensores",
+    "ventiladores"
+  ],
+  "references": [
+    "1950801-PID-3030-00 Rev.01",
+    "P&ID 2046-PLN-UTE-58-71-0001",
+    "P&ID 2046-PLN-UTE-58-71-0002",
+    "P&ID 2046-PLN-UTE-58-71-0003",
+    "P&ID 2046-PLN-UTE-58-71-0004",
+    "P&ID 2046-PLN-UTE-58-71-0005"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varias páginas, especialmente en los números y códigos."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f7ae50f844c4a818.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f7ae50f844c4a818.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:07:39.988190+00:00",
+  "usage": {
+    "input_tokens": 4904,
+    "output_tokens": 777,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7373
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "6f2743f8a70f03a1",
+  "path": "01 GD AE/Electrico/LIS/4521-LIS-AGE-39-40-0010_GAR_901_Rev00_TES Area Electric consumer list Unit 5-6.xlsx",
+  "title": "4521-LIS-AGE-39-40-0010 GAR 901 Rev00 TES Area Electric consumer list Unit 5-6",
+  "doc_code": "4521-LIS-AGE-39-40-",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Listados e indices",
+  "summary": "TCS document for HEX replacement TES Solana, detailing input data, assumptions, and reasons for revision.",
+  "summary_points": [
+    "TCS document for HEX replacement TES Solana, detailing input data, assumptions, and reasons for revision."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-40-0010-GAR-901",
+    "HEX replacement TES Solana",
+    "input data",
+    "assumptions",
+    "reasons for revision"
+  ],
+  "references": [
+    "4521-PLN-AEE-39-40-0010-GAR",
+    "4521-PLN-NIC-27-41-2529",
+    "4521-PLN-NIC-27-41-2530"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6f2743f8a70f03a1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6f2743f8a70f03a1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:39:15.110798+00:00",
+  "usage": {
+    "input_tokens": 1827,
+    "output_tokens": 944,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3469
+}

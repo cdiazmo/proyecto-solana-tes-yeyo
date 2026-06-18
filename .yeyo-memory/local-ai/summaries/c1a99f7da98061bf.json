@@ -1,0 +1,42 @@
+{
+  "doc_id": "c1a99f7da98061bf",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AEE-39-70-0011-GAR_901_Rev02_Pressure transmitter.xlsx",
+  "title": "4521-HDD-AEE-39-70-0011-GAR 901 Rev02 Pressure transmitter",
+  "doc_code": "4521-HDD-AEE-39-70-0011",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical comment sheet for pressure transmitter, revision 2, addressing input data changes and design updates.",
+  "summary_points": [
+    "Technical comment sheet for pressure transmitter, revision 2, addressing input data changes and design updates."
+  ],
+  "keywords": [
+    "pressure transmitter",
+    "technical comment sheet",
+    "revision 2",
+    "input data change",
+    "design update"
+  ],
+  "references": [
+    "4521-HDD-AEE-39-70-0011-GAR_901",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-LIS-AEE-39-70-0015-GAR Rev.0"
+  ],
+  "warnings": [
+    "#VALUE! entries in some fields, unclear client status date"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c1a99f7da98061bf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c1a99f7da98061bf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:07:43.448909+00:00",
+  "usage": {
+    "input_tokens": 1875,
+    "output_tokens": 646,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3910
+}

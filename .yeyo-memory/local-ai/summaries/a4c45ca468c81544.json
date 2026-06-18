@@ -1,0 +1,46 @@
+{
+  "doc_id": "a4c45ca468c81544",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/ZZ_comments MCPD/MCPD Combined Review B201801005[2].pdf",
+  "title": "MCPD Combined Review B201801005[2]",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Building permit for heat exchanger replacement requires revisions in structural calculations and zoning compliance. Submit all documents at once, including a signed contract with an Arizona licensed contractor.",
+  "summary_points": [
+    "Building permit for heat exchanger replacement requires revisions in structural calculations and zoning compliance. Submit all documents at once, including a signed contract with an Arizona licensed contractor."
+  ],
+  "keywords": [
+    "building permit",
+    "heat exchanger",
+    "structural calculations",
+    "zoning compliance",
+    "revisions",
+    "resubmittal"
+  ],
+  "references": [
+    "403-20-021H",
+    "B201801005",
+    "MC-123-18",
+    "Stantec File Number: 185214039",
+    "Todd Probasco, C.B.O.",
+    "Shicheng Tao, PE"
+  ],
+  "warnings": [
+    "Text may be OCR-dudoso in some sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a4c45ca468c81544.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a4c45ca468c81544.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:06:18.309619+00:00",
+  "usage": {
+    "input_tokens": 2234,
+    "output_tokens": 410,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6588
+}

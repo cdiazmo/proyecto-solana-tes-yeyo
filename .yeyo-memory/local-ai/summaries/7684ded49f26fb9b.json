@@ -1,0 +1,47 @@
+{
+  "doc_id": "7684ded49f26fb9b",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201 Rev.0 Packing List - Pipe.pdf",
+  "title": "1950201 Rev.0 Packing List - Pipe",
+  "doc_code": "",
+  "revision": "Rev.0",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Packing list for oil to salt heat exchangers, shipped from Mexico to Arizona Solar One LLC. Total weight: 12.230 Kg.",
+  "summary_points": [
+    "Packing list for oil to salt heat exchangers, shipped from Mexico to Arizona Solar One LLC. Total weight: 12.230 Kg."
+  ],
+  "keywords": [
+    "packing list",
+    "pipe",
+    "oil to salt heat exchangers",
+    "LOINTEK SL",
+    "Arizona Solar One LLC",
+    "Mexico",
+    "SPAIN",
+    "VAT Number",
+    "PO Number"
+  ],
+  "references": [
+    "TD-LIS-SLN-003-004",
+    "255-MS-04D-CS31-24\"-SP4",
+    "255-HTF-02D-CS30-24\"-SP4",
+    "73071110"
+  ],
+  "warnings": [
+    "Texto incompleto en la firma del transportista y receptor"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7684ded49f26fb9b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7684ded49f26fb9b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:37:50.936146+00:00",
+  "usage": {
+    "input_tokens": 1583,
+    "output_tokens": 689,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1855
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "326087a9bd94787b",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0347_R02.pdf",
+  "title": "4521-PLN-DOT-75-63-0347 R02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for a solar project foundation, property of Abeinsa. Insulated, size 22, for construction at ARIZONA SOLAR ONE.",
+  "summary_points": [
+    "Drawing for a solar project foundation, property of Abeinsa. Insulated, size 22, for construction at ARIZONA SOLAR ONE."
+  ],
+  "keywords": [
+    "drawing",
+    "foundation",
+    "insulated",
+    "size 22",
+    "solar project",
+    "arizona solar one"
+  ],
+  "references": [
+    "255-MS-09F-S-001",
+    "Ildefonso Gonzalez, P.E. PhD",
+    "BQ HR IGA",
+    "JR HH LJ"
+  ],
+  "warnings": [
+    "OCR issues with symbols and numbers"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/326087a9bd94787b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/326087a9bd94787b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:20:40.312436+00:00",
+  "usage": {
+    "input_tokens": 905,
+    "output_tokens": 448,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1105
+}

@@ -1,0 +1,73 @@
+{
+  "doc_id": "9e0a4402213066f6",
+  "path": "Documentacion con sello PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+  "title": "SMWP Document List 4.3.2019",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Document list for Solana HEX 6 Project, Rev: 2.\n- Includes sections on C&S, DRA, Electrical, LIS, I&C, ESP, HDD, MEM, and M&P.\n- Documents cover various aspects like calculations, layouts, electrical systems, and more.\n- Some documents are marked as 'New Document' or have specific revisions.\n- The list includes details on heat exchangers, foundations, cable trays, and more.\n- Document includes various engineering standards and specifications.\n- Multiple documents related to piping systems, materials, and supports.\n- Some documents are marked as 'New Document' with specific instructions.\n- Several documents have revisions noted (e.g., Rev02, Rev03).\n- Documents cover topics like paint procedures, pipe supports, and safety measures.\n- Documento contiene una lista de códigos y descripciones con sus respectivas cantidades.\n- Existen varios códigos relacionados con soportes de tubos metálicos (MS Pipe supports).",
+  "summary_points": [
+    "Document list for Solana HEX 6 Project, Rev: 2.",
+    "Includes sections on C&S, DRA, Electrical, LIS, I&C, ESP, HDD, MEM, and M&P.",
+    "Documents cover various aspects like calculations, layouts, electrical systems, and more.",
+    "Some documents are marked as 'New Document' or have specific revisions.",
+    "The list includes details on heat exchangers, foundations, cable trays, and more.",
+    "Document includes various engineering standards and specifications.",
+    "Multiple documents related to piping systems, materials, and supports.",
+    "Some documents are marked as 'New Document' with specific instructions.",
+    "Several documents have revisions noted (e.g., Rev02, Rev03).",
+    "Documents cover topics like paint procedures, pipe supports, and safety measures.",
+    "Documento contiene una lista de códigos y descripciones con sus respectivas cantidades.",
+    "Existen varios códigos relacionados con soportes de tubos metálicos (MS Pipe supports).",
+    "Hay un solo código con estado 'Pending acknowledgment of pipe shoe change'.",
+    "Se mencionan múltiples códigos para reemplazos de piezas HEX Replacement.",
+    "Algunos códigos tienen cantidades significativas, como 5 y 4."
+  ],
+  "keywords": [
+    "PE 08",
+    "SMWP Document List 4.3.2019.xlsx",
+    "Solana HEX 6 Project",
+    "Rev: 2",
+    "Atlanticay Yield",
+    "Date: 4/3/2019",
+    "PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+    "4521-ESP-ANC-68-61-CS31",
+    "4521-HDD-AEE-00-64-0001-GAR_Rev02_TES HTF PSV Datasheet",
+    "4521-PLN-DOT-75-63-0265 - HTF Pipe supports",
+    "PE 08/Lista de documentos SMWP/SMWP Document List",
+    "4.3.2019.xlsx"
+  ],
+  "references": [
+    "PE 08",
+    "SMWP Document List 4.3.2019.xlsx",
+    "Solana HEX 6 Project",
+    "Rev: 2",
+    "Atlanticay Yield",
+    "Date: 4/3/2019",
+    "PE 08/Lista de documentos SMWP/SMWP Document List 4.3.2019.xlsx",
+    "4521-ESP-ANC-68-61-CS31",
+    "4521-HDD-AEE-00-64-0001-GAR_Rev02_TES HTF PSV Datasheet",
+    "4521-PLN-DOT-75-63-0265 - HTF Pipe supports",
+    "PE 08/Lista de documentos SMWP/SMWP Document List",
+    "4.3.2019.xlsx"
+  ],
+  "warnings": [
+    "Some document codes are incomplete or unclear (e.g., 'M3D', 'INF').",
+    "The fragment ends abruptly with an incomplete list of pipe support documents."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9e0a4402213066f6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9e0a4402213066f6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:12:04.823817+00:00",
+  "usage": {
+    "input_tokens": 12508,
+    "output_tokens": 4680,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 21834
+}

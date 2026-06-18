@@ -1,0 +1,55 @@
+{
+  "doc_id": "a94699d9fd313f8d",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180404/4521-PLN-AEE-00-00-0200_R00_S3.1.pdf",
+  "title": "4521-PLN-AEE-00-00-0200 R00 S3.1",
+  "doc_code": "4521-PLN-AEE-00-00-",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "- The document contains a series of measurements and offsets.\n- There are multiple STA (Station) values with corresponding offsets and RIM/inv values.\n- The text includes references to specific locations such as 'ACCESSWAY' and 'POWERLINE ROAD'.\n- The document mentions project details including the SOLANA POWER GENERATION PLANT and various sections of land.\n- There is a notice regarding alternate billing cycles for the project.\n- Earring located at S 89°52'26\" E along the South Line of Township 5South, Range 7 West\n- Monument by a 1/2\" iron bar with red plastic cap at the Southwest Corner of Section 34 and Section 32\n- Primary Bench Mark: Triangulation Station \"MID\"\n- Elevation of 726.53 (NAVD '88)\n- Parcel described in detail, commencing at the Southwest Corner of Section 32\n- Total area of 7,514,527 square feet or 172.51 acres",
+  "summary_points": [
+    "The document contains a series of measurements and offsets.",
+    "There are multiple STA (Station) values with corresponding offsets and RIM/inv values.",
+    "The text includes references to specific locations such as 'ACCESSWAY' and 'POWERLINE ROAD'.",
+    "The document mentions project details including the SOLANA POWER GENERATION PLANT and various sections of land.",
+    "There is a notice regarding alternate billing cycles for the project.",
+    "Earring located at S 89°52'26\" E along the South Line of Township 5South, Range 7 West",
+    "Monument by a 1/2\" iron bar with red plastic cap at the Southwest Corner of Section 34 and Section 32",
+    "Primary Bench Mark: Triangulation Station \"MID\"",
+    "Elevation of 726.53 (NAVD '88)",
+    "Parcel described in detail, commencing at the Southwest Corner of Section 32",
+    "Total area of 7,514,527 square feet or 172.51 acres"
+  ],
+  "keywords": [
+    "SOLANA POWER GENERATION PLANT",
+    "ACCESSWAY",
+    "POWERLINE ROAD",
+    "BUREAU OF LANDMANAGEMENT",
+    "GANNETT FLEMING, 2/9/15"
+  ],
+  "references": [
+    "SOLANA POWER GENERATION PLANT",
+    "ACCESSWAY",
+    "POWERLINE ROAD",
+    "BUREAU OF LANDMANAGEMENT",
+    "GANNETT FLEMING, 2/9/15"
+  ],
+  "warnings": [
+    "The text contains numerous repeated characters and numbers, which may indicate OCR errors.",
+    "Some values are not clearly readable due to formatting issues."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a94699d9fd313f8d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a94699d9fd313f8d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:17:46.048485+00:00",
+  "usage": {
+    "input_tokens": 7225,
+    "output_tokens": 2827,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9812
+}

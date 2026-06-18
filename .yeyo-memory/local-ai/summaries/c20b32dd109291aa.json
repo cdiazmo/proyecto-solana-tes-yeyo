@@ -1,0 +1,47 @@
+{
+  "doc_id": "c20b32dd109291aa",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180323/SP-4 FINAL 3_23_2018[1].pdf",
+  "title": "SP-4 FINAL 3 23 2018[1]",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Site plan and elevation drawings for Power Island, including grading, drainage, lighting, and area plans. Includes reference sheets and key notes on proposed improvements and existing work.",
+  "summary_points": [
+    "Site plan and elevation drawings for Power Island, including grading, drainage, lighting, and area plans. Includes reference sheets and key notes on proposed improvements and existing work."
+  ],
+  "keywords": [
+    "site plan",
+    "power island",
+    "elevations",
+    "grading",
+    "drainage",
+    "lighting",
+    "area plans",
+    "reference sheets",
+    "proposed improvements",
+    "existing work"
+  ],
+  "references": [
+    "ARIZONA SOLAR ONECASE # Z2015STATIONSOLANA GENERATING",
+    "SP-45Power Island Overall Plan",
+    "PV-2PARKINGPLAN"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c20b32dd109291aa.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c20b32dd109291aa.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:53:29.721590+00:00",
+  "usage": {
+    "input_tokens": 1507,
+    "output_tokens": 621,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2432
+}

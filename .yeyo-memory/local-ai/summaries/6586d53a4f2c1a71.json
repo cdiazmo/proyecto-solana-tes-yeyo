@@ -1,0 +1,42 @@
+{
+  "doc_id": "6586d53a4f2c1a71",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0524_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0524 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for support definition-P02 with dimensions and materials. Property of Abeinsa.",
+  "summary_points": [
+    "Drawing for support definition-P02 with dimensions and materials. Property of Abeinsa."
+  ],
+  "keywords": [
+    "Support definition",
+    "W8x28",
+    "GUSSET PLATES",
+    "Insulated",
+    "ARIZONA SOLAR ONE",
+    "257-MS-10F-S-005"
+  ],
+  "references": [
+    "257-MS-10F-S-005",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos caracteres"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6586d53a4f2c1a71.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6586d53a4f2c1a71.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:17:43.294216+00:00",
+  "usage": {
+    "input_tokens": 741,
+    "output_tokens": 471,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 947
+}

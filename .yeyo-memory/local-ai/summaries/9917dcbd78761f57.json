@@ -1,0 +1,44 @@
+{
+  "doc_id": "9917dcbd78761f57",
+  "path": "Documentacion con sello PE 08/Apoyos/MS Dwgs típicos de soporte/Soporte tuberias TES 6 MS/4521-PLN-DOT-75-63-0333.pdf",
+  "title": "4521-PLN-DOT-75-63-0333",
+  "doc_code": "4521-PLN-DOT-75-63-0333",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for support structures, including dimensions, materials, and construction instructions. It covers various types of shoes and guides, with specific notes on welding and gap requirements.",
+  "summary_points": [
+    "This document provides technical details for support structures, including dimensions, materials, and construction instructions. It covers various types of shoes and guides, with specific notes on welding and gap requirements."
+  ],
+  "keywords": [
+    "support",
+    "shoes",
+    "guides",
+    "dimensions",
+    "materials",
+    "construction",
+    "welding",
+    "gaps"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0333",
+    "Typical Standard 255-MS-11F-S-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly names and dates"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9917dcbd78761f57.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9917dcbd78761f57.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:13:47.455769+00:00",
+  "usage": {
+    "input_tokens": 1290,
+    "output_tokens": 975,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2416
+}

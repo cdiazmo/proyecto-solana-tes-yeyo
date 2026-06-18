@@ -1,0 +1,48 @@
+{
+  "doc_id": "d030fd126a1f18a2",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-005 Monthly Report - 2020 June.pdf",
+  "title": "19500201-INF-005 Monthly Report - 2020 June",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly Progress Report for Arizona Solar One project HEX replacement TES Solana.\n- Engineering tasks detailed in Annex II.\n- Purchases information in Annex III.\n- Manufacturing progress of equipment units 1 to 6.\n- Open issue due to Force Majeure (COVID-19).\n- Invoices for advance payments and practical completion.\n- Planning timeline for interconnection pipe delivery.",
+  "summary_points": [
+    "Monthly Progress Report for Arizona Solar One project HEX replacement TES Solana.",
+    "Engineering tasks detailed in Annex II.",
+    "Purchases information in Annex III.",
+    "Manufacturing progress of equipment units 1 to 6.",
+    "Open issue due to Force Majeure (COVID-19).",
+    "Invoices for advance payments and practical completion.",
+    "Planning timeline for interconnection pipe delivery."
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-005",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Maricopa County, Arizona"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-005",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Maricopa County, Arizona"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d030fd126a1f18a2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d030fd126a1f18a2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:19:13.235366+00:00",
+  "usage": {
+    "input_tokens": 12025,
+    "output_tokens": 5917,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 16285
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "972707957f8c82f4",
+  "path": "Documentos en Servidor Atlántica/260422_02 LIS cargas Sc y Hl/1950801-LIS-6500-00_Lista de Consumidores Eléctricos.xlsx",
+  "title": "1950801-LIS-6500-00 Lista de Consumidores Eléctricos",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/972707957f8c82f4.md",
+  "source_extracted_path": ".yeyo-memory/extracted/972707957f8c82f4.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:00:16.213136+00:00",
+  "usage": {
+    "input_tokens": 8573,
+    "output_tokens": 4032,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7549
+}

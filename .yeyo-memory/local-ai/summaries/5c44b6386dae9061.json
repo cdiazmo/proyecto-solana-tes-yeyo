@@ -1,0 +1,49 @@
+{
+  "doc_id": "5c44b6386dae9061",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.3 CIAT.pdf",
+  "title": "5.10.3.3 CIAT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificación de instalación de línea eléctrica de alta tensión para suministro auxiliar en Arenas de San Juan, Ciudad Real. Instalada por Instalaciones Insabensa, S.A., supervisada por Applus Norcontrol, S.L.U.",
+  "summary_points": [
+    "Certificación de instalación de línea eléctrica de alta tensión para suministro auxiliar en Arenas de San Juan, Ciudad Real. Instalada por Instalaciones Insabensa, S.A., supervisada por Applus Norcontrol, S.L.U."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "línea eléctrica",
+    "alta tensión",
+    "suministro auxiliar",
+    "Arenas de San Juan",
+    "Ciudad Real",
+    "Instalaciones Insabensa",
+    "Applus Norcontrol"
+  ],
+  "references": [
+    "Real Decreto 223/2008",
+    "ITC-LAT 01 a 09",
+    "UNE 211006",
+    "ET/RD-DR-00008"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares, como 'NIF' y 'Fecha'",
+    "Información incompleta sobre la tensión (45 i)",
+    "Coordenadas UTM repetidas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5c44b6386dae9061.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5c44b6386dae9061.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T01:39:07.916312+00:00",
+  "usage": {
+    "input_tokens": 2267,
+    "output_tokens": 1361,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5143
+}

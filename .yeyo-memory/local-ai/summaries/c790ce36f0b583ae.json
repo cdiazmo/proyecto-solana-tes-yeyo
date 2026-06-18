@@ -1,0 +1,41 @@
+{
+  "doc_id": "c790ce36f0b583ae",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/LIS/4521-LIS-AEE-39-61-0002-GAR_Rev00_Equipment List.pdf",
+  "title": "4521-LIS-AEE-39-61-0002-GAR Rev00 Equipment List",
+  "doc_code": "4521-LIS-AEE-39-61-0002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists equipment for a solar power plant, including Shell&Tube Heat Exchangers and MS Drain Back Tanks.",
+  "summary_points": [
+    "This document lists equipment for a solar power plant, including Shell&Tube Heat Exchangers and MS Drain Back Tanks."
+  ],
+  "keywords": [
+    "equipment list",
+    "solar power plant",
+    "Shell&Tube Heat Exchanger",
+    "MS Drain Back Tank"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P278-GAR",
+    "4521-HDD-LOI-039-062-0001-GAR",
+    "GA Drawing 4521-PLN-LOI-039-062-0001-GAR"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c790ce36f0b583ae.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c790ce36f0b583ae.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:38:53.640151+00:00",
+  "usage": {
+    "input_tokens": 1736,
+    "output_tokens": 1500,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3301
+}

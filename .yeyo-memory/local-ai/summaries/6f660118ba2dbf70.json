@@ -1,0 +1,45 @@
+{
+  "doc_id": "6f660118ba2dbf70",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-ANC-27-21-O490-901_MCC-633_SLD_TES HEX Change.xlsx",
+  "title": "4521-PLN-ANC-27-21-O490-901 MCC-633 SLD TES HEX Change",
+  "doc_code": "4521-PLN-ANC-27-21-O490",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "TCS for HEX replacement TES Solana, revision 12, IFB purpose, input data change, new tracing.",
+  "summary_points": [
+    "TCS for HEX replacement TES Solana, revision 12, IFB purpose, input data change, new tracing."
+  ],
+  "keywords": [
+    "4521-PLN-ANC-27-21-O490",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "IFB",
+    "Input data change",
+    "New pipes",
+    "Lighting"
+  ],
+  "references": [
+    "4521-LIS-AGE-39-40-0010_R00-GAR TES Area Electric consumer list Unit 5-6",
+    "4521-TMT-AEE-AEPC-0043"
+  ],
+  "warnings": [
+    "Text incomplete in 'Client Main Comments' and 'Annexes to Comments'",
+    "OCR issues with some dates and names"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6f660118ba2dbf70.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6f660118ba2dbf70.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:05:50.019202+00:00",
+  "usage": {
+    "input_tokens": 1268,
+    "output_tokens": 388,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2376
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "72dcaa6d5f4aa581",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0003-GAR_REV 0_Tube Bending Procedure.xlsx",
+  "title": "4521-INS-LOI-039-062-0003-GAR REV 0 Tube Bending Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document detailing the tube bending procedure for HEX replacement TES Solana project.",
+  "summary_points": [
+    "Document detailing the tube bending procedure for HEX replacement TES Solana project."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0003-GAR",
+    "Tube Bending Procedure",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0022",
+    "4521-INS-LOI-039-062-0003-GAR_REV 0_Tube Bending Procedure.xlsx"
+  ],
+  "warnings": [
+    "OCR dudoso en varios campos, como 'Submitted Document' y 'Client Transmittal Number'.",
+    "Falta información en algunos campos de comentarios del cliente."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/72dcaa6d5f4aa581.md",
+  "source_extracted_path": ".yeyo-memory/extracted/72dcaa6d5f4aa581.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:29:16.986092+00:00",
+  "usage": {
+    "input_tokens": 1173,
+    "output_tokens": 432,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2226
+}

@@ -1,0 +1,58 @@
+{
+  "doc_id": "d918c8ccd29244ae",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/4521-PLN-DOT-75-63-0265_Rev01.pdf",
+  "title": "4521-PLN-DOT-75-63-0265 Rev01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for support structures, including dimensions, notes on geometry and loads, and references to typical standards.",
+  "summary_points": [
+    "This document provides technical details for support structures, including dimensions, notes on geometry and loads, and references to typical standards."
+  ],
+  "keywords": [
+    "support definition",
+    "dimensions",
+    "isometric reference point",
+    "elevation",
+    "side view",
+    "notes",
+    "geometry",
+    "loads",
+    "stiffeners",
+    "P11",
+    "drawing details",
+    "project",
+    "sheets",
+    "status",
+    "EPC Contractor",
+    "supplier eng",
+    "client",
+    "stamp",
+    "drawn by rev",
+    "date"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0265 Rev01",
+    "252-HTF-21F-S-007",
+    "Anti-Lift Guide Insulated / Uninsulated",
+    "Support Structure Insulated / Uninsulated"
+  ],
+  "warnings": [
+    "OCR issues with some characters and numbers"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d918c8ccd29244ae.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d918c8ccd29244ae.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:35:24.780874+00:00",
+  "usage": {
+    "input_tokens": 2364,
+    "output_tokens": 550,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4977
+}

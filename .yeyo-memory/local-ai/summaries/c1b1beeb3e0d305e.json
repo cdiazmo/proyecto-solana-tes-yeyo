@@ -1,0 +1,47 @@
+{
+  "doc_id": "c1b1beeb3e0d305e",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-ANC-00-70-I001.pdf",
+  "title": "4521-PLN-ANC-00-70-I001",
+  "doc_code": "4521-PLN-ANC-00-70-I001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Drawing index for project 4521-PLN-ANC.\n- Includes various sheets and components such as solar field details, interlock notes, HTF pumps, and more.\n- Lists specific drawing numbers like 4521-PLN-ANC-00-70-I001 and 4521-PLN-AGE-68-7\n- NG TOWER - SYSTEMS includes multiple cooling towers, chemical feed systems, and water treatment units.\n- Drawing index lists various components and their drawing numbers.\n- Revisions indicate updates to the document over time.",
+  "summary_points": [
+    "Drawing index for project 4521-PLN-ANC.",
+    "Includes various sheets and components such as solar field details, interlock notes, HTF pumps, and more.",
+    "Lists specific drawing numbers like 4521-PLN-ANC-00-70-I001 and 4521-PLN-AGE-68-7",
+    "NG TOWER - SYSTEMS includes multiple cooling towers, chemical feed systems, and water treatment units.",
+    "Drawing index lists various components and their drawing numbers.",
+    "Revisions indicate updates to the document over time."
+  ],
+  "keywords": [
+    "4521-PLN-ANC-67-71-P401",
+    "4521-PLN-AGE-67-71-P407",
+    "4521-PLN-ANC-67-71-P438",
+    "4521-PLN-CSL-67-71-P4570"
+  ],
+  "references": [
+    "4521-PLN-ANC-67-71-P401",
+    "4521-PLN-AGE-67-71-P407",
+    "4521-PLN-ANC-67-71-P438",
+    "4521-PLN-CSL-67-71-P4570"
+  ],
+  "warnings": [
+    "Text is in all caps, which may indicate OCR issues."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c1b1beeb3e0d305e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c1b1beeb3e0d305e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:07:33.058859+00:00",
+  "usage": {
+    "input_tokens": 11402,
+    "output_tokens": 6595,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 15299
+}

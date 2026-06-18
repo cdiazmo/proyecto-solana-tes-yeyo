@@ -1,0 +1,51 @@
+{
+  "doc_id": "830fba8b5d9c1161",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-08F-CS31-4_Sht_1_R2.pdf",
+  "title": "255-MS-08F-CS31-4 Sht 1 R2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Piping schedule with components, fittings, falls, and elbows.",
+  "summary_points": [
+    "Piping schedule with components, fittings, falls, and elbows."
+  ],
+  "keywords": [
+    "piping",
+    "schedule",
+    "components",
+    "fittings",
+    "falls",
+    "elbows",
+    "pipe",
+    "tee",
+    "elbow",
+    "valve",
+    "nut",
+    "bolt"
+  ],
+  "references": [
+    "255-MS-08F-CS31-4",
+    "255-MS-02F-CS31-24",
+    "255-MS-001",
+    "255-MS-13F-CS31-3",
+    "255-MS-07F-CS31-4"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/830fba8b5d9c1161.md",
+  "source_extracted_path": ".yeyo-memory/extracted/830fba8b5d9c1161.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:26:51.439227+00:00",
+  "usage": {
+    "input_tokens": 1168,
+    "output_tokens": 533,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1133
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "e84bd7c810556f05",
+  "path": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0015-GAR_901_Rev01_I&C Instruments List.xlsx",
+  "title": "4521-LIS-AEE-39-70-0015-GAR 901 Rev01 I&C Instruments List",
+  "doc_code": "4521-LIS-AEE-39-70-0015",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document listing I&C instruments for HEX replacement TES Solana project. Includes input data, assumptions, and client comments.",
+  "summary_points": [
+    "Document listing I&C instruments for HEX replacement TES Solana project. Includes input data, assumptions, and client comments."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-70-0015",
+    "I&C Instruments List",
+    "HEX replacement",
+    "TES Solana",
+    "Input Data",
+    "Assumptions",
+    "Client Comments"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P272-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev01",
+    "4521-CAL-AEE-58-11-0002-GAR Rev 02"
+  ],
+  "warnings": [
+    "Client comments and annexes not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e84bd7c810556f05.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e84bd7c810556f05.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:06:27.544833+00:00",
+  "usage": {
+    "input_tokens": 2054,
+    "output_tokens": 865,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2486
+}

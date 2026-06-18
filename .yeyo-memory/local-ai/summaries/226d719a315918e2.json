@@ -1,0 +1,45 @@
+{
+  "doc_id": "226d719a315918e2",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-I B- Summer Charge - max level @ 850rpm.pdf",
+  "title": "AnnexI-I B- Summer Charge - max level @ 850rpm",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Technical report on summer charge calculations at 850rpm, including equipment parameters, tank levels, and pump circuits.",
+  "summary_points": [
+    "Technical report on summer charge calculations at 850rpm, including equipment parameters, tank levels, and pump circuits."
+  ],
+  "keywords": [
+    "summer charge",
+    "850rpm",
+    "flow rate",
+    "velocity",
+    "pressure",
+    "tanks",
+    "pumps",
+    "circuits"
+  ],
+  "references": [
+    "PIPE-FLO Professional 12",
+    "Project Information",
+    "Calculation Method"
+  ],
+  "warnings": [
+    "Length: Not specified"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/226d719a315918e2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/226d719a315918e2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:44:22.471204+00:00",
+  "usage": {
+    "input_tokens": 1684,
+    "output_tokens": 625,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2069
+}

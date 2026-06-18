@@ -1,0 +1,40 @@
+{
+  "doc_id": "a47162ff5114065e",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-063-0004-GAR_ Isometric.pdf",
+  "title": "4521-PLN-LOI-039-063-0004-GAR Isometric",
+  "doc_code": "4521-PLN-LOI-039-063-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Isometric drawing for Arizona Solar One ABENGOA Solana Generation Station. Includes general mechanics and isometric projections.",
+  "summary_points": [
+    "Isometric drawing for Arizona Solar One ABENGOA Solana Generation Station. Includes general mechanics and isometric projections."
+  ],
+  "keywords": [
+    "4521-PLN-LOI-039-063-0004",
+    "Arizona Solar One",
+    "ABENGOA",
+    "Solana Generation Station",
+    "Isometric drawing",
+    "General Mechanics",
+    "Isometric Projections"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a47162ff5114065e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a47162ff5114065e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:11:22.205658+00:00",
+  "usage": {
+    "input_tokens": 744,
+    "output_tokens": 382,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1178
+}

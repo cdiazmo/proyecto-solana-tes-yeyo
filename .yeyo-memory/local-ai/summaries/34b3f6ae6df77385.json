@@ -1,0 +1,51 @@
+{
+  "doc_id": "34b3f6ae6df77385",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0003-GAR_Rev01_Hydraulic Test Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0003-GAR Rev01 Hydraulic Test Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document is a hydraulic test procedure for oil-to-salt heat exchangers manufactured by LOINTEK.\n- It follows standards like PED (2014/68/EU) and ASME VIII div 2, Ed. 2015.\n- Test equipment includes adjusted manometers with specific calibration requirements.\n- Preparation steps include checking for water tightness and removing air from the equipment before testing.\n- The procedure is owned by Abengoa and requires approval before distribution.\n- La prueba hidráulica debe realizarse a temperaturas entre -4°C y 50°C.\n- El agua para la prueba debe ser potable con un pH entre 7 y 8.5, y debe contener un inhibidor de corrosión.\n- Los equipos se prueban en posición horizontal y presurizados escalonadamente hasta la presión de prueba.\n- La presión de prueba se mantiene durante una hora y luego se reduce para inspección de fugas.\n- Se documentan los resultados de la prueba y se calibran los manómetros utilizados.",
+  "summary_points": [
+    "The document is a hydraulic test procedure for oil-to-salt heat exchangers manufactured by LOINTEK.",
+    "It follows standards like PED (2014/68/EU) and ASME VIII div 2, Ed. 2015.",
+    "Test equipment includes adjusted manometers with specific calibration requirements.",
+    "Preparation steps include checking for water tightness and removing air from the equipment before testing.",
+    "The procedure is owned by Abengoa and requires approval before distribution.",
+    "La prueba hidráulica debe realizarse a temperaturas entre -4°C y 50°C.",
+    "El agua para la prueba debe ser potable con un pH entre 7 y 8.5, y debe contener un inhibidor de corrosión.",
+    "Los equipos se prueban en posición horizontal y presurizados escalonadamente hasta la presión de prueba.",
+    "La presión de prueba se mantiene durante una hora y luego se reduce para inspección de fugas.",
+    "Se documentan los resultados de la prueba y se calibran los manómetros utilizados."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0003-GAR",
+    "1950101-PPH-001",
+    "PED (2014/68/EU)",
+    "ASME VIII div 2, Ed. 2015",
+    "ASME VIII Div.1 – Sección UG-99 (g)"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0003-GAR",
+    "1950101-PPH-001",
+    "PED (2014/68/EU)",
+    "ASME VIII div 2, Ed. 2015",
+    "ASME VIII Div.1 – Sección UG-99 (g)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/34b3f6ae6df77385.md",
+  "source_extracted_path": ".yeyo-memory/extracted/34b3f6ae6df77385.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:07:45.070073+00:00",
+  "usage": {
+    "input_tokens": 4312,
+    "output_tokens": 2083,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12680
+}

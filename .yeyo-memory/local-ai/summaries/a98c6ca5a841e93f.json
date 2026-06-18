@@ -1,0 +1,42 @@
+{
+  "doc_id": "a98c6ca5a841e93f",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0011-GAR-901 WPS.xlsx",
+  "title": "4521-INS-LOI-039-062-0011-GAR-901 WPS",
+  "doc_code": "4521-INS-LOI-039-062-0011",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project, dated 2016-12-16. Issued for design with input data change as the reason for revision.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project, dated 2016-12-16. Issued for design with input data change as the reason for revision."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "IFD",
+    "Input data change"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0011-GAR",
+    "4521-TMT-AEE-AEPC-0030"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios campos, especialmente en fechas y códigos de documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a98c6ca5a841e93f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a98c6ca5a841e93f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:28:29.683074+00:00",
+  "usage": {
+    "input_tokens": 1154,
+    "output_tokens": 375,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2136
+}

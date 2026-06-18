@@ -1,0 +1,41 @@
+{
+  "doc_id": "98ff6c05d6c20c04",
+  "path": "03 GD Fabricacion LOI TES 6/Documentacion de procesos/4521-HDD-LOI-039-062-0001-GAR_rev00 Equipment Data Sheet.pdf",
+  "title": "4521-HDD-LOI-039-062-0001-GAR rev00 Equipment Data Sheet",
+  "doc_code": "4521-HDD-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical specifications for a heat exchanger used in the HEX replacement TES Solana project by Arizona Solar One.",
+  "summary_points": [
+    "This document provides technical specifications for a heat exchanger used in the HEX replacement TES Solana project by Arizona Solar One."
+  ],
+  "keywords": [
+    "heat exchanger",
+    "HEX replacement",
+    "TES Solana",
+    "Arizona Solar One",
+    "ASME Code Sec. VIII Div. 2",
+    "TEMA Class R"
+  ],
+  "references": [
+    "4521-HDD-LOI-039-062-0001-GAR",
+    "1950101-HDD-0001",
+    "MX-251-A/F"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/98ff6c05d6c20c04.md",
+  "source_extracted_path": ".yeyo-memory/extracted/98ff6c05d6c20c04.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:41:29.004617+00:00",
+  "usage": {
+    "input_tokens": 1973,
+    "output_tokens": 1832,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3773
+}

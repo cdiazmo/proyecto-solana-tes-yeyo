@@ -1,0 +1,43 @@
+{
+  "doc_id": "4613abc98474c0eb",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0337_R03.pdf",
+  "title": "4521-PLN-DOT-75-63-0337 R03",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describes various support definitions including dimensions, materials, and assembly details for pipe supports in a solar project. It includes drawings and references to standards.",
+  "summary_points": [
+    "Document describes various support definitions including dimensions, materials, and assembly details for pipe supports in a solar project. It includes drawings and references to standards."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "assembly",
+    "drawings",
+    "standards"
+  ],
+  "references": [
+    "255-MS-11F-S-002",
+    "4521-PLN-DOT-75-63-0337",
+    "4521-PLN-AEE-75-52-0006-GAR"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in side views and assembly details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4613abc98474c0eb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4613abc98474c0eb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:57:09.235661+00:00",
+  "usage": {
+    "input_tokens": 1382,
+    "output_tokens": 747,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2797
+}

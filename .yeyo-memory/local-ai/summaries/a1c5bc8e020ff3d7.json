@@ -1,0 +1,42 @@
+{
+  "doc_id": "a1c5bc8e020ff3d7",
+  "path": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-70-0016-GAR_901 Rev.00 Control cable list.xlsx",
+  "title": "4521-LIS-AEE-39-70-0016-GAR 901 Rev.00 Control cable list",
+  "doc_code": "4521-LIS-AEE-39-70-0016",
+  "revision": "Rev.00",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Listados e indices",
+  "summary": "Control cable list for HEX replacement TES Solana project, version 0.",
+  "summary_points": [
+    "Control cable list for HEX replacement TES Solana project, version 0."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-70-0016-GAR",
+    "control cable list",
+    "HEX replacement",
+    "TES Solana",
+    "AEPC USA"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0065",
+    "R-32-2012",
+    "4521-LIS-AEE-000-070-0001-GAR Rev.01 I&C Signal List"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'dd/mm/aaaa'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a1c5bc8e020ff3d7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a1c5bc8e020ff3d7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:08:11.099320+00:00",
+  "usage": {
+    "input_tokens": 1425,
+    "output_tokens": 607,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2653
+}

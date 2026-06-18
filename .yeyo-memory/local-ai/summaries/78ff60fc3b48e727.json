@@ -1,0 +1,40 @@
+{
+  "doc_id": "78ff60fc3b48e727",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AEE-39-70-0015-GAR_901 Rev.01 Pressure gauges Datasheet.xlsx",
+  "title": "4521-HDD-AEE-39-70-0015-GAR 901 Rev.01 Pressure gauges Datasheet",
+  "doc_code": "4521-HDD-AEE-39-70-0015",
+  "revision": "Rev.01",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Pressure gauges datasheet for HEX replacement TES Solana project, Rev.01.",
+  "summary_points": [
+    "Pressure gauges datasheet for HEX replacement TES Solana project, Rev.01."
+  ],
+  "keywords": [
+    "pressure gauges",
+    "datasheet",
+    "HEX replacement",
+    "TES Solana",
+    "Rev.01"
+  ],
+  "references": [
+    "4521-HDD-AEE-39-70-0015-GAR_901 Rev.01 Pressure gauges Datasheet"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/78ff60fc3b48e727.md",
+  "source_extracted_path": ".yeyo-memory/extracted/78ff60fc3b48e727.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:43:27.578397+00:00",
+  "usage": {
+    "input_tokens": 1287,
+    "output_tokens": 262,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2404
+}

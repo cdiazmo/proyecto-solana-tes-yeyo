@@ -1,0 +1,43 @@
+{
+  "doc_id": "5bd19c06f7fea378",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-68-51-0001-GAR-901_Rev01_Layout_new_exchangers.xlsx",
+  "title": "4521-PLN-AEE-68-51-0001-GAR-901 Rev01 Layout new exchangers",
+  "doc_code": "4521-PLN-AEE-68-51-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project, revision 1, dated 2016-11-17. Input data change is the reason for revision.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project, revision 1, dated 2016-11-17. Input data change is the reason for revision."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-68-51-0001-GAR-901",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Technical Comment Sheet",
+    "Input data change"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-51-0001-GAR",
+    "4521-TMT-AEE-AEPC-0011",
+    "4521-PLN-LOI-039-062-0001-GAR Rev 00 GA DRAWING commented AEPC-VCC rev01_",
+    "4521_PLN_ANC_00_00_L102_rev7"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de fecha y estado del cliente"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5bd19c06f7fea378.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5bd19c06f7fea378.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T11:52:19.534503+00:00",
+  "usage": {
+    "input_tokens": 1504,
+    "output_tokens": 774,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2994
+}

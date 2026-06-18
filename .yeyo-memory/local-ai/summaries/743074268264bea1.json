@@ -1,0 +1,47 @@
+{
+  "doc_id": "743074268264bea1",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-13F-CS31-3_Sht1_R3.pdf",
+  "title": "255-MS-13F-CS31-3 Sht1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe, fittings, and valves for the 255-MS-13F-CS31-3 project. Includes dimensions, materials, and construction dates.",
+  "summary_points": [
+    "Document detailing pipe, fittings, and valves for the 255-MS-13F-CS31-3 project. Includes dimensions, materials, and construction dates."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "valves",
+    "API 5L",
+    "ASME B16.9",
+    "ASTM A234GR.WPB3",
+    "Gate Buttweld",
+    "Fall",
+    "Spindle S"
+  ],
+  "references": [
+    "255-MS-13F-CS31-3",
+    "FA58V CL 300",
+    "ASME B16.9",
+    "ASTM A234GR.WPB3"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear date format"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/743074268264bea1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/743074268264bea1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:30:49.580641+00:00",
+  "usage": {
+    "input_tokens": 1286,
+    "output_tokens": 472,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1295
+}

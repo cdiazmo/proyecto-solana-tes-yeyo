@@ -1,0 +1,45 @@
+{
+  "doc_id": "42ba4f1112bbadc8",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0007-GAR Rev.01 TWO YEARS OPERATIONAL SPARE PARTS LIST.pdf",
+  "title": "4521-LIS-LOI-039-062-0007-GAR Rev.01 TWO YEARS OPERATIONAL SPARE PARTS LIST",
+  "doc_code": "4521-LIS-LOI-039-062-0007",
+  "revision": "Rev.01",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists spare parts for a two-year operational period, including manhole bolts and nuts, pass partition channel bolts and nuts, and flat gaskets.",
+  "summary_points": [
+    "This document lists spare parts for a two-year operational period, including manhole bolts and nuts, pass partition channel bolts and nuts, and flat gaskets."
+  ],
+  "keywords": [
+    "spare parts",
+    "two years",
+    "manhole bolts",
+    "nuts",
+    "pass partition channel",
+    "flat gaskets"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0007-GAR",
+    "195001-LIS-0007",
+    "Rev.01",
+    "Arizona Solar One",
+    "HEX replacement TES Solana"
+  ],
+  "warnings": [
+    "Text incomplete on page 4"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/42ba4f1112bbadc8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/42ba4f1112bbadc8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:05:24.351906+00:00",
+  "usage": {
+    "input_tokens": 1143,
+    "output_tokens": 633,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1927
+}

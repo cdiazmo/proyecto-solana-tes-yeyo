@@ -1,0 +1,40 @@
+{
+  "doc_id": "2864aafe4a19007d",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0330_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0330 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing details and description of a typical triple shoe for construction in Arizona Solar One Solana project.",
+  "summary_points": [
+    "Drawing details and description of a typical triple shoe for construction in Arizona Solar One Solana project."
+  ],
+  "keywords": [
+    "drawing",
+    "triple shoe",
+    "construction",
+    "Arizona Solar One Solana",
+    "AS-BUILT"
+  ],
+  "references": [
+    "257-MS-12EF-S-003"
+  ],
+  "warnings": [
+    "Text incomplete, OCR issues with some characters."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2864aafe4a19007d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2864aafe4a19007d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:20:58.674729+00:00",
+  "usage": {
+    "input_tokens": 798,
+    "output_tokens": 337,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1120
+}

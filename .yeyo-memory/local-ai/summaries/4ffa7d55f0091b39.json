@@ -1,0 +1,45 @@
+{
+  "doc_id": "4ffa7d55f0091b39",
+  "path": "07 Presentado al Condado/003 Planning distribucion/4521-PLN-AEE-00-00-0200_REV01.pdf",
+  "title": "4521-PLN-AEE-00-00-0200 REV01",
+  "doc_code": "4521-PLN-AEE-00-00-",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "- Parcel located in Section 16, Township 6 South, Range 7 West of the Gila and Salt River Meridian.\n- Area: 7,514,527 square feet or 172.51 acres.\n- Basis of bearing and benchmark information from Sheet 1 of 'Evaporation Pond E Grading and Drainage Plans' by Gannett Fleming dated 2/9/15.",
+  "summary_points": [
+    "Parcel located in Section 16, Township 6 South, Range 7 West of the Gila and Salt River Meridian.",
+    "Area: 7,514,527 square feet or 172.51 acres.",
+    "Basis of bearing and benchmark information from Sheet 1 of 'Evaporation Pond E Grading and Drainage Plans' by Gannett Fleming dated 2/9/15."
+  ],
+  "keywords": [
+    "403-20-007-H",
+    "403-20-013-C",
+    "403-20-014-D",
+    "GANNETT FLEMING, 2/9/15"
+  ],
+  "references": [
+    "403-20-007-H",
+    "403-20-013-C",
+    "403-20-014-D",
+    "GANNETT FLEMING, 2/9/15"
+  ],
+  "warnings": [
+    "Text is in all caps and lacks punctuation.",
+    "Coordinates are not clearly formatted."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4ffa7d55f0091b39.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4ffa7d55f0091b39.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:27:01.322443+00:00",
+  "usage": {
+    "input_tokens": 13050,
+    "output_tokens": 3996,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10479
+}

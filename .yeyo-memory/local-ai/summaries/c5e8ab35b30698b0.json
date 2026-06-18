@@ -1,0 +1,56 @@
+{
+  "doc_id": "c5e8ab35b30698b0",
+  "path": "04 GD Fabricacon LOI TES 3/Plan calidad y ITP/1950201-PPC-001_Rev00.pdf",
+  "title": "1950201-PPC-001 Rev00",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document is a Quality Plan for the HEX replacement TES Solana project by LOINTEK S.L.\n- It includes sections on scope, customer requirements, applicable standards, organization, communications, procedures, measuring equipment, documents, subvendors/suppliers, and non-conformities.\n- The plan is prepared, reviewed, and approved by Paula Perez, Pedro Alvarez, and Pedro Alvarez respectively.\n- Customer requirements are detailed in contractual documents such as the Order and Technical Specifications.\n- Quality plan for LOINTEK's manufacturing process.\n- Involves specifications, non-conformity resolution, equipment calibration, and document management.\n- Communications are to be documented and confirmed by the project manager.\n- General procedures outlined in Lointek S.L. Quality Management Manual.\n- Specific procedures for fabrication and inspection detailed in attached documents.\n- Measuring equipment calibrated according to LOINTEK's quality manual.\n- Documents submitted using official templates and formats.\n- Supplier control procedure described in the quality management manual.",
+  "summary_points": [
+    "The document is a Quality Plan for the HEX replacement TES Solana project by LOINTEK S.L.",
+    "It includes sections on scope, customer requirements, applicable standards, organization, communications, procedures, measuring equipment, documents, subvendors/suppliers, and non-conformities.",
+    "The plan is prepared, reviewed, and approved by Paula Perez, Pedro Alvarez, and Pedro Alvarez respectively.",
+    "Customer requirements are detailed in contractual documents such as the Order and Technical Specifications.",
+    "Quality plan for LOINTEK's manufacturing process.",
+    "Involves specifications, non-conformity resolution, equipment calibration, and document management.",
+    "Communications are to be documented and confirmed by the project manager.",
+    "General procedures outlined in Lointek S.L. Quality Management Manual.",
+    "Specific procedures for fabrication and inspection detailed in attached documents.",
+    "Measuring equipment calibrated according to LOINTEK's quality manual.",
+    "Documents submitted using official templates and formats.",
+    "Supplier control procedure described in the quality management manual.",
+    "Non-conformances handled with customer approval required."
+  ],
+  "keywords": [
+    "1950201-PPC-001",
+    "4500900424",
+    "4521-SPE-SGT-039-0062-0001 Rev.1",
+    "ASME Code, Section VIII Div. 2 - Pressure Vessels",
+    "4521-LIS-LOI-039-062-0001 Document LIST",
+    "NDT_EQUIPMENT List"
+  ],
+  "references": [
+    "1950201-PPC-001",
+    "4500900424",
+    "4521-SPE-SGT-039-0062-0001 Rev.1",
+    "ASME Code, Section VIII Div. 2 - Pressure Vessels",
+    "4521-LIS-LOI-039-062-0001 Document LIST",
+    "NDT_EQUIPMENT List"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c5e8ab35b30698b0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c5e8ab35b30698b0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:36:42.069711+00:00",
+  "usage": {
+    "input_tokens": 3650,
+    "output_tokens": 2198,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11021
+}

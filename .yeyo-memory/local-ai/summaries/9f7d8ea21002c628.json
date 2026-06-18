@@ -1,0 +1,40 @@
+{
+  "doc_id": "9f7d8ea21002c628",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-III A- Winter  Discharging - min level @ 1050rpm.pdf",
+  "title": "AnnexI-III A- Winter Discharging - min level @ 1050rpm",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Winter Discharging calculations at 1050rpm, including flow rates, velocities, pressures, and tank levels.",
+  "summary_points": [
+    "Winter Discharging calculations at 1050rpm, including flow rates, velocities, pressures, and tank levels."
+  ],
+  "keywords": [
+    "Winter Discharging",
+    "flow rates",
+    "velocities",
+    "pressures",
+    "tank levels",
+    "1050rpm",
+    "PIPE-FLO Professional"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9f7d8ea21002c628.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9f7d8ea21002c628.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:39:39.506319+00:00",
+  "usage": {
+    "input_tokens": 1559,
+    "output_tokens": 1626,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1885
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "82a133a88bc277c5",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0258_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0258 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for pipe supports, Arizona Solar One project. Includes dimensions and materials.",
+  "summary_points": [
+    "Drawing for pipe supports, Arizona Solar One project. Includes dimensions and materials."
+  ],
+  "keywords": [
+    "pipe supports",
+    "Arizona Solar One",
+    "dimensions",
+    "materials"
+  ],
+  "references": [
+    "252-HTF-12F-S-007_E16",
+    "Ildefonso Gonzalez, P.E. PHD"
+  ],
+  "warnings": [
+    "Scale not specified",
+    "Client Stamp not specified"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/82a133a88bc277c5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/82a133a88bc277c5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:18:02.140292+00:00",
+  "usage": {
+    "input_tokens": 767,
+    "output_tokens": 294,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 996
+}

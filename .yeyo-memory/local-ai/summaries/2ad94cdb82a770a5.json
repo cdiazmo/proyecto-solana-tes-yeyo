@@ -1,0 +1,45 @@
+{
+  "doc_id": "2ad94cdb82a770a5",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P273-GAR_901_Rev00_TES Hex MS drawing.xlsx",
+  "title": "4521 PLN AEE 68 71 P273-GAR 901 Rev00 TES Hex MS drawing",
+  "doc_code": "4521-PLN-AEE-68-71-P273",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project. Includes input data, assumptions, and client comments.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project. Includes input data, assumptions, and client comments."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "Input data",
+    "Assumptions",
+    "Client comments"
+  ],
+  "references": [
+    "4521_PLN_AEE_68_71_P273-GAR-901",
+    "Caldererias Indalicas",
+    "Reinhüette",
+    "AEPC USA"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2ad94cdb82a770a5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2ad94cdb82a770a5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T11:51:18.151635+00:00",
+  "usage": {
+    "input_tokens": 1235,
+    "output_tokens": 412,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2463
+}

@@ -1,0 +1,43 @@
+{
+  "doc_id": "d0161df250967d82",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0001-GAR-901_Rev0 GENERAL ARRAGEMENT AND LOADS DRAWING.xlsx",
+  "title": "4521-PLN-LOI-039-062-0001-GAR-901 Rev0 GENERAL ARRAGEMENT AND LOADS DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project, revision 00 from Abeinsa Engineering. Contains input data change and client comments.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project, revision 00 from Abeinsa Engineering. Contains input data change and client comments."
+  ],
+  "keywords": [
+    "TCS",
+    "4521-PLN-LOI-039-062-0001-GAR",
+    "HEX replacement",
+    "Abeinsa Engineering",
+    "Input data change",
+    "Client comments"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0002",
+    "AE Transmittal Number: .00",
+    "Delivery Date: 2016-10-14"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'dd/mm/aaaa'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d0161df250967d82.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d0161df250967d82.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:08:32.815442+00:00",
+  "usage": {
+    "input_tokens": 1201,
+    "output_tokens": 447,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2266
+}

@@ -1,0 +1,53 @@
+{
+  "doc_id": "b28dabaf7f1f7087",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0204_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0204 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for General Mechanics Supports, including column, diagonal brace, knee brace, and special support. Confidential information.",
+  "summary_points": [
+    "Drawing for General Mechanics Supports, including column, diagonal brace, knee brace, and special support. Confidential information."
+  ],
+  "keywords": [
+    "W12X152",
+    "W8X31",
+    "B1-TRUNNION",
+    "I-BEAM",
+    "252-HTF-16F-CS30-20\"",
+    "COLUMN",
+    "DIAGONAL",
+    "KNEE BRACE",
+    "12Ø",
+    "PO1",
+    "WT 5X9",
+    "ARIZONA SOLAR",
+    "confidential",
+    "contract",
+    "Abener Teyma"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-",
+    "252-HTF-16F-S-009A",
+    "120006",
+    "4505 E. Chandler Blvd, Suite 130, Phoenix, Arizona, 85048"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos caracteres"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b28dabaf7f1f7087.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b28dabaf7f1f7087.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:35:56.633105+00:00",
+  "usage": {
+    "input_tokens": 974,
+    "output_tokens": 786,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1612
+}

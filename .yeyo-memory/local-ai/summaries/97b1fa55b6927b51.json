@@ -1,0 +1,60 @@
+{
+  "doc_id": "97b1fa55b6927b51",
+  "path": "12 As Built TES 6/SOLANA TES 6_AS built list_R04_20200429.xlsx",
+  "title": "SOLANA TES 6 AS built list R04 20200429",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Project: Solana HEX 6, Rev 4 by Atlantica Yield on 2020-04-29.\n- Documents include various sections like C&S, DRA, LIS, MTO, Electrical, I&C, ESP, and HDD.\n- Most documents are from Abengoa with some from SMW and DOTec.\n- Some documents have pending AS BUILT information.\n- References include project teams and document sheets.\n- Documentos de Abengoa cubren una variedad de equipos y sistemas de control, incluyendo válvulas, transmisores y listas de señales I&C.\n- Lointek proporciona diagramas de arranque y soporte de calderas de calor térmica.\n- DOTec ofrece documentos sobre soportes de tuberías de HTF.\n- Algunos documentos tienen errores en la revisión o están incompletos.\n- Se listan códigos de componentes y proveedores.\n- Existen entradas para SMW, Abengoa y Lointek.\n- La mayoría de los componentes están aprobados (Yes).",
+  "summary_points": [
+    "Project: Solana HEX 6, Rev 4 by Atlantica Yield on 2020-04-29.",
+    "Documents include various sections like C&S, DRA, LIS, MTO, Electrical, I&C, ESP, and HDD.",
+    "Most documents are from Abengoa with some from SMW and DOTec.",
+    "Some documents have pending AS BUILT information.",
+    "References include project teams and document sheets.",
+    "Documentos de Abengoa cubren una variedad de equipos y sistemas de control, incluyendo válvulas, transmisores y listas de señales I&C.",
+    "Lointek proporciona diagramas de arranque y soporte de calderas de calor térmica.",
+    "DOTec ofrece documentos sobre soportes de tuberías de HTF.",
+    "Algunos documentos tienen errores en la revisión o están incompletos.",
+    "Se listan códigos de componentes y proveedores.",
+    "Existen entradas para SMW, Abengoa y Lointek.",
+    "La mayoría de los componentes están aprobados (Yes).",
+    "Algunos componentes no están aprobados (No).",
+    "Se mencionan códigos específicos como 4521-PLN-ALL-75-63-0534 y 252-HTF-16F-CS30-20\" - HEX Replacement."
+  ],
+  "keywords": [
+    "DOTec",
+    "Alliance (Ing SMWP)",
+    "Lointek",
+    "Abengoa",
+    "SMW",
+    "SMWP -Document List"
+  ],
+  "references": [
+    "DOTec",
+    "Alliance (Ing SMWP)",
+    "Lointek",
+    "Abengoa",
+    "SMW",
+    "SMWP -Document List"
+  ],
+  "warnings": [
+    "PENDING RECEPTION OF AS BUILT INFORMATION.",
+    "Algunos documentos tienen errores en la revisión o están incompletos."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/97b1fa55b6927b51.md",
+  "source_extracted_path": ".yeyo-memory/extracted/97b1fa55b6927b51.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:44:50.414291+00:00",
+  "usage": {
+    "input_tokens": 17694,
+    "output_tokens": 5335,
+    "calls": 5
+  },
+  "repaired_calls": 1,
+  "chunk_count": 4,
+  "completed_chunks": 4,
+  "completed": true,
+  "text_chars": 26966
+}

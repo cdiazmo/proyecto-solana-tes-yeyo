@@ -1,0 +1,51 @@
+{
+  "doc_id": "e00f7e0051dc36f0",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.7 Formulario LAT.pdf",
+  "title": "5.10.1.7 Formulario LAT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización administrativa para una subestación de alta tensión de 50 MW en Puerto Lápice y Arenas de San Juan, Ciudad Real.\n- Ubicación: Polígono 20, parcela 62, 9005 y 61 / polígono 8, parcela 30, 103, 9004, 35, 34, 9003, 79, 33 y 98.\n- Potencia total: 50,000 kW, tensión: 220 KV, longitud de la línea aérea: 383 m.\n- Presupuesto: 2.077.684,10 Euros.\n- El titular declara bajo responsabilidad que los datos son ciertos y cumplen con los requisitos establecidos en la Ley 54/1997.\n- Documentación común requerida para todas las solicitudes.\n- Procedimientos de autorización administrativa y cierre de instalaciones.\n- Notificaciones sobre ejecución, desmontaje y puesta en servicio de instalaciones.\n- Información sobre protección de datos personales y plazos de respuesta.\n- Obligación de rellenar campos específicos del formulario.",
+  "summary_points": [
+    "Solicitud de autorización administrativa para una subestación de alta tensión de 50 MW en Puerto Lápice y Arenas de San Juan, Ciudad Real.",
+    "Ubicación: Polígono 20, parcela 62, 9005 y 61 / polígono 8, parcela 30, 103, 9004, 35, 34, 9003, 79, 33 y 98.",
+    "Potencia total: 50,000 kW, tensión: 220 KV, longitud de la línea aérea: 383 m.",
+    "Presupuesto: 2.077.684,10 Euros.",
+    "El titular declara bajo responsabilidad que los datos son ciertos y cumplen con los requisitos establecidos en la Ley 54/1997.",
+    "Documentación común requerida para todas las solicitudes.",
+    "Procedimientos de autorización administrativa y cierre de instalaciones.",
+    "Notificaciones sobre ejecución, desmontaje y puesta en servicio de instalaciones.",
+    "Información sobre protección de datos personales y plazos de respuesta.",
+    "Obligación de rellenar campos específicos del formulario."
+  ],
+  "keywords": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de 19 de julio",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Juridico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "references": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de 19 de julio",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Juridico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e00f7e0051dc36f0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e00f7e0051dc36f0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:32:30.610265+00:00",
+  "usage": {
+    "input_tokens": 4285,
+    "output_tokens": 2150,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11859
+}

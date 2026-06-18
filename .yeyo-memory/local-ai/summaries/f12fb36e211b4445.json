@@ -1,0 +1,44 @@
+{
+  "doc_id": "f12fb36e211b4445",
+  "path": "01 GD AE/I&C/LIS/4521-LIS-AEE-000-070-0001-GAR_901 Rev.00 I&C Signal List.xlsx",
+  "title": "4521-LIS-AEE-000-070-0001-GAR 901 Rev.00 I&C Signal List",
+  "doc_code": "4521-LIS-AEE-000-070-0001",
+  "revision": "Rev.00",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "I&C Signal List for HEX replacement TES Solana project. Includes input data and assumptions.",
+  "summary_points": [
+    "I&C Signal List for HEX replacement TES Solana project. Includes input data and assumptions."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-000-070-0001-GAR_901",
+    "HEX replacement TES Solana",
+    "I&C Signal List",
+    "Input data",
+    "Junction box connections"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0050",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P274-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02"
+  ],
+  "warnings": [
+    "OCR dudoso en la fecha del cliente y el código de estado"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f12fb36e211b4445.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f12fb36e211b4445.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:09:52.902555+00:00",
+  "usage": {
+    "input_tokens": 1385,
+    "output_tokens": 546,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2597
+}

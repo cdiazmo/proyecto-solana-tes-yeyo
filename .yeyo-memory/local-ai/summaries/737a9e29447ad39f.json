@@ -1,0 +1,46 @@
+{
+  "doc_id": "737a9e29447ad39f",
+  "path": "01 GD AE/I&C/MEM/4521-MEM-AEE-70-10-0001-GAR_901_Rev00_Functional description TES HEX.xlsx",
+  "title": "4521-MEM-AEE-70-10-0001-GAR 901 Rev00 Functional description TES HEX",
+  "doc_code": "4521-MEM-AEE-70-10-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, version 0 from 2017-04-11. Includes input data and operational limits.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, version 0 from 2017-04-11. Includes input data and operational limits."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "Input data",
+    "Operational limits"
+  ],
+  "references": [
+    "4521-MEM-AEE-70-10-0001-GAR_901",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P272-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02",
+    "4521-MOM-LOI-039-062-0003-GAR"
+  ],
+  "warnings": [
+    "Client comments section is empty"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/737a9e29447ad39f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/737a9e29447ad39f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:45:43.625540+00:00",
+  "usage": {
+    "input_tokens": 1415,
+    "output_tokens": 649,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2676
+}

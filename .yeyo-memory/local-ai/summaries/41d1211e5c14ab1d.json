@@ -1,0 +1,41 @@
+{
+  "doc_id": "41d1211e5c14ab1d",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0002-GAR -901_Start up commissioning spare parts list.xlsx",
+  "title": "4521-LIS-LOI-039-062-0002-GAR -901 Start up commissioning spare parts list",
+  "doc_code": "4521-LIS-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document listing spare parts for HEX replacement TES Solana project. Issued for design, version 0.",
+  "summary_points": [
+    "Document listing spare parts for HEX replacement TES Solana project. Issued for design, version 0."
+  ],
+  "keywords": [
+    "4521-LIS-LOI-039-062-0002-GAR",
+    "HEX replacement TES Solana",
+    "spare parts list",
+    "AEPC USA",
+    "Abeinsa Engineering"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0017",
+    "IFD"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'art up commissioning spare parts list'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/41d1211e5c14ab1d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/41d1211e5c14ab1d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:13:27.021769+00:00",
+  "usage": {
+    "input_tokens": 1185,
+    "output_tokens": 338,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2286
+}

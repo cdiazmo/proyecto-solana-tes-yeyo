@@ -1,0 +1,44 @@
+{
+  "doc_id": "1c2b69fe20d285fb",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0314_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0314 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for support definition with spring type and stiffeners. Insulated or uninsulated options available.",
+  "summary_points": [
+    "Drawing for support definition with spring type and stiffeners. Insulated or uninsulated options available."
+  ],
+  "keywords": [
+    "Support",
+    "Spring",
+    "Stiffeners",
+    "Insulated",
+    "Uninsulated",
+    "H=64.96 inch",
+    "Arizona Solar One",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "references": [
+    "257-MS-10EF-S-002_S01",
+    "257-MS-10EF-S-002_E12"
+  ],
+  "warnings": [
+    "OCR issues detected in some text fields"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1c2b69fe20d285fb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1c2b69fe20d285fb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:42:16.123557+00:00",
+  "usage": {
+    "input_tokens": 1112,
+    "output_tokens": 299,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2001
+}

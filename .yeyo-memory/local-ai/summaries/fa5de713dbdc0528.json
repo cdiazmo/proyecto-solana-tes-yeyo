@@ -1,0 +1,45 @@
+{
+  "doc_id": "fa5de713dbdc0528",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0517_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0517 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for support definition-P02 with dimensions and project details.",
+  "summary_points": [
+    "Drawing for support definition-P02 with dimensions and project details."
+  ],
+  "keywords": [
+    "Support definition",
+    "W8x28",
+    "Elevation",
+    "Abeinsa",
+    "Typical Standard",
+    "General shoe",
+    "Insulated"
+  ],
+  "references": [
+    "257-MS-10F-S-003",
+    "ARIZONA SOLAR ONE",
+    "SOLANA",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "warnings": [
+    "Text incomplete at the end of the document"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fa5de713dbdc0528.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fa5de713dbdc0528.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:15:20.271705+00:00",
+  "usage": {
+    "input_tokens": 731,
+    "output_tokens": 413,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 925
+}

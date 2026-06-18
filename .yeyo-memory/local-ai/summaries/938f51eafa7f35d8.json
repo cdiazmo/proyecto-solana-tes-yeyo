@@ -1,0 +1,45 @@
+{
+  "doc_id": "938f51eafa7f35d8",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-MS-04F-CS31-24_Sht_1_R3.pdf",
+  "title": "252-MS-04F-CS31-24 Sht 1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe and fittings for a specific section of a project.",
+  "summary_points": [
+    "Document describing pipe and fittings for a specific section of a project."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "API 5LGrade B",
+    "ANSI B16.9",
+    "ASTM A234GR.WPB24",
+    "construction",
+    "issue date"
+  ],
+  "references": [
+    "252-MS-04F-CS31-24",
+    "2ELBOW LR ANSI B16.9 BW ASTM A234GR.WPB24",
+    "2'11.7/8\"E 373320'5.1/8\"N 700229'2.3/16\"EL +737'2.7/8\"",
+    "25'-1 3/4\"FALL 3o"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/938f51eafa7f35d8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/938f51eafa7f35d8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:32:00.128281+00:00",
+  "usage": {
+    "input_tokens": 1377,
+    "output_tokens": 1174,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1315
+}

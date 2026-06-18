@@ -1,0 +1,50 @@
+{
+  "doc_id": "37f9193ad6e3d440",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/110913 Cesión de titularidad de líneas eléctricas.doc",
+  "title": "110913 Cesión de titularidad de líneas eléctricas",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Cesión de titularidad de líneas eléctricas a Helios I y Helios II para su uso en plantas solares termoeléctricas.",
+  "summary_points": [
+    "Cesión de titularidad de líneas eléctricas a Helios I y Helios II para su uso en plantas solares termoeléctricas."
+  ],
+  "keywords": [
+    "cesión",
+    "titularidad",
+    "líneas eléctricas",
+    "Helios I",
+    "Helios II",
+    "Valeriano Lorenzo, S.A.",
+    "MASA LORENZO, S.L.",
+    "plantas solares"
+  ],
+  "references": [
+    "13210201970",
+    "13240200172",
+    "13230420126",
+    "13210201969",
+    "13240203624",
+    "13240203625",
+    "13240203626"
+  ],
+  "warnings": [
+    "Texto incompleto: Nombre y domicilio del tercer parte.",
+    "Fecha exacta de la firma no especificada."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/37f9193ad6e3d440.md",
+  "source_extracted_path": ".yeyo-memory/extracted/37f9193ad6e3d440.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T02:57:13.504137+00:00",
+  "usage": {
+    "input_tokens": 2187,
+    "output_tokens": 644,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5676
+}

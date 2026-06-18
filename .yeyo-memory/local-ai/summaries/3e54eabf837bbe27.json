@@ -1,0 +1,30 @@
+{
+  "doc_id": "3e54eabf837bbe27",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation/Annex III - B.pdf",
+  "title": "Annex III - B",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [
+    "El texto es completamente incompleto y difícil de leer"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3e54eabf837bbe27.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3e54eabf837bbe27.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:37:19.166979+00:00",
+  "usage": {
+    "input_tokens": 8437,
+    "output_tokens": 4044,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4998
+}

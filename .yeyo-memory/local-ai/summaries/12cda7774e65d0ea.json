@@ -1,0 +1,44 @@
+{
+  "doc_id": "12cda7774e65d0ea",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-N-10EF-CS72-05_Sht_1_R3.pdf",
+  "title": "255-N-10EF-CS72-05 Sht 1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe, fittings, and valves for the 255-N-10EF-CS72-05 project. Includes component descriptions and references.",
+  "summary_points": [
+    "Document detailing pipe, fittings, and valves for the 255-N-10EF-CS72-05 project. Includes component descriptions and references."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "valves",
+    "schematic",
+    "utility supply",
+    "project details"
+  ],
+  "references": [
+    "NNNN-NNN-NNN-NN-NN-NNNNN",
+    "4521-PLN-AEE-68-71-P279-GAR",
+    "06/15/18",
+    "309/26/19"
+  ],
+  "warnings": [
+    "Text incomplete at the end of the document"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/12cda7774e65d0ea.md",
+  "source_extracted_path": ".yeyo-memory/extracted/12cda7774e65d0ea.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:14:13.168173+00:00",
+  "usage": {
+    "input_tokens": 847,
+    "output_tokens": 437,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 720
+}

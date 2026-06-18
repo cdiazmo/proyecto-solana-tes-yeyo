@@ -1,0 +1,36 @@
+{
+  "doc_id": "0bb5613fd5e6bf11",
+  "path": "Planos Solana/Tanks/MERGE.pdf",
+  "title": "MERGE",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document digitally signed by Cliff Knight PE on multiple dates.",
+  "summary_points": [
+    "Document digitally signed by Cliff Knight PE on multiple dates."
+  ],
+  "keywords": [
+    "Cliff Knight",
+    "KnightHawk Engineering",
+    "Digital Signature"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en la página 16"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0bb5613fd5e6bf11.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0bb5613fd5e6bf11.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:06:04.068635+00:00",
+  "usage": {
+    "input_tokens": 3082,
+    "output_tokens": 213,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6294
+}

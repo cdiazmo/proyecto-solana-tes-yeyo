@@ -1,0 +1,45 @@
+{
+  "doc_id": "54ed9b09048d4cb5",
+  "path": "10 Informes semanales de construccion/181028 WEEKLY CONSTRUCTION REPORT  WE 181028.pdf",
+  "title": "181028 WEEKLY CONSTRUCTION REPORT WE 181028",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Weekly report on construction activities, safety measures, subcontractor hours, and key materials received. Issues with design elevation and potential structural impacts discussed.",
+  "summary_points": [
+    "Weekly report on construction activities, safety measures, subcontractor hours, and key materials received. Issues with design elevation and potential structural impacts discussed."
+  ],
+  "keywords": [
+    "SMW Projects",
+    "weekly report",
+    "construction",
+    "safety",
+    "manpower",
+    "rebar tying",
+    "excavation",
+    "subcontractors"
+  ],
+  "references": [
+    "Chromalox",
+    "Outer Limit Survey",
+    "ASO provided equipment"
+  ],
+  "warnings": [
+    "Text is OCR-dudoso, some numbers and dates may be incorrect"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/54ed9b09048d4cb5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/54ed9b09048d4cb5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T05:22:26.602558+00:00",
+  "usage": {
+    "input_tokens": 3520,
+    "output_tokens": 567,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7343
+}

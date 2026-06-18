@@ -1,0 +1,52 @@
+{
+  "doc_id": "b034b27bac42c5f6",
+  "path": "Helios Sole/LSAT - LAAT Helios I/120120 Sol. APM LSAT Helios I.pdf",
+  "title": "120120 Sol. APM LSAT Helios I",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización administrativa para una subestación de alta tensión\n- Ubicación: Puerto Lápice y Arenas de San Juan, Ciudad Real\n- Potencia total: 50 MW\n- Tecnología basada en combustible\n- Presupuesto de 2.077.684,10 Euros\n- Competencia del Director General para instalaciones de producción y distribución de energía eléctrica de tensión superior a 132 KV\n- Documentación común requerida para todas las solicitudes.\n- Procedimientos de autorización y transmisión de instalaciones.\n- Notificaciones y comunicaciones sobre ejecución, cierre y desmontaje de instalaciones.\n- Puesta en servicio y devolución de avaluos de instalaciones de producción.\n- Información sobre protección de datos personales y plazos para solicitudes.",
+  "summary_points": [
+    "Solicitud de autorización administrativa para una subestación de alta tensión",
+    "Ubicación: Puerto Lápice y Arenas de San Juan, Ciudad Real",
+    "Potencia total: 50 MW",
+    "Tecnología basada en combustible",
+    "Presupuesto de 2.077.684,10 Euros",
+    "Competencia del Director General para instalaciones de producción y distribución de energía eléctrica de tensión superior a 132 KV",
+    "Documentación común requerida para todas las solicitudes.",
+    "Procedimientos de autorización y transmisión de instalaciones.",
+    "Notificaciones y comunicaciones sobre ejecución, cierre y desmontaje de instalaciones.",
+    "Puesta en servicio y devolución de avaluos de instalaciones de producción.",
+    "Información sobre protección de datos personales y plazos para solicitudes."
+  ],
+  "keywords": [
+    "Decreto 80/2007, de 19 de junio",
+    "Ley 54/1997, de 27 de noviembre del Sector Eléctrico",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de 19 de julio",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Juridico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "references": [
+    "Decreto 80/2007, de 19 de junio",
+    "Ley 54/1997, de 27 de noviembre del Sector Eléctrico",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de 19 de julio",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Juridico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b034b27bac42c5f6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b034b27bac42c5f6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:33:28.189345+00:00",
+  "usage": {
+    "input_tokens": 4263,
+    "output_tokens": 2125,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11859
+}

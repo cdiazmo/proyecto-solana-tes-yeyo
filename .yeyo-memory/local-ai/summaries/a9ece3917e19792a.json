@@ -1,0 +1,44 @@
+{
+  "doc_id": "a9ece3917e19792a",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0269_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0269 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Dibujo técnico de soporte atípico para construcción, propiedad de Abener Teyma.",
+  "summary_points": [
+    "Dibujo técnico de soporte atípico para construcción, propiedad de Abener Teyma."
+  ],
+  "keywords": [
+    "soporte",
+    "construcción",
+    "Abener Teyma",
+    "dibujo técnico",
+    "atípico"
+  ],
+  "references": [
+    "252-HTF-21F-S-007",
+    "4521-PLN-DOT-75-63-",
+    "R01"
+  ],
+  "warnings": [
+    "Fecha de creación no especificada",
+    "Escala del dibujo no especificada",
+    "Nombre del propietario legal y contratista no especificados"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a9ece3917e19792a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a9ece3917e19792a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:32:40.783352+00:00",
+  "usage": {
+    "input_tokens": 783,
+    "output_tokens": 648,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1366
+}

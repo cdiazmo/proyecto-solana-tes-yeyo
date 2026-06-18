@@ -1,0 +1,47 @@
+{
+  "doc_id": "e9900e73d6c61e52",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/257-N-11EF-CS72-05_Sht_1_R4.pdf",
+  "title": "257-N-11EF-CS72-05 Sht 1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe, fittings, and valves for a specific section of a project.",
+  "summary_points": [
+    "Document describing pipe, fittings, and valves for a specific section of a project."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "valves",
+    "gate valve",
+    "check valve",
+    "dimensions",
+    "locations",
+    "construction",
+    "pump"
+  ],
+  "references": [
+    "14FA37 GATE VALVE",
+    "5FC36 INCLINED PISTON CHECK VALVE",
+    "CONSTRUCION DOTecDOTecDOTec",
+    "RLWAS-BUILT 412/05/19"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e9900e73d6c61e52.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e9900e73d6c61e52.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:26:39.902781+00:00",
+  "usage": {
+    "input_tokens": 1139,
+    "output_tokens": 687,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1123
+}

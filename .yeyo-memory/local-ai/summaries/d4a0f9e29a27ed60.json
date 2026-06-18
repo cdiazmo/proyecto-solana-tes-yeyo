@@ -1,0 +1,41 @@
+{
+  "doc_id": "d4a0f9e29a27ed60",
+  "path": "07 Presentado al Condado/003 Planning distribucion/4521-PLN-AEE-00-00-0100-REV01.pdf",
+  "title": "4521-PLN-AEE-00-00-0100-REV01",
+  "doc_code": "4521-PLN-AEE-00-00-0100",
+  "revision": "REV01",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Description of Phase 13 at Solana Power Generation Plant in Maricopa County, Arizona. Includes parcel details, boundary points, and bearing/benchmark information.",
+  "summary_points": [
+    "Description of Phase 13 at Solana Power Generation Plant in Maricopa County, Arizona. Includes parcel details, boundary points, and bearing/benchmark information."
+  ],
+  "keywords": [
+    "Solana Power Generation Plant",
+    "Phase 13",
+    "Maricopa County",
+    "Parcel Description",
+    "Boundary Points",
+    "Bearing/Benchmark"
+  ],
+  "references": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS (GANNETT FLEMING, 2/9/15)"
+  ],
+  "warnings": [
+    "OCR issues with some numbers and symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d4a0f9e29a27ed60.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d4a0f9e29a27ed60.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:01:01.931102+00:00",
+  "usage": {
+    "input_tokens": 3221,
+    "output_tokens": 501,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5226
+}

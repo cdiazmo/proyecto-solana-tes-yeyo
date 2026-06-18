@@ -1,0 +1,44 @@
+{
+  "doc_id": "386ffbf8468fde0d",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR_r00 Packing and Shipping List.pdf",
+  "title": "4521-LIS-LOI-039-062-0003-GAR r00 Packing and Shipping List",
+  "doc_code": "4521-LIS-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document is a Packing and Shipping List for the HEX replacement TES Solana project at Arizona Solar One. It includes details on two oil-to-salt heat exchangers, their specifications, weights, dimensions, and delivery information.",
+  "summary_points": [
+    "This document is a Packing and Shipping List for the HEX replacement TES Solana project at Arizona Solar One. It includes details on two oil-to-salt heat exchangers, their specifications, weights, dimensions, and delivery information."
+  ],
+  "keywords": [
+    "Packing and Shipping List",
+    "Arizona Solar One",
+    "HEX replacement TES Solana",
+    "Oil-to-Salt Heat Exchanger",
+    "Dimensions",
+    "Weight",
+    "Delivery Address"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0003-GAR",
+    "LOINTEK SL",
+    "SOLANA GENERATION STATION"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/386ffbf8468fde0d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/386ffbf8468fde0d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:13:45.690652+00:00",
+  "usage": {
+    "input_tokens": 1552,
+    "output_tokens": 669,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2916
+}

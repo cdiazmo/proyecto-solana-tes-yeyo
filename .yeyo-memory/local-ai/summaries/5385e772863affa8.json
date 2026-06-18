@@ -1,0 +1,48 @@
+{
+  "doc_id": "5385e772863affa8",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-12F-CS31-3_Sht_1_R3.pdf",
+  "title": "255-MS-12F-CS31-3 Sht 1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico con detalles de tuberías, válvulas y piezas relacionadas para el proyecto 255-MS-12F-CS31-3.",
+  "summary_points": [
+    "Documento técnico con detalles de tuberías, válvulas y piezas relacionadas para el proyecto 255-MS-12F-CS31-3."
+  ],
+  "keywords": [
+    "tubería",
+    "valvula",
+    "pieza",
+    "proyecto",
+    "255-MS-12F-CS31-3"
+  ],
+  "references": [
+    "NNNN-NNN-NNN-NN-NN-NNNNN",
+    "NNNN-NNN-NNN-NN-NN-NNNNNNNNN-NNN-NNN-NN-NN-NNNNN",
+    "255-MS-12F-CS31-3",
+    "255-MS-04F-CS31-24\"E 373253'0.11/16\"N 700183'0.15/16\"EL +760'4.15/16\"3\"NS13ELBOW87oEL +762'5.5/8\"E 373253'0.11/16\"N 700183'0.15/16\"EL +762'5.5/8\"2'-2 1/8\"FALL 3o23x2\"NSEL +762'6\"7.5/8\"",
+    "252-N-11F-CS31-2\"E 373253'0.11/16\"N 700183'8.7/16\"EL +762'9\"3\"0.3/16\"3\"FALL 3o12'-4\"",
+    "255-MS-12F-CS31-3\"11.1/8\"3ELBOW90.2oEL +762'8.1/4\"",
+    "E 373253'0.11/16\"N 700187'3.15/16\"EL +762'8.1/4\"4.1/2\"FALL 3o13ELBOW87oEL +762'6.3/8\"E 373250'0.7/8\"N 700187'3.15/16\"EL +762'6.3/8\"3'-9 5/8\"",
+    "255-MS-12F-S-00113\"NS33'-9 1/4\"",
+    "255-MS-07F-CS31-4\"E 373250'0.7/8\"N 700187'3.15/16\"EL +729'10.3/8\""
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5385e772863affa8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5385e772863affa8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:30:32.881796+00:00",
+  "usage": {
+    "input_tokens": 3038,
+    "output_tokens": 2336,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1253
+}

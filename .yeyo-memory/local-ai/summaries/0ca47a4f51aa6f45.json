@@ -1,0 +1,44 @@
+{
+  "doc_id": "0ca47a4f51aa6f45",
+  "path": "01 GD AE/Tuberia/LIS/4521-LIS-AEE-58-63-0001-GAR-901_HTF System support list.xlsx",
+  "title": "4521-LIS-AEE-58-63-0001-GAR-901 HTF System support list",
+  "doc_code": "4521-LIS-AEE-58-63-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document provides a support list for the HTF system in the HEX replacement TES Solana project. It includes details on input data, assumptions, holds, and reasons for revision.",
+  "summary_points": [
+    "This document provides a support list for the HTF system in the HEX replacement TES Solana project. It includes details on input data, assumptions, holds, and reasons for revision."
+  ],
+  "keywords": [
+    "HTF System",
+    "HEX replacement TES Solana",
+    "Support List",
+    "Input Data",
+    "Assumptions",
+    "Holds",
+    "Reason for Revision"
+  ],
+  "references": [
+    "4521-LIS-AEE-58-63-0001-GAR-901",
+    "4521-TMT-AEE-AEPC-0064",
+    "4521-PLN-AEE-58-65-0001-GAR_rev00_HTF System ISO"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de fecha y estado del cliente"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0ca47a4f51aa6f45.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0ca47a4f51aa6f45.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:33:40.043390+00:00",
+  "usage": {
+    "input_tokens": 1193,
+    "output_tokens": 605,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2291
+}

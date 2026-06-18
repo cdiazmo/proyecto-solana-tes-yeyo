@@ -1,0 +1,39 @@
+{
+  "doc_id": "0a43cf7206e83209",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/Annex II.III (Winter Discharge).pdf",
+  "title": "Annex II.III (Winter Discharge)",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Informe de cálculos para el desagüe invernal del modelo simplificado HTF Solana. Incluye datos de flujo, bombas y válvulas.",
+  "summary_points": [
+    "Informe de cálculos para el desagüe invernal del modelo simplificado HTF Solana. Incluye datos de flujo, bombas y válvulas."
+  ],
+  "keywords": [
+    "Winter Discharge",
+    "HTF Solana",
+    "Flow Data",
+    "Pump Data",
+    "Valve Data",
+    "Pressure Boundary Set"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR dudoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0a43cf7206e83209.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0a43cf7206e83209.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:10:45.618316+00:00",
+  "usage": {
+    "input_tokens": 3088,
+    "output_tokens": 850,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4446
+}

@@ -1,0 +1,40 @@
+{
+  "doc_id": "d67902423371b9ca",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-75-52-0002-GAR-901_Rev00_Drain_back_tank pit.xlsx",
+  "title": "4521-PLN-AEE-75-52-0002-GAR-901 Rev00 Drain back tank pit",
+  "doc_code": "4521-PLN-AEE-75-52-0002",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document describing the design and revision history of a drain back tank pit for HEX replacement TES Solana project.",
+  "summary_points": [
+    "Document describing the design and revision history of a drain back tank pit for HEX replacement TES Solana project."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-52-0002-GAR-901",
+    "Drain back tank",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Design change"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0036"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d67902423371b9ca.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d67902423371b9ca.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:42:36.212995+00:00",
+  "usage": {
+    "input_tokens": 1184,
+    "output_tokens": 302,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2266
+}

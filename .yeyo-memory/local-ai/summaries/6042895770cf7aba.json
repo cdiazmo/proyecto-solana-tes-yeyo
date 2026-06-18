@@ -1,0 +1,45 @@
+{
+  "doc_id": "6042895770cf7aba",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.4 Acreditacion instalador.pdf",
+  "title": "5.7.2.4 Acreditacion instalador",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de acreditación para ELECTRICA VALVERDEÑA, S.L. como empresa instaladora y reparadora de equipos a presión, con técnico responsable Francisco Calderay González.",
+  "summary_points": [
+    "Certificado de acreditación para ELECTRICA VALVERDEÑA, S.L. como empresa instaladora y reparadora de equipos a presión, con técnico responsable Francisco Calderay González."
+  ],
+  "keywords": [
+    "ELECTRICA VALVERDEÑA",
+    "CIF/NIF B21398516",
+    "Empresa Instaladora de Equipos a Presión",
+    "ERP-2-21/5",
+    "FRANCISCO TOMÁS CALDERAY GONZÁLEZ",
+    "Técnico Responsable",
+    "Vigencia 13/05/2013",
+    "Firma Electrónica"
+  ],
+  "references": [
+    "R.D. 2060/2008 de 12 de diciembre",
+    "Avda. Manuel Sur, 4 - 21004 HUELVA",
+    "https://www.juntadeandalucia.es/innovacioncienciayempresa/verificafirmal"
+  ],
+  "warnings": [
+    "Fecha de expedición no especificada en el texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6042895770cf7aba.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6042895770cf7aba.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T03:13:01.523442+00:00",
+  "usage": {
+    "input_tokens": 2268,
+    "output_tokens": 664,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5794
+}

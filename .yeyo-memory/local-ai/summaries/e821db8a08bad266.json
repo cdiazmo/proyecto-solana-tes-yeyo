@@ -1,0 +1,47 @@
+{
+  "doc_id": "e821db8a08bad266",
+  "path": "01 GD AE/Compras/03 Deposito drenaje/02 Propuestas/Tecnologia tuberias/Q-209259-Piping Technology P-quote.pdf",
+  "title": "Q-209259-Piping Technology P-quote",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Quote for Drain Back Tank for TES RFQ from Piping Technology & Products Inc., total $54,978.00, estimated ship date in 12-16 weeks.",
+  "summary_points": [
+    "Quote for Drain Back Tank for TES RFQ from Piping Technology & Products Inc., total $54,978.00, estimated ship date in 12-16 weeks."
+  ],
+  "keywords": [
+    "Piping Technology",
+    "Drain Back Tank",
+    "RFQ",
+    "Abengoa",
+    "Robert Zapata",
+    "Jose Lamela",
+    "$54,978.00",
+    "6,300 Lbs",
+    "Exworks",
+    "Freight Prepay",
+    "Cancellation Fees"
+  ],
+  "references": [
+    "Q-209259",
+    "PTP-quote.rpt"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'AZ 85337Gila Bend'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e821db8a08bad266.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e821db8a08bad266.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:53:57.289224+00:00",
+  "usage": {
+    "input_tokens": 1168,
+    "output_tokens": 412,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2494
+}

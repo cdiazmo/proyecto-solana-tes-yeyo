@@ -1,0 +1,43 @@
+{
+  "doc_id": "22d813c675c3a03d",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/252-MS-04F-CS31-24_Rev03_Sht_2.pdf",
+  "title": "252-MS-04F-CS31-24 Rev03 Sht 2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico con descripciones de tubos y válvulas, incluyendo materiales, dimensiones y ubicaciones.",
+  "summary_points": [
+    "Documento técnico con descripciones de tubos y válvulas, incluyendo materiales, dimensiones y ubicaciones."
+  ],
+  "keywords": [
+    "tubos",
+    "válvulas",
+    "materiales",
+    "dimensiones",
+    "ubicaciones"
+  ],
+  "references": [
+    "252-MS-04F-CS31-24",
+    "NNNN-NNN-NNN-NN-NN-NNNNN",
+    "252-MS-06F-CS31-4",
+    "255-MS-11F-CS31-3"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/22d813c675c3a03d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/22d813c675c3a03d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:41:20.069505+00:00",
+  "usage": {
+    "input_tokens": 1815,
+    "output_tokens": 602,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1930
+}

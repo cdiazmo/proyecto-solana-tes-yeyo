@@ -1,0 +1,47 @@
+{
+  "doc_id": "1d1f6b1bc6a61811",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-13F-CS31-3_Sht_1_R3.pdf",
+  "title": "255-MS-13F-CS31-3 Sht 1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe and fitting specifications for the 255-MS-13F-CS31-3 project, including dimensions, materials, and references to other documents.",
+  "summary_points": [
+    "Document detailing pipe and fitting specifications for the 255-MS-13F-CS31-3 project, including dimensions, materials, and references to other documents."
+  ],
+  "keywords": [
+    "pipe",
+    "fitting",
+    "specifications",
+    "dimensions",
+    "materials",
+    "references",
+    "255-MS-13F-CS31-3",
+    "FA58Y",
+    "automatic control valve"
+  ],
+  "references": [
+    "255-MS-02F-CS31-24",
+    "252-N-10F-CS31-2",
+    "FA58Y MANUAL GATE VALVE",
+    "AUTOMATIC CONTROL VALVE"
+  ],
+  "warnings": [
+    "OCR issues detected in some text, particularly dates and measurements."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1d1f6b1bc6a61811.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1d1f6b1bc6a61811.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:31:05.418282+00:00",
+  "usage": {
+    "input_tokens": 1288,
+    "output_tokens": 474,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1295
+}

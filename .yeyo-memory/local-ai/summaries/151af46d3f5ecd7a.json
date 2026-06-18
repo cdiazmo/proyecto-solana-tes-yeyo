@@ -1,0 +1,45 @@
+{
+  "doc_id": "151af46d3f5ecd7a",
+  "path": "01 GD AE/Tuberia/LIS/4521-LIS-AEE-75-63-0001-GAR-901_MS System support list.xlsx",
+  "title": "4521-LIS-AEE-75-63-0001-GAR-901 MS System support list",
+  "doc_code": "4521-LIS-AEE-75-63-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document listing system supports for HEX replacement TES Solana project. Includes input data, assumptions, holds, and client comments.",
+  "summary_points": [
+    "Document listing system supports for HEX replacement TES Solana project. Includes input data, assumptions, holds, and client comments."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-75-63-0001-GAR",
+    "Molten Salt System",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "Input data",
+    "Assumptions",
+    "Holds",
+    "Client comments"
+  ],
+  "references": [
+    "4521-LIS-AEE-75-63-0001-GAR_rev00_MS System ISO",
+    "4521-TMT-AEE-AEPC-0058"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/151af46d3f5ecd7a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/151af46d3f5ecd7a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:33:27.194712+00:00",
+  "usage": {
+    "input_tokens": 1188,
+    "output_tokens": 474,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2288
+}

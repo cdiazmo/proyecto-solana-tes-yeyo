@@ -1,0 +1,51 @@
+{
+  "doc_id": "82be6788d484e424",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-3660-00 Rev01 Lista Valvulas General.xlsx",
+  "title": "1950801-LIS-3660-00 Rev01 Lista Valvulas General",
+  "doc_code": "",
+  "revision": "Rev01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Sheet name: SPReport_Definition\n- Columns include Plant Item, Representation, Drawing, and Drawing Project\n- Data includes project details like Yanbu, KKSEquipmentUnitKey, and EA_KKSDrawingNumber\n- Represents various valve types and their specifications\n- File contains information on suppliers, drawing numbers, and technical parameters\n- Tabla de conversión de NPS (inches) a ND (mm)\n- NPS va desde 1/2\" hasta 40\"\n- ND va desde 15 mm hasta 1000 mm",
+  "summary_points": [
+    "Sheet name: SPReport_Definition",
+    "Columns include Plant Item, Representation, Drawing, and Drawing Project",
+    "Data includes project details like Yanbu, KKSEquipmentUnitKey, and EA_KKSDrawingNumber",
+    "Represents various valve types and their specifications",
+    "File contains information on suppliers, drawing numbers, and technical parameters",
+    "Tabla de conversión de NPS (inches) a ND (mm)",
+    "NPS va desde 1/2\" hasta 40\"",
+    "ND va desde 15 mm hasta 1000 mm"
+  ],
+  "keywords": [
+    "EA_Comp & Instr Valves (M)",
+    "EAQ_ValveList(Process+Instr)_G-UnaFila.xls",
+    "Yanbu",
+    "KKSEquipmentUnitKey",
+    "EA_KKSDrawingNumber",
+    "Conversion Unid."
+  ],
+  "references": [
+    "EA_Comp & Instr Valves (M)",
+    "EAQ_ValveList(Process+Instr)_G-UnaFila.xls",
+    "Yanbu",
+    "KKSEquipmentUnitKey",
+    "EA_KKSDrawingNumber",
+    "Conversion Unid."
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/82be6788d484e424.md",
+  "source_extracted_path": ".yeyo-memory/extracted/82be6788d484e424.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T21:40:57.393909+00:00",
+  "usage": {
+    "input_tokens": 14802,
+    "output_tokens": 6501,
+    "calls": 6
+  },
+  "repaired_calls": 2,
+  "chunk_count": 4,
+  "completed_chunks": 4,
+  "completed": true,
+  "text_chars": 14412
+}

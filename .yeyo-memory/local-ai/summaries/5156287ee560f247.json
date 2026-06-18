@@ -1,0 +1,47 @@
+{
+  "doc_id": "5156287ee560f247",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0293_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0293 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design and specifications of pipe supports, including dimensions, materials, and installation details. It covers both front and side views, as well as specific types of shoes used for insulation and round bars.",
+  "summary_points": [
+    "This document describes the design and specifications of pipe supports, including dimensions, materials, and installation details. It covers both front and side views, as well as specific types of shoes used for insulation and round bars."
+  ],
+  "keywords": [
+    "pipe supports",
+    "front view",
+    "side view",
+    "dimensions",
+    "materials",
+    "stiffeners",
+    "insulation",
+    "round bar",
+    "shoes",
+    "Abeinsa"
+  ],
+  "references": [
+    "252-MS-14F-S-002",
+    "ARIZONA SOLAR ONE",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5156287ee560f247.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5156287ee560f247.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:57:29.309246+00:00",
+  "usage": {
+    "input_tokens": 1392,
+    "output_tokens": 800,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2803
+}

@@ -1,0 +1,43 @@
+{
+  "doc_id": "d91addeab7dcae3e",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-68-51-0001-GAR-901_Rev03_Layout_new_exchangers.xlsx",
+  "title": "4521-PLN-AEE-68-51-0001-GAR-901 Rev03 Layout new exchangers",
+  "doc_code": "4521-PLN-AEE-68-51-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project. Revision 2 from Abeinsa Engineering.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project. Revision 2 from Abeinsa Engineering."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-68-51-0001-GAR-901",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Technical Comment Sheet",
+    "Layout new exchangers"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0011",
+    "AE Transmittal Number",
+    "Ground level to be defined"
+  ],
+  "warnings": [
+    "Input data and assumptions sections are empty.",
+    "Client comments and annexes are not provided."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d91addeab7dcae3e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d91addeab7dcae3e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:11:04.675952+00:00",
+  "usage": {
+    "input_tokens": 2121,
+    "output_tokens": 643,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4464
+}

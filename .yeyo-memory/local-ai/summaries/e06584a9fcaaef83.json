@@ -1,0 +1,37 @@
+{
+  "doc_id": "e06584a9fcaaef83",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0002-GAR Rev 02 TES Circuit Hydraulic Calculation/Annex II - E.pdf",
+  "title": "Annex II - E",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Texto confuso con números y símbolos, difícil de interpretar como markdown.",
+  "summary_points": [
+    "Texto confuso con números y símbolos, difícil de interpretar como markdown."
+  ],
+  "keywords": [
+    "confuso",
+    "patrón",
+    "números",
+    "símbolos"
+  ],
+  "references": [],
+  "warnings": [
+    "Contenido confuso, posibles errores OCR"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e06584a9fcaaef83.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e06584a9fcaaef83.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:51:31.010790+00:00",
+  "usage": {
+    "input_tokens": 4369,
+    "output_tokens": 117,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5063
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "e88751e47a5f915d",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.4 Solicitud APS.pdf",
+  "title": "5.7.7.4 Solicitud APS",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de legalización de instalación gasóleo y autoliquidación por servicios de instalaciones petrolíferas.",
+  "summary_points": [
+    "Solicitud de legalización de instalación gasóleo y autoliquidación por servicios de instalaciones petrolíferas."
+  ],
+  "keywords": [
+    "UTE Abener Teyma",
+    "Instalaciones Luis Urbina",
+    "Luis M? Urbina Zabala",
+    "José Alberto Murillo Fernandez",
+    "Autoliquidación",
+    "Tarjeta Acreditativa NIF"
+  ],
+  "references": [
+    "UTE ABENER TEYMA HELIOS CAMPO DE SAN JUAN",
+    "INSTALACIONES LUIS URBINA, S.L.",
+    "Luis María Urbina y Carlos Pérez Muñoz",
+    "Agencia Tributaria",
+    "Autoliquidación PATA-01090100-000000157547"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares, como 'Luis M? Urbina Zabala' y 'UTE ABENER TEYMA HELIOS CAMPO DE SAN JUAN'.",
+    "Fechas y detalles específicos pueden estar incompletos o incorrectos."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e88751e47a5f915d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e88751e47a5f915d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T03:48:56.054245+00:00",
+  "usage": {
+    "input_tokens": 2678,
+    "output_tokens": 522,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6339
+}

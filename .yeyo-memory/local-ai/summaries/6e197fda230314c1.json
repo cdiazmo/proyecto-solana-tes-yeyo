@@ -1,0 +1,62 @@
+{
+  "doc_id": "6e197fda230314c1",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.8 Formulario SE Elevadora HI.pdf",
+  "title": "5.10.4.8 Formulario SE Elevadora HI",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización para ampliación de una instalación eléctrica de alta tensión.\n- Instalación ubicada en Finca \"El Silo\", polígono 20, parcela sannsesessunnonneeunnsseeeesssen c.p0,13:50.\n- Tipo de instalación: Centro de Transformación / Subestación con transformadores y línea subterránea.\n- Finalidad: Evacuación de energía generada por central termosolar Helios.\n- Presupuesto total de 1.212,147,32 Euros.\n- Documentación común requerida para todas las solicitudes.\n- Incluye DNI del titular y poder de representación si es necesario.\n- Se requiere autorización administrativa para la transmisión y cierre de proyectos.\n- Notificación de ejecución debe incluir detalles técnicos y características principales.\n- Comunicación de desmontaje de instalaciones temporales con acreditación documentada.\n- Documentos informativos sobre protección de datos personales y plazos de tramitación.",
+  "summary_points": [
+    "Solicitud de autorización para ampliación de una instalación eléctrica de alta tensión.",
+    "Instalación ubicada en Finca \"El Silo\", polígono 20, parcela sannsesessunnonneeunnsseeeesssen c.p0,13:50.",
+    "Tipo de instalación: Centro de Transformación / Subestación con transformadores y línea subterránea.",
+    "Finalidad: Evacuación de energía generada por central termosolar Helios.",
+    "Presupuesto total de 1.212,147,32 Euros.",
+    "Documentación común requerida para todas las solicitudes.",
+    "Incluye DNI del titular y poder de representación si es necesario.",
+    "Se requiere autorización administrativa para la transmisión y cierre de proyectos.",
+    "Notificación de ejecución debe incluir detalles técnicos y características principales.",
+    "Comunicación de desmontaje de instalaciones temporales con acreditación documentada.",
+    "Documentos informativos sobre protección de datos personales y plazos de tramitación."
+  ],
+  "keywords": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "MODELO EN_01",
+    "Castilla-la Mancha",
+    "Disposición Transitoria 1*",
+    "Decreto 33/2009, de 28 de abril",
+    "Ley Orgánica 15/1999, de 13 de diciembre",
+    "Decreto 80/2007, de 19 de julio"
+  ],
+  "references": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "MODELO EN_01",
+    "Castilla-la Mancha",
+    "Disposición Transitoria 1*",
+    "Decreto 33/2009, de 28 de abril",
+    "Ley Orgánica 15/1999, de 13 de diciembre",
+    "Decreto 80/2007, de 19 de julio"
+  ],
+  "warnings": [
+    "Datos del representante y nuevo titular incompletos.",
+    "Firmas de Titular y Nuevo Titular o su representante no proporcionadas.",
+    "Fragmento confuso en la sección final sobre 'NOTAS INFORMATIVAS'."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6e197fda230314c1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6e197fda230314c1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:30:38.882397+00:00",
+  "usage": {
+    "input_tokens": 4155,
+    "output_tokens": 2369,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11697
+}

@@ -1,0 +1,63 @@
+{
+  "doc_id": "17dec59498d2e83a",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-LIS-6000-00-Rev.00-Lista de Instrumentos.pdf",
+  "title": "1950801-LIS-6000-00-Rev.00-Lista de Instrumentos",
+  "doc_code": "",
+  "revision": "Rev.00",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Documento de Lointek con código 1950801-LIS-6000-00\n- Fecha de emisión: 31/03/2026\n- Proyecto: ATLANTICA, ubicado en CORDOBA (SPAIN)\n- Suministrador del paquete: LOINTEK\n- Versión inicial del documento aprobada por A.A.P U.O.A D.S.Z.\n- Lista de instrumentos en el documento.\n- Incluye medidores y transmisores de presión y temperatura.\n- Existen diferentes tipos de medios (HTF, Sal Moltena).\n- Los códigos de equipo siguen un patrón específico.\n- Se mencionan medidas específicas como 24\"BAA8 y 20\"BAF9.\n- Lista de transmisores de temperatura IP65 y sal moldeada.\n- Códigos de equipos: 1950801-PID-3030-00.",
+  "summary_points": [
+    "Documento de Lointek con código 1950801-LIS-6000-00",
+    "Fecha de emisión: 31/03/2026",
+    "Proyecto: ATLANTICA, ubicado en CORDOBA (SPAIN)",
+    "Suministrador del paquete: LOINTEK",
+    "Versión inicial del documento aprobada por A.A.P U.O.A D.S.Z.",
+    "Lista de instrumentos en el documento.",
+    "Incluye medidores y transmisores de presión y temperatura.",
+    "Existen diferentes tipos de medios (HTF, Sal Moltena).",
+    "Los códigos de equipo siguen un patrón específico.",
+    "Se mencionan medidas específicas como 24\"BAA8 y 20\"BAF9.",
+    "Lista de transmisores de temperatura IP65 y sal moldeada.",
+    "Códigos de equipos: 1950801-PID-3030-00.",
+    "Ubicación: Sh 6.",
+    "Grupos G1 a G4 con diferentes números de serie."
+  ],
+  "keywords": [
+    "1950801-LIS-6000-00",
+    "ATLANTICA",
+    "CORDOBA (SPAIN)",
+    "LOINTEK",
+    "1950801-PID-3030-00",
+    "IP65",
+    "HTF",
+    "Molten Salt",
+    "Sh 6"
+  ],
+  "references": [
+    "1950801-LIS-6000-00",
+    "ATLANTICA",
+    "CORDOBA (SPAIN)",
+    "LOINTEK",
+    "1950801-PID-3030-00",
+    "IP65",
+    "HTF",
+    "Molten Salt",
+    "Sh 6"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/17dec59498d2e83a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/17dec59498d2e83a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:25:48.568703+00:00",
+  "usage": {
+    "input_tokens": 22475,
+    "output_tokens": 9938,
+    "calls": 9
+  },
+  "repaired_calls": 3,
+  "chunk_count": 6,
+  "completed_chunks": 6,
+  "completed": true,
+  "text_chars": 23659
+}

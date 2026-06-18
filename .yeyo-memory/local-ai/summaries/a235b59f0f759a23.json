@@ -1,0 +1,40 @@
+{
+  "doc_id": "a235b59f0f759a23",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0007-GAR Rev.0 Radiographic Examination Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0007-GAR Rev.0 Radiographic Examination Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0007",
+  "revision": "Rev.0",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Procedure for radiographic inspection of steel welded joints using gamma or X rays sources. References include ASME codes.",
+  "summary_points": [
+    "Procedure for radiographic inspection of steel welded joints using gamma or X rays sources. References include ASME codes."
+  ],
+  "keywords": [
+    "radiographic examination",
+    "steel welded joints",
+    "gamma rays",
+    "X rays",
+    "ASME Code"
+  ],
+  "references": [
+    "ASME Code, Section V – Non Destructive Testing (2015 Edition)",
+    "ASME Code, Section VIII Div 1 – Pressure Vessels (2015 Edition)",
+    "ASME Code, Section VIII Div 2 – Pressure Vessels (2015 Edition)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a235b59f0f759a23.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a235b59f0f759a23.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:40:35.776980+00:00",
+  "usage": {
+    "input_tokens": 1280,
+    "output_tokens": 327,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2451
+}

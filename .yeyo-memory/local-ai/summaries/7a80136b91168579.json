@@ -1,0 +1,42 @@
+{
+  "doc_id": "7a80136b91168579",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AEE-39-70-0012-GAR_901_Rev02_Temperature transmitter.xlsx",
+  "title": "4521-HDD-AEE-39-70-0012-GAR 901 Rev02 Temperature transmitter",
+  "doc_code": "4521-HDD-AEE-39-70-0012",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical comment sheet for temperature transmitter, revision 2, addressing input data changes and design updates.",
+  "summary_points": [
+    "Technical comment sheet for temperature transmitter, revision 2, addressing input data changes and design updates."
+  ],
+  "keywords": [
+    "temperature transmitter",
+    "technical comment sheet",
+    "revision 2",
+    "input data change",
+    "design update"
+  ],
+  "references": [
+    "4521-HDD-AEE-39-70-0012-GAR_901",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-LIS-AEE-39-70-0015-GAR Rev.0"
+  ],
+  "warnings": [
+    "Client Transmittal Number and Answer Date are missing"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7a80136b91168579.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7a80136b91168579.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:08:04.331295+00:00",
+  "usage": {
+    "input_tokens": 2098,
+    "output_tokens": 690,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4334
+}

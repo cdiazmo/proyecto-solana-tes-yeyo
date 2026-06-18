@@ -1,0 +1,50 @@
+{
+  "doc_id": "0b265cf44a02a600",
+  "path": "Documentos en Servidor Atlántica/1950801-PLN-0040-00 Planificacion.pdf",
+  "title": "1950801-PLN-0040-00 Planificacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "- El proyecto se llama PLANTA HELIOS y está ubicado en Córdoba, España.\n- Se han identificado varias tareas clave del proyecto, desde la ingeniería básica hasta el montaje final.\n- La tarea de 'PLANTA HELIOS' comienza el 1 de enero de 2027 y termina el 1 de noviembre de 2028.\n- El suministrador del paquete es LOINTEK, con el código de documento 1950801-PLN-0040-00.\n- Tareas relacionadas con la construcción y operación de la planta termosolar Helios I y II.\n- Involucran tareas como obra civil, estructura y accesos, piping y valvulería, instrumentación y control, y handover a la comisión.\n- Las fechas de inicio y finalización están detalladas para cada tarea.",
+  "summary_points": [
+    "El proyecto se llama PLANTA HELIOS y está ubicado en Córdoba, España.",
+    "Se han identificado varias tareas clave del proyecto, desde la ingeniería básica hasta el montaje final.",
+    "La tarea de 'PLANTA HELIOS' comienza el 1 de enero de 2027 y termina el 1 de noviembre de 2028.",
+    "El suministrador del paquete es LOINTEK, con el código de documento 1950801-PLN-0040-00.",
+    "Tareas relacionadas con la construcción y operación de la planta termosolar Helios I y II.",
+    "Involucran tareas como obra civil, estructura y accesos, piping y valvulería, instrumentación y control, y handover a la comisión.",
+    "Las fechas de inicio y finalización están detalladas para cada tarea."
+  ],
+  "keywords": [
+    "1950801-PLN-0040-00",
+    "ATLANTICA",
+    "LOINTEK",
+    "1950801",
+    "Atlantica Yield",
+    "PLN-0040-00"
+  ],
+  "references": [
+    "1950801-PLN-0040-00",
+    "ATLANTICA",
+    "LOINTEK",
+    "1950801",
+    "Atlantica Yield",
+    "PLN-0040-00"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0b265cf44a02a600.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0b265cf44a02a600.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:20:22.843667+00:00",
+  "usage": {
+    "input_tokens": 6688,
+    "output_tokens": 2461,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10236
+}

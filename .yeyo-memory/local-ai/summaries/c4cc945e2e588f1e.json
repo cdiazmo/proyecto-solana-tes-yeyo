@@ -1,0 +1,43 @@
+{
+  "doc_id": "c4cc945e2e588f1e",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0317_R02.pdf",
+  "title": "4521-PLN-DOT-75-63-0317 R02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe supports, including dimensions, materials, and assembly details. Includes multiple support types and their specifications.",
+  "summary_points": [
+    "Document describing pipe supports, including dimensions, materials, and assembly details. Includes multiple support types and their specifications."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "assembly",
+    "Triple T shoe",
+    "stainless steel plate",
+    "calcium silicate insulation"
+  ],
+  "references": [
+    "257-MS-12EF-S-012",
+    "4521-PLN-DOT-75-63-0317"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and assembly details."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c4cc945e2e588f1e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c4cc945e2e588f1e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:09:30.999591+00:00",
+  "usage": {
+    "input_tokens": 1882,
+    "output_tokens": 867,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4118
+}

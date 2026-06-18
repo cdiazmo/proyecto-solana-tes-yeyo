@@ -1,0 +1,44 @@
+{
+  "doc_id": "890d962b4c83b06f",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/Structural Steel/4521-PLN-DOT-39-63-0919_R01.pdf",
+  "title": "4521-PLN-DOT-39-63-0919 R01",
+  "doc_code": "4521-PLN-DOT-39-63-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for general mechanics supports with W8x67 steel components. Includes notes on weld throat thickness and document history.",
+  "summary_points": [
+    "Drawing for general mechanics supports with W8x67 steel components. Includes notes on weld throat thickness and document history."
+  ],
+  "keywords": [
+    "4521-PLN-DOT-39-63-0919",
+    "General Mechanics Supports",
+    "W8x67 Steel",
+    "Structural Steel Components",
+    "Document History",
+    "Confidentiality Notice"
+  ],
+  "references": [
+    "4521-PLN-ANC-00-50-S001",
+    "4521-ESP-ANC-00-50-5120",
+    "4521-PLN-AEE-75-52-0006-GAR"
+  ],
+  "warnings": [
+    "Scale not specified",
+    "Document history details are limited"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/890d962b4c83b06f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/890d962b4c83b06f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:45:44.962383+00:00",
+  "usage": {
+    "input_tokens": 1161,
+    "output_tokens": 642,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2176
+}

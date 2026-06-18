@@ -1,0 +1,51 @@
+{
+  "doc_id": "e3150c5a8cd239f0",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0526_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0526 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document defines parameters and supports for pipe supports in a construction project. Includes dimensions, reference points, and typical shoe types.",
+  "summary_points": [
+    "Document defines parameters and supports for pipe supports in a construction project. Includes dimensions, reference points, and typical shoe types."
+  ],
+  "keywords": [
+    "pipe supports",
+    "parameters",
+    "dimensions",
+    "reference points",
+    "typical shoes",
+    "construction project"
+  ],
+  "references": [
+    "G07",
+    "P1",
+    "P2",
+    "P3",
+    "W5",
+    "WP",
+    "L 4X4X3",
+    "8\" B/S.",
+    "W8X28",
+    "W12X65 COL",
+    "252-HTF-16F-S-011"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e3150c5a8cd239f0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e3150c5a8cd239f0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:45:55.564077+00:00",
+  "usage": {
+    "input_tokens": 1249,
+    "output_tokens": 380,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2180
+}

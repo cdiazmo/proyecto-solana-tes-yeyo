@@ -1,0 +1,43 @@
+{
+  "doc_id": "d441ef95723f2a10",
+  "path": "01 GD AE/C&S/LIS/4521-LIS-AEE-75-52-0006-GAR-901_Rev00_Exchangers_Support_found.xlsx",
+  "title": "4521-LIS-AEE-75-52-0006-GAR-901 Rev00 Exchangers Support found",
+  "doc_code": "4521-LIS-AEE-75-52-0006",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Technical comment sheet for Exchanger Pipe support foundation, HEX replacement TES Solana project. Includes support loads and assumptions.",
+  "summary_points": [
+    "Technical comment sheet for Exchanger Pipe support foundation, HEX replacement TES Solana project. Includes support loads and assumptions."
+  ],
+  "keywords": [
+    "Exchanger Pipe",
+    "support foundation",
+    "HEX replacement",
+    "TES Solana",
+    "ground level",
+    "drainage pipe"
+  ],
+  "references": [
+    "4521-LIS-AEE-75-52-0006-GAR",
+    "2017-04-07",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d441ef95723f2a10.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d441ef95723f2a10.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:01:36.473223+00:00",
+  "usage": {
+    "input_tokens": 1218,
+    "output_tokens": 331,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2416
+}

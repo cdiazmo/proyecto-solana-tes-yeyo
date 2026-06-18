@@ -1,0 +1,48 @@
+{
+  "doc_id": "3f93b9a6432de37f",
+  "path": "01 GD AE/I&C/LIS/4521-LIS-AEE-39-45-0001-GAR_901 Rev.00 Junction Boxes List.xlsx",
+  "title": "4521-LIS-AEE-39-45-0001-GAR 901 Rev.00 Junction Boxes List",
+  "doc_code": "4521-LIS-AEE-39-45-0001",
+  "revision": "Rev.00",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Junction Boxes List for HEX replacement TES Solana project. Includes input data, assumptions, and client comments.",
+  "summary_points": [
+    "Junction Boxes List for HEX replacement TES Solana project. Includes input data, assumptions, and client comments."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-45-0001-GAR_901",
+    "Rev.00",
+    "HEX replacement",
+    "TES Solana",
+    "Junction Boxes List",
+    "Input Data",
+    "Client Comments"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-45-0001-GAR_901 Rev.00 Junction Boxes List",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P274-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02",
+    "4521-LIS-AEE-39-70-0016-GAR Rev.00",
+    "4521-LIS-AEE-000-070-0001-GAR Rev.01"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3f93b9a6432de37f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3f93b9a6432de37f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:07:57.708526+00:00",
+  "usage": {
+    "input_tokens": 1407,
+    "output_tokens": 771,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2616
+}

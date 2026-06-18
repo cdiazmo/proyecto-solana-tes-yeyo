@@ -1,0 +1,47 @@
+{
+  "doc_id": "68df06b378ed0a50",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-N-10F-CS31-2_Sht1_R4.pdf",
+  "title": "252-N-10F-CS31-2 Sht1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe, fittings, and valves for the 252-N-10F-CS31-2 project.",
+  "summary_points": [
+    "Document detailing pipe, fittings, and valves for the 252-N-10F-CS31-2 project."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "valves",
+    "ASME",
+    "API",
+    "Globe Valve",
+    "Buttweld",
+    "Support"
+  ],
+  "references": [
+    "252-N-10F-CS31-2",
+    "4XV 625516",
+    "3FB58V CL 300",
+    "ANSI B16.9",
+    "ASTM A234GR.WPB2"
+  ],
+  "warnings": [
+    "Text is partially OCR'd and contains non-standard characters."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/68df06b378ed0a50.md",
+  "source_extracted_path": ".yeyo-memory/extracted/68df06b378ed0a50.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:26:17.996257+00:00",
+  "usage": {
+    "input_tokens": 1160,
+    "output_tokens": 358,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1121
+}

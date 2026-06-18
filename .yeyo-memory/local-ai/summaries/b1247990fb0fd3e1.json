@@ -1,0 +1,52 @@
+{
+  "doc_id": "b1247990fb0fd3e1",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-ANC-00-70-N001.pdf",
+  "title": "4521-PLN-ANC-00-70-N001",
+  "doc_code": "4521-PLN-ANC-00-70-N001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document describes a combination conservation vent and flame arrester.\n- It includes equipment designations such as AI, BD, BFS, etc.\n- Service codes are provided for various pipe specifications.\n- Equipment tagging designations follow the format Z-MX-NNNY.\n- References include drawing numbers and revision history.\n- Confidential information about ABENER TEYMA.\n- Notice of alternate billing cycle for the project.\n- Drawing number, issue date, and purpose provided.",
+  "summary_points": [
+    "The document describes a combination conservation vent and flame arrester.",
+    "It includes equipment designations such as AI, BD, BFS, etc.",
+    "Service codes are provided for various pipe specifications.",
+    "Equipment tagging designations follow the format Z-MX-NNNY.",
+    "References include drawing numbers and revision history.",
+    "Confidential information about ABENER TEYMA.",
+    "Notice of alternate billing cycle for the project.",
+    "Drawing number, issue date, and purpose provided."
+  ],
+  "keywords": [
+    "4521-PLN-ANC-00-70-N001",
+    "4521-ESP-ANC-68-71-CS72",
+    "4521-ESP-ANC-68-61-XXXX",
+    "ABENER TEYMA",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "references": [
+    "4521-PLN-ANC-00-70-N001",
+    "4521-ESP-ANC-68-71-CS72",
+    "4521-ESP-ANC-68-61-XXXX",
+    "ABENER TEYMA",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "warnings": [
+    "Line information will not be shown on P&IDs due to length of valve identification.",
+    "Text is not in a readable format due to OCR issues."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b1247990fb0fd3e1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b1247990fb0fd3e1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:15:18.342156+00:00",
+  "usage": {
+    "input_tokens": 4348,
+    "output_tokens": 1259,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 9659
+}

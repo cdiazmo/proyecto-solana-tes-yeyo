@@ -1,0 +1,57 @@
+{
+  "doc_id": "06ef8a243faf2b19",
+  "path": "Helios Sole/Helios I/3.3.4 Cumplimiento DIA HI.pdf",
+  "title": "3.3.4 Cumplimiento DIA HI",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- La DIA de los proyectos HELIOS 1 y HELIOS II se encuentra en las Resoluciones del 3 de abril de 2008.\n- Se solicitó y obtuvo Autorización para el transplante de encinas afectadas por el proyecto.\n- Se propone instalar tres nidos artificiales por cada nido suprimido, ubicados en áreas próximas.\n- Se establecerá un riguroso plan de seguimiento con actuaciones de apoyo si es necesario.\n- El promotor debe establecer un Plan de Seguimiento coordinado con las Consejerías afectadas y revisarlo anualmente.\n- Se identifican dos nuevos nidos sobre encina.\n- El primer nido es pequeño, entre 20-30 cm de dimensión.\n- El segundo nido es grande, de 60-80 cm de dimensión.\n- Los nidos podrían corresponder a diferentes especies de rapaces.",
+  "summary_points": [
+    "La DIA de los proyectos HELIOS 1 y HELIOS II se encuentra en las Resoluciones del 3 de abril de 2008.",
+    "Se solicitó y obtuvo Autorización para el transplante de encinas afectadas por el proyecto.",
+    "Se propone instalar tres nidos artificiales por cada nido suprimido, ubicados en áreas próximas.",
+    "Se establecerá un riguroso plan de seguimiento con actuaciones de apoyo si es necesario.",
+    "El promotor debe establecer un Plan de Seguimiento coordinado con las Consejerías afectadas y revisarlo anualmente.",
+    "Se identifican dos nuevos nidos sobre encina.",
+    "El primer nido es pequeño, entre 20-30 cm de dimensión.",
+    "El segundo nido es grande, de 60-80 cm de dimensión.",
+    "Los nidos podrían corresponder a diferentes especies de rapaces."
+  ],
+  "keywords": [
+    "Resolución de 3 de abril de 2008",
+    "Dirección General de Evaluación Ambiental",
+    "Organismo Autónomo Espacios Naturales de Castilla-La Mancha",
+    "Figura 5",
+    "Figura 6",
+    "Figura 7",
+    "Figura 8"
+  ],
+  "references": [
+    "Resolución de 3 de abril de 2008",
+    "Dirección General de Evaluación Ambiental",
+    "Organismo Autónomo Espacios Naturales de Castilla-La Mancha",
+    "Figura 5",
+    "Figura 6",
+    "Figura 7",
+    "Figura 8"
+  ],
+  "warnings": [
+    "El texto contiene errores tipográficos y caracteres no reconocidos.",
+    "La referencia a 'AMANCHA' en el texto original es confusa."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/06ef8a243faf2b19.md",
+  "source_extracted_path": ".yeyo-memory/extracted/06ef8a243faf2b19.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:02:47.943806+00:00",
+  "usage": {
+    "input_tokens": 3212,
+    "output_tokens": 880,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8083
+}

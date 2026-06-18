@@ -1,0 +1,45 @@
+{
+  "doc_id": "1da1a9c3b3a32b04",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0340_R03.pdf",
+  "title": "4521-PLN-DOT-75-63-0340 R03",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for pipe supports detailing existing structure and typical shoe dimensions.",
+  "summary_points": [
+    "Drawing for pipe supports detailing existing structure and typical shoe dimensions."
+  ],
+  "keywords": [
+    "pipe supports",
+    "existing structure",
+    "typical shoe",
+    "stainless steel",
+    "insulation",
+    "anchor bolts",
+    "drawing",
+    "AS-BUILT"
+  ],
+  "references": [
+    "255-MS-06F-S-001",
+    "ARIZONA SOLAR ONE",
+    "Ildefonso Gonzalez, P.E. PhD"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1da1a9c3b3a32b04.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1da1a9c3b3a32b04.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:02:45.078679+00:00",
+  "usage": {
+    "input_tokens": 2055,
+    "output_tokens": 501,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3127
+}

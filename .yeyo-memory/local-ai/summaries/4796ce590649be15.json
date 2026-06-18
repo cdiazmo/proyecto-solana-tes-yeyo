@@ -1,0 +1,50 @@
+{
+  "doc_id": "4796ce590649be15",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.7 Formulario APM.pdf",
+  "title": "5.10.1.7 Formulario APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización administrativa para ampliación/modificación sustancial de una instalación eléctrica.\n- Instalación ubicada en Puerto Lápice y Arenas de San Juan, Ciudad Real.\n- Tipo de instalación: línea subterránea de alta tensión 220 kV S/C.\n- Finalidad: evacuación de energía solar termoeléctrica Helios I a una subestación colectora.\n- Presupuesto total de la instalación: 2.596.882,85 €.\n- Solicita autorización para comunicar cambios, notificar ejecución, aprobar proyectos temporales y declarar utilidad pública.\n- Documentación común a solicitudes incluye DNI, poder de representación y autorizaciones administrativas.\n- Proceso de autorización implica proyecto básico, justificación técnica y documentos ambientales.\n- Notificaciones temporales requieren justificantes de pago y detalles sobre la instalación.\n- Puesta en servicio requiere certificados técnicos y contratos de mantenimiento.\n- Datos personales son únicamente para el procedimiento administrativo solicitado.",
+  "summary_points": [
+    "Solicitud de autorización administrativa para ampliación/modificación sustancial de una instalación eléctrica.",
+    "Instalación ubicada en Puerto Lápice y Arenas de San Juan, Ciudad Real.",
+    "Tipo de instalación: línea subterránea de alta tensión 220 kV S/C.",
+    "Finalidad: evacuación de energía solar termoeléctrica Helios I a una subestación colectora.",
+    "Presupuesto total de la instalación: 2.596.882,85 €.",
+    "Solicita autorización para comunicar cambios, notificar ejecución, aprobar proyectos temporales y declarar utilidad pública.",
+    "Documentación común a solicitudes incluye DNI, poder de representación y autorizaciones administrativas.",
+    "Proceso de autorización implica proyecto básico, justificación técnica y documentos ambientales.",
+    "Notificaciones temporales requieren justificantes de pago y detalles sobre la instalación.",
+    "Puesta en servicio requiere certificados técnicos y contratos de mantenimiento.",
+    "Datos personales son únicamente para el procedimiento administrativo solicitado."
+  ],
+  "keywords": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "Ley Orgánica 15/1999, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "references": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "Ley Orgánica 15/1999, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4796ce590649be15.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4796ce590649be15.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:31:32.451375+00:00",
+  "usage": {
+    "input_tokens": 4205,
+    "output_tokens": 1962,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11752
+}

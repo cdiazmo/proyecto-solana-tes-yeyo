@@ -1,0 +1,40 @@
+{
+  "doc_id": "a59391a7b871c26d",
+  "path": "02 GD LOI/Hoja tecnica/4521-HDD-LOI-039-062-0001-GAR Rev.00 Equipmnet Data Sheet.pdf",
+  "title": "4521-HDD-LOI-039-062-0001-GAR Rev.00 Equipmnet Data Sheet",
+  "doc_code": "4521-HDD-LOI-039-062-0001",
+  "revision": "Rev.00",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical specifications for a heat exchanger, including dimensions, performance data, and construction details.",
+  "summary_points": [
+    "This document provides technical specifications for a heat exchanger, including dimensions, performance data, and construction details."
+  ],
+  "keywords": [
+    "heat exchanger",
+    "specification sheet",
+    "performance",
+    "construction",
+    "dimensions"
+  ],
+  "references": [
+    "4521-HDD-LOI-039-062-0001-GAR",
+    "195001-HDD-0001",
+    "MX-251-A/F"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a59391a7b871c26d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a59391a7b871c26d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:42:09.955390+00:00",
+  "usage": {
+    "input_tokens": 2035,
+    "output_tokens": 1835,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3944
+}

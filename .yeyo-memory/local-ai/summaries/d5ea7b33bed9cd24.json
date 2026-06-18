@@ -1,0 +1,46 @@
+{
+  "doc_id": "d5ea7b33bed9cd24",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180404/Sellado/S3.2  04_03_2018.pdf",
+  "title": "S3.2 04 03 2018",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico con planos de construcción para una fase del Solana Power Generation Plant, incluyendo detalles topográficos y legal.",
+  "summary_points": [
+    "Documento técnico con planos de construcción para una fase del Solana Power Generation Plant, incluyendo detalles topográficos y legal."
+  ],
+  "keywords": [
+    "Planos",
+    "Construcción",
+    "Topografía",
+    "Legalización",
+    "Elevaciones",
+    "Referencias Geográficas"
+  ],
+  "references": [
+    "Solana Power Generation Plant",
+    "Gila and Salt River Meridian",
+    "Maricopa County, Arizona",
+    "Benchmark",
+    "Elevation"
+  ],
+  "warnings": [
+    "Números y códigos difíciles de leer",
+    "Algunas referencias geográficas incompletas o ambiguas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d5ea7b33bed9cd24.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d5ea7b33bed9cd24.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:00:42.801684+00:00",
+  "usage": {
+    "input_tokens": 3200,
+    "output_tokens": 352,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5226
+}

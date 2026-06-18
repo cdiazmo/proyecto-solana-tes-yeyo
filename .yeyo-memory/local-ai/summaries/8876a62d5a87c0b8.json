@@ -1,0 +1,45 @@
+{
+  "doc_id": "8876a62d5a87c0b8",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0314.pdf",
+  "title": "4521-PLN-DOT-75-63-0314",
+  "doc_code": "4521-PLN-DOT-75-63-0314",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing details and specifications for support definition, including type of spring and dimensions.",
+  "summary_points": [
+    "Drawing details and specifications for support definition, including type of spring and dimensions."
+  ],
+  "keywords": [
+    "Support",
+    "Spring",
+    "Dimensions",
+    "Stiffeners",
+    "Insulation",
+    "Drawing",
+    "Abeinsa",
+    "EPC Contractor"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0314",
+    "257-MS-10EF-S-002_S01",
+    "257-MS-10EF-S-002_E12"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8876a62d5a87c0b8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8876a62d5a87c0b8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:11:37.997925+00:00",
+  "usage": {
+    "input_tokens": 1080,
+    "output_tokens": 364,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1920
+}

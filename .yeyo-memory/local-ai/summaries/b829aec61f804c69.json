@@ -1,0 +1,44 @@
+{
+  "doc_id": "b829aec61f804c69",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/Annex II.V (.25 Charge).pdf",
+  "title": "Annex II.V (.25 Charge)",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Technical report on flow rates, pump and valve data, pressure settings, and project information for a hydraulic circuit.",
+  "summary_points": [
+    "Technical report on flow rates, pump and valve data, pressure settings, and project information for a hydraulic circuit."
+  ],
+  "keywords": [
+    "flow",
+    "pumps",
+    "valves",
+    "pressure",
+    "project",
+    "hydraulic",
+    "circuits"
+  ],
+  "references": [
+    "PIPE-FLO Professional 12",
+    "Darcy-Weisbach"
+  ],
+  "warnings": [
+    "OCR dudoso enpm y psi a",
+    "Texto incompleto en 'Maximum Iterations'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b829aec61f804c69.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b829aec61f804c69.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:11:20.770563+00:00",
+  "usage": {
+    "input_tokens": 3124,
+    "output_tokens": 385,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4498
+}

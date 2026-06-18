@@ -1,0 +1,57 @@
+{
+  "doc_id": "686b406ea369ab9c",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-004 Monthly Report - 2020 May.pdf",
+  "title": "19500201-INF-004 Monthly Report - 2020 May",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly report for L OINTEK's activities until June 5th, 2020\n- Project: HEX replacement TES Solana for Arizona Solar One\n- Engineering tasks detailed in Annex II\n- Manufacturing progress of 6 units with varying completion rates\n- Open issue related to Force Majeure (COVID-19)\n- Invoices for advance payments and practical completion\n- Monthly report for May 2020.\n- Includes tasks such as channel head assembly, NDTs, PWHT, and more.\n- Lists purchase orders and received materials for various components.\n- Contains pictures of different units.",
+  "summary_points": [
+    "Monthly report for L OINTEK's activities until June 5th, 2020",
+    "Project: HEX replacement TES Solana for Arizona Solar One",
+    "Engineering tasks detailed in Annex II",
+    "Manufacturing progress of 6 units with varying completion rates",
+    "Open issue related to Force Majeure (COVID-19)",
+    "Invoices for advance payments and practical completion",
+    "Monthly report for May 2020.",
+    "Includes tasks such as channel head assembly, NDTs, PWHT, and more.",
+    "Lists purchase orders and received materials for various components.",
+    "Contains pictures of different units."
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-004",
+    "08/06/2020",
+    "UO MG MG",
+    "SOLANA INTERCONNECTION PIPE",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 0 / 19‐09‐19"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-004",
+    "08/06/2020",
+    "UO MG MG",
+    "SOLANA INTERCONNECTION PIPE",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 0 / 19‐09‐19"
+  ],
+  "warnings": [
+    "Annex II, III, and IV not provided in the text"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/686b406ea369ab9c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/686b406ea369ab9c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:41:19.812646+00:00",
+  "usage": {
+    "input_tokens": 6813,
+    "output_tokens": 2113,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13422
+}

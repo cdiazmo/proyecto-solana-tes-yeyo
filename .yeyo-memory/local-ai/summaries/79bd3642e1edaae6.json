@@ -1,0 +1,57 @@
+{
+  "doc_id": "79bd3642e1edaae6",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.8 Solicitud APM SE Elevadora HII.pdf",
+  "title": "5.10.2.8 Solicitud APM SE Elevadora HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización administrativa para ampliación/modificación de una subestación\n- Instalación ubicada en Puerto Lp, Ciudad Real\n- Potencia total de la instalación: 622500 KVA\n- Finalidad: Evacuación de energía generada por central termosolar\n- Datos del titular y representante actualizados\n- Aprobación proyectada como definitiva\n- Notificación de estado de tramitación por SMS o correo electrónico\n- Documentación común requerida para todas las solicitudes.\n- Incluye DNI del titular, poder de representación y documentos legales.\n- Proceso de autorización administrativa detallado.\n- Notificación de ejecución de instalaciones temporales con requisitos específicos.\n- Declaración de utilidad pública con detalles técnicos y condiciones de seguridad.",
+  "summary_points": [
+    "Solicitud de autorización administrativa para ampliación/modificación de una subestación",
+    "Instalación ubicada en Puerto Lp, Ciudad Real",
+    "Potencia total de la instalación: 622500 KVA",
+    "Finalidad: Evacuación de energía generada por central termosolar",
+    "Datos del titular y representante actualizados",
+    "Aprobación proyectada como definitiva",
+    "Notificación de estado de tramitación por SMS o correo electrónico",
+    "Documentación común requerida para todas las solicitudes.",
+    "Incluye DNI del titular, poder de representación y documentos legales.",
+    "Proceso de autorización administrativa detallado.",
+    "Notificación de ejecución de instalaciones temporales con requisitos específicos.",
+    "Declaración de utilidad pública con detalles técnicos y condiciones de seguridad."
+  ],
+  "keywords": [
+    "Decreto 80/2007, de 19 de junio",
+    "MODELO EN_01",
+    "Castilla-La Mancha",
+    "Red Electrica de España, SA (REE)",
+    "Ley Orgánica 15/1999",
+    "Decreto 33/2009",
+    "Decreto 80/2007"
+  ],
+  "references": [
+    "Decreto 80/2007, de 19 de junio",
+    "MODELO EN_01",
+    "Castilla-La Mancha",
+    "Red Electrica de España, SA (REE)",
+    "Ley Orgánica 15/1999",
+    "Decreto 33/2009",
+    "Decreto 80/2007"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/79bd3642e1edaae6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/79bd3642e1edaae6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:28:27.539411+00:00",
+  "usage": {
+    "input_tokens": 4164,
+    "output_tokens": 2193,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11686
+}

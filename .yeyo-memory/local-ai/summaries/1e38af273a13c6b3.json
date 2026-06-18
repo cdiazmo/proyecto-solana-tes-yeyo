@@ -1,0 +1,43 @@
+{
+  "doc_id": "1e38af273a13c6b3",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AGE-39-70-0011-GAR_901_Pressure transmitter.xlsx",
+  "title": "4521-HDD-AGE-39-70-0011-GAR 901 Pressure transmitter",
+  "doc_code": "4521-HDD-AGE-39-70-0011",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for Pressure Transmitter, HEX replacement TES Solana, Abeinsa Engineering, Rev 0, 2016-12-23.",
+  "summary_points": [
+    "Technical Comment Sheet for Pressure Transmitter, HEX replacement TES Solana, Abeinsa Engineering, Rev 0, 2016-12-23."
+  ],
+  "keywords": [
+    "Pressure transmitter",
+    "HEX replacement",
+    "Abeinsa Engineering",
+    "TCS",
+    "Rev 0",
+    "2016-12-23"
+  ],
+  "references": [
+    "4521-HDD-AGE-39-70-0011-GAR_901",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-LIS-AEE-39-70-0015-GAR Rev.0"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1e38af273a13c6b3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1e38af273a13c6b3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:46:19.219211+00:00",
+  "usage": {
+    "input_tokens": 1470,
+    "output_tokens": 589,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2904
+}

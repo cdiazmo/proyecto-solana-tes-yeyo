@@ -1,0 +1,38 @@
+{
+  "doc_id": "4d70b9d2bd4143cf",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0012-GAR-901 Rev.00 Nozzels.xlsx",
+  "title": "4521-PLN-LOI-039-062-0012-GAR-901 Rev.00 Nozzels",
+  "doc_code": "4521-PLN-LOI-039-062-0012",
+  "revision": "Rev.00",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Documentacion auxiliar para el proyecto HEX replacement TES Solana, revisión 0 del TCS 4521-PLN-LOI-039-062-0012-GAR-901.",
+  "summary_points": [
+    "Documentacion auxiliar para el proyecto HEX replacement TES Solana, revisión 0 del TCS 4521-PLN-LOI-039-062-0012-GAR-901."
+  ],
+  "keywords": [
+    "4521-PLN-LOI-039-062-0012-GAR-901",
+    "HEX replacement TES Solana",
+    "TCS",
+    "Abeinsa Engineering"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto incompleto en 'Client Main Comments' y 'Annexes to Comments'",
+    "Falta información en 'Status Code', 'Purpose Description', 'Comment Number', 'Comment Description', etc."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4d70b9d2bd4143cf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4d70b9d2bd4143cf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:28:51.577533+00:00",
+  "usage": {
+    "input_tokens": 1203,
+    "output_tokens": 326,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2186
+}

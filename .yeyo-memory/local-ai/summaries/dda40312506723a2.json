@@ -1,0 +1,47 @@
+{
+  "doc_id": "dda40312506723a2",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/4521-PLN-DOT-75-63-0273_Rev01.pdf",
+  "title": "4521-PLN-DOT-75-63-0273 Rev01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides detailed support definitions for various configurations, including front and side views, triple T shoes, and G07 profiles. It includes dimensions, materials, and notes on existing structures and modifications.",
+  "summary_points": [
+    "This document provides detailed support definitions for various configurations, including front and side views, triple T shoes, and G07 profiles. It includes dimensions, materials, and notes on existing structures and modifications."
+  ],
+  "keywords": [
+    "support definition",
+    "front view",
+    "side view",
+    "triple T shoe",
+    "G07 profile",
+    "dimensions",
+    "materials",
+    "existing structure",
+    "stainless steel plate",
+    "insulation"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0273",
+    "252-MS-03F-S-003",
+    "252-MS-03F-S-002"
+  ],
+  "warnings": [
+    "OCR errors in some text sections"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/dda40312506723a2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/dda40312506723a2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:05:59.886841+00:00",
+  "usage": {
+    "input_tokens": 1717,
+    "output_tokens": 888,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3739
+}

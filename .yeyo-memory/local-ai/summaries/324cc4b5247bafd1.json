@@ -1,0 +1,41 @@
+{
+  "doc_id": "324cc4b5247bafd1",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/Annex II.II (Summer Discharge).pdf",
+  "title": "Annex II.II (Summer Discharge)",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Technical report on summer discharge calculations for HTF Solana project, including flow rates, pump and valve data, pressure boundary set, and project information.",
+  "summary_points": [
+    "Technical report on summer discharge calculations for HTF Solana project, including flow rates, pump and valve data, pressure boundary set, and project information."
+  ],
+  "keywords": [
+    "HTF Solana",
+    "summer discharge",
+    "flow rates",
+    "pumps",
+    "valves",
+    "pressure boundary set",
+    "PIPE-FLO Professional 12",
+    "Darcy-Weisbach"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR dudoso en varios lugares, especialmente en valores numéricos y unidades de medida."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/324cc4b5247bafd1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/324cc4b5247bafd1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:10:19.182412+00:00",
+  "usage": {
+    "input_tokens": 3081,
+    "output_tokens": 800,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4445
+}

@@ -1,0 +1,39 @@
+{
+  "doc_id": "520e073b733547ea",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0007-GAR-901 Rev.0 Radiographic Examination Procedure.xlsx",
+  "title": "4521-INS-LOI-039-062-0007-GAR-901 Rev.0 Radiographic Examination Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0007",
+  "revision": "Rev.0",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Radiographic Examination Procedure document for HEX replacement TES Solana project. Revision 0, issued by Abeinsa Engineering.",
+  "summary_points": [
+    "Radiographic Examination Procedure document for HEX replacement TES Solana project. Revision 0, issued by Abeinsa Engineering."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0007-GAR",
+    "Radiographic Examination Procedure",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Rev.0"
+  ],
+  "references": [],
+  "warnings": [
+    "Text incomplete in 'Client Main Comments' and 'Annexes to Comments'",
+    "OCR issues with date format"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/520e073b733547ea.md",
+  "source_extracted_path": ".yeyo-memory/extracted/520e073b733547ea.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:56:39.215802+00:00",
+  "usage": {
+    "input_tokens": 1185,
+    "output_tokens": 285,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2281
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "dca38d06fae79e6b",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/4521-PLN-DOT-75-63-0347_Rev01.pdf",
+  "title": "4521-PLN-DOT-75-63-0347 Rev01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definitions, including dimensions, materials, and construction details for a project in Arizona Solar One. Includes typical standards and foundation specifications.",
+  "summary_points": [
+    "Document describing support definitions, including dimensions, materials, and construction details for a project in Arizona Solar One. Includes typical standards and foundation specifications."
+  ],
+  "keywords": [
+    "support definition",
+    "pipe orientation",
+    "dimensions",
+    "material",
+    "insulation",
+    "shoe type",
+    "drawing",
+    "project",
+    "foundation",
+    "anchors"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0347",
+    "255-MS-09F-S-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side view and drawing sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/dca38d06fae79e6b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/dca38d06fae79e6b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:55:01.072343+00:00",
+  "usage": {
+    "input_tokens": 1401,
+    "output_tokens": 895,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2675
+}

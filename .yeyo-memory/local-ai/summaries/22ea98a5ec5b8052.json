@@ -1,0 +1,48 @@
+{
+  "doc_id": "22ea98a5ec5b8052",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-15F-CS31-3_Sht_1_R3.pdf",
+  "title": "255-MS-15F-CS31-3 Sht 1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe schedule, fittings, and valves for the project 255-MS-15F-CS31-3.",
+  "summary_points": [
+    "Document describing pipe schedule, fittings, and valves for the project 255-MS-15F-CS31-3."
+  ],
+  "keywords": [
+    "pipe",
+    "schedule",
+    "fittings",
+    "valves",
+    "gate valve",
+    "control valve",
+    "ASME",
+    "API",
+    "buttweld"
+  ],
+  "references": [
+    "255-MS-15F-CS31-3",
+    "JSMMTGJMRL",
+    "FA58V CL 300",
+    "6/15/2018",
+    "312/05/19"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear measurements and dimensions"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/22ea98a5ec5b8052.md",
+  "source_extracted_path": ".yeyo-memory/extracted/22ea98a5ec5b8052.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:36:46.549605+00:00",
+  "usage": {
+    "input_tokens": 1562,
+    "output_tokens": 364,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1613
+}

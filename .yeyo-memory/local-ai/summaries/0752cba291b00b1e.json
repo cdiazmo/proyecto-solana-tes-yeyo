@@ -1,0 +1,49 @@
+{
+  "doc_id": "0752cba291b00b1e",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-HTF-20F-CS30-1_Sht1_R4.pdf",
+  "title": "255-HTF-20F-CS30-1 Sht1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing the components and quantities of a pipe system for project 255-HTF-20F-CS30-1, including valves, fittings, and reducers. AS-BUILT date: 412/05/19.",
+  "summary_points": [
+    "Document detailing the components and quantities of a pipe system for project 255-HTF-20F-CS30-1, including valves, fittings, and reducers. AS-BUILT date: 412/05/19."
+  ],
+  "keywords": [
+    "255-HTF-20F-CS30-1",
+    "pipe system",
+    "AS-BUILT",
+    "valves",
+    "fittings",
+    "reducers",
+    "gate valve"
+  ],
+  "references": [
+    "1CS SCH 80 seamless PE ASTM A 106 GR B189.08'",
+    "2TEE ANSI B16.11 SW #3000 ASTM A1051X1",
+    "3ELBOW 90 DEG ANSI B16.11 SW #3000ASTM A 1051",
+    "4FA40 Manual Gate Valve",
+    "5XV 625515",
+    "5XV 625578",
+    "5XV 625522",
+    "2X1 CONC. REDUCER"
+  ],
+  "warnings": [
+    "OCR errors detected in some text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0752cba291b00b1e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0752cba291b00b1e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:49:07.166641+00:00",
+  "usage": {
+    "input_tokens": 2431,
+    "output_tokens": 874,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2221
+}

@@ -1,0 +1,40 @@
+{
+  "doc_id": "069e073185548b9e",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR-901_Rev.00 Packing and Shipping List.xlsx",
+  "title": "4521-LIS-LOI-039-062-0003-GAR-901 Rev.00 Packing and Shipping List",
+  "doc_code": "4521-LIS-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Listados e indices",
+  "summary": "Packing and Shipping List for HEX replacement TES Solana project. Document details, client comments, and revisions.",
+  "summary_points": [
+    "Packing and Shipping List for HEX replacement TES Solana project. Document details, client comments, and revisions."
+  ],
+  "keywords": [
+    "4521-LIS-LOI-039-062-0003-GAR",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Packing and Shipping List"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0021",
+    "4521-LIS-LOI-039-062-0003-GAR"
+  ],
+  "warnings": [
+    "#VALUE! found in multiple fields, possibly OCR errors."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/069e073185548b9e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/069e073185548b9e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:12:35.021343+00:00",
+  "usage": {
+    "input_tokens": 1092,
+    "output_tokens": 394,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2029
+}

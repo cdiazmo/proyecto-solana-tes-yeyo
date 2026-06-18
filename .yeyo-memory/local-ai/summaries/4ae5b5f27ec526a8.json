@@ -1,0 +1,48 @@
+{
+  "doc_id": "4ae5b5f27ec526a8",
+  "path": "11 Sal de Solana y Corrosion/4 NOTA TÉCNICA DE ALIA SOBRE CORROSIÓN/AECP2017-A-002_Corrosion of Lointek heat exchangers’ U-tubes due to exposure to molten nitrate salt in Solana powerplant_v00.pdf",
+  "title": "AECP2017-A-002 Corrosion of Lointek heat exchangers’ U-tubes due to exposure to molten nitrate salt in Solana powerplant v00",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Document purpose: Estimate corrosion loss of Lointek's U-tubes due to molten nitrate salt exposure.\n- Material: SA210 A1 Seamless (general carbon steel), Wall Thickness: 1.651 mm / 0.065 in\n- Corrosion rate driven by chloride ions and temperature, increased by x3.8 with a 50ºC increase of salt temperature.\n- Assumptions: Total lifetime = 25 years, design temperature correction factor = 1.52\n- Total expected corrosion loss: 63.08 µm (3.8% of initial thickness)\n- Thickness loss due to corrosion estimated at 0.06308mm\n- Corrosion loss considered low (3.8% of initial tube thickness)\n- Additional structural calculation needed after 25 years\n- References include studies on A516GR70 steel and chloride content effects",
+  "summary_points": [
+    "Document purpose: Estimate corrosion loss of Lointek's U-tubes due to molten nitrate salt exposure.",
+    "Material: SA210 A1 Seamless (general carbon steel), Wall Thickness: 1.651 mm / 0.065 in",
+    "Corrosion rate driven by chloride ions and temperature, increased by x3.8 with a 50ºC increase of salt temperature.",
+    "Assumptions: Total lifetime = 25 years, design temperature correction factor = 1.52",
+    "Total expected corrosion loss: 63.08 µm (3.8% of initial thickness)",
+    "Thickness loss due to corrosion estimated at 0.06308mm",
+    "Corrosion loss considered low (3.8% of initial tube thickness)",
+    "Additional structural calculation needed after 25 years",
+    "References include studies on A516GR70 steel and chloride content effects"
+  ],
+  "keywords": [
+    "AECP2017-A-002",
+    "Tecnalia, Project 068980",
+    "ESC Lab Sciences",
+    "R.W. Bradshaw, W. Miles Clift"
+  ],
+  "references": [
+    "AECP2017-A-002",
+    "Tecnalia, Project 068980",
+    "ESC Lab Sciences",
+    "R.W. Bradshaw, W. Miles Clift"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4ae5b5f27ec526a8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4ae5b5f27ec526a8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T21:41:22.969774+00:00",
+  "usage": {
+    "input_tokens": 2785,
+    "output_tokens": 1141,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8229
+}

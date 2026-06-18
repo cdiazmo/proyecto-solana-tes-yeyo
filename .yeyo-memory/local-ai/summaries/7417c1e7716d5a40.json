@@ -1,0 +1,44 @@
+{
+  "doc_id": "7417c1e7716d5a40",
+  "path": "03 GD Fabricacion LOI TES 6/Listas/4521-LIS-LOI-039-062-0001 REV.02 Document List.pdf",
+  "title": "4521-LIS-LOI-039-062-0001 REV.02 Document List",
+  "doc_code": "4521-LIS-LOI-039-062-0001",
+  "revision": "REV.02",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document list for the SOLANA solar power plant in Arizona, USA. Includes manufacturing plans, inspection procedures, and quality assurance documents.",
+  "summary_points": [
+    "Document list for the SOLANA solar power plant in Arizona, USA. Includes manufacturing plans, inspection procedures, and quality assurance documents."
+  ],
+  "keywords": [
+    "SOLANA SOLAR POWER PLANT",
+    "OIL TO SALT HEAT EXCHANGERS",
+    "Manufacturing Plans",
+    "Inspection Procedures",
+    "Quality Assurance",
+    "Document List",
+    "Final Quality Dossier"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0001-GAR",
+    "4521-SCH-LOI-039-062-0001-GAR",
+    "4521-MOM-LOI-039-062-0003-GAR"
+  ],
+  "warnings": [
+    "OCR issues detected in some text entries."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7417c1e7716d5a40.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7417c1e7716d5a40.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:02:34.692746+00:00",
+  "usage": {
+    "input_tokens": 3503,
+    "output_tokens": 588,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4414
+}

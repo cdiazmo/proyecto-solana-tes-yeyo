@@ -1,0 +1,38 @@
+{
+  "doc_id": "53f8b157cd529ec9",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0505_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0505 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Technical document with unclear content due to OCR errors. Contains pipe supports, process mechanics, and construction details.",
+  "summary_points": [
+    "Technical document with unclear content due to OCR errors. Contains pipe supports, process mechanics, and construction details."
+  ],
+  "keywords": [
+    "pipe supports",
+    "process mechanics",
+    "construction",
+    "technical document",
+    "OCR errors"
+  ],
+  "references": [],
+  "warnings": [
+    "Text is ambiguous or unreadable due to OCR issues"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/53f8b157cd529ec9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/53f8b157cd529ec9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:14:02.105120+00:00",
+  "usage": {
+    "input_tokens": 709,
+    "output_tokens": 203,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 368
+}

@@ -1,0 +1,40 @@
+{
+  "doc_id": "ceb9d7f4b274efd5",
+  "path": "07 Presentado al Condado/003 Planning distribucion/Order 186461 summary.pdf",
+  "title": "Order 186461 summary",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Order E186461 submitted by Pedro Pajares for Solana Generating Station plans. Delivery to Adriana Endress at Atlantica Yield.",
+  "summary_points": [
+    "Order E186461 submitted by Pedro Pajares for Solana Generating Station plans. Delivery to Adriana Endress at Atlantica Yield."
+  ],
+  "keywords": [
+    "E186461",
+    "Solana Generating Station",
+    "Adriana Endress",
+    "Atlantica Yield",
+    "Plans",
+    "Delivery",
+    "Print Settings"
+  ],
+  "references": [],
+  "warnings": [
+    "Requested Due Date, Project Name/Number, PO Number not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ceb9d7f4b274efd5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ceb9d7f4b274efd5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:18:56.960812+00:00",
+  "usage": {
+    "input_tokens": 767,
+    "output_tokens": 417,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1025
+}

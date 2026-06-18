@@ -1,0 +1,56 @@
+{
+  "doc_id": "c74e86c48879780a",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.6 Formulario pozo 3.pdf",
+  "title": "5.9.4.6 Formulario pozo 3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general de industria para una instalación solar termoeléctrica.\n- Ubicada en Puerto Lápica, Ciudad Real.\n- Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y almacenamiento de productos químicos.\n- Denominación: Instalación de BT en pozo nS de planta solar termoeléctrica Helios 1.\n- Actividad principal: Generación de energía eléctrica (CNAE: 11).\n- Referencia catastral y coordenadas UTM proporcionadas.\n- Documentación requerida para instalaciones de alta tensión y petroliferas.\n- Se requiere proyecto o documento más sencillo según la naturaleza de la instalación.\n- Informes de seguridad son necesarios si superan un umbral específico.\n- Certificados de dirección de obra, instalación y inspección inicial son fundamentales.\n- Documentos adicionales como contratos de mantenimiento y planes de emergencia pueden ser requeridos.",
+  "summary_points": [
+    "Solicitud de registro de proyecto general de industria para una instalación solar termoeléctrica.",
+    "Ubicada en Puerto Lápica, Ciudad Real.",
+    "Instalaciones incluyen seguridad contra incendios, eléctricas baja tensión y almacenamiento de productos químicos.",
+    "Denominación: Instalación de BT en pozo nS de planta solar termoeléctrica Helios 1.",
+    "Actividad principal: Generación de energía eléctrica (CNAE: 11).",
+    "Referencia catastral y coordenadas UTM proporcionadas.",
+    "Documentación requerida para instalaciones de alta tensión y petroliferas.",
+    "Se requiere proyecto o documento más sencillo según la naturaleza de la instalación.",
+    "Informes de seguridad son necesarios si superan un umbral específico.",
+    "Certificados de dirección de obra, instalación y inspección inicial son fundamentales.",
+    "Documentos adicionales como contratos de mantenimiento y planes de emergencia pueden ser requeridos."
+  ],
+  "keywords": [
+    "R.D. 2135/1980, de 26 de septiembre",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio",
+    "R.D. 1254/1999",
+    "Real Decreto 2135/1980"
+  ],
+  "references": [
+    "R.D. 2135/1980, de 26 de septiembre",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio",
+    "R.D. 1254/1999",
+    "Real Decreto 2135/1980"
+  ],
+  "warnings": [
+    "Firma del titular o representante incompleta en la última página."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c74e86c48879780a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c74e86c48879780a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:43:50.999281+00:00",
+  "usage": {
+    "input_tokens": 4787,
+    "output_tokens": 3088,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13884
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "8e247cc3f5b75c1b",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180404/Sellado/S3.1  04_04_2018.pdf",
+  "title": "S3.1 04 04 2018",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "- Reemplazo de calentadores HFT en el área rural\n- Coordenadas específicas del proyecto\n- Parcela ubicada en Sección 16, Township 6 South, Range 7 West\n- Área total de la parcela: 7,514,527 square feet (172.51 acres)\n- Descripción legal detallada del terreno",
+  "summary_points": [
+    "Reemplazo de calentadores HFT en el área rural",
+    "Coordenadas específicas del proyecto",
+    "Parcela ubicada en Sección 16, Township 6 South, Range 7 West",
+    "Área total de la parcela: 7,514,527 square feet (172.51 acres)",
+    "Descripción legal detallada del terreno"
+  ],
+  "keywords": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS",
+    "GANNETT FLEMING",
+    "2/9/15"
+  ],
+  "references": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS",
+    "GANNETT FLEMING",
+    "2/9/15"
+  ],
+  "warnings": [
+    "Errores tipográficos y símbolos no reconocidos en el texto extraído"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8e247cc3f5b75c1b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8e247cc3f5b75c1b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:24:46.813723+00:00",
+  "usage": {
+    "input_tokens": 13081,
+    "output_tokens": 3094,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10479
+}

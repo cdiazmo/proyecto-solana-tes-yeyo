@@ -1,0 +1,43 @@
+{
+  "doc_id": "5f861fb6d4a53ea1",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AEE-39-40-0002-GAR_901_Rev00_Lighting_new_repositioning_exchangers.xlsx",
+  "title": "4521-PLN-AEE-39-40-0002-GAR 901 Rev00 Lighting new repositioning exchangers",
+  "doc_code": "4521-PLN-AEE-39-40-0002",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Documentación auxiliar para el reubicamiento y cambio de luces en los exchangers, con asumiciones sobre la plataforma de acceso a los exchangers no definida.",
+  "summary_points": [
+    "Documentación auxiliar para el reubicamiento y cambio de luces en los exchangers, con asumiciones sobre la plataforma de acceso a los exchangers no definida."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-39-40-0002-GAR-901",
+    "Lighting",
+    "Repositioning",
+    "Exchangers",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Technical Comment Sheet"
+  ],
+  "references": [
+    "4521-PLN-AEE-39-40-0001-GAR_Rev01_Layout_new_exchangers",
+    "4521-PLN-AGE-39-40-0002_Rev4_Phase 2. TES Area Lighting Layout. North Platform"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos, como la fecha del cliente y el estado de entrega."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5f861fb6d4a53ea1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5f861fb6d4a53ea1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:45:08.158397+00:00",
+  "usage": {
+    "input_tokens": 1304,
+    "output_tokens": 402,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2564
+}

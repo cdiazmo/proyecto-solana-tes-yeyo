@@ -1,0 +1,40 @@
+{
+  "doc_id": "76a3552d5fbe4062",
+  "path": "12 As Built TES 6/00_Permit Package/03_Planning layout/4521-PLN-AEE-00-00-0200_REV01 (1).pdf",
+  "title": "4521-PLN-AEE-00-00-0200 REV01 (1)",
+  "doc_code": "4521-PLN-AEE-00-00-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Project involves replacing salt to HFT heat exchangers.\n- Coordinates provided for project boundary.\n- Parcel details include location and area in Maricopa County, Arizona.\n- Primary benchmark based on triangulation station 'MID'.\n- Basis of bearing information from a specific survey document.",
+  "summary_points": [
+    "Project involves replacing salt to HFT heat exchangers.",
+    "Coordinates provided for project boundary.",
+    "Parcel details include location and area in Maricopa County, Arizona.",
+    "Primary benchmark based on triangulation station 'MID'.",
+    "Basis of bearing information from a specific survey document."
+  ],
+  "keywords": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS (GANNETT FLEMING, 2/9/15)"
+  ],
+  "references": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS (GANNETT FLEMING, 2/9/15)"
+  ],
+  "warnings": [
+    "OCR issues with some text recognition"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/76a3552d5fbe4062.md",
+  "source_extracted_path": ".yeyo-memory/extracted/76a3552d5fbe4062.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:31:18.179666+00:00",
+  "usage": {
+    "input_tokens": 13068,
+    "output_tokens": 3096,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10479
+}

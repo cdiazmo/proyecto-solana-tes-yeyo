@@ -1,0 +1,39 @@
+{
+  "doc_id": "062d8aad056a48bd",
+  "path": "13_Documentos de Inspección Final/Site Inspection 7-29-19sealed.pdf",
+  "title": "Site Inspection 7-29-19sealed",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Site Electrical Inspection Report for Exchanger project on 7/29/19. Inspected a 25-foot conduit duct bank via Face Time; no issues found.",
+  "summary_points": [
+    "Site Electrical Inspection Report for Exchanger project on 7/29/19. Inspected a 25-foot conduit duct bank via Face Time; no issues found."
+  ],
+  "keywords": [
+    "Electrical Inspection",
+    "Exchanger Project",
+    "Face Time",
+    "Conduit Duct Bank",
+    "Inspection",
+    "No Issues"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en 'Dennis E Fox, PE'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/062d8aad056a48bd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/062d8aad056a48bd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:15:00.950665+00:00",
+  "usage": {
+    "input_tokens": 608,
+    "output_tokens": 279,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 870
+}

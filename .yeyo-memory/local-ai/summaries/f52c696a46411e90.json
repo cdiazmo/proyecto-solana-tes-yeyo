@@ -1,0 +1,54 @@
+{
+  "doc_id": "f52c696a46411e90",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-006 Monthly Report - 2020 July.pdf",
+  "title": "19500201-INF-006 Monthly Report - 2020 July",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly report for L OINTEK's activities until August 6th, 2020.\n- Project involves HEX replacement TES Solana in Arizona Solar One.\n- Manufacturing progress of equipment units varies from 55% to 85%.\n- Open issue due to Force Majeure Situation COVID-19.\n- Invoices include advance payment, material arrival, inspection, and practical completion.\n- Monthly report for July 2020 detailing tasks and timelines.\n- Tasks include order processing, engineering documentation, material reception, manufacturing, and more.\n- Equipment readiness and transport logistics are also covered.\n- Document references include revision details and page numbers.",
+  "summary_points": [
+    "Monthly report for L OINTEK's activities until August 6th, 2020.",
+    "Project involves HEX replacement TES Solana in Arizona Solar One.",
+    "Manufacturing progress of equipment units varies from 55% to 85%.",
+    "Open issue due to Force Majeure Situation COVID-19.",
+    "Invoices include advance payment, material arrival, inspection, and practical completion.",
+    "Monthly report for July 2020 detailing tasks and timelines.",
+    "Tasks include order processing, engineering documentation, material reception, manufacturing, and more.",
+    "Equipment readiness and transport logistics are also covered.",
+    "Document references include revision details and page numbers."
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-006",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Rev 02/08-07-20",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-006",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Rev 02/08-07-20",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f52c696a46411e90.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f52c696a46411e90.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:51:23.417889+00:00",
+  "usage": {
+    "input_tokens": 11398,
+    "output_tokens": 4179,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15182
+}

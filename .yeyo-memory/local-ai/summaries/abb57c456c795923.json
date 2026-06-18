@@ -1,0 +1,42 @@
+{
+  "doc_id": "abb57c456c795923",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0217_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0217 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Support definition with dimensions and notes on geometry and stiffeners.",
+  "summary_points": [
+    "Support definition with dimensions and notes on geometry and stiffeners."
+  ],
+  "keywords": [
+    "support",
+    "dimensions",
+    "geometry",
+    "stiffeners",
+    "trunnion",
+    "drawing details",
+    "standard"
+  ],
+  "references": [
+    "252-HTF-12F-S-002"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos caracteres especiales y números."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/abb57c456c795923.md",
+  "source_extracted_path": ".yeyo-memory/extracted/abb57c456c795923.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:34:39.686404+00:00",
+  "usage": {
+    "input_tokens": 1037,
+    "output_tokens": 392,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1555
+}

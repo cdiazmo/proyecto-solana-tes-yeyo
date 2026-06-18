@@ -1,0 +1,71 @@
+{
+  "doc_id": "c2923f856a442d95",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.5 Acreditacion BT.pdf",
+  "title": "5.9.1.5 Acreditacion BT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Instalaciones Inabensa, S.A. es la titular declarante.\n- La empresa se inscribe en el registro de establecimientos industriales de Andalucia.\n- Se asegura una cantidad de 6.000.000 € contra responsabilidad civil.\n- El representante dispone de poder legal suficiente para actuar como tal.\n- La empresa cumple con los requisitos exigidos por la reglamentación de seguridad industrial.\n- La empresa dispone de personal calificado y documentación acreditativa.\n- La empresa está inscrita en el registro de establecimientos industriales de Andalucía.\n- El representante legal tiene poder suficiente para actuar como tal.\n- La empresa cumple con los requisitos de seguridad industrial.\n- Los datos del documento son ciertos y sujetos a sanciones por inexactitudes o omisiones.\n- Se requiere la firma responsable del declarante y el sello de la empresa.\n- Se encuentra inscrita en el registro de establecimientos industriales de Andalucia.",
+  "summary_points": [
+    "Instalaciones Inabensa, S.A. es la titular declarante.",
+    "La empresa se inscribe en el registro de establecimientos industriales de Andalucia.",
+    "Se asegura una cantidad de 6.000.000 € contra responsabilidad civil.",
+    "El representante dispone de poder legal suficiente para actuar como tal.",
+    "La empresa cumple con los requisitos exigidos por la reglamentación de seguridad industrial.",
+    "La empresa dispone de personal calificado y documentación acreditativa.",
+    "La empresa está inscrita en el registro de establecimientos industriales de Andalucía.",
+    "El representante legal tiene poder suficiente para actuar como tal.",
+    "La empresa cumple con los requisitos de seguridad industrial.",
+    "Los datos del documento son ciertos y sujetos a sanciones por inexactitudes o omisiones.",
+    "Se requiere la firma responsable del declarante y el sello de la empresa.",
+    "Se encuentra inscrita en el registro de establecimientos industriales de Andalucia.",
+    "Se compromete a mantener el cumplimiento de los requisitos durante la actividad.",
+    "Los datos del documento son ciertos y sujetos a protección de datos personales.",
+    "Declaración legal de cumplimiento de requisitos para ejercicio de actividad industrial en Sevilla.",
+    "Certificación de cualificación individual en baja tensión para Jose Garcia Lopez.",
+    "Requisitos generales incluyen documentación acreditativa y compromiso con la normativa vigente.",
+    "Firma del declarante y sello de la empresa en la página 5."
+  ],
+  "keywords": [
+    "Ley 21/1992, de 16 de julio, de industria",
+    "Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el reglamento electrotécnico de baja tensión",
+    "ITC BT-03",
+    "JUNTA DE ANDALUCIA",
+    "PTOS CONSEJERÍA DE ECONOMÍA, INNOVACIÓN Y CIENCIA",
+    "A DELEGACIÓN PROVINCIAL DE E -7 BIC. 2011",
+    "JUNTA DE RADALWOR E hs",
+    "Ley Orgánica 15/1999, de Protección de Datos de carácter Personal",
+    "CNAE-2009 22",
+    "41/668-E"
+  ],
+  "references": [
+    "Ley 21/1992, de 16 de julio, de industria",
+    "Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el reglamento electrotécnico de baja tensión",
+    "ITC BT-03",
+    "JUNTA DE ANDALUCIA",
+    "PTOS CONSEJERÍA DE ECONOMÍA, INNOVACIÓN Y CIENCIA",
+    "A DELEGACIÓN PROVINCIAL DE E -7 BIC. 2011",
+    "JUNTA DE RADALWOR E hs",
+    "Ley Orgánica 15/1999, de Protección de Datos de carácter Personal",
+    "CNAE-2009 22",
+    "41/668-E"
+  ],
+  "warnings": [
+    "El texto contiene errores tipográficos y caracteres especiales que pueden afectar la legibilidad."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c2923f856a442d95.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c2923f856a442d95.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:19:11.478841+00:00",
+  "usage": {
+    "input_tokens": 7566,
+    "output_tokens": 4011,
+    "calls": 4
+  },
+  "repaired_calls": 0,
+  "chunk_count": 4,
+  "completed_chunks": 4,
+  "completed": true,
+  "text_chars": 22050
+}

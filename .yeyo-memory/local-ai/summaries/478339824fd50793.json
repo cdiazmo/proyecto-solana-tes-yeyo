@@ -1,0 +1,49 @@
+{
+  "doc_id": "478339824fd50793",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.7 Formulario LAAT parcial.pdf",
+  "title": "5.10.1.7 Formulario LAAT parcial",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización para instalación eléctrica de alta tensión.\n- Instalación de línea aérea de 220 KV para evacuar energía solar termoeléctrica.\n- Presupuesto de dos millones setenta y siete mil euros.\n- Finalidad: Evacuación de energía desde una planta solar termoeléctrica hasta una subestación en la zona afectada del proyecto.\n- Datos del titular y representante incluidos.\n- Declaración bajo responsabilidad por los datos proporcionados.\n- Competencia del Director/a General y Delegado/a Provincial de Industria, Energía y Medio Ambiente.\n- Documentación común a todas las solicitudes incluye DNI, proyecto básico, justificación de capacidad legal y económica, autorización administrativa, etc.\n- Se requiere la presentación de documentos como el proyecto técnico, memoria técnica, certificado de dirección, etc.\n- Notas informativas sobre protección de datos personales y plazos para tramitación del procedimiento administrativo.",
+  "summary_points": [
+    "Solicitud de autorización para instalación eléctrica de alta tensión.",
+    "Instalación de línea aérea de 220 KV para evacuar energía solar termoeléctrica.",
+    "Presupuesto de dos millones setenta y siete mil euros.",
+    "Finalidad: Evacuación de energía desde una planta solar termoeléctrica hasta una subestación en la zona afectada del proyecto.",
+    "Datos del titular y representante incluidos.",
+    "Declaración bajo responsabilidad por los datos proporcionados.",
+    "Competencia del Director/a General y Delegado/a Provincial de Industria, Energía y Medio Ambiente.",
+    "Documentación común a todas las solicitudes incluye DNI, proyecto básico, justificación de capacidad legal y económica, autorización administrativa, etc.",
+    "Se requiere la presentación de documentos como el proyecto técnico, memoria técnica, certificado de dirección, etc.",
+    "Notas informativas sobre protección de datos personales y plazos para tramitación del procedimiento administrativo."
+  ],
+  "keywords": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "Ley Orgánica 15/1999",
+    "Decreto 33/2009"
+  ],
+  "references": [
+    "Decreto 80/2007",
+    "Ley 54/1997",
+    "Ley Orgánica 15/1999",
+    "Decreto 33/2009"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/478339824fd50793.md",
+  "source_extracted_path": ".yeyo-memory/extracted/478339824fd50793.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:25:50.785286+00:00",
+  "usage": {
+    "input_tokens": 4129,
+    "output_tokens": 2522,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11468
+}

@@ -1,0 +1,40 @@
+{
+  "doc_id": "bbc7809ace76cc1b",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-HTF-16F-CS30-20 R7_Sht1.pdf",
+  "title": "252-HTF-16F-CS30-20 R7 Sht1",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing the piping system for 252-HTF-16F-CS30-20 R7 Sht1, including pipe specifications, fittings, connections, and additional details.",
+  "summary_points": [
+    "Document detailing the piping system for 252-HTF-16F-CS30-20 R7 Sht1, including pipe specifications, fittings, connections, and additional details."
+  ],
+  "keywords": [
+    "252-HTF-16F-CS30-20",
+    "pipe",
+    "fittings",
+    "connections",
+    "thermowell",
+    "back weld threads",
+    "instrument taps"
+  ],
+  "references": [],
+  "warnings": [
+    "Text is OCR'd and contains irregularities, especially in measurements and symbols."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bbc7809ace76cc1b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bbc7809ace76cc1b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:08:20.184363+00:00",
+  "usage": {
+    "input_tokens": 1947,
+    "output_tokens": 491,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2245
+}

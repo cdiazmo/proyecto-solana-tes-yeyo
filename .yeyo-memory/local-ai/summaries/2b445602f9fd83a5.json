@@ -1,0 +1,45 @@
+{
+  "doc_id": "2b445602f9fd83a5",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-00-70-N008.pdf",
+  "title": "4521-PLN-AGE-00-70-N008",
+  "doc_code": "4521-PLN-AGE-00-70-N008",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describes the status of valves and pumps in a process system, including RO booster pumps and water tanks. It also mentions the stoppage of certain pumps due to various reasons.",
+  "summary_points": [
+    "Document describes the status of valves and pumps in a process system, including RO booster pumps and water tanks. It also mentions the stoppage of certain pumps due to various reasons."
+  ],
+  "keywords": [
+    "HV-44813A",
+    "HV-44811A",
+    "MP-448A",
+    "RO Booster Pumps",
+    "MT-402",
+    "Process Well Pump"
+  ],
+  "references": [
+    "4521-PLN-ANC-67-71-P448",
+    "4521-PLN-ANC-67-71-P449",
+    "4521-PLN-ANC-67-71-P450",
+    "4521-PLN-ANC-67-71-P453",
+    "4521-PLN-ANC-67-71-P456"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares, especialmente en los códigos de equipos y referencias."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2b445602f9fd83a5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2b445602f9fd83a5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:04:19.383281+00:00",
+  "usage": {
+    "input_tokens": 2512,
+    "output_tokens": 941,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3573
+}

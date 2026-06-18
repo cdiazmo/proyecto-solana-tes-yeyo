@@ -1,0 +1,44 @@
+{
+  "doc_id": "65b874c847eb3e21",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0527_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0527 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for Arizona Solar One Solana, showing details of FOUNDATION F18C with parameters.",
+  "summary_points": [
+    "Drawing for Arizona Solar One Solana, showing details of FOUNDATION F18C with parameters."
+  ],
+  "keywords": [
+    "drawing",
+    "Arizona Solar One",
+    "foundation",
+    "parameters",
+    "pipe supports"
+  ],
+  "references": [
+    "252-MS-06F-CS3-4",
+    "W10X54",
+    "1\"Ø ANCHOR BOLTS",
+    "T.O.C. EL. 723'-85"
+  ],
+  "warnings": [
+    "Scale not specified",
+    "Client and EPC Contractor details missing"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/65b874c847eb3e21.md",
+  "source_extracted_path": ".yeyo-memory/extracted/65b874c847eb3e21.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:26:57.990363+00:00",
+  "usage": {
+    "input_tokens": 883,
+    "output_tokens": 294,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1133
+}

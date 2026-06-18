@@ -1,0 +1,66 @@
+{
+  "doc_id": "87db1c64faf0a4a5",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-008 Monthly Report - 2020 October.pdf",
+  "title": "19500201-INF-008 Monthly Report - 2020 October",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly report for LOINTEK's activities until October 16, 2020.\n- Project involves HEX replacement TES Solana at Arizona Solar One.\n- Manufacturing progress of equipment units varies from 60% to 93%.\n- Open issue due to Force Majeure Situation COVID-19.\n- Invoices include advance payment, material arrival, inspection, and practical completion.\n- Manufacturing activities from January to December 2020\n- Multiple units (1 to 6) with various stages of assembly and testing\n- Final works, PWHT, NDTs, helium tests, and hydrostatic tests conducted throughout the year\n- Delivery scheduled for October 2020\n- Project: SOLANA SOLAR POWER PLANT in Arizona, USA.\n- Documents include progress reports, manufacturing plans, and inspection procedures.\n- Purchase orders for tubes, tubesheets, and plates from suppliers like Taewoong and Voest Alpine.",
+  "summary_points": [
+    "Monthly report for LOINTEK's activities until October 16, 2020.",
+    "Project involves HEX replacement TES Solana at Arizona Solar One.",
+    "Manufacturing progress of equipment units varies from 60% to 93%.",
+    "Open issue due to Force Majeure Situation COVID-19.",
+    "Invoices include advance payment, material arrival, inspection, and practical completion.",
+    "Manufacturing activities from January to December 2020",
+    "Multiple units (1 to 6) with various stages of assembly and testing",
+    "Final works, PWHT, NDTs, helium tests, and hydrostatic tests conducted throughout the year",
+    "Delivery scheduled for October 2020",
+    "Project: SOLANA SOLAR POWER PLANT in Arizona, USA.",
+    "Documents include progress reports, manufacturing plans, and inspection procedures.",
+    "Purchase orders for tubes, tubesheets, and plates from suppliers like Taewoong and Voest Alpine.",
+    "Received materials match the purchase orders as of 2020/10/21."
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-008",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 4 / 14-09-20",
+    "LOINTEK",
+    "TD-PPR-SLN-002",
+    "Taewoong",
+    "Voest Alpine"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-008",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 4 / 14-09-20",
+    "LOINTEK",
+    "TD-PPR-SLN-002",
+    "Taewoong",
+    "Voest Alpine"
+  ],
+  "warnings": [
+    "Confusing date format in some entries."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/87db1c64faf0a4a5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/87db1c64faf0a4a5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:16:23.974040+00:00",
+  "usage": {
+    "input_tokens": 11498,
+    "output_tokens": 4489,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15795
+}

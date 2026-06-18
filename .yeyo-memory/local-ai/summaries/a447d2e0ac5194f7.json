@@ -1,0 +1,41 @@
+{
+  "doc_id": "a447d2e0ac5194f7",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0001-GAR_REV 0 _Repairing Procedure.xlsx",
+  "title": "4521-INS-LOI-039-062-0001-GAR REV 0 Repairing Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Repairing procedure for HEX replacement TES Solana, updated due to input data and design changes. Pending client comments.",
+  "summary_points": [
+    "Repairing procedure for HEX replacement TES Solana, updated due to input data and design changes. Pending client comments."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0001-GAR",
+    "HEX replacement TES Solana",
+    "repairing procedure",
+    "input data update",
+    "design change"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0022",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "Client comments are pending review, no specific details provided."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a447d2e0ac5194f7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a447d2e0ac5194f7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:29:07.028288+00:00",
+  "usage": {
+    "input_tokens": 1165,
+    "output_tokens": 324,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2218
+}

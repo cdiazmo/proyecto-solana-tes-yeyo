@@ -1,0 +1,43 @@
+{
+  "doc_id": "a0c1801a1a19303c",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-PLN-DOT-75-63-0249.pdf",
+  "title": "4521-PLN-DOT-75-63-0249",
+  "doc_code": "4521-PLN-DOT-75-63-0249",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing support definition, including reinforced pad and cover plate dimensions. Includes notes on trunnion material and angles for typical assemblies.",
+  "summary_points": [
+    "Document describing support definition, including reinforced pad and cover plate dimensions. Includes notes on trunnion material and angles for typical assemblies."
+  ],
+  "keywords": [
+    "support",
+    "reinforced pad",
+    "cover plate",
+    "trunnion",
+    "material",
+    "angles",
+    "dimensions"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0249",
+    "252-HTF-16F-S-009A_T01"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a0c1801a1a19303c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a0c1801a1a19303c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:02:51.456792+00:00",
+  "usage": {
+    "input_tokens": 1889,
+    "output_tokens": 832,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3038
+}

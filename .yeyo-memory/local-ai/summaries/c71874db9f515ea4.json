@@ -1,0 +1,49 @@
+{
+  "doc_id": "c71874db9f515ea4",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-N-09EF-CS72-1.5_Sht_1_R4.pdf",
+  "title": "255-N-09EF-CS72-1.5 Sht 1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing the components and fittings of a pipe system, including details on pipes, fittings, valves, spindles, and control valves.",
+  "summary_points": [
+    "Document describing the components and fittings of a pipe system, including details on pipes, fittings, valves, spindles, and control valves."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "valves",
+    "spindles",
+    "control valve",
+    "ASME A106",
+    "SCH 80",
+    "PE",
+    "gate valve",
+    "tee",
+    "elbow"
+  ],
+  "references": [
+    "255-N-09EF-CS72-1.5",
+    "4521-PLN-AEE-68-71-P278-GAR",
+    "FA37 Gate Valve #800 SW1.1/2",
+    "FA37 Gate Valve #800 SW3/4"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos, especialmente nombres de componentes y códigos documentales."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c71874db9f515ea4.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c71874db9f515ea4.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:01:31.315975+00:00",
+  "usage": {
+    "input_tokens": 2458,
+    "output_tokens": 1062,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2913
+}

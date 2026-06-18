@@ -1,0 +1,44 @@
+{
+  "doc_id": "e98d446ed0269d94",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/TMT0030 Istometrics with Instrument Location Transmittal 1-11-2019.pdf",
+  "title": "TMT0030 Istometrics with Instrument Location Transmittal 1-11-2019",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Transmisión de documentos técnicos relacionados con la ubicación del instrumento en isometrías.",
+  "summary_points": [
+    "Transmisión de documentos técnicos relacionados con la ubicación del instrumento en isometrías."
+  ],
+  "keywords": [
+    "TMT0030",
+    "isometrías",
+    "instrumentos",
+    "transmisión",
+    "aprobación",
+    "correctivos"
+  ],
+  "references": [
+    "252-HTF-12F-CS30-20_Sht_2 Rev02",
+    "252-HTF-16F-CS30-20_Sht_1 REv05",
+    "252-MS-03F-CS31-24_Sht_2 Rev03",
+    "252-MS-04F-CS31-24_Sht_2 Rev03"
+  ],
+  "warnings": [
+    "Texto incompleto en algunas líneas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e98d446ed0269d94.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e98d446ed0269d94.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:28:43.743360+00:00",
+  "usage": {
+    "input_tokens": 888,
+    "output_tokens": 711,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1230
+}

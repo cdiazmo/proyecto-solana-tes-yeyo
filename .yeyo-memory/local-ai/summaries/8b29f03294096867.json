@@ -1,0 +1,42 @@
+{
+  "doc_id": "8b29f03294096867",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0513_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0513 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for pipe supports with specific parameters and profiles.",
+  "summary_points": [
+    "Drawing for pipe supports with specific parameters and profiles."
+  ],
+  "keywords": [
+    "pipe supports",
+    "parameters",
+    "profile A",
+    "stiffeners",
+    "W6X28",
+    "Abeinsa"
+  ],
+  "references": [
+    "257-MS-04F-SS37-2411",
+    "252-MS-14F-S-001"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8b29f03294096867.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8b29f03294096867.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:28:09.921299+00:00",
+  "usage": {
+    "input_tokens": 860,
+    "output_tokens": 585,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1193
+}

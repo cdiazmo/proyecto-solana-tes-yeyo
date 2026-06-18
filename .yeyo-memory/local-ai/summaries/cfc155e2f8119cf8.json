@@ -1,0 +1,42 @@
+{
+  "doc_id": "cfc155e2f8119cf8",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/Structural Steel/4521-PLN-DOT-39-63-0918_R01.pdf",
+  "title": "4521-PLN-DOT-39-63-0918 R01",
+  "doc_code": "4521-PLN-DOT-39-63-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for atypical support structure with details on weight, dimensions, and installation instructions.",
+  "summary_points": [
+    "Drawing for atypical support structure with details on weight, dimensions, and installation instructions."
+  ],
+  "keywords": [
+    "4521-PLN-DOT-39-63-0918",
+    "General Mechanics Supports",
+    "As-Built",
+    "Weld throat thickness",
+    "Installation details"
+  ],
+  "references": [
+    "4521-PLN-ANC-00-50-S001",
+    "4521-ESP-ANC-00-50-5120",
+    "4521-PLN-AEE-75-52-0006-GAR"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/cfc155e2f8119cf8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/cfc155e2f8119cf8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:45:16.620188+00:00",
+  "usage": {
+    "input_tokens": 1213,
+    "output_tokens": 643,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2126
+}

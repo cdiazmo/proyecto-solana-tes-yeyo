@@ -1,0 +1,46 @@
+{
+  "doc_id": "91433feb15f29edd",
+  "path": "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.6 Formulario PS.pdf",
+  "title": "5.9.1.6 Formulario PS",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general para una instalación industrial.\n- Titular: Helios Il Hyperion Energy Investments, SL.\n- Ubicación: Sevilla, España.\n- Instalaciones incluyen seguridad contra incendios y sistemas eléctricos.\n- Nivel de riesgo intrinseco alto.\n- Características técnicas detalladas para varios tipos de instalaciones.\n- Documentación aportar incluye proyectos, informes y certificados para instalaciones industriales.\n- Alta tensión requiere diferentes tipos de documentos dependiendo si tiene autorización o no.\n- Instrucciones para cumplimentar el formulario IN.SI_01 cubren definiciones, requisitos técnicos y procedimientos legales.",
+  "summary_points": [
+    "Solicitud de registro de proyecto general para una instalación industrial.",
+    "Titular: Helios Il Hyperion Energy Investments, SL.",
+    "Ubicación: Sevilla, España.",
+    "Instalaciones incluyen seguridad contra incendios y sistemas eléctricos.",
+    "Nivel de riesgo intrinseco alto.",
+    "Características técnicas detalladas para varios tipos de instalaciones.",
+    "Documentación aportar incluye proyectos, informes y certificados para instalaciones industriales.",
+    "Alta tensión requiere diferentes tipos de documentos dependiendo si tiene autorización o no.",
+    "Instrucciones para cumplimentar el formulario IN.SI_01 cubren definiciones, requisitos técnicos y procedimientos legales."
+  ],
+  "keywords": [
+    "Real Decreto 2135/1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "R.D. 1254/1999"
+  ],
+  "references": [
+    "Real Decreto 2135/1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "R.D. 1254/1999"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/91433feb15f29edd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/91433feb15f29edd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:32:15.878349+00:00",
+  "usage": {
+    "input_tokens": 5032,
+    "output_tokens": 1539,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 14610
+}

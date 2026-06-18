@@ -1,0 +1,42 @@
+{
+  "doc_id": "9b6704f94e9a7691",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Motor de la bomba de depósito de drenaje/TMT-18230-01 Drain Back Tank Pump Motor Schematic & Calc. Sheet.pdf",
+  "title": "TMT-18230-01 Drain Back Tank Pump Motor Schematic & Calc. Sheet",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document containing the schematic and calculation sheet for the Drain Back Tank Pump Motor. Approved for use and fabrication.",
+  "summary_points": [
+    "Document containing the schematic and calculation sheet for the Drain Back Tank Pump Motor. Approved for use and fabrication."
+  ],
+  "keywords": [
+    "TMT-18230-01",
+    "Drain Back Tank Pump",
+    "Motor Schematic",
+    "Calculation Sheet",
+    "Approval",
+    "Fabrication"
+  ],
+  "references": [
+    "4521-PLN-ANC-27-21-P001-R2",
+    "3-MP-258",
+    "18230",
+    "RFI-048"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9b6704f94e9a7691.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9b6704f94e9a7691.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:20:29.117813+00:00",
+  "usage": {
+    "input_tokens": 796,
+    "output_tokens": 499,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1096
+}

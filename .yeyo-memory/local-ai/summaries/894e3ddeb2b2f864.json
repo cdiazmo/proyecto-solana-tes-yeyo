@@ -1,0 +1,46 @@
+{
+  "doc_id": "894e3ddeb2b2f864",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-HTF-21F-CS30-8_Sht_1_R4.pdf",
+  "title": "252-HTF-21F-CS30-8 Sht 1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe and fittings for the 252-HTF-21F-CS30-8 project. Includes dimensions, materials, and installation details.",
+  "summary_points": [
+    "Document describing pipe and fittings for the 252-HTF-21F-CS30-8 project. Includes dimensions, materials, and installation details."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "API 5L",
+    "ASME B16.9",
+    "ASTM A234GR.WPB8",
+    "supports",
+    "dimensions",
+    "installation"
+  ],
+  "references": [
+    "252-HTF-21F-CS30-8",
+    "252-HTF-12F-CS30-20",
+    "252-HTF-16F-CS30-20",
+    "HV-025164"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/894e3ddeb2b2f864.md",
+  "source_extracted_path": ".yeyo-memory/extracted/894e3ddeb2b2f864.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:29:05.932367+00:00",
+  "usage": {
+    "input_tokens": 1255,
+    "output_tokens": 899,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1239
+}

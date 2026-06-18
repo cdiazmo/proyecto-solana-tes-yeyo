@@ -1,0 +1,45 @@
+{
+  "doc_id": "5fe2d8ed6b4e2292",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/HDD/4521-HDD-AEE-00-64-0001-GAR_Rev02_TES HTF PSV Datasheet.pdf",
+  "title": "4521-HDD-AEE-00-64-0001-GAR Rev02 TES HTF PSV Datasheet",
+  "doc_code": "4521-HDD-AEE-00-64-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Datos técnicos de un válvula de seguridad presión para sistema HTF, especificaciones de construcción y montaje.",
+  "summary_points": [
+    "Datos técnicos de un válvula de seguridad presión para sistema HTF, especificaciones de construcción y montaje."
+  ],
+  "keywords": [
+    "valve",
+    "pressure safety",
+    "HTF",
+    "API Standard 527",
+    "AISI 416",
+    "WCB",
+    "316L"
+  ],
+  "references": [
+    "API Standard 527",
+    "API 526",
+    "252-HTF-12A-CS30-8''",
+    "4521-PLN-ANC-68-71-P252"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5fe2d8ed6b4e2292.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5fe2d8ed6b4e2292.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T11:51:59.818236+00:00",
+  "usage": {
+    "input_tokens": 1582,
+    "output_tokens": 940,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2906
+}

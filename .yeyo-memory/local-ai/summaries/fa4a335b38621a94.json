@@ -1,0 +1,53 @@
+{
+  "doc_id": "fa4a335b38621a94",
+  "path": "03 GD Fabricacion LOI TES 6/WPS Y PQR/4521-INS-LOI-039-062-0011-GAR_Rev00 PQR.pdf",
+  "title": "4521-INS-LOI-039-062-0011-GAR Rev00 PQR",
+  "doc_code": "4521-INS-LOI-039-062-0011",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "Registros de calificación de procedimientos de soldadura para el proyecto HEX REPLACEMENT TES SOLANA, cliente ARIZONA SOLAR ONE. Incluye detalles técnicos y estados de aprobación de los materiales y procesos de soldadura.",
+  "summary_points": [
+    "Registros de calificación de procedimientos de soldadura para el proyecto HEX REPLACEMENT TES SOLANA, cliente ARIZONA SOLAR ONE. Incluye detalles técnicos y estados de aprobación de los materiales y procesos de soldadura."
+  ],
+  "keywords": [
+    "PQR",
+    "Soldadura",
+    "Procedimientos",
+    "Aprobación",
+    "Material",
+    "Estado",
+    "Proyecto",
+    "Cliente",
+    "Equipo",
+    "Departamento de Soldadura",
+    "GTAW",
+    "SMAW",
+    "FCAW",
+    "PWHT"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0011",
+    "1950101-PQR-001",
+    "HEX REPLACEMENT TES SOLANA",
+    "ARIZONA SOLAR ONE",
+    "Oil to Salt Heat Exchanger"
+  ],
+  "warnings": [
+    "El texto en la página 1 es incompleto y probablemente un OCR defectuoso."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fa4a335b38621a94.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fa4a335b38621a94.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:40:12.903059+00:00",
+  "usage": {
+    "input_tokens": 1170,
+    "output_tokens": 494,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1889
+}

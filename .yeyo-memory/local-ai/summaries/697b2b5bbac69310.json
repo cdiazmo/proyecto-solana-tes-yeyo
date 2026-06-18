@@ -1,0 +1,44 @@
+{
+  "doc_id": "697b2b5bbac69310",
+  "path": "04 GD Fabricacon LOI TES 3/Lista documentos/4521-LIS-LOI-039-062-0001 REV.01 Document List.pdf",
+  "title": "4521-LIS-LOI-039-062-0001 REV.01 Document List",
+  "doc_code": "4521-LIS-LOI-039-062-0001",
+  "revision": "REV.01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document list for SOLANA SOLAR POWER PLANT, including various technical documents and their statuses.",
+  "summary_points": [
+    "Document list for SOLANA SOLAR POWER PLANT, including various technical documents and their statuses."
+  ],
+  "keywords": [
+    "SOLANA",
+    "OIL TO SALT HEAT EXCHANGERS",
+    "document list",
+    "technical documents",
+    "status"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0001",
+    "REV.01",
+    "ING",
+    "ENE",
+    "JP"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas fechas y códigos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/697b2b5bbac69310.md",
+  "source_extracted_path": ".yeyo-memory/extracted/697b2b5bbac69310.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:02:15.880983+00:00",
+  "usage": {
+    "input_tokens": 2735,
+    "output_tokens": 2742,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3634
+}

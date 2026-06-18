@@ -1,0 +1,42 @@
+{
+  "doc_id": "919cf98b4a135456",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-PLN-DOT-75-63-0200.pdf",
+  "title": "4521-PLN-DOT-75-63-0200",
+  "doc_code": "4521-PLN-DOT-75-63-0200",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support systems for construction projects, including material specifications, dimensions, and installation requirements.",
+  "summary_points": [
+    "Document detailing support systems for construction projects, including material specifications, dimensions, and installation requirements."
+  ],
+  "keywords": [
+    "support systems",
+    "construction",
+    "material specifications",
+    "dimensions",
+    "installation requirements"
+  ],
+  "references": [
+    "0000-LIS-AEE-000-063-YYYY_Rev00_Support List",
+    "ASME B36.10",
+    "ASME B31.1 Chapter V"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the profile codes section"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/919cf98b4a135456.md",
+  "source_extracted_path": ".yeyo-memory/extracted/919cf98b4a135456.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:04:39.246868+00:00",
+  "usage": {
+    "input_tokens": 1554,
+    "output_tokens": 721,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3628
+}

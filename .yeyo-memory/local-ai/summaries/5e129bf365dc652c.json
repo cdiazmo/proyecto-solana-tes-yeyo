@@ -1,0 +1,54 @@
+{
+  "doc_id": "5e129bf365dc652c",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/110523 Formulario solicitud APS ínea 15kV.pdf",
+  "title": "110523 Formulario solicitud APS ínea 15kV",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general de industria.\n- Datos del titular incluyen nombre, DNI y ciudad.\n- Actividades específicas incluyen centro de transformación, almacenamiento y gases combustibles.\n- Características técnicas detallan potencia, sistemas de seguridad y equipos.\n- Normativas aplicables son la Ley 21/1992, Real Decreto 2135/1980 y Reglamentos Técnicos de Seguridad Industrial.\n- Fecha del documento: 28 de Abril de 2011.\n- Se requiere documentación específica para proyectos de instalaciones industriales.\n- Documentos incluyen certificados, informes y declaraciones de conformidad.\n- Instalaciones con alta tensión o riesgos específicos requieren inspección inicial.\n- Los datos personales son protegidos según la Ley Orgánica 15/1999.\n- La solicitud puede entenderse ESTIMADA si no hay notificación en 3 meses.",
+  "summary_points": [
+    "Solicitud de registro de proyecto general de industria.",
+    "Datos del titular incluyen nombre, DNI y ciudad.",
+    "Actividades específicas incluyen centro de transformación, almacenamiento y gases combustibles.",
+    "Características técnicas detallan potencia, sistemas de seguridad y equipos.",
+    "Normativas aplicables son la Ley 21/1992, Real Decreto 2135/1980 y Reglamentos Técnicos de Seguridad Industrial.",
+    "Fecha del documento: 28 de Abril de 2011.",
+    "Se requiere documentación específica para proyectos de instalaciones industriales.",
+    "Documentos incluyen certificados, informes y declaraciones de conformidad.",
+    "Instalaciones con alta tensión o riesgos específicos requieren inspección inicial.",
+    "Los datos personales son protegidos según la Ley Orgánica 15/1999.",
+    "La solicitud puede entenderse ESTIMADA si no hay notificación en 3 meses."
+  ],
+  "keywords": [
+    "Ley 21/1992",
+    "Real Decreto 2135/1980",
+    "Reglamentos Técnicos de Seguridad Industrial",
+    "MODELO IN.SI_01",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "references": [
+    "Ley 21/1992",
+    "Real Decreto 2135/1980",
+    "Reglamentos Técnicos de Seguridad Industrial",
+    "MODELO IN.SI_01",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5e129bf365dc652c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5e129bf365dc652c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:38:20.411534+00:00",
+  "usage": {
+    "input_tokens": 4521,
+    "output_tokens": 1814,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12909
+}

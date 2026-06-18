@@ -1,0 +1,57 @@
+{
+  "doc_id": "5e8456829e50a268",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/1950201-PPH-001-01_Hydraulic Test Procedure.pdf",
+  "title": "1950201-PPH-001-01 Hydraulic Test Procedure",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document is an electronic signature and filing in the Document Management System.\n- It's a Hydraulic Test Procedure for OIL TO SALT HEX heat exchangers manufactured by LOINTEK.\n- ASME VIII div 2, Ed. 2017 is referenced for hydrostatic testing standards.\n- The procedure includes equipment examination, test pressure settings, and preparation steps.\n- Confidential information and restrictions on reproduction are noted.\n- Water for the test must be potable with a pH between 7 and 8.5, and a corrosion inhibitor should be added.\n- Equipment must be tested horizontally at temperatures between -4°C (25°F) and 50°C (122°F).\n- Test pressure should not be applied until the vessel and contents are at about the same temperature.\n- Pressure should be maintained for 1 hour, then reduced to inspection pressure for leak detection.\n- Equipment must be dried with hot air after pressure testing.\n- Leaks in bolted joints require repair before retesting.\n- Welded joint leaks necessitate a proper repair procedure followed by retesting.",
+  "summary_points": [
+    "The document is an electronic signature and filing in the Document Management System.",
+    "It's a Hydraulic Test Procedure for OIL TO SALT HEX heat exchangers manufactured by LOINTEK.",
+    "ASME VIII div 2, Ed. 2017 is referenced for hydrostatic testing standards.",
+    "The procedure includes equipment examination, test pressure settings, and preparation steps.",
+    "Confidential information and restrictions on reproduction are noted.",
+    "Water for the test must be potable with a pH between 7 and 8.5, and a corrosion inhibitor should be added.",
+    "Equipment must be tested horizontally at temperatures between -4°C (25°F) and 50°C (122°F).",
+    "Test pressure should not be applied until the vessel and contents are at about the same temperature.",
+    "Pressure should be maintained for 1 hour, then reduced to inspection pressure for leak detection.",
+    "Equipment must be dried with hot air after pressure testing.",
+    "Leaks in bolted joints require repair before retesting.",
+    "Welded joint leaks necessitate a proper repair procedure followed by retesting.",
+    "Acceptance criteria are based on ASME VIII Div.1 – Section UG-99 (g).",
+    "Test results must be documented and certified by the Quality Control Department."
+  ],
+  "keywords": [
+    "ASME VIII div 2, Ed. 2017",
+    "LOINTEK",
+    "TD-INS-SLN-008",
+    "1950201-PPH-001-01_Hydraulic Test Procedure",
+    "ASME VIII Div.1 – Section UG-99 (g)",
+    "Lloyd’s Register"
+  ],
+  "references": [
+    "ASME VIII div 2, Ed. 2017",
+    "LOINTEK",
+    "TD-INS-SLN-008",
+    "1950201-PPH-001-01_Hydraulic Test Procedure",
+    "ASME VIII Div.1 – Section UG-99 (g)",
+    "Lloyd’s Register"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5e8456829e50a268.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5e8456829e50a268.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:37:31.503163+00:00",
+  "usage": {
+    "input_tokens": 4559,
+    "output_tokens": 3324,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13672
+}

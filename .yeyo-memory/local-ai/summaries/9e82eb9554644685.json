@@ -1,0 +1,51 @@
+{
+  "doc_id": "9e82eb9554644685",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0012-GAR PQR.pdf",
+  "title": "4521-INS-LOI-039-062-0012-GAR PQR",
+  "doc_code": "4521-INS-LOI-039-062-0012",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Pliego de condiciones",
+  "summary": "This document outlines the procedure qualification records for an oil to salt heat exchanger, including welding procedures and customer details.",
+  "summary_points": [
+    "This document outlines the procedure qualification records for an oil to salt heat exchanger, including welding procedures and customer details."
+  ],
+  "keywords": [
+    "Equipment PQR",
+    "Arizona Solar One",
+    "HEX replacement TES Solana",
+    "4521-INS-LOI-039-062-0012-GAR",
+    "195001-PQR-0001",
+    "Itziar Uriarte",
+    "Pedro Miranda",
+    "Aitor López de Subijana",
+    "Atlantica Yield",
+    "ENGINEERING / OIL TO SALT HEAT EXCHANGER",
+    "Welding procedures"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0012-GAR",
+    "195001-PQR-0001",
+    "LP-0543",
+    "LP-0448",
+    "LP-0605",
+    "LP-0619"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9e82eb9554644685.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9e82eb9554644685.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:40:48.947996+00:00",
+  "usage": {
+    "input_tokens": 1312,
+    "output_tokens": 564,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2565
+}

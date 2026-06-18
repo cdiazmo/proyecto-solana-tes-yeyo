@@ -1,0 +1,46 @@
+{
+  "doc_id": "b417e59a2bac6b70",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-6000-00 Rev.01 Lista de Instrumentos.xlsx",
+  "title": "1950801-LIS-6000-00 Rev.01 Lista de Instrumentos",
+  "doc_code": "",
+  "revision": "Rev.01",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Listados e indices",
+  "summary": "- Lista de instrumentos con diferentes tipos y ubicaciones.\n- Incluye transmisores de temperatura y nivel.\n- Todos los dispositivos tienen la misma protección IP65.\n- Se utilizan materiales como sal fundida, tanque de fundición y nitrógeno/HTF.\n- Hay una variedad de grupos (G10 a G15) asociados con diferentes ubicaciones.",
+  "summary_points": [
+    "Lista de instrumentos con diferentes tipos y ubicaciones.",
+    "Incluye transmisores de temperatura y nivel.",
+    "Todos los dispositivos tienen la misma protección IP65.",
+    "Se utilizan materiales como sal fundida, tanque de fundición y nitrógeno/HTF.",
+    "Hay una variedad de grupos (G10 a G15) asociados con diferentes ubicaciones."
+  ],
+  "keywords": [
+    "IP65",
+    "Molten Salt",
+    "Tank Foundation",
+    "Nitrogen/HTF",
+    "36\"AAA3"
+  ],
+  "references": [
+    "IP65",
+    "Molten Salt",
+    "Tank Foundation",
+    "Nitrogen/HTF",
+    "36\"AAA3"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b417e59a2bac6b70.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b417e59a2bac6b70.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:54:47.397512+00:00",
+  "usage": {
+    "input_tokens": 24174,
+    "output_tokens": 10124,
+    "calls": 7
+  },
+  "repaired_calls": 3,
+  "chunk_count": 4,
+  "completed_chunks": 4,
+  "completed": true,
+  "text_chars": 27852
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "fc3642b9ac72780d",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes para bandeja de cables TMT-18230-03/185107-SK-S003 sw.pdf",
+  "title": "185107-SK-S003 sw",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Cable tray support plans and elevations for project 185107-SK-S003. Supports include TYP 4 with dimensions L212\"x212\"x38\" and edge angles of 90°.",
+  "summary_points": [
+    "Cable tray support plans and elevations for project 185107-SK-S003. Supports include TYP 4 with dimensions L212\"x212\"x38\" and edge angles of 90°."
+  ],
+  "keywords": [
+    "cable tray",
+    "support plans",
+    "elevations",
+    "project 185107-SK-S003",
+    "TYP 4",
+    "dimensions",
+    "edge angle"
+  ],
+  "references": [
+    "REF. STR. SUPT.252-HTF-12F-S-003",
+    "W8x31 (18\" TRAY)"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fc3642b9ac72780d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fc3642b9ac72780d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:14:53.351646+00:00",
+  "usage": {
+    "input_tokens": 837,
+    "output_tokens": 500,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 846
+}

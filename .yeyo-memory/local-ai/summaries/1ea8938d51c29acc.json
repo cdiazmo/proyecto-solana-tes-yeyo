@@ -1,0 +1,41 @@
+{
+  "doc_id": "1ea8938d51c29acc",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0292_REV02.pdf",
+  "title": "4521-PLN-DOT-75-63-0292 REV02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing details for Arizona Solar One project. Insulated support connection. Property of Abeinsa.",
+  "summary_points": [
+    "Drawing details for Arizona Solar One project. Insulated support connection. Property of Abeinsa."
+  ],
+  "keywords": [
+    "drawing",
+    "Arizona Solar One",
+    "support connection",
+    "insulated",
+    "property",
+    "Abeinsa"
+  ],
+  "references": [
+    "252-MS-14F-S-001"
+  ],
+  "warnings": [
+    "OCR defectuoso en varias páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1ea8938d51c29acc.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1ea8938d51c29acc.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:19:06.179988+00:00",
+  "usage": {
+    "input_tokens": 858,
+    "output_tokens": 361,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1032
+}

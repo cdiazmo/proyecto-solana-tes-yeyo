@@ -1,0 +1,44 @@
+{
+  "doc_id": "6753480d78e2d6e7",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0315.pdf",
+  "title": "4521-PLN-DOT-75-63-0315",
+  "doc_code": "4521-PLN-DOT-75-63-0315",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing of a support structure with dimensions and details. Includes information on the type of shoe, material, and welding requirements.",
+  "summary_points": [
+    "Drawing of a support structure with dimensions and details. Includes information on the type of shoe, material, and welding requirements."
+  ],
+  "keywords": [
+    "support",
+    "structure",
+    "dimensions",
+    "shoe",
+    "material",
+    "welding",
+    "insulation"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0315",
+    "257-MS-12EF-S-014_P02",
+    "257-MS-12EF-S-014_P11"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the side views and notes sections."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6753480d78e2d6e7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6753480d78e2d6e7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:13:02.816987+00:00",
+  "usage": {
+    "input_tokens": 1250,
+    "output_tokens": 672,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2412
+}

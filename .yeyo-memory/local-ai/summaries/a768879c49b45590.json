@@ -1,0 +1,45 @@
+{
+  "doc_id": "a768879c49b45590",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-06F-CS31-4_Sht_1_R4.pdf",
+  "title": "255-MS-06F-CS31-4 Sht 1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Piping schedule and fittings details for 255-MS-06F-CS31-4 Sht 1 R4, including pipe specifications, fittings, valves, and construction date.",
+  "summary_points": [
+    "Piping schedule and fittings details for 255-MS-06F-CS31-4 Sht 1 R4, including pipe specifications, fittings, valves, and construction date."
+  ],
+  "keywords": [
+    "pipe",
+    "schedule",
+    "fittings",
+    "valves",
+    "construction",
+    "AS-Built"
+  ],
+  "references": [
+    "255-MS-06F-CS31-4",
+    "JSMMTGJMRL",
+    "FA58V CL 300",
+    "6/15/2018",
+    "309/26/19"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos números y fechas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a768879c49b45590.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a768879c49b45590.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:36:58.861607+00:00",
+  "usage": {
+    "input_tokens": 1597,
+    "output_tokens": 374,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1639
+}

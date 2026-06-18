@@ -1,0 +1,45 @@
+{
+  "doc_id": "d0d3bb15882beb9d",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes para bandeja de cables TMT-18230-03/185107-SK-S002 sw.pdf",
+  "title": "185107-SK-S002 sw",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Cable tray supports with specific dimensions and references to other drawings.",
+  "summary_points": [
+    "Cable tray supports with specific dimensions and references to other drawings."
+  ],
+  "keywords": [
+    "cable trays",
+    "supports",
+    "dimensions",
+    "references",
+    "base plate detail"
+  ],
+  "references": [
+    "DWG185107-SK-C100",
+    "BASEPLATE DETAILDWG185107-SK-S001",
+    "STR. SUPT.252-MS-04F-S-004",
+    "STR. SUPT.252-MS-04F-S-003",
+    "STR. SUPT.257-MS-12EF-S-007",
+    "STR. SUPT.257-MS-12EF-S-006"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas referencias y dimensiones"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d0d3bb15882beb9d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d0d3bb15882beb9d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:19:59.807631+00:00",
+  "usage": {
+    "input_tokens": 981,
+    "output_tokens": 492,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1068
+}

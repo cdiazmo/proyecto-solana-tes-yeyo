@@ -1,0 +1,54 @@
+---
+doc_id: "b27bab6a171bbd2c"
+path: "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180323/SP-4 FINAL 3_23_2018_Pedro Comments.pdf"
+title: "SP-4 FINAL 3 23 2018 Pedro Comments"
+doc_code: ""
+revision: ""
+discipline: "Permisos / legalizacion"
+deliverable_part: "Planos"
+chunk_count: 1
+completed_chunks: 1
+total_chunks: 1
+---
+
+# SP-4 FINAL 3 23 2018 Pedro Comments
+
+## Resumen
+
+- Site plan and elevation drawings for Power Island, including grading, drainage, lighting, and area plans. Includes reference sheets and key notes on proposed improvements and existing work.
+
+## Observaciones
+
+- OCR dudoso en varios lugares, texto incompleto
+
+## Markdown estructurado
+
+# Site Plan - Sheet SP-1
+## Power Island Elevations - Sheet SP-5
+## Power Island Grading & Drainage Plan - Sheet GD-4
+## Power Island Lighting Plan - Sheet LT-2 THROUGH LT-15
+## Power Island Phase 1 Area Plan - Sheet GD-20
+## Power Island Phase 2 Area Plan - Sheet GD-5 AND GD-6
+## Power Island Phase 4 Area Plan - Sheet GD-7 THROUGH GD-14
+### Reference Sheets:
+Sheet No:Plan No:Plan No. int:Scale:
+ARIZONA SOLAR ONECASE # Z2015STATIONSOLANA GENERATINGCheckedPassDescriptionRev.Date DrawnSignatureSignatureSignatureCheckedPassDrawnStipulation Modification004 APR 2014NRBDEH
+,-(-=&;`Yf\d]j:dn\&Kmal])*(H`g]fap$Á9R0-(,0Phone (480) 705-0028
+CheckedPassDrawnRevisions124 JULY 2014NRBDMKCheckedPassDrawnCheckedPassDrawn
+TYPREFER TOSHEETPV-2PARKINGPLAN
+### Key Notes:
+- PHASE 2
+- PHASE 4
+- GD-20
+- GD-5 GD-6
+- GD-7GD-8GD-9GD-10
+- GD-11GD-12GD-13GD-14
+- PROPANE TANKS
+- PROPOSEDRESTROOM
+- PROPOSEDVEHICLEWASHSTATION
+- PROPOSEDOIL/LUBRICANTSHELTER
+- PROPOSEDCOVEREDWELDINGAREAMAINTENANCEBUILDING
+- PROPOSEDVEHICLEFUELINGSTATION
+### Notes:
+1. ALL WORK IS EXISTING UNLESS OTHERWISE NOTED.
+2. ITEM 87 AND IMPROVEMENTS TO ITEM 43 ARE PROPOSED. ALLOTHER WORK IS APPROVED PER SUP OR SUBSEQUENT MINORAMENDMENTS.

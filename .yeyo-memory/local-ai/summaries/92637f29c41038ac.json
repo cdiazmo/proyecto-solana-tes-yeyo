@@ -1,0 +1,46 @@
+{
+  "doc_id": "92637f29c41038ac",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0511_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0511 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for pipe supports detailing assembly, elevation, and materials. Property of Abeinsa with reproduction restrictions.",
+  "summary_points": [
+    "Drawing for pipe supports detailing assembly, elevation, and materials. Property of Abeinsa with reproduction restrictions."
+  ],
+  "keywords": [
+    "pipe supports",
+    "assembly detail",
+    "elevation",
+    "W12X160",
+    "BASE PLATE",
+    "FND-F924",
+    "Abeinsa"
+  ],
+  "references": [
+    "W12X160",
+    "4\"X4\"X3",
+    "BASE PLATE",
+    "FND-F924",
+    "A, B, C, D, E, F"
+  ],
+  "warnings": [
+    "Drawing and design property of Abeinsa with reproduction restrictions."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/92637f29c41038ac.md",
+  "source_extracted_path": ".yeyo-memory/extracted/92637f29c41038ac.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:19:47.544500+00:00",
+  "usage": {
+    "input_tokens": 845,
+    "output_tokens": 331,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1063
+}

@@ -1,0 +1,57 @@
+{
+  "doc_id": "04f7c857a7874491",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.7 Anexo erratas.pdf",
+  "title": "5.9.2.7 Anexo erratas",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Anexo al proyecto eléctrico de Helios I para bombear agua desde Pozo 1.\n- Corrección de erratas en la memoria y cálculos del proyecto inicial.\n- Revisión aprobada por Antonio Piña Palma, Laura Bellver Rodríguez y Jacinto Soto García-Mora.\n- Objeto del anexo es justificar las condiciones mínimas exigidas por la reglamentación vigente.\n- Anexo al proyecto y Dirección de Obra del Proyecto de Bombeo de Agua de Pozo Nº 1.\n- Receptores y potencias previstas incluyen un total de 33,592 W.\n- Potencia instalada para el alumbrado es de 82 W y para la fuerza es de 33,510 W.\n- La potencia máxima admisible es de 35.000 W.\n- Existen erratas en el apartado de cálculos del proyecto inicial que se corregirán en este anexo.\n- Se acompañan documentos adicionales como las erratas iniciales del proyecto.\n- Se presentan códigos y tags técnicos.\n- Fecha de visado: 08/03/2012.",
+  "summary_points": [
+    "Anexo al proyecto eléctrico de Helios I para bombear agua desde Pozo 1.",
+    "Corrección de erratas en la memoria y cálculos del proyecto inicial.",
+    "Revisión aprobada por Antonio Piña Palma, Laura Bellver Rodríguez y Jacinto Soto García-Mora.",
+    "Objeto del anexo es justificar las condiciones mínimas exigidas por la reglamentación vigente.",
+    "Anexo al proyecto y Dirección de Obra del Proyecto de Bombeo de Agua de Pozo Nº 1.",
+    "Receptores y potencias previstas incluyen un total de 33,592 W.",
+    "Potencia instalada para el alumbrado es de 82 W y para la fuerza es de 33,510 W.",
+    "La potencia máxima admisible es de 35.000 W.",
+    "Existen erratas en el apartado de cálculos del proyecto inicial que se corregirán en este anexo.",
+    "Se acompañan documentos adicionales como las erratas iniciales del proyecto.",
+    "Se presentan códigos y tags técnicos.",
+    "Fecha de visado: 08/03/2012.",
+    "Número de documento: BA00779/12.",
+    "Página actual: 11 de 12."
+  ],
+  "keywords": [
+    "BA00779/12",
+    "JSG",
+    "APP",
+    "LBR",
+    "08/03/2012",
+    "002812710187"
+  ],
+  "references": [
+    "BA00779/12",
+    "JSG",
+    "APP",
+    "LBR",
+    "08/03/2012",
+    "002812710187"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/04f7c857a7874491.md",
+  "source_extracted_path": ".yeyo-memory/extracted/04f7c857a7874491.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:59:25.018448+00:00",
+  "usage": {
+    "input_tokens": 23676,
+    "output_tokens": 8862,
+    "calls": 7
+  },
+  "repaired_calls": 2,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 28014
+}

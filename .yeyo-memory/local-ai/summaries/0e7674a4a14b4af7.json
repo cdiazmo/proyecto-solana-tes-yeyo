@@ -1,0 +1,44 @@
+{
+  "doc_id": "0e7674a4a14b4af7",
+  "path": "03 GD Fabricacion LOI TES 6/Dibujos/4521-PLN-LOI-039-062-0002-GAR_rev02 PRODUCTION TEST DRAWING.pdf",
+  "title": "4521-PLN-LOI-039-062-0002-GAR rev02 PRODUCTION TEST DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0002",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document outlines the production test procedures for heat exchangers, including hydraulic and thermal testing. It specifies locations for test plates, water pressure requirements, manometer ranges, and thermocouple placements.",
+  "summary_points": [
+    "This document outlines the production test procedures for heat exchangers, including hydraulic and thermal testing. It specifies locations for test plates, water pressure requirements, manometer ranges, and thermocouple placements."
+  ],
+  "keywords": [
+    "production test",
+    "heat exchangers",
+    "hydraulic testing",
+    "thermal testing",
+    "test plates",
+    "manometers",
+    "thermocouples"
+  ],
+  "references": [
+    "4521-PLN-LOI-039-062-0002",
+    "1950101-DWG-120",
+    "MS-HTF SHELL & TUBE HEAT EXCHANGERS"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly numbers and symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0e7674a4a14b4af7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0e7674a4a14b4af7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:40:01.890221+00:00",
+  "usage": {
+    "input_tokens": 3203,
+    "output_tokens": 560,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6294
+}

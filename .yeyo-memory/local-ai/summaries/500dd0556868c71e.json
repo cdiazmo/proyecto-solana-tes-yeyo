@@ -1,0 +1,44 @@
+{
+  "doc_id": "500dd0556868c71e",
+  "path": "01 GD AE/Lista de documentos/GD AE_Document List_Rev00.xlsx",
+  "title": "GD AE Document List Rev00",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Lista de documentos técnicos para el proyecto HEX LOI Solana, incluyendo informes de cálculo, diseños de planos, listas de equipos y materiales, y otros documentos relacionados con la instalación térmica.",
+  "summary_points": [
+    "Lista de documentos técnicos para el proyecto HEX LOI Solana, incluyendo informes de cálculo, diseños de planos, listas de equipos y materiales, y otros documentos relacionados con la instalación térmica."
+  ],
+  "keywords": [
+    "HEX LOI Solana",
+    "document list",
+    "GAR",
+    "calculos",
+    "diseño",
+    "equipos",
+    "materiales"
+  ],
+  "references": [
+    "4521-CAL-AEE-75-52-0001-GAR_Rev01_exchangers_foundation",
+    "4521-PLN-AEE-68-51-0001-GAR_Rev04_Layout_new_exchangers",
+    "4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos códigos documentales"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/500dd0556868c71e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/500dd0556868c71e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T02:56:57.231550+00:00",
+  "usage": {
+    "input_tokens": 3452,
+    "output_tokens": 2996,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5556
+}

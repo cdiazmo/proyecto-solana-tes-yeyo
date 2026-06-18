@@ -1,0 +1,28 @@
+{
+  "doc_id": "f2d060845a19f0d2",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/PLN/4521-PLN-LOI-039-062-0005-GAR MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing.pdf",
+  "title": "4521-PLN-LOI-039-062-0005-GAR MS-HTF Shell & Tube Heat Exchangers Anchor Bolts Drawing",
+  "doc_code": "4521-PLN-LOI-039-062-0005",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f2d060845a19f0d2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f2d060845a19f0d2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:09:37.510823+00:00",
+  "usage": {
+    "input_tokens": 3015,
+    "output_tokens": 569,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4458
+}

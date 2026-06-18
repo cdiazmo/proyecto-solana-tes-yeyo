@@ -1,0 +1,54 @@
+{
+  "doc_id": "de9650386460f58d",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0003-GAR_rev0 Hydraulic Test Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0003-GAR rev0 Hydraulic Test Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The procedure is for hydraulic testing of OIL TO SALT HEX heat exchangers manufactured by LOINTEK.\n- It follows PED (2014/68/EU) and ASME VIII div 2, Ed. 2015 standards.\n- Parameters for the hydrotest are specified in drawings such as production test plates and hydrotest drawings.\n- Manometers must be calibrated according to international standards and used within a specific range.\n- Equipment must be prepared by ensuring it is dry, free of paint, and all joints accessible.\n- La prueba hidráulica debe realizarse a temperaturas entre -4°C y 48°C.\n- El agua para la prueba debe ser potable con un pH entre 7 y 8.5, y debe contener un inhibidor de corrosión.\n- Los equipos se prueban en posición horizontal y presurizados gradualmente hasta la presión de prueba.\n- La presión de prueba se mantiene durante una hora antes de reducirse para inspección de fugas.\n- Se documentan los resultados de la prueba y se certifican por el departamento de control de calidad.\n- Se realiza calibrado de manómetros utilizados durante la prueba.",
+  "summary_points": [
+    "The procedure is for hydraulic testing of OIL TO SALT HEX heat exchangers manufactured by LOINTEK.",
+    "It follows PED (2014/68/EU) and ASME VIII div 2, Ed. 2015 standards.",
+    "Parameters for the hydrotest are specified in drawings such as production test plates and hydrotest drawings.",
+    "Manometers must be calibrated according to international standards and used within a specific range.",
+    "Equipment must be prepared by ensuring it is dry, free of paint, and all joints accessible.",
+    "La prueba hidráulica debe realizarse a temperaturas entre -4°C y 48°C.",
+    "El agua para la prueba debe ser potable con un pH entre 7 y 8.5, y debe contener un inhibidor de corrosión.",
+    "Los equipos se prueban en posición horizontal y presurizados gradualmente hasta la presión de prueba.",
+    "La presión de prueba se mantiene durante una hora antes de reducirse para inspección de fugas.",
+    "Se documentan los resultados de la prueba y se certifican por el departamento de control de calidad.",
+    "Se realiza calibrado de manómetros utilizados durante la prueba."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0003-GAR",
+    "1950101-PPH-001",
+    "PED (2014/68/EU)",
+    "ASME VIII div 2,. Ed. 2015",
+    "ASME VIII Div.1 – Sección UG-99 (g)",
+    "EIP"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0003-GAR",
+    "1950101-PPH-001",
+    "PED (2014/68/EU)",
+    "ASME VIII div 2,. Ed. 2015",
+    "ASME VIII Div.1 – Sección UG-99 (g)",
+    "EIP"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/de9650386460f58d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/de9650386460f58d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:06:56.751830+00:00",
+  "usage": {
+    "input_tokens": 4251,
+    "output_tokens": 1993,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12606
+}

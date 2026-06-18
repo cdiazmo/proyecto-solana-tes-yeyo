@@ -1,0 +1,46 @@
+{
+  "doc_id": "9d8fe0ed818d78f1",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260326/1950801-DWG-1000-00-DISPOSICION GENERAL.pdf",
+  "title": "1950801-DWG-1000-00-DISPOSICION GENERAL",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Disposición general del proyecto incluye tanques y sistemas de sales, bombas calientes y frias, y esquemas civiles.",
+  "summary_points": [
+    "Disposición general del proyecto incluye tanques y sistemas de sales, bombas calientes y frias, y esquemas civiles."
+  ],
+  "keywords": [
+    "tanques",
+    "bombas",
+    "sales",
+    "calientes",
+    "frias",
+    "intercambiadores",
+    "esquema civil",
+    "apoyo",
+    "muro foso"
+  ],
+  "references": [
+    "1950801-DWG-1000-00",
+    "MAHUOADSZ",
+    "SOLACOR I & II TES SYSTEM"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varias páginas, posibles errores de formato"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9d8fe0ed818d78f1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9d8fe0ed818d78f1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:51:50.937504+00:00",
+  "usage": {
+    "input_tokens": 2123,
+    "output_tokens": 1054,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2266
+}

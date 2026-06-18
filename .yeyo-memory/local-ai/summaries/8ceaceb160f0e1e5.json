@@ -1,0 +1,46 @@
+{
+  "doc_id": "8ceaceb160f0e1e5",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-75-52-0006-GAR-901_Rev00_Exchangers_Support_found.xlsx",
+  "title": "4521-PLN-AEE-75-52-0006-GAR-901 Rev00 Exchangers Support found",
+  "doc_code": "4521-PLN-AEE-75-52-0006",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for Exchanger Pipe Support Foundation, HEX replacement TES Solana project. Includes input data, assumptions, holds, and reasons for revision.",
+  "summary_points": [
+    "Technical Comment Sheet for Exchanger Pipe Support Foundation, HEX replacement TES Solana project. Includes input data, assumptions, holds, and reasons for revision."
+  ],
+  "keywords": [
+    "Exchanger Pipe",
+    "Support Foundation",
+    "HEX replacement",
+    "TES Solana",
+    "Input Data",
+    "Assumptions",
+    "Holds",
+    "Reason for Revision"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0006-GAR-901",
+    "2017-04-07",
+    "Abeinsa Engineering",
+    "TES HEX CHANGE_MOLTEN SALTS MODE1_MODE2_CIVIL"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares, especialmente fechas y nombres de documentos."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8ceaceb160f0e1e5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8ceaceb160f0e1e5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:43:49.385061+00:00",
+  "usage": {
+    "input_tokens": 1251,
+    "output_tokens": 375,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2457
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "005270360c789028",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P278-GAR_901_ TES Hex train.xlsx",
+  "title": "4521 PLN AEE 68 71 P278-GAR 901 TES Hex train",
+  "doc_code": "4521-PLN-AEE-68-71-P278",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, revision 1, issued by Abeinsa Engineering. Includes input data change and client comments.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, revision 1, issued by Abeinsa Engineering. Includes input data change and client comments."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "revision 1",
+    "input data change",
+    "client comments"
+  ],
+  "references": [
+    "4521_PLN_AEE_68_71_P278-GAR-901",
+    "IFD",
+    "AP",
+    "AC",
+    "NA"
+  ],
+  "warnings": [
+    "Client Main Comments and Annexes to Comments not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/005270360c789028.md",
+  "source_extracted_path": ".yeyo-memory/extracted/005270360c789028.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:09:27.289733+00:00",
+  "usage": {
+    "input_tokens": 1407,
+    "output_tokens": 386,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3011
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "69843ab8c10ddc46",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_67_71_P493-GAR_901_Rev00_Raw water distribution to HTF & TES.xlsx",
+  "title": "4521 PLN AEE 67 71 P493-GAR 901 Rev00 Raw water distribution to HTF & TES",
+  "doc_code": "4521-PLN-AEE-67-71-P493",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for raw water distribution to HTF & TES, revision 0, dated 2017-03-22. Includes new TES layout and input data change as reasons for revision.",
+  "summary_points": [
+    "Technical Comment Sheet for raw water distribution to HTF & TES, revision 0, dated 2017-03-22. Includes new TES layout and input data change as reasons for revision."
+  ],
+  "keywords": [
+    "TCS",
+    "raw water distribution",
+    "HTF",
+    "TES",
+    "revision",
+    "input data",
+    "layout"
+  ],
+  "references": [
+    "4521_PLN_AEE_67_71_P493-GAR",
+    "HEX replacement TES Solana"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/69843ab8c10ddc46.md",
+  "source_extracted_path": ".yeyo-memory/extracted/69843ab8c10ddc46.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:18:39.456401+00:00",
+  "usage": {
+    "input_tokens": 1234,
+    "output_tokens": 304,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2363
+}

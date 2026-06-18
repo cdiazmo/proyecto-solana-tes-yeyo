@@ -1,0 +1,41 @@
+{
+  "doc_id": "f5f5c9629f32575e",
+  "path": "01 GD AE/Tuberia/PLN/4521-PLN-AEE-58-65-0001-GAR-901_HTF System ISO.xlsx",
+  "title": "4521-PLN-AEE-58-65-0001-GAR-901 HTF System ISO",
+  "doc_code": "4521-PLN-AEE-58-65-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document for HTF System ISO, version 4521-PLN-AEE-58-65-0001-GAR-901, with input data from P&IDs and a focus on plant review and design changes.",
+  "summary_points": [
+    "Document for HTF System ISO, version 4521-PLN-AEE-58-65-0001-GAR-901, with input data from P&IDs and a focus on plant review and design changes."
+  ],
+  "keywords": [
+    "HTF System",
+    "ISO",
+    "P&ID",
+    "Plant Review",
+    "Design Change"
+  ],
+  "references": [
+    "4521-PLN-AEE-58-65-0001-GAR",
+    "4521-TMT-AEE-AEPC-0034"
+  ],
+  "warnings": [
+    "#VALUE! values in some cells indicate potential OCR errors or incomplete data."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f5f5c9629f32575e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f5f5c9629f32575e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:18:05.892658+00:00",
+  "usage": {
+    "input_tokens": 1233,
+    "output_tokens": 615,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2260
+}

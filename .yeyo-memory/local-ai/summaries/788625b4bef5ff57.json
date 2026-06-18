@@ -1,0 +1,45 @@
+{
+  "doc_id": "788625b4bef5ff57",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0273_R02.pdf",
+  "title": "4521-PLN-DOT-75-63-0273 R02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describing pipe supports, including dimensions, materials, and installation details. Includes multiple support types (P02, P11, G07) with specific configurations and notes on fabrication and installation.",
+  "summary_points": [
+    "Document describing pipe supports, including dimensions, materials, and installation details. Includes multiple support types (P02, P11, G07) with specific configurations and notes on fabrication and installation."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "installation",
+    "support definition",
+    "triple T",
+    "stiffeners",
+    "insulation",
+    "stainless steel"
+  ],
+  "references": [
+    "252-MS-03F-S-003",
+    "4521-PLN-DOT-75-63-0273"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the notes section."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/788625b4bef5ff57.md",
+  "source_extracted_path": ".yeyo-memory/extracted/788625b4bef5ff57.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:07:00.667341+00:00",
+  "usage": {
+    "input_tokens": 1806,
+    "output_tokens": 1103,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3870
+}

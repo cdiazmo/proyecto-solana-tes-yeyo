@@ -1,0 +1,47 @@
+{
+  "doc_id": "7fe60df4c09fda3c",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-PLN-DOT-75-63-0250.pdf",
+  "title": "4521-PLN-DOT-75-63-0250",
+  "doc_code": "4521-PLN-DOT-75-63-0250",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the design and specifications for reinforced pads, cover plates, and trunnions used in solar construction projects. It includes dimensions, orientations, and notes on welding and material specifications.",
+  "summary_points": [
+    "This document describes the design and specifications for reinforced pads, cover plates, and trunnions used in solar construction projects. It includes dimensions, orientations, and notes on welding and material specifications."
+  ],
+  "keywords": [
+    "support definition",
+    "isometric reference point",
+    "reinforced pad",
+    "cover plate",
+    "trunnion",
+    "pipe",
+    "material specification",
+    "welding",
+    "orientation",
+    "dimension tables"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0250",
+    "252-HTF-16F-S-009B_T01"
+  ],
+  "warnings": [
+    "OCR issues with some characters and numbers.",
+    "Drawing scale not specified."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7fe60df4c09fda3c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7fe60df4c09fda3c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:02:27.973219+00:00",
+  "usage": {
+    "input_tokens": 1897,
+    "output_tokens": 626,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3036
+}

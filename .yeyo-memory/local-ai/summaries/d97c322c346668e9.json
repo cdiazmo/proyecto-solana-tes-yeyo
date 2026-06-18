@@ -1,0 +1,42 @@
+{
+  "doc_id": "d97c322c346668e9",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0343_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0343 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describes pipe supports with details on dimensions, materials, and welding specifications. Includes drawings and references to standards.",
+  "summary_points": [
+    "Document describes pipe supports with details on dimensions, materials, and welding specifications. Includes drawings and references to standards."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "welding",
+    "drawings",
+    "standards"
+  ],
+  "references": [
+    "255-MS-07F-S-004",
+    "Arizona Solar One SOLANA"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the weld detail section."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d97c322c346668e9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d97c322c346668e9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:55:17.181550+00:00",
+  "usage": {
+    "input_tokens": 1397,
+    "output_tokens": 608,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2706
+}

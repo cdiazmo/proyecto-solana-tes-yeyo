@@ -1,0 +1,46 @@
+{
+  "doc_id": "7c481c9c31239750",
+  "path": "03 GD Fabricacion LOI TES 6/Isometricos tuberias/4521-PLN-LOI-039-063-0001-GAR_ Isometric.pdf",
+  "title": "4521-PLN-LOI-039-063-0001-GAR Isometric",
+  "doc_code": "4521-PLN-LOI-039-063-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Isometric drawing for Arizona Solar One ABENGOA Solana Generation Station. Contains measurements, weights, and material lists.",
+  "summary_points": [
+    "Isometric drawing for Arizona Solar One ABENGOA Solana Generation Station. Contains measurements, weights, and material lists."
+  ],
+  "keywords": [
+    "isometric",
+    "drawing",
+    "Arizona Solar One",
+    "ABENGOA",
+    "Solana Generation Station",
+    "measurements",
+    "weights",
+    "material list"
+  ],
+  "references": [
+    "KL21",
+    "345678910"
+  ],
+  "warnings": [
+    "Text is ambiguous and contains OCR errors.",
+    "Scale not specified.",
+    "Project title, professional engineer, status, and other details are missing."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7c481c9c31239750.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7c481c9c31239750.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:25:12.756153+00:00",
+  "usage": {
+    "input_tokens": 807,
+    "output_tokens": 489,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1299
+}

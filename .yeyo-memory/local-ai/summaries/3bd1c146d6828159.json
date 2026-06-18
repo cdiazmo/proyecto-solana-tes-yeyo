@@ -1,0 +1,43 @@
+{
+  "doc_id": "3bd1c146d6828159",
+  "path": "03 GD Fabricacion LOI TES 6/Plan de calidad y ITP/4521-PCA-LOI-039-062-0001-GAR_Rev00 -  Quality Plan.pdf",
+  "title": "4521-PCA-LOI-039-062-0001-GAR Rev00 - Quality Plan",
+  "doc_code": "4521-PCA-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document is a quality plan for LOINTEK's project with Arizona Solar One.\n- It covers customer requirements and applicable standards.\n- LOINTEK has a structured organization with specific roles and responsibilities.\n- Quality management includes procedures for approvals, inspections, and testing.",
+  "summary_points": [
+    "The document is a quality plan for LOINTEK's project with Arizona Solar One.",
+    "It covers customer requirements and applicable standards.",
+    "LOINTEK has a structured organization with specific roles and responsibilities.",
+    "Quality management includes procedures for approvals, inspections, and testing."
+  ],
+  "keywords": [
+    "4521-PCA-LOI-039-062-0001-GAR",
+    "1950101-PPC-001",
+    "ASME Code, Section VIII Div. 2 - Pressure Vessels",
+    "MC-SECC 04 Organization Chart"
+  ],
+  "references": [
+    "4521-PCA-LOI-039-062-0001-GAR",
+    "1950101-PPC-001",
+    "ASME Code, Section VIII Div. 2 - Pressure Vessels",
+    "MC-SECC 04 Organization Chart"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3bd1c146d6828159.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3bd1c146d6828159.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:09:24.672148+00:00",
+  "usage": {
+    "input_tokens": 8670,
+    "output_tokens": 3868,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 14104
+}

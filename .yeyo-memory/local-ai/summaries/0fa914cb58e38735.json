@@ -1,0 +1,59 @@
+{
+  "doc_id": "0fa914cb58e38735",
+  "path": "Helios Sole/SE Elevadora Helios II/120213 Solicitud APM SE Elevadora HII.pdf",
+  "title": "120213 Solicitud APM SE Elevadora HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización administrativa para ampliación de una instalación eléctrica de alta tensión.\n- Instalación ubicada en Puerto de Santa Maria, Ciudad Real.\n- Potencia total de la instalación: 622500 KVA.\n- Finalidad: Evacuación de energía generada por central termosolar.\n- Presupuesto: 1.212.147,32 euros.\n- Documentación común requerida para todas las solicitudes.\n- Proyecto básico y justificación de capacidad legal, técnica y económica son necesarios.\n- Autorización administrativa incluye documentos ambientales y pagos correspondientes.\n- Aprobación del proyecto requiere comunicación con la empresa distribuidora y documentos técnicos.\n- Notificación de ejecución temporal debe indicar finalidad, características y duración.\n- Devolución de aval en régimen especial requiere certificados y actas de puesta en marcha.\n- Datos personales recogidos se utilizan para el procedimiento administrativo solicitado.",
+  "summary_points": [
+    "Solicitud de autorización administrativa para ampliación de una instalación eléctrica de alta tensión.",
+    "Instalación ubicada en Puerto de Santa Maria, Ciudad Real.",
+    "Potencia total de la instalación: 622500 KVA.",
+    "Finalidad: Evacuación de energía generada por central termosolar.",
+    "Presupuesto: 1.212.147,32 euros.",
+    "Documentación común requerida para todas las solicitudes.",
+    "Proyecto básico y justificación de capacidad legal, técnica y económica son necesarios.",
+    "Autorización administrativa incluye documentos ambientales y pagos correspondientes.",
+    "Aprobación del proyecto requiere comunicación con la empresa distribuidora y documentos técnicos.",
+    "Notificación de ejecución temporal debe indicar finalidad, características y duración.",
+    "Devolución de aval en régimen especial requiere certificados y actas de puesta en marcha.",
+    "Datos personales recogidos se utilizan para el procedimiento administrativo solicitado.",
+    "Solicitud puede ser desestimada si no se recibe notificación dentro del plazo fijado."
+  ],
+  "keywords": [
+    "Decreto 80/2007",
+    "MODELO EN_01",
+    "Castilla-La Mancha",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de 19 de julio",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "references": [
+    "Decreto 80/2007",
+    "MODELO EN_01",
+    "Castilla-La Mancha",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de Carácter Personal",
+    "Decreto 80/2007, de 19 de julio",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "warnings": [
+    "Datos del nuevo titular de la instalación incompletos.",
+    "Falta información sobre el representante en caso de transmisión o cesión."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0fa914cb58e38735.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0fa914cb58e38735.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:29:35.994977+00:00",
+  "usage": {
+    "input_tokens": 4130,
+    "output_tokens": 2596,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11686
+}

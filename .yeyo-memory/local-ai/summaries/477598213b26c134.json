@@ -1,0 +1,41 @@
+{
+  "doc_id": "477598213b26c134",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/Annex II.IV (Max Charge).pdf",
+  "title": "Annex II.IV (Max Charge)",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document contains flow and pressure data for various equipment, including centrifugal pumps and sizing valves. It also includes details on the project setup, such as density, temperature, and calculation method.",
+  "summary_points": [
+    "This document contains flow and pressure data for various equipment, including centrifugal pumps and sizing valves. It also includes details on the project setup, such as density, temperature, and calculation method."
+  ],
+  "keywords": [
+    "flow",
+    "pressure",
+    "centrifugal pump",
+    "sizing valve",
+    "project setup",
+    "density",
+    "temperature",
+    "calculation method"
+  ],
+  "references": [],
+  "warnings": [
+    "Some values are missing or marked as '--'. There may be OCR errors in the text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/477598213b26c134.md",
+  "source_extracted_path": ".yeyo-memory/extracted/477598213b26c134.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:13:01.810176+00:00",
+  "usage": {
+    "input_tokens": 3171,
+    "output_tokens": 975,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4542
+}

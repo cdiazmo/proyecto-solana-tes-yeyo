@@ -1,0 +1,46 @@
+{
+  "doc_id": "f20ad346c25f4fd0",
+  "path": "01 GD AE/I&C/MEM/4521-MEM-AEE-70-10-0001-GAR_901_Rev01_Functional description TES HEX.xlsx",
+  "title": "4521-MEM-AEE-70-10-0001-GAR 901 Rev01 Functional description TES HEX",
+  "doc_code": "4521-MEM-AEE-70-10-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document describing functional description of Standby and Drainage procedures for HEX system, updated due to input data change.",
+  "summary_points": [
+    "Document describing functional description of Standby and Drainage procedures for HEX system, updated due to input data change."
+  ],
+  "keywords": [
+    "4521-MEM-AEE-70-10-0001-GAR_901",
+    "TES HEX",
+    "Standby",
+    "Drainage",
+    "Abeinsa Engineering",
+    "Input data change"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P272-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02",
+    "4521-MOM-LOI-039-062-0003-GAR"
+  ],
+  "warnings": [
+    "OCR defectuoso en la fecha del documento (dd/mm/aaaa)",
+    "Falta información sobre los comentarios del cliente"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f20ad346c25f4fd0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f20ad346c25f4fd0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:47:05.497615+00:00",
+  "usage": {
+    "input_tokens": 1980,
+    "output_tokens": 595,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4108
+}

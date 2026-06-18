@@ -1,0 +1,46 @@
+{
+  "doc_id": "7ef57879c1b23845",
+  "path": "12 As Built TES 6/01_M&P/02_Datasheets/4521-HDD-AEE-00-64-0001-GAR_Rev02_TES HTF PSV Datasheet/4521-HDD-AEE-00-64-0001-GAR_Rev02_TES HTF PSV Datasheet.pdf",
+  "title": "4521-HDD-AEE-00-64-0001-GAR Rev02 TES HTF PSV Datasheet",
+  "doc_code": "4521-HDD-AEE-00-64-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for a Solar One Pressure Safety Valve, including its design specifications, construction data, and operating conditions.",
+  "summary_points": [
+    "This document provides technical details for a Solar One Pressure Safety Valve, including its design specifications, construction data, and operating conditions."
+  ],
+  "keywords": [
+    "Pressure Safety Valve",
+    "ABENGOA",
+    "API 520/521",
+    "HTF",
+    "316L",
+    "WCB",
+    "CF8M"
+  ],
+  "references": [
+    "4521-HDD-AEE-00-64-0001-GAR",
+    "PMG IFP",
+    "PMG IFB",
+    "API Standard 527",
+    "API 526"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7ef57879c1b23845.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7ef57879c1b23845.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T11:51:36.310110+00:00",
+  "usage": {
+    "input_tokens": 1615,
+    "output_tokens": 690,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2906
+}

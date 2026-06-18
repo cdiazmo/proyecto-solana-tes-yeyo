@@ -1,0 +1,28 @@
+{
+  "doc_id": "0538362d30561e28",
+  "path": "03 GD Fabricacion LOI TES 6/Dibujos/4521-PLN-LOI-039-062-0005-GAR Rev.1 Anchor bolts drawing.pdf",
+  "title": "4521-PLN-LOI-039-062-0005-GAR Rev.1 Anchor bolts drawing",
+  "doc_code": "4521-PLN-LOI-039-062-0005",
+  "revision": "Rev.1",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0538362d30561e28.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0538362d30561e28.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:09:16.874898+00:00",
+  "usage": {
+    "input_tokens": 2995,
+    "output_tokens": 608,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4458
+}

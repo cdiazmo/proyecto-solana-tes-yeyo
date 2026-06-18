@@ -1,0 +1,39 @@
+{
+  "doc_id": "717643b6bc1847fd",
+  "path": "12 As Built TES 6/01_M&P/01_Calculations/4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and MS Hydraulic Circuits Calculation Report/AnnexI-II A- Discharging - min level @ 1040rpm.pdf",
+  "title": "AnnexI-II A- Discharging - min level @ 1040rpm",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Report on hydraulic circuits at 1040rpm, including flow rates, velocities, pressures, and tank levels.",
+  "summary_points": [
+    "Report on hydraulic circuits at 1040rpm, including flow rates, velocities, pressures, and tank levels."
+  ],
+  "keywords": [
+    "hydraulic circuits",
+    "flow rates",
+    "velocities",
+    "pressures",
+    "tank levels",
+    "1040rpm"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/717643b6bc1847fd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/717643b6bc1847fd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:39:02.215623+00:00",
+  "usage": {
+    "input_tokens": 1555,
+    "output_tokens": 1595,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1874
+}

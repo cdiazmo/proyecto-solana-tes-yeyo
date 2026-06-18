@@ -1,0 +1,71 @@
+{
+  "doc_id": "bf9d47354db693bd",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-010 Monthly Report - 2020 December.pdf",
+  "title": "19500201-INF-010 Monthly Report - 2020 December",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly report for L OINTEK's activities until December 21, 2020\n- Project: HEX replacement TES Solana\n- All equipment units are at 100% manufacturing progress\n- Open issue due to Force Majeure (COVID-19)\n- Invoices for advance payment and inspection approved\n- Manufacturing activities completed from January to December 2020\n- Multiple units (1 to 6) with various stages of assembly and testing\n- Final works, PWHT, NDTs, helium tests, and hydrostatic tests conducted throughout the year\n- Delivery scheduled for October 2020\n- The document is a monthly report for December 2020.\n- It includes sections on customer documents, manufacturing planning, purchase plan and material procurement, and pictures of units.\n- There are multiple documents listed with their respective codes, descriptions, DTOs, required dates, critical status, delivery dates, and revision dates.",
+  "summary_points": [
+    "Monthly report for L OINTEK's activities until December 21, 2020",
+    "Project: HEX replacement TES Solana",
+    "All equipment units are at 100% manufacturing progress",
+    "Open issue due to Force Majeure (COVID-19)",
+    "Invoices for advance payment and inspection approved",
+    "Manufacturing activities completed from January to December 2020",
+    "Multiple units (1 to 6) with various stages of assembly and testing",
+    "Final works, PWHT, NDTs, helium tests, and hydrostatic tests conducted throughout the year",
+    "Delivery scheduled for October 2020",
+    "The document is a monthly report for December 2020.",
+    "It includes sections on customer documents, manufacturing planning, purchase plan and material procurement, and pictures of units.",
+    "There are multiple documents listed with their respective codes, descriptions, DTOs, required dates, critical status, delivery dates, and revision dates.",
+    "The purchase plan details include main purchase orders and received materials for various components like tubes, tubesheets, and plates from different suppliers.",
+    "Pictures are provided for units 1 through 6."
+  ],
+  "keywords": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-010",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Maricopa County, Arizona",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 4 / 14-09-20",
+    "LOINTEK",
+    "TD-PPR-SLN-002",
+    "TD-PPR-SLN-001",
+    "Taewoong",
+    "Voest Alpine"
+  ],
+  "references": [
+    "4521-INF-LOI-039-062-0001-GAR",
+    "1950201-INF-010",
+    "UO MG MG",
+    "Solana Generating Station",
+    "Maricopa County, Arizona",
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 4 / 14-09-20",
+    "LOINTEK",
+    "TD-PPR-SLN-002",
+    "TD-PPR-SLN-001",
+    "Taewoong",
+    "Voest Alpine"
+  ],
+  "warnings": [
+    "Confusing date format in some entries."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bf9d47354db693bd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bf9d47354db693bd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:14:10.614082+00:00",
+  "usage": {
+    "input_tokens": 11453,
+    "output_tokens": 4835,
+    "calls": 4
+  },
+  "repaired_calls": 1,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15710
+}

@@ -1,0 +1,57 @@
+{
+  "doc_id": "7eb0be3f2d7f0af3",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/110513 Solicitud PS Línea.pdf",
+  "title": "110513 Solicitud PS Línea",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general de industria por Valeriano Lorenzo Sánchez.\n- Instalaciones sometidas a RFG y aumentación de seguridad industrial.\n- Modelo NSI01 con alto nivel de riesgo intrínseco.\n- Incluye sistemas de rociadores autónomos, agentes de extinción gaseosos y centro de almacenamiento.\n- Firma del titular o representante: Pedro Masa Lorenzo.\n- Documentación requerida para pago de tasas correspondientes\n- Instrucciones detalladas para cumplimentar el formulario Modelo INSJH\n- Requisitos técnicos y prescripciones aplicables a las instalaciones industriales\n- Procedimiento administrativo y protección de datos personales\n- Condiciones bajo las cuales la solicitud puede entenderse ESTIMADA",
+  "summary_points": [
+    "Solicitud de registro de proyecto general de industria por Valeriano Lorenzo Sánchez.",
+    "Instalaciones sometidas a RFG y aumentación de seguridad industrial.",
+    "Modelo NSI01 con alto nivel de riesgo intrínseco.",
+    "Incluye sistemas de rociadores autónomos, agentes de extinción gaseosos y centro de almacenamiento.",
+    "Firma del titular o representante: Pedro Masa Lorenzo.",
+    "Documentación requerida para pago de tasas correspondientes",
+    "Instrucciones detalladas para cumplimentar el formulario Modelo INSJH",
+    "Requisitos técnicos y prescripciones aplicables a las instalaciones industriales",
+    "Procedimiento administrativo y protección de datos personales",
+    "Condiciones bajo las cuales la solicitud puede entenderse ESTIMADA"
+  ],
+  "keywords": [
+    "RO. 2135/1980",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 2111992, de 16 de julio, de Industria y sus disposiciones de desarrollo",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "R.D. 12541/999"
+  ],
+  "references": [
+    "RO. 2135/1980",
+    "Orden de 19-12-1980",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 2111992, de 16 de julio, de Industria y sus disposiciones de desarrollo",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "R.D. 12541/999"
+  ],
+  "warnings": [
+    "Firma del titular o representante no clara."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7eb0be3f2d7f0af3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7eb0be3f2d7f0af3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:35:29.555724+00:00",
+  "usage": {
+    "input_tokens": 5049,
+    "output_tokens": 1389,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12595
+}

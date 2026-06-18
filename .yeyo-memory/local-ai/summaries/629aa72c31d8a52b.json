@@ -1,0 +1,59 @@
+{
+  "doc_id": "629aa72c31d8a52b",
+  "path": "11 Sal de Solana y Corrosion/1 CONTENIDO DE CLORURO DE SAL DE SOLANA/L969414.pdf",
+  "title": "L969414",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Report date: February 12, 2018\n- Sample collected by C. Winstead on 02/09/18\n- Chloride concentration in sample is 1840 mg/kg\n- Quality control results within acceptable limits\n- Glossary explains terms used in laboratory reports.\n- MDL and RDL define detection limits.\n- Dilution adjusts sample concentration for accurate reporting.\n- Limits specify target recovery ranges for QC samples.\n- Qualifiers provide additional information about results.\n- Results include actual values, MDL/RDL, and qualifiers.\n- Case Narrative discusses sample results and non-conformances.\n- Quality Control Summary validates reported results.",
+  "summary_points": [
+    "Report date: February 12, 2018",
+    "Sample collected by C. Winstead on 02/09/18",
+    "Chloride concentration in sample is 1840 mg/kg",
+    "Quality control results within acceptable limits",
+    "Glossary explains terms used in laboratory reports.",
+    "MDL and RDL define detection limits.",
+    "Dilution adjusts sample concentration for accurate reporting.",
+    "Limits specify target recovery ranges for QC samples.",
+    "Qualifiers provide additional information about results.",
+    "Results include actual values, MDL/RDL, and qualifiers.",
+    "Case Narrative discusses sample results and non-conformances.",
+    "Quality Control Summary validates reported results.",
+    "Sample Chain of Custody verifies collection and possession history.",
+    "Sample Results detail testing by sample ID and method."
+  ],
+  "keywords": [
+    "Wet Chemistry by Method 9056A",
+    "Laboratory Control Sample (LCS)",
+    "Laboratory Control Sample Duplicate (LCSD)",
+    "ONE LAB. NATIONWIDE",
+    "ESC Lab Sciences",
+    "Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska",
+    "A2LA – ISO 17025, AIHA-LAP,LLC, DOD, USDA S-67674, EPA–Crypto"
+  ],
+  "references": [
+    "Wet Chemistry by Method 9056A",
+    "Laboratory Control Sample (LCS)",
+    "Laboratory Control Sample Duplicate (LCSD)",
+    "ONE LAB. NATIONWIDE",
+    "ESC Lab Sciences",
+    "Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska",
+    "A2LA – ISO 17025, AIHA-LAP,LLC, DOD, USDA S-67674, EPA–Crypto"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/629aa72c31d8a52b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/629aa72c31d8a52b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:26:37.706019+00:00",
+  "usage": {
+    "input_tokens": 4238,
+    "output_tokens": 1639,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11560
+}

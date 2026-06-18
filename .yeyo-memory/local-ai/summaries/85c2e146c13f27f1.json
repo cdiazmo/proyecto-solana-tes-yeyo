@@ -1,0 +1,55 @@
+{
+  "doc_id": "85c2e146c13f27f1",
+  "path": "04 GD Fabricacon LOI TES 3/Manuales/1950201-PPH-001-00_Hydraulic Test Procedure.pdf",
+  "title": "1950201-PPH-001-00 Hydraulic Test Procedure",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document is a Hydraulic Test Procedure for OIL TO SALT HEX heat exchangers manufactured by LOINTEK.\n- It follows ASME VIII div 2, Ed. 2017 standards.\n- Parameters for the hydrotest are stated in drawings and include test pressure, holding time, metal temperatures, and water quality.\n- Equipment must be dry, accessible, and free of contaminants before testing.\n- Manometers with capacities between 1.5 and 4 times the maximum test pressure should be used.\n- The equipment should be filled with water to remove air before testing.\n- La prueba hidráulica debe realizarse a una temperatura entre -4ºC y 48ºC.\n- Los equipos se prueban en posición horizontal, llenados con agua y presurizados de manera escalonada.\n- Se mantiene la presión durante un tiempo definido y luego se verifica por fugas en todas las juntas.\n- El interior del equipo debe ser vaciado y secado después de la prueba.\n- Los resultados deben documentarse y certificados por el departamento de control de calidad.\n- Se requiere calibración de los manómetros utilizados durante la prueba.",
+  "summary_points": [
+    "The document is a Hydraulic Test Procedure for OIL TO SALT HEX heat exchangers manufactured by LOINTEK.",
+    "It follows ASME VIII div 2, Ed. 2017 standards.",
+    "Parameters for the hydrotest are stated in drawings and include test pressure, holding time, metal temperatures, and water quality.",
+    "Equipment must be dry, accessible, and free of contaminants before testing.",
+    "Manometers with capacities between 1.5 and 4 times the maximum test pressure should be used.",
+    "The equipment should be filled with water to remove air before testing.",
+    "La prueba hidráulica debe realizarse a una temperatura entre -4ºC y 48ºC.",
+    "Los equipos se prueban en posición horizontal, llenados con agua y presurizados de manera escalonada.",
+    "Se mantiene la presión durante un tiempo definido y luego se verifica por fugas en todas las juntas.",
+    "El interior del equipo debe ser vaciado y secado después de la prueba.",
+    "Los resultados deben documentarse y certificados por el departamento de control de calidad.",
+    "Se requiere calibración de los manómetros utilizados durante la prueba."
+  ],
+  "keywords": [
+    "ASME VIII div 2, Ed. 2017",
+    "LOINTEK",
+    "TD-INS-SLN-008",
+    "1950201-PPH-001-00_Hydraulic Test Procedure",
+    "ASME VIII Div.1 – Sección UG-99 (g)",
+    "Lloyd’s Register"
+  ],
+  "references": [
+    "ASME VIII div 2, Ed. 2017",
+    "LOINTEK",
+    "TD-INS-SLN-008",
+    "1950201-PPH-001-00_Hydraulic Test Procedure",
+    "ASME VIII Div.1 – Sección UG-99 (g)",
+    "Lloyd’s Register"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/85c2e146c13f27f1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/85c2e146c13f27f1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:36:02.699799+00:00",
+  "usage": {
+    "input_tokens": 4542,
+    "output_tokens": 3415,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 13642
+}

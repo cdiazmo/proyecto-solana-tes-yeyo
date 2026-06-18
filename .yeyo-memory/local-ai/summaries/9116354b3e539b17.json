@@ -1,0 +1,55 @@
+{
+  "doc_id": "9116354b3e539b17",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0004-GAR_REV 0_Hydraulic Test Procedure.pdf",
+  "title": "4521-INS-LOI-039-062-0004-GAR REV 0 Hydraulic Test Procedure",
+  "doc_code": "4521-INS-LOI-039-062-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Procedure for hydraulic testing of OIL TO SALT HEX manufactured by LOINTEK.\n- Applies to PED (2014/68/EU) and ASME VIII div 2, Ed. 2015.\n- Parameters include test pressure, holding time, metal temperatures, and water quality.\n- Equipment must be dry, free of paint, and accessible for testing.\n- Test pressures are specified in general arrangement drawings.\n- Las juntas deben cerrarse y apretarse uniformemente antes de la prueba hidráulica.\n- El agua para la prueba debe ser agua potable con un pH entre 7 y 8.5, y debe contener un inhibidor de corrosión adecuado.\n- La prueba hidráulica se realiza a temperaturas no inferiores a -4ºC (25ºF) más 15ºC (59ºF) ni superiores a 48ºC (118.4ºF).\n- Los equipos se prueban en posición horizontal, llenados con agua y presurizados gradualmente hasta la presión de prueba.\n- La presión de prueba debe mantenerse durante un tiempo indicado (1 hora) antes de reducirse a la presión de inspección para buscar fugas.\n- Después de la prueba, el interior del equipo se vacía y se secan con aire caliente.\n- Cualquier fuga en las uniones atornilladas debe repararse y luego el equipo reprobado nuevamente.",
+  "summary_points": [
+    "Procedure for hydraulic testing of OIL TO SALT HEX manufactured by LOINTEK.",
+    "Applies to PED (2014/68/EU) and ASME VIII div 2, Ed. 2015.",
+    "Parameters include test pressure, holding time, metal temperatures, and water quality.",
+    "Equipment must be dry, free of paint, and accessible for testing.",
+    "Test pressures are specified in general arrangement drawings.",
+    "Las juntas deben cerrarse y apretarse uniformemente antes de la prueba hidráulica.",
+    "El agua para la prueba debe ser agua potable con un pH entre 7 y 8.5, y debe contener un inhibidor de corrosión adecuado.",
+    "La prueba hidráulica se realiza a temperaturas no inferiores a -4ºC (25ºF) más 15ºC (59ºF) ni superiores a 48ºC (118.4ºF).",
+    "Los equipos se prueban en posición horizontal, llenados con agua y presurizados gradualmente hasta la presión de prueba.",
+    "La presión de prueba debe mantenerse durante un tiempo indicado (1 hora) antes de reducirse a la presión de inspección para buscar fugas.",
+    "Después de la prueba, el interior del equipo se vacía y se secan con aire caliente.",
+    "Cualquier fuga en las uniones atornilladas debe repararse y luego el equipo reprobado nuevamente.",
+    "Si hay fugas en las uniones soldadas, se establece un procedimiento de reparación y se vuelve a probar el equipo.",
+    "Los resultados de la prueba hidráulica deben documentarse y certificarse por el departamento de control de calidad."
+  ],
+  "keywords": [
+    "4521-INS-LOI-039-062-0004-GAR",
+    "195001-PPH-001",
+    "PED (2014/68/EU)",
+    "ASME VIII div 2, Ed. 2015",
+    "HYDRAULIC TEST REPORT"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0004-GAR",
+    "195001-PPH-001",
+    "PED (2014/68/EU)",
+    "ASME VIII div 2, Ed. 2015",
+    "HYDRAULIC TEST REPORT"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9116354b3e539b17.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9116354b3e539b17.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:05:05.634981+00:00",
+  "usage": {
+    "input_tokens": 4286,
+    "output_tokens": 1668,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12584
+}

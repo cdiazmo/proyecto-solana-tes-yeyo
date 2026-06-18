@@ -1,0 +1,41 @@
+{
+  "doc_id": "b727cac765693736",
+  "path": "13_Documentos de Inspección Final/S3.2  04_03_2018.pdf",
+  "title": "S3.2 04 03 2018",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Document describing the Solana Power Generation Plant's location, dimensions, and legal boundaries.",
+  "summary_points": [
+    "Document describing the Solana Power Generation Plant's location, dimensions, and legal boundaries."
+  ],
+  "keywords": [
+    "Solana Power Generation Plant",
+    "location",
+    "dimensions",
+    "legal description",
+    "basis of bearing",
+    "benchmark"
+  ],
+  "references": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS (GANNETT FLEMING, 2/9/15)"
+  ],
+  "warnings": [
+    "OCR issues with some numbers and symbols"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b727cac765693736.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b727cac765693736.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:01:34.089754+00:00",
+  "usage": {
+    "input_tokens": 3172,
+    "output_tokens": 365,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5226
+}

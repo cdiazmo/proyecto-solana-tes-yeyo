@@ -1,0 +1,55 @@
+{
+  "doc_id": "6ade4f01aa91f749",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-063-0001-GAR_ Isometric.pdf",
+  "title": "4521-PLN-LOI-039-063-0001-GAR Isometric",
+  "doc_code": "4521-PLN-LOI-039-063-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Dibujo técnico de Arizona Solar One ABENGOA Solana Generation Station, propiedad de Abeinsa EPC. Incluye medidas, pesos, insulación, trazado y materiales.",
+  "summary_points": [
+    "Dibujo técnico de Arizona Solar One ABENGOA Solana Generation Station, propiedad de Abeinsa EPC. Incluye medidas, pesos, insulación, trazado y materiales."
+  ],
+  "keywords": [
+    "4521-PLN-LOI-039-063-0001-GAR",
+    "Arizona Solar One",
+    "ABENGOA Solana Generation Station",
+    "General Mechanics",
+    "Isometric Projections",
+    "Abeinsa EPC",
+    "Drawing",
+    "Scale",
+    "Client",
+    "Sheets",
+    "Sheet No.",
+    "EPC Contractor",
+    "Project Title",
+    "Professional Engineer",
+    "Status",
+    "First edition date"
+  ],
+  "references": [
+    "Arizona Solar One ABENGOA Solana Generation Station",
+    "General Mechanics",
+    "Isometric Projections",
+    "Abeinsa EPC"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto, especialmente números y letras.",
+    "Falta de información detallada sobre el contenido específico del dibujo."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6ade4f01aa91f749.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6ade4f01aa91f749.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:24:55.072065+00:00",
+  "usage": {
+    "input_tokens": 798,
+    "output_tokens": 815,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1299
+}

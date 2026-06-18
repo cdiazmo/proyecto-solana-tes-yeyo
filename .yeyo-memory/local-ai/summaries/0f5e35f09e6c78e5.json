@@ -1,0 +1,46 @@
+{
+  "doc_id": "0f5e35f09e6c78e5",
+  "path": "02 GD LOI/INS/4521-INS-LOI-039-062-0006-GAR-901 Rev.0 Magnetic Particle Examination Procedure.pdf.xlsx",
+  "title": "4521-INS-LOI-039-062-0006-GAR-901 Rev.0 Magnetic Particle Examination Procedure.pdf",
+  "doc_code": "4521-INS-LOI-039-062-0006",
+  "revision": "Rev.0",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "This document outlines the Magnetic Particle Examination Procedure for a HEX replacement TES Solana project, with details on assumptions, holds, and client comments.",
+  "summary_points": [
+    "This document outlines the Magnetic Particle Examination Procedure for a HEX replacement TES Solana project, with details on assumptions, holds, and client comments."
+  ],
+  "keywords": [
+    "Magnetic Particle Examination",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "Client Comments"
+  ],
+  "references": [
+    "4521-INS-LOI-039-062-0006-GAR",
+    "Rev.0",
+    "AEPC USA",
+    "IFD",
+    "IFB",
+    "IFP",
+    "IFC"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0f5e35f09e6c78e5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0f5e35f09e6c78e5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:56:58.485472+00:00",
+  "usage": {
+    "input_tokens": 1191,
+    "output_tokens": 362,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2317
+}

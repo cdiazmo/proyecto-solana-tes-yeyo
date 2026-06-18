@@ -1,0 +1,56 @@
+{
+  "doc_id": "9e4106dc4e19c0b7",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.8 Formulario AT HI.pdf",
+  "title": "5.10.5.8 Formulario AT HI",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de autorización administrativa para ampliación/modificación sustancial de instalaciones eléctricas de alta tensión\n- Instalación solar térmica con tecnología de colectores cilindro-parabólicos\n- Ubicación en Arenas de San Juan, Puerto Lápice y Vata de San Juan\n- Potencia total de 99 kW\n- Presupuesto de 12 millones de euros\n- Datos del titular y representante incluidos\n- Declaración bajo responsabilidad por parte del titular\n- Autorización para solicitar datos a la Administración competente\n- Solicitud de informes sobre el estado de tramitación\n- Documentación común requerida para todas las solicitudes.\n- Procedimientos de autorización y transmisión de instalaciones.\n- Aprobación de proyectos y comunicación de cesiones.",
+  "summary_points": [
+    "Solicitud de autorización administrativa para ampliación/modificación sustancial de instalaciones eléctricas de alta tensión",
+    "Instalación solar térmica con tecnología de colectores cilindro-parabólicos",
+    "Ubicación en Arenas de San Juan, Puerto Lápice y Vata de San Juan",
+    "Potencia total de 99 kW",
+    "Presupuesto de 12 millones de euros",
+    "Datos del titular y representante incluidos",
+    "Declaración bajo responsabilidad por parte del titular",
+    "Autorización para solicitar datos a la Administración competente",
+    "Solicitud de informes sobre el estado de tramitación",
+    "Documentación común requerida para todas las solicitudes.",
+    "Procedimientos de autorización y transmisión de instalaciones.",
+    "Aprobación de proyectos y comunicación de cesiones.",
+    "Autorizaciones de cierre y notificaciones temporales.",
+    "Declaración de utilidad pública y puesta en servicio.",
+    "Notas informativas sobre protección de datos personales y plazos de tramitación."
+  ],
+  "keywords": [
+    "Decreto 80/2007, de 19 de junio",
+    "Ley 54/1997, de 27 de noviembre del Sector Eléctrico",
+    "Ley Orgánica 15/1999",
+    "Decreto 33/2009",
+    "Decreto 80/2007"
+  ],
+  "references": [
+    "Decreto 80/2007, de 19 de junio",
+    "Ley 54/1997, de 27 de noviembre del Sector Eléctrico",
+    "Ley Orgánica 15/1999",
+    "Decreto 33/2009",
+    "Decreto 80/2007"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9e4106dc4e19c0b7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9e4106dc4e19c0b7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:34:46.443050+00:00",
+  "usage": {
+    "input_tokens": 4255,
+    "output_tokens": 3011,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 11972
+}

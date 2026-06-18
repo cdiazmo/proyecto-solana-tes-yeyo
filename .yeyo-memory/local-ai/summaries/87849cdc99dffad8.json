@@ -1,0 +1,42 @@
+{
+  "doc_id": "87849cdc99dffad8",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AEE-39-70-0015-GAR_901_Rev00_Automatic valves datasheet.xlsx",
+  "title": "4521-HDD-AEE-39-70-0015-GAR 901 Rev00 Automatic valves datasheet",
+  "doc_code": "4521-HDD-AEE-39-70-0015",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for Automatic Valves Datasheet, version 0, submitted on 2017-01-25. Input data changes are the reason for revision.",
+  "summary_points": [
+    "Technical Comment Sheet for Automatic Valves Datasheet, version 0, submitted on 2017-01-25. Input data changes are the reason for revision."
+  ],
+  "keywords": [
+    "Automatic valves datasheet",
+    "TCS",
+    "4521-HDD-AEE-39-70-0016-GAR_Rev00",
+    "Input data change"
+  ],
+  "references": [
+    "4521-LIS-AEE-39-70-0016-GAR",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev01",
+    "4521-CAL-AEE-58-11-0002-GAR Rev 02"
+  ],
+  "warnings": [
+    "Client answer date is missing"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/87849cdc99dffad8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/87849cdc99dffad8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:44:14.913578+00:00",
+  "usage": {
+    "input_tokens": 1337,
+    "output_tokens": 520,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2515
+}

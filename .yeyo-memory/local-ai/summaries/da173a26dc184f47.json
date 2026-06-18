@@ -1,0 +1,61 @@
+{
+  "doc_id": "da173a26dc184f47",
+  "path": "07 Presentado al Condado/0004_EDL/_AY_EDL_Document Control-4-20-2018.xlsx",
+  "title": "AY EDL Document Control-4-20-2018",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Instrumentacion y control",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document control for AY EDL project, including various documents related to HEX LOI Solana, General, Electrical, Instrumentation and Control (I&C), HDD, LIS, MEM, M&P, Piping, and Technology. Notes on revisions and issues are provided.",
+  "summary_points": [
+    "Document control for AY EDL project, including various documents related to HEX LOI Solana, General, Electrical, Instrumentation and Control (I&C), HDD, LIS, MEM, M&P, Piping, and Technology. Notes on revisions and issues are provided."
+  ],
+  "keywords": [
+    "AY EDL",
+    "Document control",
+    "HEX LOI Solana",
+    "General",
+    "Electrical",
+    "Instrumentation and Control",
+    "HDD",
+    "LIS",
+    "MEM",
+    "M&P",
+    "Piping",
+    "Technology",
+    "Revisions",
+    "Issues"
+  ],
+  "references": [
+    "4521-CAL-AEE-75-52-0001-GAR_Rev00_exchangers_foundation",
+    "4521-CAL-AEE-75-52-0002-GAR_Rev00_Drain_back_tank",
+    "4521-CAL-AEE-75-52-0003-GAR_Rev00_Drain_back_tank_support",
+    "4521-CAL-AEE-75-52-0004-GAR Calculation Report for Drain Back Tank Platform",
+    "4521-CAL-AGE-75-54-0005-GAR Calculation Report for TES Platform Structures",
+    "Solana Salt Heat Exchangers Scope and Quote 6.15",
+    "4521-LIS-AEE-75-52-0006-GAR_Rev01_Exchangers_Pipe_Support_found",
+    "4521-ESP-AEE-00-70-0501-GAR_rev00 General notes & instructions for instruments & valves procurement",
+    "4521-HDD-AEE-39-70-0011-GAR Rev.01 Pressure transmitters datasheets",
+    "4521-LIS-AEE-00-70-0001-GAR Rev.01 I&C Signal List",
+    "4521-MEM-AEE-70-10-0001-GAR Rev.01 TES S&T HEX Functional Description of Standby and Drainage Procedures",
+    "4521-CAL-AEE-58-11-0001-GAR Rev 02 HTF and Molten Salts Hydraulic Circuits Calculation Report",
+    "4521-HDD-AEE-00-64-0001-GAR_Rev02_TES HTF PSV Datasheet"
+  ],
+  "warnings": [
+    "Column name ISSUE may be ambiguous, refer to notes for clarification."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/da173a26dc184f47.md",
+  "source_extracted_path": ".yeyo-memory/extracted/da173a26dc184f47.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T04:52:08.699770+00:00",
+  "usage": {
+    "input_tokens": 4178,
+    "output_tokens": 1478,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7021
+}

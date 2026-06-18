@@ -1,0 +1,50 @@
+{
+  "doc_id": "836100200d17223e",
+  "path": "Documentacion con sello PE 08/Apoyos/HTF Típico soporta dwgs/4521-PLN-DOT-75-63-0270.pdf",
+  "title": "4521-PLN-DOT-75-63-0270",
+  "doc_code": "4521-PLN-DOT-75-63-0270",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes a typical support structure, including dimensions, angles of pads, and notes on the reinforced pad. It is part of the project 4521-PLN-DOT-75-63-0270 for Arizona Solar One Solana.",
+  "summary_points": [
+    "This document describes a typical support structure, including dimensions, angles of pads, and notes on the reinforced pad. It is part of the project 4521-PLN-DOT-75-63-0270 for Arizona Solar One Solana."
+  ],
+  "keywords": [
+    "support",
+    "orientation",
+    "downstream",
+    "main flow",
+    "base plate",
+    "existing structure",
+    "isometric reference point",
+    "material",
+    "schedule",
+    "dimensions",
+    "DN Trunnion",
+    "thick plate",
+    "vent hole",
+    "angles of pad",
+    "reinforced pad"
+  ],
+  "references": [
+    "252-HTF-13F-S-001_T04"
+  ],
+  "warnings": [
+    "OCR issues with some characters and numbers"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/836100200d17223e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/836100200d17223e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:03:43.123061+00:00",
+  "usage": {
+    "input_tokens": 2270,
+    "output_tokens": 1204,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3868
+}

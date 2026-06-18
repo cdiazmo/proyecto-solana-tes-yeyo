@@ -1,0 +1,60 @@
+{
+  "doc_id": "98997b1a51c5457f",
+  "path": "03 GD Fabricacion LOI TES 6/Procedimiento de calidad/4521-INS-LOI-039-062-0008-GAR_Rev00  - IV.pdf",
+  "title": "4521-INS-LOI-039-062-0008-GAR Rev00 - IV",
+  "doc_code": "4521-INS-LOI-039-062-0008",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Visual Inspection Procedure for welding seams and base materials\n- Applicable to surface condition, alignment, shape, and welding joints\n- Codes include ASME Section V, VIII Div1/Div2, and SNT-TC-1A\n- Responsibilities include Quality Manager and Qualified Personnel\n- General requirements ensure proper inspection conditions and personnel qualifications\n- Execution includes pre-weld heat treatment checks if no customer requirements\n- Acceptance criteria based on Welding Procedure Specifications\n- A reduction in thickness due to welding process is limited to 0.8mm or 10% of the nominal thickness.\n- Weld reinforcement must have a smooth transition with adjacent base material and not exceed specified thicknesses.\n- Concavity due to welding on root side is allowed if it meets certain thickness criteria.\n- Alignment tolerance for butt welded sections requires no greater offset than listed in tables.\n- Unacceptable indications should be removed or reduced, blended into surface, or rewelded by qualified personnel.",
+  "summary_points": [
+    "Visual Inspection Procedure for welding seams and base materials",
+    "Applicable to surface condition, alignment, shape, and welding joints",
+    "Codes include ASME Section V, VIII Div1/Div2, and SNT-TC-1A",
+    "Responsibilities include Quality Manager and Qualified Personnel",
+    "General requirements ensure proper inspection conditions and personnel qualifications",
+    "Execution includes pre-weld heat treatment checks if no customer requirements",
+    "Acceptance criteria based on Welding Procedure Specifications",
+    "A reduction in thickness due to welding process is limited to 0.8mm or 10% of the nominal thickness.",
+    "Weld reinforcement must have a smooth transition with adjacent base material and not exceed specified thicknesses.",
+    "Concavity due to welding on root side is allowed if it meets certain thickness criteria.",
+    "Alignment tolerance for butt welded sections requires no greater offset than listed in tables.",
+    "Unacceptable indications should be removed or reduced, blended into surface, or rewelded by qualified personnel.",
+    "Examination reports must include job number, drawings, and other specified information."
+  ],
+  "keywords": [
+    "ASME Code, Section V",
+    "ASME Code, Section VIII Div1/Div2",
+    "SNT-TC-1A",
+    "ISO 9712/2012",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "ASME VIII Div.1 & Div.2",
+    "Table 2a&2b",
+    "Table 3a&3b"
+  ],
+  "references": [
+    "ASME Code, Section V",
+    "ASME Code, Section VIII Div1/Div2",
+    "SNT-TC-1A",
+    "ISO 9712/2012",
+    "WRITTEN PRACTICE ASME. QCM.PR05",
+    "ASME VIII Div.1 & Div.2",
+    "Table 2a&2b",
+    "Table 3a&3b"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/98997b1a51c5457f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/98997b1a51c5457f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T12:50:41.599992+00:00",
+  "usage": {
+    "input_tokens": 4180,
+    "output_tokens": 1943,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12545
+}

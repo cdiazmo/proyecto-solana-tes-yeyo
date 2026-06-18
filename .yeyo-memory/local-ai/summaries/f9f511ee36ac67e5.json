@@ -1,0 +1,45 @@
+{
+  "doc_id": "f9f511ee36ac67e5",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P271-GAR_901_Rev01_Thermal energy storage Un5 HTF to salt.xlsx",
+  "title": "4521 PLN AEE 68 71 P271-GAR 901 Rev01 Thermal energy storage Un5 HTF to salt",
+  "doc_code": "4521-PLN-AEE-68-71-P271",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document for thermal energy storage using UN5 HTF to salt, replacing HEX TES Solana. Previous revision voided due to new design concept.",
+  "summary_points": [
+    "Document for thermal energy storage using UN5 HTF to salt, replacing HEX TES Solana. Previous revision voided due to new design concept."
+  ],
+  "keywords": [
+    "thermal energy storage",
+    "UN5 HTF",
+    "salt",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "revision",
+    "new design"
+  ],
+  "references": [
+    "4521_PLN_AEE_68_71_P271-GAR-901",
+    "IFD",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "Client comments not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f9f511ee36ac67e5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f9f511ee36ac67e5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:36:57.733621+00:00",
+  "usage": {
+    "input_tokens": 1279,
+    "output_tokens": 294,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2607
+}

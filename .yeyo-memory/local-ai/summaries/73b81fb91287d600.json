@@ -1,0 +1,45 @@
+{
+  "doc_id": "73b81fb91287d600",
+  "path": "01 GD AE/M&P/PLN/4521_PLN_AEE_68_71_P271-GAR_901_Rev02_Thermal energy storage Un5 HTF to salt.xlsx",
+  "title": "4521 PLN AEE 68 71 P271-GAR 901 Rev02 Thermal energy storage Un5 HTF to salt",
+  "doc_code": "4521-PLN-AEE-68-71-P271",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "TCS for HEX replacement TES Solana, revision 2, issued by Abeinsa Engineering. Includes input data changes and design updates.",
+  "summary_points": [
+    "TCS for HEX replacement TES Solana, revision 2, issued by Abeinsa Engineering. Includes input data changes and design updates."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "revision 2",
+    "input data change",
+    "design update"
+  ],
+  "references": [
+    "4521_PLN_AEE_68_71_P271-GAR-901",
+    "IFD",
+    "AP",
+    "AC",
+    "NA"
+  ],
+  "warnings": [
+    "Client Main Comments and Annexes to Comments not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/73b81fb91287d600.md",
+  "source_extracted_path": ".yeyo-memory/extracted/73b81fb91287d600.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:33:59.867943+00:00",
+  "usage": {
+    "input_tokens": 1206,
+    "output_tokens": 438,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2307
+}

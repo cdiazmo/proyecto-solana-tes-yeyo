@@ -1,0 +1,50 @@
+{
+  "doc_id": "a31d5a3bf0507307",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/Solana Heat Exchangers - Site Layout_S1.1.pdf",
+  "title": "Solana Heat Exchangers - Site Layout S1.1",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Este documento describe los planos y detalles de la ubicación de los nuevos exchangers térmicos Tes en el sitio de Solana, Arizona. Incluye información sobre la base de soporte, descripción legal del terreno y un mapa de la zona circundante.",
+  "summary_points": [
+    "Este documento describe los planos y detalles de la ubicación de los nuevos exchangers térmicos Tes en el sitio de Solana, Arizona. Incluye información sobre la base de soporte, descripción legal del terreno y un mapa de la zona circundante."
+  ],
+  "keywords": [
+    "Solana Heat Exchangers",
+    "Site Layout",
+    "Construction Documents",
+    "Phase 2",
+    "New Tes Heat Exchangers",
+    "Legal Description",
+    "Basis of Bearing",
+    "Benchmark",
+    "Vicinity Map",
+    "Power Line Road Alignment",
+    "Painted Rock Dam Road",
+    "Interstate 8"
+  ],
+  "references": [
+    "S1.1",
+    "-",
+    "Planos",
+    "Proceso / mecanica / tuberias"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a31d5a3bf0507307.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a31d5a3bf0507307.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:09:53.597204+00:00",
+  "usage": {
+    "input_tokens": 2076,
+    "output_tokens": 796,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4182
+}

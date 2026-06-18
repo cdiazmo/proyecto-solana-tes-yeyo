@@ -1,0 +1,42 @@
+{
+  "doc_id": "68577b702b9fd98e",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes de tuberías HTF/4521-PLN-DOT-75-63-0200.pdf",
+  "title": "4521-PLN-DOT-75-63-0200",
+  "doc_code": "4521-PLN-DOT-75-63-0200",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support structures for construction, including material specifications, dimensions, and installation instructions.",
+  "summary_points": [
+    "Document detailing support structures for construction, including material specifications, dimensions, and installation instructions."
+  ],
+  "keywords": [
+    "support structures",
+    "construction",
+    "material specifications",
+    "dimensions",
+    "installation instructions"
+  ],
+  "references": [
+    "0000-LIS-AEE-000-063-YYYY_Rev00_Support List",
+    "ASME B31.1 Chapter V",
+    "ASME B36.10"
+  ],
+  "warnings": [
+    "OCR issues detected in some text sections"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/68577b702b9fd98e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/68577b702b9fd98e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:05:04.865210+00:00",
+  "usage": {
+    "input_tokens": 1564,
+    "output_tokens": 1022,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3628
+}

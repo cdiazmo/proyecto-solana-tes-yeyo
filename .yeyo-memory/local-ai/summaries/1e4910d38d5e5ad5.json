@@ -1,0 +1,46 @@
+{
+  "doc_id": "1e4910d38d5e5ad5",
+  "path": "01 GD AE/M&P/PLN/4521-PLN-AEE-00-70-N023-GAR_901_Rev00_Interlock notes - Drain back system.xlsx",
+  "title": "4521-PLN-AEE-00-70-N023-GAR 901 Rev00 Interlock notes - Drain back system",
+  "doc_code": "4521-PLN-AEE-00-70-N023",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Interlock notes for the drain back system including motor signals and input data change.",
+  "summary_points": [
+    "Interlock notes for the drain back system including motor signals and input data change."
+  ],
+  "keywords": [
+    "Interlock notes",
+    "Drain back system",
+    "Motor signals",
+    "TES Hex train",
+    "HTF to salt",
+    "HEX replacement",
+    "AEPC USA",
+    "Abeinsa Engineering"
+  ],
+  "references": [
+    "4521_PLN_AEE_68_71_P271-GAR_Rev01",
+    "4521_PLN_AEE_68_71_P274-GAR_Rev01",
+    "4521_PLN_AEE_68_71_P278-GAR_Rev02",
+    "4521_PLN_AEE_68_71_P279-GAR_Rev02"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1e4910d38d5e5ad5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1e4910d38d5e5ad5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:07:02.078547+00:00",
+  "usage": {
+    "input_tokens": 1337,
+    "output_tokens": 499,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2673
+}

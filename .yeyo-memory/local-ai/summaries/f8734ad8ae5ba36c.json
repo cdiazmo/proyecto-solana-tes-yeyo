@@ -1,0 +1,43 @@
+{
+  "doc_id": "f8734ad8ae5ba36c",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-00-70-N004.pdf",
+  "title": "4521-PLN-AGE-00-70-N004",
+  "doc_code": "4521-PLN-AGE-00-70-N004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- Interlocks Notes document for project 4521-PLN-AGE-00-70-N004.\n- Revised on 112OCT11 with added comments.\n- Location: SOLANAGILA BEND, ARIZONA.\n- Document includes a description and revisions history.",
+  "summary_points": [
+    "Interlocks Notes document for project 4521-PLN-AGE-00-70-N004.",
+    "Revised on 112OCT11 with added comments.",
+    "Location: SOLANAGILA BEND, ARIZONA.",
+    "Document includes a description and revisions history."
+  ],
+  "keywords": [
+    "4521-PLN-AGE-00-70-N004",
+    "112OCT11",
+    "ABAASLAGBPPT 2"
+  ],
+  "references": [
+    "4521-PLN-AGE-00-70-N004",
+    "112OCT11",
+    "ABAASLAGBPPT 2"
+  ],
+  "warnings": [
+    "Text is somewhat unclear, particularly 'OPTIONBYBYBY' and 'REVISIONS4521-PLN-AGE-00-70-N004'."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f8734ad8ae5ba36c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f8734ad8ae5ba36c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:11:57.645179+00:00",
+  "usage": {
+    "input_tokens": 13781,
+    "output_tokens": 5526,
+    "calls": 5
+  },
+  "repaired_calls": 2,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 16246
+}

@@ -1,0 +1,45 @@
+{
+  "doc_id": "a184ebc6677193d6",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0300_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0300 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describes pipe supports with dimensions, materials, and installation details. Includes support definitions for different orientations and types of shoes.",
+  "summary_points": [
+    "Document describes pipe supports with dimensions, materials, and installation details. Includes support definitions for different orientations and types of shoes."
+  ],
+  "keywords": [
+    "pipe supports",
+    "dimensions",
+    "materials",
+    "installation",
+    "support definitions",
+    "shoes",
+    "friction coefficient",
+    "stainless steel plate",
+    "base plate"
+  ],
+  "references": [
+    "257-MS-10EF-S-006",
+    "4521-PLN-DOT-75-63-0300"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly in the drawing details and signatures."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a184ebc6677193d6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a184ebc6677193d6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:02:06.408059+00:00",
+  "usage": {
+    "input_tokens": 1450,
+    "output_tokens": 673,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3078
+}

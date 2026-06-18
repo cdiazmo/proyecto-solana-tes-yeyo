@@ -1,0 +1,45 @@
+{
+  "doc_id": "b60ddc00b252311e",
+  "path": "01 GD AE/Tuberia/PLN/4521-PLN-AEE-75-65-0001-GAR-901_MS System ISO.xlsx",
+  "title": "4521-PLN-AEE-75-65-0001-GAR-901 MS System ISO",
+  "doc_code": "4521-PLN-AEE-75-65-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project, document code 4521-PLN-AEE-75-65-0001-GAR, revision 0. Input data changes are the reason for revision.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project, document code 4521-PLN-AEE-75-65-0001-GAR, revision 0. Input data changes are the reason for revision."
+  ],
+  "keywords": [
+    "TCS",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "4521-PLN-AEE-75-65-0001-GAR",
+    "IFD",
+    "P&ID",
+    "Plant review"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0034",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering"
+  ],
+  "warnings": [
+    "Client comments and annexes are not provided in the text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b60ddc00b252311e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b60ddc00b252311e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:36:00.294596+00:00",
+  "usage": {
+    "input_tokens": 1307,
+    "output_tokens": 512,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2389
+}

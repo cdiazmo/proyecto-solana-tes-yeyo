@@ -1,0 +1,59 @@
+{
+  "doc_id": "9cfe1f0546da1f14",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-PLN-0040-00 Planificacion.pdf",
+  "title": "1950801-PLN-0040-00 Planificacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "- El proyecto se llama ATLANTICA ubicado en Córdoba, España.\n- Se trata de un sistema de intercambio de aceite sales para una planta termosolar HELIOS I y II.\n- El suministrador es LOINTEK con el número de documento 1950801-PLN-0040-00.\n- El proyecto incluye varias tareas desde ingeniería básica hasta montaje y puesta en marcha.\n- La planificación cubre dos semestres del año 2027 y 2028.\n- Tareas relacionadas con la construcción y operación de la planta termosolar Helios I y II.\n- Involucran supervisión, instalación, calibración y pruebas de seguridad.\n- Se incluyen tareas como obra civil, estructura, piping, instrumentación y control.\n- La planta se entrega a la comisión en junio de 2028.\n- Las tareas están programadas para varios semestres del año 2027 y 2028.",
+  "summary_points": [
+    "El proyecto se llama ATLANTICA ubicado en Córdoba, España.",
+    "Se trata de un sistema de intercambio de aceite sales para una planta termosolar HELIOS I y II.",
+    "El suministrador es LOINTEK con el número de documento 1950801-PLN-0040-00.",
+    "El proyecto incluye varias tareas desde ingeniería básica hasta montaje y puesta en marcha.",
+    "La planificación cubre dos semestres del año 2027 y 2028.",
+    "Tareas relacionadas con la construcción y operación de la planta termosolar Helios I y II.",
+    "Involucran supervisión, instalación, calibración y pruebas de seguridad.",
+    "Se incluyen tareas como obra civil, estructura, piping, instrumentación y control.",
+    "La planta se entrega a la comisión en junio de 2028.",
+    "Las tareas están programadas para varios semestres del año 2027 y 2028."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "CORDOBA (SPAIN)",
+    "LOINTEK",
+    "1950801-PLN-0040-00",
+    "SISTEMA DE INTERCAMBIO ACEITE SALES",
+    "PLANTA TERMOSOLAR HELIOS I y II",
+    "1950801",
+    "Atlantica Yield"
+  ],
+  "references": [
+    "ATLANTICA",
+    "CORDOBA (SPAIN)",
+    "LOINTEK",
+    "1950801-PLN-0040-00",
+    "SISTEMA DE INTERCAMBIO ACEITE SALES",
+    "PLANTA TERMOSOLAR HELIOS I y II",
+    "1950801",
+    "Atlantica Yield"
+  ],
+  "warnings": [
+    "El documento es propiedad de Lointek y no puede ser utilizado por terceros sin consentimiento previo."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9cfe1f0546da1f14.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9cfe1f0546da1f14.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:21:37.753723+00:00",
+  "usage": {
+    "input_tokens": 6704,
+    "output_tokens": 2565,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10236
+}

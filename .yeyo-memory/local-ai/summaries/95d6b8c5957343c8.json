@@ -1,0 +1,44 @@
+{
+  "doc_id": "95d6b8c5957343c8",
+  "path": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0001-GAR_901_Rev01_Pipeline TES HEX Replacement.xlsx",
+  "title": "4521 LIS AEE 39 61 0001-GAR 901 Rev01 Pipeline TES HEX Replacement",
+  "doc_code": "4521-LIS-AEE-39-61-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Technical Comment Sheet for Pipeline TES HEX Replacement, revision 1, dated 2017-01-13. Includes input data updates and design changes.",
+  "summary_points": [
+    "Technical Comment Sheet for Pipeline TES HEX Replacement, revision 1, dated 2017-01-13. Includes input data updates and design changes."
+  ],
+  "keywords": [
+    "Pipeline",
+    "TES HEX Replacement",
+    "Technical Comment Sheet",
+    "Revision 1",
+    "2017-01-13",
+    "Input Data",
+    "Design Changes"
+  ],
+  "references": [
+    "4521_LIS_AEE_39_61_0001-GAR_901",
+    "4521-LIS-AEE-39-61-0001",
+    "4521-CAL-AEE-58-11-0002-GAR"
+  ],
+  "warnings": [
+    "Client Transmittal Number and Answer Date are missing"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/95d6b8c5957343c8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/95d6b8c5957343c8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:44:39.085937+00:00",
+  "usage": {
+    "input_tokens": 1262,
+    "output_tokens": 494,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2532
+}

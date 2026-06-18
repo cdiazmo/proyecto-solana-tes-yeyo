@@ -1,0 +1,41 @@
+{
+  "doc_id": "4956189822632d57",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AGE-39-70-0012-GAR_901_Temperature transmitter.xlsx",
+  "title": "4521-HDD-AGE-39-70-0012-GAR 901 Temperature transmitter",
+  "doc_code": "4521-HDD-AGE-39-70-0012",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, including input data and assumptions. No holds or mistakes noted.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, including input data and assumptions. No holds or mistakes noted."
+  ],
+  "keywords": [
+    "4521-HDD-AGE-39-70-0012-GAR_901",
+    "Temperature transmitter",
+    "HEX replacement",
+    "TES Solana",
+    "Abeinsa Engineering",
+    "Input data",
+    "Assumptions"
+  ],
+  "references": [
+    "4521-HDD-AGE-39-70-0011-GAR_Rev00_Temperature transmitter",
+    "4521-LIS-AEE-39-70-0015-GAR Rev.0 I&C Instruments List"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/4956189822632d57.md",
+  "source_extracted_path": ".yeyo-memory/extracted/4956189822632d57.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:46:34.744861+00:00",
+  "usage": {
+    "input_tokens": 1465,
+    "output_tokens": 590,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2916
+}

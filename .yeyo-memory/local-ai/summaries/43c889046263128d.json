@@ -1,0 +1,47 @@
+{
+  "doc_id": "43c889046263128d",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-MS-06F-CS31-4_Sht_1_R2.pdf",
+  "title": "252-MS-06F-CS31-4 Sht 1 R2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe, fittings, and supports for the 252-MS-06F-CS31-4 project.",
+  "summary_points": [
+    "Document detailing pipe, fittings, and supports for the 252-MS-06F-CS31-4 project."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "supports",
+    "API 5LGrade B",
+    "ANSI B16.9",
+    "ASTM A234GR.WPB4",
+    "Gate Buttweld",
+    "Longitudinal Beam",
+    "Carbon Steel"
+  ],
+  "references": [
+    "252-MS-06F-CS31-4",
+    "NNNN-NNN-NNN-NN-NN-NNNNN",
+    "16/15/2018",
+    "209/26/19"
+  ],
+  "warnings": [
+    "OCR issues detected in some text, especially dates and measurements."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/43c889046263128d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/43c889046263128d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:33:43.151852+00:00",
+  "usage": {
+    "input_tokens": 1433,
+    "output_tokens": 500,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1445
+}

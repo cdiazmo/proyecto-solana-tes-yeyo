@@ -1,0 +1,69 @@
+{
+  "doc_id": "844f0c8afa22408f",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.6 Formulario pozo 4.pdf",
+  "title": "5.9.5.6 Formulario pozo 4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general para una instalación solar termoeléctrica.\n- Instalaciones incluyen seguridad contra incendios, electricidad alta tensión, frigoríficas y almacenamiento de productos químicos.\n- Ubicación en Arenas de San Juan, Ciudad Real.\n- Coordenadas UTM: X: 457718 / Y: 4343209\n- Denominación del proyecto: Instalación de BT en pozo n° 4 de planta solar termoeléctrica Helios\n- El documento pertenece a la Consejería de Industria, Energia y Medio Ambiente 'ANEXOL'.\n- Se describen las características técnicas de instalaciones como equipos a presión, ascensores y eléctricas.\n- Se mencionan los requisitos de documentación aportar para diferentes tipos de instalaciones.\n- El establecimiento está sujeto a la normativa de accidentes graves en función de las sustancias peligrosas almacenadas.\n- Las actividades industriales están definidas como aquellas relacionadas con la obtención, reparación, mantenimiento, transformación o reutilización de productos industriales.\n- Se deben indicar las características técnicas de las instalaciones en el anexo del modelo de solicitud.\n- Los proyectos generales presentados al amparo del Real Decreto 2135/1980 requieren cumplir prescripciones específicas.",
+  "summary_points": [
+    "Solicitud de registro de proyecto general para una instalación solar termoeléctrica.",
+    "Instalaciones incluyen seguridad contra incendios, electricidad alta tensión, frigoríficas y almacenamiento de productos químicos.",
+    "Ubicación en Arenas de San Juan, Ciudad Real.",
+    "Coordenadas UTM: X: 457718 / Y: 4343209",
+    "Denominación del proyecto: Instalación de BT en pozo n° 4 de planta solar termoeléctrica Helios",
+    "El documento pertenece a la Consejería de Industria, Energia y Medio Ambiente 'ANEXOL'.",
+    "Se describen las características técnicas de instalaciones como equipos a presión, ascensores y eléctricas.",
+    "Se mencionan los requisitos de documentación aportar para diferentes tipos de instalaciones.",
+    "El establecimiento está sujeto a la normativa de accidentes graves en función de las sustancias peligrosas almacenadas.",
+    "Las actividades industriales están definidas como aquellas relacionadas con la obtención, reparación, mantenimiento, transformación o reutilización de productos industriales.",
+    "Se deben indicar las características técnicas de las instalaciones en el anexo del modelo de solicitud.",
+    "Los proyectos generales presentados al amparo del Real Decreto 2135/1980 requieren cumplir prescripciones específicas.",
+    "Algunas instalaciones requieren inspección inicial según criterios técnicos y de seguridad industrial.",
+    "Datos personales recogidos en el formulario se utilizan exclusivamente para el procedimiento administrativo solicitado.",
+    "La solicitud puede entenderse como ESTIMADA si no se recibe notificación dentro de los 3 meses establecidos.",
+    "No se requiere la presentación de documentos emitidos por esta Administración siempre que se indique su fecha y órgano emisor.",
+    "Se puede solicitar documentación complementaria al interesado según la legislación aplicable."
+  ],
+  "keywords": [
+    "Real Decreto 2135/1980, de 26 de septiembre",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio",
+    "ANEXOL",
+    "R.D. 1254/1999",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "references": [
+    "Real Decreto 2135/1980, de 26 de septiembre",
+    "Reglamentos Técnicos de Seguridad Industrial aplicables",
+    "Ley 21/1992, de 16 de julio",
+    "ANEXOL",
+    "R.D. 1254/1999",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "Datos del representante incompletos (Apellido2%________ 2222222222)",
+    "Referencia catastral incompleta (O urbana La rústica (20 digitos))",
+    "El texto contiene errores tipográficos y símbolos no reconocidos.",
+    "La información sobre las instalaciones técnicas es incompleta y confusa."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/844f0c8afa22408f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/844f0c8afa22408f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:22:47.155687+00:00",
+  "usage": {
+    "input_tokens": 5918,
+    "output_tokens": 3794,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 16609
+}

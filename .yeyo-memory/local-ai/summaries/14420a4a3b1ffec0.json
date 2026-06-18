@@ -1,0 +1,44 @@
+{
+  "doc_id": "14420a4a3b1ffec0",
+  "path": "Documentos en Servidor Atlántica/1950801-DWG-1000-00-DISPOSICION GENERAL.pdf",
+  "title": "1950801-DWG-1000-00-DISPOSICION GENERAL",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Disposición general del proyecto incluye tanques, intercambiadores y bombas de sales calientes y frias. Dimensiones y detalles estructurales.",
+  "summary_points": [
+    "Disposición general del proyecto incluye tanques, intercambiadores y bombas de sales calientes y frias. Dimensiones y detalles estructurales."
+  ],
+  "keywords": [
+    "tanque",
+    "intercambiador",
+    "bombas",
+    "sales",
+    "caliente",
+    "fria",
+    "dimensiones",
+    "estructura"
+  ],
+  "references": [
+    "1950801-DWG-1000-00",
+    "SOLACOR I & II TES SYSTEM"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/14420a4a3b1ffec0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/14420a4a3b1ffec0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:50:59.836375+00:00",
+  "usage": {
+    "input_tokens": 2028,
+    "output_tokens": 893,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2266
+}

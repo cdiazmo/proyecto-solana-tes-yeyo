@@ -1,0 +1,42 @@
+{
+  "doc_id": "d198124de99ae0e5",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0011-GAR_901- Rev.00 SADDLES.xlsx",
+  "title": "4521-PLN-LOI-039-062-0011-GAR 901- Rev.00 SADDLES",
+  "doc_code": "4521-PLN-LOI-039-062-0011",
+  "revision": "Rev.00",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana project, Rev.00, issued by Abeinsa Engineering.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana project, Rev.00, issued by Abeinsa Engineering."
+  ],
+  "keywords": [
+    "4521-PLN-LOI-039-062-0011-GAR_901",
+    "Rev.00",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Technical Comment Sheet",
+    "Input data change",
+    "Design change"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0027"
+  ],
+  "warnings": [
+    "Client comments not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d198124de99ae0e5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d198124de99ae0e5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:28:59.337230+00:00",
+  "usage": {
+    "input_tokens": 1217,
+    "output_tokens": 323,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2198
+}

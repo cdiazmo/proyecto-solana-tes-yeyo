@@ -1,0 +1,42 @@
+{
+  "doc_id": "c70463d2b93d6650",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0266_R02.pdf",
+  "title": "4521-PLN-DOT-75-63-0266 R02",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing support definitions and parameters for pipe supports in Arizona Solar One Solana project.",
+  "summary_points": [
+    "Document detailing support definitions and parameters for pipe supports in Arizona Solar One Solana project."
+  ],
+  "keywords": [
+    "pipe supports",
+    "Arizona Solar",
+    "support definition",
+    "stiffeners",
+    "stainless steel plate",
+    "insulation"
+  ],
+  "references": [
+    "252-HTF-21F-S-008",
+    "4521-PLN-DOT-75-63-0266 R02"
+  ],
+  "warnings": [
+    "OCR issues with some characters and numbers"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c70463d2b93d6650.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c70463d2b93d6650.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:08:05.453429+00:00",
+  "usage": {
+    "input_tokens": 1772,
+    "output_tokens": 708,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3923
+}

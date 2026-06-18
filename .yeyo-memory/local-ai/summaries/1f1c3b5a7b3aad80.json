@@ -1,0 +1,63 @@
+{
+  "doc_id": "1f1c3b5a7b3aad80",
+  "path": "Helios Sole/LSAT Helios II/120131 Solicitud APM  LSAT Helios II.pdf",
+  "title": "120131 Solicitud APM LSAT Helios II",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud para instalación de línea subterránea alta tensión e subestación\n- Instalación centrada en producción y transformación\n- Finalidad: evacuar energía solar a una subestación colectora\n- Presupuesto de 2.596.882,8 Euros\n- Firma del titular o representante: Jorge Osborne Cologan\n- Se requiere el DNI del titular o representante.\n- Necesario presentar un proyecto básico o anteproyecto de la instalación.\n- La empresa distribuidora debe confirmar su conformidad.\n- Es necesario presentar un documento ambiental en caso de cesión a otra empresa.\n- Se requiere una justificación de capacidad legal, técnica y económica del titular.\n- Deben emitirse documentos como memoria técnica y contrato de mantenimiento.\n- Los datos personales recogidos se usarán únicamente para el procedimiento administrativo.",
+  "summary_points": [
+    "Solicitud para instalación de línea subterránea alta tensión e subestación",
+    "Instalación centrada en producción y transformación",
+    "Finalidad: evacuar energía solar a una subestación colectora",
+    "Presupuesto de 2.596.882,8 Euros",
+    "Firma del titular o representante: Jorge Osborne Cologan",
+    "Se requiere el DNI del titular o representante.",
+    "Necesario presentar un proyecto básico o anteproyecto de la instalación.",
+    "La empresa distribuidora debe confirmar su conformidad.",
+    "Es necesario presentar un documento ambiental en caso de cesión a otra empresa.",
+    "Se requiere una justificación de capacidad legal, técnica y económica del titular.",
+    "Deben emitirse documentos como memoria técnica y contrato de mantenimiento.",
+    "Los datos personales recogidos se usarán únicamente para el procedimiento administrativo.",
+    "La solicitud puede ser desestimada si no se recibe notificación dentro del plazo establecido."
+  ],
+  "keywords": [
+    "Decreto 8012007",
+    "Ley 54/1997",
+    "Director/a General de Industria, Energía y Minas",
+    "Delegado/a Provincial de Industria, Energía y Medio Ambiente",
+    "Decreto 33/2009",
+    "Ley Orgánica 15/1999",
+    "Decreto 8012/2007",
+    "Ley 30/1992"
+  ],
+  "references": [
+    "Decreto 8012007",
+    "Ley 54/1997",
+    "Director/a General de Industria, Energía y Minas",
+    "Delegado/a Provincial de Industria, Energía y Medio Ambiente",
+    "Decreto 33/2009",
+    "Ley Orgánica 15/1999",
+    "Decreto 8012/2007",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "Datos del titular incompletos",
+    "Firma digital no visible"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1f1c3b5a7b3aad80.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1f1c3b5a7b3aad80.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:37:29.046996+00:00",
+  "usage": {
+    "input_tokens": 4562,
+    "output_tokens": 2393,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 12840
+}

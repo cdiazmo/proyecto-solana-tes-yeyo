@@ -1,0 +1,41 @@
+{
+  "doc_id": "303b3e8dfd40ba4c",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180404/4521-PLN-AEE-00-00-0100_R00_S3.2.pdf",
+  "title": "4521-PLN-AEE-00-00-0100 R00 S3.2",
+  "doc_code": "4521-PLN-AEE-00-00-",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Technical plans for a retention basin and proposed restroom maintenance at the Solana Generating Station in Arizona.",
+  "summary_points": [
+    "Technical plans for a retention basin and proposed restroom maintenance at the Solana Generating Station in Arizona."
+  ],
+  "keywords": [
+    "Solana Power Generation Plant",
+    "retention basin",
+    "proposed restroom maintenance",
+    "Maricopa County",
+    "elevation",
+    "parcel description"
+  ],
+  "references": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS (GANNETT FLEMING, 2/9/15)"
+  ],
+  "warnings": [
+    "OCR issues with some text recognition"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/303b3e8dfd40ba4c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/303b3e8dfd40ba4c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:13:32.953420+00:00",
+  "usage": {
+    "input_tokens": 2930,
+    "output_tokens": 347,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4815
+}

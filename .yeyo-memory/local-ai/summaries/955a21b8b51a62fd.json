@@ -1,0 +1,71 @@
+{
+  "doc_id": "955a21b8b51a62fd",
+  "path": "Helios Sole/SE Colectora/Solicitud APM linea auxiliar SE Colectora.pdf",
+  "title": "Solicitud APM linea auxiliar SE Colectora",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de registro de proyecto general de industria.\n- Datos del titular y representante incluidos.\n- Ubicación de la instalación en Arenas de San Juan, Ciudad Real.\n- Instalaciones objeto de la solicitud: seguridad contra incendios, eléctricas alta tensión no sujetas a autorización, frigorífica, petrolífera y almacenamiento de productos químicos\n- Documento pertenece a la Consejería de Industria, Energía y Medio Ambiente.\n- Se refiere a características técnicas de instalaciones en edificios industriales y comerciales.\n- Incluye información sobre equipos a presión, ascensores, eléctrica de baja tensión y terminales térmicas.\n- Menciona la clasificación de sustancias peligrosas almacenadas según R.D. 1254/1999.\n- Firma del titular o representante Jorge Osborne Cologan.\n- Documentación requerida para el registro de proyectos industriales.\n- Incluye justificantes de pago, proyectos generales, certificaciones técnicas y documentos de seguridad.\n- Se requiere documentación específica para diferentes tipos de industrias como frigoríficas, petrolíferas y equipos a presión.",
+  "summary_points": [
+    "Solicitud de registro de proyecto general de industria.",
+    "Datos del titular y representante incluidos.",
+    "Ubicación de la instalación en Arenas de San Juan, Ciudad Real.",
+    "Instalaciones objeto de la solicitud: seguridad contra incendios, eléctricas alta tensión no sujetas a autorización, frigorífica, petrolífera y almacenamiento de productos químicos",
+    "Documento pertenece a la Consejería de Industria, Energía y Medio Ambiente.",
+    "Se refiere a características técnicas de instalaciones en edificios industriales y comerciales.",
+    "Incluye información sobre equipos a presión, ascensores, eléctrica de baja tensión y terminales térmicas.",
+    "Menciona la clasificación de sustancias peligrosas almacenadas según R.D. 1254/1999.",
+    "Firma del titular o representante Jorge Osborne Cologan.",
+    "Documentación requerida para el registro de proyectos industriales.",
+    "Incluye justificantes de pago, proyectos generales, certificaciones técnicas y documentos de seguridad.",
+    "Se requiere documentación específica para diferentes tipos de industrias como frigoríficas, petrolíferas y equipos a presión.",
+    "Certificados de dirección de obra y contratos de mantenimiento son importantes para la puesta en servicio de instalaciones.",
+    "Documentos adicionales como informes de seguridad y planes de emergencia son necesarios según las normativas aplicables.",
+    "Definición de Industria: actividades relacionadas con productos industriales.",
+    "Características técnicas de instalaciones en anexo I.",
+    "Prescripciones técnicas para proyectos generales según Real Decreto 2135/1980.",
+    "Requisitos de inspección inicial para ciertas instalaciones.",
+    "Datos personales utilizados exclusivamente para el procedimiento administrativo.",
+    "Solicitud puede entenderse ESTIMADA si no ha recibido notificación en 3 meses.",
+    "No se requiere presentación de documentos antiguos o emitidos por la Administración.",
+    "Podría solicitarse documentación complementaria según legislación aplicable.",
+    "Campos del formulario marcados con asterisco son obligatorios."
+  ],
+  "keywords": [
+    "MODELO IN.SI_01",
+    "ANEXO I",
+    "R.D. 1254/1999",
+    "/g120",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "references": [
+    "MODELO IN.SI_01",
+    "ANEXO I",
+    "R.D. 1254/1999",
+    "/g120",
+    "Real Decreto 2135/1980",
+    "Ley Orgánica 15/1999",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "/g137 indica que el texto continúa en otro ejemplar del anexo I.",
+    "Firma y detalles específicos como las coordenadas UTM pueden estar incompletos o incorrectos."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/955a21b8b51a62fd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/955a21b8b51a62fd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:29:46.750261+00:00",
+  "usage": {
+    "input_tokens": 10246,
+    "output_tokens": 5176,
+    "calls": 5
+  },
+  "repaired_calls": 1,
+  "chunk_count": 4,
+  "completed_chunks": 4,
+  "completed": true,
+  "text_chars": 19520
+}

@@ -1,0 +1,54 @@
+{
+  "doc_id": "b687f582f8531696",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/130215 Rm_ Cambio titularidad UF.pdf",
+  "title": "130215 Rm Cambio titularidad UF",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Solicitud de cambio de titularidad para Helios I Hyperion Energy Investment SL\n- Requerimientos en caso de asumir la deuda o no\n- Contacto con Ramon Serrera Figallo para aclaraciones\n- Cambio de titularidad debe realizarse a senergyclass@gasnatural.com\n- Facturas pendientes: F.03110140002632 y F.03120740000660\n- Correo electrónico confidencial\n- Prohibición de retransmisión o copia sin permiso\n- Contenido protegido por la regulación sobre protección de datos personales\n- Destinatario exclusivo del correo electrónico",
+  "summary_points": [
+    "Solicitud de cambio de titularidad para Helios I Hyperion Energy Investment SL",
+    "Requerimientos en caso de asumir la deuda o no",
+    "Contacto con Ramon Serrera Figallo para aclaraciones",
+    "Cambio de titularidad debe realizarse a senergyclass@gasnatural.com",
+    "Facturas pendientes: F.03110140002632 y F.03120740000660",
+    "Correo electrónico confidencial",
+    "Prohibición de retransmisión o copia sin permiso",
+    "Contenido protegido por la regulación sobre protección de datos personales",
+    "Destinatario exclusivo del correo electrónico"
+  ],
+  "keywords": [
+    "Ramon Serrera Figallo",
+    "Helios I Hyperion Energy Investment SL",
+    "senergyclass@gasnatural.com",
+    "F.03110140002632",
+    "F.03120740000660"
+  ],
+  "references": [
+    "Ramon Serrera Figallo",
+    "Helios I Hyperion Energy Investment SL",
+    "senergyclass@gasnatural.com",
+    "F.03110140002632",
+    "F.03120740000660"
+  ],
+  "warnings": [
+    "Fragmento confuso y repetitivo",
+    "Falta de información relevante en el texto extraído",
+    "El texto está repetido en varias páginas, lo que podría indicar un problema de OCR o fragmento confuso."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b687f582f8531696.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b687f582f8531696.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T18:07:15.135533+00:00",
+  "usage": {
+    "input_tokens": 16332,
+    "output_tokens": 6953,
+    "calls": 8
+  },
+  "repaired_calls": 3,
+  "chunk_count": 5,
+  "completed_chunks": 5,
+  "completed": true,
+  "text_chars": 29726
+}

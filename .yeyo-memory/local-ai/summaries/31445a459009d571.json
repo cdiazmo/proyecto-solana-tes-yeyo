@@ -1,0 +1,46 @@
+{
+  "doc_id": "31445a459009d571",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0325_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0325 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document describes support definitions for pipe insulation, including dimensions, materials, and assembly details.",
+  "summary_points": [
+    "Document describes support definitions for pipe insulation, including dimensions, materials, and assembly details."
+  ],
+  "keywords": [
+    "support",
+    "pipe insulation",
+    "dimensions",
+    "materials",
+    "assembly",
+    "stainless steel",
+    "calcium silicate",
+    "triple T shoe"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0325",
+    "257-MS-12EF-S-007",
+    "ARIZONA SOLAR ONE",
+    "SOLANA"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/31445a459009d571.md",
+  "source_extracted_path": ".yeyo-memory/extracted/31445a459009d571.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:09:07.465042+00:00",
+  "usage": {
+    "input_tokens": 1820,
+    "output_tokens": 1236,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4061
+}

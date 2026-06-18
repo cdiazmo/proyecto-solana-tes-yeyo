@@ -1,0 +1,43 @@
+{
+  "doc_id": "865ef7ea99d19a97",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/20180328/Overall SIte Plan.pdf",
+  "title": "Overall SIte Plan",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Site plan for Solana Power Generation Plant in Maricopa County, Arizona. Includes retention basin, hullage system improvements, and detailed dimensions.",
+  "summary_points": [
+    "Site plan for Solana Power Generation Plant in Maricopa County, Arizona. Includes retention basin, hullage system improvements, and detailed dimensions."
+  ],
+  "keywords": [
+    "Solana Power Generation Plant",
+    "Retention Basin",
+    "Hullage System",
+    "Bearing Basis",
+    "ACCESSWAY",
+    "723.92 Curve",
+    "Phases",
+    "Legal Information"
+  ],
+  "references": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS (GANNETT FLEMING, 2/9/15)"
+  ],
+  "warnings": [
+    "OCR issues with some text recognition"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/865ef7ea99d19a97.md",
+  "source_extracted_path": ".yeyo-memory/extracted/865ef7ea99d19a97.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:13:18.281829+00:00",
+  "usage": {
+    "input_tokens": 2867,
+    "output_tokens": 429,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4815
+}

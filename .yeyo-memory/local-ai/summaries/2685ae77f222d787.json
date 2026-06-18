@@ -1,0 +1,73 @@
+{
+  "doc_id": "2685ae77f222d787",
+  "path": "12 As Built TES 6/00_Permit Package/04_Grading/4521-PLN-DOT-00-00-0600_rev00.pdf",
+  "title": "4521-PLN-DOT-00-00-0600 rev00",
+  "doc_code": "4521-PLN-DOT-00-00-",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Planos",
+  "summary": "- Documento pertenece al BUREAU OF LAND MANAGEMENT\n- Se refiere a la DOBSON RIGGS FARM LLLP en el área rural del estado de Arizona\n- Menciona existencias como lago y proyecto de salida\n- Coordenadas geográficas específicas son proporcionadas\n- Incluye referencias técnicas como AeccDbFace y Interstate 8\n- Iron bar with red plastic cap at southwest corner of Section 34, Township and Range.\n- Half-inch iron bar in rock pile at southwest corner of Section 32, Township and Range.\n- Primary benchmark (Triangulation Station 'MID') located 0.75 miles west of Interstate 8.\n- Elevation of the primary benchmark is 726.53 (NAVD '88).\n- References include existing topography and plant layout drawings.\n- General notes cover construction requirements, geotechnical investigations, utility verification, material quantity checks, culvert removal, and boulder disposal.\n- Drawing for a retention basin with specific details on grading and surface water channels.",
+  "summary_points": [
+    "Documento pertenece al BUREAU OF LAND MANAGEMENT",
+    "Se refiere a la DOBSON RIGGS FARM LLLP en el área rural del estado de Arizona",
+    "Menciona existencias como lago y proyecto de salida",
+    "Coordenadas geográficas específicas son proporcionadas",
+    "Incluye referencias técnicas como AeccDbFace y Interstate 8",
+    "Iron bar with red plastic cap at southwest corner of Section 34, Township and Range.",
+    "Half-inch iron bar in rock pile at southwest corner of Section 32, Township and Range.",
+    "Primary benchmark (Triangulation Station 'MID') located 0.75 miles west of Interstate 8.",
+    "Elevation of the primary benchmark is 726.53 (NAVD '88).",
+    "References include existing topography and plant layout drawings.",
+    "General notes cover construction requirements, geotechnical investigations, utility verification, material quantity checks, culvert removal, and boulder disposal.",
+    "Drawing for a retention basin with specific details on grading and surface water channels.",
+    "Notice of Alternate Billing Cycle allows for billing cycles other than thirty days.",
+    "Grading plan includes existing topography, subgrade, and compacted fill materials.",
+    "Channel dimensions and specifications are provided for construction.",
+    "Geotextile and riprap materials are used for channel protection."
+  ],
+  "keywords": [
+    "AeccDbFace (AeccLand100)",
+    "AeccDbSurfaceTin (AeccLand100)",
+    "INTERSTATE 8",
+    "UNION PACIFIC RAILROAD",
+    "SOLANA POWER GENERATION PLANT",
+    "TRI STATE SURVEYING, LTD TOPOGRAPHIC SURVEY FOR ABENGOA NORTH AMERICA",
+    "ABENGOA LAYOUT REV4.DWG",
+    "DW",
+    "GD-6",
+    "F02-F23_B",
+    "C3",
+    "NTS"
+  ],
+  "references": [
+    "AeccDbFace (AeccLand100)",
+    "AeccDbSurfaceTin (AeccLand100)",
+    "INTERSTATE 8",
+    "UNION PACIFIC RAILROAD",
+    "SOLANA POWER GENERATION PLANT",
+    "TRI STATE SURVEYING, LTD TOPOGRAPHIC SURVEY FOR ABENGOA NORTH AMERICA",
+    "ABENGOA LAYOUT REV4.DWG",
+    "DW",
+    "GD-6",
+    "F02-F23_B",
+    "C3",
+    "NTS"
+  ],
+  "warnings": [
+    "Fragmento confuso y difícil de leer en varios lugares."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2685ae77f222d787.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2685ae77f222d787.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T17:09:10.688655+00:00",
+  "usage": {
+    "input_tokens": 10113,
+    "output_tokens": 3154,
+    "calls": 3
+  },
+  "repaired_calls": 0,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15705
+}

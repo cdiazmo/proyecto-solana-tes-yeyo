@@ -1,0 +1,41 @@
+{
+  "doc_id": "aaa9d970b450e5a7",
+  "path": "02 GD LOI/Lista/4521-LIS-LOI-039-062-0003-GAR_r01 Packing and Shipping List.pdf",
+  "title": "4521-LIS-LOI-039-062-0003-GAR r01 Packing and Shipping List",
+  "doc_code": "4521-LIS-LOI-039-062-0003",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Listados e indices",
+  "summary": "Packing and shipping list for Oil-to-Salt Heat Exchangers, including dimensions, weights, and delivery details.",
+  "summary_points": [
+    "Packing and shipping list for Oil-to-Salt Heat Exchangers, including dimensions, weights, and delivery details."
+  ],
+  "keywords": [
+    "packing list",
+    "shipping list",
+    "Oil-to-Salt Heat Exchanger",
+    "dimensions",
+    "weights",
+    "delivery details"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0003-GAR",
+    "LOINTEK SL",
+    "Arizona Solar One LLC"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/aaa9d970b450e5a7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/aaa9d970b450e5a7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:14:43.808448+00:00",
+  "usage": {
+    "input_tokens": 1710,
+    "output_tokens": 678,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3300
+}

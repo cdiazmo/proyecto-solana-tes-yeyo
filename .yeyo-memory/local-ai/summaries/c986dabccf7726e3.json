@@ -1,0 +1,43 @@
+{
+  "doc_id": "c986dabccf7726e3",
+  "path": "12 As Built TES 6/03_C&S/01_DRA/Structural Steel/4521-PLN-DOT-75-63-0924_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0924 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Support definition for a structural steel member with dimensions and specifications. Includes details on the foundation and project information.",
+  "summary_points": [
+    "Support definition for a structural steel member with dimensions and specifications. Includes details on the foundation and project information."
+  ],
+  "keywords": [
+    "support",
+    "structural steel",
+    "W12X106",
+    "base plate",
+    "foundation",
+    "project details"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0924",
+    "252-MS-03F-S-004",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "warnings": [
+    "OCR dudoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c986dabccf7726e3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c986dabccf7726e3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:19:27.681270+00:00",
+  "usage": {
+    "input_tokens": 825,
+    "output_tokens": 537,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1037
+}

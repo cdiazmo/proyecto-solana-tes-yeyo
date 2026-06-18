@@ -1,0 +1,43 @@
+{
+  "doc_id": "55a95c8106e856eb",
+  "path": "03 GD Fabricacion LOI TES 6/Dibujos/4521-PLN-LOI-039-062-0013-GAR_rev00 TRANSPORT DRAWING.pdf",
+  "title": "4521-PLN-LOI-039-062-0013-GAR rev00 TRANSPORT DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0013",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "- The document contains confidential and restricted information.\n- Equipment is shipped with nitrogen pressure of 0.5 bar (g).\n- Hydrotest covers will be used for shipping.\n- Paint orange all removable parts (HT caps and threaded plugs).\n- Dimensions are in mm above and in inches below unless otherwise indicated.\n- Use rubber pads on lifting marks if chains are used instead of nylon slings.\n- Max angle for slings is 15°, with a maximum deviation angle of 5° in the longitudinal direction when using a yoke.\n- The equipment weighs 232852 lb and has dimensions of ~575 17/64 in. x ~134 15/64 in. x ~109 9/64 in.",
+  "summary_points": [
+    "The document contains confidential and restricted information.",
+    "Equipment is shipped with nitrogen pressure of 0.5 bar (g).",
+    "Hydrotest covers will be used for shipping.",
+    "Paint orange all removable parts (HT caps and threaded plugs).",
+    "Dimensions are in mm above and in inches below unless otherwise indicated.",
+    "Use rubber pads on lifting marks if chains are used instead of nylon slings.",
+    "Max angle for slings is 15°, with a maximum deviation angle of 5° in the longitudinal direction when using a yoke.",
+    "The equipment weighs 232852 lb and has dimensions of ~575 17/64 in. x ~134 15/64 in. x ~109 9/64 in."
+  ],
+  "keywords": [
+    "4521-PLN-LOI-039-062-0005-GAR",
+    "1950101-DWG-110"
+  ],
+  "references": [
+    "4521-PLN-LOI-039-062-0005-GAR",
+    "1950101-DWG-110"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/55a95c8106e856eb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/55a95c8106e856eb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:47:45.369448+00:00",
+  "usage": {
+    "input_tokens": 7459,
+    "output_tokens": 4797,
+    "calls": 3
+  },
+  "repaired_calls": 1,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 10104
+}

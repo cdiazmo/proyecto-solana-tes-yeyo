@@ -1,0 +1,44 @@
+{
+  "doc_id": "a19eef492cf77afe",
+  "path": "01 GD AE/I&C/PLN/4521-PLN-AEE-39-75-0001-GAR_901 Rev.00 HEX replacement logic diagrams.xlsx",
+  "title": "4521-PLN-AEE-39-75-0001-GAR 901 Rev.00 HEX replacement logic diagrams",
+  "doc_code": "4521-PLN-AEE-39-75-0001",
+  "revision": "Rev.00",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "HEX replacement logic diagrams for TES Solana project. Includes input data, assumptions, and client comments.",
+  "summary_points": [
+    "HEX replacement logic diagrams for TES Solana project. Includes input data, assumptions, and client comments."
+  ],
+  "keywords": [
+    "HEX",
+    "TES",
+    "Solana",
+    "logic diagrams",
+    "input data",
+    "assumptions",
+    "client comments"
+  ],
+  "references": [
+    "4521-PLN-AEE-39-75-0001-GAR_901 Rev.00",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-LIS-AEE-00-70-0001-GAR Rev.01"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a19eef492cf77afe.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a19eef492cf77afe.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:39:44.771533+00:00",
+  "usage": {
+    "input_tokens": 1988,
+    "output_tokens": 705,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4050
+}

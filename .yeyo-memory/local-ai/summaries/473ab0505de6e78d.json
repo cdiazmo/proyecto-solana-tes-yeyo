@@ -1,0 +1,44 @@
+{
+  "doc_id": "473ab0505de6e78d",
+  "path": "01 GD AE/I&C/LIS/4521-LIS-AEE-00-70-0001-GAR_901 Rev.01 I&C Signal List.xlsx",
+  "title": "4521-LIS-AEE-00-70-0001-GAR 901 Rev.01 I&C Signal List",
+  "doc_code": "4521-LIS-AEE-00-70-0001",
+  "revision": "Rev.01",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "I&C Signal List for HEX replacement TES Solana, Rev.01, with input data from various TES units and control cables.",
+  "summary_points": [
+    "I&C Signal List for HEX replacement TES Solana, Rev.01, with input data from various TES units and control cables."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-00-70-0001-GAR_901",
+    "HEX replacement",
+    "TES Solana",
+    "I&C Signal List",
+    "Input data",
+    "Junction box connections",
+    "DCS connections"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0050",
+    "4521-TMT-AEE-AEPC-0065",
+    "4521-LIS-AEE-39-35-0016-GAR Rev.00"
+  ],
+  "warnings": [
+    "Client comments section is empty"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/473ab0505de6e78d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/473ab0505de6e78d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:39:27.929597+00:00",
+  "usage": {
+    "input_tokens": 1876,
+    "output_tokens": 504,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3788
+}

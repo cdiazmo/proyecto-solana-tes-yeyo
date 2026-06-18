@@ -1,0 +1,47 @@
+{
+  "doc_id": "29ec96d7bab5aaa8",
+  "path": "04 GD Fabricacon LOI TES 3/Informes mensuales/19500201-INF-003 Monthly Report - 2020 April.pdf",
+  "title": "19500201-INF-003 Monthly Report - 2020 April",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Monthly report for L OINTEK's activities until May 6th, 2020.\n- Project involves HEX replacement TES Solana at Arizona Solar One.\n- Engineering tasks detailed in Annex II.\n- Manufacturing progress of six units ranging from 20% to 48% complete.\n- Open issue: reducing impact of Force Majeure (COVID-19).\n- Invoices include advance payments and practical completion milestones.",
+  "summary_points": [
+    "Monthly report for L OINTEK's activities until May 6th, 2020.",
+    "Project involves HEX replacement TES Solana at Arizona Solar One.",
+    "Engineering tasks detailed in Annex II.",
+    "Manufacturing progress of six units ranging from 20% to 48% complete.",
+    "Open issue: reducing impact of Force Majeure (COVID-19).",
+    "Invoices include advance payments and practical completion milestones."
+  ],
+  "keywords": [
+    "Document code: 4521-INF-LOI-039-062-0001-GAR",
+    "Supplier Code: 1950201-INF-003",
+    "Review Control Sheet",
+    "Annex II: Document List",
+    "Annex III: Purchase Plan and Material Procurement"
+  ],
+  "references": [
+    "Document code: 4521-INF-LOI-039-062-0001-GAR",
+    "Supplier Code: 1950201-INF-003",
+    "Review Control Sheet",
+    "Annex II: Document List",
+    "Annex III: Purchase Plan and Material Procurement"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/29ec96d7bab5aaa8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/29ec96d7bab5aaa8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T20:07:02.068384+00:00",
+  "usage": {
+    "input_tokens": 14229,
+    "output_tokens": 6205,
+    "calls": 5
+  },
+  "repaired_calls": 2,
+  "chunk_count": 3,
+  "completed_chunks": 3,
+  "completed": true,
+  "text_chars": 15409
+}

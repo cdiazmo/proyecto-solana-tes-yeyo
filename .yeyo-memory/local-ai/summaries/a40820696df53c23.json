@@ -1,0 +1,42 @@
+{
+  "doc_id": "a40820696df53c23",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/SOLANA TES HX Permit_Pkg_02_01_2018_PAGE S1.3.pdf",
+  "title": "SOLANA TES HX Permit Pkg 02 01 2018 PAGE S1.3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides details on the legal description, basis of bearing, and equipment for a solar power generation plant in Maricopa County, Arizona. It includes confidential information and instructions for alternate billing cycles.",
+  "summary_points": [
+    "This document provides details on the legal description, basis of bearing, and equipment for a solar power generation plant in Maricopa County, Arizona. It includes confidential information and instructions for alternate billing cycles."
+  ],
+  "keywords": [
+    "SOLANA TES HX",
+    "Solar Power Plant",
+    "Legal Description",
+    "Basis of Bearing",
+    "Equipment",
+    "Confidential Information",
+    "Alternate Billing Cycle"
+  ],
+  "references": [
+    "DOtecPPT"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly names and dates."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a40820696df53c23.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a40820696df53c23.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:08:26.543702+00:00",
+  "usage": {
+    "input_tokens": 3674,
+    "output_tokens": 876,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7590
+}

@@ -1,0 +1,40 @@
+{
+  "doc_id": "62b5af8e6a426c6e",
+  "path": "01 GD AE/M&P/LIS/4521_LIS_AEE_39_61_0003-GAR_901_Rev02_Manual Valve List TES HEX Replacement.xlsx",
+  "title": "4521 LIS AEE 39 61 0003-GAR 901 Rev02 Manual Valve List TES HEX Replacement",
+  "doc_code": "4521-LIS-AEE-39-61-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Manual Valve List TES HEX Replacement document, revision 2, with input data changes and P&IDs updates. No client comments or annexes.",
+  "summary_points": [
+    "Manual Valve List TES HEX Replacement document, revision 2, with input data changes and P&IDs updates. No client comments or annexes."
+  ],
+  "keywords": [
+    "4521-LIS-AEE-39-61-0003",
+    "GAR_901",
+    "Manual Valve List",
+    "TES HEX Replacement",
+    "Input Data Change",
+    "P&IDs Update"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR dudoso en 'dd/mm/aaaa' y 'Client Transmittal Number'",
+    "No se proporcionan detalles sobre los comentarios del cliente"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/62b5af8e6a426c6e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/62b5af8e6a426c6e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:35:48.916676+00:00",
+  "usage": {
+    "input_tokens": 1218,
+    "output_tokens": 368,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2374
+}

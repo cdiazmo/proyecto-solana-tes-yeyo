@@ -1,0 +1,46 @@
+{
+  "doc_id": "ee6098de79e039dd",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/4521-PLN-DOT-75-63-0241_Rev01.pdf",
+  "title": "4521-PLN-DOT-75-63-0241 Rev01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing details for a non-rotating trunnion assembly on site for steel pipes, including foundation specifications and drawing information.",
+  "summary_points": [
+    "Drawing details for a non-rotating trunnion assembly on site for steel pipes, including foundation specifications and drawing information."
+  ],
+  "keywords": [
+    "non-rotating trunnion",
+    "assembly",
+    "site",
+    "steel pipes",
+    "foundation",
+    "embedment",
+    "base plate",
+    "epoxy hole",
+    "rebar"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0241",
+    "ARIZONA SOLAR ONE SOLANA",
+    "Ildefonso Gonzalez, P.E. PHD"
+  ],
+  "warnings": [
+    "OCR issues with some characters and numbers"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ee6098de79e039dd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ee6098de79e039dd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:52:46.729474+00:00",
+  "usage": {
+    "input_tokens": 1355,
+    "output_tokens": 616,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2352
+}

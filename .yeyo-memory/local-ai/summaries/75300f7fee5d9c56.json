@@ -1,0 +1,43 @@
+{
+  "doc_id": "75300f7fee5d9c56",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-DOT-75-63-0298_R01.pdf",
+  "title": "4521-PLN-DOT-75-63-0298 R01",
+  "doc_code": "4521-PLN-DOT-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes support definitions including dimensions, materials, and assembly details. It also includes drawing information and copyright notices.",
+  "summary_points": [
+    "This document describes support definitions including dimensions, materials, and assembly details. It also includes drawing information and copyright notices."
+  ],
+  "keywords": [
+    "support definition",
+    "pipe supports",
+    "insulation",
+    "stainless steel plate",
+    "vertical profile orientation",
+    "base plate",
+    "drawing details",
+    "copyright notice"
+  ],
+  "references": [
+    "257-MS-10EF-S-004"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos textos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/75300f7fee5d9c56.md",
+  "source_extracted_path": ".yeyo-memory/extracted/75300f7fee5d9c56.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:01:48.838717+00:00",
+  "usage": {
+    "input_tokens": 1444,
+    "output_tokens": 666,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2919
+}

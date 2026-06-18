@@ -1,0 +1,43 @@
+{
+  "doc_id": "a1f6bdc0a1c30263",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0353.pdf",
+  "title": "4521-PLN-DOT-75-63-0353",
+  "doc_code": "4521-PLN-DOT-75-63-0353",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document describes the support definition, orientation, and dimensions for a trunnion base to elbow connection in a pipeline system.",
+  "summary_points": [
+    "This document describes the support definition, orientation, and dimensions for a trunnion base to elbow connection in a pipeline system."
+  ],
+  "keywords": [
+    "support",
+    "orientation",
+    "base plate",
+    "reinforced pad",
+    "dimensions",
+    "trunnion",
+    "elbow",
+    "pipeline"
+  ],
+  "references": [
+    "252-MS-03F-S-001_T04"
+  ],
+  "warnings": [
+    "OCR errors detected in some text, especially in tables and dimensions."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a1f6bdc0a1c30263.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a1f6bdc0a1c30263.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:05:07.653658+00:00",
+  "usage": {
+    "input_tokens": 2301,
+    "output_tokens": 1018,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3926
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "55203480ffe5ea2d",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0013-GAR-901 rev00 Transport Drawing.xlsx",
+  "title": "4521-PLN-LOI-039-062-0013-GAR-901 rev00 Transport Drawing",
+  "doc_code": "4521-PLN-LOI-039-062-0013",
+  "revision": "rev00",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Transport drawing for HEX replacement TES Solana, issued by Abeinsa Engineering.",
+  "summary_points": [
+    "Transport drawing for HEX replacement TES Solana, issued by Abeinsa Engineering."
+  ],
+  "keywords": [
+    "4521-PLN-LOI-039-062-0013-GAR",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Transport Drawing",
+    "IFD"
+  ],
+  "references": [
+    "4521-PLN-LOI-039-062-0013-GAR",
+    "4521-TMT-AEE-AEPC-0016"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/55203480ffe5ea2d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/55203480ffe5ea2d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:12:06.743233+00:00",
+  "usage": {
+    "input_tokens": 1181,
+    "output_tokens": 411,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2210
+}

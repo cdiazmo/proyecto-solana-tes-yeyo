@@ -1,0 +1,42 @@
+{
+  "doc_id": "8f54869ae225662a",
+  "path": "12 As Built TES 6/05_Pipe Supports/4521-PLN-ALL-75-63-0515_R01.pdf",
+  "title": "4521-PLN-ALL-75-63-0515 R01",
+  "doc_code": "4521-PLN-ALL-75-63-",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Drawing for Arizona Solar One project. Insulated pipe supports with typical standards and elevations.",
+  "summary_points": [
+    "Drawing for Arizona Solar One project. Insulated pipe supports with typical standards and elevations."
+  ],
+  "keywords": [
+    "pipe supports",
+    "insulation",
+    "elevations",
+    "drawing",
+    "Arizona Solar One"
+  ],
+  "references": [
+    "257-MS-10F-S-002",
+    "JRC HR IGA",
+    "Ildefonso Gonzalez, P.E, Ph.D"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'W8X31', 'W4', etc."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8f54869ae225662a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8f54869ae225662a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:18:12.523505+00:00",
+  "usage": {
+    "input_tokens": 781,
+    "output_tokens": 432,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1001
+}

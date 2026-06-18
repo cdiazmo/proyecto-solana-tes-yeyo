@@ -1,0 +1,41 @@
+{
+  "doc_id": "11f5ffb94ff227bb",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/260325/1950801-LIS-6500-00_Lista de Consumidores Eléctricos.pdf",
+  "title": "1950801-LIS-6500-00 Lista de Consumidores Eléctricos",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Lista detallada de consumidores eléctricos para el proyecto ATLANTICA en CORDOBA, incluyendo detalles técnicos como potencia, voltaje y tipo de carga.",
+  "summary_points": [
+    "Lista detallada de consumidores eléctricos para el proyecto ATLANTICA en CORDOBA, incluyendo detalles técnicos como potencia, voltaje y tipo de carga."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "CORDOBA",
+    "CONSUMIDORES ELÉCTRICOS",
+    "BOMBA DE SALES",
+    "RESISTENCIA TANQUE",
+    "ANALIZADOR HIDROCARBUROS"
+  ],
+  "references": [
+    "1950801-LIS-6500-00"
+  ],
+  "warnings": [
+    "Texto incompleto en algunas secciones, posibles errores de OCR"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/11f5ffb94ff227bb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/11f5ffb94ff227bb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T04:51:31.201644+00:00",
+  "usage": {
+    "input_tokens": 4023,
+    "output_tokens": 557,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 6881
+}

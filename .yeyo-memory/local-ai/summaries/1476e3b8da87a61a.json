@@ -1,0 +1,41 @@
+{
+  "doc_id": "1476e3b8da87a61a",
+  "path": "01 GD AE/Electrico/PLN/4521-PLN-AEE-27-33-0001-GAR_901_R00_New TES Grounding System.xlsx",
+  "title": "4521-PLN-AEE-27-33-0001-GAR 901 R00 New TES Grounding System",
+  "doc_code": "4521-PLN-AEE-27-33-0001",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document describing the New TES Grounding System, version 0, issued for design. Includes client comments and revisions.",
+  "summary_points": [
+    "Document describing the New TES Grounding System, version 0, issued for design. Includes client comments and revisions."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-27-33-0001-GAR",
+    "New TES Grounding System",
+    "AEPC USA",
+    "Abeinsa Engineering",
+    "Design",
+    "Client Comments"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0056"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1476e3b8da87a61a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1476e3b8da87a61a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T14:33:47.870293+00:00",
+  "usage": {
+    "input_tokens": 1228,
+    "output_tokens": 323,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2301
+}

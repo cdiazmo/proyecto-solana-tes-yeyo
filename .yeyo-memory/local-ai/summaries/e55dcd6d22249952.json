@@ -1,0 +1,47 @@
+{
+  "doc_id": "e55dcd6d22249952",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes de tubería HTF RFI015/HTF Typical Pipe Support REV01 Transmittal 11-27-2018.pdf",
+  "title": "HTF Typical Pipe Support REV01 Transmittal 11-27-2018",
+  "doc_code": "",
+  "revision": "REV01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Transmisión de documentos técnicos para el soporte de tuberías HTF, versión REV01.",
+  "summary_points": [
+    "Transmisión de documentos técnicos para el soporte de tuberías HTF, versión REV01."
+  ],
+  "keywords": [
+    "Atlantica Yield",
+    "RFI015",
+    "HTF Pipe supports",
+    "Rev 01",
+    "Shop drawings",
+    "Prints",
+    "Plan drawings",
+    "Specifications",
+    "Change order",
+    "Letter of transmittal"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0266",
+    "4521-PLN-DOT-75-63-0267",
+    "4521-PLN-DOT-75-63-0268"
+  ],
+  "warnings": [
+    "Texto incompleto en algunas líneas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e55dcd6d22249952.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e55dcd6d22249952.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:27:41.643199+00:00",
+  "usage": {
+    "input_tokens": 854,
+    "output_tokens": 624,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1154
+}

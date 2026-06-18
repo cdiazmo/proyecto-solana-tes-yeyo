@@ -1,0 +1,44 @@
+{
+  "doc_id": "af92ba8dd0b1a9e4",
+  "path": "07 Presentado al Condado/0001_Zoning/Solana Heat Exchangers - Site Layout.pdf",
+  "title": "Solana Heat Exchangers - Site Layout",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Site layout for Solana Heat Exchangers, including legal description, key features, and construction documents. Confidential and subject to alternate billing cycle terms.",
+  "summary_points": [
+    "Site layout for Solana Heat Exchangers, including legal description, key features, and construction documents. Confidential and subject to alternate billing cycle terms."
+  ],
+  "keywords": [
+    "Solana Heat Exchangers",
+    "Site Layout",
+    "Legal Description",
+    "Power Line Road Alignment",
+    "Painted Rock Dam Road",
+    "Benchmark",
+    "Interstate 8",
+    "NEW TES HEAT EXCHANGERS",
+    "Foundation and Structural Plans"
+  ],
+  "references": [
+    "EVAPORATION POND E GRADING AND DRAINAGE PLANS (GANNETT FLEMING, 2/9/15)"
+  ],
+  "warnings": [
+    "OCR issues with some text recognition"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/af92ba8dd0b1a9e4.md",
+  "source_extracted_path": ".yeyo-memory/extracted/af92ba8dd0b1a9e4.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T19:07:09.120022+00:00",
+  "usage": {
+    "input_tokens": 3128,
+    "output_tokens": 450,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 7226
+}

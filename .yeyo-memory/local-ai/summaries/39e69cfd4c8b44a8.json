@@ -1,0 +1,46 @@
+{
+  "doc_id": "39e69cfd4c8b44a8",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0003-GAR Rev0 ANCHOR BOLTS DRAWING.pdf",
+  "title": "4521-PLN-LOI-039-062-0003-GAR Rev0 ANCHOR BOLTS DRAWING",
+  "doc_code": "4521-PLN-LOI-039-062-0003",
+  "revision": "Rev0",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "This document provides detailed drawings and specifications for anchor bolts, including materials, dimensions, and notes on welding angles. It is intended for use by the EPC Contractor and Ing. Supplier in the construction of steam boilers at Solana Generation Station.",
+  "summary_points": [
+    "This document provides detailed drawings and specifications for anchor bolts, including materials, dimensions, and notes on welding angles. It is intended for use by the EPC Contractor and Ing. Supplier in the construction of steam boilers at Solana Generation Station."
+  ],
+  "keywords": [
+    "anchor bolts",
+    "drawing",
+    "stainless steel",
+    "welding",
+    "dimensions",
+    "materials",
+    "equipment support",
+    "supplier",
+    "professional engineer"
+  ],
+  "references": [
+    "4521-PLN-LOI-039-062-0003-GAR Rev0",
+    "195001-DWG-0140",
+    "195001-LIM-140-Rev.0"
+  ],
+  "warnings": [
+    "OCR issues with some text recognition."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/39e69cfd4c8b44a8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/39e69cfd4c8b44a8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T16:00:59.021153+00:00",
+  "usage": {
+    "input_tokens": 6796,
+    "output_tokens": 4181,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4170
+}

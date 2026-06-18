@@ -1,0 +1,52 @@
+{
+  "doc_id": "5413efeb7a829668",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.4 Acreditacion AT.pdf",
+  "title": "5.10.3.4 Acreditacion AT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "- Instalaciones Inabensa, S.A. es la titular declarante.\n- La empresa se inscribe en el registro de establecimientos industriales con número 410/8475.\n- Cumple con los requisitos exigidos por la ley y la reglamentación específica para actividades reguladas por los reglamentos de seguridad industrial.\n- Aseguramiento civil con límite de responsabilidad de 16.000.000 €.\n- Personal calificado según lo establecido en la normativa.\n- Manuel Gil Calderón certifica a José García López como poseedor del carnet de cualificación individual en alta tensión, categorías LAT1 y LAT2.\n- La certificación no capacita para el ejercicio profesional sin estar dentro de una empresa autorizada.\n- El documento fue emitido en Sevilla el 8 de abril de 2010.\n- Se requiere un código seguro de verificación para verificar la integridad del documento electrónico.",
+  "summary_points": [
+    "Instalaciones Inabensa, S.A. es la titular declarante.",
+    "La empresa se inscribe en el registro de establecimientos industriales con número 410/8475.",
+    "Cumple con los requisitos exigidos por la ley y la reglamentación específica para actividades reguladas por los reglamentos de seguridad industrial.",
+    "Aseguramiento civil con límite de responsabilidad de 16.000.000 €.",
+    "Personal calificado según lo establecido en la normativa.",
+    "Manuel Gil Calderón certifica a José García López como poseedor del carnet de cualificación individual en alta tensión, categorías LAT1 y LAT2.",
+    "La certificación no capacita para el ejercicio profesional sin estar dentro de una empresa autorizada.",
+    "El documento fue emitido en Sevilla el 8 de abril de 2010.",
+    "Se requiere un código seguro de verificación para verificar la integridad del documento electrónico."
+  ],
+  "keywords": [
+    "Ley 21/1992, de 16 de julio, de industria",
+    "Real Decreto 223/2008, de 15 de febrero",
+    "CNAE-2009: 1507 y 504.4",
+    "R.D. 233/2008",
+    "ITC-AT-01 AL 09",
+    "Ley 59/2003, de 19 de diciembre"
+  ],
+  "references": [
+    "Ley 21/1992, de 16 de julio, de industria",
+    "Real Decreto 223/2008, de 15 de febrero",
+    "CNAE-2009: 1507 y 504.4",
+    "R.D. 233/2008",
+    "ITC-AT-01 AL 09",
+    "Ley 59/2003, de 19 de diciembre"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5413efeb7a829668.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5413efeb7a829668.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T22:48:19.475978+00:00",
+  "usage": {
+    "input_tokens": 3306,
+    "output_tokens": 1716,
+    "calls": 2
+  },
+  "repaired_calls": 0,
+  "chunk_count": 2,
+  "completed_chunks": 2,
+  "completed": true,
+  "text_chars": 8764
+}

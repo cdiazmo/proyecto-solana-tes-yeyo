@@ -1,0 +1,43 @@
+{
+  "doc_id": "21dbf6ce3955712a",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-N-11F-CS31-2_Sht_1_R4.pdf",
+  "title": "252-N-11F-CS31-2 Sht 1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe and fitting specifications for a construction project.",
+  "summary_points": [
+    "Document detailing pipe and fitting specifications for a construction project."
+  ],
+  "keywords": [
+    "pipe",
+    "fitting",
+    "construction",
+    "API 5LGrade B",
+    "ANSI B16.9",
+    "ASTM A234GR.WPB2"
+  ],
+  "references": [
+    "252-N-11F-CS31-2",
+    "FB58V CL 300",
+    "2ELBOW LR ANSI B16.9 BW ASTM A234GR.WPB2"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares, texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/21dbf6ce3955712a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/21dbf6ce3955712a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:27:28.698254+00:00",
+  "usage": {
+    "input_tokens": 1173,
+    "output_tokens": 685,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1145
+}

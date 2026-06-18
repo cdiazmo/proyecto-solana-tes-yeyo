@@ -1,0 +1,45 @@
+{
+  "doc_id": "8ad8694865601082",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT-DOT-0022 RFI 015 Soporte restante/TMT-DOT-0022 - RFI-015 Remaining Suports Transmittal 12-5-2018.pdf",
+  "title": "TMT-DOT-0022 - RFI-015 Remaining Suports Transmittal 12-5-2018",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Transmisión de documentos técnicos relacionados con soportes de tuberías para RFI 015.",
+  "summary_points": [
+    "Transmisión de documentos técnicos relacionados con soportes de tuberías para RFI 015."
+  ],
+  "keywords": [
+    "RFI 015",
+    "soportes de tuberías",
+    "transmisión",
+    "aprobación",
+    "correcciones"
+  ],
+  "references": [
+    "4521-PLN-DOT-39-63-0901",
+    "4521-PLN-DOT-75-63-0241",
+    "4521-PLN-DOT-75-63-0265",
+    "4521-PLN-DOT-75-63-0272",
+    "4521-PLN-DOT-75-63-0273",
+    "4521-PLN-DOT-75-63-0347"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en 'MS typical pipe s upport'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8ad8694865601082.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8ad8694865601082.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:33:15.701714+00:00",
+  "usage": {
+    "input_tokens": 997,
+    "output_tokens": 525,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1376
+}

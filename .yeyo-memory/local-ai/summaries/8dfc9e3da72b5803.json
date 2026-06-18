@@ -1,0 +1,45 @@
+{
+  "doc_id": "8dfc9e3da72b5803",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-68-51-0001-GAR-901_Rev02_Layout_new_exchangers.xlsx",
+  "title": "4521-PLN-AEE-68-51-0001-GAR-901 Rev02 Layout new exchangers",
+  "doc_code": "4521-PLN-AEE-68-51-0001",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico sobre el diseño y revisión del layout de exchangers para la reemplazo HEX TES Solana, con detalles sobre los cambios realizados y las observaciones del cliente.",
+  "summary_points": [
+    "Documento técnico sobre el diseño y revisión del layout de exchangers para la reemplazo HEX TES Solana, con detalles sobre los cambios realizados y las observaciones del cliente."
+  ],
+  "keywords": [
+    "TCS",
+    "Layout new exchangers",
+    "HEX replacement TES Solana",
+    "Abeinsa Engineering",
+    "Input data change",
+    "Design change",
+    "Client comments",
+    "Document history"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-51-0001-GAR Rev 02 Layout new exchangers",
+    "4521_PLN_ANC_00_00_L102_rev7",
+    "4521_PLN_ANC_00_00_L102_rev15"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8dfc9e3da72b5803.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8dfc9e3da72b5803.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T11:52:37.403941+00:00",
+  "usage": {
+    "input_tokens": 1806,
+    "output_tokens": 653,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3708
+}

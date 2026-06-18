@@ -1,0 +1,45 @@
+{
+  "doc_id": "3857b42f212f5385",
+  "path": "04 GD Fabricacon LOI TES 3/Planificacion/195 02 01 Planning equipment 20191029.pdf",
+  "title": "195 02 01 Planning equipment 20191029",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Este documento detalla la planificación de equipos para una obra, incluyendo tareas como recepción de materiales, instalación de baffles, tuberías y cámaras, así como pruebas de hidrostática y preparación para el transporte.",
+  "summary_points": [
+    "Este documento detalla la planificación de equipos para una obra, incluyendo tareas como recepción de materiales, instalación de baffles, tuberías y cámaras, así como pruebas de hidrostática y preparación para el transporte."
+  ],
+  "keywords": [
+    "Planificación",
+    "Equipos",
+    "Tareas",
+    "Recepción de Materiales",
+    "Baffles",
+    "Tuberías",
+    "Cámaras",
+    "Pruebas Hidrostáticas",
+    "Preparación para Transporte"
+  ],
+  "references": [
+    "Atlantica Yield",
+    "Aceite Sales Solana 2ª parte Rev 0 / 19‐09‐19"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas fechas y números"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3857b42f212f5385.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3857b42f212f5385.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T02:10:14.062962+00:00",
+  "usage": {
+    "input_tokens": 3778,
+    "output_tokens": 2276,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 5251
+}

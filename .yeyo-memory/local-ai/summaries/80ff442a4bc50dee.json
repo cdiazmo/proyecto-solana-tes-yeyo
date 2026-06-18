@@ -1,0 +1,45 @@
+{
+  "doc_id": "80ff442a4bc50dee",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/M&P/PLN/4521-PLN-AEE-73-00-0001-GAR_rev.01_Hazardous area classification.pdf",
+  "title": "4521-PLN-AEE-73-00-0001-GAR rev.01 Hazardous area classification",
+  "doc_code": "4521-PLN-AEE-73-00-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document outlining hazardous area classification for molten salt-HTF heat exchangers with layout updates and revision history.",
+  "summary_points": [
+    "Document outlining hazardous area classification for molten salt-HTF heat exchangers with layout updates and revision history."
+  ],
+  "keywords": [
+    "Hazardous Area Classification",
+    "Molten Salt-HTF Heat Exchangers",
+    "Layout Update",
+    "Revision History",
+    "Confidential Information",
+    "Drawing Number",
+    "Issue Date",
+    "Purpose of Issue"
+  ],
+  "references": [
+    "4521-PLN-AEE-73-00-0001-GAR_rev.01_Hazardous area classification.pdf",
+    "Teyma USA & Abener Engineering and Construction Services General Partnership"
+  ],
+  "warnings": [
+    "OCR issues detected in some text sections.",
+    "Drawing numbers and dates may be incomplete or unclear."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/80ff442a4bc50dee.md",
+  "source_extracted_path": ".yeyo-memory/extracted/80ff442a4bc50dee.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T11:51:06.932991+00:00",
+  "usage": {
+    "input_tokens": 1343,
+    "output_tokens": 385,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2326
+}

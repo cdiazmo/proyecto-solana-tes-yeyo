@@ -1,0 +1,43 @@
+{
+  "doc_id": "c08384f7d1408e83",
+  "path": "Documentacion con sello PE 08/Paquete de construccion SMWP/Tuberia/PLN/Soportes para tuberías MS/4521-PLN-DOT-75-63-0333.pdf",
+  "title": "4521-PLN-DOT-75-63-0333",
+  "doc_code": "4521-PLN-DOT-75-63-0333",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "This document provides technical details for support structures, including dimensions, types of shoes, and anti-lift guides. It is part of the ARIZONA SOLAR ONE project and is protected by copyright.",
+  "summary_points": [
+    "This document provides technical details for support structures, including dimensions, types of shoes, and anti-lift guides. It is part of the ARIZONA SOLAR ONE project and is protected by copyright."
+  ],
+  "keywords": [
+    "support",
+    "structure",
+    "dimensions",
+    "shoes",
+    "anti-lift guide",
+    "arizona solar one",
+    "project"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0333",
+    "Typical Standard 255-MS-11F-S-001"
+  ],
+  "warnings": [
+    "OCR issues with some text, particularly names and dates."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c08384f7d1408e83.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c08384f7d1408e83.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T13:14:41.964187+00:00",
+  "usage": {
+    "input_tokens": 1289,
+    "output_tokens": 1299,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2416
+}

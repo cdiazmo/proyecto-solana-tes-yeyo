@@ -1,0 +1,52 @@
+{
+  "doc_id": "773c9b0fa10667cf",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-063-0003-GAR_ Isometric.pdf",
+  "title": "4521-PLN-LOI-039-063-0003-GAR Isometric",
+  "doc_code": "4521-PLN-LOI-039-063-0003",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Dibujo isométrico técnico para Arizona Solar One ABENGOA Solana Generation Station. Incluye medidas y pesos en diferentes unidades, y una lista incompleta de materiales.",
+  "summary_points": [
+    "Dibujo isométrico técnico para Arizona Solar One ABENGOA Solana Generation Station. Incluye medidas y pesos en diferentes unidades, y una lista incompleta de materiales."
+  ],
+  "keywords": [
+    "Arizona Solar One",
+    "ABENGOA Solana Generation Station",
+    "General Mechanics",
+    "Isometric Projections",
+    "Scale",
+    "Date",
+    "Drawing No.",
+    "Int. Drawing No.",
+    "EPC Contractor",
+    "Measurements",
+    "Weights",
+    "Materials"
+  ],
+  "references": [
+    "4521-PLN-LOI-039-063-0003",
+    "Arizona Solar One ABENGOA Solana Generation Station",
+    "General Mechanics",
+    "Isometric Projections"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares del texto.",
+    "Falta de información sobre el cliente, proyecto y escala.",
+    "La lista de materiales no está completa."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/773c9b0fa10667cf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/773c9b0fa10667cf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T06:11:33.185075+00:00",
+  "usage": {
+    "input_tokens": 766,
+    "output_tokens": 525,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1201
+}

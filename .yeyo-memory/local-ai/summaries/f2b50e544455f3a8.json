@@ -1,0 +1,44 @@
+{
+  "doc_id": "f2b50e544455f3a8",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/252-N-10F-CS31-2_Sht_1_R4.pdf",
+  "title": "252-N-10F-CS31-2 Sht 1 R4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document contains details on pipe, fittings, valves, and support for a construction project.",
+  "summary_points": [
+    "Document contains details on pipe, fittings, valves, and support for a construction project."
+  ],
+  "keywords": [
+    "pipe",
+    "fittings",
+    "valves",
+    "support",
+    "construction"
+  ],
+  "references": [
+    "252-N-10F-CS31-2",
+    "4XV 625516",
+    "FB58V CL 300",
+    "API 5LGrade B",
+    "ANSI B16.9"
+  ],
+  "warnings": [
+    "Text is partially OCR'd and contains non-standard characters."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f2b50e544455f3a8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f2b50e544455f3a8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:26:25.148463+00:00",
+  "usage": {
+    "input_tokens": 1162,
+    "output_tokens": 287,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1121
+}

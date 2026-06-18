@@ -1,0 +1,42 @@
+{
+  "doc_id": "917e8c0376092a33",
+  "path": "01 GD AE/I&C/HDD/4521-HDD-AGE-39-70-0013-GAR_901_Level transmitter.xlsx",
+  "title": "4521-HDD-AGE-39-70-0013-GAR 901 Level transmitter",
+  "doc_code": "4521-HDD-AGE-39-70-0013",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, focusing on input data calibration and design changes.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, focusing on input data calibration and design changes."
+  ],
+  "keywords": [
+    "4521-HDD-AGE-39-70-0013-GAR_901",
+    "HEX replacement TES Solana",
+    "calibration",
+    "input data",
+    "design change"
+  ],
+  "references": [
+    "4521-PLN-AEE-68-71-P279-GAR_Rev01",
+    "4521-HDD-AEE-075-064-0010-GAR Rev,02"
+  ],
+  "warnings": [
+    "Text incomplete in 'Reason for revision', 'Mistakes' and 'Execution process update'.",
+    "OCR issues with some text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/917e8c0376092a33.md",
+  "source_extracted_path": ".yeyo-memory/extracted/917e8c0376092a33.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-17T15:44:00.852920+00:00",
+  "usage": {
+    "input_tokens": 1271,
+    "output_tokens": 404,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2475
+}
