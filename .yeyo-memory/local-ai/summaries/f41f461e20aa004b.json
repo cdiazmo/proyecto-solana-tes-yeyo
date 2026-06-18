@@ -1,0 +1,48 @@
+{
+  "doc_id": "f41f461e20aa004b",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.3 CIEAT HII.pdf",
+  "title": "5.10.3.3 CIEAT HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación para la planta termosolar Helios II, con detalles técnicos del centro de transformación y subestación transformadora.",
+  "summary_points": [
+    "Certificado de instalación para la planta termosolar Helios II, con detalles técnicos del centro de transformación y subestación transformadora."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "planta termosolar",
+    "centro de transformación",
+    "subestación transformadora",
+    "alta tensión",
+    "KONKAR",
+    "QSIBFT10",
+    "QSIBFT20",
+    "QSIBFT30",
+    "QSIBFT40"
+  ],
+  "references": [
+    "HELIOS II HYPERION ENERGY INVESTMENTS, S.L. B85588523",
+    "INSTALACIONES INABENSA, S.A.",
+    "SS CASTILLA RASTROLLO"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f41f461e20aa004b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f41f461e20aa004b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:08:11.300579+00:00",
+  "usage": {
+    "input_tokens": 1785,
+    "output_tokens": 1497,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3478
+}

@@ -1,0 +1,49 @@
+{
+  "doc_id": "b2c7d0d8abbe59b4",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.6 Formulario PS.pdf",
+  "title": "5.7.4.6 Formulario PS",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Formulario PS para la instalación de baja tensión, aparatos a presión y protección de incendios en nave de montaje y almacenamiento de colectores cilíndrico-parabólicos.",
+  "summary_points": [
+    "Formulario PS para la instalación de baja tensión, aparatos a presión y protección de incendios en nave de montaje y almacenamiento de colectores cilíndrico-parabólicos."
+  ],
+  "keywords": [
+    "Formulario PS",
+    "Instalación Baja Tensión",
+    "Aparatos A Presión",
+    "Protección Incendios",
+    "Nave Montaje",
+    "Almacenamiento Colectores",
+    "HELIOS |",
+    "Finca El Silo",
+    "Castilla La Mancha"
+  ],
+  "references": [
+    "3455/10",
+    "Certificado Final de Obra de Instalaciones de Baja Tensión",
+    "Certificado Final de Obra de Instalaciones de Aparatos A Presión",
+    "Seguro",
+    "Declaración de conformidad",
+    "Seguro de Responsabilidad Civil"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b2c7d0d8abbe59b4.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b2c7d0d8abbe59b4.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:53:37.701473+00:00",
+  "usage": {
+    "input_tokens": 2060,
+    "output_tokens": 947,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2459
+}

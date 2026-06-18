@@ -1,0 +1,47 @@
+{
+  "doc_id": "7e69ccc2df393668",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.5 Cert OCA.pdf",
+  "title": "5.7.4.5 Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de inspección eléctrica de baja tensión para la instalación del Helios I en Sevilla, con potencia instalada de 139,33 kW y sin defectos.",
+  "summary_points": [
+    "Certificado de inspección eléctrica de baja tensión para la instalación del Helios I en Sevilla, con potencia instalada de 139,33 kW y sin defectos."
+  ],
+  "keywords": [
+    "certificado",
+    "inspección",
+    "instalación eléctrica",
+    "baja tensión",
+    "Helios I",
+    "Sevilla",
+    "potencia",
+    "resistencia a tierra",
+    "alumbrado"
+  ],
+  "references": [
+    "13230419888 A",
+    "OC-1/034",
+    "11CR200270/C-BT-38",
+    "RD 842/2002"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7e69ccc2df393668.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7e69ccc2df393668.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:26:33.814014+00:00",
+  "usage": {
+    "input_tokens": 2038,
+    "output_tokens": 736,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4504
+}

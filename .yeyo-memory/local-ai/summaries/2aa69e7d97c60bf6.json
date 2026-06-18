@@ -1,0 +1,44 @@
+{
+  "doc_id": "2aa69e7d97c60bf6",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.8 APM LAAT.pdf",
+  "title": "5.10.1.8 APM LAAT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de autorización para la puesta en marcha de una instalación eléctrica que evacúa energía de subestaciones colectoras a una subestación de Red Eléctrica.",
+  "summary_points": [
+    "Resolución de autorización para la puesta en marcha de una instalación eléctrica que evacúa energía de subestaciones colectoras a una subestación de Red Eléctrica."
+  ],
+  "keywords": [
+    "Helios",
+    "Hyperion Energy Investments",
+    "Instalación eléctrica",
+    "Evacuación de energía",
+    "Subestaciones",
+    "Red Eléctrica"
+  ],
+  "references": [
+    "HELIOS 1 HYPERION ENERGY INVESTMENTS, S.L.",
+    "Real Decreto 1955/2000",
+    "Ley 54/1997",
+    "Decreto 80/2007"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2aa69e7d97c60bf6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2aa69e7d97c60bf6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:13:16.854934+00:00",
+  "usage": {
+    "input_tokens": 2052,
+    "output_tokens": 635,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3893
+}

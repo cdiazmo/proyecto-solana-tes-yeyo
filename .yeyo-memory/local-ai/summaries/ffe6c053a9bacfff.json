@@ -1,0 +1,36 @@
+{
+  "doc_id": "ffe6c053a9bacfff",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/4521-PLN-LOI-039-063-0004-GAR R4_ Sht1.pdf",
+  "title": "4521-PLN-LOI-039-063-0004-GAR R4 Sht1",
+  "doc_code": "4521-PLN-LOI-039-063-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "El texto extraído no es legible debido a problemas de OCR o formato defectuoso.",
+  "summary_points": [
+    "El texto extraído no es legible debido a problemas de OCR o formato defectuoso."
+  ],
+  "keywords": [
+    "OCR defectuoso",
+    "texto incompleto"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto no legible",
+    "Formato defectuoso"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ffe6c053a9bacfff.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ffe6c053a9bacfff.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:36:32.181390+00:00",
+  "usage": {
+    "input_tokens": 519,
+    "output_tokens": 81,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 97
+}

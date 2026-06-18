@@ -1,0 +1,46 @@
+{
+  "doc_id": "80423cc08ccbbc18",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.2 CDO.pdf",
+  "title": "5.9.5.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado técnico para instalaciones eléctricas de baja tensión ejecutadas por MEGAISA bajo la dirección técnica de Jacinto Soto Gacia-Mora.",
+  "summary_points": [
+    "Certificado técnico para instalaciones eléctricas de baja tensión ejecutadas por MEGAISA bajo la dirección técnica de Jacinto Soto Gacia-Mora."
+  ],
+  "keywords": [
+    "certificado",
+    "instalaciones eléctricas",
+    "baja tensión",
+    "MEGAISA",
+    "Jacinto Soto Gacia-Mora"
+  ],
+  "references": [
+    "Real Decreto 842/2002",
+    "ITC-BT-18",
+    "ITC-BT-19",
+    "ITC-BT-23",
+    "ITC-BT-22",
+    "ITC-BT-24",
+    "ITC-MIE-24"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/80423cc08ccbbc18.md",
+  "source_extracted_path": ".yeyo-memory/extracted/80423cc08ccbbc18.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:20:03.853566+00:00",
+  "usage": {
+    "input_tokens": 1906,
+    "output_tokens": 1545,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4172
+}

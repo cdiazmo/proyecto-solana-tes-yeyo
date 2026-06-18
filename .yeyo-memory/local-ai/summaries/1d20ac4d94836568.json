@@ -1,0 +1,46 @@
+{
+  "doc_id": "1d20ac4d94836568",
+  "path": "07 Presentado al Condado/0004_EDL/CONTRACT ANNEX_ Engineering deliverables_TES.docx",
+  "title": "CONTRACT ANNEX Engineering deliverables TES",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Documentación técnica detallada de diversos equipos y sistemas relacionados con el TES, incluyendo cálculos hidráulicos, diagramas eléctricos, listas de materiales y especificaciones técnicas.",
+  "summary_points": [
+    "Documentación técnica detallada de diversos equipos y sistemas relacionados con el TES, incluyendo cálculos hidráulicos, diagramas eléctricos, listas de materiales y especificaciones técnicas."
+  ],
+  "keywords": [
+    "TES",
+    "Drain_back_tank",
+    "Exchangers_foundation",
+    "Layout_new_exchangers",
+    "PP-6334M",
+    "HTF System ISO",
+    "Safety Showers",
+    "Manual Valve List"
+  ],
+  "references": [
+    "4521-CAL -AEE-75-52-0002-GAR",
+    "4521-MTO-AEE-75-52-0002-GAR",
+    "4521-HDD-AEE-00-64-0001",
+    "4521-LIS-AEE-39-61-0001"
+  ],
+  "warnings": [
+    "Texto incompleto en 'M&P | 4521-CAL -AEE-58-11-0002-GAR | TES Circuit Hydraulic Calculation'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1d20ac4d94836568.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1d20ac4d94836568.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:41:27.660966+00:00",
+  "usage": {
+    "input_tokens": 3123,
+    "output_tokens": 3047,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4975
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "e68ba2f5105a0e17",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.3 PCI/5.7.3.2 CDO.pdf",
+  "title": "5.7.3.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "PCI",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificación de instalación contra incendios para nave de montaje y almacenamiento de colectores cilíndricos-parabólicos en Arenas de San Juan, Ciudad Real. Cumple con las normativas de seguridad contra incendios y ha sido ejecutada por Eléctrica Valverdeña, S.L.",
+  "summary_points": [
+    "Certificación de instalación contra incendios para nave de montaje y almacenamiento de colectores cilíndricos-parabólicos en Arenas de San Juan, Ciudad Real. Cumple con las normativas de seguridad contra incendios y ha sido ejecutada por Eléctrica Valverdeña, S.L."
+  ],
+  "keywords": [
+    "certificación",
+    "instalación",
+    "protección contra incendios",
+    "naves de montaje",
+    "almacenamiento",
+    "colectores cilíndricos-parabólicos",
+    "Arenas de San Juan",
+    "Ciudad Real",
+    "Eléctrica Valverdeña, S.L"
+  ],
+  "references": [
+    "Real Decreto 2267/2004",
+    "Real Decreto 1942/1993",
+    "PCI-I/H/21/44 PCE — M/H/21/38"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e68ba2f5105a0e17.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e68ba2f5105a0e17.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:00:51.119574+00:00",
+  "usage": {
+    "input_tokens": 1393,
+    "output_tokens": 936,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2965
+}

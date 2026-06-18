@@ -1,0 +1,40 @@
+{
+  "doc_id": "25c3ec5e97697055",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/120224 Solicitud baja 15 kV.pdf",
+  "title": "120224 Solicitud baja 15 kV",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Ricardo Valeriano Lorenzo Rasines, representante legal de Valeriano Lorenzo, S.A., solicita la baja de expedientes de líneas eléctricas de 15 kV y las instalaciones industriales asociadas en anstancia.",
+  "summary_points": [
+    "Ricardo Valeriano Lorenzo Rasines, representante legal de Valeriano Lorenzo, S.A., solicita la baja de expedientes de líneas eléctricas de 15 kV y las instalaciones industriales asociadas en anstancia."
+  ],
+  "keywords": [
+    "Solicitud",
+    "Baja",
+    "Expedientes",
+    "Líneas Eléctricas",
+    "15 kV",
+    "Valeriano Lorenzo, S.A.",
+    "Ricardo Valeriano Lorenzo Rasines"
+  ],
+  "references": [],
+  "warnings": [
+    "El texto contiene caracteres especiales que pueden no ser correctos (por ejemplo, '' en lugar de 'á')."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/25c3ec5e97697055.md",
+  "source_extracted_path": ".yeyo-memory/extracted/25c3ec5e97697055.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:48:20.426767+00:00",
+  "usage": {
+    "input_tokens": 1186,
+    "output_tokens": 465,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2172
+}

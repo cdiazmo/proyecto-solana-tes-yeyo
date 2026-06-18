@@ -1,0 +1,43 @@
+{
+  "doc_id": "780598edc9fe5a45",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.2 CDO.pdf",
+  "title": "5.9.4.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificación técnica de instalaciones eléctricas de baja tensión para bombeo de aguas, ejecutadas por MEGAMISA bajo la dirección técnica de Jacinto Soto García-Mora.",
+  "summary_points": [
+    "Certificación técnica de instalaciones eléctricas de baja tensión para bombeo de aguas, ejecutadas por MEGAMISA bajo la dirección técnica de Jacinto Soto García-Mora."
+  ],
+  "keywords": [
+    "certificado",
+    "instalaciones eléctricas",
+    "bombeo de aguas",
+    "MEGAMISA",
+    "Jacinto Soto García-Mora",
+    "Real Decreto 842/2002",
+    "norma 93/68/CE"
+  ],
+  "references": [
+    "Real Decreto 842/2002",
+    "norma 93/68/CE"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes, especialmente nombres y fechas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/780598edc9fe5a45.md",
+  "source_extracted_path": ".yeyo-memory/extracted/780598edc9fe5a45.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:16:07.617869+00:00",
+  "usage": {
+    "input_tokens": 1878,
+    "output_tokens": 1212,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4075
+}

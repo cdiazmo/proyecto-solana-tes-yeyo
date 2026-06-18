@@ -1,0 +1,48 @@
+{
+  "doc_id": "e779b72b9887f2b9",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.4 Cert OCA.pdf",
+  "title": "5.9.4.4 Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de inspección de instalación eléctrica de baja tensión para una planta solar termoeléctrica Helios I en Puerto Lápice, Sevilla. La instalación cumple con el Reglamento Electrotécnico y no presenta defectos.",
+  "summary_points": [
+    "Certificado de inspección de instalación eléctrica de baja tensión para una planta solar termoeléctrica Helios I en Puerto Lápice, Sevilla. La instalación cumple con el Reglamento Electrotécnico y no presenta defectos."
+  ],
+  "keywords": [
+    "certificado",
+    "inspección",
+    "instalación eléctrica",
+    "baja tensión",
+    "planta solar termoeléctrica",
+    "Helios I",
+    "Puerto Lápice",
+    "Sevilla",
+    "aprobado",
+    "garantía de calidad"
+  ],
+  "references": [
+    "RD 842/2002",
+    "ITC-BT-05",
+    "Applus Norcontrol",
+    "HELIOS I HYPERION ENERGY INVESTMENTS, S.L."
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e779b72b9887f2b9.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e779b72b9887f2b9.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:28:04.038931+00:00",
+  "usage": {
+    "input_tokens": 2053,
+    "output_tokens": 672,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4622
+}

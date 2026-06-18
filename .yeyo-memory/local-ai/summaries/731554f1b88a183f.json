@@ -1,0 +1,45 @@
+{
+  "doc_id": "731554f1b88a183f",
+  "path": "01 GD AE/Compras/03 Deposito drenaje/02 Propuestas/Ryan Herco/QUOTE MT-259 TANK DB SALT 12 22 16.pdf",
+  "title": "QUOTE MT-259 TANK DB SALT 12 22 16",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "MT-259 drain back tank quote for Abengoa Solar LLC. Price: $55,250.00, delivery time: 8 weeks.",
+  "summary_points": [
+    "MT-259 drain back tank quote for Abengoa Solar LLC. Price: $55,250.00, delivery time: 8 weeks."
+  ],
+  "keywords": [
+    "MT-259",
+    "drain back tank",
+    "Abengoa Solar LLC",
+    "quote",
+    "price",
+    "delivery time"
+  ],
+  "references": [
+    "4521-HDD-AEE-075-064-0010-GAR",
+    "GILA BEND, AZ",
+    "/GFI02345062",
+    "/99802345064"
+  ],
+  "warnings": [
+    "Price does not include the 1% slope on bottom. Feature cannot be done.",
+    "Text incomplete at the end."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/731554f1b88a183f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/731554f1b88a183f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:35:45.235388+00:00",
+  "usage": {
+    "input_tokens": 1052,
+    "output_tokens": 319,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1625
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "6f24ffccd7bbf0aa",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.4 OCA LSAT HII.pdf",
+  "title": "5.10.1.4 OCA LSAT HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Inspección inicial favorable de línea eléctrica de alta tensión para Helios II, realizada por Applus Norcontrol. Instalación ubicada en LSAT 220 KV con 3 fases y conductores A2XS(FL)2Y 1X300/50.",
+  "summary_points": [
+    "Inspección inicial favorable de línea eléctrica de alta tensión para Helios II, realizada por Applus Norcontrol. Instalación ubicada en LSAT 220 KV con 3 fases y conductores A2XS(FL)2Y 1X300/50."
+  ],
+  "keywords": [
+    "Inspección inicial",
+    "Líneas eléctricas",
+    "Alta tensión",
+    "Helios II",
+    "Applus Norcontrol",
+    "ENAC",
+    "Certificado de inspección"
+  ],
+  "references": [
+    "Real Decreto 223/2008",
+    "ITC-LAT 01 a 09",
+    "BOE 30/06/97, 02/09/98 y 24/05/2001"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6f24ffccd7bbf0aa.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6f24ffccd7bbf0aa.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:08:49.932168+00:00",
+  "usage": {
+    "input_tokens": 1727,
+    "output_tokens": 810,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3497
+}

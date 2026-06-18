@@ -1,0 +1,40 @@
+{
+  "doc_id": "216e9f6161768b50",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.7 Cambio titularidad.pdf",
+  "title": "5.10.3.7 Cambio titularidad",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Cambio titularidad de una industria de líneas eléctricas de Valerio Last, SA a Meues T Hypemen Eberay Devesa, £ L., según lo dispuesto por la legislación vigente.",
+  "summary_points": [
+    "Cambio titularidad de una industria de líneas eléctricas de Valerio Last, SA a Meues T Hypemen Eberay Devesa, £ L., según lo dispuesto por la legislación vigente."
+  ],
+  "keywords": [
+    "cambio titularidad",
+    "industria eléctrica",
+    "Valerio Last, SA",
+    "Meues T Hypemen Eberay Devesa",
+    "legislación",
+    "Alcalde",
+    "entidad bancaria"
+  ],
+  "references": [],
+  "warnings": [
+    "El texto contiene caracteres especiales y posibles errores de OCR que pueden afectar la lectura."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/216e9f6161768b50.md",
+  "source_extracted_path": ".yeyo-memory/extracted/216e9f6161768b50.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:32:29.069228+00:00",
+  "usage": {
+    "input_tokens": 846,
+    "output_tokens": 466,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1117
+}

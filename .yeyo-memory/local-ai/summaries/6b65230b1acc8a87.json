@@ -1,0 +1,43 @@
+{
+  "doc_id": "6b65230b1acc8a87",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201-LID-002 REV 0 - Start up commissioning spare parts list.pdf",
+  "title": "1950201-LID-002 REV 0 - Start up commissioning spare parts list",
+  "doc_code": "",
+  "revision": "REV 0",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists spare parts required for the start-up commissioning of a HEX replacement TES Solana project by Arizona Solar One.",
+  "summary_points": [
+    "This document lists spare parts required for the start-up commissioning of a HEX replacement TES Solana project by Arizona Solar One."
+  ],
+  "keywords": [
+    "start up commissioning",
+    "spare parts list",
+    "Arizona Solar One",
+    "HEX replacement TES Solana",
+    "Abengoa",
+    "document management system"
+  ],
+  "references": [
+    "TD-LIS-SLN-002",
+    "1950201-LID-002",
+    "Iñigo Meca",
+    "Ruben Macho",
+    "Alberto Abad"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6b65230b1acc8a87.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6b65230b1acc8a87.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:36:09.553034+00:00",
+  "usage": {
+    "input_tokens": 1054,
+    "output_tokens": 600,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1744
+}

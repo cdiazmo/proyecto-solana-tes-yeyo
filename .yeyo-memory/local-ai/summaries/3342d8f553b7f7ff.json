@@ -1,0 +1,45 @@
+{
+  "doc_id": "3342d8f553b7f7ff",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.3 Certificado instalacion EP.pdf",
+  "title": "5.7.5.3 Certificado instalacion EP",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación de equipos a presión para la modificación en una instalación de colectores cilíndricos parabólicos.",
+  "summary_points": [
+    "Certificado de instalación de equipos a presión para la modificación en una instalación de colectores cilíndricos parabólicos."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "equipos a presión",
+    "colectores cilíndricos",
+    "parabólicos",
+    "aire comprimido",
+    "válvulas de seguridad"
+  ],
+  "references": [
+    "RD. 2060/2008",
+    "Nave C-16, Valverde del Camino, Huelva",
+    "UTE ABENER TEYMA HELIOS CAMPO DE SAN JUAN I",
+    "Eléctrica Valverdeña, S.L."
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3342d8f553b7f7ff.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3342d8f553b7f7ff.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:13:40.621863+00:00",
+  "usage": {
+    "input_tokens": 1786,
+    "output_tokens": 907,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3915
+}

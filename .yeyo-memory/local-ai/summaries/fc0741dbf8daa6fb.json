@@ -1,0 +1,45 @@
+{
+  "doc_id": "fc0741dbf8daa6fb",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.3 Cert Instalacion.pdf",
+  "title": "5.10.4.3 Cert Instalacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de alta tensión para la subestación transformadora Helios I.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de alta tensión para la subestación transformadora Helios I."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "alta tensión",
+    "subestación",
+    "transformadora",
+    "JHELIOS I",
+    "SGS",
+    "inspección"
+  ],
+  "references": [
+    "Helios I",
+    "SGS (Informe n° 911/168885/12-1)",
+    "INSTALACIONES INABENSA, S.A. DCE: 41/0944 REGISTRO 41/14,475"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fc0741dbf8daa6fb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fc0741dbf8daa6fb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:52:20.509736+00:00",
+  "usage": {
+    "input_tokens": 1243,
+    "output_tokens": 1044,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2404
+}

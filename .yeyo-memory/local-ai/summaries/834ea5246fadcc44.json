@@ -1,0 +1,45 @@
+{
+  "doc_id": "834ea5246fadcc44",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.1 LSAT HII/5.10.1.8 APM.pdf",
+  "title": "5.10.1.8 APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de autorización para la puesta en marcha de una línea subterránea de 220 kV sic, gestionada por HELIOS II HYPERION ENERGY INVESTMENTS, S.L., con visado del Colegio Oficial y certificación final del Director de Obra.",
+  "summary_points": [
+    "Resolución de autorización para la puesta en marcha de una línea subterránea de 220 kV sic, gestionada por HELIOS II HYPERION ENERGY INVESTMENTS, S.L., con visado del Colegio Oficial y certificación final del Director de Obra."
+  ],
+  "keywords": [
+    "Resolución",
+    "Autorización",
+    "Instalación Eléctrica",
+    "Línea Subterránea",
+    "HELIOS II",
+    "Colegiado",
+    "Visado",
+    "Certificación Final"
+  ],
+  "references": [
+    "13210204243",
+    "BA03152/10 - 13/10/2010",
+    "SE 1103049 - 27/12/2011"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes, especialmente nombres y fechas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/834ea5246fadcc44.md",
+  "source_extracted_path": ".yeyo-memory/extracted/834ea5246fadcc44.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:15:10.387209+00:00",
+  "usage": {
+    "input_tokens": 2069,
+    "output_tokens": 706,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3948
+}

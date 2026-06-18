@@ -1,0 +1,48 @@
+{
+  "doc_id": "683fa1a8fdb71c65",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/HELIO U3 y U4.pdf",
+  "title": "HELIO U3 y U4",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Helium Leak Test for Tube to Tubesheet Joints Tightness (T2) using Bubbles Testing Mass Spectrometer, max allowed leak after 12 hours pressurised is IO E, results satisfactory.",
+  "summary_points": [
+    "Helium Leak Test for Tube to Tubesheet Joints Tightness (T2) using Bubbles Testing Mass Spectrometer, max allowed leak after 12 hours pressurised is IO E, results satisfactory."
+  ],
+  "keywords": [
+    "Helium Leak Test",
+    "Tube to Tubesheet Joints",
+    "Bubbles Testing",
+    "Mass Spectrometer",
+    "ADIXEN ASM-142",
+    "Calibration",
+    "Max. Allowed Leak",
+    "Pressurised Equipment",
+    "Opening of Plastic Film",
+    "Results Satisfactory"
+  ],
+  "references": [
+    "FIT-ETP-01",
+    "LT-02",
+    "NX’ 4950201-DWG-002 REY 01 TEM UNIT",
+    "PFH-04"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/683fa1a8fdb71c65.md",
+  "source_extracted_path": ".yeyo-memory/extracted/683fa1a8fdb71c65.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:48:06.546545+00:00",
+  "usage": {
+    "input_tokens": 1178,
+    "output_tokens": 421,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2172
+}

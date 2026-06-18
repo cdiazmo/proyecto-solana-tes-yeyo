@@ -1,0 +1,50 @@
+{
+  "doc_id": "bfb7668c3d23c1de",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.2 EP/5.7.2.6 APM.pdf",
+  "title": "5.7.2.6 APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Registro de instalación de aire comprimido para UTE Abener Teyma Helios Campo de San Juan I, cumpliendo con normativas vigentes.",
+  "summary_points": [
+    "Registro de instalación de aire comprimido para UTE Abener Teyma Helios Campo de San Juan I, cumpliendo con normativas vigentes."
+  ],
+  "keywords": [
+    "Instalación",
+    "Aire comprimido",
+    "UTE Abener Teyma",
+    "Central Termosolar",
+    "Eléctrica Valverdeña",
+    "Real Decreto 2135/1980",
+    "Real Decreto 1244/1979",
+    "Real Decreto 769/1999",
+    "Orden de 13/03/2002",
+    "Ley 30/1992"
+  ],
+  "references": [
+    "REGISTRO. 13320000031",
+    "Real Decreto 2135/1980",
+    "Real Decreto 1244/1979",
+    "Real Decreto 769/1999",
+    "Orden de 13/03/2002",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "Fecha de registro incompleta: [RRA]"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bfb7668c3d23c1de.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bfb7668c3d23c1de.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:47:53.302027+00:00",
+  "usage": {
+    "input_tokens": 1913,
+    "output_tokens": 817,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2171
+}

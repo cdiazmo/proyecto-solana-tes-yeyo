@@ -1,0 +1,42 @@
+{
+  "doc_id": "988af6d6dcb63d65",
+  "path": "Helios Sole/Línea 15 kV/120312 Helios I Cambio titular línea 15 kV.pdf",
+  "title": "120312 Helios I Cambio titular línea 15 kV",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución del Servicio Periféricos de Fomento en Ciudad Real para el cambio de titularidad de una instalación eléctrica de alta tensión.",
+  "summary_points": [
+    "Resolución del Servicio Periféricos de Fomento en Ciudad Real para el cambio de titularidad de una instalación eléctrica de alta tensión."
+  ],
+  "keywords": [
+    "cambio de titular",
+    "instalación eléctrica",
+    "alta tensión",
+    "resolución",
+    "Servicios Periféricos de Fomento"
+  ],
+  "references": [
+    "13210201970",
+    "VALERIANO LORENZO S.A.",
+    "HELIOS | HYPERION ENERGY INVESTMENTS S.L."
+  ],
+  "warnings": [
+    "Texto en la página 3 incompleto y difícil de leer"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/988af6d6dcb63d65.md",
+  "source_extracted_path": ".yeyo-memory/extracted/988af6d6dcb63d65.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:04:40.659625+00:00",
+  "usage": {
+    "input_tokens": 1687,
+    "output_tokens": 398,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3193
+}

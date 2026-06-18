@@ -1,0 +1,42 @@
+{
+  "doc_id": "22ddf06e58c0f3fe",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-75-52-0005-GAR-901_Rev00_TES_Platform_proposal_reinf.xlsx",
+  "title": "4521-PLN-AEE-75-52-0005-GAR-901 Rev00 TES Platform proposal reinf",
+  "doc_code": "4521-PLN-AEE-75-52-0005",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Technical Comment Sheet for HEX replacement TES Solana, version 0 from 2017-03-31. Includes support loads and client comments.",
+  "summary_points": [
+    "Technical Comment Sheet for HEX replacement TES Solana, version 0 from 2017-03-31. Includes support loads and client comments."
+  ],
+  "keywords": [
+    "TCS",
+    "TES Platform",
+    "HEX replacement",
+    "Support Loads",
+    "Client Comments"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0005-GAR-901",
+    "4521-TMT-AEE-AEPC-0068",
+    "IFD"
+  ],
+  "warnings": [
+    "#VALUE! entries in some fields, possibly OCR errors"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/22ddf06e58c0f3fe.md",
+  "source_extracted_path": ".yeyo-memory/extracted/22ddf06e58c0f3fe.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:48:31.627693+00:00",
+  "usage": {
+    "input_tokens": 1148,
+    "output_tokens": 369,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2213
+}

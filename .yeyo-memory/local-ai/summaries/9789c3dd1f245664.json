@@ -1,0 +1,43 @@
+{
+  "doc_id": "9789c3dd1f245664",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.3 Certificado LSAT.pdf",
+  "title": "5.10.1.3 Certificado LSAT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación de líneas eléctricas de alta tensión para el proyecto LSAT en Arenas de San Juan y Puerto Lápice, realizada por Instalaciones Insabensa, S.A. y supervisada por Applus Norcontrol, S.L.U.",
+  "summary_points": [
+    "Certificado de instalación de líneas eléctricas de alta tensión para el proyecto LSAT en Arenas de San Juan y Puerto Lápice, realizada por Instalaciones Insabensa, S.A. y supervisada por Applus Norcontrol, S.L.U."
+  ],
+  "keywords": [
+    "Certificado LSAT",
+    "Instalación eléctrica",
+    "220 kV",
+    "Arenas de San Juan",
+    "Puerto Lápice",
+    "Insabensa, S.A.",
+    "Applus Norcontrol, S.L.U.",
+    "Real Decreto 223/2008"
+  ],
+  "references": [
+    "Real Decreto 223/2008",
+    "ITC-LAT 01 a 09",
+    "BA03163/10"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9789c3dd1f245664.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9789c3dd1f245664.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:23:37.743789+00:00",
+  "usage": {
+    "input_tokens": 1986,
+    "output_tokens": 1330,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4356
+}

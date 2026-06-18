@@ -1,0 +1,40 @@
+{
+  "doc_id": "5060bafe6d02f0f2",
+  "path": "Documentos en Servidor Atlántica/E87-15-3020-FT-026-000003-5 P&ID.pdf",
+  "title": "E87-15-3020-FT-026-000003-5 P&ID",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Planos modificados por LOINTEK para el proyecto de almacenamiento térmico, incluyendo puntos terminales.",
+  "summary_points": [
+    "Planos modificados por LOINTEK para el proyecto de almacenamiento térmico, incluyendo puntos terminales."
+  ],
+  "keywords": [
+    "P&ID",
+    "sh 3 A5",
+    "sh 3 A6",
+    "sh 3 K3",
+    "puntos terminales",
+    "LOINTEK",
+    "almacenamiento térmico"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso en algunas páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5060bafe6d02f0f2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5060bafe6d02f0f2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:38:30.884477+00:00",
+  "usage": {
+    "input_tokens": 659,
+    "output_tokens": 216,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 539
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "2a9bba4df2dc4895",
+  "path": "Helios Sole/Línea 15 kV/120227 Helios I Remisión Justificación AT.pdf",
+  "title": "120227 Helios I Remisión Justificación AT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Justificación técnica para la instalación eléctrica de alta tensión en el Paraje Silo del Conde, incluyendo requisitos de documentación y inspecciones.",
+  "summary_points": [
+    "Justificación técnica para la instalación eléctrica de alta tensión en el Paraje Silo del Conde, incluyendo requisitos de documentación y inspecciones."
+  ],
+  "keywords": [
+    "Instalación Eléctrica",
+    "Alta Tensión",
+    "Paraje Silo del Conde",
+    "Reforma de Línea",
+    "Suministro a Planta Termosolar",
+    "Certificado de Dirección",
+    "Contrato de Mantenimiento"
+  ],
+  "references": [
+    "13210201970",
+    "Real Decreto 2135/1980",
+    "Orden del Ministerio de Industria y Energía de 19 de diciembre de 1980"
+  ],
+  "warnings": [
+    "Texto en la página 3 incompleto o defectuoso"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2a9bba4df2dc4895.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2a9bba4df2dc4895.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:25:20.617673+00:00",
+  "usage": {
+    "input_tokens": 1902,
+    "output_tokens": 583,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4421
+}

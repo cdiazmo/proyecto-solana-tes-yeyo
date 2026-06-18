@@ -1,0 +1,41 @@
+{
+  "doc_id": "cf2eb48f59d46971",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/120117 Solicitud cambio de titularidad línea 15kV.pdf",
+  "title": "120117 Solicitud cambio de titularidad línea 15kV",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de cambio de titularidad para una industria en Ciudad Real, con detalles del vendedor y del proceso legal requerido.",
+  "summary_points": [
+    "Solicitud de cambio de titularidad para una industria en Ciudad Real, con detalles del vendedor y del proceso legal requerido."
+  ],
+  "keywords": [
+    "cambio de titularidad",
+    "industria",
+    "Ciudad Real",
+    "vendedor",
+    "arrendador",
+    "legislación",
+    "Alcalde",
+    "entidad bancaria"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso, posibles errores en nombres y direcciones"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/cf2eb48f59d46971.md",
+  "source_extracted_path": ".yeyo-memory/extracted/cf2eb48f59d46971.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:34:10.882542+00:00",
+  "usage": {
+    "input_tokens": 816,
+    "output_tokens": 564,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1317
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "853154a016261bc1",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.4 Cert OCA.pdf",
+  "title": "5.9.7.4 Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificación de instalación eléctrica de baja tensión para la planta solar térmica Helios I en Villarta de San Juan, Ciudad Real. Instalada con potencia máxima admisible de 500 Kw y cumplida con el Reglamento Electrotécnico para Baja Tensión R.D 842/2002.",
+  "summary_points": [
+    "Certificación de instalación eléctrica de baja tensión para la planta solar térmica Helios I en Villarta de San Juan, Ciudad Real. Instalada con potencia máxima admisible de 500 Kw y cumplida con el Reglamento Electrotécnico para Baja Tensión R.D 842/2002."
+  ],
+  "keywords": [
+    "Certificado",
+    "Inspección",
+    "Instalación Eléctrica",
+    "Baja Tensión",
+    "Helios I",
+    "Planta Solar Térmica",
+    "Villarta de San Juan",
+    "Applus Norcontrol",
+    "Garantía de Calidad"
+  ],
+  "references": [
+    "OC-1/034",
+    "ITC-BT-05",
+    "R.D 842/2002"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/853154a016261bc1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/853154a016261bc1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:29:29.780009+00:00",
+  "usage": {
+    "input_tokens": 2116,
+    "output_tokens": 764,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4757
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "cd1c45adc1af69a5",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/257-MS-10F-CS31-4_Rev03_Sht_1.pdf",
+  "title": "257-MS-10F-CS31-4 Rev03 Sht 1",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico con detalles de tuberías, válvulas y piezas de instalación. Incluye referencias a documentos y comentarios de revisión.",
+  "summary_points": [
+    "Documento técnico con detalles de tuberías, válvulas y piezas de instalación. Incluye referencias a documentos y comentarios de revisión."
+  ],
+  "keywords": [
+    "tubería",
+    "valvula",
+    "pieza de instalación",
+    "documentos técnicos",
+    "referencias"
+  ],
+  "references": [
+    "M1D_6-MT-252E",
+    "JSMMTGJMRL",
+    "AY comments",
+    "HEXJNGMTGJMRL",
+    "DOTecDOTecDOTec",
+    "311'-11\"3",
+    "RLWAS-BUILT"
+  ],
+  "warnings": [
+    "OCR dudoso en varios lugares del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/cd1c45adc1af69a5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/cd1c45adc1af69a5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:38:51.154014+00:00",
+  "usage": {
+    "input_tokens": 1653,
+    "output_tokens": 1295,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1734
+}

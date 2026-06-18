@@ -1,0 +1,43 @@
+{
+  "doc_id": "73a38ff00527b631",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Ensival/ALTERNATIVE PROPOSAL_80VNY65-20-3R_EMI1602682.pdf",
+  "title": "ALTERNATIVE PROPOSAL 80VNY65-20-3R EMI1602682",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "TES drain tank pump technical specifications including model, operating data, fluid properties, and design point efficiency.",
+  "summary_points": [
+    "TES drain tank pump technical specifications including model, operating data, fluid properties, and design point efficiency."
+  ],
+  "keywords": [
+    "TES drain tank pump",
+    "80VNY65-20-3R",
+    "Molten Salt",
+    "NPSHr",
+    "Efficiency",
+    "Flow Rate",
+    "Head"
+  ],
+  "references": [
+    "RFQ - 2.8.16 CUR1602682B3",
+    "Arizona Solar One LLC"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos valores numéricos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/73a38ff00527b631.md",
+  "source_extracted_path": ".yeyo-memory/extracted/73a38ff00527b631.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:58:08.353124+00:00",
+  "usage": {
+    "input_tokens": 1787,
+    "output_tokens": 518,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2708
+}

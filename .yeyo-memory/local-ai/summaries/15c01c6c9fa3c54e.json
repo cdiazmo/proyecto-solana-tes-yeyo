@@ -1,0 +1,44 @@
+{
+  "doc_id": "15c01c6c9fa3c54e",
+  "path": "Helios Sole/LSAT - LAAT Helios I/1.6.15 LO_LA ASJ SE Col.pdf",
+  "title": "1.6.15 LO LA ASJ SE Col",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Licencia concedida a ABENGOA SOLAR para la realización de infraestructuras de evacuación termosolar en Arenas de San Juan, Ciudad Real.",
+  "summary_points": [
+    "Licencia concedida a ABENGOA SOLAR para la realización de infraestructuras de evacuación termosolar en Arenas de San Juan, Ciudad Real."
+  ],
+  "keywords": [
+    "licencia",
+    "ABENGOA SOLAR",
+    "infraestructuras",
+    "evacuación",
+    "termosolar",
+    "Ayuntamiento",
+    "Ciudad Real"
+  ],
+  "references": [
+    "Real Decreto 1.829/78",
+    "Caja Rural de Ciudad Real",
+    "CCM"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/15c01c6c9fa3c54e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/15c01c6c9fa3c54e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:24:20.439060+00:00",
+  "usage": {
+    "input_tokens": 3303,
+    "output_tokens": 1429,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4414
+}

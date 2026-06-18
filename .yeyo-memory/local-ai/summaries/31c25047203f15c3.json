@@ -1,0 +1,48 @@
+{
+  "doc_id": "31c25047203f15c3",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.2 CDO.pdf",
+  "title": "5.9.6.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado técnico de instalaciones eléctricas bajo la dirección técnica de un colegiado del Colegio Oficial de Peritos e Ingenieros Técnicos Industriales de Badajoz.",
+  "summary_points": [
+    "Certificado técnico de instalaciones eléctricas bajo la dirección técnica de un colegiado del Colegio Oficial de Peritos e Ingenieros Técnicos Industriales de Badajoz."
+  ],
+  "keywords": [
+    "certificado",
+    "instalaciones eléctricas",
+    "Real Decreto 842/2002",
+    "tensión suministro",
+    "potencia instalada",
+    "protecciones diferenciales"
+  ],
+  "references": [
+    "Real Decreto 842/2002",
+    "ITC-BT-18",
+    "ITC-BT-19",
+    "ITC-BT-23",
+    "ITC-BT-22",
+    "ITC-BT-24",
+    "ITC-MIE-24"
+  ],
+  "warnings": [
+    "Datos técnicos incompletos",
+    "Firma del técnico director de obra no especificada"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/31c25047203f15c3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/31c25047203f15c3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:24:44.750975+00:00",
+  "usage": {
+    "input_tokens": 1981,
+    "output_tokens": 838,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4415
+}

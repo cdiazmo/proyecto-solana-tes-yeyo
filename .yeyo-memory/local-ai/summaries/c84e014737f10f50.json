@@ -1,0 +1,42 @@
+{
+  "doc_id": "c84e014737f10f50",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/255-MS-07F-CS31-4_Sht_1_R2.pdf",
+  "title": "255-MS-07F-CS31-4 Sht 1 R2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe schedule and fittings for project 255-MS-07F-CS31-4, including dimensions and locations.",
+  "summary_points": [
+    "Document detailing pipe schedule and fittings for project 255-MS-07F-CS31-4, including dimensions and locations."
+  ],
+  "keywords": [
+    "pipe schedule",
+    "fittings",
+    "project 255-MS-07F-CS31-4",
+    "dimensions",
+    "locations"
+  ],
+  "references": [
+    "255-MS-07F-CS31-4",
+    "JSMMTGJMRL",
+    "E 373245'0.3/16\"N, 700183'0.15/16\"E"
+  ],
+  "warnings": [
+    "OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c84e014737f10f50.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c84e014737f10f50.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:44:25.255425+00:00",
+  "usage": {
+    "input_tokens": 3220,
+    "output_tokens": 1194,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2188
+}

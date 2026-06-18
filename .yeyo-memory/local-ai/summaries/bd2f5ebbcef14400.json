@@ -1,0 +1,45 @@
+{
+  "doc_id": "bd2f5ebbcef14400",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Lewis/Revised 2.5 VMS Curvesr.pdf",
+  "title": "Revised 2.5 VMS Curvesr",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Performance rating curves for a Lewis Pumps VMS-1632-1/2 pump at 1750 RPM with design point of 137.4 US gpm and 64.4 ft head.",
+  "summary_points": [
+    "Performance rating curves for a Lewis Pumps VMS-1632-1/2 pump at 1750 RPM with design point of 137.4 US gpm and 64.4 ft head."
+  ],
+  "keywords": [
+    "Lewis Pumps",
+    "VMS-1632-1/2",
+    "Performance curves",
+    "1750 RPM",
+    "Design point",
+    "137.4 US gpm",
+    "64.4 ft",
+    "Serial No.",
+    "Impeller Dia."
+  ],
+  "references": [
+    "16-XXX-FH",
+    "VMS-1632-1/2"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas partes del texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bd2f5ebbcef14400.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bd2f5ebbcef14400.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:54:03.552750+00:00",
+  "usage": {
+    "input_tokens": 1686,
+    "output_tokens": 956,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2480
+}

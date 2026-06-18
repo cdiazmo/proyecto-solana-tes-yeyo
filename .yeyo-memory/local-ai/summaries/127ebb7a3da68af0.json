@@ -1,0 +1,46 @@
+{
+  "doc_id": "127ebb7a3da68af0",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/120213 Cambio de titularidad 15 kV por Industria.pdf",
+  "title": "120213 Cambio de titularidad 15 kV por Industria",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "La Consejería de Fomento ha resuelto inscribir la instalación eléctrica de alta tensión correspondiente a la línea de MT de 300 metros con referencia 13210201970, tras el cambio de titularidad del antiguo titular VALERIANO LORENZO S.A. a nombre de HELIOS I HYPERION ENERGY INVESTMENTS S.L.",
+  "summary_points": [
+    "La Consejería de Fomento ha resuelto inscribir la instalación eléctrica de alta tensión correspondiente a la línea de MT de 300 metros con referencia 13210201970, tras el cambio de titularidad del antiguo titular VALERIANO LORENZO S.A. a nombre de HELIOS I HYPERION ENERGY INVESTMENTS S.L."
+  ],
+  "keywords": [
+    "Consejería de Fomento",
+    "Servicios Periféricos",
+    "Cambio de titularidad",
+    "Instalación eléctrica",
+    "Alta tensión",
+    "VALERIANO LORENZO S.A.",
+    "HELIOS I HYPERION ENERGY INVESTMENTS S.L.",
+    "Paraje El Silo",
+    "T.M. Puerto Lípice y Arenas de San Juan"
+  ],
+  "references": [
+    "RD 1955/2000",
+    "Ley 30/1992",
+    "Ley 4/1999"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos lugares del texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/127ebb7a3da68af0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/127ebb7a3da68af0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:00:27.230450+00:00",
+  "usage": {
+    "input_tokens": 1648,
+    "output_tokens": 564,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2941
+}

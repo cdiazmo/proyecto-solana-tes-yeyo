@@ -1,0 +1,47 @@
+{
+  "doc_id": "84e91a1718595db2",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.2 CDO SE Elevadora HII.pdf",
+  "title": "5.10.2.2 CDO SE Elevadora HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de visado y firma digital del proyecto de subestación eléctrica de Helios II Hyperion Energy Investments, S.L., ejecutado bajo normativas específicas.",
+  "summary_points": [
+    "Certificado de visado y firma digital del proyecto de subestación eléctrica de Helios II Hyperion Energy Investments, S.L., ejecutado bajo normativas específicas."
+  ],
+  "keywords": [
+    "certificado",
+    "visado",
+    "firma digital",
+    "proyecto",
+    "subestación eléctrica",
+    "Helios II",
+    "Hyperion Energy Investments",
+    "normativa"
+  ],
+  "references": [
+    "RD. 3275/1982",
+    "RD. 223/2008",
+    "RD. 560/2010",
+    "RD. 1955/2000",
+    "Decreto 80/2007"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varias áreas, especialmente nombres y números de colegios."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/84e91a1718595db2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/84e91a1718595db2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:03:59.281573+00:00",
+  "usage": {
+    "input_tokens": 1364,
+    "output_tokens": 1183,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3059
+}

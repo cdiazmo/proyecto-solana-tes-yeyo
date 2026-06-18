@@ -1,0 +1,45 @@
+{
+  "doc_id": "d0f4065e777112f5",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.4 Cert OCA LAAT.pdf",
+  "title": "5.10.1.4 Cert OCA LAAT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de acreditación para la instalación HELIOS 1 HYPERION ENERGY INVESTMENTS, S.L., con resultado favorable y sin defectos leves.",
+  "summary_points": [
+    "Certificado de acreditación para la instalación HELIOS 1 HYPERION ENERGY INVESTMENTS, S.L., con resultado favorable y sin defectos leves."
+  ],
+  "keywords": [
+    "Applus Norcontrol",
+    "certificado",
+    "inspección inicial",
+    "instalación HELIOS 1",
+    "220 KV",
+    "CELOsíA METÁLICA",
+    "Sergio Javier Pedroza Ruiz",
+    "BA03163/10"
+  ],
+  "references": [
+    "OC-I/034(BOE 30/06/97, 02/09/98 Y24/05/2001)",
+    "Real Decreto 223/2008",
+    "ITC-LAT 01 a 09"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d0f4065e777112f5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d0f4065e777112f5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:05:30.246631+00:00",
+  "usage": {
+    "input_tokens": 1645,
+    "output_tokens": 1111,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3200
+}

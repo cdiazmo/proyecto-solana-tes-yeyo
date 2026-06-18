@@ -1,0 +1,45 @@
+{
+  "doc_id": "a9a071b9a5959b0f",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.2 CDO.pdf",
+  "title": "5.10.3.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de dirección de obra para una línea subterránea de alta tensión 15 kV en Arenas de San Juan, realizada por Meins Consulting S.L. y supervisada por José Enrique Myro Borrero.",
+  "summary_points": [
+    "Certificado de dirección de obra para una línea subterránea de alta tensión 15 kV en Arenas de San Juan, realizada por Meins Consulting S.L. y supervisada por José Enrique Myro Borrero."
+  ],
+  "keywords": [
+    "CDO",
+    "Línea eléctrica",
+    "Alta tensión",
+    "Arenas de San Juan",
+    "Meins Consulting S.L.",
+    "José Enrique Myro Borrero"
+  ],
+  "references": [
+    "Real Decreto 223/2008",
+    "ITC-LAT 01 a 09",
+    "SE1200399",
+    "SE1200076"
+  ],
+  "warnings": [
+    "Firmas institución y ingenieros incompletas",
+    "Texto en blanco en varias áreas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a9a071b9a5959b0f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a9a071b9a5959b0f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:21:51.358432+00:00",
+  "usage": {
+    "input_tokens": 1926,
+    "output_tokens": 649,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4269
+}

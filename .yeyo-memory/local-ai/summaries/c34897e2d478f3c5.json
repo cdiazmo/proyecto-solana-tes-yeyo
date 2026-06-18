@@ -1,0 +1,39 @@
+{
+  "doc_id": "c34897e2d478f3c5",
+  "path": "01 GD AE/Compras/01 HEX/02 Propuestas/095-16 Document List Rev.4.pdf",
+  "title": "095-16 Document List Rev.4",
+  "doc_code": "",
+  "revision": "Rev.4",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document list for the SOLANA solar power plant in Arizona, USA, including project plans, progress reports, spare parts lists, and various technical documents.",
+  "summary_points": [
+    "Document list for the SOLANA solar power plant in Arizona, USA, including project plans, progress reports, spare parts lists, and various technical documents."
+  ],
+  "keywords": [
+    "SOLANA",
+    "Solar Power Plant",
+    "Arizona",
+    "USA",
+    "Project Plan",
+    "Progress Report",
+    "Spare Parts List",
+    "Technical Documents"
+  ],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c34897e2d478f3c5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c34897e2d478f3c5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:42:31.762026+00:00",
+  "usage": {
+    "input_tokens": 1069,
+    "output_tokens": 808,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1841
+}

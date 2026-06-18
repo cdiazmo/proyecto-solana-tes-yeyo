@@ -1,0 +1,54 @@
+{
+  "doc_id": "a22c8d17a6f8ee01",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.3 CIEAT SE HII.pdf",
+  "title": "5.10.2.3 CIEAT SE HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de alta tensión para la subestación elevadora 15/220 KV HELIOS I en Sevilla.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de alta tensión para la subestación elevadora 15/220 KV HELIOS I en Sevilla."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "alta tensión",
+    "subestación",
+    "elevadora",
+    "HELIOS II",
+    "SGS",
+    "INABENSA"
+  ],
+  "references": [
+    "HELIOS II HYPERION ENERGY INVESTMENTS, S.L.",
+    "B - 85588523",
+    "CALLE ENERGIA SOLAR N° 1",
+    "41014 SEVILLA",
+    "SUBESTACION ELEVADORA 15/220 KV HELIOS I",
+    "POLIGONO 8, PARCELA 30",
+    "Tm. PUERTO LAPICE, CIUDAD REAL, 13650",
+    "TMN-62500,ACEITE/DISYUNTOR",
+    "SGS",
+    "INABENSA",
+    "JESÚS CASTILLA RASTROLLO",
+    "302239290"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a22c8d17a6f8ee01.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a22c8d17a6f8ee01.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:07:01.292721+00:00",
+  "usage": {
+    "input_tokens": 1635,
+    "output_tokens": 922,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3435
+}

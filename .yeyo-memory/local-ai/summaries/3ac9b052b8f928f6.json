@@ -1,0 +1,47 @@
+{
+  "doc_id": "3ac9b052b8f928f6",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.1 BT Planta/5.9.1.2 CDO.pdf",
+  "title": "5.9.1.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de visado y firma digital del proyecto de instalaciones de baja tensión de planta solar térmica Helios I, ejecutado bajo la dirección técnica de Julio Cano Guillamon.",
+  "summary_points": [
+    "Certificado de visado y firma digital del proyecto de instalaciones de baja tensión de planta solar térmica Helios I, ejecutado bajo la dirección técnica de Julio Cano Guillamon."
+  ],
+  "keywords": [
+    "certificado",
+    "visado",
+    "firma digital",
+    "proyecto",
+    "instalaciones",
+    "baja tensión",
+    "planta solar térmica",
+    "Helios I",
+    "Julio Cano Guillamon"
+  ],
+  "references": [
+    "RD. 842/2002",
+    "RD. 560/2010",
+    "Ley 17/2009",
+    "Ley 25/2009"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varias áreas, incluyendo nombres y números de colegios."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3ac9b052b8f928f6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3ac9b052b8f928f6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:54:54.654489+00:00",
+  "usage": {
+    "input_tokens": 1190,
+    "output_tokens": 904,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2528
+}

@@ -1,0 +1,40 @@
+{
+  "doc_id": "17589cf86e0e2c5c",
+  "path": "01 GD AE/Compras/02 Bomba desague/02 Propuestas/Rheinhuette/Quote 9750 - Abenisa - New Duty Point Curve.pdf",
+  "title": "Quote 9750 - Abenisa - New Duty Point Curve",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Documento técnico de Rheinhuette con especificaciones técnicas y garantías.",
+  "summary_points": [
+    "Documento técnico de Rheinhuette con especificaciones técnicas y garantías."
+  ],
+  "keywords": [
+    "Rheinhuette",
+    "GVSO 80/250",
+    "3.09.3019/E-0807",
+    "Impeller",
+    "Turbine",
+    "Head",
+    "Efficiency"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto incompleto en la última página"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/17589cf86e0e2c5c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/17589cf86e0e2c5c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:54:32.256554+00:00",
+  "usage": {
+    "input_tokens": 1459,
+    "output_tokens": 1148,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2501
+}

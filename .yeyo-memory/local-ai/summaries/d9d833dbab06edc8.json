@@ -1,0 +1,42 @@
+{
+  "doc_id": "d9d833dbab06edc8",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-LIS-3010-00_Lista de Equipos Mecanicos TES.pdf",
+  "title": "1950801-LIS-3010-00 Lista de Equipos Mecanicos TES",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Lista de equipos mecánicos para almacenamiento térmico y drenaje de sales fundidas.",
+  "summary_points": [
+    "Lista de equipos mecánicos para almacenamiento térmico y drenaje de sales fundidas."
+  ],
+  "keywords": [
+    "equipos mecanicos",
+    "almacenamiento termico",
+    "bombas",
+    "intercambiadores aceite",
+    "bomba drenaje"
+  ],
+  "references": [
+    "1950801-LIS-3010-00",
+    "API 650 Atmosf.",
+    "Lointek, S.L."
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d9d833dbab06edc8.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d9d833dbab06edc8.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:59:44.966408+00:00",
+  "usage": {
+    "input_tokens": 1926,
+    "output_tokens": 1172,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2890
+}

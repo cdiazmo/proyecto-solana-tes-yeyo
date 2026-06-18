@@ -1,0 +1,41 @@
+{
+  "doc_id": "7286a81b96e88a74",
+  "path": "Helios Sole/Línea 15 kV/110516 Línea particular MT.pdf",
+  "title": "110516 Línea particular MT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Proyecto de instalación eléctrica de alta tensión para bombeo en Paraje Silo del Conde. Documentos a aportar y responsabilidad técnica.",
+  "summary_points": [
+    "Proyecto de instalación eléctrica de alta tensión para bombeo en Paraje Silo del Conde. Documentos a aportar y responsabilidad técnica."
+  ],
+  "keywords": [
+    "instalación eléctrica",
+    "alta tensión",
+    "suministro para bombeo",
+    "certificado de dirección",
+    "mantenimiento",
+    "legalización"
+  ],
+  "references": [
+    "13210201970",
+    "Real Decreto 2135/1980",
+    "Orden del Ministerio de Industria y Energía"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7286a81b96e88a74.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7286a81b96e88a74.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:11:52.403711+00:00",
+  "usage": {
+    "input_tokens": 1517,
+    "output_tokens": 607,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3780
+}

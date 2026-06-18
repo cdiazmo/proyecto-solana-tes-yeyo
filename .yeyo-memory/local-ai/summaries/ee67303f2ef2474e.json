@@ -1,0 +1,43 @@
+{
+  "doc_id": "ee67303f2ef2474e",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.5 APM tanque.pdf",
+  "title": "5.7.7.5 APM tanque",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución para inscribir un depósito de gasóleo B en Puerto Lapice, Ciudad Real.",
+  "summary_points": [
+    "Resolución para inscribir un depósito de gasóleo B en Puerto Lapice, Ciudad Real."
+  ],
+  "keywords": [
+    "resolución",
+    "inscripción",
+    "depósito",
+    "gasóleo B",
+    "Porto Lapice",
+    "Ciudad Real",
+    "UTE ABENER TEYMA HELLO CAMPO DE SAN JUAN"
+  ],
+  "references": [
+    "R.D. 2085/1994",
+    "MI-IP 03",
+    "Ley 301/1992",
+    "Ley 41/1999"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ee67303f2ef2474e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ee67303f2ef2474e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:58:42.723305+00:00",
+  "usage": {
+    "input_tokens": 1370,
+    "output_tokens": 354,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2815
+}

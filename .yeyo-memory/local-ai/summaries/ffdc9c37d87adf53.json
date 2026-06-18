@@ -1,0 +1,44 @@
+{
+  "doc_id": "ffdc9c37d87adf53",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201 Rev.0 Packing List - Anchor Bolts.pdf",
+  "title": "1950201 Rev.0 Packing List - Anchor Bolts",
+  "doc_code": "",
+  "revision": "Rev.0",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Packing list for anchor bolts to Arizona Solar One LLC. Details include client and destination addresses, date, PO number, packing list number, supplier information, and weights.",
+  "summary_points": [
+    "Packing list for anchor bolts to Arizona Solar One LLC. Details include client and destination addresses, date, PO number, packing list number, supplier information, and weights."
+  ],
+  "keywords": [
+    "packing list",
+    "anchor bolts",
+    "Arizona Solar One LLC",
+    "LOINTEK SL",
+    "Spain",
+    "weight",
+    "dimensions"
+  ],
+  "references": [
+    "TD-LIS-SLN-003-002",
+    "4500900424 & 45009009047"
+  ],
+  "warnings": [
+    "Total gross weight and total volume not specified",
+    "Fecha y firma del Transportista and Fecha y firma del receptor are incomplete"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/ffdc9c37d87adf53.md",
+  "source_extracted_path": ".yeyo-memory/extracted/ffdc9c37d87adf53.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:31:38.387173+00:00",
+  "usage": {
+    "input_tokens": 800,
+    "output_tokens": 448,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 949
+}

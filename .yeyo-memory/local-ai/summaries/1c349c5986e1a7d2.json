@@ -1,0 +1,39 @@
+{
+  "doc_id": "1c349c5986e1a7d2",
+  "path": "03 GD Fabricacion LOI TES 6/Listas/4521-LIS-LOI-039-062-0004-GAR_rev00 Two years operational spare parts list.pdf",
+  "title": "4521-LIS-LOI-039-062-0004-GAR rev00 Two years operational spare parts list",
+  "doc_code": "4521-LIS-LOI-039-062-0004",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "This document lists spare parts for the oil to salt exchanger of the HEX replacement TES Solana project at Arizona Solar One.",
+  "summary_points": [
+    "This document lists spare parts for the oil to salt exchanger of the HEX replacement TES Solana project at Arizona Solar One."
+  ],
+  "keywords": [
+    "spare parts",
+    "oil to salt exchanger",
+    "HEX replacement",
+    "TES Solana",
+    "Arizona Solar One"
+  ],
+  "references": [
+    "4521-LIS-LOI-039-062-0004-GAR",
+    "1950101-LID-004"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1c349c5986e1a7d2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1c349c5986e1a7d2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:45:21.166410+00:00",
+  "usage": {
+    "input_tokens": 1200,
+    "output_tokens": 568,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2037
+}

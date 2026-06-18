@@ -1,0 +1,41 @@
+{
+  "doc_id": "427c325540213c21",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Fundación de soporte de tuberías TMT-18230-06/TMT-18230-06 Pipe Support Foundation Index Table(s).pdf",
+  "title": "TMT-18230-06 Pipe Support Foundation Index Table(s)",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Index table for Arizona Solar One's pipe support foundation, revision 7.",
+  "summary_points": [
+    "Index table for Arizona Solar One's pipe support foundation, revision 7."
+  ],
+  "keywords": [
+    "Arizona Solar One",
+    "Pipe Support Foundation",
+    "Rev 7",
+    "Index Table"
+  ],
+  "references": [
+    "Transmittal # 06",
+    "18230"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'Don Cabangan' y 'LETTER OF TRANSMITTAL'",
+    "Texto incompleto al final"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/427c325540213c21.md",
+  "source_extracted_path": ".yeyo-memory/extracted/427c325540213c21.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:32:48.745538+00:00",
+  "usage": {
+    "input_tokens": 845,
+    "output_tokens": 166,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1205
+}

@@ -1,0 +1,48 @@
+{
+  "doc_id": "bef0ad280775a0ca",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.4 Acreditacion instalador.pdf",
+  "title": "5.7.4.4 Acreditacion instalador",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalador autorizado en baja tensión para Eléctrica Valverdeña, SL, con número 21/001182E y certificados de cualificación individual.",
+  "summary_points": [
+    "Certificado de instalador autorizado en baja tensión para Eléctrica Valverdeña, SL, con número 21/001182E y certificados de cualificación individual."
+  ],
+  "keywords": [
+    "Eléctrica Valverdeña",
+    "Instalador autorizado",
+    "Baja tensión",
+    "Certificado",
+    "Cualificación individual",
+    "IBTB",
+    "IBTE",
+    "Vigencia"
+  ],
+  "references": [
+    "21/001182E",
+    "21/00108E",
+    "21/00255Et",
+    "EBT-1182",
+    "ITC-BT-03",
+    "Avda. Manuel Siurot, 4"
+  ],
+  "warnings": [
+    "El texto contiene una firma electrónica reconocida según la Ley 59/2003, pero no se proporciona información sobre cómo verificar su integridad."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bef0ad280775a0ca.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bef0ad280775a0ca.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:29:07.021840+00:00",
+  "usage": {
+    "input_tokens": 1924,
+    "output_tokens": 760,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4712
+}

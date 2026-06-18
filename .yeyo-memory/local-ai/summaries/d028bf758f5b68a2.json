@@ -1,0 +1,45 @@
+{
+  "doc_id": "d028bf758f5b68a2",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.3 CIBT.pdf",
+  "title": "5.7.1.3 CIBT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de baja tensión para una instalación industrial en Arenas de San Juan, Ciudad Real. Incluye manual de usuarios con consejos de seguridad.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de baja tensión para una instalación industrial en Arenas de San Juan, Ciudad Real. Incluye manual de usuarios con consejos de seguridad."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "baja tensión",
+    "industria",
+    "Arenas de San Juan",
+    "Ciudad Real",
+    "manual de usuarios",
+    "seguridad eléctrica"
+  ],
+  "references": [
+    "KI Proyecto",
+    "Osi UN Documentación adjunta a este certificado KI Dirección de Obra",
+    "Certificado de Inspección por OCA",
+    "RUFO ELESTROESNO",
+    "ELÉCTRICA VALVERDENA, S.L."
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d028bf758f5b68a2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d028bf758f5b68a2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:19:21.300960+00:00",
+  "usage": {
+    "input_tokens": 1805,
+    "output_tokens": 1109,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4170
+}

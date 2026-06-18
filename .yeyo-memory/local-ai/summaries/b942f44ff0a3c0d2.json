@@ -1,0 +1,46 @@
+{
+  "doc_id": "b942f44ff0a3c0d2",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.5 AT HI/5.10.5.9 APM.pdf",
+  "title": "5.10.5.9 APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de autorización para la puesta en marcha de una instalación eléctrica solar en Ciudad Real.",
+  "summary_points": [
+    "Resolución de autorización para la puesta en marcha de una instalación eléctrica solar en Ciudad Real."
+  ],
+  "keywords": [
+    "Resolución",
+    "Helios 1",
+    "Instalación eléctrica",
+    "Solar",
+    "Arenas de San Juan",
+    "Puerto Lápice",
+    "Villarta de San Juan"
+  ],
+  "references": [
+    "13210204793",
+    "Real Decreto 1955/2000",
+    "Ley 54/1997",
+    "Decreto 80/2007",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b942f44ff0a3c0d2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b942f44ff0a3c0d2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:16:46.761297+00:00",
+  "usage": {
+    "input_tokens": 2146,
+    "output_tokens": 1108,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4129
+}

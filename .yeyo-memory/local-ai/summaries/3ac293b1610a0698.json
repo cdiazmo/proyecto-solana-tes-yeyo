@@ -1,0 +1,49 @@
+{
+  "doc_id": "3ac293b1610a0698",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/1950201-MDR-001.pdf",
+  "title": "1950201-MDR-001",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Dossier de calidad para la producción de un intercambiador de calor de aceite a sal. Incluye informes de no conformidad, planos, programa de inspección, libro de soldadura, certificados de materiales y procedimientos.",
+  "summary_points": [
+    "Dossier de calidad para la producción de un intercambiador de calor de aceite a sal. Incluye informes de no conformidad, planos, programa de inspección, libro de soldadura, certificados de materiales y procedimientos."
+  ],
+  "keywords": [
+    "calidad",
+    "producción",
+    "intercambiador de calor",
+    "aceite a sal",
+    "informes de no conformidad",
+    "planos",
+    "programa de inspección",
+    "soldadura",
+    "certificados de materiales",
+    "procedimientos"
+  ],
+  "references": [
+    "1950201-MDR-001",
+    "ATLANTICA YIELD",
+    "ENGINEERING / OIL TO SALT HEAT EXCHANGER",
+    "ARIZONA SOLAR ONE LLC",
+    "ARIZONA (USA)"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3ac293b1610a0698.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3ac293b1610a0698.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:39:08.235642+00:00",
+  "usage": {
+    "input_tokens": 1956,
+    "output_tokens": 470,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4306
+}

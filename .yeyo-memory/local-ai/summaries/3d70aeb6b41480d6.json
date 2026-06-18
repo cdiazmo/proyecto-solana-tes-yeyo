@@ -1,0 +1,43 @@
+{
+  "doc_id": "3d70aeb6b41480d6",
+  "path": "01 GD AE/Tuberia/PLN/4521-PLN-AEE-75-63-0001-GAR-901_General typical support standard.xlsx",
+  "title": "4521-PLN-AEE-75-63-0001-GAR-901 General typical support standard",
+  "doc_code": "4521-PLN-AEE-75-63-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "This document outlines the technical support standard for a HEX replacement TES Solana project, including input data, client comments, and a legend of statuses.",
+  "summary_points": [
+    "This document outlines the technical support standard for a HEX replacement TES Solana project, including input data, client comments, and a legend of statuses."
+  ],
+  "keywords": [
+    "4521-PLN-AEE-75-63-0001-GAR",
+    "HEX replacement TES Solana",
+    "Technical Comment Sheet",
+    "AEPC USA",
+    "Abeinsa Engineering",
+    "Input data",
+    "Client comments",
+    "Legend of statuses"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0058"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos campos de texto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3d70aeb6b41480d6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3d70aeb6b41480d6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:49:15.828262+00:00",
+  "usage": {
+    "input_tokens": 1172,
+    "output_tokens": 681,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2260
+}

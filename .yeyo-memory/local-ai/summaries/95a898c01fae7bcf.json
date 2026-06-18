@@ -1,0 +1,43 @@
+{
+  "doc_id": "95a898c01fae7bcf",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201-LID-004 REV 0 - Two years operational spare parts list.pdf",
+  "title": "1950201-LID-004 REV 0 - Two years operational spare parts list",
+  "doc_code": "",
+  "revision": "REV 0",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Document listing spare parts for a two-year operational period, including bolt and nut specifications.",
+  "summary_points": [
+    "Document listing spare parts for a two-year operational period, including bolt and nut specifications."
+  ],
+  "keywords": [
+    "spare parts",
+    "two years",
+    "operational",
+    "bolt",
+    "nut",
+    "specifications"
+  ],
+  "references": [
+    "TD-LIS-SLN-004",
+    "1950201-LID-004",
+    "Iñigo Meca",
+    "Ruben Macho",
+    "Alberto Abad"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/95a898c01fae7bcf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/95a898c01fae7bcf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:35:36.485644+00:00",
+  "usage": {
+    "input_tokens": 950,
+    "output_tokens": 483,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1602
+}

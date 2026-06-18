@@ -1,0 +1,33 @@
+{
+  "doc_id": "9629df052a25f050",
+  "path": "04 GD Fabricacon LOI TES 3/Imagenes/20210504 HEX Lointek 3.pdf",
+  "title": "20210504 HEX Lointek 3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "El texto extraído parece estar corrupto o defectuoso y no contiene información legible.",
+  "summary_points": [
+    "El texto extraído parece estar corrupto o defectuoso y no contiene información legible."
+  ],
+  "keywords": [],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso",
+    "Texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9629df052a25f050.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9629df052a25f050.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:38:54.318107+00:00",
+  "usage": {
+    "input_tokens": 1393,
+    "output_tokens": 62,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1872
+}

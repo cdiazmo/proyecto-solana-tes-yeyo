@@ -1,0 +1,45 @@
+{
+  "doc_id": "93e6021e04ce1809",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.2 CDO AT HII.pdf",
+  "title": "5.10.3.2 CDO AT HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificación del proyecto de instalación de planta solar térmica con tecnología cilindro-parabólicos, ejecutado bajo normativa específica.",
+  "summary_points": [
+    "Certificación del proyecto de instalación de planta solar térmica con tecnología cilindro-parabólicos, ejecutado bajo normativa específica."
+  ],
+  "keywords": [
+    "Visado",
+    "Firma Digital",
+    "Proyecto Solar",
+    "Tecnología Cilindro-Parabólico",
+    "Normativa",
+    "Seguridad Industrial"
+  ],
+  "references": [
+    "RD. 3275/1982",
+    "RD. 223/2008",
+    "RD. 560/2010",
+    "RD. 1955/2000",
+    "Decreto 80/2007"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas, especialmente nombres y números."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/93e6021e04ce1809.md",
+  "source_extracted_path": ".yeyo-memory/extracted/93e6021e04ce1809.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:02:54.797359+00:00",
+  "usage": {
+    "input_tokens": 1349,
+    "output_tokens": 1109,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3036
+}

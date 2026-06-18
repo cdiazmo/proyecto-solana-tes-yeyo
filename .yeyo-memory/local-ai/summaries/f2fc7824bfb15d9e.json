@@ -1,0 +1,43 @@
+{
+  "doc_id": "f2fc7824bfb15d9e",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.5 Cert OCA.pdf",
+  "title": "5.7.1.5 Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de inspección eléctrica de baja tensión para una instalación industrial en Sevilla, con detalles técnicos y garantía.",
+  "summary_points": [
+    "Certificado de inspección eléctrica de baja tensión para una instalación industrial en Sevilla, con detalles técnicos y garantía."
+  ],
+  "keywords": [
+    "certificado",
+    "inspección",
+    "instalación eléctrica",
+    "baja tensión",
+    "Applus Norcontrol",
+    "TERMOSOLAR HELIOS I",
+    "Sevilla",
+    "Garantía de Calidad"
+  ],
+  "references": [
+    "RD 842/2002",
+    "OC-1/034",
+    "OC-034"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f2fc7824bfb15d9e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f2fc7824bfb15d9e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:23:00.590237+00:00",
+  "usage": {
+    "input_tokens": 1968,
+    "output_tokens": 726,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4326
+}

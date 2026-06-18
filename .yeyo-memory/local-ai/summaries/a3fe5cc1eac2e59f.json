@@ -1,0 +1,43 @@
+{
+  "doc_id": "a3fe5cc1eac2e59f",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.7 Acta puesta marcha.pdf",
+  "title": "5.7.5.7 Acta puesta marcha",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Acta puesta marcha para la instalación y puesta en servicio de aire comprimido en el Central Termosolar Helios I.",
+  "summary_points": [
+    "Acta puesta marcha para la instalación y puesta en servicio de aire comprimido en el Central Termosolar Helios I."
+  ],
+  "keywords": [
+    "Instalación",
+    "Aire comprimido",
+    "Central Termosolar",
+    "Flors E Diego Caballero Klink"
+  ],
+  "references": [
+    "Real Decreto 2135/1980",
+    "Real Decreto 2060/2008",
+    "Real Decreto 769/1999",
+    "Orden de 13/03/2002",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a3fe5cc1eac2e59f.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a3fe5cc1eac2e59f.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:42:55.649210+00:00",
+  "usage": {
+    "input_tokens": 1066,
+    "output_tokens": 383,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1888
+}

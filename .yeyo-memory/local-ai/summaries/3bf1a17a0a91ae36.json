@@ -1,0 +1,47 @@
+{
+  "doc_id": "3bf1a17a0a91ae36",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.2 CDO.pdf",
+  "title": "5.9.2.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado técnico de instalaciones eléctricas de baja tensión para Helios I Hyperion Energy Investments, S.L., ejecutadas bajo la dirección técnica de Jacinto Soto García-Mora.",
+  "summary_points": [
+    "Certificado técnico de instalaciones eléctricas de baja tensión para Helios I Hyperion Energy Investments, S.L., ejecutadas bajo la dirección técnica de Jacinto Soto García-Mora."
+  ],
+  "keywords": [
+    "certificado",
+    "instalaciones eléctricas",
+    "baja tensión",
+    "Helios I",
+    "Jacinto Soto García-Mora",
+    "Union Fenosa",
+    "proyecto redactado",
+    "comprobaciones y verificaciones"
+  ],
+  "references": [
+    "Real Decreto 842/2002 (B.O.E. 18-9-2002)",
+    "ITC-BT-23",
+    "ITC-BT-22",
+    "ITC-BT-24",
+    "ITC-MIE-24"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes, como los nombres de las empresas y personas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3bf1a17a0a91ae36.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3bf1a17a0a91ae36.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:18:44.168520+00:00",
+  "usage": {
+    "input_tokens": 1936,
+    "output_tokens": 1378,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4169
+}

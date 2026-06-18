@@ -1,0 +1,54 @@
+{
+  "doc_id": "c66ea83c02373f38",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes de tubería HTF RFI015/2º set/MS Typical Pipe Support Rev01 Transmittal 11-28-2018.pdf",
+  "title": "MS Typical Pipe Support Rev01 Transmittal 11-28-2018",
+  "doc_code": "",
+  "revision": "Rev01",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Transmisión de documentos técnicos relacionados con soportes de tubería HTF RFI015.",
+  "summary_points": [
+    "Transmisión de documentos técnicos relacionados con soportes de tubería HTF RFI015."
+  ],
+  "keywords": [
+    "MS Typical Pipe Support",
+    "Rev01",
+    "Atlantica Yield",
+    "SMW Projects",
+    "RFI015",
+    "Pipe supports",
+    "Shop drawings",
+    "Prints",
+    "Plan drawings"
+  ],
+  "references": [
+    "4521-PLN-DOT-75-63-0334.pdf",
+    "4521-PLN-DOT-75-63-0336.pdf",
+    "4521-PLN-DOT-75-63-0337.pdf",
+    "4521-PLN-DOT-75-63-0338.pdf",
+    "4521-PLN-DOT-75-63-0339.pdf",
+    "4521-PLN-DOT-75-63-0341.pdf",
+    "4521-PLN-DOT-75-63-0342.pdf",
+    "4521-PLN-DOT-75-63-0343.pdf",
+    "4521-PLN-DOT-75-63-0344.pdf",
+    "4521-PLN-DOT-75-63-0345.pdf",
+    "4521-PLN-DOT-75-63-0346.pdf"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c66ea83c02373f38.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c66ea83c02373f38.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:39:45.945424+00:00",
+  "usage": {
+    "input_tokens": 1200,
+    "output_tokens": 1159,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1747
+}

@@ -1,0 +1,51 @@
+{
+  "doc_id": "668ae0796694751c",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Motor de la bomba de depósito de drenaje/3-MP-258 Motor.pdf",
+  "title": "3-MP-258 Motor",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Motor trifásico de 480V, 15HP con factor de potencia de 89%, corriente a carga completa de 21A y potencia nominal de 12.44kW.",
+  "summary_points": [
+    "Motor trifásico de 480V, 15HP con factor de potencia de 89%, corriente a carga completa de 21A y potencia nominal de 12.44kW."
+  ],
+  "keywords": [
+    "motor",
+    "bomba",
+    "depósito",
+    "drenaje",
+    "Solana",
+    "trifásico",
+    "480V",
+    "15HP",
+    "potencia",
+    "corriente",
+    "cable",
+    "tierra"
+  ],
+  "references": [
+    "Table 310-15 (B)(16)",
+    "Table 250.122",
+    "Appendix C, Table C8",
+    "Table 430-148 thru .250",
+    "Table 430.248 thru .250"
+  ],
+  "warnings": [
+    "Texto incompleto en la última línea del texto extraído"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/668ae0796694751c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/668ae0796694751c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:35:00.473116+00:00",
+  "usage": {
+    "input_tokens": 901,
+    "output_tokens": 660,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1513
+}

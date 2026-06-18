@@ -1,0 +1,33 @@
+{
+  "doc_id": "d04e42988a166176",
+  "path": "03 GD Fabricacion LOI TES 6/WPS Y PQR/W.List - Unit 1 - 6MX-A.PDF",
+  "title": "W.List - Unit 1 - 6MX-A",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Texto defectuoso, no se puede procesar.",
+  "summary_points": [
+    "Texto defectuoso, no se puede procesar."
+  ],
+  "keywords": [],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso",
+    "Texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d04e42988a166176.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d04e42988a166176.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:31:41.317306+00:00",
+  "usage": {
+    "input_tokens": 819,
+    "output_tokens": 65,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 952
+}

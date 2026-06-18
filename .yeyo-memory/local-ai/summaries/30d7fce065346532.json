@@ -1,0 +1,40 @@
+{
+  "doc_id": "30d7fce065346532",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.4 SE Elevadora HI/5.10.4.9 APM.pdf",
+  "title": "5.10.4.9 APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de autorización para la puesta en marcha de una subestación transformadora con capacidad de 62.95 MVA, destinada a evacuar energía producida.",
+  "summary_points": [
+    "Resolución de autorización para la puesta en marcha de una subestación transformadora con capacidad de 62.95 MVA, destinada a evacuar energía producida."
+  ],
+  "keywords": [
+    "Helios 1",
+    "Hyperion Energy Investments",
+    "Subestación transformadora",
+    "62.95 MVA",
+    "Evacuación de energía",
+    "Consejería de Fomento",
+    "Ciudad Real"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/30d7fce065346532.md",
+  "source_extracted_path": ".yeyo-memory/extracted/30d7fce065346532.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:14:50.039405+00:00",
+  "usage": {
+    "input_tokens": 2912,
+    "output_tokens": 834,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3927
+}

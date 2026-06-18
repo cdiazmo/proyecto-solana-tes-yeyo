@@ -1,0 +1,42 @@
+{
+  "doc_id": "5174264586825114",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.6 Protocolo ensayo trafo.pdf",
+  "title": "5.10.2.6 Protocolo ensayo trafo",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Protocolo de ensayos para un transformador de tipo seco encapsulado trifásico, incluyendo pruebas de aislamiento, resistencia de arrollamientos y medición de descargas parciales.",
+  "summary_points": [
+    "Protocolo de ensayos para un transformador de tipo seco encapsulado trifásico, incluyendo pruebas de aislamiento, resistencia de arrollamientos y medición de descargas parciales."
+  ],
+  "keywords": [
+    "transformador",
+    "aislamiento",
+    "resistencia",
+    "descargas parciales",
+    "ensayos",
+    "prueba"
+  ],
+  "references": [
+    "ISO 9001:2008",
+    "Transformers Manufacturing Company España"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5174264586825114.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5174264586825114.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:51:33.469486+00:00",
+  "usage": {
+    "input_tokens": 1374,
+    "output_tokens": 817,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2381
+}

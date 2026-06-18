@@ -1,0 +1,37 @@
+{
+  "doc_id": "129027e58ce56e5c",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/PHOTOS_HT_1950201.pdf",
+  "title": "PHOTOS HT 1950201",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document detailing shell and tube side units for PHOTOS HT 1950201.",
+  "summary_points": [
+    "Document detailing shell and tube side units for PHOTOS HT 1950201."
+  ],
+  "keywords": [
+    "PHOTOS HT 1950201",
+    "Shell Side",
+    "Tube Side",
+    "Units"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en algunas páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/129027e58ce56e5c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/129027e58ce56e5c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:39:12.173140+00:00",
+  "usage": {
+    "input_tokens": 582,
+    "output_tokens": 157,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 612
+}

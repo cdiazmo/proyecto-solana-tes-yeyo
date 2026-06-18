@@ -1,0 +1,48 @@
+{
+  "doc_id": "9e2b975b4a6d1844",
+  "path": "01 GD AE/I&C/MEM/G70-16-0039-AT-OTI-000002-GAR_901_Rev00_TES Charging Mode for S&T HEX.xlsx",
+  "title": "G70-16-0039-AT-OTI-000002-GAR 901 Rev00 TES Charging Mode for S&T HEX",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document G70-16-0039-AT-OTI-000002-GAR_901 Rev00 describes the TES Charging Mode for S&T HEX. It includes input data, assumptions, and client comments.",
+  "summary_points": [
+    "Document G70-16-0039-AT-OTI-000002-GAR_901 Rev00 describes the TES Charging Mode for S&T HEX. It includes input data, assumptions, and client comments."
+  ],
+  "keywords": [
+    "G70-16-0039-AT-OTI-000002-GAR_901",
+    "TES Charging Mode",
+    "HEX replacement",
+    "Abeinsa Engineering",
+    "Input data",
+    "Assumptions",
+    "Client comments"
+  ],
+  "references": [
+    "G70-16-0039-AT-OTI-000002-GAR_901",
+    "4521-TMT-AEE-AEPC-XXXX",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P272-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02",
+    "4521-MOM-LOI-039-062-0003-GAR"
+  ],
+  "warnings": [
+    "Client comments not provided"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9e2b975b4a6d1844.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9e2b975b4a6d1844.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:57:32.104491+00:00",
+  "usage": {
+    "input_tokens": 1436,
+    "output_tokens": 777,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2695
+}

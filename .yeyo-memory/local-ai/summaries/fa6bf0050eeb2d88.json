@@ -1,0 +1,41 @@
+{
+  "doc_id": "fa6bf0050eeb2d88",
+  "path": "01 GD AE/C&S/DRA/4521-PLN-AEE-75-52-0003-GAR-901_Rev00_Drain_back_tank_support.xlsx",
+  "title": "4521-PLN-AEE-75-52-0003-GAR-901 Rev00 Drain back tank support",
+  "doc_code": "4521-PLN-AEE-75-52-0003",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document describing the design and support of a drain back tank, based on Xina's specifications, with no client comments or revisions made.",
+  "summary_points": [
+    "Document describing the design and support of a drain back tank, based on Xina's specifications, with no client comments or revisions made."
+  ],
+  "keywords": [
+    "drain back tank",
+    "support",
+    "Ashalim",
+    "Xina",
+    "HEX replacement TES Solana"
+  ],
+  "references": [
+    "4521-PLN-AEE-75-52-0003-GAR",
+    "4521-TMT-AEE-AEPC-0036"
+  ],
+  "warnings": [
+    "Client comments and annexes are empty or not provided."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fa6bf0050eeb2d88.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fa6bf0050eeb2d88.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:47:08.646912+00:00",
+  "usage": {
+    "input_tokens": 1094,
+    "output_tokens": 295,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2135
+}

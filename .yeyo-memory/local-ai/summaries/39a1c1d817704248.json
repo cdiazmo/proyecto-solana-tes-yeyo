@@ -1,0 +1,41 @@
+{
+  "doc_id": "39a1c1d817704248",
+  "path": "Helios Sole/Línea 15 kV/110526 BT Casetas de obra.pdf",
+  "title": "110526 BT Casetas de obra",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Proyecto de instalación L.M.T.S. a 15Kv, C.T. interior de 250 Kva y R.B.T. de 330 mts en Arenas de San Juan. Requisitos para la tramitación: certificado de dirección de obra y certificado de instalación eléctrica.",
+  "summary_points": [
+    "Proyecto de instalación L.M.T.S. a 15Kv, C.T. interior de 250 Kva y R.B.T. de 330 mts en Arenas de San Juan. Requisitos para la tramitación: certificado de dirección de obra y certificado de instalación eléctrica."
+  ],
+  "keywords": [
+    "L.M.T.S.",
+    "15Kv",
+    "C.T.",
+    "R.B.T.",
+    "Arenas de San Juan",
+    "Valeriano Lorenzo, S.A.",
+    "certificado de dirección de obra",
+    "certificado de instalación eléctrica"
+  ],
+  "references": [],
+  "warnings": [
+    "El texto está incompleto y presenta errores tipográficos."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/39a1c1d817704248.md",
+  "source_extracted_path": ".yeyo-memory/extracted/39a1c1d817704248.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:32:02.749462+00:00",
+  "usage": {
+    "input_tokens": 751,
+    "output_tokens": 330,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1034
+}

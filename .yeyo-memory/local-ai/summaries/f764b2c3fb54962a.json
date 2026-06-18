@@ -1,0 +1,41 @@
+{
+  "doc_id": "f764b2c3fb54962a",
+  "path": "03 GD Fabricacion LOI TES 6/Planificacion/4521-SCH-LOI-039-062-0001-GAR_Rev00 Project Planning.pdf",
+  "title": "4521-SCH-LOI-039-062-0001-GAR Rev00 Project Planning",
+  "doc_code": "4521-SCH-LOI-039-062-0001",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Project planning document for HEX replacement TES Solana. Includes tasks and timelines.",
+  "summary_points": [
+    "Project planning document for HEX replacement TES Solana. Includes tasks and timelines."
+  ],
+  "keywords": [
+    "project planning",
+    "HEX replacement",
+    "TES Solana",
+    "tasks",
+    "timelines"
+  ],
+  "references": [
+    "4521-SCH-LOI-039-062-0001-GAR",
+    "1950101-INM-001",
+    "Atlantica Yield",
+    "Oil-to-Salt HEX Solana"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f764b2c3fb54962a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f764b2c3fb54962a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:12:58.119205+00:00",
+  "usage": {
+    "input_tokens": 2772,
+    "output_tokens": 2487,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3823
+}

@@ -1,0 +1,48 @@
+{
+  "doc_id": "dc29467a7da0aa67",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.9 Solicitud baja instalaciones.pdf",
+  "title": "5.10.3.9 Solicitud baja instalaciones",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de baja de expedientes de líneas eléctricas de 15 kV por parte de la sociedad Valeriano Lorenzo, S.A.",
+  "summary_points": [
+    "Solicitud de baja de expedientes de líneas eléctricas de 15 kV por parte de la sociedad Valeriano Lorenzo, S.A."
+  ],
+  "keywords": [
+    "solicitud",
+    "baja",
+    "expedientes",
+    "líneas eléctricas",
+    "15 kV",
+    "Valeriano Lorenzo, S.A.",
+    "Consejero Delegado"
+  ],
+  "references": [
+    "13230420126",
+    "13210201969",
+    "13240203624",
+    "REG 4 ATCA",
+    "13240203625",
+    "SERVICIOS Pemleguig do GARNER",
+    "13240203626"
+  ],
+  "warnings": [
+    "Fecha incompleta"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/dc29467a7da0aa67.md",
+  "source_extracted_path": ".yeyo-memory/extracted/dc29467a7da0aa67.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:32:59.909056+00:00",
+  "usage": {
+    "input_tokens": 812,
+    "output_tokens": 462,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1212
+}

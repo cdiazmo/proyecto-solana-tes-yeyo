@@ -1,0 +1,48 @@
+{
+  "doc_id": "db3a94d6a289dac3",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.2 SE Elevadora HII/5.10.2.9 APM.pdf",
+  "title": "5.10.2.9 APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de autorización para la puesta en marcha de una subestación transformadora con capacidad de 62,95 MVA en Puerto Lápice (Ciudad Real).",
+  "summary_points": [
+    "Resolución de autorización para la puesta en marcha de una subestación transformadora con capacidad de 62,95 MVA en Puerto Lápice (Ciudad Real)."
+  ],
+  "keywords": [
+    "resolución",
+    "autorización",
+    "instalación eléctrica",
+    "subestación",
+    "transformador",
+    "energía producida",
+    "Puerto Lápice",
+    "Ciudad Real"
+  ],
+  "references": [
+    "13240100145",
+    "777",
+    "2788",
+    "3610/07 - 19/09/2007",
+    "2384/10 - 7/02/2012"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares, como 'Ciudad Rea' y 'ocm.es'.",
+    "Faltan detalles específicos sobre los equipos y componentes de la instalación."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/db3a94d6a289dac3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/db3a94d6a289dac3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:14:25.401483+00:00",
+  "usage": {
+    "input_tokens": 2057,
+    "output_tokens": 857,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3926
+}

@@ -1,0 +1,37 @@
+{
+  "doc_id": "e3e9f7f28bbff08d",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/TMT0030 Isométricos con ubicación del instrumento/SMWP/Re_ P&ID's and Instrument spec's.pdf",
+  "title": "Re P&ID's and Instrument spec's",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Instrucciones para abrir el PDF con Acrobat X o Adobe Reader X.",
+  "summary_points": [
+    "Instrucciones para abrir el PDF con Acrobat X o Adobe Reader X."
+  ],
+  "keywords": [
+    "PDF",
+    "Acrobat X",
+    "Adobe Reader",
+    "versión posterior"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto incompleto: 'Get Adobe Reader Now!' no se muestra completo."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e3e9f7f28bbff08d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e3e9f7f28bbff08d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:37:12.458519+00:00",
+  "usage": {
+    "input_tokens": 412,
+    "output_tokens": 96,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 125
+}

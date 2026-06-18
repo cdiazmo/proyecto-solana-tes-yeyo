@@ -1,0 +1,47 @@
+{
+  "doc_id": "9c19070165951d81",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.2 CDO.pdf",
+  "title": "5.9.7.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado técnico para instalaciones eléctricas de baja tensión, incluyendo datos técnicos y comprobaciones realizadas.",
+  "summary_points": [
+    "Certificado técnico para instalaciones eléctricas de baja tensión, incluyendo datos técnicos y comprobaciones realizadas."
+  ],
+  "keywords": [
+    "certificado",
+    "instalaciones eléctricas",
+    "baja tensión",
+    "potencia instalada",
+    "resistencia puesta a tierra",
+    "comprobaciones"
+  ],
+  "references": [
+    "Real Decreto 842/2002",
+    "ITC-BT-18",
+    "ITC-BT-19",
+    "ITC-BT-23",
+    "ITC-BT-22",
+    "ITC-BT-24",
+    "ITC-MIE-24"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas, como los valores de resistencia y potencia."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9c19070165951d81.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9c19070165951d81.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:27:07.758183+00:00",
+  "usage": {
+    "input_tokens": 2044,
+    "output_tokens": 1343,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4512
+}

@@ -1,0 +1,47 @@
+{
+  "doc_id": "003c8852ec10bd4b",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/111115 Boletín baja tensión.pdf",
+  "title": "111115 Boletín baja tensión",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de baja tensión para VALERIANO LORENZO, S.A., con detalles técnicos y firma del instalador autorizado.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de baja tensión para VALERIANO LORENZO, S.A., con detalles técnicos y firma del instalador autorizado."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "baja tensión",
+    "VALERIANO LORENZO",
+    "S.A.",
+    "200KW W",
+    "400 V",
+    "150 mm²",
+    "resistencia de aislamiento",
+    "instalador autorizado"
+  ],
+  "references": [
+    "R.D. 842/2002",
+    "37-00001087",
+    "37-000502"
+  ],
+  "warnings": [
+    "Fecha y firma del instalador autorizado no especificadas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/003c8852ec10bd4b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/003c8852ec10bd4b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:43:12.396422+00:00",
+  "usage": {
+    "input_tokens": 1019,
+    "output_tokens": 633,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1928
+}

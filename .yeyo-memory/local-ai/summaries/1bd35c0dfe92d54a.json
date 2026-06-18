@@ -1,0 +1,44 @@
+{
+  "doc_id": "1bd35c0dfe92d54a",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.3 CIBT.pdf",
+  "title": "5.7.4.3 CIBT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de baja tensión para UTE ABENER TEYMA HELIOS CAMPO DE SAN JUAN en Arenas de San Juan, Ciudad Real.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de baja tensión para UTE ABENER TEYMA HELIOS CAMPO DE SAN JUAN en Arenas de San Juan, Ciudad Real."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación eléctrica",
+    "baja tensión",
+    "UTE ABENER TEYMA HELIOS CAMPO DE SAN JUAN",
+    "Arenas de San Juan",
+    "Ciudad Real",
+    "GRUPO-ELECTROGENO",
+    "FRANCISCO TOMAS CALDERAY GONZALEZ"
+  ],
+  "references": [
+    "R.D. 842/2002",
+    "Norma"
+  ],
+  "warnings": [
+    "Fecha del examen de la instalación no clara (27 - MARZO - 20M)"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1bd35c0dfe92d54a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1bd35c0dfe92d54a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:46:59.297445+00:00",
+  "usage": {
+    "input_tokens": 1099,
+    "output_tokens": 578,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2106
+}

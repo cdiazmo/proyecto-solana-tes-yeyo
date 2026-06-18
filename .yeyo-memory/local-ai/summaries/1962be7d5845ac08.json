@@ -1,0 +1,46 @@
+{
+  "doc_id": "1962be7d5845ac08",
+  "path": "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.4 Cert OCA.pdf",
+  "title": "5.9.1.4 Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de inspección de instalación eléctrica de baja tensión para la planta termosolar Helios II en Arenas de San Juan, Puerto Lapice y Villarta de San Juan.",
+  "summary_points": [
+    "Certificado de inspección de instalación eléctrica de baja tensión para la planta termosolar Helios II en Arenas de San Juan, Puerto Lapice y Villarta de San Juan."
+  ],
+  "keywords": [
+    "certificado",
+    "inspección",
+    "instalación eléctrica",
+    "baja tensión",
+    "planta termosolar",
+    "Helios II",
+    "Arenas de San Juan",
+    "Puerto Lapice",
+    "Villarta de San Juan"
+  ],
+  "references": [
+    "12CR200270/C-BT-23",
+    "ITC-BT-05",
+    "RD 842/2002"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1962be7d5845ac08.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1962be7d5845ac08.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:41:49.478426+00:00",
+  "usage": {
+    "input_tokens": 2229,
+    "output_tokens": 649,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4996
+}

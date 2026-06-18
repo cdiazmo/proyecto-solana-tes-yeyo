@@ -1,0 +1,43 @@
+{
+  "doc_id": "c9ebe87d0d129f61",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.8 APM LSAT.pdf",
+  "title": "5.10.1.8 APM LSAT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución del Consejería de Fomento autorizando la puesta en marcha de una línea subterránea de 220 kV para evacuar energía producida por Helios 1 a una subestación colectora.",
+  "summary_points": [
+    "Resolución del Consejería de Fomento autorizando la puesta en marcha de una línea subterránea de 220 kV para evacuar energía producida por Helios 1 a una subestación colectora."
+  ],
+  "keywords": [
+    "Helios 1",
+    "línea subterránea",
+    "220 kV",
+    "evacuación energética",
+    "Consejería de Fomento",
+    "autorización"
+  ],
+  "references": [
+    "HELIOS 1 HYPERION ENERGY INVESTMENTS, S.L.",
+    "BA03163f10 - 14/10/2010",
+    "SE1103048 - 09/01/2012"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c9ebe87d0d129f61.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c9ebe87d0d129f61.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:14:01.966985+00:00",
+  "usage": {
+    "input_tokens": 2076,
+    "output_tokens": 767,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3918
+}

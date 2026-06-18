@@ -1,0 +1,47 @@
+{
+  "doc_id": "dd38091f5a7432eb",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.8 Solicitud APM.pdf",
+  "title": "5.10.2.8 Solicitud APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de puesta en marcha de la subestación colectora para las plantas termosolares Helios, acompañada de varios documentos técnicos y legales.",
+  "summary_points": [
+    "Solicitud de puesta en marcha de la subestación colectora para las plantas termosolares Helios, acompañada de varios documentos técnicos y legales."
+  ],
+  "keywords": [
+    "Helios",
+    "plantas termosolares",
+    "subestación colectora",
+    "puesta en marcha",
+    "certificado de dirección",
+    "certificado de instalación",
+    "acreditación",
+    "informe OCA",
+    "protocolo ensayos trafo",
+    "contrato mantenimiento"
+  ],
+  "references": [
+    "2702-1/19",
+    "Helios | Hyperion Energy Investments, S.L.",
+    "B-85588606"
+  ],
+  "warnings": [
+    "Mancha en el texto OCR detectada"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/dd38091f5a7432eb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/dd38091f5a7432eb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:42:44.632977+00:00",
+  "usage": {
+    "input_tokens": 1036,
+    "output_tokens": 444,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1869
+}

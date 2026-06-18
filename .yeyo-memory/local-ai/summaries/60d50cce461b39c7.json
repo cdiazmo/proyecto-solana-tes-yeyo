@@ -1,0 +1,37 @@
+{
+  "doc_id": "60d50cce461b39c7",
+  "path": "12 As Built TES 6/01_M&P/04_P&IDs/4521-PLN-AGE-67-71-P484.pdf",
+  "title": "4521-PLN-AGE-67-71-P484",
+  "doc_code": "4521-PLN-AGE-67-71-P484",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "P&ID for two units by ABENER TEYMASOLANAABENGOA SOLARAG ENGINEERING.",
+  "summary_points": [
+    "P&ID for two units by ABENER TEYMASOLANAABENGOA SOLARAG ENGINEERING."
+  ],
+  "keywords": [
+    "ABENER TEYMASOLANAABENGOA",
+    "SOLARAG ENGINEERING",
+    "P&ID",
+    "two units"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso: 'ABENER TEYMASOLANAABENGOA' y 'SOLARAG ENGINEERING' podrían no ser correctos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/60d50cce461b39c7.md",
+  "source_extracted_path": ".yeyo-memory/extracted/60d50cce461b39c7.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:37:07.246587+00:00",
+  "usage": {
+    "input_tokens": 437,
+    "output_tokens": 146,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 92
+}

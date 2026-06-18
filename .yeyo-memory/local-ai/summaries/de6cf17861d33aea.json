@@ -1,0 +1,44 @@
+{
+  "doc_id": "de6cf17861d33aea",
+  "path": "Helios Sole/Línea 15 kV/110719 APM Línea 15 kV.pdf",
+  "title": "110719 APM Línea 15 kV",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de la Consejería de Fomento en Ciudad Real para inscribir una instalación eléctrica de 15 kV para bombeo, con condiciones específicas y responsabilidades del Director de Obra.",
+  "summary_points": [
+    "Resolución de la Consejería de Fomento en Ciudad Real para inscribir una instalación eléctrica de 15 kV para bombeo, con condiciones específicas y responsabilidades del Director de Obra."
+  ],
+  "keywords": [
+    "Consejería de Fomento",
+    "Instalación eléctrica",
+    "15 kV",
+    "Bombeo",
+    "Director de Obra",
+    "Visado",
+    "Normativa"
+  ],
+  "references": [
+    "RESOLUCIÓN DE 18/07/2011",
+    "$A01661-10",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "El texto contiene caracteres especiales que pueden no ser reconocidos correctamente por el OCR."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/de6cf17861d33aea.md",
+  "source_extracted_path": ".yeyo-memory/extracted/de6cf17861d33aea.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:11:35.234696+00:00",
+  "usage": {
+    "input_tokens": 1728,
+    "output_tokens": 1042,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3777
+}

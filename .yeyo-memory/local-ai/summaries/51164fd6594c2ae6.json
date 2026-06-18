@@ -1,0 +1,41 @@
+{
+  "doc_id": "51164fd6594c2ae6",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/181205/Transmittal RHP18-161.pdf",
+  "title": "Transmittal RHP18-161",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Transmittal document for Performance Test Procedure of Arizona Solar One Salt Drain Pump.",
+  "summary_points": [
+    "Transmittal document for Performance Test Procedure of Arizona Solar One Salt Drain Pump."
+  ],
+  "keywords": [
+    "Performance Test Procedure",
+    "Arizona Solar One",
+    "Salt Drain Pump",
+    "Rheinhuette Pumps",
+    "Quality Documentation"
+  ],
+  "references": [
+    "W103387-0-60000-0-Quality Documentation_en-00",
+    "ITP-18091405-Rheinhuette Pumps-Arizona Solar One-00 W103387-0-6007000Paint ProcedureW103387-0-60070_Painting_Procedure_en-003.00.4601-001_en-Rev.0000"
+  ],
+  "warnings": [
+    "Text incomplete, OCR issues detected."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/51164fd6594c2ae6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/51164fd6594c2ae6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:30:56.252572+00:00",
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 498,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 684
+}

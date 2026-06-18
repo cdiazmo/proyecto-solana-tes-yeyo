@@ -1,0 +1,43 @@
+{
+  "doc_id": "26b812265c19cf2c",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.5 Pozo 4/5.9.5.5 Acreditacion instalador.pdf",
+  "title": "5.9.5.5 Acreditacion instalador",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de no sanción para instalador especialista en diversas modalidades eléctricas y energéticas.",
+  "summary_points": [
+    "Certificado de no sanción para instalador especialista en diversas modalidades eléctricas y energéticas."
+  ],
+  "keywords": [
+    "certificado",
+    "no sanción",
+    "instalador",
+    "especialista",
+    "modalidades",
+    "energética",
+    "automatización",
+    "viviendas",
+    "edificios"
+  ],
+  "references": [
+    "IBTE-173-A06018329",
+    "CCIE-242-33986337L"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/26b812265c19cf2c.md",
+  "source_extracted_path": ".yeyo-memory/extracted/26b812265c19cf2c.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:50:43.874640+00:00",
+  "usage": {
+    "input_tokens": 1207,
+    "output_tokens": 462,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2333
+}

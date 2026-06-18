@@ -1,0 +1,41 @@
+{
+  "doc_id": "996a78ee46bb3d97",
+  "path": "Helios Sole/SE Colectora/120117 Helios I Línea 15 kV suministro auxiliar.pdf",
+  "title": "120117 Helios I Línea 15 kV suministro auxiliar",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de puesta en marcha de una línea de servicios auxiliares para la subestación colectora Helios, basada en autorizaciones administrativas previas.",
+  "summary_points": [
+    "Solicitud de puesta en marcha de una línea de servicios auxiliares para la subestación colectora Helios, basada en autorizaciones administrativas previas."
+  ],
+  "keywords": [
+    "Helios",
+    "Hyperion Energy Investments",
+    "planta termosolar",
+    "línea de servicios auxiliares",
+    "subestación colectora",
+    "autorización administrativa"
+  ],
+  "references": [
+    "2702-1/19",
+    "13240100144",
+    "13210201970"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/996a78ee46bb3d97.md",
+  "source_extracted_path": ".yeyo-memory/extracted/996a78ee46bb3d97.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:04:55.580397+00:00",
+  "usage": {
+    "input_tokens": 1602,
+    "output_tokens": 435,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3193
+}

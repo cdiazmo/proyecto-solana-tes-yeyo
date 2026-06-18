@@ -1,0 +1,41 @@
+{
+  "doc_id": "e05b28ec91ed0323",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.2 CDO EP.pdf",
+  "title": "5.7.5.2 CDO EP",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificación técnica de instalación de aparatos a presión para UTE Abner Teyma Helios Campo de San Juan. Cumple con Reglamento 2060/2008 y pruebas realizadas exitosas.",
+  "summary_points": [
+    "Certificación técnica de instalación de aparatos a presión para UTE Abner Teyma Helios Campo de San Juan. Cumple con Reglamento 2060/2008 y pruebas realizadas exitosas."
+  ],
+  "keywords": [
+    "aparatos a presión",
+    "UTE Abner Teyma",
+    "Helios Campo de San Juan",
+    "inspección visual",
+    "pruebas de presión",
+    "Reglamento 2060/2008"
+  ],
+  "references": [
+    "2109/2011",
+    "FRANCISCO TOMAS CALDERA Y GONZALEZ",
+    "Real Decreto 2060/2008"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/e05b28ec91ed0323.md",
+  "source_extracted_path": ".yeyo-memory/extracted/e05b28ec91ed0323.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:55:03.331183+00:00",
+  "usage": {
+    "input_tokens": 1261,
+    "output_tokens": 275,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2560
+}

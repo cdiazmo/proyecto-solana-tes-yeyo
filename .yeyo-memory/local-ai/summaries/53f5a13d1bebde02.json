@@ -1,0 +1,42 @@
+{
+  "doc_id": "53f5a13d1bebde02",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201 Rev.0 Packing List - Heaters.pdf",
+  "title": "1950201 Rev.0 Packing List - Heaters",
+  "doc_code": "",
+  "revision": "Rev.0",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Packing list for oil to salt heat exchangers, total weight 628.920 kg, dimensions and quantities provided.",
+  "summary_points": [
+    "Packing list for oil to salt heat exchangers, total weight 628.920 kg, dimensions and quantities provided."
+  ],
+  "keywords": [
+    "packing list",
+    "oil to salt heat exchangers",
+    "weight",
+    "dimensions",
+    "quantity"
+  ],
+  "references": [
+    "TD-LIS-SLN-003",
+    "LOINTEK SL",
+    "Arizona Solar One LLC"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos números y medidas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/53f5a13d1bebde02.md",
+  "source_extracted_path": ".yeyo-memory/extracted/53f5a13d1bebde02.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:32:17.437759+00:00",
+  "usage": {
+    "input_tokens": 899,
+    "output_tokens": 593,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1082
+}

@@ -1,0 +1,44 @@
+{
+  "doc_id": "288c117b2e5a0e54",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.4 Cert OCA.pdf",
+  "title": "5.9.2.4 Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de inspección eléctrica de baja tensión para la planta solar termoeléctrica Helios I. La instalación cumple con el Reglamento Electrotécnico y no presenta defectos.",
+  "summary_points": [
+    "Certificado de inspección eléctrica de baja tensión para la planta solar termoeléctrica Helios I. La instalación cumple con el Reglamento Electrotécnico y no presenta defectos."
+  ],
+  "keywords": [
+    "certificado",
+    "inspección",
+    "instalación eléctrica",
+    "baja tensión",
+    "Helios I",
+    "planta solar termoeléctrica",
+    "Reglamento Electrotécnico"
+  ],
+  "references": [
+    "RD 842/2002",
+    "ITC-BT-05",
+    "OC-1/034"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/288c117b2e5a0e54.md",
+  "source_extracted_path": ".yeyo-memory/extracted/288c117b2e5a0e54.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:27:27.209196+00:00",
+  "usage": {
+    "input_tokens": 2027,
+    "output_tokens": 682,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4562
+}

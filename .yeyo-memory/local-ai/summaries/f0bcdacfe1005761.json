@@ -1,0 +1,38 @@
+{
+  "doc_id": "f0bcdacfe1005761",
+  "path": "04 GD Fabricacon LOI TES 3/Dibujo/1950201 - Placas de características selladas.pdf",
+  "title": "1950201 - Placas de características selladas",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Documento técnico con información sobre presión de trabajo, temperatura de diseño y pruebas hidrásticas.",
+  "summary_points": [
+    "Documento técnico con información sobre presión de trabajo, temperatura de diseño y pruebas hidrásticas."
+  ],
+  "keywords": [
+    "presión de trabajo",
+    "temperatura de diseño",
+    "pruebas hidrásticas",
+    "corrosión",
+    "tuberías"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso en varias páginas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f0bcdacfe1005761.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f0bcdacfe1005761.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:02:06.449337+00:00",
+  "usage": {
+    "input_tokens": 3412,
+    "output_tokens": 1626,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3015
+}

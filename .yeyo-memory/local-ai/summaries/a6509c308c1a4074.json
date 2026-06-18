@@ -1,0 +1,45 @@
+{
+  "doc_id": "a6509c308c1a4074",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.1 LAAT - LSAT H I/5.10.1.3 Certificado LAAT.pdf",
+  "title": "5.10.1.3 Certificado LAAT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de alta tensión para la línea A en la empresa INSTALACIONES INABENSA, S.A., ejecutado por José García López.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de alta tensión para la línea A en la empresa INSTALACIONES INABENSA, S.A., ejecutado por José García López."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "alta tensión",
+    "INABENSA",
+    "José García López",
+    "CT",
+    "CS",
+    "Jaeger"
+  ],
+  "references": [
+    "RD 223/2008",
+    "RD 3275/1982",
+    "Orden de 6 de julio de 1984"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a6509c308c1a4074.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a6509c308c1a4074.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:35:14.345033+00:00",
+  "usage": {
+    "input_tokens": 898,
+    "output_tokens": 584,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1526
+}

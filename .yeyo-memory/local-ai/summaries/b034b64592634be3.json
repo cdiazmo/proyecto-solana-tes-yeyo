@@ -1,0 +1,59 @@
+{
+  "doc_id": "b034b64592634be3",
+  "path": "Documentos en Servidor Atlántica/260422_02 LIS cargas Sc y Hl/Potencias instaladas y disponibles en Solacor.xlsx",
+  "title": "Potencias instaladas y disponibles en Solacor",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Tabla de potencias instaladas y disponibles en Solacor para equipos N1BFA10, O1BFA10, N1BFA40, O1BFA40, N1BMA20, O1BMA20, N1BFA50, O1BFA50. Incluye potencia instalada, consumida, trafo, sobrante y requerida.",
+  "summary_points": [
+    "Tabla de potencias instaladas y disponibles en Solacor para equipos N1BFA10, O1BFA10, N1BFA40, O1BFA40, N1BMA20, O1BMA20, N1BFA50, O1BFA50. Incluye potencia instalada, consumida, trafo, sobrante y requerida."
+  ],
+  "keywords": [
+    "potencias",
+    "instaladas",
+    "disponibles",
+    "Solacor",
+    "N1BFA10",
+    "O1BFA10",
+    "N1BFA40",
+    "O1BFA40",
+    "N1BMA20",
+    "O1BMA20",
+    "N1BFA50",
+    "O1BFA50",
+    "coeficiente simultáneo",
+    "potencia consumida",
+    "potencia trafo",
+    "potencia sobrante",
+    "potencia requerida"
+  ],
+  "references": [
+    "N1BFA10",
+    "O1BFA10",
+    "N1BFA40",
+    "O1BFA40",
+    "N1BMA20",
+    "O1BMA20",
+    "N1BFA50",
+    "O1BFA50"
+  ],
+  "warnings": [
+    "La tabla está rotada y necesita ser ajustada para su visualización correcta."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b034b64592634be3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b034b64592634be3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:33:57.452189+00:00",
+  "usage": {
+    "input_tokens": 1104,
+    "output_tokens": 1075,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1250
+}

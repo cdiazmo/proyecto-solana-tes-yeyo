@@ -1,0 +1,47 @@
+{
+  "doc_id": "1495e8a3f345b351",
+  "path": "Documentos en Servidor Atlántica/1950801-LIS-0020-00_Rev01 Lista de documentos-260428.xlsx",
+  "title": "1950801-LIS-0020-00 Rev01 Lista de documentos-260428",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Lista de documentos y detalles técnicos para el proyecto SOLARCOR I&II TES SYSTEM CORDOBA (SPAIN). Incluye información sobre la revisión, estado y detalles de los documentos.",
+  "summary_points": [
+    "Lista de documentos y detalles técnicos para el proyecto SOLARCOR I&II TES SYSTEM CORDOBA (SPAIN). Incluye información sobre la revisión, estado y detalles de los documentos."
+  ],
+  "keywords": [
+    "SOLARCOR",
+    "TES SYSTEM",
+    "CORDOBA",
+    "ATLANTICA YIELD",
+    "REVISION",
+    "LISTA DE DOCUMENTOS",
+    "MEMORIA TÉCNICA",
+    "INSTALACIÓN"
+  ],
+  "references": [
+    "1950801-LIS-0020-00",
+    "1950801-TN-3000-00",
+    "1950801-CAL-0550-25",
+    "1950801-INF-6001-00",
+    "1950801-PID-3030-00"
+  ],
+  "warnings": [
+    "La tabla en el sheet AVANCE está incompleta y contiene errores de cálculo (#DIV/0!)."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1495e8a3f345b351.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1495e8a3f345b351.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:20:55.023902+00:00",
+  "usage": {
+    "input_tokens": 2644,
+    "output_tokens": 915,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4233
+}

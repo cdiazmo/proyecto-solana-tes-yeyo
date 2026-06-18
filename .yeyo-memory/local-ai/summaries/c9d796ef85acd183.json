@@ -1,0 +1,44 @@
+{
+  "doc_id": "c9d796ef85acd183",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.10 Carta no AA.pdf",
+  "title": "5.10.3.10 Carta no AA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Justificante para la presentación de un proyecto de instalación eléctrica de alta tensión no sometida al régimen de autorización administrativa previa, incluyendo requisitos de documentación y inspecciones.",
+  "summary_points": [
+    "Justificante para la presentación de un proyecto de instalación eléctrica de alta tensión no sometida al régimen de autorización administrativa previa, incluyendo requisitos de documentación y inspecciones."
+  ],
+  "keywords": [
+    "proyecto",
+    "instalación",
+    "alta tensión",
+    "justificante",
+    "documentación",
+    "inspecciones"
+  ],
+  "references": [
+    "13210201970",
+    "63046 — 17 de enero de 2012",
+    "José Enrique Myro Borrero",
+    "INGENIEROS INDUSTRIALES DE ANDALUCÍA OCCIDENTAL"
+  ],
+  "warnings": [
+    "Texto incompleto en la página 3"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c9d796ef85acd183.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c9d796ef85acd183.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:25:03.718118+00:00",
+  "usage": {
+    "input_tokens": 1905,
+    "output_tokens": 664,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4421
+}

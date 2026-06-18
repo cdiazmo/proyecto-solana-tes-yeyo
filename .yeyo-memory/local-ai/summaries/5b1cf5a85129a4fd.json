@@ -1,0 +1,43 @@
+{
+  "doc_id": "5b1cf5a85129a4fd",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.8 Presentacion proyecto.pdf",
+  "title": "5.10.3.8 Presentacion proyecto",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de puesta en marcha de una línea de servicios auxiliares para la subestación colectora Helios, con autorización previa y justificación del proceso.",
+  "summary_points": [
+    "Solicitud de puesta en marcha de una línea de servicios auxiliares para la subestación colectora Helios, con autorización previa y justificación del proceso."
+  ],
+  "keywords": [
+    "Helios",
+    "Hyperion Energy Investments",
+    "Arenas de San Juan",
+    "Planta termosolar",
+    "Autorización Administrativa",
+    "Subestación colectora",
+    "Linea auxiliar",
+    "15 kV"
+  ],
+  "references": [
+    "2702-1/19",
+    "13240100144",
+    "13210201970"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/5b1cf5a85129a4fd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/5b1cf5a85129a4fd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:45:05.088375+00:00",
+  "usage": {
+    "input_tokens": 1094,
+    "output_tokens": 453,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2031
+}

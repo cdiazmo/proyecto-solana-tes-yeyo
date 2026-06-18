@@ -1,0 +1,42 @@
+{
+  "doc_id": "7b723ab6b86945d5",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Bandeja eléctrica TMT-18230-5 - Entregada para construcción/185107-SK-E002.pdf",
+  "title": "185107-SK-E002",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Planos",
+  "summary": "Documentación técnica para la instalación de un cable tray en el plano Este de la electricidad en Solana.",
+  "summary_points": [
+    "Documentación técnica para la instalación de un cable tray en el plano Este de la electricidad en Solana."
+  ],
+  "keywords": [
+    "cable tray",
+    "electricity",
+    "Solana",
+    "plano Este",
+    "revision",
+    "aprobación"
+  ],
+  "references": [
+    "185107-SK-E002",
+    "TMT-18230-5"
+  ],
+  "warnings": [
+    "Fecha de Revisión y Fecha de Aprobación no coinciden con el formato esperado"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7b723ab6b86945d5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7b723ab6b86945d5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:38:25.556656+00:00",
+  "usage": {
+    "input_tokens": 499,
+    "output_tokens": 224,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 224
+}

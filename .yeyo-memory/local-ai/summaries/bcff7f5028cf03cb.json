@@ -1,0 +1,45 @@
+{
+  "doc_id": "bcff7f5028cf03cb",
+  "path": "04 GD Fabricacon LOI TES 3/Listas/1950201 Rev.0 Packing List - Spare parts&material for saddles.pdf",
+  "title": "1950201 Rev.0 Packing List - Spare parts&material for saddles",
+  "doc_code": "",
+  "revision": "Rev.0",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Listados e indices",
+  "summary": "Packing list for spare parts and material for saddles, including oil heat exchangers and wooden boxes. Supplier: LOINTEK SL.",
+  "summary_points": [
+    "Packing list for spare parts and material for saddles, including oil heat exchangers and wooden boxes. Supplier: LOINTEK SL."
+  ],
+  "keywords": [
+    "packing list",
+    "spare parts",
+    "saddles",
+    "oil heat exchangers",
+    "wooden boxes",
+    "supplier",
+    "LOINTEK SL"
+  ],
+  "references": [
+    "4500900424",
+    "45009009047",
+    "TD-LIS-SLN-003-003"
+  ],
+  "warnings": [
+    "Total Net Weight and Total Gross Weight are not provided.",
+    "Total Volume is not provided."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bcff7f5028cf03cb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bcff7f5028cf03cb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:31:54.241056+00:00",
+  "usage": {
+    "input_tokens": 820,
+    "output_tokens": 521,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 974
+}

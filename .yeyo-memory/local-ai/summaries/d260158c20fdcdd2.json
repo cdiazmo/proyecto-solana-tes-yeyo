@@ -1,0 +1,47 @@
+{
+  "doc_id": "d260158c20fdcdd2",
+  "path": "Helios Sole/Helios II/5.10 AT/5.10.3 AT Helios II/5.10.3.9 APM.pdf",
+  "title": "5.10.3.9 APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de autorización para la puesta en marcha de una instalación eléctrica solar en Arenas de San Juan y Puerto Lápice.",
+  "summary_points": [
+    "Resolución de autorización para la puesta en marcha de una instalación eléctrica solar en Arenas de San Juan y Puerto Lápice."
+  ],
+  "keywords": [
+    "Helios II",
+    "Instalación Eléctrica",
+    "Solar",
+    "Arenas de San Juan",
+    "Puerto Lápice",
+    "Turbina",
+    "Centros de Transformación",
+    "Revisión Periódica"
+  ],
+  "references": [
+    "13210204794",
+    "Real Decreto 1955/2000",
+    "Ley 54/1997",
+    "Decreto 80/2007",
+    "Ley 30/1992"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d260158c20fdcdd2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d260158c20fdcdd2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:21:28.719028+00:00",
+  "usage": {
+    "input_tokens": 3075,
+    "output_tokens": 958,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4241
+}

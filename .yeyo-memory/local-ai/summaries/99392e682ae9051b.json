@@ -1,0 +1,46 @@
+{
+  "doc_id": "99392e682ae9051b",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/HELIO U1 y U2.pdf",
+  "title": "HELIO U1 y U2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Inspección de fugas por helio para uniónes entre tubos y hojas de tuberías (T2). Resultados satisfactorios en ambos equipos.",
+  "summary_points": [
+    "Inspección de fugas por helio para uniónes entre tubos y hojas de tuberías (T2). Resultados satisfactorios en ambos equipos."
+  ],
+  "keywords": [
+    "helium leak test",
+    "tube to tubesheet joints",
+    "tightness",
+    "bubbles testing mass spectrometer",
+    "adixen asm-142",
+    "calibration",
+    "results",
+    "inspection"
+  ],
+  "references": [
+    "FIT-ETP-01",
+    "1950201-DWG-002 REY 01",
+    "ITEM UNIT 2",
+    "ITEM UNIT 1"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunas áreas, especialmente en las firmas y fechas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/99392e682ae9051b.md",
+  "source_extracted_path": ".yeyo-memory/extracted/99392e682ae9051b.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:49:37.608850+00:00",
+  "usage": {
+    "input_tokens": 1212,
+    "output_tokens": 831,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2274
+}

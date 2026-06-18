@@ -1,0 +1,46 @@
+{
+  "doc_id": "9f0b24ba0ea709a6",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.2 Cambio titular.pdf",
+  "title": "5.7.8.2 Cambio titular",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de cambio de titularidad de instalación eléctrica de baja tensión para Helios |.",
+  "summary_points": [
+    "Resolución de cambio de titularidad de instalación eléctrica de baja tensión para Helios |."
+  ],
+  "keywords": [
+    "Cambio de titularidad",
+    "Instalación eléctrica",
+    "Baja tensión",
+    "Helios |",
+    "UTE Abener Teyma",
+    "Helios | Hyperion Energy Investments",
+    "Consejería de Fomento",
+    "Ciudad Real"
+  ],
+  "references": [
+    "R.D.1955/2000",
+    "R.D.842/2002",
+    "Ley 30/1992",
+    "Ley 4/1999"
+  ],
+  "warnings": [
+    "Texto incompleto en la última página."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9f0b24ba0ea709a6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9f0b24ba0ea709a6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:05:45.160781+00:00",
+  "usage": {
+    "input_tokens": 1576,
+    "output_tokens": 454,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3219
+}

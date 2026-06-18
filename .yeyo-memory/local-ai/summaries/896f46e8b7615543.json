@@ -1,0 +1,38 @@
+{
+  "doc_id": "896f46e8b7615543",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.8 Arqueton Balsa/5.9.7.5 Acreditacion instalador.pdf",
+  "title": "5.9.7.5 Acreditacion instalador",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de no sanción para JACINTO SOTO GARCIA MORA en modalidades eléctricas.",
+  "summary_points": [
+    "Certificado de no sanción para JACINTO SOTO GARCIA MORA en modalidades eléctricas."
+  ],
+  "keywords": [
+    "certificado",
+    "no sanción",
+    "JACINTO SOTO GARCIA MORA",
+    "CCIE-242-33986337L",
+    "modalidades eléctricas"
+  ],
+  "references": [
+    "IBTE-173-A06018329"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/896f46e8b7615543.md",
+  "source_extracted_path": ".yeyo-memory/extracted/896f46e8b7615543.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:51:11.438161+00:00",
+  "usage": {
+    "input_tokens": 1208,
+    "output_tokens": 534,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2333
+}

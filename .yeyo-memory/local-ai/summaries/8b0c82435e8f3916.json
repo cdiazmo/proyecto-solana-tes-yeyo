@@ -1,0 +1,28 @@
+{
+  "doc_id": "8b0c82435e8f3916",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/Cert OCA.pdf",
+  "title": "Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "",
+  "summary_points": [],
+  "keywords": [],
+  "references": [],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8b0c82435e8f3916.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8b0c82435e8f3916.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:26:13.272499+00:00",
+  "usage": {
+    "input_tokens": 661,
+    "output_tokens": 32,
+    "calls": 2
+  },
+  "repaired_calls": 1,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4461
+}

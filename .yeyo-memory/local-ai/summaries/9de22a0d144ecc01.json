@@ -1,0 +1,41 @@
+{
+  "doc_id": "9de22a0d144ecc01",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.8 Cambio titular/5.7.8.1 Solicitud cambio titular.pdf",
+  "title": "5.7.8.1 Solicitud cambio titular",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud para cambiar el titular de instalaciones eléctricas y de protección contra incendios en la planta termosolar Helios I.",
+  "summary_points": [
+    "Solicitud para cambiar el titular de instalaciones eléctricas y de protección contra incendios en la planta termosolar Helios I."
+  ],
+  "keywords": [
+    "solicitud",
+    "cambio titular",
+    "instalaciones",
+    "Helios I",
+    "protección contra incendios"
+  ],
+  "references": [
+    "13230419888",
+    "13320000031",
+    "El Silo",
+    "Central Termosolar de 50 MW"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/9de22a0d144ecc01.md",
+  "source_extracted_path": ".yeyo-memory/extracted/9de22a0d144ecc01.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:02:26.309455+00:00",
+  "usage": {
+    "input_tokens": 1419,
+    "output_tokens": 719,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3031
+}

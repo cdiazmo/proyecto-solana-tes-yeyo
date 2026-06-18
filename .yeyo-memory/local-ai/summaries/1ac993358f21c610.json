@@ -1,0 +1,42 @@
+{
+  "doc_id": "1ac993358f21c610",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.3 C Instalacion.pdf",
+  "title": "5.9.3.3 C Instalacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de baja tensión para Helios | Hyperion Energy Investments, S.L., con detalles técnicos y firmas del instalador autorizado.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de baja tensión para Helios | Hyperion Energy Investments, S.L., con detalles técnicos y firmas del instalador autorizado."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación eléctrica",
+    "baja tensión",
+    "Helios",
+    "Hyperion Energy Investments",
+    "Jacinto Sfto Garcfa-Mor a ito DEA"
+  ],
+  "references": [
+    "DR-332-A06018329",
+    "06CCIE/242/33986337L"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares, como 'PA O ÓN', 'ES IN E Proyecto', y otros campos que no se pueden leer con certeza."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1ac993358f21c610.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1ac993358f21c610.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:44:34.896669+00:00",
+  "usage": {
+    "input_tokens": 1109,
+    "output_tokens": 657,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1988
+}

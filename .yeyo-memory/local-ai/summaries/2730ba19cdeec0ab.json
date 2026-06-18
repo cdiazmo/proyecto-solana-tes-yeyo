@@ -1,0 +1,40 @@
+{
+  "doc_id": "2730ba19cdeec0ab",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/Comentarios documentación Lointek.xlsx",
+  "title": "Comentarios documentación Lointek",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Documentos técnicos sobre testigos de fugas, válvulas antirretorno, nomenclatura de valvulas, temperatura de entrada y resistencias eléctricas.",
+  "summary_points": [
+    "Documentos técnicos sobre testigos de fugas, válvulas antirretorno, nomenclatura de valvulas, temperatura de entrada y resistencias eléctricas."
+  ],
+  "keywords": [
+    "testigo de fugas",
+    "valvulas antirretorno",
+    "nomenclatura",
+    "temperatura de entrada",
+    "resistencias eléctricas"
+  ],
+  "references": [
+    "1950801-PID-3030-00",
+    "1950801-CAL-0550-25 H&MB",
+    "Kaxu"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2730ba19cdeec0ab.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2730ba19cdeec0ab.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:35:24.479450+00:00",
+  "usage": {
+    "input_tokens": 988,
+    "output_tokens": 392,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1536
+}

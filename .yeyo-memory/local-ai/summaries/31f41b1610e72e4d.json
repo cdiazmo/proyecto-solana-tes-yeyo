@@ -1,0 +1,40 @@
+{
+  "doc_id": "31f41b1610e72e4d",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/Solicitud Industria.pdf",
+  "title": "Solicitud Industria",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de venta o arrendamiento de industria a ELi9.3 en Ciudad Real, con requisito de avalar la firma del vendedor o arrendador.",
+  "summary_points": [
+    "Solicitud de venta o arrendamiento de industria a ELi9.3 en Ciudad Real, con requisito de avalar la firma del vendedor o arrendador."
+  ],
+  "keywords": [
+    "venta",
+    "arrendamiento",
+    "industria",
+    "ELi9.3",
+    "Ciudad Real",
+    "Alcalde",
+    "entidad bancaria"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso, caracteres especiales y números mal reconocidos."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/31f41b1610e72e4d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/31f41b1610e72e4d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:31:26.528970+00:00",
+  "usage": {
+    "input_tokens": 674,
+    "output_tokens": 357,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 944
+}

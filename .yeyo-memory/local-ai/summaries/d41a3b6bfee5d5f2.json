@@ -1,0 +1,37 @@
+{
+  "doc_id": "d41a3b6bfee5d5f2",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Transmision 24-04-2019/Siemens Motor 10709A.PDF",
+  "title": "Siemens Motor 10709A",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Texto confuso y defectuoso. No se puede extraer información útil.",
+  "summary_points": [
+    "Texto confuso y defectuoso. No se puede extraer información útil."
+  ],
+  "keywords": [
+    "confuso",
+    "defectuoso",
+    "texto"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso",
+    "Texto incompleto"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/d41a3b6bfee5d5f2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/d41a3b6bfee5d5f2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:20:21.732666+00:00",
+  "usage": {
+    "input_tokens": 5541,
+    "output_tokens": 90,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4200
+}

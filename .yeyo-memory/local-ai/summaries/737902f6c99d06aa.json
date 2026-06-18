@@ -1,0 +1,43 @@
+{
+  "doc_id": "737902f6c99d06aa",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.4 Mod BT/5.7.4.2 CDO.pdf",
+  "title": "5.7.4.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica BT para nave de montaje y almacenamiento de colectores cilíndricos-parabólicos. Cumple con las condiciones del Reglamento Electrotécnico para Baja Tensión y requiere inspección periódica.",
+  "summary_points": [
+    "Certificado de instalación eléctrica BT para nave de montaje y almacenamiento de colectores cilíndricos-parabólicos. Cumple con las condiciones del Reglamento Electrotécnico para Baja Tensión y requiere inspección periódica."
+  ],
+  "keywords": [
+    "Certificado",
+    "Instalación BT",
+    "Colectores cilíndricos-parabólicos",
+    "Reglamento Electrotécnico",
+    "Inspección periódica"
+  ],
+  "references": [
+    "COLEGIO OFICIAL DE INGENIEROS TECNICOS INDUSTRIALES DE HUELVA",
+    "Francisco Tomás Caldera y González",
+    "UTE ABERNER e TEYMA HELIOS CAMPO DE SAN JUAN I",
+    "Decreto 842/2002"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/737902f6c99d06aa.md",
+  "source_extracted_path": ".yeyo-memory/extracted/737902f6c99d06aa.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:04:26.894339+00:00",
+  "usage": {
+    "input_tokens": 1530,
+    "output_tokens": 877,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3085
+}

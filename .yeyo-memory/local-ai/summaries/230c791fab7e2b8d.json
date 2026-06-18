@@ -1,0 +1,45 @@
+{
+  "doc_id": "230c791fab7e2b8d",
+  "path": "01 GD AE/I&C/MEM/G70-16-0039-AT-OTI-000005-GAR_901 Cold TES pumps operation for S&T HEX Type.xlsx",
+  "title": "G70-16-0039-AT-OTI-000005-GAR 901 Cold TES pumps operation for S&T HEX Type",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document detailing the operation of Cold TES pumps for S&T HEX Type, including input data and client comments.",
+  "summary_points": [
+    "Document detailing the operation of Cold TES pumps for S&T HEX Type, including input data and client comments."
+  ],
+  "keywords": [
+    "G70-16-0039-AT-OTI-000005-GAR",
+    "Cold TES pumps",
+    "S&T HEX Type",
+    "Input data",
+    "Client comments"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0089",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P272-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'Client Transmittal Number' y 'Answer Date'",
+    "Falta información en 'Client Main Comments' y 'Annexes to Comments'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/230c791fab7e2b8d.md",
+  "source_extracted_path": ".yeyo-memory/extracted/230c791fab7e2b8d.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:55:21.849758+00:00",
+  "usage": {
+    "input_tokens": 1397,
+    "output_tokens": 699,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2649
+}

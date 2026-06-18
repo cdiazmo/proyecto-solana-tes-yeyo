@@ -1,0 +1,46 @@
+{
+  "doc_id": "270747cd4a932656",
+  "path": "01 GD AE/I&C/MEM/G70-16-0039-AT-OTI-000009-GAR_901 Hot TES pumps operation for S&T HEX Type.xlsx",
+  "title": "G70-16-0039-AT-OTI-000009-GAR 901 Hot TES pumps operation for S&T HEX Type",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document detailing the operation of Hot TES pumps for S&T HEX Type, including input data and client comments.",
+  "summary_points": [
+    "Document detailing the operation of Hot TES pumps for S&T HEX Type, including input data and client comments."
+  ],
+  "keywords": [
+    "G70-16-0039-AT-OTI-000009-GAR",
+    "Hot TES pumps",
+    "S&T HEX Type",
+    "Input data",
+    "Client comments"
+  ],
+  "references": [
+    "4521-TMT-AEE-AEPC-0089",
+    "4521-PLN-AEE-68-71-P271-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P272-GAR_Rev01",
+    "4521-PLN-AEE-68-71-P278-GAR_Rev02",
+    "4521-PLN-AEE-68-71-P279-GAR_Rev02",
+    "4521-MOM-LOI-039-062-0003-GAR"
+  ],
+  "warnings": [
+    "OCR defectuoso en 'Client Transmittal Number' y 'Answer Date'",
+    "Falta información en 'Client Main Comments' y 'Annexes to Comments'"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/270747cd4a932656.md",
+  "source_extracted_path": ".yeyo-memory/extracted/270747cd4a932656.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:57:11.685612+00:00",
+  "usage": {
+    "input_tokens": 1422,
+    "output_tokens": 725,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2691
+}

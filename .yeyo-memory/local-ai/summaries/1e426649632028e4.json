@@ -1,0 +1,50 @@
+{
+  "doc_id": "1e426649632028e4",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/CFO Visado Bombeo Helios.pdf",
+  "title": "CFO Visado Bombeo Helios",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de alta tensión para el Centro de Seccionamiento y BT en Pozo S de Plataforma Solar Helios, con detalles técnicos sobre la potencia, conductores, transformadores y salida en Baja Tensión.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de alta tensión para el Centro de Seccionamiento y BT en Pozo S de Plataforma Solar Helios, con detalles técnicos sobre la potencia, conductores, transformadores y salida en Baja Tensión."
+  ],
+  "keywords": [
+    "Instalación Electrónica",
+    "Alta Tensión",
+    "Centro de Seccionamiento",
+    "BT",
+    "Pozo S",
+    "Plataforma Solar Helios",
+    "Potencia",
+    "Conductores",
+    "Transformadores",
+    "Bomba Sumergible"
+  ],
+  "references": [
+    "Helios | Hyperion Energy Investments",
+    "Calle Energía Solar, n° 4 piso",
+    "Calle Plataforma Solar Helios",
+    "Instalaciones Inabensa S.A.",
+    "Jesús Castilla Rastrollo",
+    "Colegiado N° 11156"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1e426649632028e4.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1e426649632028e4.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:30:26.179082+00:00",
+  "usage": {
+    "input_tokens": 2056,
+    "output_tokens": 905,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4914
+}

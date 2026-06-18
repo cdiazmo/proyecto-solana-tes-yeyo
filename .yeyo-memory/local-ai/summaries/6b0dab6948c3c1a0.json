@@ -1,0 +1,50 @@
+{
+  "doc_id": "6b0dab6948c3c1a0",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.2 Pozo 1/5.9.2.8 Presentacion anexo erratas.pdf",
+  "title": "5.9.2.8 Presentacion anexo erratas",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de aportación de documentación adicional para corregir errores en la instalación de una planta termosolar de 50 MW.",
+  "summary_points": [
+    "Solicitud de aportación de documentación adicional para corregir errores en la instalación de una planta termosolar de 50 MW."
+  ],
+  "keywords": [
+    "Helios |",
+    "planta solar",
+    "termoeléctrica",
+    "50 MW",
+    "errata",
+    "documentación técnica",
+    "COPITI",
+    "Badajoz"
+  ],
+  "references": [
+    "Helios |",
+    "BT",
+    "D.O.",
+    "Pozo 1",
+    "Puerto Lápice",
+    "Ciudad Real",
+    "COPITI de Badajoz",
+    "BA00779/12"
+  ],
+  "warnings": [
+    "Texto incompleto en algunas partes del texto extraído."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6b0dab6948c3c1a0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6b0dab6948c3c1a0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:46:23.983680+00:00",
+  "usage": {
+    "input_tokens": 1116,
+    "output_tokens": 555,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2093
+}

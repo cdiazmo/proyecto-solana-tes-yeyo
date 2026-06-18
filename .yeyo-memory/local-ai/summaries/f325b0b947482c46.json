@@ -1,0 +1,41 @@
+{
+  "doc_id": "f325b0b947482c46",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.1 BT/5.7.1.2 CDO.pdf",
+  "title": "5.7.1.2 CDO",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica en B.T. para nave de montaje y almacenamiento de colectores cilíndricos-parabólicos, con inspección y pruebas técnicas realizadas.",
+  "summary_points": [
+    "Certificado de instalación eléctrica en B.T. para nave de montaje y almacenamiento de colectores cilíndricos-parabólicos, con inspección y pruebas técnicas realizadas."
+  ],
+  "keywords": [
+    "certificado",
+    "instalaciones eléctricas",
+    "B.T.",
+    "nave de montaje",
+    "colectores",
+    "cilíndricos-parabólicos",
+    "inspección",
+    "pruebas técnicas"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes, especialmente nombres y fechas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/f325b0b947482c46.md",
+  "source_extracted_path": ".yeyo-memory/extracted/f325b0b947482c46.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:58:32.006911+00:00",
+  "usage": {
+    "input_tokens": 1389,
+    "output_tokens": 932,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2811
+}

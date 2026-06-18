@@ -1,0 +1,45 @@
+{
+  "doc_id": "8b0d3856b51991b0",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.2 CDO SE Colectora.pdf",
+  "title": "5.10.2.2 CDO SE Colectora",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de dirección de obra para la instalación de una subcolectora Helios 1 y Helios II en Arenas de San Juan, Ciudad Real. La instalación cumple con los reglamentos vigentes y se autoriza el suministro de energía eléctrica.",
+  "summary_points": [
+    "Certificado de dirección de obra para la instalación de una subcolectora Helios 1 y Helios II en Arenas de San Juan, Ciudad Real. La instalación cumple con los reglamentos vigentes y se autoriza el suministro de energía eléctrica."
+  ],
+  "keywords": [
+    "Certificado de Dirección",
+    "Subcolectora Helios",
+    "Ciudad Real",
+    "Instalación",
+    "Reglamentos",
+    "Suministro de Energía"
+  ],
+  "references": [
+    "INSTALACIONES INABENSA S.A.",
+    "JOSÉ GARCIA LÓPEZ",
+    "41/14.475 lA 41/944-E",
+    "4110668 E",
+    "CAMPUS PALMAS ALTAS PARCELA ZE-3 EDIFICIO C 41012 SEVILLA"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/8b0d3856b51991b0.md",
+  "source_extracted_path": ".yeyo-memory/extracted/8b0d3856b51991b0.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:10:03.256636+00:00",
+  "usage": {
+    "input_tokens": 1804,
+    "output_tokens": 916,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3710
+}

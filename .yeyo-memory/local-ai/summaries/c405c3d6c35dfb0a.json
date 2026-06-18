@@ -1,0 +1,45 @@
+{
+  "doc_id": "c405c3d6c35dfb0a",
+  "path": "Helios Sole/SE Colectora/5.10.2.2 CDO SE Colectora.pdf",
+  "title": "5.10.2.2 CDO SE Colectora",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de dirección de obra para la instalación de subcolectora Helios 1 y Helios II, con detalles técnicos y presupuesto.",
+  "summary_points": [
+    "Certificado de dirección de obra para la instalación de subcolectora Helios 1 y Helios II, con detalles técnicos y presupuesto."
+  ],
+  "keywords": [
+    "certificado",
+    "dirección de obra",
+    "subcolectora",
+    "Helios 1",
+    "Helios II",
+    "instalación",
+    "técnicas",
+    "presupuesto"
+  ],
+  "references": [
+    "INSTALACIONES INABENSA S.A.",
+    "TMC",
+    "CCP JOSÉ GARCIA LÓPEZ"
+  ],
+  "warnings": [
+    "El texto contiene caracteres especiales y números que pueden ser difíciles de leer, lo que podría afectar la legibilidad."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c405c3d6c35dfb0a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c405c3d6c35dfb0a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:10:28.250129+00:00",
+  "usage": {
+    "input_tokens": 1788,
+    "output_tokens": 852,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3710
+}

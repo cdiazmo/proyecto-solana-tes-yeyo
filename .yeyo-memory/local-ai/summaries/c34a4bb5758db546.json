@@ -1,0 +1,39 @@
+{
+  "doc_id": "c34a4bb5758db546",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.7 Pozo 6/CIEBT.pdf",
+  "title": "CIEBT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de baja tensión con datos técnicos y detalles del instalador.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de baja tensión con datos técnicos y detalles del instalador."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "baja tensión",
+    "examen",
+    "resistencia aislamiento",
+    "instalador"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto incompleto en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c34a4bb5758db546.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c34a4bb5758db546.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:35:54.975866+00:00",
+  "usage": {
+    "input_tokens": 899,
+    "output_tokens": 390,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1725
+}

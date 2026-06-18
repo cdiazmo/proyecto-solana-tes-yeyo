@@ -1,0 +1,40 @@
+{
+  "doc_id": "0731dd64985c4e43",
+  "path": "05 GD Fabricación Tecnica de Compra/Bomba drenaje sal/Transmittal RHP18-133.pdf",
+  "title": "Transmittal RHP18-133",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Transmittal RHP18-133 for Arizona Solar One Salt Drain Pump by Rheinhuette Pumps, LLC.",
+  "summary_points": [
+    "Transmittal RHP18-133 for Arizona Solar One Salt Drain Pump by Rheinhuette Pumps, LLC."
+  ],
+  "keywords": [
+    "Transmittal",
+    "RHP18-133",
+    "Arizona Solar One",
+    "Salt Drain Pump",
+    "General Arrangement Drawing",
+    "Rheinhuette Pumps"
+  ],
+  "references": [
+    "AZ-1803140900General Arrangement Drawing",
+    "AZ-18031409_01-01.pdf"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0731dd64985c4e43.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0731dd64985c4e43.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:30:44.145394+00:00",
+  "usage": {
+    "input_tokens": 567,
+    "output_tokens": 314,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 482
+}

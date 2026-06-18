@@ -1,0 +1,40 @@
+{
+  "doc_id": "7739c37ae82a9374",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Bandeja eléctrica TMT-18230-5 - Entregada para construcción/185107-SK-E001.pdf",
+  "title": "185107-SK-E001",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Planos",
+  "summary": "Documento técnico sobre cable tray west plane, electrica solana, escala 1/8\"=1'-0\"",
+  "summary_points": [
+    "Documento técnico sobre cable tray west plane, electrica solana, escala 1/8\"=1'-0\""
+  ],
+  "keywords": [
+    "cable tray",
+    "west plane",
+    "electrical",
+    "solana",
+    "scale"
+  ],
+  "references": [
+    "185107-SK-E001"
+  ],
+  "warnings": [
+    "OCR defectuoso en algunos campos"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/7739c37ae82a9374.md",
+  "source_extracted_path": ".yeyo-memory/extracted/7739c37ae82a9374.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:38:20.587432+00:00",
+  "usage": {
+    "input_tokens": 497,
+    "output_tokens": 207,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 216
+}

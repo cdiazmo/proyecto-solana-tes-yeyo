@@ -1,0 +1,45 @@
+{
+  "doc_id": "1ad290fd58efca30",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.3 Linea auxiliar 15 kV/5.10.3.5 Certificado OCA.pdf",
+  "title": "5.10.3.5 Certificado OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado OCA de inspección de líneas eléctricas de alta tensión en Helios I, con detalles técnicos y medidas de resistencia de tierras.",
+  "summary_points": [
+    "Certificado OCA de inspección de líneas eléctricas de alta tensión en Helios I, con detalles técnicos y medidas de resistencia de tierras."
+  ],
+  "keywords": [
+    "Certificado OCA",
+    "Inspección Líneas Eléctricas",
+    "Helios I",
+    "15 kV",
+    "Investments S.L.",
+    "Applus Norcontrol",
+    "Resistencia Tierras"
+  ],
+  "references": [
+    "OC-1/034",
+    "ENAC",
+    "Helios 1",
+    "12CR200270/C-AT-003"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes, especialmente en los números y nombres de personas."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1ad290fd58efca30.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1ad290fd58efca30.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:07:32.575854+00:00",
+  "usage": {
+    "input_tokens": 1748,
+    "output_tokens": 1188,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3474
+}

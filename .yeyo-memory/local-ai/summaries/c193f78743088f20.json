@@ -1,0 +1,47 @@
+{
+  "doc_id": "c193f78743088f20",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/111230 Contrato Transferencia de titularidad líneas 15 kV.pdf",
+  "title": "111230 Contrato Transferencia de titularidad líneas 15 kV",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Contrato para transferir la titularidad de líneas 15 kV entre Ricardo Valeriano Lorenzo Rasines, Santiago Javier Masa Lorenzo y Helios Energy Investments S.L.",
+  "summary_points": [
+    "Contrato para transferir la titularidad de líneas 15 kV entre Ricardo Valeriano Lorenzo Rasines, Santiago Javier Masa Lorenzo y Helios Energy Investments S.L."
+  ],
+  "keywords": [
+    "contrato",
+    "transferencia",
+    "titularidad",
+    "líneas 15 kV",
+    "Ricardo Valeriano Lorenzo Rasines",
+    "Santiago Javier Masa Lorenzo",
+    "Helios Energy Investments S.L.",
+    "CIF",
+    "Notario"
+  ],
+  "references": [
+    "Valeriano Lorenzo, S.A.",
+    "Masa Lorenzo, S.L.",
+    "Helios 1 Hyperion Energy Investments, S.L.",
+    "Helios II Hyperion Energy Investments, S.L."
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunos lugares"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/c193f78743088f20.md",
+  "source_extracted_path": ".yeyo-memory/extracted/c193f78743088f20.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:08:27.204994+00:00",
+  "usage": {
+    "input_tokens": 1639,
+    "output_tokens": 543,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3481
+}

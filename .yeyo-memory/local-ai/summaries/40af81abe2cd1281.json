@@ -1,0 +1,41 @@
+{
+  "doc_id": "40af81abe2cd1281",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.4 Pozo 3/5.9.4.3 C Instalacion.pdf",
+  "title": "5.9.4.3 C Instalacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de baja tensión para Helios | Hyperion Energy Investments, S.L., verificación sin tensión y resistencias de aislamiento cumplen con norma UNE.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de baja tensión para Helios | Hyperion Energy Investments, S.L., verificación sin tensión y resistencias de aislamiento cumplen con norma UNE."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "baja tensión",
+    "Helios",
+    "Hyperion Energy Investments",
+    "S.L.",
+    "verificación",
+    "aislamiento"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto incompleto al final del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/40af81abe2cd1281.md",
+  "source_extracted_path": ".yeyo-memory/extracted/40af81abe2cd1281.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:41:56.989466+00:00",
+  "usage": {
+    "input_tokens": 1049,
+    "output_tokens": 220,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1819
+}

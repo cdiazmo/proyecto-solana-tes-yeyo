@@ -1,0 +1,46 @@
+{
+  "doc_id": "fe6ea111d74be513",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.3 Certificado Instalacion.pdf",
+  "title": "5.10.2.3 Certificado Instalacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación para la subestación colectora HELIOS I y II en Sevilla.",
+  "summary_points": [
+    "Certificado de instalación para la subestación colectora HELIOS I y II en Sevilla."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "subestación",
+    "HELIOS",
+    "energía eléctrica",
+    "alta tensión",
+    "transformación"
+  ],
+  "references": [
+    "INSTALACIONES INABENSA, S.A.",
+    "José García López",
+    "RD 223/2008",
+    "RD 3275/1982",
+    "Orden de 6 de julio de 1984"
+  ],
+  "warnings": [
+    "Texto incompleto en la última parte del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/fe6ea111d74be513.md",
+  "source_extracted_path": ".yeyo-memory/extracted/fe6ea111d74be513.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:56:52.656076+00:00",
+  "usage": {
+    "input_tokens": 1300,
+    "output_tokens": 728,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2683
+}

@@ -1,0 +1,41 @@
+{
+  "doc_id": "6c94ead420dab1b2",
+  "path": "01 GD AE/Compras/03 Deposito drenaje/02 Propuestas/Medio Oeste TK/Midwest Tank co ab161104.doc",
+  "title": "Midwest Tank co ab161104",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Midwest Tank Co. quotes a drain tank for $29,550 delivered to Gila Bend, AZ. Includes interior and exterior finishes, lift and ground lugs, ASME Label, and sump section. Delivery time: 14 weeks after approved shop drawing.",
+  "summary_points": [
+    "Midwest Tank Co. quotes a drain tank for $29,550 delivered to Gila Bend, AZ. Includes interior and exterior finishes, lift and ground lugs, ASME Label, and sump section. Delivery time: 14 weeks after approved shop drawing."
+  ],
+  "keywords": [
+    "Midwest Tank Co.",
+    "drain tank",
+    "$29,550",
+    "Gila Bend",
+    "ASME Label",
+    "interior finish",
+    "exterior finish"
+  ],
+  "references": [
+    "Jose.lamela@abengoa.com",
+    "mchurness@izoom.net"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/6c94ead420dab1b2.md",
+  "source_extracted_path": ".yeyo-memory/extracted/6c94ead420dab1b2.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:34:33.944637+00:00",
+  "usage": {
+    "input_tokens": 758,
+    "output_tokens": 448,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1346
+}

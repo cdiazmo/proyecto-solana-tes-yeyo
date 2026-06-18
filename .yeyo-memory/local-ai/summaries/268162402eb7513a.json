@@ -1,0 +1,39 @@
+{
+  "doc_id": "268162402eb7513a",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.7 Tanque combustible/5.7.7.2 Certificado fabricacion tanque.pdf",
+  "title": "5.7.7.2 Certificado fabricacion tanque",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Fabricacion / compras / calidad",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de fabricación y estanqueidad para un tanque atmosférico sin presión de 5.000 Litros, fabricado por METALURGICA GUECA S.L., con pruebas de presión exitosas.",
+  "summary_points": [
+    "Certificado de fabricación y estanqueidad para un tanque atmosférico sin presión de 5.000 Litros, fabricado por METALURGICA GUECA S.L., con pruebas de presión exitosas."
+  ],
+  "keywords": [
+    "tanque",
+    "fabricación",
+    "estanqueidad",
+    "METALURGICA GUECA S.L.",
+    "prueba de presión",
+    "5.000 Litros"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/268162402eb7513a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/268162402eb7513a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:49:53.303415+00:00",
+  "usage": {
+    "input_tokens": 1244,
+    "output_tokens": 568,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2307
+}

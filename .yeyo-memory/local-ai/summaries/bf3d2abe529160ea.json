@@ -1,0 +1,44 @@
+{
+  "doc_id": "bf3d2abe529160ea",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.3 Pozo 2/5.9.3.4 Cert OCA.pdf",
+  "title": "5.9.3.4 Cert OCA",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de inspección eléctrica de baja tensión para la planta solar termoeléctrica Helios I en Villarta de San Juan.",
+  "summary_points": [
+    "Certificado de inspección eléctrica de baja tensión para la planta solar termoeléctrica Helios I en Villarta de San Juan."
+  ],
+  "keywords": [
+    "certificado",
+    "inspección",
+    "instalación eléctrica",
+    "baja tensión",
+    "Helios I",
+    "planta solar",
+    "Villarta de San Juan"
+  ],
+  "references": [
+    "RD 842/2002",
+    "ITC-87-05",
+    "OC-1/034"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/bf3d2abe529160ea.md",
+  "source_extracted_path": ".yeyo-memory/extracted/bf3d2abe529160ea.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:28:24.783623+00:00",
+  "usage": {
+    "input_tokens": 2058,
+    "output_tokens": 741,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4626
+}

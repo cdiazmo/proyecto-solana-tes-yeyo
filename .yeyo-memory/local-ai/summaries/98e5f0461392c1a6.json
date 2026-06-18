@@ -1,0 +1,39 @@
+{
+  "doc_id": "98e5f0461392c1a6",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/PErmit_Cover Letter.docx",
+  "title": "PErmit Cover Letter",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Project update on Thermal Energy Storage (TES) project. Engineering works complete; electrical work pending. Main equipment to arrive by June 2018. Requesting prompt approval for construction start.",
+  "summary_points": [
+    "Project update on Thermal Energy Storage (TES) project. Engineering works complete; electrical work pending. Main equipment to arrive by June 2018. Requesting prompt approval for construction start."
+  ],
+  "keywords": [
+    "Thermal Energy Storage",
+    "Heat Exchange",
+    "Electrical Engineering",
+    "Procurement",
+    "Contract Negotiations",
+    "Construction Start"
+  ],
+  "references": [],
+  "warnings": [
+    "Text incomplete at the end"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/98e5f0461392c1a6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/98e5f0461392c1a6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:33:31.752608+00:00",
+  "usage": {
+    "input_tokens": 614,
+    "output_tokens": 288,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1226
+}

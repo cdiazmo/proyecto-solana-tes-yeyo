@@ -1,0 +1,45 @@
+{
+  "doc_id": "06e46c507506e133",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Motor de la bomba de depósito de drenaje/4521-PLN-ANC-27-21-P001 - R2.pdf",
+  "title": "4521-PLN-ANC-27-21-P001 - R2",
+  "doc_code": "4521-PLN-ANC-27-21-P001",
+  "revision": "R2",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Diagrama de cableado y especificaciones del motor de la bomba de depósito de drenaje.",
+  "summary_points": [
+    "Diagrama de cableado y especificaciones del motor de la bomba de depósito de drenaje."
+  ],
+  "keywords": [
+    "4521-PLN-ANC-37-23-P001",
+    "motor",
+    "bomba",
+    "depósito",
+    "drenaje",
+    "cableado",
+    "diagrama"
+  ],
+  "references": [
+    "4521-PLN-ANC-37-23-P001",
+    "MP-258",
+    "STARTER DOOR"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en varios lugares, como 'L1L2L338404230P-001-14' y 'OL1(T1/2)(T2/4)(L1)(L2)(L3)(T3/6)15480Vac'.",
+    "El texto está rotado o defectuoso en varios lugares."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/06e46c507506e133.md",
+  "source_extracted_path": ".yeyo-memory/extracted/06e46c507506e133.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:38:50.172874+00:00",
+  "usage": {
+    "input_tokens": 804,
+    "output_tokens": 591,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 582
+}

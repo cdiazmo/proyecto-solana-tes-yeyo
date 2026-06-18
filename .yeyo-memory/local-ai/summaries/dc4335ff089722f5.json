@@ -1,0 +1,45 @@
+{
+  "doc_id": "dc4335ff089722f5",
+  "path": "Helios Sole/Helios I/5.10 AT/Líneas 15 kV/Cambio titularidad/Autorización líneas.doc",
+  "title": "Autorización líneas",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Autorización de revisión de expedientes por parte de Valeriano Lorenzo, representado por Santiago José Masa Lorenzo.",
+  "summary_points": [
+    "Autorización de revisión de expedientes por parte de Valeriano Lorenzo, representado por Santiago José Masa Lorenzo."
+  ],
+  "keywords": [
+    "Valeriano Lorenzo",
+    "Santiago José Masa Lorenzo",
+    "Ángel Menor Pozo",
+    "Consejería de Fomento",
+    "Ciudad Real",
+    "expedientes"
+  ],
+  "references": [
+    "13240200172",
+    "13230420126",
+    "13210201969",
+    "13240203624",
+    "13210201970",
+    "13240203625",
+    "13240203626"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/dc4335ff089722f5.md",
+  "source_extracted_path": ".yeyo-memory/extracted/dc4335ff089722f5.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:30:36.052164+00:00",
+  "usage": {
+    "input_tokens": 545,
+    "output_tokens": 390,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 379
+}

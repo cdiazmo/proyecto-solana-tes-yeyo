@@ -1,0 +1,36 @@
+{
+  "doc_id": "1e8c833c721b2a30",
+  "path": "Documentacion con sello PE 08/Cartas de Transmision/Soportes para bandeja de cables TMT-18230-03/185107-SK-C100 sw2.pdf",
+  "title": "185107-SK-C100 sw2",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document issued for construction by LLIANCEENGINEERS & PROJECT CONSULTANTS.",
+  "summary_points": [
+    "Document issued for construction by LLIANCEENGINEERS & PROJECT CONSULTANTS."
+  ],
+  "keywords": [
+    "LLIANCEENGINEERS",
+    "PROJECT CONSULTANTS",
+    "Issued for Construction"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso: '185107-SK-C100 sw2' no encontrado en el texto."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1e8c833c721b2a30.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1e8c833c721b2a30.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:37:16.057752+00:00",
+  "usage": {
+    "input_tokens": 454,
+    "output_tokens": 156,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 155
+}

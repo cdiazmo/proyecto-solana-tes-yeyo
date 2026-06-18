@@ -1,0 +1,42 @@
+{
+  "doc_id": "78e4cd2c203436dd",
+  "path": "Helios Sole/Helios I/5.9 BT/5.9.6 Pozo 5/5.9.6.3 CIBT.pdf",
+  "title": "5.9.6.3 CIBT",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de instalación eléctrica de baja tensión para Helios | Hyperion Energy Investments, S.L., con detalles técnicos y organizaciones involucradas.",
+  "summary_points": [
+    "Certificado de instalación eléctrica de baja tensión para Helios | Hyperion Energy Investments, S.L., con detalles técnicos y organizaciones involucradas."
+  ],
+  "keywords": [
+    "certificado",
+    "instalación",
+    "baja tensión",
+    "Helios",
+    "Hyperion Energy Investments",
+    "S.L.",
+    "resistencia aislamiento",
+    "reglamento electrotécnico"
+  ],
+  "references": [],
+  "warnings": [
+    "Texto incompleto en algunos campos (uso, potencia máxima admisible, tensión)",
+    "Datos de la empresa distribuidora faltantes"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/78e4cd2c203436dd.md",
+  "source_extracted_path": ".yeyo-memory/extracted/78e4cd2c203436dd.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:47:29.138364+00:00",
+  "usage": {
+    "input_tokens": 1177,
+    "output_tokens": 714,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2146
+}

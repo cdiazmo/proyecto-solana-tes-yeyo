@@ -1,0 +1,52 @@
+{
+  "doc_id": "646d8abd57bc2062",
+  "path": "07 Presentado al Condado/0002_Building Permiso/Rev00/Para planificacion/SP-4-Layout1.pdf",
+  "title": "SP-4-Layout1",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing the layout and components of Power Island, including elevations, grading, lighting plans, and contact information.",
+  "summary_points": [
+    "Document detailing the layout and components of Power Island, including elevations, grading, lighting plans, and contact information."
+  ],
+  "keywords": [
+    "Power Island",
+    "Layout",
+    "Elevations",
+    "Grading",
+    "Lighting",
+    "Components",
+    "Contact Information"
+  ],
+  "references": [
+    "SP-1",
+    "SP-5",
+    "GD-4",
+    "LT-2 through LT-15",
+    "GD-20",
+    "GD-5 and GD-6",
+    "GD-7 through GD-14",
+    "PV-2",
+    "GSP-5",
+    "HSP-5",
+    "ESP-5"
+  ],
+  "warnings": [
+    "OCR dudoso en algunos números y letras"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/646d8abd57bc2062.md",
+  "source_extracted_path": ".yeyo-memory/extracted/646d8abd57bc2062.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:40:00.211550+00:00",
+  "usage": {
+    "input_tokens": 1183,
+    "output_tokens": 464,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1757
+}

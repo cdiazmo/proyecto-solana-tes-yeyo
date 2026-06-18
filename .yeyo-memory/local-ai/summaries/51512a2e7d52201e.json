@@ -1,0 +1,43 @@
+{
+  "doc_id": "51512a2e7d52201e",
+  "path": "Helios Sole/Helios II/5.16 Obra civil/5.16.2 CDO OC HII.pdf",
+  "title": "5.16.2 CDO OC HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Civil / estructuras",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de visado y firma digital del proyecto de Planta Solar Térmica Helios II, ejecutado bajo la dirección técnica de Julio Cano Guillamón.",
+  "summary_points": [
+    "Certificado de visado y firma digital del proyecto de Planta Solar Térmica Helios II, ejecutado bajo la dirección técnica de Julio Cano Guillamón."
+  ],
+  "keywords": [
+    "Visado",
+    "Firma Digital",
+    "Julio Cano Guillamón",
+    "Planta Solar Térmica",
+    "Helios II",
+    "Colegio Nacional de Ingenieros ICAI"
+  ],
+  "references": [
+    "2384/10",
+    "3610/07",
+    "B – 85588523"
+  ],
+  "warnings": [
+    "Texto incompleto en algunas secciones"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/51512a2e7d52201e.md",
+  "source_extracted_path": ".yeyo-memory/extracted/51512a2e7d52201e.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:44:17.340328+00:00",
+  "usage": {
+    "input_tokens": 991,
+    "output_tokens": 800,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1974
+}

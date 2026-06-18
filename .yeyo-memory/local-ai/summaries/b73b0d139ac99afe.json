@@ -1,0 +1,45 @@
+{
+  "doc_id": "b73b0d139ac99afe",
+  "path": "12 As Built TES 6/04_Piping/05_Isometrics/257-MS-10F-CS31-4_Sht1_R3.pdf",
+  "title": "257-MS-10F-CS31-4 Sht1 R3",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Document detailing pipe schedule and fittings for 257-MS-10F-CS31-4 Sht1 R3, including gate valves and elbows.",
+  "summary_points": [
+    "Document detailing pipe schedule and fittings for 257-MS-10F-CS31-4 Sht1 R3, including gate valves and elbows."
+  ],
+  "keywords": [
+    "pipe",
+    "schedule",
+    "fittings",
+    "gate valve",
+    "elbow",
+    "support",
+    "material",
+    "length"
+  ],
+  "references": [
+    "M1D_6-MT-252E",
+    "JSMMTGJMRL",
+    "HEXJNGMTGJMRL"
+  ],
+  "warnings": [
+    "OCR issues with some text, unclear references"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/b73b0d139ac99afe.md",
+  "source_extracted_path": ".yeyo-memory/extracted/b73b0d139ac99afe.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:39:15.318343+00:00",
+  "usage": {
+    "input_tokens": 1648,
+    "output_tokens": 743,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 1734
+}

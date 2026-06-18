@@ -1,0 +1,46 @@
+{
+  "doc_id": "1cda4e46cccaac84",
+  "path": "04 GD Fabricacon LOI TES 3/Dossier final fabricacion/Pipe material certificates.pdf",
+  "title": "Pipe material certificates",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Certificate for forged flanges made of ASTM A105N material, normalized at 900°C. Includes mechanical properties and quality certifications.",
+  "summary_points": [
+    "Certificate for forged flanges made of ASTM A105N material, normalized at 900°C. Includes mechanical properties and quality certifications."
+  ],
+  "keywords": [
+    "pipe",
+    "material",
+    "certificate",
+    "ASTM A105N",
+    "forged flanges",
+    "heat treatment",
+    "mechanical properties",
+    "quality certification"
+  ],
+  "references": [
+    "ANSI B16.5",
+    "EN 10204-3.1",
+    "TUV Rheinland Industrie Service GmbH"
+  ],
+  "warnings": [
+    "Text is OCR'd and may contain errors.",
+    "Some pages are blank or contain only part of the text."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/1cda4e46cccaac84.md",
+  "source_extracted_path": ".yeyo-memory/extracted/1cda4e46cccaac84.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:37:03.844153+00:00",
+  "usage": {
+    "input_tokens": 1878,
+    "output_tokens": 1207,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 3008
+}

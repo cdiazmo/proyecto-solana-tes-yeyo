@@ -1,0 +1,52 @@
+{
+  "doc_id": "3b2f34b9522217bf",
+  "path": "Documentos en Servidor Atlántica/Antiguo/00 Old/1950801-LIS-0020-00-Portada_Lista_Documentos.pdf",
+  "title": "1950801-LIS-0020-00-Portada Lista Documentos",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Listados e indices",
+  "summary": "Lista de documentos técnicos para el proyecto ATLANTICA, incluyendo balances energéticos, cálculos estructurales, PIDs, planificación del proyecto y listas de equipos y cargas eléctricas.",
+  "summary_points": [
+    "Lista de documentos técnicos para el proyecto ATLANTICA, incluyendo balances energéticos, cálculos estructurales, PIDs, planificación del proyecto y listas de equipos y cargas eléctricas."
+  ],
+  "keywords": [
+    "ATLANTICA",
+    "LOINTEK",
+    "Balances Energéticos",
+    "Cálculo Estructural",
+    "PIDs",
+    "Planificación del Proyecto",
+    "Lista de Equipos",
+    "Listas de Cargas Eléctricas"
+  ],
+  "references": [
+    "1950801-CAL-0550-25",
+    "1950801-INF-6001-00",
+    "1950801-PID-3030-00",
+    "1950801-PLN-0040-00",
+    "1950801-LIS-3010-00",
+    "1950801-LIS-6500-00",
+    "1950801-DOC-4170-05",
+    "1950801-DOC-4190-00",
+    "1950801-DOC-4130-00",
+    "1950801-DWG-1000-00"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas áreas"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/3b2f34b9522217bf.md",
+  "source_extracted_path": ".yeyo-memory/extracted/3b2f34b9522217bf.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:52:46.249407+00:00",
+  "usage": {
+    "input_tokens": 1415,
+    "output_tokens": 984,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2419
+}

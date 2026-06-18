@@ -1,0 +1,40 @@
+{
+  "doc_id": "57a176cbd3f71a22",
+  "path": "01 GD AE/General/Solana Salt Heat Exchangers Scope and Quote 6.15.docx",
+  "title": "Solana Salt Heat Exchangers Scope and Quote 6.15",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Document detailing the scope and quote for setting up a new salt heat exchanger and removing an old one at the Solana Salt project site, including crane operations and transportation costs.",
+  "summary_points": [
+    "Document detailing the scope and quote for setting up a new salt heat exchanger and removing an old one at the Solana Salt project site, including crane operations and transportation costs."
+  ],
+  "keywords": [
+    "Solana Salt",
+    "heat exchangers",
+    "crane operations",
+    "transportation",
+    "engineering",
+    "costs"
+  ],
+  "references": [],
+  "warnings": [
+    "OCR defectuoso en 'PHH' y 'Bragg Crane'",
+    "Texto incompleto al final"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/57a176cbd3f71a22.md",
+  "source_extracted_path": ".yeyo-memory/extracted/57a176cbd3f71a22.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:25:54.119639+00:00",
+  "usage": {
+    "input_tokens": 1600,
+    "output_tokens": 1369,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4433
+}

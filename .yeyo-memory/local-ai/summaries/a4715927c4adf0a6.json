@@ -1,0 +1,36 @@
+{
+  "doc_id": "a4715927c4adf0a6",
+  "path": "02 GD LOI/Dibujos/4521-PLN-LOI-039-062-0004-GAR Rev01 Layout.pdf",
+  "title": "4521-PLN-LOI-039-062-0004-GAR Rev01 Layout",
+  "doc_code": "4521-PLN-LOI-039-062-0004",
+  "revision": "Rev01",
+  "discipline": "General",
+  "deliverable_part": "Planos",
+  "summary": "Error en la extracción del texto de la página 1.",
+  "summary_points": [
+    "Error en la extracción del texto de la página 1."
+  ],
+  "keywords": [
+    "extracción",
+    "error",
+    "página 1"
+  ],
+  "references": [],
+  "warnings": [
+    "Array-based stream has at least 84523372 > 75000000 output bytes."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a4715927c4adf0a6.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a4715927c4adf0a6.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:37:10.079404+00:00",
+  "usage": {
+    "input_tokens": 449,
+    "output_tokens": 116,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 102
+}

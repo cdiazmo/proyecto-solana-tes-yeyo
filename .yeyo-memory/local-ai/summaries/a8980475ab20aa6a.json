@@ -1,0 +1,49 @@
+{
+  "doc_id": "a8980475ab20aa6a",
+  "path": "Helios Sole/Helios I/5.7 Instalaciones NM/5.7.5 Mod EP/5.7.5.6 Solicitud modificacion.pdf",
+  "title": "5.7.5.6 Solicitud modificacion",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "General",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Solicitud de modificación para la instalación de Helios I, incluyendo varios certificados y documentos técnicos.",
+  "summary_points": [
+    "Solicitud de modificación para la instalación de Helios I, incluyendo varios certificados y documentos técnicos."
+  ],
+  "keywords": [
+    "Helios I",
+    "Instalación",
+    "Modificación",
+    "Certificado Final",
+    "Aparatos A Presión",
+    "Baja Tensión",
+    "Organismo Control Autorizado",
+    "Seguro",
+    "Responsabilidad Civil"
+  ],
+  "references": [
+    "3455/10",
+    "HELIOS I",
+    "FINCA EL SILO",
+    "ARENAS DE SAN JUAN",
+    "PUERTO LAPICE",
+    "VILLARTA DE SAN JUAN"
+  ],
+  "warnings": [
+    "Texto OCR defectuoso en algunas partes del documento."
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/a8980475ab20aa6a.md",
+  "source_extracted_path": ".yeyo-memory/extracted/a8980475ab20aa6a.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:51:53.027641+00:00",
+  "usage": {
+    "input_tokens": 1179,
+    "output_tokens": 743,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2401
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "2c0bc7d7b67ad1d1",
+  "path": "Helios Sole/Helios II/5.9 BT/5.9.1 Planta/5.9.1.2 CDO BT HII.pdf",
+  "title": "5.9.1.2 CDO BT HII",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Electrica",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Certificado de visado y firma digital del proyecto de instalaciones de baja tensión de la Planta Solar Termoeléctrica Helios II, ejecutadas bajo el cumplimiento de RD. 842/2002 y RD. 560/2010.",
+  "summary_points": [
+    "Certificado de visado y firma digital del proyecto de instalaciones de baja tensión de la Planta Solar Termoeléctrica Helios II, ejecutadas bajo el cumplimiento de RD. 842/2002 y RD. 560/2010."
+  ],
+  "keywords": [
+    "Certificado",
+    "Visado",
+    "Firma Digital",
+    "Proyecto de Instalaciones",
+    "Baja Tensión",
+    "Planta Solar Termoeléctrica Helios II",
+    "Normativa"
+  ],
+  "references": [
+    "RD. 842/2002",
+    "RD. 560/2010",
+    "D. Julio Cano Guillamon",
+    "D. Rafael Moreno Delgado",
+    "Helios II Hyperion Energy Investments, S.L."
+  ],
+  "warnings": [
+    "Texto incompleto en algunas secciones"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/2c0bc7d7b67ad1d1.md",
+  "source_extracted_path": ".yeyo-memory/extracted/2c0bc7d7b67ad1d1.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T07:48:57.380070+00:00",
+  "usage": {
+    "input_tokens": 1096,
+    "output_tokens": 953,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 2247
+}

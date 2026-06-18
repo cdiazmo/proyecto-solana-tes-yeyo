@@ -1,0 +1,36 @@
+{
+  "doc_id": "0e4c60b9c1538bcb",
+  "path": "Planos Solana/Tanks/4521-PLN-PRT-39-62-0017.pdf",
+  "title": "4521-PLN-PRT-39-62-0017",
+  "doc_code": "4521-PLN-PRT-39-62-0017",
+  "revision": "",
+  "discipline": "Proceso / mecanica / tuberias",
+  "deliverable_part": "Planos",
+  "summary": "Firma digital de Cliff Knight PE en el documento.",
+  "summary_points": [
+    "Firma digital de Cliff Knight PE en el documento."
+  ],
+  "keywords": [
+    "Cliff Knight PE",
+    "KnightHawk Engineering",
+    "firma digital"
+  ],
+  "references": [],
+  "warnings": [
+    "Fecha y hora con formato no estándar"
+  ],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/0e4c60b9c1538bcb.md",
+  "source_extracted_path": ".yeyo-memory/extracted/0e4c60b9c1538bcb.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:37:55.541781+00:00",
+  "usage": {
+    "input_tokens": 469,
+    "output_tokens": 137,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 178
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "937cc87317dfb0d3",
+  "path": "Helios Sole/Helios I/5.10 AT/5.10.2 SE Colectora/5.10.2.9 APM.pdf",
+  "title": "5.10.2.9 APM",
+  "doc_code": "",
+  "revision": "",
+  "discipline": "Permisos / legalizacion",
+  "deliverable_part": "Documentacion auxiliar",
+  "summary": "Resolución de la Junta de Comunidades de Castilla-La Mancha autorizando la puesta en marcha de una subestación colectora para evacuar energía eléctrica de centrales solares termoeléctricas Helios 1 y Helios II.",
+  "summary_points": [
+    "Resolución de la Junta de Comunidades de Castilla-La Mancha autorizando la puesta en marcha de una subestación colectora para evacuar energía eléctrica de centrales solares termoeléctricas Helios 1 y Helios II."
+  ],
+  "keywords": [
+    "Resolución",
+    "Subestación colectora",
+    "Helios 1",
+    "Helios II",
+    "Centrales solares",
+    "Evacuación energética",
+    "Autorización",
+    "Consejera de Fomento"
+  ],
+  "references": [
+    "BA03151/10 - 13/10/2010",
+    "007078 - 18/12/2011"
+  ],
+  "warnings": [],
+  "markdown_path": ".yeyo-memory/local-ai/markdown/937cc87317dfb0d3.md",
+  "source_extracted_path": ".yeyo-memory/extracted/937cc87317dfb0d3.txt",
+  "model": "claude-local-coder7b",
+  "generated_at": "2026-06-18T08:15:35.835794+00:00",
+  "usage": {
+    "input_tokens": 2108,
+    "output_tokens": 931,
+    "calls": 1
+  },
+  "repaired_calls": 0,
+  "chunk_count": 1,
+  "completed_chunks": 1,
+  "completed": true,
+  "text_chars": 4065
+}
